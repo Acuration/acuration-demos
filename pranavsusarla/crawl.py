@@ -28,10 +28,17 @@ def crawl_url(url, folder_path):
 
     #checking if html files with this filename exist
     if exists(html_filename): 
+        print('HTML file already exists')
         return
     
     #checking if text files with this filename exist
     if exists(clean_html_text_filename):
+        print('Text file already exists')
+        return
+    
+    #skipping pdf files for now
+    if url[-4:] == '.pdf':
+        print("It's a pdf url")
         return
 
     #trying to fetch the url using requests
