@@ -15,14 +15,31 @@ sitemap_path='resgroup__sitemap.xml'
 
 from bs4 import BeautifulSoup
 import re
+# def clean_html_and_extract_text(html_text):
+#     # Parse the HTML using BeautifulSoup
+#     soup = BeautifulSoup(html_text, 'lxml')
+#     # Extract text content
+#     text_content = soup.get_text(separator=' ')
+#     # Remove special characters and extra whitespaces
+#     cleaned_text = re.sub(r'\s+', ' ', text_content).strip()
+#     return cleaned_text
 def clean_html_and_extract_text(html_text):
-    # Parse the HTML using BeautifulSoup
-    soup = BeautifulSoup(html_text, 'lxml')
-    # Extract text content
-    text_content = soup.get_text(separator=' ')
-    # Remove special characters and extra whitespaces
-    cleaned_text = re.sub(r'\s+', ' ', text_content).strip()
-    return cleaned_text
+    try:
+        soup = BeautifulSoup(html_text, 'html.parser')
+        text_content = soup.get_text(separator=' ', strip=True)
+        # # Replace multiple spaces with a single space
+        # cleaned_text = re.sub(r'\s+', ' ', text_content) 
+        # # Remove non-alphanumeric characters
+        # cleaned_text = re.sub(r'[^\w\s]', '', cleaned_text) 
+        # # Normalize the text (convert to lowercase)
+        # cleaned_text = cleaned_text.lower()
+        # return cleaned_text
+        result = text_content.split('\n')
+        result = [x for x in result if x != '']
+        return "\n".join(result)
+    except Exception as e:
+        print(f"Failed with parser. Error: {e}")
+        return None
 html_text = """
 # <html>
 #   <body>
@@ -31,7 +48,7 @@ html_text = """
 #   </body>
 # </html>
 """
-clean_html_and_extract_text(html_text)
+# print(clean_html_and_extract_text(html_text))
 import requests
 import os
 from urllib.parse import urlparse
@@ -42,7 +59,9 @@ def fetch_html_content(url):
     # Use the requests library to fetch the HTML content from the URL
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
-        return response.text
+        soup = BeautifulSoup(response.text, 'html.parser')
+        text = soup.get_text(separator='\n')  # Separate text with newlines
+        return text
     else:
         # Handle the case when the request was not successful
         print(f"Failed to fetch content from {url}. Status code: {response.status_code}")
@@ -68,8 +87,11 @@ def crawl_url(url, folder_path):
         save_to_file(html_content, folder_path, filename + "_html.html")
         save_to_file(extracted_text, folder_path, filename + "_extracted_text.txt")
 def main():
-    sitemap_path='resgroup__sitemap.xml'
+    sitemap_path=r'D:\Varshith\S\Acuration\Task1\acuration-demos\Code\resgroup__sitemap.xml'
     urls = parse_sitemap(sitemap_path)
+    urls=set(urls)
+    urls=list(urls)
+    
     for url in urls:
         folder_to_store="storage"
         crawl_url(url, folder_to_store)
