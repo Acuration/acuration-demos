@@ -4,13 +4,12 @@ import hashlib
 from bs4 import BeautifulSoup
 
 def crawl(url, folder_path, extension):
-    try:
-        response = requests.get(url)
+    #hashing url for filename
+    file_name = folder_path+'\\'+str(hashlib.md5(url.encode()).hexdigest()) + extension
+    if not os.path.exists(file_name):
+        try:
+            response = requests.get(url)
 
-        #hashing url for filename
-        file_name = folder_path+'\\'+str(hashlib.md5(url.encode()).hexdigest()) + extension
-
-        if not os.path.exists(file_name):
             if extension == '.pdf':
                 with open(file_name, 'wb') as f:
                     f.write(response.content)
@@ -39,5 +38,7 @@ def crawl(url, folder_path, extension):
 
                 with open(file_name, 'w', encoding="utf-8") as f:
                     f.write(text)
-    except:
-        print('There is some error')
+        except:
+            print('There is some error')
+    else:
+        print('Already exists')

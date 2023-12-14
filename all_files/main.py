@@ -24,7 +24,12 @@ for url in url_list:
 folder_path_pdf = r'C:\Users\admin\Desktop\VNR\Acuration\acuration-demos-1\all_files\pdf_files'
 folder_path_html = r'C:\Users\admin\Desktop\VNR\Acuration\acuration-demos-1\all_files\html_files'
 
-# crawling html urls
+# # crawling html urls
 for i in range(len(html)):
     crawl(html[i], folder_path_html, '.html')
     print('({}/{}) crawled'.format(i, len(html)))
+
+# # crawling pdf urls and downloading pdfs
+for i in range(len(pdf)):
+    crawl(pdf[i], folder_path_pdf, '.pdf')
+    print('({}/{}) pdfs crawled'.format(i+1, len(pdf)))
