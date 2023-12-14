@@ -1,3 +1,4 @@
+from crawl import crawl
 from parse_xml import parse_sitemap
 
 sitemap_path = r'C:\Users\admin\Desktop\VNR\Acuration\acuration-demos-1\all_files\suzlon_sitemap.xml'
@@ -20,3 +21,5 @@ for url in url_list:
     else:
         html.append(url)
 
+folder_path_pdf = r'C:\Users\admin\Desktop\VNR\Acuration\acuration-demos-1\all_files\pdf_files'
+folder_path_html = r'C:\Users\admin\Desktop\VNR\Acuration\acuration-demos-1\all_files\html_files'
