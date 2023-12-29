@@ -1,0 +1,2183 @@
+ 
+70032642-CTMP-D 
+JULY 2018 
+PUBLIC 
+ 
+Hirwaun Power Ltd 
+HIRWAUN POWER PROJECT 
+Stage 1 Construction Traffic Management Plan 
+(Demolition) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hirwaun Power Ltd 
+HIRWAUN POWER PROJECT 
+Stage 1 Construction Traffic Management Plan (Demolition) 
+ 
+ 
+ 
+ 
+ 
+ 
+TYPE OF DOCUMENT (VERSION) PUBLIC 
+ 
+PROJECT NO. 70032642 
+OUR REF. NO. 70032642-CTMP-D 
+ 
+DATE: JULY 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WSP 
+Amber Court 
+William Armstrong Drive 
+Newcastle upon Tyne 
+NE4 7YQ 
+Phone: +44 191 226 2000 
+Fax: +44 191 226 2104 
+WSP.com 
+ 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+ 
+QUALITY CONTROL 
+Issue/revision 
+First issue 
+Revision 1 
+Revision 2 
+Remarks 
+Draft for Client Approval 
+Final for approval by 
+Local Planning Authority 
+Final for approval by Local 
+Planning Authority 
+Date 
+June 2018 
+July 2018 
+July 2018 
+Prepared by 
+Paul Whitley 
+Paul Whitley 
+Patrick Watchman 
+Signature 
+ 
+ 
+ 
+Checked by 
+Vinny Holden / Paul 
+Whitley / Mikyla Davidson 
+Mikyla Davidson / 
+Emanuele Stella  
+Paul Whitley 
+Signature 
+ 
+ 
+ 
+Authorised by 
+Vinny Holden / Paul 
+Whitley / Mikyla Davidson  
+Vinny Holden  
+Patrick Watchman 
+Signature 
+ 
+ 
+ 
+Project number 
+70032642 
+70032642 
+70032642 
+Report number 
+70032642-CTMP-D 
+70032642-CTMP-D 
+70032642-CTMP-D 
+File reference 
+\\uk.wspgroup.com\central 
+data\Projects\700326xx\70
+032642 - Hirwaun Power 
+Station\03 Discharge of 
+Requirements\CTMP 
+\\uk.wspgroup.com\centr
+al 
+data\Projects\700326xx\
+70032642 - Hirwaun 
+Power Station\03 
+Discharge of 
+Requirements\CTMP\Re
+vision 1 
+\\uk.wspgroup.com\central 
+data\Projects\700326xx\7003
+2642 - Hirwaun Power 
+Station\03 Discharge of 
+Requirements\CTMP\Revisio
+n 2 
+ 
+ 
+Digitally signed by Whitley, Paul
+DN: cn=Whitley, Paul,
+ou=Newcastle (Amber Court),
+email=Paul.Whitley@wsp.com
+Date: 2018.07.19 13:49:05 +01'00'
+Whitley,
+Paul
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+ 
+CONTENTS 
+1 
+INTRODUCTION 
+1 
+1.1 
+PROJECT BACKGROUND 
+1 
+1.2 
+PURPOSE OF THIS DOCUMENT 
+2 
+1.3 
+PROJECT DESCRIPTION 
+3 
+1.4 
+DOCUMENT STRUCTURE 
+4 
+2 
+EXISTING HIGHWAY CONDITIONS 
+5 
+2.1 
+LOCAL HIGHWAY NETWORK 
+5 
+3 
+SITE ACCESS, PARKING, AND LAYDOWN AREAS 
+6 
+3.1 
+SITE ACCESS 
+6 
+3.2 
+VEHICLE ROUTING 
+6 
+3.3 
+STAFF PARKING 
+6 
+3.4 
+LAYDOWN AREAS 
+6 
+3.5 
+SIGNAGE 
+7 
+4 
+DEMOLITION PROGRAMME AND TRIP GENERATION 
+8 
+4.1 
+DEMOLITION PROGRAMME 
+8 
+4.2 
+DEMOLITION WORKING HOURS 
+8 
+4.3 
+TRIP GENERATION - DEMOLITION WORKERS 
+8 
+4.4 
+HGV TRIP GENERATION - DEMOLITION TRAFFIC 
+8 
+4.5 
+DEMOLITION VEHICLES 
+9 
+4.6 
+ROAD CLOSURES 
+9 
+4.7 
+HIGHWAY CONDITION SURVEY OF MAIN AVENUE AND FOURTH AVENUE 
+10 
+4.8 
+SOUTH WALES TRUNK ROAD AGENT (SWTRA) 
+10 
+5 
+SUMMARY 
+12 
+ 
+ 
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+ 
+Hirwaun Power Ltd 
+TABLES 
+Table 1 - HPP Demolition Programme 
+8 
+Table 2 - SWTRA Embargo Periods 
+10 
+Table 3 – SWTRA Traffic Sensitivity (Times of Permitted Closures) 
+10 
+Table 4 – Compliance with Requirement 13(1) in this Stage 1 CTMP 
+12 
+ 
+FIGURES 
+Figure 1 – Site Location Plan (power generation plant) 
+1 
+Figure 2 - Demolition Traffic - HGV Trip Generation (2-way) 
+9 
+ 
+APPENDICES 
+Appendix A  
+Appendix B  
+Appendix C  
+Appendix D  
+Appendix E  
+Appendix F  
+ 
+ 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 1 of 14 
+1 
+INTRODUCTION 
+1.1 
+PROJECT BACKGROUND  
+1.1.1. 
+The Hirwaun Power Project (henceforth referred to as the HPP or the Project) involves the construction and 
+operation of a single gas turbine generator of circa 299 Megawatts electrical (MWe) output and associated gas 
+pipeline on land at Hirwaun Industrial Estate, South Wales.   
+1.1.2. 
+The Project obtained a Development Consent Order (DCO) in 2015 (2015 No. 1574), giving legal consent for 
+the Project to go ahead subject to a number of Requirements being discharged. This DCO was later amended 
+by the Hirwaun Generating Station (Amendment) Order 2016 and the Hirwaun Generating Station 
+(Amendment) Order 2017 to provide for non-material changes to the DCO as made – hereafter referred to as 
+‘the DCO’. The DCO provides for the power generation plant component of the Project, to which this document 
+relates. 
+1.1.3. 
+The gas pipeline component of the Project was subject to full planning permission which was granted by 
+Rhondda Cynon Taf County Borough Council (RCTCBC) in October 2015 (ref: 15/1213/10). This document 
+does not relate to the gas pipeline component of the Project, as this will be dealt with under a separate 
+application.  
+1.1.4. 
+Figure 1 shows the location of the Site within which the power generation plant component of the Project will 
+be located and to which the DCO and this document relates. This area will henceforth be referred to as the 
+Site.  
+Figure 1 – Site Location Plan (power generation plant) 
+ 
+1.1.5. 
+The Project has been the subject of an Environmental Impact Assessment (EIA) and, therefore, has been 
+assessed for significant environmental effects from construction, operation and decommissioning activities 
+through an Environmental Statement (ES). This informed the commitments required as part of the DCO and 
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+Page 2 of 14 
+Hirwaun Power Ltd 
+the planning permission (ref: 15/1213/10) including the requirement to submit and have approved a 
+Construction Traffic Management Plan (CTMP).  
+1.1.6. 
+The CTMP is being prepared in two stages to address demolition and construction aspects of the project 
+separately.  This Stage 1 CTMP considers the demolition stage only (Numbered Work 1 of Schedule 1 of the 
+DCO) and relates only to the power generation plant component of the Project (i.e. that part of the Project 
+authorised by the DCO).  A separate Stage 2 CTMP will be prepared to consider the construction stage of the 
+Project, which will cover both construction of the power generation plant and the gas pipeline.   
+1.2 
+PURPOSE OF THIS DOCUMENT 
+1.2.1. 
+The purpose of this Stage 1 CTMP is to address the demolition requirements attached to the DCO in respect 
+of the power generation plant component of the Project, specifically in relation to Schedule 1 Numbered Work 
+1 and: 
+Schedule 2 Requirement 13 of the DCO 
+13.—(1) No numbered work of the authorised development other than tree felling and the bat 
+mitigation structure forming part of numbered work 2E(g) of the authorised development is to 
+commence until a construction traffic management plan covering that numbered work has 
+been submitted to and approved by the relevant planning authority in consultation with Welsh 
+Government Transport. The construction traffic management plan is to detail the proposals for 
+the movement of construction traffic and abnormal indivisible loads associated with the 
+authorised development and is to include- 
+(a) construction vehicle routing plans at 1:2,500 scale for all traffic including abnormal 
+indivisible loads showing 
+(i) swept path analysis from the point of entry onto the highway network to the 
+Order land; 
+(ii)highway mitigation in respect of any identified constraints on vehicle 
+movements such as embargo periods, route traffic sensitivity, temporary road 
+works and other highway restrictions to be developed following consultation 
+with the South Wales Trunk Road Agent, and, where relevant, referring to 
+supporting HD19/03 safety audit documentation (as contained within the Design 
+Manual for Roads and Bridges Volume 5 Section 2 Part 2 and as amended or 
+replaced); and 
+(iii)land ownership boundaries for any required holding areas, passing areas and 
+layover areas; 
+(b)evidence of appropriate trial runs that demonstrate the suitability of the route from point of 
+entry onto the trunk road network to the Order land for the proposed types of abnormal 
+indivisible loads; 
+(c)site access plans at 1:2,500 scale that include supporting HD19/03 safety audit 
+documentation (as contained within the Design Manual for Roads and Bridges Volume 
+5 Section 2 Part 2 and as amended or replaced); 
+(d)proposals for the management of junctions to and crossings of the public highway during 
+delivery of abnormal indivisible loads; 
+(e)proposals for the scheduling and timing of movements of delivery vehicles, to be developed 
+following consultation with the Welsh Government and potentially affected undertakers, and, 
+in relation to any abnormal indivisible loads, details of vehicle parameters, number of vehicles 
+in convoy size, dimensions (width, length, height) and weight (total vehicle with load and axel 
+loading);  
+(f)details of escorts for abnormal indivisible loads highlighting where and when along the route 
+private vehicles, banksman and Police vehicles escorts will be used (including emergency 
+contingencies); 
+(g)proposals for temporary warning signs and banksman for abnormal indivisible loads, 
+including provision of plan drawings and associated traffic signs schedule highlighting 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 3 of 14 
+locations along the route where temporary traffic management (including cones and 
+temporary signs) needs to be deployed; 
+(h)a methodology for undertaking a conditions survey of Main Avenue, Fourth Avenue 
+and any other land identified during the trial runs that may have a constraining impact 
+on the abnormal indivisible load movements including the timescales for undertaking 
+the surveys and the method(s) of reporting the findings to the relevant planning 
+authority, comprehensive photographs and potential compensation arrangements; 
+(i)details of any temporary or permanent improvements to highways; 
+(j)proposals for the making good of any incidental damage to highways by construction 
+traffic associated with the authorised development including street furniture, 
+structures, drainage features, highway verge and carriageway surfaces; 
+(k)proposals for traffic management controls (such as temporary signals), diversion routes and 
+signage required during any of the activities, operations or works set out in Schedule 4; and  
+(l)proposals for the notification of occupiers of land adjacent to the construction traffic route of 
+the scheduling and timing of abnormal indivisible load movements from the point of exit from 
+the trunk road network to the Order land.  
+ 
+(2) The construction traffic management plan must be implemented as approved. 
+(3) During the operation or decommissioning of numbered work 2 no abnormal indivisible loads must 
+be transported into or out of the Order land without the prior written approval of the relevant planning 
+authority in consultation with Welsh Government Transport. 
+1.2.2. 
+This Stage 1 CTMP supports an application for the partial discharge of DCO Requirement 13 and specifically, 
+includes those items set out in bold above. This is because only the items bolded are of relevance to the 
+demolition phase. Items 13(1)(b), (d), (f), (g) and (l) are not relevant to the Stage 1 CTMP for demolition as no 
+abnormal indivisible vehicles are required as part of the demolition stage. Item 13(1)(a)(iii) is not relevant to 
+this CTMP as no holding areas or passing areas will be required within the highway network for the demolition 
+phase and there is space within the proposed laydown area to hold HGVs within the Site itself if necessary. 
+Item 13(1)(e) relates to scheduling and timing for delivery vehicles, which also is not relevant to the demolition 
+stage and is, therefore, not dealt with in this Stage 1 CTMP. Item 13(1)(k) is not relevant to this Stage 1 CTMP 
+as none of the works set out in Schedule 4 of the DCO will be undertaken during the demolition stage.  
+1.2.3. 
+All of those items in regular text (i.e. not bolded) that are of relevance to the construction stage will be included 
+in the Stage 2 CTMP dealing with the construction stage. The requirements of planning condition 14 (ref: 
+15/1213/10), which relate to the gas connection, will also be dealt with under the Stage 2 CTMP.   
+1.3 
+PROJECT DESCRIPTION 
+1.3.1. 
+The HPP will operate as a Simple Cycle Gas Turbine (SCGT) peaking plant and has been designed to provide 
+an electrical output of up to 299 MWe. The plant will be fuelled by natural gas. The three main elements of the 
+HPP comprise: 
+� A new Power Generation Plant - a SCGT gas fired ‘peaking’ power generating plant, capable of providing 
+up to 299 MWe; 
+� A new underground electrical cable connection (the Electrical Connection) to export electricity from the 
+Power Generation Plant into the National Grid at Rhigos Substation; and 
+� A new underground gas pipeline connection (the Gas Connection) to bring natural gas to the Power 
+Generation Plant from the existing high pressure gas network National Transmission System in the vicinity 
+of the Project site. This element of the Project also includes the above ground installation (AGI) for the gas 
+pipeline at the point of connection to the National Transmission System (NTS), as well as a new permanent 
+access to the AGI. 
+1.3.2. 
+The Power Generation Plant, Gas Connection and Electrical Connection together are referred to as the HPP 
+and are all integral to the generation of electricity and the subsequent export of that electricity to the National 
+Grid. 
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+Page 4 of 14 
+Hirwaun Power Ltd 
+1.3.3. 
+Demolition activities will only be undertaken within the power generation plant component of the project Site, 
+either side of Main Avenue, as shown on Figure 1 above. No demolition activities are required in relation to the 
+gas pipeline component. Appendix A contains the Demolition – Site Laydown and Compound.   
+1.4 
+DOCUMENT STRUCTURE 
+1.4.1. 
+This CTMP is divided into the following sections: 
+� Chapter 2 – Existing Highway Conditions; 
+� Chapter 3 – Site Access, Parking and Laydown Areas; and 
+� Chapter 4 – Demolition Programme and Trip Generation. 
+ 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 5 of 14 
+2 
+EXISTING HIGHWAY CONDITIONS 
+2.1 
+LOCAL HIGHWAY NETWORK 
+2.1.1. 
+The A465 runs north-west to south-east to the north of the Site and is a dual carriageway between the Rhigos 
+Roundabout and Glyneath to the west.  To the east of the Rhigos Roundabout, the A465 is a single three lane 
+carriageway with two lanes in the uphill direction and one in the downhill direction.  The section of the A465 to 
+the east has been identified for upgrade to two lanes in each direction. 
+2.1.2. 
+Rhigos Road is a single carriageway local B road running east to west along the southern edge of the Hirwaun 
+Industrial Estate, and is marked with national speed limit.  It connects the A465 to Cefn Rhigos and Pont 
+Walby. 
+2.1.3. 
+The A4061 is a local road that runs north to meet Rhigos Road at a roundabout junction in the south east 
+corner of Hirwaun Industrial Estate, and then turns east to join the A465.  The road connects Trehebert in the 
+south to Hirwaun town and the Hirwaun Industrial Estate.  The A4061 operates under the national speed limit. 
+2.1.4. 
+Fourth Avenue is a local road that forms a simple T-junction with Main Avenue at the south east corner of the 
+Site.  The road has a 30mph speed limit for the majority of its length.   
+2.1.5. 
+Fifth Avenue forms an arc running north-south from Rhigos Road towards the underpass of the A465 where it 
+then runs parallel with the A465 before it joins with Halt Road at the west of Hirwaun Industrial Estate.  The 
+road has a 30mph speed limit for the majority of its length.  Fifth Avenue has a roundabout junction with Main 
+Avenue. 
+2.1.6. 
+Main Avenue is also a local road within Hirwaun Industrial Estate that runs east west through the centre of 
+Hirwaun Industrial Estate.  The speed limit is 30mph.  At the opposite end to its junction with Fifth Avenue, 
+Main Avenue meets Thirteenth, Fourteenth, and Sixteenth Avenue, all of which are similar standard.  
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+Page 6 of 14 
+Hirwaun Power Ltd 
+3 
+SITE ACCESS, PARKING, AND LAYDOWN AREAS 
+3.1 
+SITE ACCESS  
+3.1.1. 
+The laydown area for demolition activities will be provided in the north-east corner of the Site and will be 
+accessed from an existing gated access on Fourth Avenue. This will be the primary access to the Site for the 
+demolition phase. 
+3.1.2. 
+The Site compound incorporating site office and welfare facilities is expected to be provided in the south west 
+corner of the Site and be accessed from an existing gated access on Main Avenue. This will be the secondary 
+access to the Project Site. Pedestrian access will also be from Main Avenue. In the case that the site office 
+and welfare facilities are provided alongside the laydown area in the north-east corner of the Site, they would 
+also be accessed from the gated access on Fourth Avenue. The CTMP provides for both scenarios.  
+3.1.3. 
+The swept path drawings at Appendix B show the point of entry onto the highway network from the Site (the 
+Order land, as required by Requirement 13(1)(a)(i)), at both the primary access on Fourth Avenue and 
+secondary access on Main Avenue. 
+3.1.4. 
+Vehicular swept path analysis for the low loader vehicle, which may be used to transport plant to site, for 
+egress from the site access on Main Avenue is likely to cause kerb overrun. This is caused due to the 
+positioning of the existing gatehouse. Alternative egress points including the access lane immediately west of 
+the existing gatehouse and the north east corner of site onto Fourth Avenue may be used. It should be noted 
+that any damage of defect caused to existing highway infrastructure is to be made good upon completion of 
+the works.  
+3.2 
+VEHICLE ROUTING 
+3.2.1. 
+The principal route for demolition traffic accessing the Site will be between the A465 and the primary site 
+access at Fourth Avenue.  Demolition traffic (HGVs) will access the Site from the A465 using the A465/Rhigos 
+Roundabout and then via the A4061 Rhigos Road, Fifth Avenue, and Main Avenue. 
+3.2.2. 
+The secondary route for accessing the Site will be from the A4061 Rhigos Road to the south.  Demolition 
+traffic (HGVs) will access the Site from the A4061 using the A4061 Rhigos Road Roundabout and then via 
+Fifth Avenue and Main Avenue. 
+3.2.3. 
+A Construction Vehicle Routing plan and Site Access Plan at 1:2,500 scale for all construction traffic is 
+included at Appendix C and D respectively (as required by Requirement 13(a) and (c)). It should be noted 
+access to the Site by abnormal indivisible modes is not required during the demolition stage and is therefore 
+not considered in this Stage 1 CTMP. 
+3.3 
+STAFF PARKING 
+3.3.1. 
+Staff parking will be provided within the site compound adjacent to the site office or in the laydown area as 
+shown in Appendix A according to the demolition contractor’s requirements. All staff parking during the 
+demolition phase will be contained within the Site. At this stage it is expected that additional staff parking will 
+be provided to the south of Main Avenue during the construction stage of the project, however this will be 
+confirmed in the Stage 2 CTMP. 
+3.4 
+LAYDOWN AREAS 
+3.4.1. 
+As noted above, the laydown area for demolition activities will be provided in the north-east corner of the Site 
+and will be accessed from an existing gated access on Fourth Avenue. The laydown area is expected to be 
+used for: 
+� Plant Storage; 
+� Skip Locations; 
+� Waste Processing; 
+� Waste Storage; 
+� Material Storage; and 
+� Wheel Washing Facilities. 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 7 of 14 
+3.5 
+SIGNAGE  
+3.5.1. 
+Appropriate signage to ensure sufficient guidance for construction traffic will be provided, and to ensure that 
+the traffic accesses the Site efficiently using the Rhigos Road to access the A465 at the Rhigos Roundabout to 
+the east. More specifically, this will guide demolition traffic in and out of the laydown area described above. 
+Signage will also be used as a means of guiding the workers to the designated parking areas. Any signage 
+required for the demolition phase will be developed in consultation with RCTCBC.   
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+Page 8 of 14 
+Hirwaun Power Ltd 
+4 
+DEMOLITION PROGRAMME AND TRIP GENERATION 
+4.1 
+DEMOLITION PROGRAMME 
+4.1.1. 
+The demolition stage of the Project is anticipated to commence in mid-August 2018, subject to the necessary 
+Requirements being discharged, and is programmed for a duration of approximately three months excluding 
+pre-start works. 
+4.1.2. 
+The demolition stage of works will involve the demolition of existing buildings and structures (with the 
+exception of the new bat mitigation structure authorised under Requirement 4(7), including foundations, 
+hardstanding and service areas.  Demolition activities will only be undertaken within the main power 
+generation plant component of the overall Project Site (refer Figure 1), either side of Main Avenue (i.e. no 
+demolition activities are required in relation to the gas pipeline component.) Table 1 contains a summary of the 
+anticipated demolition programme and associated staffing levels on-site. 
+Table 1 - HPP Demolition Programme 
+Demolition Stage 
+Week 
+Max. No. of Staff on site at 
+any one time 
+Pre Start Works (e.g. Pre Start 
+Meeting, RAMS, Contractor 
+Mobilisation etc.) 
+1 - 4 
+12 
+Kick off meeting 
+5 
+36 
+Demolition Works (e.g. Site set up, 
+Utilities Disconnections, Building 
+Strip Out, Building Demolition, 
+Slab Break Out, Earthworks etc.) 
+5 - 16 
+36 
+ 
+4.2 
+DEMOLITION WORKING HOURS 
+4.2.1. 
+In accordance with Requirement 14 of the DCO, no construction work, or the delivery or removal of materials 
+is to take place outside the hours of – (a) 0700 and 1830 hours on weekdays (excl. public holidays); and (b) 
+0700 and 1300 hours on Saturdays and public holidays.  Working hours outside of these periods would be 
+agreed in advance with RCTCBC but are not anticipated at this stage. 
+4.3 
+TRIP GENERATION - DEMOLITION WORKERS 
+4.3.1. 
+‘Insert 13.13 Schedule of Construction Workers’ contained in the ES indicated a peak of 91 construction workers 
+on site during the construction stage, which included the demolition phase.  During the demolition phase of the 
+project, up to 12 staff will be required onsite for the pre-start works (weeks 1-4) and then up to 36 staff during 
+each of the subsequent weeks (weeks 5 – 16). 
+4.3.2. 
+The impacts of construction worker traffic on the transport network for the peak periods of construction related 
+activities have been assessed in the ES and it was considered that even at a peak of 91 construction workers 
+on site, there would be no significant impacts. 
+4.4 
+HGV TRIP GENERATION - DEMOLITION TRAFFIC 
+4.4.1. 
+A profile showing the number of HGVs trips (arrival and departure) over the duration of the demolition phase 
+has been included in Figure 2 below. The daily profile is based on the demolition programme and associated 
+activities provided by the contractor. 
+4.4.2. 
+Throughout the day, it is assumed that HGVs will have a linear profile of arrival and departure during the working 
+day between 07.00 and 18:30. The anticipated average peak number of HGVs per day is up to 64 (or 128 trips) 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 9 of 14 
+during week 13, which equates to 12 HGV trips per hour on average.  The anticipated average number of HGVs 
+throughout the demolition works is 52 trips per day, which equates to five HGV trips per hour. 
+ 
+Figure 2 - Demolition Traffic - HGV Trip Generation (2-way) 
+ 
+4.4.3. 
+Table 13.18 in the ES indicated 70 HGVs per day during quarter one (demolition), which equated to 149 trips 
+per day or 13 trips per hour, which is more than the current estimates for demolition. The impacts of HGV traffic 
+on the transport network for the peak periods of construction related activities have been assessed in the ES 
+and it was considered that there would be no significant impacts of using the access routes described in Section 
+3.2. As the number of HGVs is slightly less than presented in the ES, the impacts of demolition using the more 
+up to date trip generation estimates therefore remain valid. 
+4.5 
+DEMOLITION VEHICLES 
+4.5.1. 
+Vehicles associated with the demolition stage will include but not be limited to mixer trucks, tipper trucks, 
+cranes, articulated wagons, curtain sided wagons, and delivery vans. 
+4.5.2. 
+The project will not require the delivery of AILs during the demolition stage. Further consultation will be 
+undertaken with RCTCBC and SWTRA as part of the preparation of the Stage 2 CTMP for the construction 
+stage. 
+4.6 
+ROAD CLOSURES 
+4.6.1. 
+As part of the demolition activities a road closure will be required to allow the demolition of a bridge between 
+Building 1 and Building 2 as shown on the DCO Approved Works Plans at Appendix E. It is anticipated that Main 
+Avenue will need to be closed between its junction with Fourth Avenue and the access to the site compound to 
+the west for up to two days. 
+4.6.2. 
+It is anticipated that the bridge demolition works will take place during weeks 3-5.  The appointed contractor will 
+liaise with RCTCBC and local businesses to ensure disruption is kept to a minimum and, with this in mind, bridge 
+demolition will take place over a weekend if practicable. There are alternative routes available between Rhigos 
+4
+39
+39
+39
+39
+39
+104
+128
+63
+63
+63
+4
+1
+4
+4
+4
+4
+4
+9
+12
+6
+6
+6
+1
+0
+20
+40
+60
+80
+100
+120
+140
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Demolition Traffic - Total HGV Trip Generation (No.)
+Average HGV (Per Day)
+Average HGV (Per Hour)*
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+Page 10 of 14 
+Hirwaun Power Ltd 
+Road and the businesses to the east and west of the project Site.  Appropriate diversion and road closure 
+signage will be developed in consultation with RCTCBC. 
+4.7 
+HIGHWAY CONDITION SURVEY OF MAIN AVENUE AND FOURTH 
+AVENUE 
+4.7.1. 
+A condition survey of highways immediately surrounding the Site will be carried out prior to demolition 
+commencing. This will include Main Avenue and Fourth Avenue, with the extent to be agreed with the local 
+highway authority. The survey will be a visual inspection, with the purpose being to gather photographic evidence 
+of the condition of these sections of highway prior to demolition commencing and, therefore inform the need for 
+maintenance/repair at the conclusion of works.  
+4.7.2. 
+A letter summarising the findings of the survey, along with the photographs obtained, will be provided to 
+RCTCBC for information within two months of the survey being undertaken. Any road maintenance issues or 
+damage deemed to be attributable to the demolition phase will be rectified, and the road will be returned to its 
+former condition making good of any incidental damage to highways by construction traffic associated with the 
+authorised development including street furniture, structures, drainage features, highway verge and carriageway 
+surfaces.  Appendix E contains the Highway and Drainage Construction Details that will be adhered to, unless 
+otherwise agreed with RCTCBC in writing. 
+4.7.3. 
+No AILs are required for the demolition phase and, therefore, in accordance with Requirement 13(1)(h), it is not 
+proposed to undertake a conditions survey of any other sections of highway at this time. If required, such survey 
+methodology will be provided in the Stage 2 CTMP for the construction phase.  
+4.8 
+SOUTH WALES TRUNK ROAD AGENT (SWTRA) 
+4.8.1. 
+In preparing this CTMP we have had initial consultation with the South Wales Trunk Road Agent (SWTRA) in 
+relation to any constraints on vehicle movements we should be aware of with respect to accessing the site from 
+the A465 Rhigos Roundabout during the three months demolition stage, such as embargo periods, route traffic 
+sensitivity, road works, and any other highway restrictions.    
+4.8.2. 
+Table 2 contains the embargo periods on road works for 2018 (July to November) and Table 3 contains the 
+times of permitted closures, as advised by SWTRA. 
+Table 2 - SWTRA Embargo Periods 
+2018 Holiday Periods 
+Partial Embargo 
+Full Embargo 
+Partial Embargo 
+Summer School 
+Holidays 
+Thu 19 July (12 noon) to  
+Thu 23 Aug (12 noon) 
+Thu 23 Aug (12 noon) 
+To 
+Tue 28 Aug (10 am) 
+Tue 28 Aug (10am) to  
+Mon 3 Sep (10 am) 
+Autumn Half Term 
+Thu 25 Oct (12 noon) to 
+Mon 5 Nov (10 am) 
+N/A 
+N/A 
+Table 3 – SWTRA Traffic Sensitivity (Times of Permitted Closures) 
+SECTION 
+OF 
+HIGHWAY 
+ 
+SINGLE LANE CLOSURE 
+MULTIPLE LANES / FULL CLOSURE 
+Mon - 
+Thu 
+Fri 
+Sat 
+Sun 
+Mon - 
+Thu 
+Fri 
+Sat 
+Sun 
+Rhigos 
+Roundabout 
+to 
+Glynneath 
+WB 
+No Restrictions 
+No 
+Restrictions 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 11 of 14 
+SECTION 
+OF 
+HIGHWAY 
+ 
+SINGLE LANE CLOSURE 
+MULTIPLE LANES / FULL CLOSURE 
+Mon - 
+Thu 
+Fri 
+Sat 
+Sun 
+Mon - 
+Thu 
+Fri 
+Sat 
+Sun 
+EB 
+No Restrictions 
+No 
+Restrictions 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+Hirwaun 
+Roundabout 
+to Rhigos 
+Roundabout 
+WB 
+0000 to 
+0700 
+0900 to 
+1600 
+1900 to 
+0000 
+0000 to 
+0700 
+0900 to 
+1600 
+1900 to 
+0000 
+No 
+Restrictions 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+EB 
+0000 to 
+0700 
+0900 to 
+1600 
+1900 to 
+0000 
+0000 to 
+0700 
+0900 to 
+1600 
+1900 to 
+0000 
+No 
+Restrictions 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+0000 to 
+0600 
+2000 to 
+0000 
+ 
+4.8.3. 
+SWTRA also advised that routine and cyclic maintenance, as well as emergency works, are carried out on an 
+as and when basis. 
+4.8.4. 
+It is considered that the embargo and traffic sensitivity information will not constrain the works during the 
+demolition stage of the project given the works programme, but the appointed contractor will maintain contact 
+with SWTRA throughout the demolition programme. SWTRA will also be consulted again in the preparation of 
+the Stage 2 CTMP for the construction phase.  
+ 
+WSP 
+HIRWAUN POWER PROJECT 
+July 2018 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+Page 12 of 14 
+Hirwaun Power Ltd 
+5 
+SUMMARY 
+5.1.1. 
+Table 4 presents the list of items requiring approval from RCTCBC under Schedule 2 Requirement 13 of the 
+DCO. It seeks to set out where this Stage 1 CTMP has addressed each of them were relevant, for ease of 
+reference and to demonstrate compliance.  
+5.1.2. 
+As the demolition phase relates to the DCO only, all of the components of Condition 14 of the HPP Planning 
+Permission (Ref: 15/1213/10), relating to the construction of the gas pipeline, will be addressed in the Stage 2 
+CTMP. 
+Table 4 – Compliance with Requirement 13(1) in this Stage 1 CTMP 
+Requirement 13(1) 
+Addressed in Stage 1 
+CTMP 
+(1) No numbered work of the authorised development other than tree felling and 
+the bat mitigation structure forming part of numbered work 2E(g) of the authorised 
+development is to commence until a construction traffic management plan 
+covering that numbered work has been submitted to and approved by the relevant 
+planning authority in consultation with Welsh Government Transport. The 
+construction traffic management plan is to detail the proposals for the movement of 
+construction traffic and abnormal indivisible loads associated with the authorised 
+development and is to include- 
+- 
+(a) construction vehicle routing plans at 1:2,500 scale for all traffic including 
+abnormal indivisible loads showing 
+Section 3.2 and 
+Appendix C 
+(i) swept path analysis from the point of entry onto the highway network to 
+the Order land; 
+Section 3.1 and 
+Appendix B 
+(ii)highway mitigation in respect of any identified constraints on vehicle 
+movements such as embargo periods, route traffic sensitivity, temporary 
+road works and other highway restrictions to be developed following 
+consultation with the South Wales Trunk Road Agent, and, where relevant, 
+referring to supporting HD19/03 safety audit documentation (as contained 
+within the Design Manual for Roads and Bridges Volume 5 Section 2 Part 
+2 and as amended or replaced); and 
+Section 4.8 
+(iii)land ownership boundaries for any required holding areas, passing 
+areas and layover areas; 
+No holding areas or 
+passing areas will be 
+required within the 
+highway network for 
+the demolition phase. 
+There is space within 
+the proposed laydown 
+area to hold HGVs 
+within the Site itself if 
+necessary. 
+(b)evidence of appropriate trial runs that demonstrate the suitability of the route 
+from point of entry onto the trunk road network to the Order land for the proposed 
+types of abnormal indivisible loads; 
+Not required at this 
+stage as no AILs are 
+required for the 
+demolition phase 
+(c)site access plans at 1:2,500 scale that include supporting HD19/03 safety audit 
+documentation (as contained within the Design Manual for Roads and Bridges 
+Volume 5 Section 2 Part 2 and as amended or replaced); 
+Section 3.2 and 
+Appendix D 
+(d)proposals for the management of junctions to and crossings of the public 
+highway during delivery of abnormal indivisible loads; 
+Not required at this 
+stage as no AILs are 
+ 
+HIRWAUN POWER PROJECT 
+WSP 
+Project No.: 70032642 | Our Ref No.: 70032642-CTMP-D 
+July 2018 
+Hirwaun Power Ltd 
+Page 13 of 14 
+required for the 
+demolition phase 
+(e)proposals for the scheduling and timing of movements of delivery vehicles, to 
+be developed following consultation with the Welsh Government and potentially 
+affected undertakers, and, in relation to any abnormal indivisible loads, details of 
+vehicle parameters, number of vehicles in convoy size, dimensions (width, length, 
+height) and weight (total vehicle with load and axel loading);  
+The scheduling and 
+timing of movements 
+of “delivery vehicles” 
+is relevant to the 
+construction phase 
+and will be detailed 
+within the Stage 2 
+CTMP. However, 
+timing of movements 
+is generally covered 
+within Chapter 4 as 
+appropriate to the 
+demolition phase.  
+No information 
+required in relation to 
+AILs at this stage 
+(f)details of escorts for abnormal indivisible loads highlighting where and when 
+along the route private vehicles, banksman and Police vehicles escorts will be 
+used (including emergency contingencies); 
+Not required at this 
+stage as no AILs are 
+required for the 
+demolition phase 
+(g)proposals for temporary warning signs and banksman for abnormal indivisible 
+loads, including provision of plan drawings and associated traffic signs schedule 
+highlighting locations along the route where temporary traffic management 
+(including cones and temporary signs) needs to be deployed; 
+Not required at this 
+stage as no AILs are 
+required for the 
+demolition phase 
+(h)a methodology for undertaking a conditions survey of Main Avenue, Fourth 
+Avenue and any other land identified during the trial runs that may have a 
+constraining impact on the abnormal indivisible load movements including the 
+timescales for undertaking the surveys and the method(s) of reporting the findings 
+to the relevant planning authority, comprehensive photographs and potential 
+compensation arrangements; 
+Section 4.7 
+No information 
+required in relation to 
+AILs at this stage 
+(i)details of any temporary or permanent improvements to highways 
+None required 
+(j)proposals for the making good of any incidental damage to highways by 
+construction traffic associated with the authorised development including street 
+furniture, structures, drainage features, highway verge and carriageway surfaces; 
+Section 4.7 and 
+Appendix E 
+(k) proposals for traffic management controls (such as temporary signals), 
+diversion routes and signage required during any of the activities, operations or 
+works set out in Schedule 4; and 
+Not required at this 
+stage as no works set 
+out in Schedule 4 are 
+proposed to be 
+undertaken in relation 
+to demolition 
+(l) proposals for the notification of occupiers of land adjacent to the construction 
+traffic route of the scheduling and timing of abnormal indivisible load movements 
+from the point of exit from the trunk road network to the Order land. 
+Not required at this 
+stage as no AILs are 
+required for the 
+demolition phase 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A 
+DEMOLITION – SITE COMPOUND 
+AND LAYDOWN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B 
+VEHICULAR SWEPT PATH ANALYSIS 
+ 
+PWW
+NM
+S2 - FOR INFORMATION
+c WSP UK Ltd
+PWW
+NM
+S2 - FOR INFORMATION
+WSP UK Ltd
+c
+PWW
+NM
+PWW
+NM
+S2 - FOR INFORMATION
+c WSP UK Ltd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix C 
+CONSTRUCTION VEHICLE ROUTING 
+PLAN 
+ 
+PWW
+NM
+S2 - FOR INFORMATION
+c WSP UK Ltd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix D 
+SITE ACCESS PLAN 
+ 
+PWW
+NM
+S2 - FOR INFORMATION
+c WSP UK Ltd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix E 
+HIGHWAY AND DRAINAGE 
+CONSTRUCTION DETAILS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amber Court 
+William Armstrong Drive 
+Newcastle upon Tyne 
+NE4 7YQ 
+ 
+wsp.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix F 
+DCO APPROVED WORKS PLAN 
+ 
+1
+1
+2
+2
+Issues
+Issues
+Track
+ETL
+ETL
+Track
+Bryn-y-Gaer Cemet
+Hirwaun Ponds
+Bryn-y-Gaer Cemet
+Hirwaun Ponds
+Track
+(disused)
+Water
+Tip
+Track
+Track
+(disused)
+Water
+Tip
+Track
+CR
+CR
+Mineral Railway
+Mineral Railway
+(disused)
+Drain
+Pond
+Issues
+Tip
+Water
+Drain
+A 465
+Pond
+A 465
+Water
+Track
+(disused)
+Tip
+(disused)
+Tip
+Issues
+Track
+(disused)
+Drain
+Tip
+Drain
+ED Bdy
+ED Bdy
+208.3m
+208.3m
+Conveyor
+44
+44
+Conveyor
+Water
+Pond
+CR
+Water
+Pond
+CR
+Track
+Track
+ED Bdy
+Track
+Track
+ED Bdy
+1
+13
+14
+14
+13
+12
+11
+12
+11
+Nant Llechau
+SEVENTEENTH AVENUE
+HALT ROAD
+1
+Drain
+Drain
+207.0m
+Nant Llechau
+ETL
+CR
+Nant Llechau
+ETL
+CR
+19
+19
+El Sub Sta
+A 465
+FIFTH AVENUE
+El Sub Sta
+FIFTH AVENUE
+A 465
+Industrial Estate
+Lay-By
+Hirwaun
+Und
+Hirwaun
+Lay-By
+Industrial Estate
+Und
+15
+15
+Ystad Ddiwydiannol Hirwaun
+Ystad Ddiwydiannol Hirwaun
+Ystad Ddiwydiannol Hirwaun
+Hirwaun Industrial Estate
+Hirwaun Industrial Estate
+Issues
+Issues
+Issues
+FOURTEENTH AVENUE
+34
+206.0m
+El Sub Sta
+33
+30
+39
+H
+SIXTEENTH AVENUE
+Hirwaun
+Estate
+Industrial
+Ystad Ddiwydiannol Hirwaun
+40
+40
+41
+42
+El Sub Sta
+45
+40
+41
+42
+El Sub Sta
+45
+Cartref
+Cartref
+Willows Farm
+Willows Farm
+46
+Tk
+47
+46
+Tk
+47
+FIFTH AVENUE
+MAIN AVENUE
+217.0m
+217.0m
+Ystad Ddiwydiannol Hirwaun
+Ystad Ddiwydiannol Hirwaun
+Industrial
+Hirwaun
+Maesglas
+Estate
+Maesglas
+Industrial
+Hirwaun
+Estate
+Lay-by
+Lay-by
+Unit B
+48
+El
+Sub Sta
+49
+El
+Sub Sta
+FOURTH AVENUE
+FOURTH AVENUE
+Building 4
+Building 1
+El Sub 
+Sta
+Building 6
+Tanks
+Tanks
+MAIN AVENUE
+Twyn Bryn-hir
+El Sub Sta
+Building 3
+Twyn Bryn-hir
+Twyn Bryn-hir
+El Sub Sta
+Unit D
+FOURTEENTH AVENUE
+29
+20
+El
+SIXTEENTH AVENUE
+THIRTEENTH AVENUE
+Sta
+Shelter
+Sub
+25
+7
+El Sub Sta
+216.1m
+9
+Unit E
+26
+20
+20
+MAIN AVENUE
+Clydfan
+Hughes's Patch
+Brynteg
+Shelter
+K
+Cattle Grid
+Cattle Grid
+216.9m
+216.9m
+Track
+Track
+Building 2
+Pond
+Water
+Beacons
+View
+Drain
+217.6m
+Water
+Pond
+Drain
+View
+Beacons
+RHIGOS ROAD
+217.6m
+RHIGOS ROAD
+Pont yr Ochain
+Pont yr Ochain
+TCB
+TCB
+Water
+Drain
+Drain
+Drain
+Drain
+Water
+The Fairways
+Bryn-Hir
+Bryn-Hir
+212.4m
+212.4m
+Drain
+Drain
+ETL
+Drain
+ETL
+Drain
+Drain
+RHIGOS ROAD
+Cynlas
+RHIGOS ROAD
+Cynlas
+Drain
+Cynlas
+RHIGOS ROAD
+Drain
+ETL
+Pond
+Track
+Drain
+Cattle
+Pond
+(disused)
+Tip
+Grid
+219.5m
+219.5m
+219.5m
+Grid
+Cattle
+Cattle
+Grid
+Pond
+Pond
+Drain
+Drain
+ED Bdy
+ED Bdy
+Water
+Water
+Water
+Water
+Water
+Water
+CR
+CR
+212.8m
+212.8m
+Drain
+Drain
+Drain
+Drain
+Water
+Farm
+Water
+Water
+Water
+Farm
+Sub Sta
+El
+El Sub Sta
+El Sub Sta
+A 4061
+A 4061
+214.3m
+214.3m
+SD
+Drain
+Drain
+218.1m
+Drain
+Water
+218.1m
+Drain
+Water
+Drain
+Tanks
+Tanks
+Collects
+Collects
+Issues
+Spreads
+Spreads
+Issues
+RHIGOS ROAD
+RHIGOS ROAD
+Drain
+ETL
+ETL
+Drain
+Drain
+FB
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Drain
+Ford
+Dismantled Tramway
+Ford
+Dismantled Tramway
+SD
+SD
+Drain
+Drain
+Water
+Drain
+Drain
+Drain
+Drain
+Water
+Drain
+Drain
+Cattle Grid
+Cattle Grid
+Ford
+Drain
+Drain
+Drain
+Drain
+228.5m
+Drain
+228.5m
+Drain
+Ford
+ETL
+ETL
+SD
+Issues
+Drain
+Track
+Ford
+Sinks
+Issues
+Drain
+Track
+Sinks
+Ford
+Track
+ETL
+ETL
+Track
+Ford
+Drain
+Conveyor
+Conveyor
+Drain
+Drift
+Ford
+Track
+Track
+Ford
+Drift
+Nant y Cnapiau
+Nant y Cnapiau
+Drain
+Ford
+Pond
+Sinks
+Sinks
+Issues
+Issues
+Ford
+(disused)
+Dismantled Tramway
+Ford
+(disused)
+Dismantled Tramway
+Drain
+Pond
+Track
+Pond
+Pond
+Track
+Track
+Track
+Track
+Pond
+Drain
+Track
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+(disused)
+(disused)
+(disused)
+(disused)
+Slag Heap
+Drain
+Slag Heap
+Track
+245.7m
+Drain
+Slag Heap
+Drain
+245.7m
+Track
+Slag Heap
+Drain
+Drain
+Drain
+Issues
+Drain
+254.6m
+Drain
+Issues
+Issues
+Drain
+Drain
+254.6m
+Drain
+Drain
+293000
+293250
+293500
+293750
+294000
+294250
+293000
+293250
+293500
+293750
+294000
+294250
+205250
+205500
+205750
+206000
+206250
+206500
+205250
+205500
+205750
+206000
+206250
+206500
+Work
+No.
+Brief Description (see Schedule 1 to the 
+Development Consent Order)
+v4
+Order Land (see Land Plans, document reference 2.2)
+Revision:
+LBA
+Notes:
+Power Generation Plant (divided up into Work Numbers  2A, 2B, 2C, 2D,
+2E, 2F and 2G on Works Plan Figure 2) (Maximum Limits of Deviation)
+PKI
+Hirwaun Power Limited
+33 Cavendish Square
+London
+W1G 0PW
+w: www.hirwaunpower.co.uk
+Terraquest Solutions Limited
+Floors 7 & 8
+Quayside Tower
+252 - 260 Broad Street
+Birmingham
+B1 2HF
+w: www.terraquest.co.uk
+e: info@terraquest.co.uk
+DCO
+Hirwaun Power Limited - Works Plan (Figure 1)
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) 
+Regulations 2009
+Regulation r5(2)(j)                                                   Document Reference: 2.3
+July 2016
+HPL Works Plan Figure 1 of 2
+Reproduced from Ordnance Survey digital map data © Crown copyright 2014.
+All rights reserved. Licence number 0100031673
+Created By:
+Drawn By:
+1:2500 @ A1
+1
+Scale:
+Approved By:
+Date:
+Title:
+Legend:
+Order Limits
+Checked By:
+2
+Demolition Works
+Created For:
+Drawing No:
+25
+0
+25
+50
+75
+100
+125
+150
+175
+200
+Metres
+2B
+2A
+2D
+2E
+2C
+2F
+2F
+2F
+2F
+2G
+Nant Llechau
+Drain
+Drain
+Nant Llechau
+ETL
+Nant Llechau
+ETL
+19
+19
+El Sub Sta
+A 465
+FIFTH AVENUE
+El Sub Sta
+FIFTH AVENUE
+A 465
+Industrial Estate
+Lay-By
+Hirwaun
+Und
+Hirwaun
+Lay-By
+Industrial Estate
+Und
+15
+15
+Ystad Ddiwydiannol Hirwaun
+Ystad Ddiwydiannol Hirwaun
+Ystad Ddiwydiannol Hirwaun
+Hirwaun Industrial Estate
+Hirwaun Industrial Estate
+Issues
+Issues
+Issues
+FOURTEENTH AVENUE
+39
+Tk
+Tk
+MAIN AVENUE
+217.0m
+217.0m
+Ystad Ddiwydiannol Hirwaun
+Ystad Ddiwydiannol Hirwaun
+Industrial
+Hirwaun
+Maesglas
+Farm
+Estate
+Maesglas
+Industrial
+Hirwaun
+Estate
+Farm
+Lay-by
+Lay-by
+Unit B
+48
+El
+Sub Sta
+49
+El
+Sub Sta
+FOURTH AVENUE
+FOURTH AVENUE
+Building 4
+Building 1
+El Sub 
+Sta
+Building 6
+Tanks
+Tanks
+MAIN AVENUE
+Twyn Bryn-hir
+El Sub Sta
+Building 3
+Twyn Bryn-hir
+Twyn Bryn-hir
+El Sub Sta
+Unit D
+FOURTEENTH AVENUE
+20
+El
+SIXTEENTH AVENUE
+THIRTEENTH AVENUE
+Sta
+Sub
+25
+Unit E
+20
+20
+MAIN AVENUE
+Cattle Grid
+Cattle Grid
+216.9m
+216.9m
+Track
+Track
+61
+61
+Building 2
+Pond
+Water
+Beacons
+View
+Drain
+217.6m
+Water
+Pond
+Drain
+View
+Beacons
+RHIGOS ROAD
+217.6m
+RHIGOS ROAD
+Pont yr Ochain
+Pont yr Ochain
+TCB
+TCB
+Water
+Drain
+Drain
+Drain
+Drain
+Water
+The Fairways
+Bryn-Hir
+Bryn-Hir
+212.4m
+212.4m
+Drain
+Drain
+ETL
+Drain
+ETL
+Drain
+Drain
+RHIGOS ROAD
+Cynlas
+RHIGOS ROAD
+Cynlas
+Drain
+Cynlas
+RHIGOS ROAD
+Drain
+Pond
+Drain
+Cattle
+Grid
+219.5m
+219.5m
+219.5m
+Grid
+Cattle
+Cattle
+Grid
+Pond
+Pond
+Drain
+Drain
+293250
+293500
+293750
+293250
+293500
+293750
+206000
+206250
+206500
+206000
+206250
+206500
+20
+Metres
+100
+10
+0
+10
+30
+40
+50
+60
+70
+80
+90
+Work
+No.
+Brief Description (see Schedule 1 to the 
+Development Consent Order)
+Approved By:
+Title:
+Checked By:
+Drawn By:
+Created For:
+Created By:
+Scale:
+Date:
+Legend:
+Order Limits
+Drawing No:
+Reproduced from Ordnance Survey digital map data © Crown copyright 2014.
+All rights reserved. Licence number 0100031673
+PKI
+LBA
+DCO
+2F
+2E
+2D
+1:1250 @ A1
+2C
+2B
+2A
+Power Generation Plant (Maximum Limits of Deviation)
+Power Generation Plant (Maximum Limits of Deviation)
+Notes:
+2G
+Revision:
+July 2016
+Hirwaun Power Limited
+33 Cavendish Square
+London
+W1G 0PW
+w: www.hirwaunpower.co.uk
+v4
+Terraquest Solutions Limited
+Floors 7 & 8
+Quayside Tower
+252 - 260 Broad Street
+Birmingham
+B1 2HF
+w: www.terraquest.co.uk
+e: info@terraquest.co.uk
+Power Generation Plant (Maximum Limits of Deviation)
+Power Generation Plant (Maximum Limits of Deviation)
+Power Generation Plant (Maximum Limits of Deviation)
+HPL Works Plan Figure 2 of 2
+Power Generation Plant (Maximum Limits of Deviation)
+Order Land (see Land Plans, document reference 2.2)
+Power Generation Plant (Maximum Limits of Deviation)
+Hirwaun Power Limited - Works Plan (Figure 2)
+Showing Work Numbers 2A, 2B, 2C, 2D, 2E, 2F, and 2G
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) 
+Regulations 2009
+Regulation r5(2)(j)                                                   Document Reference: 2.3
+ 
+ 
+ 
+ 
+ 
+ 
+Amber Court 
+William Armstrong Drive 
+Newcastle upon Tyne 
+NE4 7YQ 
+ 
+wsp.com 

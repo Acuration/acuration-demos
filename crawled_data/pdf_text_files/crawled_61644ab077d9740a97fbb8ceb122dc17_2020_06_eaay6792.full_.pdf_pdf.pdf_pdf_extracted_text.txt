@@ -1,0 +1,1162 @@
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+1 of 13
+BIOENERGY
+Forests: Carbon sequestration, biomass energy,  
+or both?
+Alice Favero1, Adam Daigneault2*, Brent Sohngen3
+There is a continuing debate over the role that woody bioenergy plays in climate mitigation. This paper clarifies 
+this controversy and illustrates the impacts of woody biomass demand on forest harvests, prices, timber management 
+investments and intensity, forest area, and the resulting carbon balance under different climate mitigation policies. 
+Increased bioenergy demand increases forest carbon stocks thanks to afforestation activities and more intensive 
+management relative to a no-bioenergy case. Some natural forests, however, are converted to more intensive 
+management, with potential biodiversity losses. Incentivizing both wood-based bioenergy and forest sequestration 
+could increase carbon sequestration and conserve natural forests simultaneously. We conclude that the expanded 
+use of wood for bioenergy will result in net carbon benefits, but an efficient policy also needs to regulate forest 
+carbon sequestration.
+INTRODUCTION
+A long literature establishes that forests are an efficient carbon sink 
+through actions such as afforestation, forest management, and reduced 
+deforestation (1–5). In recent years, forest-based actions have gained 
+additional policy relevance as many countries have included forest 
+sequestration activities in their nationally determined contributions 
+toward reducing net carbon emissions as part of the Paris Agree-
+ment (6, 7). At the same time, there have been increasing efforts in 
+the United States and Europe to use wood as a source of biomass 
+energy, under the assumption that wood-based energy is “carbon 
+neutral” (8, 9). Last, most pathways that aim to restrict global average 
+temperature to 1.5°C by 2100 rely on large-scale deployment of 
+afforestation actions and biomass used in power plants with carbon 
+capture and storage (BECCS) (10).
+The role that forests should play in mitigating climate change is 
+still widely debated. Some researchers have argued that forest-based 
+biomass energy is not carbon neutral (11–13) and, thus, that forest- 
+based bioenergy should not be allowed to offset other energy sources 
+under renewable energy standards. These assessments have suggested 
+that when forest biomass energy is generated, it creates a carbon 
+emission to the atmosphere that may, or may not, be taken back up 
+by trees that grow in the future. Even if regrowth does occur, it occurs 
+slowly over time, increasing global climate damages during the 
+period when the released carbon is in the atmosphere. Given these 
+concerns, some have argued that society should focus on enhancing 
+carbon sinks rather than encouraging biomass energy (11, 13–15). 
+Assessing whether forest biomass energy is carbon neutral is complex 
+and sensitive to assumptions about the spatial and temporal scale of the 
+analysis, feedstocks used, and supply chain emissions. Buchholz et al.’s 
+(16) meta-analysis found that the payback period (i.e., the time re-
+quired by the forest to recover through sequestration the carbon 
+dioxide from biomass combusted for energy) ranged from zero to 
+more than 1000 years. Birdsey et al. (17) conclude that increasing 
+bioenergy production and pellet exports often increases net emis-
+sions of greenhouse gases (GHGs) for decades or longer, depending 
+on source of feedstock and its alternate fate, time horizon of analysis, 
+energy emissions associated with the supply chain and fuel substitution, 
+and impacts on carbon cycling of forest ecosystems. The studies 
+examined in these two reviews, however, ignore economic analysis 
+that accounts for the interactions between demand and supply and 
+forest management (18–23). These interactions include assessment 
+of the opportunity costs of intensified harvesting and management, 
+as well as expansion of intensive timber harvesting activities into 
+extensive (e.g., unmanaged) regions.
+This paper examines key issues related to the consequences of 
+bioenergy policies on forests and carbon emissions, namely, manage-
+ment response, the efficiency of the policy, and the impacts of 
+increasing biomass demand on forest ecosystem services. To analyze 
+these issues, we use a dynamic global forest model that accounts for 
+the biological and economic responses to various policy incentives 
+on forest management and carbon fluxes in all regions of the world 
+(22, 23). Such integrated assessment modeling of the forest sector 
+provides important insights into the temporal and spatial scale of 
+forest management efforts that must be undertaken to increase wood 
+flow in the face of large, new biomass energy demands, as well as their 
+interactions with carbon policies. The analysis clarifies how various 
+policy incentives for biomass energy and carbon sequestration in-
+fluence the net exchange of carbon between the atmosphere and forested 
+ecosystems. Last, a sensitivity analysis tests the results under different 
+assumptions on land constraints and economic parameters.
+RESULTS
+The debate behind woody biomass for energy
+Three critical issues have arisen in the literature related to the use of 
+woody biomass for energy. First, the impact of biomass energy policies 
+on carbon depends on the supply response, which include investments 
+in new forests, increased management of existing forests, harvests 
+of inaccessible and unmanaged forests in the extensive margin, con-
+version of those forests to more intensive uses, and substitution across 
+product uses. Studies that assume there is little to no management 
+response, or consider only use of the extensive margin, predict that 
+bioenergy demand will increase carbon emissions (16, 17). Studies 
+that allow efficient investments in forestry management find that 
+bioenergy policies lead to a net increase in forest sequestration (18–22). 
+A key determinant rests on the response of land use and management 
+1Georgia Institute of Technology, Atlanta, GA, USA. 2University of Maine, Orono, ME, 
+USA. 3Ohio State University, Columbus, OH, USA.
+*Corresponding author. Email: adam.daigneault@maine.edu
+Copyright © 2020 
+The Authors, some 
+rights reserved; 
+exclusive licensee 
+American Association 
+for the Advancement 
+of Science. No claim to 
+original U.S. Government 
+Works. Distributed 
+under a Creative 
+Commons Attribution 
+NonCommercial 
+License 4.0 (CC BY-NC).
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+2 of 13
+to the price changes induced by bioenergy policy. If models include 
+management responses, higher prices invariably encourage more 
+management and forest area, and thus, biomass energy policies reduce 
+net emissions over time. Alternatively, if forest land area and forest 
+management do not change or decline with biomass energy policies, 
+and there is additional harvesting of unmanaged stocks, then the 
+policies typically result in net emissions. It is, thus, important to 
+isolate the role of management on forest carbon stocks.
+Second, studies suggesting that biomass energy should be taxed 
+have ignored the literature showing the efficient economic treatment 
+of carbon fluxes between the atmosphere and forests in the broader 
+carbon cycle (4). From the perspective of the atmosphere, a ton of 
+CO2 in forests is a ton not in the atmosphere, suggesting that the 
+social cost of carbon can be used to value carbon exchanges, or fluxes, 
+between the atmosphere and ecosystems (24). Two equally efficient 
+schemes have been proposed in the literature to credit carbon fluxes 
+between the atmosphere and forests: a carbon rental approach (4) 
+and a carbon tax and subsidy approach (25). Under both approaches, 
+the efficient climate policy counts emissions when forests are used 
+for energy or wood products as an increase in atmospheric carbon, 
+but they also count sequestration that occurs when forests grow. 
+Bioenergy emissions can be taxed like other GHGs under an effi-
+cient approach to credit carbon fluxes, but only if the benefits of 
+storing carbon in forested ecosystem are also recognized and sub-
+sidized (25). That is, a policy that taxes forest-based bioenergy with-
+out recognizing that forests also sequester carbon through growth 
+[the Schlesinger proposition (26)] is inefficient and will lead to too 
+little carbon in forests and too much carbon in the atmosphere.
+Third, there are concerns that ecosystem services and biodiversity 
+provided by primary forests could be affected if harvests are diverted 
+from traditional wood products to bioenergy (13, 14) or the level 
+and quality of standing biomass on managed forests are diminished 
+due to higher levels of residue removals (27), shorter rotations (28, 29), 
+or more land moved from no/low management to more intensive 
+management. Concerns with ecosystem services, however, tend to 
+focus on the effects of biomass harvests at individual sites (13, 14). 
+While more intensive harvesting will be a consequence of any bio-
+mass energy policy that increases the demand for wood, intensification 
+will not occur at a few selected sites, but across forests, especially 
+under widespread biomass energy or carbon neutrality mandates. To 
+gauge the full impacts of policies, models must be able to analyze the 
+full spatial and temporal consequences on the global forest ecosystem.
+In numbers: pro and cons of woody biomass demand
+We use the dynamic global timber model (GTM) to assess how bio-
+energy demand affects the forestry sector, forestland, and carbon 
+sequestration (4, 30). GTM compares timber harvesting and manage-
+ment in more than 200 managed and natural forest ecosystems 
+across 16 world regions (fig. S1) under different bioenergy demand 
+scenarios to a no-bioenergy demand scenario (22). The model used 
+the Shared Socioeconomic Pathway (SSP) 2 marker scenario projec-
+tions of gross domestic product (GDP) and population (31–33) 
+to simulate forest product demand, while bioenergy demand projec-
+tions [following the assumptions presented in Lauri et al. (34) that 
+9% to 12% of total bioenergy demand is sourced by dedicated forest 
+plantation; bioenergy is converted from gigajoules (GJ) to cubic meters 
+(m3) of forest biomass using constant conversion factors of 7.2 GJ/m3] 
+and carbon price paths under the same SSP2 scenario for each Inter-
+governmental Panel on Climate Change (IPCC) Representative Con-
+centration Pathway (RCP) are used to simulate the future demand 
+for woody biomass and the value of CO2 (fig. S2).
+In general, bioenergy consumption is expected to increase with 
+the stringency of the RCP target. For reference, under RCP 1.9—the 
+scenario most consistent with a 1.5°C target—about 30% of the total 
+energy supply through 2100 is estimated to be sourced from bioenergy 
+with carbon capture and storage (BECCS) (33). Because bioenergy 
+demand is expected to come from a variety of sources, we assume 
+about one-third of the supply is provided by forests, which is con-
+sistent with other global analyses (34). The model assumes a homo-
+genous form of woody biomass energy demand without distinguishing 
+types of woody biomass production. From the perspective of our 
+model, this means that each type of wood that could be used as an 
+input into biomass energy production is paid the same price.
+Increasing demand for woody biomass will have noticeable impacts 
+on the global forest sector compared with a no-policy baseline case 
+(tables S2 to S4). Timber prices could more than triple if woody biomass 
+consumption reaches 4.3 billion m3/year by the end of this century, 
+as in the RCP 1.9 scenario (Fig. 1A). The model does account for the 
+substitution between wood products and biomass, and the increasing 
+demand for woody bioenergy negatively affects the industrial timber 
+market. That is, there is a decline of between 30 and 80% in the pro-
+duction of industrial timber over the century projected across the 
+RCPs, with the largest reduction under RCP 1.9.
+Higher timber prices incentivize afforestation across the globe 
+(Fig. 1B). However, higher timber prices also encourage harvesting 
+of natural forest areas (forest types are defined as follows: “plantation” = 
+intensively managed plantations; “managed” = extensively managed, 
+often naturally regenerating forests; “natural” = inaccessible, un-
+managed natural forests) (Fig. 1C), which are replanted as a mix of 
+low-managed forests and intensive plantations (Fig. 1D). Total global 
+forest carbon sequestration is projected to increase only when the 
+demand for woody biomass is large enough to encourage consumption 
+greater than 1.1 billion m3/year by 2100, i.e., an RCP of less than 4.5 
+(Fig. 1E). When biomass demand is lower than this level, it does not 
+generate high enough timber prices to generate enough investments 
+in forests or plantations to offset carbon losses that occur when forests 
+are harvested. The carbon losses occur primarily in regions domi-
+nated by large areas of remaining inaccessible forests, namely, Latin 
+America, Southeast Asia, Canada, and Russia. Older forests have 
+substantial carbon stocks that are not compensated. Eventually, if 
+biomass energy demand is strong enough, investments in forests 
+will outweigh losses, and carbon turns positive. The expenditure on 
+forest management, as measured by dollars per hectare invested in 
+replanting, also matters, as it increases with more stringent climate 
+policy (Fig. 1F).
+The model accounts for carbon stored in four different pools. 
+The increase in carbon stocks is primarily driven by improvements 
+in aboveground carbon, while more forestland marginally increases 
+soil carbon due to afforestation relative to the baseline scenario. Carbon 
+stored in harvested wood products is projected to decline under all 
+policy scenarios because the increasing demand for woody biomass 
+reduces the quantity of noncombusted wood products (fig. S4).
+Expanding woody biomass energy could result in a 286 (RCP 6.0) 
+to 1931 (RCP 1.9) m3/year increase in total timber harvesting com-
+pared with the baseline scenario. Increases in harvests are not equally 
+distributed across the globe though (Fig. 2), with the largest harvest 
+increases expected in places where industrial wood harvesting is already 
+an important part of the landscape and regional economy. For instance, 
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+3 of 13
+Fig. 1. Global impacts for increased wood-based bioenergy demand, 2010–2100. (A) Timber prices, (B) total forest area, (C) natural unmanaged forest area, (D) plan-
+tation forest area, (E) total forest carbon stock (includes all the four carbon pools presented in fig S3), and (F) management investment relative to the baseline (no bioenergy 
+demand). Black, RCP 1.9; red, RCP 2.6; green, RCP 3.4; blue, RCP 4.5; orange, RCP 6.0.
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+4 of 13
+in the RCP 3.4 case, U.S. harvests increase by an average of 27% over 
+a 100-year period, while harvests in Southeast Asia and Russia only 
+increase by 6 and 2%, respectively.
+The increased demand for woody biomass encourages changes 
+in forest management along several margins that are typically ignored 
+in traditional life cycle analyses. First, the area of intensively managed 
+plantations increases by up to 61 million hectares (Mha), or 60%, over 
+the baseline (Fig. 1C). These plantations have rotation ages ranging from 
+10 to 30 years and, thus, can be used to ramp up timber and biomass 
+supply relatively quickly. We calculate that for every 1% increase in 
+timber price, the area of plantations increases by 0.32% globally.
+Second, forests that currently have limited management become 
+more intensively managed via increased investment in harvesting and 
+replanting, thinning, fertilizing, and other actions. Every 100 million 
+m3 of additional woody biomass energy supply could create 5.6 Mha 
+of more intensively managed forests. Higher prices provide a market 
+signal to landowners, who will take steps to increase their forest 
+stocks via expanding the area in managed forests and/or improving 
+management activities (18, 35). Expenditures on forest management 
+could increase by an average of $230 per hectare on managed forests 
+due to the increase in woody biomass demand, nearly 70% greater 
+than the mean baseline expenditure estimate (Fig. 1F). Some of the 
+land that we project that will become intensively managed is cur-
+rently ecologically sensitive and/or high in biodiversity. Assuming 
+that there are no other forest carbon sequestration incentives or forest 
+conservation policies in effect, we estimate that if woody biomass 
+demand rises to 4 billion m3/year, as under RCP 1.9, about 15% of 
+global natural forest area, or 250 Mha, could be converted to a more 
+intensive management regime (fig. S5). These results confirm that 
+“standard” bioenergy policy targeting woody biomass generally has 
+a negative impact on the world’s natural unmanaged or inaccessible 
+forests. However, these natural forests will not be converted to agri-
+culture, as economic incentives offset losses through planting forests 
+managed at different degrees of intensity and avoided deforestation 
+of managed forests (fig. S5).
+Third, other land will be converted to forests and, thus, increase 
+the absolute area of forests globally. The largest demand scenario 
+(RCP 1.9) estimates a potential increase in forest area by 1.1 billion 
+ha, 30% more than the current forest cover by 2100 (Fig. 1B). This 
+is within the bounds of the recent paper by Bastin et al. (36), who 
+identify an area of 1.6 billion ha of additional land that could support 
+forests, of which 0.9 billion ha are located outside valuable cropland 
+and urban regions. For this study, we used the 1.6 billion ha as an 
+upper bound for our simulations, and in the sensitivity analysis, we 
+tested the results under the more stringent 0.9 billion limit. The 
+1.1 billion ha estimate is large but not an outlier (fig. S6). Our results 
+are confirmed by integrated assessment models (IAMs) with land 
+modules and crop prices, which suggest that global forest area could 
+increase by up to 1.0 billion and that about 5.4 billion ha could be 
+covered by forests under the RCP 1.9 stabilization scenario with 
+approximately 1.9 billion ha new forestland (31, 33).
+While we do not explicitly model crop production or prices, our 
+model incorporates land rental functions that require paying higher 
+prices to rent land as more land is used for forests. The increases in 
+rents that we project are consistent with other studies in the literature. 
+Under the RCP 1.9 scenario, our global average land rents between 
+now and 2100 are estimated to be four times higher than the base-
+line rents. Popp et al. (37) similarly shows that agricultural land for 
+food and feed production declines as more land is used for bioenergy 
+and carbon sequestration. They do not present estimates of land rents, 
+but they do show that crop prices could be between two to six times 
+higher than the baseline under a high mitigation scenario.
+An efficient approach to carbon management
+This section illustrates the difference between an efficient carbon 
+management approach, which incentivizes both sequestration and 
+Fig. 2. Mean change in total regional harvests relative to the baseline, 2010–2100. 
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+5 of 13
+avoidance of emissions, and an inefficient approach that only uses a 
+carbon tax to incentivize the avoidance of emissions from woody 
+biomass production. An efficient approach to manage carbon ex-
+changes between the atmosphere and the biosphere can be accom-
+plished by using either a carbon rental (4) or a carbon tax and subsidy 
+approach (25). Both of these efficient approaches recognize that 
+emissions from biomass energy are like all other GHG emissions and 
+that forest growth removes carbon from the atmosphere. On the other 
+hand, a tax on emissions from bioenergy demand (penalty scenario) 
+without an offsetting subsidy for carbon accumulation is an inefficient 
+approach because it creates relatively less demand for forest products, 
+depresses timber prices (Fig. 3A) and forest area (Fig. 3, B to D), 
+Fig. 3. Global impacts for alternative wood-based bioenergy policies, 2010–2100. (A) Timber price and changes in (B) total forest area, (C) natural forest area, (D) forest 
+plantation area, (E) total forest carbon stock, and (F) management investment relative to the baseline (no bioenergy demand). Dashed, carbon penalty; solid, forest carbon 
+rental; black, RCP 1.9; red, RCP 2.6; green, RCP 3.4; blue, RCP 4.5; orange, RCP 6.0.
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+6 of 13
+lowers investment in forest management (Fig. 3F), and, thus, leads 
+to lower forest carbon stocks (Fig. 3E) compared with the efficient 
+approach (carbon rental scenario). That is, under any given demand 
+for woody biomass, an approach that only penalizes emissions will 
+deliver less carbon sequestration than the efficient rental approach. 
+Moreover, timber prices are higher under the rental scenario because 
+there are additional benefits associated with holding carbon in forests, 
+thereby potentially reducing the annual timber supply.
+Critically, the penalty approach, as suggested by Searchinger et al. 
+(13), could cause a large reduction in the area of natural inaccessible 
+forests of up to 200 Mha under the strong biomass energy demand 
+of RCP 1.9 or 2.6 (Figs. 3C and 4). Without valuing standing stocks 
+of forests through a subsidy for forest carbon sequestration, higher 
+timber prices (Fig. 3A) provide a substantial incentive to convert 
+natural forests to other forest types (Fig. 3B). The tax cannot avoid 
+this outcome. The largest declines in natural forest areas under a 
+penalty approach will occur under biomass demand higher than 
+1.5 billion m3/year, mainly in the tropics, followed by the temperate 
+zone (Fig. 4). In contrast, a carbon rental approach encourages pro-
+tection of standing natural forests by valuing the standing stock, such 
+as old growth harvests in boreal regions and unmanaged forests in 
+the tropics. In particular, a combination of the high carbon prices 
+and bioenergy demands (RCPs 2.6 and 1.9) will avoid future de-
+forestation of tropical natural forests relative to the baseline. That 
+is, opportunity costs of land are relatively low in the tropics, so there 
+is a reduction in forestland conversion to cropland. Second, the carbon 
+gains in the tropics are relatively fast and large, such that the rental 
+values encourage substantial carbon sequestration comparing to tem-
+perate and boreal forests.
+Each of the policy approaches leads to more forestland globally 
+over the next century, but estimates vary at the regional level (Fig. 5). 
+In the cases where there is a penalty imposed on harvesting biomass, 
+even with the relatively low carbon prices of RCPs 6.0 and 4.5, there 
+could be 10 to 25% less forest cover in parts of the tropics by 2100 
+compared with the forest carbon rent policy. The forest carbon 
+rental payment approach is expected to increase forest cover across 
+the globe, with the more stringent mitigation scenarios leading to 
+increases of 50% or more in many parts of the world.
+A forest carbon rental approach has sometimes been considered 
+an infeasible climate change mitigation policy option because of the 
+complexities with measuring and verifying changes in carbon stocks 
+and possible governance issues in developing countries (35, 38). 
+However, placing a tax on woody bioenergy could exacerbate one of 
+the issues the policy is intended to prevent, namely, the loss of natural 
+forests and associated ecosystem services. Despite this, we find that 
+increasing the demand for wood-based bioenergy, regardless of the 
+policy approach, will increase the total forest carbon in nearly all 
+scenarios (Fig. 3E). Under the penalty scenario, average stocks could 
+increase by 34 gigatonnes carbon dioxide eqiuvalent (GtCO2e) or 
+about 1% compared with the baseline. This is equivalent to 0.4 GtCO2e/
+year or 1.1% of 2018 global CO2 emissions (39). Including payments for 
+forest carbon sequestration has additional benefits. Forest area could 
+expand by 500 Mha or more, and total carbon stocks could increase by an 
+average of 2.3 GtCO2e/year, offsetting 7.1% of current annual emissions 
+(Fig. 3E). In nearly all scenarios, a majority of this net increase in car-
+bon stocks is due to increases in aboveground carbon, while the substitu-
+tion of some timber to bioenergy has a somewhat negative effect (fig. S7).
+Growing wood-based bioenergy demand will positively affect forest 
+management investment regardless of the policy approach, averaging 
+about 80% above baseline investment. Demand for wood products 
+in general will stimulate investment as landowners are expected to 
+accrue a higher return. However, a forest carbon rental and increased 
+biomass demand policy could double investment compared with the 
+biomass penalty approach (Fig. 3F). Management decisions affect 
+the amount of carbon stored in forests in different ways. First, GTM 
+controls rotation ages, which influences carbon stocks on sites, with 
+higher rotation ages leading to greater timber supply and more carbon, 
+and vice versa. Second, under high bioenergy demand and/or carbon 
+prices, the model projects more replanting, which, compared with 
+natural regeneration, will increase average carbon on a site over a 
+rotation. Third, GTM shifts species types over time in response to 
+prices and land rental values. Fourth, the model shifts species from 
+no management to modest management (harvesting with natural 
+regeneration or harvesting with replanting in some cases, depending 
+on value). In nearly all cases, this conversion of older forests to 
+younger forests leads to more timber output but less carbon. Last, 
+GTM includes management intensity on replanted land. This type 
+of management intensity, which could include genetic selection, 
+fertilizing, density controls, and other approaches, increases both 
+carbon stocks and the value of timber. This type of management 
+intensity is monitored in the model by the expenditure per hectare 
+of forestland, with higher expenditures leading to more timber and 
+more carbon.
+Sensitivity test
+We tested the effects of bioenergy demand on forestland and carbon 
+sequestration and the efficiency of the rental approach relative to the 
+penalty approach under a scenario in which forestland additions are 
+limited to 0.9 billion ha, following Bastin et al. (36). Even under this 
+constrained scenario, our findings are confirmed: Bioenergy demand 
+will increase total forestland and forest carbon sequestration com-
+pared with a no-bioenergy (baseline) scenario (Fig. 6, A and C), and 
+the carbon rental policy provides an efficient approach to regulate 
+the increasing demand for bioenergy by protecting natural forest-
+land while providing woody biomass for energy at the same time 
+(Fig. 6B). Although forest area does not expand as much with the 
+tighter constraint, it is around 50% lower; forest carbon storage de-
+clines by only 20 to 30%. Carbon declines proportionally less than 
+forest area because forests are managed more intensively to increase 
+timber production, and this in turn enhances carbon storage. Any 
+time there is a conversion in natural forest areas from inaccessible 
+to accessible and lightly managed forests, there is lower total carbon 
+stored over time. Thus, the efficient carbon rental climate policy leads 
+to more carbon by protecting more natural forests from conversion.
+Additional sensitivity analysis that adjusts key model parameters 
+such as the land supply elasticity, management response to forest 
+investment, and the cost of accessing and clearing natural forests to 
+half and double their original values indicates that our general find-
+ings still hold (fig. S8). That is, higher biomass demand will increase 
+the value of timberland, incentivize additional investment in forest 
+management and afforestation, and result in greater forest carbon 
+stocks over time, even if our model includes more pessimistic (i.e., 
+less responsive) parameter values. However, the relative impact that 
+each parameter has on the estimates varies. For example, a low land 
+supply elasticity results in about half the afforestation rate of the 
+high land supply elasticity case, simulating the potential effect if 
+landowners are more resistant to converting their agricultural lands 
+to forests. As a result, forest carbon stocks would still increase over 
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+7 of 13
+Fig. 4. Changes in global forest area by major ecosystem relative to baseline case under alternative wood-based bioenergy policies. Square, carbon penalty; circle, forest 
+carbon rental; black, RCP 1.9; red, RCP 2.6; green, RCP 3.4; blue, RCP 4.5; orange, RCP 6.0.
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+8 of 13
+the next century, but at a rate that is about 40% less than most of the 
+other sensitivity cases. Furthermore, our sensitivity analysis indi-
+cated that estimates were most sensitive to the forest carbon rental 
+scenarios, especially in the cases with high carbon prices that in-
+centivize more competition between carbon, bioenergy, and timber 
+production.
+Fig. 5. Regional changes in forest area relative to 2010 for forest carbon rental and carbon penalty scenarios. 
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+9 of 13
+DISCUSSION
+Projections using IAMs show that bioenergy demand is very likely 
+to dominate under the 1.5° to 2°C target scenarios (10). Our study 
+provides a comprehensive outlook of how this bioenergy future will 
+affect forest harvests, prices, timber management investments, the 
+area of forest, and forest carbon balance when market interactions 
+and management responses are considered. Dynamic market and 
+management responses are usually ignored in many environ-
+mental studies that provide only a partial view of the ongoing 
+debate about benefits and risks of increasing global bioenergy de-
+mand (12–17, 36).
+The results show that lower levels of bioenergy demand, consistent 
+with RCPs 4.5 and 6.0, can lead to net carbon emissions if the higher 
+prices encourage more harvesting of natural forests but not enough 
+of an increase in investments in forest regeneration. For RCPs more 
+stringent than 4.5, bioenergy demand is sufficiently high that it 
+encourages strong enough investments in forest management to offset 
+the negative effects of harvesting inaccessible and natural forests. Thus, 
+for these higher levels of bioenergy demand, there are net positive 
+effects on the global carbon balance, although there are notable 
+impacts on natural forests. Across all ranges of bioenergy demand, 
+efficient forest carbon sequestration policies can be deployed to ensure 
+that forests are carbon neutral and that forest carbon stocks are main-
+tained. Further, these efficient policies can significantly reduce the 
+loss of inaccessible and natural forests. In contrast, inefficient policy 
+proposals, such as taxing carbon emissions from biofuels without also 
+accounting for the gains that accrue to forest growth, cause poten-
+tially large losses of natural and inaccessible forests and lead to carbon 
+emissions in some circumstances.
+There are two important reasons why stocks are enhanced in the 
+face of strongly growing demand. First, when demand grows, prices 
+rise and landowners with growing forests will typically hold trees to 
+take advantage of the rising prices, as there is a higher opportunity 
+cost of felling them prematurely. If the demand for biomass energy 
+turns out to be short-lived, lasting only a couple years, then land-
+owners would be encouraged to harvest trees earlier than otherwise, 
+which would reduce carbon stocks and lead to net emissions. However, 
+biomass energy projections associated with long-run phenomenon 
+like climate change suggest that the demand for wood-based biomass 
+energy will grow over time.
+Second, rising prices incentivize foresters to increase regeneration 
+and management expenditures. These include replanting, fertilizing, 
+managing for competition, and other practices aimed at increasing 
+the value of and size of the growing stock. Expansion of biomass 
+energy production would increase management over a wide swath 
+of forests around the world, but most intensification would occur in 
+places that are already intensively managed. For context, the stock 
+of forests has increased steadily in the southern United States and 
+has stabilized in the Pacific Northwest since 1950, despite old growth 
+harvesting that continued up to the 1990s (40).
+These findings advance the policy discussion by capturing several 
+dynamics of how landowners respond to incentives, namely, that 
+economic incentives promote more forest management. This out-
+come is different than that of Schlesinger et al. (26) and others, who 
+do acknowledge regrowth of forests but argue that emissions in the 
+near term are particularly harmful because they cause damages during 
+the entire time it takes for forests to regrow. This stance ignores the 
+benefits of the past accumulation of carbon embodied in current forest 
+stocks, which is an important component of the global carbon budget. 
+The argument can also be extended to the future: Is it fair to hold 
+landowners accountable for today’s emissions without considering 
+the benefits of their future regrowth, especially given that the future 
+carbon storage is more valuable than even today’s emission?
+In addition to increasing the stock of forests, higher prices make 
+forests more resilient to land use change. The real price of forest 
+products has increased since the 1940s, while the real price of crops 
+has fallen. As a result, the area of land in forests in the many parts of 
+the United States and Europe has increased over the same time frame 
+due to afforestation and the abandonment of low-productivity agri-
+cultural land (41, 42). Rising prices, however, can encourage land-
+owners with unmanaged, or natural forests, to liquidate their stock 
+sooner than otherwise. If a policy that accounts for forest sequestration, 
+such as the carbon rental policy, is not implemented, bioenergy demand 
+could harm natural forests and the ecosystem and the biodiversity 
+services that they provide. Further, as long as policies are implemented 
+efficiently, large areas of natural forests would remain intact.
+This study provides an improved understanding of the benefits 
+and risks of increasing global bioenergy demand on forest area and 
+forest carbon mitigation potential under alternative policy scenarios. 
+However, there are at least two other factors that could be integrated 
+Fig. 6. Estimated impacts for alternative land constraint scenarios under all RCPs. (A) Total forest area; (B) natural forestland and (C) forest carbon sequestration 
+versus woody biomass production relative to the baseline (no bioenergy demand) for alternative land constrained scenarios and policy scenarios under all the RCPs. 
+Diamond, 1.6 billion ha additional forestland limit; plus, 0.9 billion ha additional forestland limit; gray, carbon penalty; pink, forest carbon rental. Trend lines: dashed, 
+1.6 billion ha; solid, 0.9 billion ha additional forestland limit.
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+10 of 13
+in future research to provide a more complete analysis of these issues 
+in a dynamic framework: first, estimating the effects of climate change 
+on forest growth, merchantable yields, dieback, and biome shifts on 
+regional biomass supply; and second, analyzing how emerging tech-
+nological and/or social transformation processes may affect the pro-
+jected demand for woody biomass, especially over a long time horizon. 
+Taking this more complex and integrated approach might not change 
+our overall findings but rather provide more insight into additional 
+risks that could be considered when designing efficient bioenergy 
+and forest carbon sequestration policies.
+MATERIALS AND METHODS
+The forestry model used in this analysis is the GTM, which was ini-
+tially developed to study dynamic forest markets and policies (4, 30). 
+GTM combines the spatially detailed data on forests with an eco-
+nomic model that weighs optimal forest management alternatives. 
+This version of the model does not include climate change impacts, 
+but the land classes in the model can be linked to vegetation types 
+represented in ecosystem models such as BIOME/LPX-Bern (43, 44) 
+or MC2 (45, 46). The baseline scenario used in this study is consistent 
+with current climatic conditions. Moreover, GTM incorporates 
+overall constraints on land areas derived from the ecological models, 
+such that only land that is capable of naturally supporting forests 
+can be converted to forestland (44). For this specific study, we 
+included more restricted limitations on regional land that can be 
+converted to forest following the estimates presented in Bastin et al. 
+(36) of 1.6 billion ha and 0.9 billion ha.
+GTM was recently used in a validation exercise to provide a his-
+torical assessment of global and regional timber harvesting, timber 
+management, and carbon stocks from 1900 to 2010 in Mendelsohn 
+and Sohngen (47). Thus, our first simulation period (a decade) 
+overlaps with the historical decade. Furthermore, Sohngen et al. (48) 
+conducted a Monte Carlo analysis with the model to assess how un-
+certainty in the land supply elasticity and forest biomass (yield) 
+parameters would affect timber supply and carbon outcomes. The 
+historical validation illustrates that the model can reproduce forestry 
+management, land areas, timber prices, and timber stocks. The Monte 
+Carlo illustrates that the model is most sensitive to the yield function 
+parameters in terms of the carbon outcomes and timber supply out-
+comes. Land supply elasticity is uncertain, but given that the elasticity 
+parameter is likely not to vary systematically, uncertainty in the land 
+supply elasticity does not have strong effects on carbon or timber supply.
+GTM contains 200 forest types i in 16 regions. Figure S1 shows 
+the regional disaggregation. Forest resources are differentiated by 
+ecological productivity and by management and cost characteristics. 
+To account for differences in ecological productivity, different land 
+classes in different regions have different yield functions for timber, 
+derived from the underlying inventory data. Moreover, forests are 
+broken into different types of management classes. The first type is 
+moderately valued forests; these are forests managed in rotations and 
+located primarily in temperate regions. The second type is natural 
+inaccessible forests, located in regions that are costly to access. To 
+be conservative, inaccessible forests are assumed to be in equilibrium, 
+such that they are neither accumulating nor releasing carbon. Inac-
+cessible forests are unmanaged and located in places that are costly 
+to access for timber market reasons. Over time, some of them in our 
+model become accessible due to economic reasons, e.g., timber prices 
+rise, making additional hectares economically efficient to harvest. If 
+they become accessible, they are harvested, and when regrown, they 
+are subject to applicable forest growth functions. The third type is 
+low-value forests located in temperate and boreal areas that are lightly 
+managed, if they are managed at all. The fourth category includes 
+low-value timberland in inaccessible and semi-accessible regions of 
+the tropical zones. The fifth type includes the high-valued timber 
+plantation that is managed intensively; these forests can principally 
+be found in subtropical regions of the United States, South America, 
+southern Africa, the Iberian Peninsula, Indonesia, and Oceania.
+GTM is an economic model of forests that maximizes the net 
+present value of consumers’ and producers’ surplus in the forestry 
+sector. By maximizing the net present value, the model optimizes the 
+age of harvesting timber a and the intensity of regenerating and 
+managing forests   m t  i   . It is an optimal control problem, given the 
+aggregate demand function, starting stock, costs, and growth func-
+tions of forest stocks.
+GTM relies on forward-looking behavior and solves all time pe-
+riods at the same time; this means that when land owners make de-
+cisions today about forest management, they do so by considering 
+the implications of their actions today on forests in the future with 
+complete information. The result is a forecast of what a competitive 
+market would also do with forestland.
+Mathematically, this optimization problem is written as
+  max ∑ 0  
+∞     ρ   t  
+{
+    
+  ∫0  
+ Q t  tot     {  D( Q t  ind ,  Z  t,RCP   ) + D( Q t,RCP  
+wbio   ) − C( Q t  tot  )  }    dQ t  tot − 
+  
+ 
+ 
+ 
+ ∑ i      C G  
+i  ( m t  i  ,  G t  i   ) −  ∑ i      C N  
+i  ( m t  i  ,  N t  i   ) −  ∑ i      R t  i  ( ∑ a      X a,t  
+i   ) +  CC  t,RCP,policy  
+  
+}
+     (1)
+In Eq. 1, t is a discount factor,  D( Q t  ind ,  Z  t,RCP ) is a global demand 
+function for industrial wood products  Q t  ind and average global con-
+sumption per capita Zt,RCP from the International Institute of 
+Applied Systems Analysis (IIASA) SSP database (33). In particular, 
+we use the SSP2 IAM marker scenario from MESSAGE GLOBIOM 
+under each of the five IPCC RCPs [according to the IIASA SSP data-
+base (33), the global consumption per capita under the SSP2 IAM 
+marker scenario does not change across RCPs].
+Industrial timber demand follows the general functional form   
+Q t  ind  =  A  t    ( Z  t,RCP  )      P t    , where At is a constant,  is the income elas-
+ticity, Pt is the timber price, and  is the price elasticity. The global 
+demand function is for industrial round wood, which is itself an input 
+into products like lumber, paper, plywood, and other manufactured 
+wood products.
+Wood demand for bioenergy production  Q t,RCP  
+wbio  is estimated by 
+adjusting the total bioenergy consumption in the IIASA SSP data-
+base   Q t,RCP  
+bio   with the proportion of global biomass energy produced 
+from wood by following similar assumption as in Lauri et al. (34). 
+Figure S2 (A and B) shows total bioenergy consumption and total 
+woody biomass supply under each RCP for the SSP2.
+We assume there is an international market for timber that leads to a 
+global market clearing price. As the price of wood for bioenergy rises to 
+compete with industrial timber, both timber and bioenergy will be traded 
+internationally (49). Competition for supply will equilibrate their prices.
+Equation 2 shows that the total quantity of wood depends on the 
+area of land harvested in the timber types in i for each age a and 
+time t ( H a,t  
+i  ) and the yield function  ( V a,t  
+i  )  , which is itself a function 
+of ecological forest productivity   t  i  and management intensity  m a,t  
+i   .
+ 
+   Q t  tot  =  ∑ i     (    ∑ a      H a,t  
+i    V a,t  
+i  ( θ t  i  ,  m a,t  
+i   )  )     
+(2)
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+11 of 13
+The functional form for the yield function is
+ 
+   V a,t  
+i  ( m a,t  
+i   ) = h ∗  [  exp (    δ   i  −    π   i  
+─ 
+a   )   ]     
+(3)
+Per equation  h =  φ   i   (1 +  m a,t  
+i  )   
+    i   , h is the stocking density, which 
+can be adjusted depending on the intensity of management,   m a=1,t  
+i 
+  . 
+We restrict stocking elasticity, , to be positive and less than 1. The 
+i affects the elasticity of management inputs in forestry to account 
+for technology change. Initial stocking is denoted by φi. Increase 
+in   m a=1,t  
+i 
+   will increase h, e.g., dh/dZ > 0, but the increase diminishes 
+as   m a=1,t  
+i 
+  rises, e.g., d2h/dZ2 < 0. The model chooses management 
+intensity by optimally choosing   m a=1,t  
+i 
+  . Increases in management 
+intensity will increase yield and shift the entire yield function up-
+ward. Forests are assumed to grow according to   V a,t  
+i  ( Z a=1,t  
+i 
+ ) , where  
+and  are species-dependent growth parameters (fig. S3 shows a 
+represent ative yield function assuming h = 1.32,  = 5.2, and  = 30). 
+ C( Q t  tot )  is the cost function for harvesting and transporting logs to 
+the center (mills or power plants) from each of timber type.
+The stock of land in each forest type adjusts over time according to
+ 
+  X a,t  
+i   =  X a−1,t−1  
+i 
+ −  H a−1,t−1  
+i 
+ +  G a=0,t−1  
+i 
+ +  N a=0,t−1  
+i 
+   
+(4)
+The initial stocks of land   X t  i    are given, and all choice variables are 
+constrained to be greater than or equal to zero, and the area of timber 
+harvested   H a,t  
+i  does not exceed the total timber area.  G t  i    is the area of 
+timber regenerated land planted, and   N t  i   is the new forest planted. 
+  C G  
+i  (·) is the cost function for planting land in temperate and previ-
+ously inaccessible forests, while   C N  
+i  (·)  is the cost function for planting 
+forests in subtropical plantation regions.
+GTM takes into account the competition of forestland with crops 
+and livestock using a rental supply function for land (2). In Eq. 1,   R t  i  (·) 
+is the rental cost function for the opportunity costs of holding tim-
+berland   X a,t   
+i   . For example, if timber prices rise relative to agricultural 
+land prices, the model predicts that timber owners will rent suitable 
+farmland for at least a rotation. Similarly, if timber prices fall rela-
+tively to agricultural land prices, suitable forest land will be converted 
+back to farmland upon harvest. In addition, the model accounts for 
+the aggregate global effects of moving land between forests and agri-
+culture by shifting all of the land supply functions for individual 
+forest types as a function of the aggregate global area of forestland. 
+As more land globally moves from agriculture to forests, all rental 
+functions shift inward, making it more costly to convert any land 
+from agriculture to forestry. This captures the effect that having less 
+land in agriculture would have on land prices. We have assumed that 
+the elasticity of land supply is 0.25, such that a 0.25% reduction in 
+the global area of agricultural land would cause all land rents to 
+rise by 1%. Note also that the rental supply function is restricted to 
+agricultural land that is naturally suitable for forests. It presumes 
+that the least productive crop and pasture land will be converted 
+first and that rental rates increase as more land is converted and 
+sendogenous.
+The model is also developed to account for the global forest carbon 
+stocks and flows following a method first presented by Sohngen and 
+Sedjo (50) and updated by Daigneault et al. (18). Carbon is tracked in 
+four pools: aboveground carbon, soil carbon, forest product carbon, 
+and slash.
+Aboveground carbon   C a,t  
+i    accounts for the carbon in all compo-
+nents of the living tree, including roots, as well as carbon in the forest 
+understory and the forest floor, but does not include dead organic 
+matter in slash, which is contained in a separate pool. For this analy-
+sis, we assume that carbon is proportional to total biomass, such 
+that carbon in any forest of any age class is given as
+ 
+  C a,t  
+i   =     i   V a,t  
+i  ( m t0  
+i  )   
+(5)
+where i is a species-dependent coefficient that converts biomass to 
+carbon. Given this, the total forest carbon pool  TFCP t  i   for each timber 
+type is calculated as
+ 
+  TFCP t  i   =  ∑ a      C a,t  
+i    X a,t  
+i    
+(6)
+Carbon in harvested forest products   HC t  i    is estimated by track-
+ing forest products over time as follows
+ 
+  HC t  i  = (1 −    t )     i   ∑ a     (    i   V a,t  
+i    H a,t  
+i  )  
+(7)
+where i is the proportion of harvested timber volume that is car-
+bon stored permanently, and it is estimated to be 0.30 (51), i is a 
+parameter that converts forest products into carbon (regional and 
+forest type based), while t is the portion of wood used in the energy 
+sector, and it is endogenously selected by the model; that is,   HC t  i   
+accounts only for carbon stored in wood products, not woody bio-
+mass used for energy production. Carbon stored in woody biomass 
+used for bioenergy production is calculated as follows
+ 
+  BIOC t  i   =    t   ∑ a         i  ( V a,t  
+i    H a,t  
+i  )  
+(8)
+Soil carbon    SOLC t  i    is measured as the stock of carbon in forest 
+soils of type i in time t. The value of    ¯ 
+K   , the steady-state level of car-
+bon in forest soils, is unique to each region and timber type. The 
+parameter i is the growth rate for soil carbon. In this analysis, we 
+capture the marginal change in carbon value associated with manage-
+ment or land use changes. When land use change occurs, we track 
+net carbon gains or losses over time as follows
+ 
+   SOLC t+1  
+i   =  SOLC t  i   +  SOLC t  i  (    i  )  [     (  ¯ 
+K   −  SOLC t  i  ) 
+─ 
+ SOLC t  i  
+ 
+  ]     
+(9)
+Last, we measure slash carbon  AS t  i   as the carbon leftover on site 
+after a timber harvest
+ 
+  AS t  i   =  ∑ a    (  a  
+i    V a,t  
+i    H a,t  
+i  −     i   V a,t  
+i    H a,t  
+i  )   
+(10)
+Over time, the stock of slash   SP t  i    builds up through annual addi-
+tions and decomposes as follows
+ 
+  SP t+1  
+i   =  AS t  i  + (1 −  ϑ   i   SP t  i  )  
+(11)
+Decomposition rates ϑi differ, depending on whether the forest 
+lies in the tropics, temperate, or boreal zone.
+Last, in Eq. 1, the term CCt, RCP, policy represents the carbon payments/
+penalties for forest owners according to the policy implemented. For 
+this study, GTM has been enhanced to capture public policy efforts 
+that either penalize bioenergy demand or value climate mitigation 
+benefits of forests sequestration. GTM assumes that the incentives 
+in the timber product, woody biomass, and carbon sequestration sys-
+tem can be implemented efficiently. That is, GTM portrays an ideal 
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+12 of 13
+world in which the carbon price and/or subsidy is implemented 
+simultaneously everywhere, and there are no trade barriers or other 
+limitations in the use of woody biomass for energy or governance 
+issues. This is an ideal framework: Carbon obviously has not been 
+traded globally, and there are widespread reservations about trading 
+it in the atmosphere as well as in forests. There are measurement, 
+monitoring, and verification problems, as well as concerns about 
+leakage and permanence.
+Starting with the scenarios simulated in Favero et al. (22), this study 
+explores four possible policy scenarios:
+1) Reference scenario: No bioenergy demand and carbon price 
+are implemented;
+2) Bioenergy scenario: Exogenous bioenergy demands from SSP2 
+across RCPs  Q t,RCP  
+wbio    are included;
+3) Forest carbon rental scenario: Exogenous bioenergy demands 
+from SSP2 across RCPs are included, and forest owners are com-
+pensated by annual rent for providing annual carbon sequestration 
+according to the carbon prices from the IIASA SSP database;
+4) Carbon penalty scenario: Bioenergy demands from SSP2 across 
+RCPs are included, and carbon emissions upon harvests for energy 
+are taxed.
+The policy scenarios are described in Eq. 1 with the term CCt,RCP,policy. 
+Moreover, in the reference and bioenergy scenarios, the term CCt,RCP,policy 
+is assumed to be equal to zero since no policy efforts are implemented 
+to value or penalize bioenergy demand.
+On the other hand, in the forest carbon rental scenario, forest 
+owners receive carbon payments for the carbon permanently stored 
+in wood products and are compensated by annual rent for providing 
+annual carbon sequestration according to the carbon prices  P t,RCP  
+c 
+  from 
+the IIASA SSP database (fig. S2C) as follows
+  
+  CC  t,RCP,carbon_rental   =  P t,RCP  
+c 
+  [    ∑ i      HC t  i   + ( SOLC t+1  
+i   −  SOLC t  i   )  ]  + 
+  
+ 
+ 
+ R t,RCP  
+c 
+   ∑ i      TFCP t  i  
+ 
+   (12)
+The first part of Eq. 11 is the carbon transferred to long-lived 
+wood products (  HC t  i   ) from each forest i valued at the carbon price 
+  P t,RCP  
+c 
+  . The change in soil carbon  ( SOLC t  i  ) when land switches be-
+tween forests and agriculture is also valued at the carbon price (13, 15). 
+The second term is the annual rent,   R t,RCP  
+c 
+  , whereby the total carbon 
+stocks in forests   TFCP t  i    are rented during the time period that the 
+carbon is stored following Sohngen and Mendelsohn (4). The rental 
+value for carbon is
+ 
+  R t,RCP  
+c 
+  =  P t,RCP  
+c 
+ −   P t+1,RCP  
+c 
+ ⁄  (1 + r)   t    
+(13)
+where r is the interest rate. This equation accounts for potential 
+price increases in carbon that occur as carbon accumulates in the 
+atmosphere.
+Last, in the carbon penalty scenario, forest owners pay a penalty 
+for the carbon released when timber is harvested to supply bioenergy 
+demand.
+ 
+  CC  t,RCP,penalty   = −  P t,RCP  
+c 
+   ∑ i      BIOC t  i    
+(14)
+Table S1 provides the list of parameter values used to parameter-
+ize equations for the simulations presented in this study. More de-
+tails on the version of GTM used in this analysis are available in (18) 
+and (22).
+SUPPLEMENTARY MATERIALS
+Supplementary material for this article is available at http://advances.sciencemag.org/cgi/
+content/full/6/13/eaay6792/DC1
+Supplementary Materials and Methods
+Model estimates
+Fig. S1. GTM—Regional Aggregation.
+Fig. S2. Global assumptions for alternative RCP scenarios. 
+Fig. S3. Yield for representative species in the GTM.
+Fig. S4. Estimated changes in global forest carbon stock pools in GtCO2 relative to the baseline 
+scenario under each RCP.
+Fig. S5. Changes in global forest area by major ecosystem versus woody biomass supply under 
+the bioenergy demand scenario relative to the baseline scenario.
+Fig. S6. IAMs’ estimates of forest areas and crop areas (2010–2100) under the RCP 1.9 and RCP 
+2.6 from the IIASA SSP database.
+Fig. S7. Estimated changes in global forest carbon stock pools in GtCO2 relative to the baseline 
+scenario under each RCP and the two policy approaches.
+Fig. S8. Key parameter sensitivity impacts relative to 2010 for RCP 2.6 Forest Carbon Rental 
+scenario.
+Table S1. GTM parameter values.
+Table S2. Baseline key GTM estimates, 2010–2100.
+Table S3. Baseline global forest area (Mha) by major ecosystem, 2010–2100.
+Table S4. Baseline global total forest carbon stocks by major ecosystem, 2010–2100.
+REFERENCES AND NOTES
+ 1. R. A. Sedjo, Forests: A tool to moderate global warming? Environ. Sci. Pol. Sustain. Devel. 
+31, 14–20 (1989).
+ 2. R. N. Stavins, The costs of carbon sequestration: A revealed-preference approach.  
+Am. Econ. Rev. 89, 994–1009 (1999).
+ 3. D. M. Adams, R. J. Alig, B. A. McCarl, J. M. Callaway, S. M. Winnett, Minimum cost strategies 
+for sequestering carbon in forests. Land Econ. 75, 360–374 (1999).
+ 4. B. Sohngen, R. Mendelsohn, An optimal control model of forest carbon sequestration. 
+Am. J. Agric. Econ. 85, 448–457 (2003).
+ 5. G. Kindermann, M. Obersteiner, B. Sohngen, J. Sathaye, K. Andrasko, E. Rametsteiner, 
+B. Schlamadinger, S. Wunder, R. Beach, Global cost estimates of reducing carbon emissions 
+through avoided deforestation. Proc. Natl. Acad. Sci. U.S.A. 105, 10302–10307 (2008).
+ 6. T. Kuramochi, H. Fekete, L. Luna, M. J. de Villafranca Casas, L. Nascimento, F. Hans, 
+N. Höhne, H. van Soest, M. den Elzen, K. Esmeijer, M. Roelfsema, Greenhouse gas 
+mitigation scenarios for major emitting countries–Analysis of current climate policies and 
+mitigation commitments: 2018 update (New Climate Institute December 2018 Report 
+2018), p. 133.
+ 7. N. Forsell, O. Turkovska, M. Gusti, M. Obersteiner, M. den Elzen, P. Havlik, Assessing 
+the INDCs' land use, land use change, and forest emission projections. Carbon Balance Manag. 
+11, 26 (2016).
+ 8. United States Environmental Protection Agency (USEPA), EPA’s Treatment of Biogenic 
+Carbon Dioxide (CO2) Emissions from Stationary Sources that Use Forest Biomass for 
+Energy Production (2018); https://epa.gov/sites/production/files/2018-04/documents/
+biomass_policy_statement_2018_04_23.pdf.
+ 9. European Union (EU), Directive 2009/28/EC of the European Parliament and of the 
+Council of 23 April 2009 on the promotion of the use of energy from renewable sources 
+and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC, 5 
+(Official Journal of the European Union, 2009); https://eur-lex.europa.eu/LexUriServ/
+LexUriServ.do?uri=OJ:L:2009:140:0016:0062:en:PDF.
+ 10. J. Rogelj, D. Shindell, K. Jiang, S. Fifita, P. Forster, V. Ginzburg, C. Handa, H. Kheshgi,  
+S. Kobayashi, E. Kriegler, L. Mundaca, R. Séférian, M. V. Vilariño, Chapter 2: Mitigation 
+pathways compatible with 1.5°C in the context of sustainable development, in 
+Global Warming of 1.5 °C an IPCC Special Report on the Impacts of Global Warming of 1.5 °C 
+above Pre-Industrial Levels and Related Global Greenhouse Gas Emission Pathways, in the 
+context of strengthening the global response to the threat of climate change, V. Masson-Delmotte, 
+P. Zhai, H.-O. Pörtner, D. Roberts, J. Skea, P. R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, 
+R. Pidcock, S. Connors, J. B. R. Matthews, Y. Chen, X. Zhou, M. I. Gomis, E. Lonnoy, T. Maycock, 
+M. Tignor, T. Waterfield, Eds. (Intergovernmental Panel on Climate Change, 2018).
+ 11. T. D. Searchinger, S. P. Hamburg, J. Melillo, W. Chameides, P. Havlik, D. M. Kammen, 
+G. E. Likens, R. N. Lubowski, M. Obersteiner, M. Oppenheimer, G. P. Robertson, 
+W. H. Schlesinger, G. D. Tilman, Fixing a critical climate accounting error. Science 326, 
+527–528 (2009).
+ 12. T. Walker, P. Cardellichio, A. Colnes, J. Gunn, B. Kittler, B. Perschel, F. Guild, C. Recchia, 
+D. Saah, Biomass Sustainability and Carbon Policy Study (Manomet Centre for 
+Conservation Sciences, Brunswick, ME, USA, 2010), 182 p.
+ 13. T. D. Searchinger, T. Beringer, B. Holtsmark, D. M. Kammen, E. F. Lambin, W. Lucht, 
+P. Raven, J.-P. van Ypersele, Europe's renewable energy directive poised to harm global 
+forests. Nat. Commun. 9, 3741 (2018).
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Favero et al., Sci. Adv. 2020; 6 : eaay6792     25 March 2020
+SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
+13 of 13
+ 14. J. M. DeCicco, W. H. Schlesinger, Opinion: Reconsidering bioenergy given the urgency 
+of climate protection. Proc. Natl. Acad. Sci. U.S.A. 115, 9642–9645 (2018).
+ 15. J. McKechnie, S. Colombo, J. Chen, W. Mabee, H. L. MacLean, Forest bioenergy or forest 
+carbon? Assessing trade-offs in greenhouse gas mitigation with wood-based fuels. 
+Environ. Sci. Technol. 45, 789–795 (2010).
+ 16. T. Buchholz, M. D. Hurteau, J. Gunn, D. Saah, A global meta-analysis of forest bioenergy 
+greenhouse gas emission accounting studies. GCB Bioenergy 8, 281–289 (2016).
+ 17. R. Birdsey, P. Duffy, C. Smyth, W. A. Kurz, A. J. Dugan, R. Houghton, Climate, economic, 
+and environmental impacts of producing wood for bioenergy. Environ. Res. Lett. 13, 
+050201 (2018).
+ 18. A. Daigneault, B. Sohngen, R. Sedjo, Economic approach to assess the forest carbon 
+implications of biomass energy. Environ. Sci. Technol. 46, 5664–5671 (2012).
+ 19. K. L. Abt, R. C. Abt, C. Galik, Effect of bioenergy demands and supply response on markets, 
+carbon, and land use. Forest Sci. 58, 523–539 (2012).
+ 20. G. S. Latta, J. S. Baker, R. H. Beach, S. K. Rose, B. A. McCarl, A multi-sector intertemporal 
+optimization approach to assess the GHG implications of U.S. forest and agricultural 
+biomass electricity expansion. J. Forest. Econ. 19, 361–383 (2013).
+ 21. A. Favero, R. Mendelsohn, Using markets for woody biomass energy to sequester carbon 
+in forests. J. Assoc. Environ. Resour. Econ. 1, 75–95 (2014).
+ 22. A. Favero, R. Mendelsohn, B. Sohngen, Using forests for climate mitigation: Sequester 
+carbon or produce woody biomass? Clim. Change 144, 195–206 (2017).
+ 23. X. Tian, B. Sohngen, J. Baker, S. Ohrel, A. A. Fawcett, Will U.S. forests continue 
+to be a carbon sink? Land Econ. 94, 97–113 (2018).
+ 24. W. D. Nordhaus, Revisiting the social cost of carbon. Proc. Natl. Acad. Sci. U.S.A. 114, 
+1518–1523 (2017).
+ 25. G. C. van Kooten, C. S. Binkley, G. Delcourt, Effect of carbon taxes and subsidies 
+on optimal forest rotation age and supply of carbon services. Am. J. Agric. Econ. 77, 
+365–374 (1995).
+ 26. W. H. Schlesinger, B. Law, J. Sterman, W. R. Moomaw, “Pruitt Is Wrong on Burning Forests 
+for Energy,” New York Times. 3 May 2018.
+ 27. D. A. Scott, D. S. Page-Dumroese, Wood bioenergy and soil productivity research. 
+Bioenergy Res. 9, 507–517 (2016).
+ 28. B. Holtsmark, Harvesting in boreal forests and the biofuel carbon debt. Clim. Change 112, 
+415–428 (2012).
+ 29. E.-D. Schulze, C. Körner, B. E. Law, H. Haberl, S. Luyssaert, Large-scale bioenergy 
+from additional harvest of forest biomass is neither sustainable nor greenhouse gas 
+neutral. Glob. Change Biol. Bioenergy 4, 611–616 (2012).
+ 30. B. Sohngen, R. Mendelsohn, R. Sedjo, Forest management, conservation, and global 
+timber markets. Am. J. Agric. Econ. 81, 1–13 (1999).
+ 31. K. Riahi, D. P. van Vuuren, E. Kriegler, J. Edmonds, B. C. O’Neill, S. Fujimori, N. Bauer, 
+K. Calvin, R. Dellink, O. Fricko, W. Lutz, A. Popp, J. C. Cuaresma, K. C. Samir, M. Leimbach, 
+L. Jiang, T. Kram, S. Rao, J. Emmerling, K. Ebi, T. Hasegawa, P. Havlik, F. Humpenöder, 
+L. A. Da Silva, S. Smith, E. Stehfest, V. Bosetti, J. Eom, D. Gernaat, T. Masui, J. Rogelj, 
+J. Strefler, L. Drouet, V. Krey, G. Luderer, M. Harmsen, K. Takahashi, L. Baumstark, 
+J. C. Doelman, M. Kainuma, Z. Klimont, G. Marangoni, H. Lotze-Campen, M. Obersteiner, 
+A. Tabeau, M. Tavoni, The shared socioeconomic pathways and their energy, land use, 
+and greenhouse gas emissions implications: An overview. Glob. Environ. Chang. 42, 
+153–168 (2017).
+ 32. O. Fricko, P. Havlik, J. Rogelj, Z. Klimont, M. Gusti, N. P. Johnson, P. Kolp, M. Strubegger, 
+H. Valin, M. Amann, T. Ermolieva, N. Forsell, M. Herrero, C. Heyes, G. Kindermann, V. Krey, 
+D. L. McCollum, M. Obersteiner, S. Pachauri, S. Rao, E. Schmid, W. Schoepp, K. Riahi, The 
+marker quantification of the shared socioeconomic pathway 2: A middle-of-the-road 
+scenario for the 21st century. Glob. Environ. Chang. 42, 251–267 (2017).
+ 33. IIASA, Shared Socioeconomic Pathway Database (2018); http://iiasa.ac.at/web/home/
+research/researchPrograms/Energy/SSP_Scenario_Database.html.
+ 34. P. Lauri, N. Forsell, A. Korosuo, P. Havlík, M. Obersteiner, A. Nordin, Impact of the 2 °C 
+target on global woody biomass use. Forest Policy Econ. 83, 121–130 (2017).
+ 35. H. K. Gibbs, S. Brown, J. O. Niles, J. A. Foley, Monitoring and estimating tropical forest 
+carbon stocks: Making REDD a reality. Environ. Res. Lett. 2, 045023 (2007).
+ 36. J.-F. Bastin, Y. Finegold, C. Garcia, D. Mollicone, M. Rezende, D. Routh, C. M. Zohner, 
+T. W. Crowther, The global tree restoration potential. Science 365, 76–79 (2019).
+ 37. A. Popp, K. Calvin, S. Fujimori, P. Havlik, F. Humpenöder, E. Stehfest, B. L. Bodirsky, 
+J. P. Dietrich, J. C. Doelmann, M. Gusti, T. Hasegawa, P. Kyle, M. Obersteiner, A. Tabeau, 
+K. Takahashi, H. Valin, S. Waldhoff, I. Weindl, M. Wise, E. Kriegler, H. Lotze-Campen, 
+O. Fricko, K. Riahi, D. P. van Vuuren, Land-use futures in the shared socio-economic 
+pathways. Glob. Environ. Chang. 42, 331–345 (2017).
+ 38. T. W. Hertel, T. A. P. West, J. Börner, N. B. Villoria, A review of global-local-global linkages 
+in economic land-use/cover change models. Environ. Res. Lett. 14, 053003 (2019).
+ 39. International Energy Agency (IEA), Global Energy CO2 Status Report (ed. 2, 2019). 
+Available at https://iea.org/geco/.
+ 40. B. Sohngen, X. Tian, Global climate change impacts on forests and markets. Forest Policy Econ. 72, 
+18–26 (2016).
+ 41. USDA Economic Research Service, Major Land Uses (2019); https://ers.usda.gov/
+data-products/major-land-uses/major-land-uses/#Forest-use%20land.
+ 42. S. Gold, A. Korotkov, V. Sasse, The development of European forest resources, 1950 
+to 2000. Forest Policy Econ. 8, 183–192 (2006).
+ 43. A. Haxeltine, I. C. Prentice, BIOME3: An equilibrium terrestrial biosphere model based 
+on ecophysiological constraints, resource availability, and competition among plant 
+functional types. Global Biogeochem. Cycles 10, 693–709 (1996).
+ 44. A. Favero, R. Mendelsohn, B. Sohngen, Can the global forest sector survive 11°C 
+warming? Agric. R. Econ. Rev. 47, 388–413 (2018).
+ 45. J. B. Kim, E. Monier, B. Sohngen, G. S. Pitts, R. Drapek, J. McFarland, S. Ohrel, J. Cole, 
+Assessing climate change impacts, benefits of mitigation, and uncertainties on major 
+global forest regions under multiple socioeconomic and emissions scenarios.  
+Environ. Res. Lett. 12, 045001 (2017).
+ 46. X. Tian, B. Sohngen, J. B. Kim, S. Ohrel, J. Cole, Global climate change impacts on forests 
+and markets. Environ. Res. Lett. 11, 035011 (2016).
+ 47. R. Mendelsohn, B. Sohngen, Has historic forest and land management actually caused 
+extensive carbon emissions? Journal of Forest Economics, Forthcoming (2019).
+ 48. B. Sohngen, M. E. Salem, J. S. Baker, M. J. Shell, S. J. Kim, The influence of parametric 
+uncertainty on projections of forest land use, carbon, and markets. J. Forest Econ. 34, 
+129–158 (2019).
+ 49. A. Favero, E. Massetti, Trade of woody biomass for electricity generation under climate 
+mitigation policy. Resour. Energ. Econ. 36, 166–190 (2014).
+ 50. B. Sohngen, R. Sedjo, Potential carbon flux from timber harvests and management 
+in the context of a global timber market. Clim. Change 44, 151–172 (2000).
+ 51. J. K. Winjum, S. Brown, B. Schlamadinger, Forest harvests and wood products: Sources 
+and sinks of atmospheric carbon dioxide. Forest Sci. 44, 272–284 (1998).
+Acknowledgments 
+Funding: This project was supported by the USDA National Institute of Food and Agriculture 
+McIntire-Stennis project number ME0-41825 through the Maine Agricultural & Forest 
+Experiment Station; Maine Agricultural and Forest Experiment Station Publication number 
+3701. Author contributions: A.F., A.D., and B.S. contributed the central idea, and A.F. and A.D. 
+refined the idea. A.F., A.D., and B.S. analyzed the data. A.F., A.D., and B.S. contributed equally to 
+the drafting of the manuscript. Competing interests: The authors declare that they have no 
+competing interests. Data and materials availability: All data needed to evaluate the 
+conclusions in the paper are present in the paper and/or the Supplementary Materials. 
+Additional data related to this paper may be requested from the authors.
+Submitted 9 July 2019
+Accepted 2 January 2020
+Published 25 March 2020
+10.1126/sciadv.aay6792
+Citation: A. Favero, A. Daigneault, B. Sohngen, Forests: Carbon sequestration, biomass energy, 
+or both? Sci. Adv. 6, eaay6792 (2020).
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020
+Forests: Carbon sequestration, biomass energy, or both?
+Alice Favero, Adam Daigneault and Brent Sohngen
+DOI: 10.1126/sciadv.aay6792
+6 (13), eaay6792.
+Sci Adv 
+ARTICLE TOOLS
+http://advances.sciencemag.org/content/6/13/eaay6792
+MATERIALS
+SUPPLEMENTARY 
+http://advances.sciencemag.org/content/suppl/2020/03/23/6.13.eaay6792.DC1
+REFERENCES
+http://advances.sciencemag.org/content/6/13/eaay6792#BIBL
+This article cites 41 articles, 5 of which you can access for free
+PERMISSIONS
+http://www.sciencemag.org/help/reprints-and-permissions
+Terms of Service
+Use of this article is subject to the 
+York Avenue NW, Washington, DC 20005. The title Science Advances is a registered trademark of AAAS.
+(ISSN 2375-2548) is published by the American Association for the Advancement of Science, 1200 New
+Science Advances 
+License 4.0 (CC BY-NC).
+Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution NonCommercial 
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of
+Downloaded from http://advances.sciencemag.org/ on June 25, 2020

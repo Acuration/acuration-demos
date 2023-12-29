@@ -1,0 +1,461 @@
+Chapter 5
+Alternatives Considered
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-1 
+ 
+CONTENTS 
+5. 
+Alternatives Considered ..................................................................................... 2 
+5.1 Introduction ............................................................................................... 2 
+5.2 Project Site Selection ................................................................................ 2 
+5.3 Power Generation Plant ............................................................................ 3 
+5.4 Gas Connection ......................................................................................... 7 
+5.5 Electrical Connection ................................................................................. 9 
+5.6 Ecological Mitigation Area ......................................................................... 9 
+5.7 References .............................................................................................. 10 
+ 
+FIGURES 
+Figure  5.1: Access Route Options 
+Figure 5.2: Gas Connection Options 
+Figure 5.3: Opportunity Areas 
+ 
+APPENDICIES 
+Appendix 5.1: Combined Heats and Power Technical Note 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-2 
+ 
+5. 
+Alternatives Considered 
+5.1 
+Introduction 
+5.1.1 
+Schedule 4, Part 1 of the EIA Regulations (Ref. 5.1) requires that an ES provides 
+‘An outline of the main alternatives studied by the Applicant [APL] and an indication 
+of the main reasons for the Applicant's [APL’s] choice, taking into account the 
+environmental effects’. Under the EIA Regulations applicable to this Project there is 
+no requirement to assess alternatives, only a requirement to provide an outline of 
+those alternatives that have actually been considered. In this case, the need to 
+consider alternatives is not engaged under the Habitats Regulations or pursuant to 
+a policy requirement under Section 5.3, 5.7 and 5.9 of NPS EN-1. 
+5.1.2 
+This chapter therefore describes the site selection process followed by APL and the 
+key factors that led to the identification of the Project Site, and provides an outline 
+of the main generating equipment technologies, layouts and access, and Gas 
+Connection and Electrical Connection route options, considered for the Project. 
+5.2 
+Project Site Selection 
+5.2.1 
+APL’s site selection process began in 2010 and considered a range of factors, 
+including key factors identified in (Factors influencing site selection by developers) 
+of NPS EN-2. As recognised by NPS EN-2 (Chapter 2: Regulatory and Policy 
+Background, Section 2.7), it is for energy companies to decide what applications 
+to bring forward and the Government does not seek to direct applicants to particular 
+sites. In addition, the specific criteria considered by applicants, and the weight they 
+give to them, can and will vary from project to project. 
+5.2.2 
+The process followed by APL included the following main phases, in order to first 
+identify a number of potentially feasible sites and thereafter refine this set of sites 
+through increasingly detailed selection criteria: 
+ 
+Identification of a large number of potential sites across the UK through existing 
+data sources; 
+ 
+Refinement of this set of sites, driven mainly by the need for electrical 
+generation capacity to be located as closely as possible to the main sources of 
+demand in the UK; 
+ 
+Further refinement based on the layout of the electricity and gas transmission 
+networks in the UK, to ensure proximity to these networks; and 
+ 
+Assessment of the remaining sites based on technical, environmental and 
+economic factors, as well as consideration of whether or not a proposed Project 
+would be in accordance with local planning policy and with the availability of the 
+sites. 
+5.2.3 
+Within the final phase, the key technical considerations included the size of the site 
+(i.e. is a sufficient area available to support a power generation plant of up to 299 
+MWe and integral infrastructure) as well as any geographical or network-related 
+constraints to accessing gas and electricity connections. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-3 
+ 
+5.2.4 
+From an environmental perspective, consideration was given to the proximity of 
+sensitive receptors, such as residential properties or sites of ecological importance 
+(to avoid unacceptable impacts from noise and visual disturbance), the current 
+nature of the surrounding area (to limit impacts on the landscape character of the 
+area), previous site uses and land quality (to avoid sterilisation of the best and most 
+versatile agricultural land) and proximity to sensitive ecological habitats. 
+5.2.5 
+The key economic criterion is the proximity of a site to appropriate gas and 
+electrical connection points, in order to reduce the cost to the UK consumer and the 
+environmental impact of the associated connections. 
+5.2.6 
+Based on these factors, the Project Site was considered suitable for the following 
+main reasons: 
+ 
+It is in close proximity to a suitable electrical connection point; 
+ 
+It is in close proximity to a suitable gas connection point; 
+ 
+The Project Site does not include any nationally important environmental 
+designations; 
+ 
+The land available is of an adequate size to accommodate the Power 
+Generation Plant, Gas Connection and Electrical Connection; 
+ 
+The Project Site is largely situated on poor quality agricultural land (improved 
+grassland classified as Grade 4 agricultural land); 
+ 
+It is in close proximity to similar industrial developments including the Felindre 
+Gas Compressor Station and Substation; 
+ 
+The surrounding network is within an area of net electricity import; and 
+ 
+It is in close proximity to a well-developed road network to the Project Site. 
+5.2.7 
+As a result of the site selection process outlined above, Drax is bringing forward 
+three other power generation projects through the PA 2008 process. They are: 
+Progress Power Ltd at Eye Airfield in Suffolk (www.progresspower.co.uk): Hirwaun 
+Power Ltd at Hirwaun in South Wales (www.hirwaunpower.co.uk): and Millbrook 
+Power Ltd in Bedfordshire (www.millbrookpower.co.uk).  The first two projects listed 
+received DCOs in July 2015. A DCO application for Millbrook Power Limited was 
+submitted to the Planning Inspectorate in October 2017. 
+5.3 
+Power Generation Plant 
+5.3.1 
+The following technology options have been considered for the Power Generation 
+Plant: OCGT plant; Combined Cycle Gas Turbine (CCGT) plant; Reciprocating Gas 
+Engines (RGE) plant and CHP Plant. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-4 
+ 
+5.3.2 
+The operation of OCGT plant has been described previously in Section 3.4. CCGT 
+plant consist of the same plant items as OCGT, although they also utilise a heat 
+recovery steam generator (HRSG) which uses the waste heat from the exhaust 
+gases to produce steam which is used to power a steam turbine. RGE plant are 
+similar in operation to a large internal combustion engine, with a crankshaft driven 
+by pistons. CHP utilises waste heat from the combustion process to feed to other 
+industrial users (deemed off-takers) within the vicinity of the plant. Further 
+information is provided in a separate report prepared regarding the use of CHP at 
+the Project (Appendix 5.1). 
+5.3.3 
+OCGT is considered to be the most suitable technology choice for generating up to 
+299 MW as a peaking plant and operating at up to 2,250 hours at the Project Site 
+based on the following environmental, technical and feasibility considerations: 
+ 
+Visual impact: OCGT plants require shorter stack(s) compared to CCGT plant 
+and therefore are less visually intrusive in views from the surrounding 
+environment; 
+ 
+Water resources: Since no cooling is required for the condensing of steam, the 
+cooling requirements of OCGT plants are significantly lower than, for example, 
+CCGT plants. The auxiliary cooling requirements (for lubrication oil, etc.) would 
+be met via dry air cooling through the use of fin-fan coolers or Air Cooled 
+Condensers (ACC). The water requirement of a OCGT plant is therefore 
+significantly lower than for CCGT plants; 
+ 
+Noise and available space: noise levels from an OCGT plant would typically be 
+lower than for an RGE plant. A larger number of RGE units would be required 
+at the Generating Equipment Site to generate up to 299 MW. Spatially this may 
+not be possible; 
+ 
+Financial: based on the anticipated electricity market, it is essential that the 
+Power Generation Plant of the size proposed would be particularly cost 
+effective, as it would be called upon to operate flexibly to balance out the 
+National Grid and meet changing demands of customers; and 
+ 
+Start-up times: OCGT plants are able to start up and shut down much quicker 
+than similar sized CCGT plants and are, therefore, better suited to meeting 
+variable demands. 
+5.3.4 
+Uncertain market conditions in 2014 led to the consideration of a number of 
+different OCGT technologies and, as such, the 2014 PEIR and associated formal 
+consultation process was based on the construction and operation of between 1 
+and 5 Gas Turbine Generators. However, greater clarity on the capacity market 
+rules, further engagement with the equipment manufacturers, and consultation with 
+the local community and relevant stakeholders has led to the decision that a single 
+Gas Turbine Generator is the best technology solution for the Project. These 
+changes have been reflected in the updated preliminary EIA and are reported on in 
+this PEIR. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-5 
+ 
+a) Layout 
+5.3.5 
+The design of an OCGT is dictated by its operational requirements. A limited range 
+of site layouts were examined before culminating in the final design of the Project 
+taking into account the following constraints: 
+ 
+Avoidance of utilities such as the 1.68 m cast iron Water Main and National 
+Gas Transmission System (hence bisects site under the Gallops); 
+ 
+Avoidance of landfill to north; 
+ 
+Avoidance of higher topography to the north west which would be more visible 
+in key views; 
+ 
+Avoidance of woodland to the East; 
+ 
+Avoidance of solar farms to the north, south, east and west; and 
+ 
+Avoidance of field boundaries, ancient woodland and mature trees as far as 
+reasonably possible (being wildlife/ heritage features). 
+5.3.6 
+The final layout of the Project Site has also been determined by the following main 
+factors in relation to each of the components, as discussed below. 
+i. 
+Generating Equipment 
+5.3.7 
+The Gas Turbine Generator and stack require the largest area of land-take as 
+compared to the other components. It is also best practice for the layout of the 
+Generating Equipment Site to make the Generating Equipment easily accessible by 
+the operators and maintenance staff from the control and administration building. 
+These were key considerations which influenced the siting of the Generating 
+Equipment Site.  
+5.3.8 
+However, the subsequent identification of the Water Main, which crosses the 
+Generating Equipment Site and Laydown Area from northwest to southeast (see 
+Figure 3.4), has influenced where the Generating Equipment will be located within 
+the Generating Equipment Site. The Water Main is owned by Welsh Water, who 
+has advised that typically a 30 m buffer (15 m either side of the Water Main) is 
+required to be kept clear of construction activities. To accommodate this 
+requirement, and to allow for uncertainty over the accuracy and digitisation of 
+Welsh Water’s archive drawings, a 60 m allowance has been incorporated in the 
+configuration of the Generating Equipment.  
+5.3.9 
+Further investigation works are ongoing to determine the exact location of the 
+Water Main but this is not expected to require any additional design changes due to 
+the 60 m allowance being applied and agreed with Welsh Water. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-6 
+ 
+5.3.10 The 2016 engineering review of the Project identified that the site for the 
+Generating Equipment could be contained in one location instead of being 
+separated by the Water Main by staging or raising the ground levels to create 
+platforms. By applying the same 60 m allowance to the location of the Water Main 
+and the reduction in gas turbine units to a single turbine unit, it was therefore 
+possible to fit the Generating Equipment Site into a single location to the north of 
+the gallops, thereby avoiding the requirement for splitting the Generation 
+Equipment and increasing the land available for potential Laydown Area and 
+Ecological Mitigation Area.  
+5.3.11 The majority of the Generating Equipment is therefore positioned to the north of the 
+Water Main. 
+ii. Access 
+5.3.12 During Phase 1 statutory consultation, two options were considered for access to 
+the Generating Equipment Site. Access Option 1 (so-called as it was identified first) 
+would have involved taking access from the north via the Rhyd-y-pandy Road and 
+the existing access road west of Brynheulog past Abergelli Farm which would need 
+to be extended to the Generating Equipment Site, as shown between the points D 
+and C on Figure 5.1. This option involved widening of the existing gravel track to 6 
+m and localised upgrades along the Rhyd-y-Pandy Road. The track crosses the 
+National Gas Transmission System. It runs parallel to the Water Main but does not 
+cross it. 
+5.3.13 Subsequently, a second access option, known as Access Option 2, was identified. 
+This is from the west via the B4489, along the access road to the Substation and 
+Felindre Gas Compressor Station, which will be widened to accommodate the 
+abnormal loads required during construction, and then along a new section of 
+purpose built access road to be constructed across undeveloped land to the 
+Generating Equipment Site as shown between the points A and B on Figure 5.1. 
+The purpose built extension from the existing access road to the Generating 
+Equipment Site will cross under a 400kV overhead electrical line, two watercourses 
+and a Local Transmission System pipeline. 
+5.3.14 Access Option 2 was the option taken forward and is referred to elsewhere in this 
+PEIR as the Access Road. The main reasons for this choice were that the majority 
+of the public consulted during 2014 supported Access Option 2 in preference to 
+Access Option 1, as it would result in a lower adverse impact on traffic by using a 
+shorter, more direct route and would avoid the roads leading to Morriston Hospital. 
+This option would also minimise the amount of construction required, as part of the 
+access is existing. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-7 
+ 
+5.3.15 Two onsite options (Option A and Option B) are being considered for the internal 
+new Access Road from the Substation to the Generating Equipment Site. These 
+are detailed in Chapter 3: Project and Site Description and shown on insert in 
+Figure 5.1. Further investigations and engineering reviews are ongoing, and so the 
+choice of route will be subject to consultation with interested parties. The final route 
+design will be confirmed at DCO submission, taking into account consultation 
+feedback.   
+b) Combined Heat and Power (CHP) 
+5.3.16 The potential for using CHP opportunities with these technologies was also 
+considered (Appendix 5.1). However, it is not technically or economically feasible 
+with a peaking power station in this location for the following reasons: 
+ 
+There is no existing regional heat market. From local searches, there are no 
+suitable heat users of applicable scale available and none able to accept the 
+unpredictable supply of heat available. 
+ 
+The intermittent and peaking modes of operation of OCGT are incompatible 
+with the likely continuous demands of heat users. 
+ 
+No potential future heat requirements in the area have been identified and none 
+are currently anticipated that would match the irregular operational pattern of a 
+peaking plant. 
+5.3.17 Given the lack of applicable heat demand as outlined above, it is not considered 
+reasonable to seek to make provision for exploiting potential future heat demand. 
+5.3.18 Based on the above environmental, technical and feasibility considerations, an 
+OCGT is considered to be the most suitable technology choice for generating up to 
+299 MW as a peaking plant and operating up to 2,250 hours at the Project Site.  
+5.4 
+Gas Connection 
+5.4.1 
+A gas connection feasibility study was undertaken in March 2014 to define and 
+evaluate the options available for connecting the Generating Equipment to a 
+suitable source of fuel gas. This identified Feeder 28 of the National Gas 
+Transmission System or a nearby Local Transmission System pipeline as possible 
+connection points. The location of these connection points in relation to the Project 
+Site is shown on Figure 5.2. 
+5.4.2 
+Investigations to identify specific route corridor options to the National Gas 
+Transmission System or Local Transmission System pipelines within a 
+predetermined Gas Connection Opportunity Area (Figure 5.2) were carried out, 
+considering in particular the length, the number of crossings required, 
+environmental effects and cost. The Gas Connection Opportunity Area was defined 
+as a result of a gas feasibility study undertaken by Parsons Brinkerhoff in 2014. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-8 
+ 
+5.4.3 
+The four principal potential connection route options (shown on Figure 5.2) listed 
+below were explored further leading to the identification of a single preferred route 
+for the Gas Connection. Due regard has been paid to relevant factors including 
+environmental, planning, safety, engineering and constructability in selecting the 
+preferred route. 
+5.4.4 
+Route 1 was approximately 1.7 km in length and included: no major road crossings; 
+four minor road crossings; no major watercourse crossings; and two minor 
+watercourse crossings. This route was a feasible route although it presented some 
+major risks in regards to the potential for impacts on protected species and their 
+habitats and proximity to the development of a Solar Farm at Abergelli Farm, to the 
+west of the National Gas Transmission System. 
+5.4.5 
+Route 2 was approximately 1.2 km in length and included: no major road crossings; 
+one minor road crossing; no major watercourse crossings; and one minor 
+watercourse crossing. This route avoids pasture and deciduous woodland which 
+have been identified as favourable for protected species. Although this route would 
+not be as straight forward as Route 4 to implement, it is more viable than Route 1. 
+A major risk remains in the possibility of routeing through the proposed solar farm 
+or alongside and parallel to the National Gas Transmission System. Therefore, 
+variations to this route were considered as Routes 2a and 2b. Route 2a would 
+travel between the National Gas Transmission System and the edge of Abergelli 
+Solar Farm and Route 2b as proposed would cross the National Gas Transmission 
+System twice. 
+5.4.6 
+Route 3 was approximately 1.4 km in length and included: no major road crossings; 
+one minor road crossing; no major watercourse crossings; and three minor 
+watercourse crossings. Route 3 was considered the most viable alternative to 
+Route 2. The route crosses the National Gas Transmission System and therefore 
+would require the use of the HDD crossing technique. 
+5.4.7 
+Route 4 was approximately 0.4 km in length and included: no major road crossings; 
+no minor road crossings; no major watercourse crossings; and one minor 
+watercourse crossing. Route 4 would connect into the Local Transmission System. 
+The route would allow little buffer capacity and would require negotiation with 
+Wales and West Utilities in regards to their availability of fuel gas capacity. 
+5.4.8 
+Initially, Route 2 was chosen as the preferred option as it represented the shortest 
+distance, whilst avoiding environmental constraints and risks associated with 
+crossing the existing National Gas Transmission System. 
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-9 
+ 
+5.4.9 
+Route 2a, which was the option to route the Pipeline between the solar park and 
+the National Gas Transmission System, was also deemed unfeasible following 
+discussions with National Grid who are owners of the National Gas Transmission 
+System. Proceeding with Route 2a would involve working in close proximity with 
+the National Gas Transmission System hence working under very constrained 
+conditions over a longer distance compared to Route 2b which crosses the National 
+Gas Transmission System at 2 locations over a shorter distance where working 
+conditions would be more favourable. 
+5.4.10 Consequently Route 2b was chosen as the preferred route for the Gas Connection 
+and is therefore the route which has been fully assessed in this PEIR. Although not 
+the shortest route, it has lower risks and avoids ecologically significant habitats, 
+such as rough pasture and deciduous woodland which were identified during the 
+Phase 1 Habitat Survey (see Appendix 8.1). 
+5.5 
+Electrical Connection 
+5.5.1 
+A grid connection assessment was undertaken for the Project in March 2014 in 
+order to define and evaluate the options available for connecting the Generating 
+Equipment to the NETS for the export of electricity. The Project will connect into a 
+Gas Insulated Switchgear (GIS) generator bay within the Substation. Agreements 
+between NGET and APL to connect the Project into the Substation were signed on 
+21st September 2017.   
+5.5.2 
+Both underground cables and overhead lines were initially considered. However, 
+underground cables were selected as the preferred option in order to minimise 
+visual impact. In the 2014 PEIR, it was noted that the cable would be installed 
+beneath the road. The cable is now being laid alongside the road for ease of 
+maintenance.  
+5.5.3 
+The Electrical Connection Opportunity Area (see Figure 5.3), to the south west of 
+the Generating Equipment Site, is the area within which the route for the Electrical 
+Connection has been identified. In July 2014, the chosen route (as described in 
+Section 3.6) was identified during a site walkover of the Electrical Connection 
+Opportunity Area. A limited number of route corridor options for the Electrical 
+Connection were considered, as the most appropriate option i.e. the shortest, most 
+direct route from the Generating Equipment Site to the Substation, requiring the 
+least amount of land take and avoiding any statutory designated sites or valued 
+habitats, was available (see Figure 5.3). This negated the need to assess any less 
+favourable options. 
+5.6 
+Ecological Mitigation Area 
+5.6.1 
+An area has been set aside within the Project Site boundary to be available for 
+ecological mitigation if required. The location and area will be confirmed post-
+consultation once discussions with NRW and CCS have been undertaken. The 
+area is likely to be commensurate with the extent of mitigation required and within 
+the Order Limits of the Project.  
+Abergelli PEIR 2018 – CHAPTER 5: ALTERNATIVES CONSIDERED 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5-10 
+ 
+5.7 
+References 
+Ref. 5.1 
+ The Infrastructure Planning (Environmental Impact Assessment) Regulations 
+2009 (as amended) (‘the EIA Regulations’). 
+ 
+ 

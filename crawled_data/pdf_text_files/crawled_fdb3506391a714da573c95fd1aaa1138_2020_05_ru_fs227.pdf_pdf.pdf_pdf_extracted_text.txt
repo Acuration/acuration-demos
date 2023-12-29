@@ -1,0 +1,720 @@
+Greenhouse Gas Emissions and Removals from Forest Land, 
+Woodlands, and Urban Trees in the United States, 1990-2018
+Introduction
+As a signatory to the United Nations Framework Convention on Climate Change (UNFCCC), the United States has 
+been reporting an economy-wide Inventory of greenhouse gas (GHG) emissions and removals since the mid-1990s (US 
+EPA 2020). Forest land, harvested wood products (HWPs), and urban trees within the land sector collectively represent 
+the largest net carbon (C) sink in the United States, offsetting more than 11 percent of total GHG emissions annually 
+(US EPA 2020). Estimates of GHG emissions and removals are compiled by U.S. Department of Agriculture (USDA) 
+Forest Service researchers and are based primarily on National Forest Inventory (NFI) data collected and maintained by 
+the Forest Inventory and Analysis (FIA) program within the USDA Forest Service. This report—the second in a new 
+series of annual updates—provides an overview of the status and trends of GHG emissions and removals from forest 
+land, woodlands in the grassland category, HWPs, and urban trees in settlements in the United States from 1990 to 
+2018. The estimates for the United States summarized here are based on the compilation reported in the Land Use, 
+Land-Use Change, and Forestry chapter of the US EPA (2020) submission to the UNFCCC. New in this report, most of 
+the national scale estimates are also reported by individual U.S. state (Fig. 1) and are available online for the entire 
+1990-2018 time series (see appendix).
+Figure 1.—Estimated annual emissions and removals from forest land remaining forest land by carbon pool for 
+each of the conterminous 48 states in 2018 (MMT CO2 Eq.). Note that points and confidence intervals (95 
+percent) reflect net flux for all carbon pools in each state. Negative estimates indicate net C uptake (i.e., a net 
+removal of C from the atmosphere). 
+1
+Forest Service | 2020
+United States Department of Agriculture
+RESOURCE UPDATE FS-227
+RESOURCE UPDATE FS-227
+Forest Carbon Cycle
+Carbon is continuously cycled among ecosystem pools 
+and the atmosphere as a result of biogeochemical 
+processes in forests (e.g., photosynthesis, respiration, 
+decomposition, and disturbances such as fires or pest 
+outbreaks) and anthropogenic activities (e.g., 
+harvesting, thinning, and replanting). As trees 
+photosynthesize and grow, C is removed from the 
+atmosphere and stored in living tree biomass. As trees 
+die and otherwise deposit litter and debris on the 
+forest floor, C is released to the atmosphere and is also 
+transferred to the litter, dead wood, and soil pools by 
+organisms that facilitate decomposition. 
+The net change in forest C is not equivalent to the net 
+flux between forests and the atmosphere because 
+timber harvests do not result in an immediate flux of 
+all harvested biomass C to the atmosphere. Instead, 
+following harvesting a portion of the C stored in wood 
+is transferred to a "product pool." Once in a product 
+pool, the C is emitted over time as carbon dioxide 
+(CO2) from decomposition and as CO2, methane 
+(CH4), nitrous oxide (N2O), carbon monoxide (CO), 
+and other nitrogen oxides (NOx) when the wood 
+product combusts. The rate of emission varies 
+considerably among different product pools. 
+Total Emissions and Removals
+Forest land, HWPs, woodlands, and urban trees in settlements collectively represent a net GHG sink over the UNFCCC 
+reporting period, with interannual variability driven, in large part, by natural and anthropogenic disturbances (e.g., 
+wildfire, harvesting), land conversions, and changes in HWPs in use (Table 1.; US EPA 2020).  In 2018, forest land, 
+HWPs, woodlands, and urban trees in settlements collectively represented an estimated net uptake of 752.9 million 
+metric tons of carbon dioxide equivalent (MMT CO2 Eq.). The category “forest land remaining forest land” was the 
+largest net sink in the land sector, with an estimated uptake of 564.5 MMT CO2 Eq. Conversions from forest land were 
+the largest source of emissions within the categories included in this report, with estimated emissions of 127.4 MMT 
+CO2 Eq. (Table 1; US EPA 2020). 
+For estimating C stocks or stock change (flux), C in 
+forest ecosystems can be divided into the following 
+five storage pools (IPCC 2006):
+
+Aboveground biomass—all living biomass
+above the soil including stem, stump,
+branches, bark, seeds, and foliage. This pool
+includes live understory.
+
+Belowground biomass—all living biomass of
+coarse living roots greater than 2 millimeters
+(mm) diameter.
+
+Dead wood—all nonliving woody biomass
+either standing, lying on the ground (but not
+including litter), or in the soil.
+
+Litter—the litter, fumic, and humic layers,
+and all nonliving biomass with a diameter
+less than 7.5 centimeters (cm) at transect
+intersection, lying on the ground.
+
+Soil organic C (SOC)—all organic material
+in soil to a depth of 1 meter but excluding the
+coarse roots of the belowground pools.
+In addition, two harvested wood pools are included 
+when estimating C flux:
+
+Harvested wood products (HWP) in use.
+
+HWP in solid waste disposal sites (SWDS).
+Table 1.—Emissions and removals (net flux) from land use, land-use change, and forestry (MMT CO2 Eq.)
+2 
+Emissions and Removals Categorya
+1990
+1995
+2000
+2005
+2010
+2016
+2017
+2018
+Forest land remaining forest landb
+(610.1)
+(598.7)
+(572.1)
+(572.6)
+(556.2)
+(565.5)
+(552.0)
+(564.5)
+Non-CO2 emissions from fire
+1.5 
+0.6 
+2.9 
+8.2 
+4.6 
+5.6 
+18.8 
+18.8 
+N2O emissions from forest soils
+0.1 
+0.3 
+0.5 
+0.5 
+0.5 
+0.5 
+0.5 
+0.5 
+Non-CO2 emissions from drained organic soils
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
+Forest land converted to non-forest landb
+119.1 
+120.8 
+122.5 
+124.4 
+126.0 
+127.4 
+127.4 
+127.4 
+Non-forest land converted to forest landb
+(109.4)
+(109.7)
+(109.9)
+(110.2)
+(110.4)
+(110.6)
+(110.6)
+(110.6)
+Harvested wood products
+(123.8)
+(112.2)
+(93.4)
+(106.0)
+(69.1)
+(92.4)
+(95.7)
+(98.8)
+Woodlands remaining woodlandsc
+5.0 
+4.9 
+4.8 
+4.6 
+4.4 
+4.1 
+4.0 
+4.0 
+Urban trees in settlementsd
+(96.4)
+(103.3)
+(110.4)
+(117.4)
+(124.6)
+(129.8)
+(129.8)
+(129.8)
+Total Emissions and Removals
+(813.9)
+(797.2)
+(755.0)
+(768.4)
+(724.7)
+(760.6)
+(737.3)
+(752.9)
+a For details on how estimates were compiled see US EPA 2020.
+b Estimated emissions and removals include the net changes to C stocks stored in all ecosystem pools.
+c Estimates for woodlands, which are included in the grassland land use category, were compiled using the same methods and models as those in the forest land category.
+d Estimates of emissions and removals from urban trees in settlements were compiled using percentage tree cover in carbon sequestration density per unit of tree cover.
+Notes: Totals may not sum due to independent rounding. Parentheses indicate net C uptake (i.e., a net removal of C from the atmosphere). 
+Carbon Pools
+RESOURCE UPDATE FS-227
+Forest Land Remaining Forest Land and Harvested Wood Products
+Within the “forest land remaining forest land” category, aboveground live biomass is the largest contributor to the net 
+uptake over the reporting period, followed by belowground live biomass and dead wood (Table 2). Harvested wood 
+products in use and in solid waste disposal sites (SWDS) are also an important contributor to the net sink in the land sector, 
+and 2018 estimates for both pools increased from previous years. 
+Table 2.—Emissions and removals (net flux) from forest land remaining forest land and harvested wood pools
+(MMT CO2 Eq.)
+3 
+Carbon Poola
+1990
+1995
+2000
+2005
+2010
+2016
+2017
+2018
+Forest ecosystem
+(610.1)
+(598.7)
+(572.1)
+(572.6)
+(556.2)
+(565.5)
+(552.0)
+(564.5)
+Aboveground biomass
+(425.1)
+(416.1)
+(392.7)
+(391.3)
+(391.3)
+(397.0)
+(381.2)
+(385.2)
+Belowground biomass
+(98.6)
+(96.6)
+(91.5)
+(90.8)
+(90.3)
+(91.1)
+(87.6)
+(88.6)
+Dead wood
+(81.9)
+(82.8)
+(82.7)
+(84.1)
+(83.4)
+(87.6)
+(83.1)
+(86.4)
+Litter
+(5.0)
+(3.5)
+(4.5)
+(5.2)
+(1.4)
+(0.9)
+(3.5)
+(3.1)
+Soil (mineral)
+0.3 
+(0.1)
+(1.0)
+(1.8)
+4.6 
+8.2 
+1.4 
+(3.3)
+Soil (organic)
+(0.6)
+(0.5)
+(0.3)
+(0.1)
+4.9 
+2.3 
+1.4 
+1.4 
+Drained organic soil
+0.8 
+0.8 
+0.8 
+0.8 
+0.8 
+0.8 
+0.8 
+0.8 
+Harvested wood
+(123.8)
+(112.2)
+(93.4)
+(106.0)
+(69.1)
+(92.4)
+(95.7)
+(98.8)
+Products in use
+(54.8)
+(51.7)
+(31.9)
+(42.6)
+(7.4)
+(27.8)
+(30.3)
+(31.5)
+SWDS
+(69.0)
+(60.5)
+(61.5)
+(63.4)
+(61.7)
+(64.6)
+(65.5)
+(67.2)
+Total Net Flux
+(733.9)
+(710.9)
+(665.5)
+(678.6)
+(625.3)
+(657.9)
+(647.7)
+(663.2)
+Carbon Poola
+a For details on these estimates and how they were compiled see US EPA 2020.  
+Notes: Totals may not sum due to independent rounding. Parentheses indicate net C uptake (i.e., a net removal of C from the atmosphere).
+1990
+1995
+2000
+2005
+2010
+2017
+2018
+2019
+Forest
+51,527 
+52,358 
+53,161 
+53,886 
+54,663 
+55,746 
+55,897 
+56,051 
+Aboveground biomass
+11,833 
+12,408 
+12,962 
+13,484 
+14,020 
+14,780 
+14,884 
+14,989 
+Belowground biomass
+2,350 
+2,483 
+2,612 
+2,734 
+2,858 
+3,033 
+3,056 
+3,081 
+Dead wood
+2,120 
+2,233 
+2,346 
+2,454 
+2,568 
+2,731 
+2,753 
+2,777 
+Litter
+3,662 
+3,670 
+3,676 
+3,647 
+3,646 
+3,639 
+3,640 
+3,641 
+Soil (mineral)
+25,636 
+25,636 
+25,637 
+25,639 
+25,641 
+25,637 
+25,637 
+25,638 
+Soil (organic)
+5,927 
+5,928 
+5,928 
+5,929 
+5,929 
+5,926 
+5,926 
+5,926 
+Harvested wood
+1,895 
+2,061 
+2,218 
+2,353 
+2,462 
+2,616 
+2,642 
+2,669 
+Products in use
+1,249 
+1,326 
+1,395 
+1,447 
+1,471 
+1,505 
+1,513 
+1,521 
+SWDS
+646 
+735 
+823 
+906 
+991 
+1,112 
+1,129 
+1,148 
+Total stocks
+53,423 
+54,419 
+55,380 
+56,239 
+57,124 
+58,362 
+58,539 
+58,720 
+Table 3.—Carbon stocks in forest land remaining forest land and harvested wood pools (MMT C)
+a For details on these estimates and how they were compiled see US EPA 2020.  
+Notes: Totals may not sum due to independent rounding. Forest C stock estimates include all forest land remaining forest land in the conterminous 48 states and Alaska. 
+Forest ecosystem C stocks do not include U.S. Territories because managed forest land for U.S. Territories is not currently included in Section 6.1 Representation of the 
+U.S. Land Base. Forest ecosystem C stocks also do not include Hawaii because there is not sufficient NFI data to support inclusion at this time. Forest ecosystem C 
+stocks on managed forest land in Alaska were compiled using the gain-loss method as described in Annex 3.13. Harvested wood product stocks include exports, even if 
+the logs are processed in other countries, and excludes imports. Harvested wood estimates are based on results from annual surveys and models. Totals may not sum due 
+to independent rounding. Population estimates compiled using FIA data are assumed to represent stocks as of January 1 of the inventory year. Flux is the net annual 
+change in stock. Thus, flux estimates for 2018 require C stocks for 2018 and 2019.
+Carbon stock estimates for forest ecosystem and harvested wood C storage pools are presented in Table 3. Together, the 
+estimated aboveground biomass and soil C pools account for a large proportion of total forest ecosystem C stocks. By 
+maintaining current harvesting practices and regeneration activities on these forested lands, along with continued input of 
+harvested products into the HWP pool, C stocks in forests are likely to continue to increase in the near term, though 
+possibly at a lower rate. Because most of the timber harvested from U.S. forest land is used in wood products and many 
+discarded wood products are disposed of in SWDS rather than by incineration, significant quantities of C in harvested 
+wood are transferred to these long-term storage pools rather than being released rapidly to the atmosphere (Skog 2008).
+RESOURCE UPDATE FS-227
+Forest Land Conversions
+Land use conversions to and from forest land result in substantial emissions and removals each year. In this section all 
+emissions and removals included for land conversions to and from forest land, as reported in US EPA (2020), are 
+included in Table 4. Forest land conversion to settlements was the largest source of emissions in the conversion 
+categories while cropland conversion to forest land resulted in the largest annual uptake. Considering all forest land 
+conversions included in the US EPA (2020) report, over the reporting period there have been net emissions each year, 
+with estimated net emissions of 16.7 MMT CO2 Eq. for the most recent year.
+4
+Table 4.—Emissions and removals (net flux) from conversions to and from forest land (MMT CO2 Eq.)
+a For details on these estimates and how they were compiled see US EPA 2020.  
+Notes: Totals may not sum due to independent rounding. Parentheses indicate net C uptake (i.e., a net removal of C from the atmosphere). Emissions and removals from 
+forest land converted to other lands are currently not included in US EPA (2020). Forest land converted to wetlands estimates were not compiled by the Forest Service.
+Land Conversionsa
+1990
+1995
+2000
+2005
+2010
+2016
+2017
+2018
+Forest land converted to cropland 
+48.6 
+48.7 
+48.5 
+48.4 
+48.3 
+48.7 
+48.7 
+48.7 
+Forest land converted to grassland  
+15.9 
+15.8 
+16.0 
+16.0 
+16.0 
+15.9 
+15.9 
+15.9 
+Forest land converted to settlements 
+54.6 
+56.3 
+58.0 
+59.9 
+61.6 
+62.9 
+62.9 
+62.9 
+Cropland converted to forest land
+(45.9)
+(45.9)
+(46.0)
+(46.1)
+(46.2)
+(46.3)
+(46.3)
+(46.3)
+Grassland converted to forest land
+(9.8)
+(9.7)
+(9.7)
+(9.6)
+(9.6)
+(9.7)
+(9.7)
+(9.7)
+Other land converted to forest land
+(14.3)
+(14.5)
+(14.6)
+(14.8)
+(14.9)
+(14.9)
+(14.9)
+(14.9)
+Settlements converted to forest land (38.6)
+(38.6)
+(38.7)
+(38.7)
+(38.8)
+(38.9)
+(38.9)
+(38.9)
+Wetlands converted to forest land
+(0.9)
+(0.9)
+(0.9)
+(0.9)
+(0.9)
+(0.9)
+(0.9)
+(0.9)
+Net Emissions and Removals
+9.6 
+11.2 
+12.6 
+14.3 
+15.6 
+16.7 
+16.7 
+16.7 
+Land Area
+The land area included in the US EPA (2020) report includes lands directly influenced by human intervention. Direct 
+intervention occurs mostly in areas accessible to human activity and includes altering or maintaining the condition of the 
+land to produce commercial or noncommercial products or services; to serve as transportation corridors or locations for 
+buildings, landfills, or other developed areas for commercial or noncommercial purposes; to extract resources or facilitate 
+acquisition of resources; or to provide social functions for personal, community, or societal objectives where these areas 
+are readily accessible to society. Forest Inventory and Analysis data from each of the conterminous 48 states and Alaska 
+comprise an estimated 280 million hectares (ha) of forest land that are considered managed and are included in this report 
+along with an additional 10 million ha of non-forest land converted to forest land. Some differences exist in forest land 
+area estimates in the latest update to the Resources Planning Act Assessment (Oswalt et al. 2019) and the forest land area 
+estimates included in the US EPA (2020) report, which are based on annual FIA data through 2018 for all states (USDA 
+Forest Service 2019). These differences are due, in large part, to the separation of land categories and the managed land 
+definition used in the US EPA (2020) report (Nelson et al. 2020). Sufficient annual inventory data are not yet available 
+for Hawaii, but estimates of these areas are included in Oswalt et al. (2019). Even though Hawaii and U.S. Territories 
+have relatively small areas of forest land that may not substantially influence the overall C budget for forest land, these 
+regions will be added to the forest C estimates as sufficient data become available. Agroforestry systems that meet the 
+definition of forest land are also not currently included in the US EPA (2020) report since they are not explicitly 
+inventoried (i.e., they are classified as agroforestry system) by either the FIA program or the Natural Resources Inventory 
+of the USDA Natural Resources Conservation Service. Woodland area is included in the “grassland remaining 
+grassland” and “land converted to grassland” categories and is not explicitly separated in the US EPA (2020) report as a 
+subcategory of grasslands. Combined, forest land and woodland area accounts for more than 311 million ha (Table 5).
+Table 5.—Annual estimates of forest land and woodland area (1000 ha)
+Land Area Categorya
+1990
+1995
+2000
+2005
+2010
+2018
+2019
+Forest land remaining forest land
+279,748 
+279,840 
+280,025 
+279,749 
+279,918 
+279,787 
+279,682 
+Non-forest land converted to forest land
+9,622 
+9,654 
+9,689 
+9,725 
+9,761 
+9,796 
+9,796 
+Woodland remaining woodlandb
+19,891 
+19,669 
+19,255 
+18,630 
+17,733 
+16,000 
+15,776 
+Non-woodland converted to woodlandb
+5,782 
+5,702 
+5,552 
+5,322 
+4,994 
+4,607 
+4,607 
+Total Area
+315,043 
+314,865 
+314,521 
+313,426 
+312,405 
+312,209 
+311,880 
+a For details on these estimates and how they were compiled see US EPA 2020.  
+bWoodland area is included in the “remaining grassland” and “land converted to grassland” categories and is not explicitly separated in the US EPA (2020) report. 
+Notes: Totals may not sum due to independent rounding. The estimates reported here may differ from the Land Representation section of US EPA (2020) but are 
+consistent with estimates used to compile emissions and removals in these categories. See Annex 3.13 in US EPA (2020) for more details.
+RESOURCE UPDATE FS-227
+Planned Improvements
+Planned improvements to estimation and reporting include 
+the following general topics: development of a more robust 
+estimation and reporting system, individual C pool 
+estimation, coordination with other land-use categories, 
+and annual inventory data incorporation. Research is 
+underway to leverage auxiliary information (i.e., remotely 
+sensed information) to operate at finer spatial and temporal 
+scales. As in past submissions, emissions and removals 
+associated with natural (e.g., wildfire, insects, and disease) 
+and human (e.g., harvesting) disturbances are implicitly 
+included in the report given the design of the annual NFI, 
+but are not explicitly estimated. In addition to integrating 
+auxiliary information into the estimation framework, 
+alternative estimators are also being evaluated that will 
+eliminate latency in population estimates from the NFI, 
+improve annual estimation and characterization of 
+interannual variability, facilitate attribution of fluxes to 
+particular activities, and allow for easier harmonization of 
+NFI data with auxiliary data products. There are also 
+investments being made to leverage state-level wood 
+products and harvest information to allow for the 
+disaggregation of HWPs estimates at the state level. 
+Collectively these improvements are expected to reduce 
+uncertainties in the estimates at the national and state 
+scales and facilitate entity-level estimation and reporting. 
+5
+Literature Cited
+Intergovernmental Panel on Climate Change [IPCC]. 2006 IPCC guidelines for national greenhouse gas inventories. Hayma, Japan: Institute for Global 
+Environmental Strategies. https://www.ipcc-nggip.iges.or.jp/public/2006gl/ (accessed 9 April 2020).
+Nelson, M.D.; Riitters, K.H.; Coulston, J.W.; Domke, G.M.; Greenfield, E.J.; Langner, L.L.; Nowak, D.J.; O'Dea, C.B.; Oswalt, S.N.; Reeves, M.C.; Wear, 
+D.N. 2020. Defining the United States land base: a technical document supporting the USDA Forest Service 2020 RPA assessment. Gen. Tech. Rep. NRS-
+191. Madison, WI: U.S. Department of Agriculture, Forest Service, Northern Research Station. 70 p. https://doi.org/10.2737/NRS-GTR-191.
+Oswalt, S.N.; Smith, W. B.; Miles, P.D.; Pugh, S.A., coords. 2019. Forest resources of the United States, 2017: a technical document supporting the Forest 
+Service 2020 RPA Assessment. Gen. Tech. Rep. WO-97. Washington, DC: U.S. Department of Agriculture, Forest Service. 223 p. 
+https://doi.org/10.2737/WO-GTR-97.
+Skog, K.E. 2008. Sequestration of carbon in harvested wood products for the United States. Forest Products Journal. 58(6): 56-72.
+USDA Forest Service. 2020. Forest inventory and analysis national program: FIA data mart. Washington, DC: U.S. Department of Agriculture, Forest 
+Service. https://apps.fs.usda.gov/fia/datamart/datamart.html (accessed 1 November 2020).
+U.S. Environmental Protection Agency [US EPA]. 2020. Inventory of U.S. greenhouse gas emissions and sinks: 1990-2018. EPA 430-R-20-002. 
+Washington, DC: U.S. Environmental Protection Agency. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks-1990-2018
+(accessed 14 April 2020).
+Below are summary statistics from the compilation 
+of the forest land, woodlands, HWPs, and urban trees 
+in settlements in the US EPA (2020) report.
+
+Forest land, HWPs, and urban trees in settlements
+collectively offset more than 11 percent (752.9
+MMT CO2 Eq.) of total GHG emissions annually,
+or 14 percent of CO2 emissions.
+
+Forest land accounts for more than 95 percent of
+the net C sink within the land sector.
+
+Live vegetation in forests and urban trees account
+for nearly 80 percent of the C sink strength.
+
+Land conversions to and from forest land
+continue to result in net emissions (16.7 MMT
+CO2 Eq.).
+
+More than 56 percent of all carbon in forest
+ecosystems is stored in the soil with small stock
+changes annually.
+
+Carbon storage in HWPs continues to increase
+annually since the Great Recession.
+
+Forests uptake averages 0.6 metric tons of C per
+hectare per year (MT C ha-1 yr-1) with live
+vegetation accounting for more than 85 percent
+(0.5 MT C ha-1 yr-1) of the uptake.
+How to Cite This Publication
+Domke, Grant M.; Walters, Brian F.; Nowak, 
+David J.; Smith, James, E.; Ogle, Stephen M.; 
+Coulston, J.W.; Wirth, T.C. 2020. Greenhouse 
+gas emissions and removals from forest land, 
+woodlands, and urban trees in the United 
+States, 1990-2018. Resource Update FS-227. 
+Madison, WI: U.S. Department of Agriculture, 
+Forest Service, Northern Research Station. 5 p. 
+https://doi.org/10.2737/FS-RU-227.
+Contact Information
+Grant M. Domke, Research Forester
+USDA Forest Service, Northern Research Station
+1992 Folwell Ave.
+St. Paul, MN 55108
+Ph: 651-649-5138 Fax: 651-649-5140
+grant.m.domke@usda.gov
+Northern FIA: http://nrs.fs.fed.us/fia/
+National FIA: http://fia.fs.fed.us
+USDA is an equal opportunity provider,  employer, and lender
+The published report and state-level estimates are available online at http://doi.org/10.2737/FS-RU-227
+2020 Estimates at a Glance

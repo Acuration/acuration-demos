@@ -1,0 +1,352 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station Order 
+ 
+7.3 Index of Photographs 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+7.3 
+Regulation Number: 
+ 
+ 
+5(2)(q) 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018 
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Abergelli 2018 ES – Landscape and Visual Effects 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+2-1 
+ 
+Appendix 11.4 Visually Verified Montages and 
+Methodology 
+A.1 
+Visually Verified Montages Methodology 
+1.1.1 
+This section has been prepared by AECOM to explain the 
+methodology used for the production of the Visually Verified 
+Montages (VVMs) for the Project. 
+1.1.2 
+The purpose of a VVM is to present an accurate visualisation of 
+the Project, enabling its impact on the skyline, surrounding area 
+and setting to be objectively evaluated. This methodology 
+complies with the current photography and photomontage advice 
+note, which can be found here: 
+ 
+http://www.landscapeinstitute.org/PDF/Contribute/LIPhotographyAd
+viceNote01-11.pdf  
+1.1.3 
+Photographs and VVMs often form an important part of planning 
+applications and Environmental Statements, in which the 
+preparation and presentation of reliable visual information is 
+integral to the assessment of landscape and visual effects. 
+Photographs and VVMs are technical documents in this context, 
+and should be produced and used in a technically appropriate 
+manner. 
+a) Objectives 
+1.1.4 
+The overall aim of a VVM is to represent both the landscape 
+context under consideration and the proposed development, as 
+accurately as is practical. 
+1.1.5 
+The objective of a VVM is to simulate the likely visual changes 
+that would result from a proposed development, and to produce 
+printed images of a size and resolution sufficient to match the 
+perspective in the same view in the field. 
+1.1.6 
+VVMs use photographs of an actual scene modified by the 
+insertion of an accurate representation of the visible changes 
+brought about by the Proposed Development. They are subject to 
+the same inherent limitations as photographs, for example only 
+showing the scene as it would appear under the same conditions 
+that prevailed when the original photograph was captured. A 
+properly constructed VVM can serve as a useful tool to illustrate 
+the likely visual change that would result from a proposed 
+development 
+b) Photography 
+i. Digital Photography 
+1.1.7 
+Changes in all aspects of photography and VVMs have taken 
+place over the last ten years. 35mm colour film and the 
+associated cameras and lenses have been almost completely 
+supplanted by digital cameras; digital image processing is now a 
+fundamental element of photography, both within the firmware of 
+the camera and as a subsequent operation on a computer.  
+1.1.8 
+Printing has similarly become wholly digital, using a wide variety
+of devices offering different qualities of output. Future changes
+will undoubtedly further change the parameters for landscape
+photography. A good quality camera and lens are essential to the
+production of photographs and VVMs for landscape and visual
+impact assessment work.
+ii. Digital Camera & Lenses
+1.1.9 
+High resolution digital photography was captured with a Canon
+EOS 5D Mk III, a full-frame digital camera using a variety of fixed
+focal-length lenses to accommodate the necessary scope of the
+Development and relevant context. The camera was fixed to a
+tripod 1.5m above ground.
+iii. Data capture
+1.1.10 
+The photographer was provided with location information
+indicating the position of each viewpoint from which the required
+photographs were to be taken, plus a digital photograph of the
+desired view. For each photograph, the camera was positioned at
+a height of 1.5m above the ground level to approximate the
+human eye level. OS Location of the camera position was
+captured, as well as the focal length, date, time, weather and
+lighting conditions of the photograph. A variety of control points
+within the view were also accurately surveyed, in order to allow
+the 3D data to be camera matched or keyed into each
+photograph.
+c) Image Processing
+i. 
+File conversion
+1.1.11 
+The camera outputs a ‘raw’ file format, which was processed
+digitally to ensure colour accuracy. The final image was then
+outputted as a standard compressed file-type (JPG).
+ii. Image correction
+1.1.12 
+The compressed photographs were processed and stitched using
+the package Hugin, which provides a suite of advanced features
+and libraries for re-projecting and blending multiple source
+images into panoramics with exposure, vignetting and white
+balance correction. Despite the advances in digital photography
+over the last 10 years, the circular nature of lenses results in a
+small amount of distortion on the perimeter of images. Due to this,
+the very outer edges of an image are often not taken into
+consideration to minimise the risk of inaccuracy.
+d) 3D model
+i. 
+3D model creation
+1.1.13 
+A three-dimensional computer model of the development and the
+various assessment features was supplied by WSP, in house 
+GIS teams and other designers.
+ 
+ii. Scale, height & position check 
+1.1.14 
+Once received, the model was positioned using Architectural 
+general arrangement drawings, OS site plans and surveyed level 
+information. The surveyed control points were then brought into 
+the model, in an easily visible contrasting colour. Virtual cameras 
+of matching specifications to the recorded camera and lens used 
+for each view were then placed within the scene at the correct 
+surveyed location. The virtual 3D camera was then rotated to the 
+correct position using the captured photography as a backplate. 
+e) Rendering 
+i. 
+Sunlight & daylight 
+1.1.15 
+The VRaySun and VRaySky are special features within our 
+rendering software which are provided as part of the Chaosgroup 
+Vray renderer, utilised by AECOM. Developed to work together, 
+the VRaySun and VRaySky reproduce the real-life Sun and Sky 
+environment of the Earth. Both are programed so that they 
+change their appearance depending on a number of factors, such 
+as the direction of the VRaySun; which was dynamically linked 
+and geo-referenced to the real world position of the site, the time, 
+day and month. Different sky options were also chosen (clear, 
+overcast, etc.) to match the digital photography. 
+1.1.16 
+Using this lighting system, alongside the physically accurate 
+material properties, the software calculated the effects of the sun 
+and sky conditions on the appearance of the proposed scheme, 
+maximising fidelity of the illustrated structures. 
+f) Post production 
+i. 
+Post production 
+1.1.17 
+Once the rendering stage was complete, the images were 
+brought into Adobe Photoshop to superimpose the proposed 
+development onto the digital images of the site. The foreground 
+details such as trees, buildings or signage were then overlaid as 
+masks; ensuring the depth of the various items was represented 
+correctly. If required, the rendered image was then further edited 
+to accurately match the colour, saturation and environmental 
+effects shown in the photograph. This is a qualitative or subjective 
+process, but effort is made to ensure it provides objectively 
+accurate views of the Development as proposed. 
+g) Review 
+i. 
+Review 
+1.1.18 
+A final qualitative check of all of the AVRs was carried out with 
+other members of the project team to ensure that they provided 
+objectively accurate views of the Project from the information 
+provided. 
+ Abergelli 2018 ES – Landscape and Visual Effects 
+Prepared for:  Abergelli Power Limited   
+ 
+ 
+A.2 
+Table 1: VVM Viewpoint Information 
+ 
+ 
+Viewpoint 
+No. 
+Viewpoint Name 
+Easting 
+Northing Elevation 
+Distance to 
+Stack (km) 
+1 
+North side of J64 of M4, on B4489 
+264903.57 199456.46 
+82.25 m 
+1.95 
+2 
+Fforest-newydd 
+263926.24 201366.08 107.38 m 
+1.61
+ 
+3 
+Gower Way, Felindre 
+264164.92 202975.05 117.79 m 
+2.16 
+4 
+Llwyngwenno, Heol Glyn-Dyfal 
+263713.69 203508.13 162.98 m 
+2.86 
+5 
+Mynydd Pysgodlyn 
+263515.23 204260.20 234.74 m 
+3.58 
+6 
+Tor Clawdd, adjacent to Ring Cairn 
+267025.48 206300.56 309.40 m 
+5.22
+ 
+7 
+Tor Clawdd, southern end 
+267111.55 204576.74 259.41 m 
+3.64
+ 
+8 
+Rhyd-y-pandy road near Cynghordy 
+266079.85 203076.56 157.61 m 
+1.85
+ 
+9 
+Public Right of Way, north of Aber-gelli fach 
+265289.87 202233.17 141.49 m 
+0.96
+ 
+10 
+Trig Point, Mynydd Gelliwastad 
+267799.67 201456.50 212.89 m 
+2.28
+11 
+Llangyfelach Churchyard 
+264667.81 198972.21 104.63 m 
+2.49
+ 
+12 
+Carnglas 
+261771.15 194480.84 143.48 m 
+7.79
+ 
+13 
+Three Crosses 
+257580.52 194915.11 129.59 m 
+10.2
+ 
+14 
+Public Right of Way near Maes-eglwys Farm 265348.65 200565.45 
+74.48 m 
+0.76
+ 
+ 
+15 
+Public Right of Way and minor road 
+265734.84 200069.07 
+91.36 m 
+1.25
+ 
+16 
+Dorglwyd 
+265943.79 200652.58 
+92.16 m 
+0.77
+ 
+17 
+Cefn Betingau Farm 
+265986.97 201509.92 108.78 m 
+0.50
+ 
+18 
+Footpath on the north side of the A48 
+Clasemont Road 
+265591.10 198863.65 110.81 m 
+2.44 
+19 
+Fairwood Common on the boundary of the 
+Gower AONB, adjacent to the B4271 
+257939.00 192692.00 212.89 m 
+11.45
+ 
+ 
+ 
+ 
+ 
+ 

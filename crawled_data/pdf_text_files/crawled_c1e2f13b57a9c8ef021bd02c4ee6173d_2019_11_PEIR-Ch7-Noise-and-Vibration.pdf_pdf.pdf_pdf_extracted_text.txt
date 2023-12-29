@@ -1,0 +1,2677 @@
+Chapter 7
+Noise and Vibration
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-1 
+ 
+CONTENTS 
+7. 
+Noise and Vibration ........................................................................................... 3 
+7.1 Introduction ............................................................................................... 3 
+7.2 Changes since the 2014 PEIR .................................................................. 3 
+7.3 Legislation, policy and guidance ............................................................... 4 
+7.4 Methodology ............................................................................................ 14 
+7.5 Baseline Environment ............................................................................. 26 
+7.6 Embedded Mitigation ............................................................................... 28 
+7.7 Assessment of Effects ............................................................................. 28 
+7.8 Mitigation and Monitoring ........................................................................ 36 
+7.9 Residual Effects ...................................................................................... 37 
+7.10 Cumulative Effects .................................................................................. 39 
+7.11 References .............................................................................................. 39 
+ 
+TABLES 
+Table 7-1: A Summary of Changes since the 2014 PEIR to the Noise and Vibration 
+Assessment ................................................................................................................ 3 
+Table 7-2: Planning Practice Guidance ..................................................................... 11 
+Table 7-3: Summary of Elements Scoped out of Assessment .................................. 14 
+Table 7-4: Summary of Consultation Responses that have Informed the Scope and 
+Methodology of the Noise and Vibration Assessment .............................................. 15 
+Table 7-5: Noise Sensitive Receptors and Monitoring Locations .............................. 17 
+Table 7-6: Sensitivity/Value of Receptors ................................................................. 17 
+Table 7-7: Construction Noise SOAEL and LOAEL for Residential Receptors ......... 19 
+Table 7-8: Construction Noise Magnitude of Impact criteria for Residential Receptors19 
+Table 7-9: Construction Vibration Threshold at Residential Dwellings ...................... 20 
+Table 7-10: Transient Vibration Guide Values for Cosmetic Damage ....................... 21 
+Table 7-11: Magnitude of Impact – Construction Vibration Building Damage ........... 22 
+Table 7-12: Magnitude of Impact for Industrial Noise in the Day .............................. 24 
+Table 7-13: Magnitude of Impact for Industrial Noise at Night .................................. 25 
+Table 7-14: Classification of Effects ......................................................................... 26 
+Table 7-15: Representative Background and Ambient Sound Levels ....................... 26 
+Table 7-16: Predicted Construction Sound levels LAeq,T ........................................... 29 
+Table 7-17: Predicted Construction Sound levels LAeq,T ........................................... 30 
+Table 7-18: Predicted Construction Sound levels LAeq,T ........................................... 30 
+Table 7-19: Predicted Construction Sound levels LAeq,T ........................................... 31 
+Table 7-20: Predicted Operational Specific Sound levels LAeq,T – Power Generation Plant 33 
+Table 7-21: BS 4142 Daytime Excess of Rating Over Background Sound Level ..... 34 
+Table 7-22: Changes to Ambient Sound Levels at Night .......................................... 35 
+Table 7-23: Worst and Best Predictions of Operational Noise Effects ...................... 36 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-2 
+ 
+Table 7-24: Noise and Vibration Summary of Effects Arising during Construction Phase 38 
+Table 7-25: Noise and Vibration Summary of Effects Arising during Operational Phase 
+38 
+ 
+FIGURES 
+Figure 7.1: Nosie Receptor Locations and Estimate Sound Levels 
+ 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-3 
+ 
+7. 
+Noise and Vibration 
+7.1 
+Introduction 
+7.1.1 
+This chapter addresses the potential effects of noise and vibration resulting from 
+the construction, operation, maintenance, and decommissioning of the Project on 
+local NSRs. 
+7.1.2 
+A detailed description of the Project is provided in Chapter 3: Project and 
+Description.  
+7.1.3 
+Effects during the construction, operation, maintenance, and decommissioning 
+periods of the Project are assessed. In particular, the chapter considers potential 
+effects on identified NSRs in terms of: 
+ 
+Predicted noise and vibration levels during the site clearance and construction 
+works associated with the Project;  
+ 
+Qualitative assessment of changes in road traffic noise levels on the local road 
+network during the construction phase;  
+ 
+Predicted noise and vibration resulting from operation of the Project; and 
+ 
+Predicted noise and vibration resulting from decommissioning of the Project 
+based upon those that would be experienced during the construction period. 
+a) 
+Objectives of the assessment 
+7.1.4 
+The objectives of the assessment are to: 
+ 
+Describe the legislative, planning and technical guidance backgrounds related 
+to noise and vibration from industrial projects; 
+ 
+Determine the appropriate noise and vibration assessment method and criteria; 
+ 
+Assess the proposed details of the project against these criteria; 
+ 
+Demonstrate the mitigation measures necessary to achieve the criteria. 
+7.2 
+Changes since the 2014 PEIR 
+7.2.1 
+There have been changes to the design as a result of design evolution and 
+consultation as detailed in Chapter 3: Project and Site Description. To aid the 
+reader, Table 7-1 below outlines the changes to this assessment compared with the 
+2014 PIER.  
+Table 7-1: A Summary of Changes since the 2014 PEIR to the Noise and Vibration Assessment 
+Section 
+Changes since the 2014 PEIR 
+Section Reference 
+Baseline 
+No change as survey results were carried over.  
+When suitable conditions occur the baseline will be 
+re-measured.   As there do not appear to have 
+been any significant changes in the sound scape in 
+the interim, the updated baseline measurements 
+are not anticipated to make any changes to the 
+assessment and required mitigation. 
+Section 7.5 
+Methodology 
+New approach taken to assessment of night time Section 7.4 and 7.7 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-4 
+ 
+Section 
+Changes since the 2014 PEIR 
+Section Reference 
+noise limits based on WHO guidelines. 
+Different plant configuration (single unit rather than 
+five units).  Details of embedded mitigation 
+modified accordingly. 
+Section 7.6 
+Marginally different assumptions for qualitative 
+construction noise assessment.   
+Section 7.4 and 7.6 
+Significance of 
+Effect 
+No change. 
+Section 7.7, 7.9 and 
+7.10 
+7.3 
+Legislation, policy and guidance  
+7.3.1 
+This section identifies and describes legislation, policy and guidance of relevance 
+to the assessment of the potential noise and vibration impacts associated with the 
+removal and replacement of facilities and their subsequent operation. 
+7.3.2 
+Legislation and policy has been considered on an international, national, regional, 
+and local level.  The legislation and guidance following is considered to be relevant 
+to the noise and vibration assessment as it has influenced the assessment of the 
+sensitivity of receptors and requirements for mitigation or the scope and/or 
+methodology of this PEIR. 
+a) 
+International 
+i. 
+World Health Organisation 
+7.3.3 
+The World Health Organisation’s (WHO) ‘Guidelines for Community Noise’ (Ref. 
+7.1) recommend external daytime and evening environmental noise limits, and 
+internal night-time limits to avoid sleep disturbance. 
+7.3.4 
+The WHO ‘Night Noise Guidelines for Europe’ (Ref. 7.2) recommend updated 
+guidelines on night-time noise limits to avoid sleep disturbance. 
+ii. ISO 9613-2:1996 
+7.3.5 
+ISO 9613-2:1996 ‘Attenuation of Sound during Propagation Outdoors, Part 2: 
+General Method of Calculation’ (Ref. 7.3) specifies an engineering method for 
+calculating the attenuation of sound during propagation outdoors in order to predict 
+the levels of environmental noise at a distance from a variety of sources.   
+iii. ISO 4866-2:1996 
+7.3.6 
+ISO 4866:2010 ‘Mechanical Vibration and Shock – Vibration of Fixed Structures – 
+Guidelines for the Measurement of Vibrations and Evaluation of Their Effects on 
+Structures’ (Ref. 7.4) establishes the principals for carrying out vibration 
+measurement and processing data with regard to evaluating vibration effects on 
+structures. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-5 
+ 
+b) 
+National 
+i. 
+Environmental Protection Act 1990  
+7.3.7 
+The Environmental Protection Act 1990 (EPA) Part 3 (Ref. 7.5) states that noise 
+(and vibration) emitted from premises (including land) so as to be prejudicial to 
+health or a nuisance constitutes a statutory nuisance. 
+7.3.8 
+Local Authorities are required to investigate any public complaints of noise and if 
+they are satisfied that a statutory nuisance exists, or is likely to occur or recur, they 
+may serve a noise abatement notice.  A notice is served on the person responsible 
+for the nuisance.  It requires either simply the abatement of the nuisance or works 
+to abate the nuisance to be carried out, or it prohibits or restricts the activity.  
+Contravention of a notice without reasonable excuse is an offence.  Right of appeal 
+to the Magistrates Court exists within 21 days of the service of a noise abatement 
+notice. 
+7.3.9 
+In determining if a noise complaint amounts to a statutory nuisance the Local 
+Authority can take account of various guidance documents and existing case law; 
+no statutory noise limits exist.  Demonstrating the use of ‘Best Practicable Means’ 
+(BPM) to minimise noise levels is an accepted defence against a noise abatement 
+notice. 
+ii. Control of Pollution Act 1974 
+7.3.10 Sections 60 and 61 of the Control of Pollution Act 1974 (CoPA) (Ref. 7.6) provide 
+the main legislation regarding demolition and construction site noise and vibration. 
+If noise complaints are received, a Section 60 notice may be issued by the Local 
+Planning Authority with instructions to cease work until specific conditions to reduce 
+noise have been adopted.  
+7.3.11 Section 61 of the CoPA provides a means for applying for prior consent to carry out 
+noise generating activities during construction. Once prior consent has been 
+agreed under Section 61, a Section 60 notice cannot be served provided the 
+agreed conditions are maintained on-site.  
+7.3.12 CoPA requires that BPM (as defined in Section 72 of CoPA) be adopted for 
+construction noise on any given site. CoPA makes reference to British Standard 
+(BS) 5228 as BPM. 
+iii. Environmental Permitting Regulations 2016 
+7.3.13 The Environmental Permitting (England and Wales Regulations) 2016 (Ref. 7.7) 
+require the application of Best Available Techniques (BAT) to activities performed 
+within installations regulated by the legislation in order to manage the impact of 
+these operations on the surrounding environment. This, therefore, just applies to 
+the operational period, not construction of the Project.  
+7.3.14 In terms of noise specifically, the selection of BAT will have to be considered and 
+balanced with releases to different environmental media (air, land, and water) and 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-6 
+ 
+to give due consideration to issues such as usage of energy and raw materials. 
+Noise, therefore, cannot be considered in isolation from other impacts on the 
+environment. 
+7.3.15 The definition of pollution includes ‘emissions which may be harmful to human 
+health or the quality of the environment, cause offence to human senses or impair 
+or interfere with amenities and other legitimate uses of the environment’ (clause 2). 
+BAT is therefore likely to be similar, in practice, to the requirements of the Statutory 
+Nuisance legislation which requires the use of BPM to prevent or minimise noise 
+nuisance.  In the case of noise, ‘offence of any human senses’ may be judged by 
+the likelihood of complaints. However, the lack of complaint should not necessarily 
+imply the absence of a noise problem. In some cases it may be possible, and 
+desirable, to reduce noise emissions still further at reasonable costs and this may 
+therefore represent BAT for the control of noise emissions from an installation. 
+Consequently, the aim of BAT should be to ensure that there is no reasonable 
+cause for annoyance to persons beyond the installation boundary. 
+7.3.16 Guidance regarding Environmental Permitting and noise is available in the 
+Environment Agency’s Integrated Pollution Prevention and Control (IPPC) H3 
+document ‘Horizontal Guidance for Noise Part 2 - Noise assessment and Control’ 
+(Ref. 7.8). However, ‘Horizontal Guidance for Noise Part 1 – Regulation and 
+Permitting’ (Ref. 7.9), which provided useful guidance relating to noise limits from 
+industrial installations in terms of absolute rating levels and rating levels relative to 
+background noise levels (as defined in BS 4142:1997 (now superseded)) was 
+withdrawn in February 2016.  Therefore, industry wide noise limits no longer apply. 
+iv. National Policy Statements 
+7.3.17 The Overarching National Policy Statement for Energy (NPS EN-1) (Ref. 7.10) 
+issued by the Department for Energy and Climate Change (as was) sets out 
+national policy with respect to energy infrastructure. 
+7.3.18 Section 5.11 of NPS EN-1 sets out the requirements for assessing and mitigating 
+noise and vibration from nationally significant infrastructure projects NSIPs in the 
+energy sector. It also sets out the approach the SoS should adopt when 
+considering noise assessments. 
+7.3.19 It advises that operational noise from a proposed development and the proximity to 
+noise sensitive receptors, quiet areas or sites designated for ecological reasons will 
+determine the likely impact of noise. 
+7.3.20 Where noise impacts are likely, a noise assessment should be undertaken in line 
+with details listed in the NPS EN-1.   
+7.3.21 Operational noise and vibration should be assessed using relevant British 
+Standards (e.g. BS 4142, BS 6472, BS 8233 and BS 5228) and other guidance, 
+including the other NPS’s. 
+7.3.22 NPS EN-1 advises the SoS that the project should: 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-7 
+ 
+“Demonstrate good design through selection of the quietest cost-effective plant 
+available; containment of noise within buildings wherever possible; optimisation of 
+plant layout to minimise noise emissions; and, where possible, the use of 
+landscaping, bunds or noise barriers to reduce noise transmission.” 
+7.3.23 The proposal should meet the following aims before the SoS grants consent: 
+ 
+“Avoid significant impacts on health and quality of life from noise, 
+ 
+Mitigate and minimise other adverse impacts on health and quality of life from 
+noise, 
+ 
+Where possible, contribute to improvements to health and quality of life through 
+the effective management and control of noise.” 
+7.3.24 Section 5.11 of NPS EN-1 also sets out advice on mitigation and states: 
+“The IPC should consider whether mitigation measures are needed both for 
+operational and construction noise over and above any which may form part of the 
+project application. In doing so the IPC may wish to impose requirements. Any such 
+requirements should take account of the guidance set out in Circular 11/95 (see 
+Section 4.1) or any successor to it. 
+Mitigation measures may include one or more of the following: 
+ 
+Engineering: reduction of noise at point of generation and containment of noise 
+generated; 
+ 
+Lay-out: adequate distance between source and noise-sensitive receptors; 
+incorporating good design to minimise noise transmission through screening by 
+natural barriers, or other buildings; and 
+ 
+Administrative: restricting activities allowed on the site; specifying acceptable 
+noise limits; and taking into account seasonality of wildlife in nearby designated 
+sites. 
+In certain situations, and only when all other forms of noise mitigation have been 
+exhausted, it may be appropriate for the IPC to consider requiring noise mitigation 
+through improved sound insulation to dwellings.” 
+7.3.25 The National Policy Statement for Gas Supply Infrastructure and Gas and Oil 
+Pipelines (EN-4) issued by the Department for Energy and Climate Change (as 
+was) sets out national policy with respect to energy infrastructure. 
+7.3.26 Section 2.20 of EN-4 advises that: 
+“During the pre-construction phase there could be vibration effects from seismic 
+surveys. During construction, tasks may include site clearance, soil movement, 
+ground excavation, tunnelling, trenching, pipe laying and welding, and ground 
+reinstatement. In addition, increased HGV traffic will be generated on local roads 
+for the movement of materials. These types of noise and vibration impacts will need 
+to be assessed. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-8 
+ 
+The commissioning of a new pipeline can involve extensive periods of drying after 
+hydro-testing, using air compressors, and noise mitigation may be required for this 
+type of activity.  
+A new gas pipeline may require an above ground installation such as a gas 
+compression station on the route of the pipeline to boost transmission line 
+pressure. A new oil pipeline may require pumping stations. These may be located 
+in quiet rural areas, and therefore the control of noise from these facilities is likely to 
+be an important consideration.” 
+7.3.27 Section 2.20 of EN-4 also advises on mitigation measures and states: 
+“Noise mitigation measures for gas and oil pipelines, in particular their associated 
+above-ground installations, include screening or enclosure of compressors and 
+pumps. Other measures could include the use of sound attenuators on ventilation 
+systems, acoustic lagging on pipework, multi-stage (inherently quiet) control valves, 
+gas turbine exhaust silencers, and high efficiency low speed cooler fans, depending 
+on the specific issues. Vibration mitigation measures could include the use of non-
+impact piling such as augur boring.” 
+v. Noise Action Plan for Wales 2013-2018 
+7.3.28 The Noise Action Plan for Wales (Ref. 7.11) states in Section 1.2 as regards 
+development: 
+7.3.29 “The challenge therefore is to take a balanced approach to managing noise which 
+considers the needs of individuals as well as the requirements of business and 
+industry, so that our quality of life is not reduced in other ways. 
+7.3.30 Almost everything that people do creates sound, and noise – unwanted sound – is 
+to a certain extent an inevitable by-product of life. Yet for the reasons described in 
+more detail in the sections below, and in the interests of a healthy, fair and 
+prosperous society, it is important to have a legal and policy framework in place 
+that: 
+ 
+Protects people and wildlife from unacceptable or harmful levels of noise 
+intrusion; and  
+ 
+Gives everyone access to tranquil places where they can find respite from 
+man-made sights and sounds.  
+7.3.31 In Wales, sustainable development means enhancing the economic, social and 
+environmental wellbeing of people and communities, achieving a better quality of 
+life for our own and future generations.  
+7.3.32 The Welsh Government’s vision of a sustainable Wales includes:  
+ 
+Healthy, biologically diverse and productive ecosystems that are managed 
+sustainably; and  
+ 
+Communities that are safe, sustainable, and attractive places for people to live 
+and work, where people have access to services and enjoy good health.” 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-9 
+ 
+7.3.33 Guidance on the "need to consider noise when planning a new development, be it 
+a noise generating or a noise-sensitive" development is set out in Planning Policy 
+Wales and Technical Advice Note 11 (TAN):  
+vi. Planning Policy Wales (Edition 9, November 2016) 
+7.3.34 Planning Policy Wales (PPW) (Ref. 7.12) sets out the land use planning policies of 
+the Welsh Government (WG) and is supplemented by 21 topic based Technical 
+Advice Notes (TANs).  
+ 
+11.1.11: Formal and informal open green spaces, including parks with 
+significant recreational or amenity value, should be protected from 
+development, particularly in urban areas where they fulfil multiple purposes, not 
+only enhancing the quality of life, but contributing to biodiversity, the 
+conservation of nature and landscape, air quality and the protection of 
+groundwater.  
+ 
+13.13.1: Noise action plans, drawn up by the Welsh Ministers in relation to 
+Wales under the Environmental Noise Directive and its transposing 
+Regulations, aim to prevent and reduce environmental noise where necessary 
+and preserve environmental noise quality where it is good. They are a planning 
+consideration in the use and development of land.  
+ 
+13.15.2: Special consideration is required where a noise-generating 
+development is likely to affect a protected species, or is proposed in or near 
+statutorily designated areas, including urban quiet areas designated in noise 
+action plans. The effect of noise on the enjoyment of other areas of landscape, 
+wildlife and historic value should also be taken into account. 
+7.3.35 The policy also requires best practice in construction. 
+vii. Technical Advice Note (TAN) 11 
+7.3.36 Technical Advice Note TAN 11 – Noise (1997) (Ref. 7.13) is a Welsh Government 
+document that provides guidance on how the planning system can be used to 
+minimise the adverse impact of noise without placing unreasonable restrictions on 
+development.  
+7.3.37 The document talks about general principles in relation to noise and planning, and 
+provides general guidance on both noise sensitive and noise generative 
+developments, including draft planning conditions dealing with noise. The main 
+detailed guidance provided in TAN 11 is the Noise Exposure Categories for new 
+residential developments. 
+7.3.38 Some detailed guidance is provided on the assessment of noise from a variety of 
+sources, but this guidance generally refers to other documents for methods of 
+assessment and criteria.  This guidance has been taken into consideration in this 
+assessment  
+7.3.39 The documents makes reference to BS 8233, BS 4142, BS 5228 (Ref. 7.14 to Ref. 
+7-17). 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-10 
+ 
+viii. National Planning Policy Framework 
+7.3.40 The National Planning Policy Framework (NPPF) was published in March 2012 
+(Department for Communities and Local Government (DCLG), 2012a) (Ref. 7.18) 
+and details the Government’s planning policies for England and how these are to 
+be applied.  As such is not directly applicable in Wales but does offer guidance with 
+a relevance to the Project particularly with reference to the evaluation of SOAEL 
+and LOAEL levels.  It is a material consideration in planning decisions made by 
+local planning authorities in England. In respect of noise, it states: 
+“The planning system should contribute to and enhance the natural and local 
+environment by: preventing both new and existing development from contributing to 
+or being put at unacceptable risk from, or being adversely affected by unacceptable 
+levels of soil, air, water or noise pollution or land instability…” (paragraph 109) 
+7.3.41 The NPPF supersedes the previous guidance document PPG 24 ‘Planning and 
+Noise’ (Ref. 7.12). 
+7.3.42 The planning system is required to contribute to and enhance the natural and local 
+environment. Consequently, the aim is to prevent both new and existing 
+development from contributing to or being put at unacceptable risk from, or being 
+adversely affected by unacceptable levels of noise pollution. 
+7.3.43 The NPPF states that planning policies and decisions should aim to: 
+ 
+“Avoid noise from giving rise to significant adverse impacts on health and 
+quality of life as a result of new development; 
+ 
+Mitigate and reduce to a minimum other adverse impacts on quality of life 
+arising from noise from new development, including through the use of 
+conditions; 
+ 
+Recognise that development will often create some noise and existing 
+businesses wanting to develop in continuance of their business should not 
+have unreasonable restrictions put on them because of changes in nearby land 
+uses since they were established [subject to the provisions of the 
+Environmental Protect Act 1990 and other relevant law]; and 
+ 
+Identify and protect areas of tranquillity which have remained relatively 
+undisturbed by noise and are prized for their recreational and amenity value for 
+this reason.” (paragraph 123) 
+ix. Planning Practice Guidance 
+7.3.44 In March 2014, Department for Communities and Local Government (DCLG 
+released its Planning Practice Guidance (PPG) web-based resource to support the 
+NPPF (Ref. 7.19). The guidance advises that local planning authorities’ should 
+consider:   Again this document is only strictly applicable to England but does give 
+useful information on the setting of observable adverse effect levels (~OAEL): 
+ 
+“Whether or not a significant adverse effect is occurring or likely to occur; 
+ 
+Whether or not an adverse effect is occurring or likely to occur; and 
+ 
+Whether or not a good standard of amenity can be achieved.” 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-11 
+ 
+7.3.45 This guidance introduced the additional concepts of NOAEL (No Observed Adverse 
+Effect Level), and UAEL (Unacceptable Adverse Effect Level). Full details of the 
+PPG on effects are provided in Table 7-2.  
+7.3.46 Factors to be considered in determining if noise is a concern are identified including 
+the absolute noise level of the source, the existing ambient noise climate, time of 
+day, frequency of occurrence, duration, character of the noise and cumulative 
+impacts. 
+7.3.47 With particular regard to mitigating noise impacts on residential development, the 
+guidance highlights those impacts may be partially off-set if residents have access 
+to a relatively quiet façade as part of their dwelling or a relatively quiet amenity 
+space (private, shared or public). 
+Table 7-2: Planning Practice Guidance 
+Perception 
+Examples of outcomes 
+Increasing 
+effect level 
+Action 
+Not 
+noticeable 
+No effect 
+No observed 
+effect 
+No specific 
+measures 
+required 
+Noticeable 
+and not 
+intrusive  
+Noise can be heard, but does not cause 
+any change in behaviour or attitude; can 
+slightly affect the acoustic character of the 
+area but not such that there is a perceived 
+change in the quality of life. 
+No observed 
+adverse effect 
+No specific 
+measures 
+required 
+Lowest Observed Adverse Effect Level 
+Noticeable 
+and intrusive 
+Noise can be heard and causes small 
+changes in behaviour and/or attitude (e.g. 
+turning up volume of television; speaking 
+more loudly; where there is no alternative 
+ventilation, having to close windows for 
+some of the time because of the noise). 
+Potential 
+for 
+some 
+reported 
+sleep 
+disturbance. Affects the acoustic character 
+of the area such that there is a perceived 
+change in the quality of life. 
+Observed 
+adverse effect 
+Mitigate and 
+reduce to a 
+minimum 
+Significant Observed Adverse Effect Level 
+Noticeable 
+and 
+disruptive 
+The noise causes a material change in 
+behaviour and/or attitude (e.g. avoiding 
+certain 
+activities 
+during 
+periods 
+of 
+intrusion; where there is no alternative 
+ventilation, having to keep windows closed 
+most 
+of 
+the 
+time 
+because 
+of 
+the 
+noise).  Potential for sleep disturbance 
+resulting in difficulty in getting to sleep, 
+premature awakening and difficulty in 
+getting back to sleep. Quality of life 
+Significant 
+observed 
+adverse effect 
+Avoid 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-12 
+ 
+Perception 
+Examples of outcomes 
+Increasing 
+effect level 
+Action 
+diminished due to change in acoustic 
+character of the area. 
+Noticeable 
+and very 
+disruptive 
+Extensive 
+and 
+regular 
+changes 
+in 
+behaviour and/ or an inability to mitigate 
+effect of noise leading to psychological 
+stress or physiological effects (e.g. regular 
+sleep 
+deprivation/awakening; 
+loss 
+of 
+appetite, significant, medically definable 
+harm, e.g. auditory and non-auditory). 
+Unacceptable 
+adverse effect 
+Prevent 
+x. British Standard 7445-1:2003 and 7445-2:1991 
+7.3.48 BS 7445 ‘Description and measurement of environmental noise’ (Ref. 7.20 and Ref. 
+7.21) defines parameters, procedures and instrumentation required for noise 
+measurement and analysis. 
+xi. British Standard 5228:2009+A1:2014 
+7.3.49 BS 5228-1 ‘Code of practice for noise and vibration control on construction and 
+open sites. Noise’ (Ref. 7.16) provides a ‘best practice’ guide for noise control, and 
+includes Sound Power Level (Lw) data for individual plant as well as a calculation 
+method for noise from construction activities. BS 5228-2 ‘Code of practice for noise 
+and vibration control on construction and open sites. Vibration’ (Ref. 7.17) provides 
+comparable ‘best practice’ for vibration control, including guidance on the human 
+response to vibration. 
+xii. British Standard 6472:2008 
+7.3.50 BS 6472-1 ‘Guide to evaluation of human exposure to vibration in buildings Part 1: 
+Vibration sources other than blasting’ (Ref. 7.22) presents recommended frequency 
+weighted vibration spectra (for continuous vibration) and vibration dose values 
+(VDV) (for intermittent vibration) above which adverse comment is likely to occur in 
+residential properties. 
+xiii. British Standard 7385:1993 
+7.3.51 
+BS 7385-2 ‘Evaluation and measurement for vibration in buildings. Guide to 
+damage levels from groundborne vibration’ (Ref. 7.23) presents guide values for 
+transient and continuous vibration, above which there is a likelihood of cosmetic 
+damage. The standard establishes the basic principles for carrying out vibration 
+measurements and processing the data, with regard to evaluating vibration effects 
+on buildings. 
+xiv. British Standard 4142:2014 
+7.3.52 BS 4142 ‘Methods for rating and assessing industrial and commercial sound’ (Ref. 
+7.15) can be used for assessing the effect of noise of an industrial nature, including 
+mechanical services plant noise.  The method compares the difference between 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-13 
+ 
+‘rating level’ of the industrial noise, with the ‘background level’ at the receptor 
+position. 
+xv. British Standard 8233:2014 
+7.3.53 BS 8233 Guidance on sound insulation and noise reduction for buildings (Ref. 7.14) 
+contains guidance on internal noise levels for buildings of various types and used. 
+xvi. Calculation of Road Traffic Noise 
+7.3.54 Department of Transport (DfT)/Welsh Office Memorandum ‘Calculation of Road 
+Traffic Noise’ (Ref. 7.24) describes procedures for traffic noise calculation, and is 
+suitable for environmental assessments of schemes where road traffic noise may 
+have an effect. 
+xvii. Design Manual for Road and Bridges (DMRB) 
+7.3.55 The Highways England ‘Design Manual for Road and Bridges (DMRB) Volume 11 
+Section 3 Part 7 HD213/11 (Revision 1) Traffic Noise and Vibration’ (Ref. 7.25) 
+provides guidance on the appropriate level of assessment to be used when 
+assessing the noise and vibration effects arising from all road projects, including 
+new construction, improvements and maintenance. The guidance can also be used 
+for assessing changes in traffic noise levels as a result of non-road projects such 
+as this. 
+c) 
+Local 
+i. 
+City and County of Swansea Unitary Development Plan (2008) 
+7.3.56 Policy EV40 (Ref. 7.26) on Air, Noise and Light Pollution states that:  
+7.3.57 “Development proposals will not be permitted that would cause or result in 
+significant harm to health, local amenity, natural heritage, the historic environment 
+or landscape character because of significant levels of air, noise or light pollution.” 
+ii. Draft Swansea Local Development Plan (July 2017) 
+7.3.58 The Draft Swansea Local Development Framework is not yet adopted planning 
+policy, but a draft has been submitted for Examination in Public.  Consequently, 
+whilst it is a material consideration, it does not yet attract full weight as adopted 
+policy. 
+7.3.59 Policy 14: Safeguarding the Environment (Ref. 7.27): 
+“The County’s environment will be protected from materially harmful 
+development and where possible enhanced. Development that would result in 
+unacceptable adverse environmental effects will not be permitted, particularly in 
+respect of: Air, noise, or light pollution.” 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-14 
+ 
+7.4 
+Methodology 
+a) 
+Scope of the assessment 
+7.4.1 
+The scope of this assessment has been determined through a formal 
+Environmental Impact Assessment (EIA) scoping process undertaken to obtain a 
+formal Scoping Opinion from the Secretary of State. Comments raised on the EIA 
+Scoping Report have been taken into account in the development of the 
+assessment methodology and these are detailed where relevant in this chapter.  
+Responses to the comments raised in the Scoping Opinion can be found in Table 7-
+4. 
+7.4.2 
+The elements of the project scoped out from this assessment are listed in Table 7-
+3. 
+Table 7-3: Summary of Elements Scoped out of Assessment 
+Element 
+Rationale 
+A 
+detailed 
+assessment 
+construction traffic 
+assessment 
+has 
+been scoped out 
+on the basis of 
+<50 HGVs per day 
+over 
+the 
+construction 
+Phase. 
+DMRB advises that an increase in road traffic flows of 25% (where the 
+traffic speed and composition remain consistent) equates to an 
+increase in road traffic noise of 1 dB LA. A doubling of traffic flow would 
+be required for an increase in 3 dB LA. As there will be less than 25 % 
+increase in traffic flows, the impacts will be negligible, and therefore 
+not significant. No further assessment is deemed necessary. The 
+actual traffic flows associated with construction for the project are 
+expected to be below these levels except for a very brief period when 
+a maximum of 146 movements may occur per day.  This will affect 
+very few receptors for a brief period and will be managed through the 
+CEMP to minimise impacts when the exact details of the programme 
+and construction options are known.  As a result a detailed 
+assessment would add little beneficial information at this stage. 
+Operational noise 
+and vibration  for 
+AGI 
+The equipment on the AGI will be restricted to passive pipework with 
+no pressure reduction valves, water bath heaters or other potential 
+noise sources. 
+Operational noise 
+and vibration  for 
+Electrical 
+Connection 
+The Electrical Connection will be in the environs of the existing 
+substation and will not introduce any new sources.  The Electrical 
+Connection will form part the Substation and is not expected to include 
+any new noise emitting sources. 
+Detailed 
+assessment 
+of 
+construction 
+vibration 
+In the absence of specific information on likely construction activities 
+and plant, a qualitative assessment based upon professional 
+judgement has been undertaken at this stage.  Given the significant 
+distance to residential receptors, this qualitative judgement made is 
+that no significant vibration (medium or high magnitude impacts) is 
+expected to result at residential NSRs from construction and therefore 
+assessment beyond the qualitative assessment in paras 7.7.20 and 
+7.7.21 is scoped out. 
+Assessment 
+of 
+generating 
+plant 
+operational 
+vibration  
+No causes of significant vibration associated with the Project are 
+anticipated. The primary rotating equipment within the generator set 
+will be balanced to a high degree and constantly monitored for any 
+changes in the vibration levels it produces.  Therefore, further 
+assessment of operational vibration has been scoped out of this 
+assessment. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-15 
+ 
+b) 
+Consultation 
+7.4.3 
+The scope of the assessment has also been informed by ongoing consultation with 
+statutory consultees throughout the design and assessment process, including the 
+SoS and CCS Environmental Health Department.  The discussions centred on the 
+methodologies to be used to assess the noise emissions from the Project in the 
+context of the area in which it is located. 
+7.4.4 
+A summary of the comments raised and responses are detailed in Table 7-4. 
+Table 7-4: Summary of Consultation Responses that have Informed the Scope and Methodology of the 
+Noise and Vibration Assessment 
+Consultee 
+Date 
+Comment 
+Response 
+Secretary of 
+State (SoS) 
+(Scoping 
+Report 
+paragraph 
+3.32) 
+August 2014 
+The SoS notes the intention 
+for 
+noise 
+measurement 
+locations for the baseline 
+assessment to be agreed with 
+the local EHO but draws 
+attention to the comment from 
+NRW that the discussion on 
+noise surveys also needs to 
+be communicated to NRW 
+with particular reference to an 
+A1 EPR permit which will 
+include noise conditions.  
+The baseline noise levels 
+used in this preliminary 
+assessment are taken 
+from previous surveys.  
+More 
+baseline 
+measurements 
+will 
+be 
+required in future and 
+NRW will be consulted 
+before that takes place. 
+SoS (Scoping 
+Report 
+paragraph 
+3.33) 
+August 2014 
+The SoS draws attention to 
+the 
+comments 
+of 
+NRW 
+regarding the requirements of 
+the 
+Environmental 
+Noise 
+Directive, 
+and 
+the 
+Environmental Noise (Wales) 
+(Amendment) 
+Regulations 
+2009, which have introduced 
+a ‘Noise Action Plan for 
+Wales.’ This covers industrial 
+noise sources, impacts on 
+designated Quiet Areas and 
+the 
+impact 
+of 
+creeping 
+background, and should be 
+taken into consideration by 
+the Applicant.  
+The Noise Action Plan for 
+Wales has been taken 
+into consideration within 
+the context of a wide 
+range 
+of 
+available 
+guidance.  
+SoS (Scoping 
+Report 
+paragraph 
+3.34) 
+August 2014 
+The SoS recommends that 
+information be provided on 
+the types of vehicles and 
+plant to be used during the 
+construction 
+phase. 
+Noise 
+impacts on people should 
+specifically be addressed and 
+in particular any potential 
+noise disturbance at night 
+Detailed assessment of 
+construction 
+vehicle 
+noise 
+has 
+been 
+considered and scoped 
+out 
+due 
+to 
+the 
+insignificant 
+expected 
+effects.  The reasoning 
+behind this is explained 
+in more detail in Table 7-
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-16 
+ 
+Consultee 
+Date 
+Comment 
+Response 
+and other unsocial hours 
+such as weekends and public 
+holidays.  
+3 
+SoS (Scoping 
+Report 
+paragraph 
+3.35) 
+August 2014 
+The SoS welcomes that the 
+CEMP 
+will 
+set 
+out 
+best 
+practice methods of limiting 
+noise and vibration on site 
+during 
+construction 
+and 
+decommissioning.  
+Noise mitigation will be 
+included in the CEMP. 
+SoS (Scoping 
+Report 
+paragraph 
+3.36) 
+August 2014 
+The SoS recommends that 
+the 
+noise 
+and 
+vibration 
+assessment takes account of 
+traffic 
+movements 
+along 
+access 
+routes 
+during 
+the 
+construction phase.  
+Assessment 
+of 
+construction 
+vehicle 
+noise 
+has 
+been 
+considered and scoped 
+out 
+due 
+to 
+the 
+insignificant 
+expected 
+effects. 
+SoS (Scoping 
+Report 
+paragraph 
+3.37) 
+August 2014 
+The noise assessment should 
+accurately 
+identify 
+the 
+proximity of the identified 
+noise sensitive receptors to 
+the proposed development. 
+With 
+regards 
+to 
+the 
+operational 
+noise 
+assessment, 
+this 
+should 
+cover all modes of operation 
+of the proposed development. 
+The applicant’s attention is 
+drawn to NRW’s comments in 
+these respects. 
+The assessment is based 
+on the effects at the 
+receptors closest to the 
+Project Site. 
+City and 
+County of 
+Swansea 
+(CCS) 
+Consultation 
+with Mr Tom 
+Price 
+(Environmental 
+Health Officer) 
+on 
+20th 
+October 2017 
+Confirms that the proposed 
+approach to assessing Noise 
+and Vibration in PEIR is 
+acceptable and agrees with 
+requirements of scoping 
+report. 
+The methodology discussed 
+was based on BS 4142 for 
+the daytime and WHO Night 
+Time Noise Guidelines for the 
+night. 
+ The six NSR locations were 
+discussed and agreed as 
+appropriate 
+The 
+assessment 
+has 
+been completed in line 
+with the methodology set 
+out in the discussion. 
+c) 
+Study area 
+7.4.5 
+The extent of the study area has been defined to include the nearest 
+receptors/communities in each direction from the Project Site that may be affected 
+during the construction, operational and decommissioning phases of the Project.  
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-17 
+ 
+Representative NSRs within this study area in all directions from the Project Site 
+have been identified for the purposes of assessment, to ensure all effects are 
+appropriately considered. 
+7.4.6 
+Key NSR locations have been selected which are considered to be representative 
+of the nearest and potentially most sensitive existing receptors to the Project Site. It 
+is considered that if noise and vibration levels are suitably controlled at the key 
+receptors identified, then noise and vibration levels would be suitably controlled at 
+other sensitive receptors in the surrounding area, including the amenity of local 
+footpaths and leisure facilities as the requirements for these will be less onerous.  
+Impacts upon ecological receptors are considered in the Chapter 8: Ecology. 
+7.4.7 
+Those NSRs are listed in Table 7-5 and located in Figure 7.1. 
+Table 7-1: Noise Sensitive Receptors and Monitoring Locations 
+Noise Sensitive 
+Receptor 
+Address 
+Details (distance from point source) 
+NSR1 
+Cefn-betingau 
+Isolated farm house 500 m east of the Project 
+Site 
+NSR2 
+Feline Wen 
+Farm 
+Isolated farm house 800 m south east of the 
+Project Site 
+NSR3 
+Llwynhelig 
+Isolated farm house 750 m south east the Project 
+Site 
+NSR4 
+Maes-eglwys 
+Isolated farm house 700 m south of Project Site 
+NSR5 
+Lletty Morfil 
+Farm 
+Isolated farm house 875 m west of Project Site 
+NSR6 
+Abergelli Farm 
+Isolated farm house 600 m north west of the 
+Project Site 
+d) 
+Sensitivity 
+7.4.8 
+In accordance with the principles of EIA, the sensitivity of existing receptors to 
+noise (or vibration) impacts has been defined in Table 7-6. 
+Table 7-2: Sensitivity/Value of Receptors 
+Sensitivity/ value of 
+resource/ receptor 
+Description 
+Examples of receptor usage 
+Very high 
+Receptors 
+where 
+noise or vibration will 
+significantly affect the 
+function of a receptor 
+Auditoria/ studios 
+Specialist medical/teaching centres, or 
+laboratories 
+with 
+highly 
+sensitive 
+equipment 
+High 
+Receptors 
+where 
+people or operations 
+are 
+particularly 
+susceptible to noise 
+or vibration. 
+Residential 
+Quiet outdoor areas used for recreation 
+Conference facilities 
+Schools/ 
+educational 
+facilities 
+in 
+the 
+daytime 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-18 
+ 
+Sensitivity/ value of 
+resource/ receptor 
+Description 
+Examples of receptor usage 
+Sensitive 
+ecological 
+receptors known to be 
+vulnerable 
+to 
+the 
+effects of noise or 
+vibration 
+Hospitals/ residential care homes 
+Libraries 
+Ecologically sensitive areas for example 
+Special Protection Areas (SPAs) 
+Medium 
+Receptors moderately 
+sensitive to noise or 
+vibration where it may 
+cause some 
+distraction or 
+disturbance 
+Offices 
+Restaurants/ retail 
+Sports grounds when spectator or noise is 
+not a normal part of the event and where 
+quiet conditions are necessary (e.g. tennis, 
+golf) 
+Low 
+Receptors where 
+distraction or 
+disturbance of people 
+from noise or vibration 
+is minimal 
+Residences and other buildings not 
+occupied during working hours 
+Factories and working environments with 
+existing high noise levels 
+Sports grounds when spectator or noise is 
+a normal part of the event 
+e) 
+Magnitude 
+i. 
+Assessment of Construction Noise Effects 
+7.4.9 
+Before the appointment of a construction contractor, site specific details on the 
+construction activities, programme and number or type of construction plant are not 
+yet available. Therefore, detailed construction noise predictions at specific NSRs 
+have not been undertaken. As stated in the scoping report, a qualitative 
+assessment will be undertaken, based on review of the indicative worst case 
+construction noise predictions which were undertaken for a representative project 
+using the calculation methods set out in BS 5228:2009+A1:2014 ‘Code of practice 
+for noise and vibration control on construction and open sites' (Ref. 7.16). The 
+predictions for each phase of the construction will be adjusted to reflect the 
+distances to the actual receptors at the Project Site.  
+7.4.10 BS 5228 contains a number of example methodologies for identifying significant 
+construction noise effects based on fixed thresholds or noise level changes. Taking 
+into account this guidance the threshold values detailed in Table 7-7 have been 
+adopted in this PEIR to define the SOAEL (the ‘significant observed adverse effect 
+level’, as defined in Section 7.3) and the LOAEL (the ‘lowest observable adverse 
+effect level’) for residential receptors. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-19 
+ 
+Table 7-7: Construction Noise SOAEL and LOAEL for Residential Receptors 
+Time of Day 
+SOAEL LAeq,T dB 
+(façade) 
+LOAEL LAeq,T dB 
+(façade) 
+Daytime (07:00 – 19:00) and Saturdays (07:00 – 
+13:00) 
+75 
+65 
+Evenings (19:00 – 23:00 weekdays) and 
+Weekends (13:00 – 23:00 Saturdays and 07:00 – 
+23:00 Sundays) 
+65 
+55 
+Night-time (23:00 – 07:00) 
+55 
+45 
+7.4.11 The criterion for the SOAEL at residential receptors corresponds to the threshold 
+values for Category C in the BS 5228 example ABC method.  Similarly, the criterion 
+for the LOAEL corresponds to the threshold values for Category A in the BS 5228 
+example ABC method.  In accordance with the NPPF and NPSE (used here as they 
+give more quantitative information then the Welsh national guidance), it is important 
+to consider receptors that exceed the LOAEL and ensure adverse effects are 
+mitigated and minimised.  
+7.4.12 When considering exceedances of the SOAEL and LOAEL, other project-specific 
+factors have been taken into account, such as the existing ambient noise levels, 
+number of receptors affected and the frequency and duration of the impact. 
+7.4.13 Based upon the above, the magnitude of the impact of construction noise on 
+residential receptors has been classified in accordance with the descriptions in 
+Table 7-8.   
+Table 7-8: Construction Noise Magnitude of Impact Criteria for Residential Receptors 
+Magnitude 
+of  Impact 
+Daytime LAeq,T dB 
+(façade) 
+Evening / Weekend 
+LAeq,T dB (façade) 
+Night-time LAeq,T 
+dB (façade) 
+High 
+> 80 
+> 70 
+> 60 
+Medium 
+>75-80 
+>65-70 
+>55-60 
+Low 
+>65-75 
+>55-65 
+>45-55 
+Very Low 
+≤ 65 
+≤ 55 
+≤ 45 
+ii. Assessment of Demolition and Construction Vibration Effects 
+Effects on Humans – Annoyance 
+7.4.14 Vibration due to construction activities has the potential to result in adverse impacts 
+at nearby NSRs. The transmission of ground-borne vibration is highly dependent on 
+the nature of the intervening ground between the source and receiver and the 
+activities being undertaken. BS 5228-2: 2009+A1: 2014 ‘Code of Practice for Noise 
+and Vibration Control on Construction and Open Sites - Vibration’ (Ref 7.17) 
+provides data on measured levels of vibration for various construction works, with 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-20 
+ 
+particular emphasis on piling. Impacts are considered for both damage to buildings 
+and annoyance to occupiers. 
+7.4.15 Table 7-9 details Peak Particle Velocity (PPV) vibration levels and provides a 
+semantic scale for the description of demolition and construction vibration effects 
+on human receptors, based on guidance contained in BS 5228-2.   
+Table 7-9: Construction Vibration threshold at Residential Dwellings 
+Peak Particle 
+Velocity (PPV) 
+level 
+Description 
+Magnitude 
+of impact 
+>= 10 mm/s 
+Vibration is likely to be intolerable for any more 
+than a very brief exposure to this level. 
+High 
+1.0 to < 
+10 mm/s 
+It is likely that vibration of this level in residential 
+environments will cause complaint, but can be 
+tolerated if prior warning and explanation has 
+been given to residents. 
+Medium 
+0.3 to < 
+1 mm/s 
+Vibration might be just perceptible in residential 
+environments. 
+Low 
+0.14 to < 
+0.3 mm/s 
+Vibration might be just perceptible in the most 
+sensitive 
+situations 
+for 
+most 
+vibration 
+frequencies associated with construction. At 
+lower frequencies, people are less sensitive to 
+vibration. 
+Very low 
+7.4.16 For residential receptors and other high sensitivity receptors, the LOAEL is defined 
+as a PPV of 0.3 mm/s (millimetres per second), this being the point at which 
+construction vibration is likely to become perceptible. The SOAEL is defined as a 
+PPV of 1.0 mm/s, this being the level at which construction vibration can be 
+tolerated with prior warning.  
+7.4.17 At receptors above the SOAEL, further consideration of whether an effect is 
+significant is undertaken using professional judgement, taking account of the 
+duration and frequency of the effect, as well as the time of evening/night that the 
+effect would be experienced. 
+Effects on Buildings 
+7.4.18 In addition to human annoyance, building structures may be damaged by high 
+levels of vibration. The levels of vibration that may cause building damage are far in 
+excess of those that may cause annoyance. Consequently, if vibration levels are 
+controlled to those relating to annoyance (i.e. 1.0 mm/s), then it is highly unlikely 
+that buildings will be damaged by construction vibration levels. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-21 
+ 
+7.4.19 The criteria used in this assessment relate to the potential for cosmetic damage, 
+not structural damage. The principal concern is generally transient vibration, for 
+example due to piling. 
+7.4.20 BS 7385-2: 1993 ‘Evaluation and measurement for vibration in buildings – Part 2: 
+Guide to damage levels from groundborne vibration’ (Ref. 7.23) provides guidance 
+on vibration levels likely to result in cosmetic damage and is referenced in BS 
+5228-2: 2009+A1:2014. Guide values for transient vibration, above which cosmetic 
+damage could occur, are given in Table 7-10. 
+Table 7-10: Transient Vibration Guide Values for Cosmetic Damage 
+Type of building 
+Peak component particle velocity in 
+frequency range of predominant pulse 
+4 Hz to 15 Hz 
+15 Hz and above 
+Reinforced 
+or 
+framed 
+structures Industrial and heavy 
+commercial buildings 
+50 mm/s at 4 Hz and above 
+Unreinforced 
+or 
+light 
+framed 
+structures 
+Residential 
+or 
+light 
+commercial buildings 
+15 mm/s at 4 Hz 
+increasing to 
+20 mm/s at 15 
+Hz 
+20 
+mm/s 
+at 
+15 
+Hz 
+increasing to 50 mm/s at 
+40 Hz and above 
+NOTE 1: Values referred to are at the base of the building. 
+NOTE 2: For un-reinforced or light framed structures and residential or light 
+commercial buildings, a maximum displacement of 0.6 mm (zero to peak) is 
+not to be exceeded 
+7.4.21 BS 7385-2:1993 states that the probability of building damage tends to zero for 
+transient vibration levels less than 12.5 mm/s PPV. For continuous vibration, such 
+as from vibratory rollers, the threshold is around half this value. 
+7.4.22 It is also noted that these values refer to the likelihood of cosmetic damage. ISO 
+4866:2010 defines three different categories of building damage: 
+ 
+Cosmetic – formation of hairline cracks in plaster or drywall surfaces and in 
+mortar joints of brick/concrete block constructions; 
+ 
+Minor – formation of large cracks or loosening and falling of plaster or drywall 
+surfaces or cracks through brick/block; and 
+ 
+Major – damage to structural elements, cracks in support columns, loosening of 
+joints, splaying of masonry cracks. 
+7.4.23 BS 7385-2:1993 defines that minor damage occurs at a vibration level twice that of 
+cosmetic damage and major damage occurs at a vibration twice that of minor 
+damage. Therefore, this guidance can be used to define the magnitude of impact 
+identified in Table 7-11. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-22 
+ 
+Table 7-11: Magnitude of Impact – Construction Vibration Duilding Damage 
+Magnitude of impact Damage risk 
+Continuous vibration level 
+ppv mm/s 
+High 
+Major 
+30 
+Medium 
+Minor 
+15 
+Low 
+Cosmetic 
+6 
+Very low 
+Negligible 
+<6 
+iii. Assessment of Operational Noise 
+7.4.24 The assessment of operational sound levels has been based upon calculations 
+using plant emissions data available at this stage. The data currently available 
+includes generating equipment, sound power levels (LW), distance between the 
+Power Generation Plant and NSRs and the acoustic screening offered by the 
+existing landscape 
+7.4.25 Based upon the predicted sound levels, an assessment of potential impact at 
+nearby NSRs has been undertaken using the guidance in WHO Night time noise 
+guides. 
+7.4.26 BS 4142: 2014 ‘Methods for rating and assessing industrial and commercial sound’ 
+(Ref. 7.15). 
+7.4.27 BS 4142 describes methods for rating and assessing sound of an industrial and/or 
+commercial nature. The method compares the rating sound level with the existing 
+background sound level.  The standard uses the following definitions to describe 
+various aspects of the soundscape of the scenario being assessed: 
+ 
+Background sound level, LA90,T  dB - defined in the Standard as the ‘A-weighted 
+sound pressure level that is exceeded by the residual sound for 90% of a given 
+time interval, T, measured using time weighting F and quoted to the nearest 
+whole number of decibels’. 
+ 
+Specific sound level, Ls = LAeq,Tr  dB – the ‘sound source at the assessment 
+location over a given reference time interval, Tr,’. 
+ 
+Rating level, LAr,Tr – the ‘specific sound level plus any adjustment made for the 
+characteristic features of the sound’. 
+ 
+Ambient sound level, LAeq,T  dB - defined  in the standard as  ‘the totally 
+encompassing sound in a given situation at a given time, usually composed of 
+sound from many sources near and far when present. The ambient sound 
+comprises the residual sound and the specific sound.’ 
+ 
+Residual sound level, Lr = LAeq,T  –the ‘Ambient Sound remaining at the 
+assessment location when the Specific Sound source is suppressed to such a 
+degree that it does not contribute to the Ambient Sound’. 
+7.4.28 When assessing a new sound source such as the Generating Equipment it is 
+important to consider the context of the site and the nature of the existing noise 
+sources in the area.  The Substation is part of the background sound environment 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-23 
+ 
+in the area and the impact of the generators should to be viewed in the context of 
+that existing environment.  However, it is also necessary to consider the risks of 
+new sources causing the ambient sound levels in the area to ‘creep’ up.   
+7.4.29 Whereas the previous version of BS 4142:1997 allowed for a single correction of 
++5 dB to be made to the Specific Noise Level if one or more of the distinguishable, 
+impulsive or irregular features were considered to be present, BS 4142:2014 allows 
+for corrections to be applied based upon the presence or expected presence of the 
+following: 
+ 
+Tonality: up to +6 dB penalty; 
+ 
+Impulsivity: up to +9 dB penalty (this can be summed with tonality penalty); and 
+ 
+Other sound characteristics (neither tonal nor impulsive but still distinctive): + 3 
+dB penalty. 
+7.4.30 Once any adjustments have been made, the background sound level and the rating 
+level are compared.  The standard states that: 
+“Typically, the greater the difference, the greater the magnitude of impact.  
+A difference of around +10 dB or more is likely to be an indication of a significant 
+adverse impact, depending upon the context. 
+A difference of around +5 dB is likely to be an indication of an adverse impact, 
+depending upon the context. 
+The lower the rating level is to the measured background sound level, the less 
+likely it is that the specific sound will have an adverse impact or a significant 
+adverse impact.  Where the rating level does not exceed the background sound 
+level, this is an indication of the specific sound source having a low impact, 
+depending upon the context.” (Section 11) 
+7.4.31 Importantly, as suggested above, BS 4142:2014 requires that the rating level of the 
+noise source under assessment be considered in the context of the environment 
+when defining the overall significance of the impact. 
+7.4.32 BS 4142:2014 suggests that a one hour assessment period is considered during 
+the day and a 15-minute assessment period at night. 
+7.4.33 Table 7-12 illustrates the adopted magnitude of impact scale used in this 
+assessment based upon the numerical level difference. For BS 4142 assessment 
+purposes the SOAEL is set at a rating level above the background sound level of 
++10 dB, and the LOAEL at +5 dB, although it should be remembered that the 
+context assessment (including the absolute level of the sound under consideration) 
+can vary the overall classification of effects. 
+7.4.34 The nature and context of the site mean that BS 4142 would produce an 
+inappropriate assessment of operational noise impacts at night.  As a result it was 
+agreed in discussion with CCS to base the night time assessment upon the WHO 
+document Night Noise Guidelines for Europe (Ref. 7.2). 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-24 
+ 
+7.4.35 The Night Noise Guidelines for Europe build on the earlier WHO Comity Noise 
+Guidelines (Ref. 7.1) and assess the health and sleep effects of noise experienced 
+by people at night.  It observes that below the level of 30 dB Lnight, no effects on 
+sleep are observed except for a slight increase in the frequency of body 
+movements during sleep due to night noise. There is no sufficient evidence that the 
+biological effects observed at the level below 40 dB Lnight are harmful to health. 
+However, adverse health effects are observed at the level above 40 dB Lnight, such 
+as self-reported sleep disturbance, environmental insomnia, and increased use of 
+sleeping pills and sedatives. Therefore, 40 dB Lnight is equivalent to the lowest 
+observed adverse effect level (LOAEL) and 30 dB Lnight is equivalent to the no 
+observable adverse effect level (NOAEL) for night noise.  
+7.4.36 It this site the very low background sound levels at some of the receptors mean that 
+SOAEL and LOAEL values based on the BS 4142 method, which are based on 
+comparison with background sound, fall below the absolute SOAEL and LOAEL 
+values in the WHO guidance. Therefore, the WHO values give the more 
+appropriate assessment.   
+7.4.37 These values apply to the total ambient sound incident on a dwelling not just to the 
+contribution from an individual source such as the Project.  For this assessment it 
+will therefore be necessary to predict the future ambient sound level by adding 
+together the measured residual sound level and the predicted specific sound level.  
+7.4.38 The WHO document recommends that for the prevention of subclinical adverse 
+health effects related to night noise in the population, it is recommended that the 
+population should not be exposed to night noise levels greater than 40 dB of 
+Lnight during the part of the night when most people are in bed. The document also 
+suggests an interim target (IT) of 55 dB Lnight in the situations where the 
+achievement of the NOAEL is not feasible in the short run for various reasons.  
+f) 
+Significance Criteria 
+7.4.39 Table 7-12 below lists the magnitudes of impacts for day time noise based on BS 
+4142.  
+Table 7-12: Magnitude of Impact for Industrial Noise in the Day 
+Daytime 
+Magnitude of 
+impact 
+BS 4142 descriptor 
+Excess of rating level 
+over  background 
+sound level (dB) 
+High 
+No BS 4142 descriptor for this 
+magnitude level 
+>15 
+Medium 
+Indication of a significant adverse 
+effect, depending upon context 
+ +10 approx. 
+Low 
+Indication of an adverse effect, 
+depending upon context 
++5 approx.  
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-25 
+ 
+Daytime 
+Very low 
+Indication of low impact, depending 
+upon context 
+≤ 0 
+7.4.40 Table 7-13 below lists the magnitudes of impacts for night time noise based on the 
+WHO guidelines.  
+Table 7-13: Magnitude of Impact for Industrial Noise at Night  
+Night time  
+Magnitude of 
+impact 
+Descriptor 
+Total ambient sound 
+level outdoors (dB 
+LAeq) 
+High 
+Based on level considered by WHO 
+to be “increasingly dangerous to 
+public health” 
+>55 
+Medium 
+Based on level considered by WHO 
+to produce observable “adverse 
+health effects”  
+40<55 
+Low 
+Based on LOAEL in WHO 
+30<40  
+Very low 
+Based on NOAEL in WHO 
+≤ 30 
+g) 
+Effect definitions 
+7.4.41 Effects are classified based on the magnitude of the impact and the sensitivity or 
+value of the affected receptor.  The criteria for assigning the magnitude of impacts 
+are outlined for the various potential impacts during construction, operation and 
+decommissioning, and these are followed by a scale of receptor sensitivity in Table 
+7-6 and overall classification of effects matrix in Table 7-14. 
+7.4.42 The following terminology has been used in the assessment to define effects: 
+ 
+Adverse – detrimental or negative effects to an environmental resource or 
+receptor; 
+ 
+Neutral – effects to an environmental resource or receptor that are neither 
+adverse nor beneficial; or 
+ 
+Beneficial – advantageous or positive effect to an environmental resource or 
+receptor. 
+7.4.43 The effect resulting from each individual potential impact type above is classified 
+according to the magnitude of the impact and the sensitivity or value of the affected 
+receptor using the matrix presented in Table 7-14 but where necessary also 
+considering the context of the acoustic environment. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-26 
+ 
+Table 7-14: Classification of Effects 
+Sensitivity/ value 
+of resource/ 
+receptor 
+Magnitude of impact 
+High 
+Medium 
+Low 
+Very low 
+Very high 
+Major 
+Major 
+Moderate 
+Minor 
+High 
+Major 
+Moderate 
+Minor 
+Negligible 
+Medium 
+Moderate 
+Minor 
+Negligible 
+Negligible 
+Low  
+Minor 
+Negligible 
+Negligible 
+Negligible 
+7.4.44 For the purposes of this assessment, negligible and minor effects are not 
+considered to be significant, whereas moderate and major effects are considered to 
+be significant. 
+7.5 
+Baseline Environment 
+7.5.1 
+This section describes the baseline environmental characteristics for the Project 
+and surrounding areas with specific reference to noise and vibration. The baseline 
+sound levels presented within this report were measured by Parsons Brinckerhoff in 
+August 2014 and presented in their report 287521A of March that year (Ref. 7.28) 
+which was an appendix to the 2014 PEIR. The measurements were of limited 
+scope at the time and will be updated before the construction of the Project. This 
+update will occur at a time of suitable weather conditions. 
+7.5.2 
+Representative background and ambient sound levels have been taken from the 
+Parsons Brinckerhoff report (Ref. 7.28), which was an appendix to the 2014 PEIR.  
+Table 7-15 summarises the results for each NSR.  The values are still relevant but 
+were limited in scope and are now three years old.  They will therefore be repeated 
+prior construction of the Project.   
+Table 7-15: Representative Background and Ambient Sound Levels 
+NSR 
+Observations of 
+baseline sound 
+environment 
+Day time 
+background 
+sound level 
+LAF90 
+Day time 
+ambient 
+sound 
+level LAeq 
+Night time 
+background 
+sound level 
+LAF90 
+Night 
+time 
+ambient 
+sound 
+level LAeq 
+NSR1  
+Animals, farming 
+activities and distance 
+road traffic during the 
+day and the wind in trees 
+and distant road traffic at 
+night 
+41 
+49 
+25 
+28 
+NSR2  
+Animals, farming 
+activities and distance 
+road traffic during the 
+40 
+50 
+24 
+27 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-27 
+ 
+NSR 
+Observations of 
+baseline sound 
+environment 
+Day time 
+background 
+sound level 
+LAF90 
+Day time 
+ambient 
+sound 
+level LAeq 
+Night time 
+background 
+sound level 
+LAF90 
+Night 
+time 
+ambient 
+sound 
+level LAeq 
+day and the wind in trees 
+and distant road traffic at 
+night 
+NSR3 
+Animals, farming 
+activities and distance 
+road traffic during the 
+day and the wind in trees 
+and distant road traffic at 
+night 
+43 
+57 
+30 
+37 
+NSR4 
+Animals, farming 
+activities and distance 
+road traffic during the 
+day and the wind in trees 
+and distant road traffic at 
+night. Also located in 
+vicinity of existing 
+substation 
+40 
+51 
+37 
+47 
+NSR5 
+Animals, farming 
+activities and distance 
+road traffic during the 
+day and the wind in trees 
+and distant road traffic at 
+night Also located in 
+vicinity of existing 
+substation  
+39 
+42 
+27 
+40 
+NSR6 
+Animals and distance 
+road traffic during the 
+day and the wind in trees 
+and distant road traffic at 
+night 
+40 
+41 
+25 
+28 
+7.5.3 
+The results show significant differences between the background sound levels 
+during the day and at night at NSRs 1,2,3,5 and 6 (12 to 16 dB).  This reflects the 
+variation in the principal noise sources such as farming activities and road traffic.  
+The difference at NSR 4 was smaller due to more steady contributions from the 
+sources in that area, but as a result the level at night at NSR 4 was significantly 
+higher than at the other NSRs.   
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-28 
+ 
+7.5.4 
+The night time background sound levels at NSRs 1, 2 and 6 are below 30 dB and 
+would therefore be considered low. 
+7.5.5 
+The ambient sound levels showed a similar pattern with large day/night differences 
+at NSRs 1, 2, 3 and 6 and smaller differences at NSRs 4 and 5. 
+7.5.6 
+The baseline ambient sound level (residual sound level) at NSR 4 already exceeds 
+the LOAEL from the WHO guidelines by 7 dB LAeq.  
+7.5.7 
+In the absence of the Project, future baseline sound levels at NSRs would depend 
+largely on traffic flows on surrounding road networks and the future operations at 
+other industrial and commercial premises in the area.   
+7.6 
+Embedded Mitigation 
+7.6.1 
+As detailed in Chapter 3: Project and Site Description, a number of embedded 
+mitigation measures have been identified through the iterative EIA process and 
+have been incorporated into the design and construction planning of the Project.   
+7.6.2 
+As these mitigation measures have been embedded into the design, are legal 
+requirements or are standard practices that will be implemented, the assessment of 
+likely significant effects assumes that they are in place. 
+7.6.3 
+The preferred approach for controlling construction noise and vibration is to reduce 
+levels at source where possible, but with due regard to practicality. Sometimes a 
+greater noise or vibration level may be acceptable if the overall construction time, 
+and therefore length of disruption, is reduced. 
+7.6.4 
+During operation, monitoring is considered appropriate in order to track the success 
+of delivery of proposed mitigation.  Ideally this monitoring would be based on 
+regular or fixed measurements close to the Project Site boundary to give 
+consistency by minimising the impact of weather and extraneous sources.  The 
+measured levels at these locations must be calibrated against the levels at the 
+receptors as part of the plant commissioning sound test procedure.  Any change in 
+Project Site boundary levels can then be related directly to changes at the 
+receptors. 
+7.7 
+Assessment of Effects 
+7.7.1 
+This section presents the findings of the noise and vibration assessment for the 
+construction phase, the operational phase and the decommissioning phase of the 
+Project. 
+7.7.2 
+This section identifies any likely significant effects that are predicted to occur and 
+Section 7.8 highlights the additional mitigation and monitoring measures that are 
+proposed to reduce or eliminate the identified significant effects if required.  
+a) 
+Construction  
+7.7.3 
+This section sets out the preliminary assessment of the potential noise and 
+vibration effects on sensitive receptors arising during the construction period.  
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-29 
+ 
+7.7.4 
+Noise levels experienced by local receptors during such works depend upon a 
+number of variables, the most significant of which are: 
+ 
+The noise generated by plant or equipment used on-site, generally expressed 
+as Sound Power Levels (Lw) or the vibration generated by the plant; 
+ 
+The periods of use of the plant on-site, known as its on-time;  
+ 
+The distance between the noise/vibration source and the receptor; 
+ 
+The noise attenuation due to ground absorption, air absorption and barrier 
+effects;  
+ 
+In some instances, the reflection of noise due to the presence of hard surfaces 
+such as the sides of buildings; and 
+ 
+The time of day or night the works are undertaken. 
+7.7.5 
+At this stage, the final construction methods are not confirmed, therefore the worst 
+case indicative construction noise levels have been based on information from 
+other technically similar projects provided by the client and taken from published 
+standards and AECOM archives.   
+i. 
+Power Generation Plant 
+7.7.6 
+The Residential NSRs are located at a range of distances in different directions 
+around the Project Site, where the Generation Equipment is to be installed. The 
+closest residential NSRs are Cefn-betingau, located approximately 500 m to the 
+east, and Abergelli Farm located approximately 600 m to the north-west of the 
+Generating Equipment Site.   
+7.7.7 
+The predicted levels are given in Table 7-16 below. 
+Table 7-16: Predicted Construction Sound Levels LAeq,T  
+ Location 
+Power Generation Plant 
+Cefn-betingau 
+NSR1 
+50 
+Felin Wen Farm 
+NSR2 
+46 
+Llwynhelig 
+NSR3 
+46 
+Maes-eglwys 
+NSR4 
+48 
+Lletty Morfil Farm 
+NSR5 
+45 
+Abergelli Farm 
+NSR6 
+48 
+7.7.8 
+The predicted indicative construction noise levels for the power generation plant 
+are below the LOAEL level in Table 7-17.  The sensitivity of all residential receptors 
+is High as outlined in Table 7-14 and a magnitude of very low. So the significance of 
+effects is predicted to be Negligible at all NSRs, and is therefore considered not 
+significant. 
+ii. Gas Connection 
+7.7.9 
+Abergelli farm is located within 60 m of the closest part of the Gas Connection.  
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-30 
+ 
+7.7.10 The predicted levels are given in Table 7-17 below. 
+Table 7-17: Predicted Construction Sound Levels LAeq,T  
+ Location 
+Gas connection 
+Cefn-betingau 
+NSR1 
+45 
+Felin Wen Farm 
+NSR2 
+42 
+Llwynhelig 
+NSR3 
+43 
+Maes-eglwys 
+NSR4 
+46 
+Lletty Morfil Farm 
+NSR5 
+48 
+Abergelli Farm 
+NSR6 
+66 
+7.7.11 The predicted indicative construction noise levels for the Gas Connection were 
+below the NOAEL level in Table 7-7, apart from at NSR 6 where a level just 
+exceeding the LOAEL during the day time but significantly below the SOAEL is 
+predicted.  The sensitivity of all residential receptors is High as outlined in Table 7-
+14 and a magnitude of low or very low. So the significance of effects is predicted to 
+be Minor or Negligible which is not significant at all NSRs. 
+iii. Electrical Connection 
+7.7.12 The Residential NSRs 4 and 5 are located close to the Electrical Connection. 
+7.7.13 The predicted levels are given in Table 7-18 below. 
+Table 7-18: Predicted Construction Sound Levels LAeq,T  
+ Location 
+Electrical 
+substation 
+Electrical 
+cable 
+Electrical 
+connection 
+Cefn-betingau 
+NSR1 
+40 
+41 
+33 
+Felin Wen 
+Farm 
+NSR2 
+39 
+39 
+31 
+Llwynhelig 
+NSR3 
+42 
+41 
+33 
+Maes-eglwys 
+NSR4 
+48 
+48 
+40 
+Lletty Morfil 
+Farm 
+NSR5 
+58 
+54 
+46 
+Abergelli Farm 
+NSR6 
+45 
+43 
+35 
+7.7.14 The sensitivity of all residential receptors is High as outlined in Table 7-14 and the 
+predicted indicative construction noise levels for the Substation, cable and 
+connections were below the LOAEL level in Table 7-7, so the significance of effects 
+is predicted to be Negligible for the NSRs during the various construction phases. 
+Therefore, this is considered to be not significant. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-31 
+ 
+iv. Project Inter-relationship Effects 
+7.7.15 The in combination effects of all construction activities taking place simultaneously 
+on each of the receptors are summarised in the table below.  
+Table 7-19: Predicted Construction Sound Levels LAeq,T  
+Location  
+Predicted in combination 
+construction noise level 
+levels LAeq 
+Cefn-betingau 
+NSR1 
+52 
+Felin Wen Farm 
+NSR2 
+49 
+Llwynhelig 
+NSR3 
+49 
+Maes-eglwys 
+NSR4 
+54 
+Lletty Morfil Farm 
+NSR5 
+60 
+Abergelli Farm 
+NSR6 
+66 
+7.7.16 The predicted indicative construction noise levels for three components of the 
+Project were below the NOAEL level in Table 7-7, apart from at NSR 6.  This was 
+due to a very brief period during construction of the Gas Connection, which passes 
+within 60 m of that NSR.  As such, the significance of effects is predicted to be 
+Negligible for the NSRs during the various construction phases. 
+v. General 
+7.7.17 It may be necessary for some project critical construction activities, such as 
+concrete pours, to take place continuously over day, evening and night periods 
+during peak construction times of the Project, although the exact nature of the 
+works is unknown. SOAEL and LOAEL threshold values during non-weekday 
+daytime periods have been defined in Table 7-7. 
+7.7.18 Comparison of the predicted daytime noise levels against the lower limit values for 
+evening, weekend and night-time working indicate that there is a potential for 
+minor/moderate adverse effects should work be undertaken outside daytime hours, 
+which could be considered significant for a localised, temporary period. Therefore, 
+construction activities taking place outside normal working hours will be avoided 
+where possible.  If they cannot be avoided, these events will be planned, managed 
+and mitigated appropriately through the CEMP, so as not to exceed the SOAEL 
+threshold values and reduce levels towards the LOAEL (or less) where practical. 
+Provided the SOAEL threshold values are not exceeded, construction activities 
+outside of normal working hours can be considered as having a Minor Adverse 
+effect or less, and therefore not significant.  Potential measures to ensure that 
+appropriate mitigation is in place during the works have already been discussed in 
+Section 7.5.  
+7.7.19 The level of impact at different receptors would be dependent upon a number of 
+factors, including distance between the works and receptors, ground conditions, the 
+nature and method of works required close to receptors and the specific activities 
+being undertaken at any given time. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-32 
+ 
+7.7.20 There are no residential receptors in close proximity to the Project to be 
+significantly affected by construction vibration. However, there is the potential for 
+some vibration impacts upon any buildings or structures close to the Project Site. 
+Whilst it is considered unlikely that most typical construction working routines would 
+generate levels of vibration above which building damage would be expected to be 
+sustained (subject to final plant and working requirements).  
+7.7.21 Where piling, heavy earthworks, vibratory rollers or other significant vibration 
+producing operations are proposed in close proximity to any existing sensitive 
+buildings, further consideration would be given to potential impacts, once the 
+contractor is appointed and the construction methods requirements are developed.  
+It is not possible at this stage to evaluation what the vibration levels produced might 
+be.  The vibration limits set out in Section 7.3 would be included as part of the 
+CEMP. As the construction of the Project is within the control of the Applicant, any 
+identified issues can be effectively managed by the Applicant and their 
+contractor(s). Potential measures to ensure that appropriate mitigation is in place 
+during the works are described in Section 7.5. 
+b) Operation 
+7.7.22 The preferred configuration of the Project, including Generating Equipment is yet to 
+be confirmed but will be within the Rochdale Envelope employed for the Project.  
+Therefore, operational noise modelling has been undertaken for the indicative plant 
+configuration outlined in Chapter 3: Project and Site Description in order to give 
+a view of the noise levels that could be produced by the Generating Equipment. 
+The predictions were undertaken based on all noise sources being located at the 
+closest part of the Project Site within the Rochdale envelope parameters to each 
+receptor and with no allowances for source directivity or on-site screening.  This 
+was to give a worst case within the Rochdale envelope. 
+7.7.23 Input LW data was either provided by the potential suppliers or has been taken from 
+AECOMs archive of data for similar installations. The sound power level data was 
+provided for various source components.  The typical source components included 
+the following, although there were some minor differences in the data provided by 
+each supplier: 
+ 
+Gas turbine equipment enclosures and buildings 
+ 
+Diffuser enclosure; 
+ 
+Generator enclosure; 
+ 
+Auxiliaries enclosure; 
+ 
+Air duct; 
+ 
+Air intake inlet; 
+ 
+Air intake body; 
+ 
+Stack body upstream silencer; 
+ 
+Stack body downstream silencer; and 
+ 
+Stack outlet. 
+7.7.24 Discussions were held with potential suppliers and the AECOM database of noise 
+levels for similar projects was examined in order to identify the levels that can be 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-33 
+ 
+achieved by applying the noise control measures, sound power levels for each of 
+the major sources.  Based on that research the following levels were used: 
+ 
+A sound power level of 98 dB LWA from the stack in the direction of the 
+receptors; 
+ 
+A total sound power level of 96 dB LWA from the Generating Equipment 
+enclosures; and 
+ 
+A sound power level of 90 dB LWA from the fin fan cooler. 
+7.7.25 These levels can be achieved by extensive use of the mitigation measures 
+described in Chapter 3: Project and Site Description during the detailed design. 
+7.7.26 The assessment described sets out the predicted impacts and effects associated 
+with operation of the Project the operational assessment scenario which would be 
+long-term).  
+7.7.27 The following assumptions have been made when undertaking the operational 
+noise modelling to give a realistic worst case assessment: 
+ 
+The Project would operate any time during the day or night; 
+ 
+Noise levels provided by manufacturers for all principal noise emitting 
+buildings/elements (air inlet filters, electrical buildings, transformers, workshops 
+etc.) are understood to be external radiated SWL; 
+ 
+Prediction methodologies were based on ISO 9613:2 assuming downwind 
+propagation to each receptor.  This negates effect of any screening by rolling 
+ground and means that the sound pressure levels are determined by distance 
+and air absorption; and 
+ 
+Corrections for tonality, impulsivity, and intermittency have not been applied on 
+the assumption that these potential features would be designed out of the 
+Project during the detailed design phase by the selection of appropriate plant, 
+building cladding louvres and silencers/attenuators. However, for the daytime 
+BS 4142 assessment a +3 dB correction has been applied to the specific noise 
+levels predicted from the Project Site on the basis that the noise emissions may 
+be distinctive above the residual acoustic environment.  This is considered 
+conservative in the context of the prevailing noise environment, which includes 
+road traffic, the existing electrical infrastructure and agricultural equipment. 
+7.7.28 It is currently understood that the operation of the Generating Equipment would be 
+driven by the dynamics of the energy market; as a result the plant could run for 
+short or longer periods, at any time of day, up to the maximum allowed under its 
+Environmental Permit. 
+7.7.29 The predicted free-field operational specific sound levels at the NSRs around the 
+Project Site are presented in Table 7-20. 
+Table 7-20: Predicted Operational Specific Sound Levels LAeq,T – Power Generation Plant 
+Location 
+Predicted specific sound levels LAeq 
+Cefn-betingau 
+NSR1 
+35 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-34 
+ 
+Location 
+Predicted specific sound levels LAeq 
+Felin Wen Farm 
+NSR2 
+30 
+Llwynhelig 
+NSR3 
+31 
+Maes-eglwys 
+NSR4 
+32 
+Lletty Morfil Farm 
+NSR5 
+29 
+Abergelli Farm 
+NSR6 
+34 
+7.7.30 The nature of the predictions, which allow flexibility of plant location to produce a 
+worst case at each receptor mean that exact predictions cannot be made at the site 
+boundary line at this time.  However, the calculations used to predict the levels at 
+the receptors also indicate that the average level around the site boundary will be 
+around 50 dB LA with a maximum level of around 55 dB LA. When final plant 
+selections and locations have been set then a more detailed profile of the sound 
+levels around the boundary can be predicted.   
+7.7.31 The daytime BS 4142 assessments results for receptors NSR1 – NSR6 are 
+presented in Table 7-21.  The values are the differences between the range of 
+representative background sound level at each NSR and the predicted rating level 
+(the specific sound level LAeq,T plus a +3 dB correction for a potentially distinctive 
+character).  Positive values in the table indicate an excess of the rating level over 
+the background sound level and negative levels indicate that the rating level is 
+lower than the background sound level. 
+Table 7-21: BS 4142 Daytime Excess of Rating Over Background Sound Level 
+Location 
+Daytime 
+backgrou
+nd sound 
+level LAF90 
+Specific 
+sound 
+level LAeq 
+Rating level LAr 
+Excess of BS 4142 
+rating level over 
+background sound 
+level 
+Cefn-
+betingau 
+NSR1 
+41 
+35 
+38 
+-3 
+Felin Wen 
+Farm 
+NSR2 
+40 
+30 
+33 
+-7 
+Llwynhelig 
+NSR3 
+43 
+31 
+34 
+-9 
+Maes-eglwys 
+NSR4 
+40 
+32 
+35 
+-5 
+Letty Morfil 
+Farm 
+NSR5 
+39 
+29 
+32 
+-7 
+Abergelli 
+Farm 
+NSR6 
+40 
+34 
+37 
+-3 
+Uncertainty: The survey information available to determine the ‘representative’ background sound level values 
+was limited.  Further baseline measurements will be undertaken in due course and presented in the ES. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-35 
+ 
+7.7.32 The night-time WHO based assessment results for NSR1 – NSR6 are presented in 
+Table 7-22.  
+Table 7-22: Changes to Ambient Sound Levels at Night 
+Location 
+Baseline ambient 
+sound level 
+(residual level) 
+LAeq 
+Predicted Generation 
+Equipment sound 
+contribution (specific 
+sound level) LAeq 
+Predicted total 
+ambient sound level 
+with proposed 
+development LAeq 
+Cefn-
+betingau 
+NSR1 
+28 
+35 
+36 
+Felin Wen 
+Farm 
+NSR2 
+27 
+30 
+32 
+Llwynhelig 
+NSR3 
+37 
+31 
+38 
+Maes-eglwys 
+NSR4 
+47 
+32 
+47 
+Letty Morfil 
+Farm 
+NSR5 
+40 
+29 
+40 
+Abergelli 
+Farm 
+NSR6 
+28 
+34 
+35 
+7.7.33 In accordance with Table 7-12 (magnitude of industrial noise during the day), the 
+values in Table 7-21produce very low impact magnitudes at all six NSRs. This 
+would result in a negligible significance of effect, and therefore are considered to be 
+not significant in accordance with Table 7-6 and Table 7-14. 
+7.7.34 In accordance with Table 7-13 (magnitude of industrial noise at night) above, the 
+values in Table 7-22 produce low impact magnitudes at NSRs 1, 2, 3, 5 and 6. This 
+would result in minor adverse effects in accordance with Table 7-6 and Table 7-14 
+and is therefore considered not significant.   
+7.7.35 At NSR 4 and NSR 5 the ambient sound levels are unchanged by the addition of 
+the sound from the Project. This is due to the high pre-existing ambient levels at 
+that location.  Based on the magnitude criteria in Table 7-13 the ambient sound 
+level at NSR 4 both before and after inclusion of the Project produces a medium 
+impact magnitude and therefore a moderate significance of effect due to the high 
+pre-existing ambient levels at that location.  However the predicted total ambient 
+sound level at NSR 4 and 5 is unchanged by the additional sound from the Project, 
+due to the high pre-existing ambient levels, therefore the impact of the scheme on 
+the sound environment is negligible.  The effect of the operation of the Generation 
+Equipment is not significant.   
+i. 
+Rochdale Envelope 
+7.7.36 
+The noise and vibration assessment has been undertaken with reference to the 
+Rochdale Envelope (i.e. the maximum parameters for the Project and in particular 
+its main buildings and structures).  It is estimated that the potential variation in 
+building locations and dimensions presented in Chapter 3: Project and Site 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-36 
+ 
+Description could result in a variation in predicted levels at the receptors of ± 1 dB 
+at each location. 
+Table 7-23: Worst and Best Predictions of Operational Noise Effects 
+ Location 
+  
+Day 
+Night 
+Best 
+Worst 
+Best 
+Worst 
+Cefn-betingau 
+NSR1 
+Negligible 
+Negligible 
+Minor 
+Minor 
+Felin Wen Farm 
+NSR2 
+Negligible 
+Negligible 
+Minor 
+Minor 
+Llwynhelig 
+NSR3 
+Negligible 
+Negligible 
+Minor 
+Minor 
+Maes-eglwys 
+NSR4 
+Negligible 
+Negligible 
+Negligible1 
+Negligible1 
+Letty Morfil Farm 
+NSR5 
+Negligible 
+Negligible 
+Negligible2 
+Negligible2 
+Abergelli Farm 
+NSR6 
+Negligible 
+Negligible 
+Minor 
+Minor 
+1 
+The contribution of the Project cannot be assessed at the target ambient sound levels are already 
+exceeded by the existing ambient noise sources and the Development noise will not result in any 
+change. 
+2 
+The Project makes no contribution to the ambient sound level therefore the development will not result in 
+any change.  
+7.7.37 The assessment of operational effects is based on the limits of deviation defined in 
+Chapter 3: Project and Site Description, which constrains the design parameters 
+of each element of the Project. As for construction, in any event mitigation would be 
+integrated into the detailed design, where necessary, in order to achieve the 
+appropriate noise levels. 
+7.7.38 The qualitative construction noise assessment was based on the worst-case 
+assumption of activities occurring at the closest part of the relevant part of the 
+Project Site to each receptor for each phase of construction.   
+c) 
+Decommissioning 
+7.7.39 At this stage no information is available on the techniques and programme 
+necessary for decommissioning. 
+7.7.40 However it is considered that the location, duration and nature of the operations 
+associated with decommissioning will be similar to those necessary for 
+construction.  Therefore it is considered that the worst case indicative assessments 
+presented for the construction would also apply to decommissioning. 
+7.8 
+Mitigation and Monitoring  
+7.8.1 
+As a general rule, additional mitigation measures have been proposed where a 
+significant effect is predicted to occur.  Embedded mitigation measures, which have 
+been incorporated within the design of the Project or are standard practice 
+measures that have been committed to are summarised in Chapter 3: Project and 
+Site Description. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+7-37 
+ 
+a) 
+Construction 
+7.8.2 
+The qualitative assessment predicted that there is the potential for no more than 
+minor adverse noise effects at residential NSRs during construction works. 
+Therefore, no further specific mitigation or monitoring measures have been 
+identified at this stage. If work is required outside normal working hours, additional 
+management, controls and mitigation may be required as controlled through the 
+CEMP. 
+b) 
+Operational Noise  
+7.8.3 
+The noise assessment has demonstrated that noise effects as a result of the 
+operation of the Project are not significant, and therefore no further mitigation or 
+monitoring is proposed. 
+7.9 
+Residual Effects 
+7.9.1 
+The following tables present a summary of effects from the noise and vibration 
+assessment.  The table identifies the receptor/s likely to be impacted, the level of 
+effect and, where the effect is deemed to be significant. The tables include the 
+mitigation proposed and the resulting residual effect.  
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+7-38 
+ 
+Table 7-24: Noise and Vibration Summary of Effects Arising during Construction Phase 
+Receptor 
+Description of Effect 
+Classification 
+of effect 
+Additional Mitigation  
+Classification of 
+Residual Effect 
+Significant / Not 
+Significant 
+Project 
+Abergelli Farm 
+(NSR6) 
+Construction noise from 
+the Project  
+Minor adverse 
+None 
+Minor 
+Not significant 
+ 
+Table 7-25: Noise and Vibration Summary of Effects Arising during Operational Phase 
+Receptor 
+Description of Effect 
+Classification of 
+Effect 
+Additional Mitigation 
+Classification of 
+Residual Effect 
+Significant / Not 
+Significant 
+Power Generation Plant 
+NSR 1-6 
+Operation of the 
+Generation Equipment 
+Minor/Negligible 
+No further mitigation 
+required 
+Minor/Negligible 
+Not significant 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+7-39 
+ 
+a) 
+Project ‘“in combination” Effects 
+7.9.2 
+The predicted effects of the Project upon receptors to noise and vibration are 
+limited to the power generation equipment (GT, ancillaries, cooling 
+equipment, transformers etc.), Electrical Connection and Gas Connection 
+and as such no significant effects are predicted from the Project.  
+7.10 
+Cumulative Effects 
+7.10.1 No receptors have been identified which could, potentially, experience 
+cumulative effects generated by the construction, operational  or 
+decommissioning phases of the Project in combination with other schemes 
+set out in Chapter 4: Approach to Environmental Impact Assessment. 
+7.11 
+References 
+Ref. 7.1 
+World Health Organization (1999) Guidelines for Community Noise 
+Ref. 7.2 
+World Health Organization (2009) Night Noise Guidelines for Europe 
+Ref. 7.3 
+International Standards Organization (1996) ISO 9613-2 – Attenuation of 
+Sound during Propagation Outdoors, Part 2: General Method of 
+Calculation 
+Ref. 7.4 
+International Standards Organization (2010) ISO 4866:2010 – Vibration 
+of Fixed Structures – Guidelines for the Measurement of Vibrations and 
+Evaluation of Their Effects on Structures. 
+Ref. 7.5 
+Her Majesty’s Stationary Office (1990) Environmental Protection Act 
+1990. 
+Ref. 7.6 
+Her Majesty’s Stationary Office (1974) Control of Pollution Act 1974. 
+Ref. 7.7 
+Her Majesty’s Stationary Office (2016) Environmental Permitting 
+(England and Wales) Regulations 2016. 
+Ref. 7.8 
+Environment Agency (2002a) Integrated Pollution Prevention and 
+Control (IPPC) H3 document Horizontal Guidance for Noise Part 2 - 
+Noise assessment and Control. 
+Ref. 7.9 
+Environment Agency (2002b) Integrated Pollution Prevention and 
+Control (IPPC) H3 document Horizontal Guidance for Noise Part 1 – 
+Regulation and Permitting. 
+Ref. 7.10 
+Department of Energy & Climate Change (2011) NPS EN-1 Overarching 
+National Policy Statement for Energy. 
+Ref. 7.11 
+Noise Action Plan for Wales 2013-2018. Welsh Government. 
+Ref. 7.12 
+Planning Policy Wales (Edition 9 November 2016) Welsh Government 
+Ref. 7.13 
+Technical Advice Note (TAN) 11 Noise, Welsh Government 1997 
+Ref. 7.14 
+British Standards Institute (2014) BS 8233 – Guidance on sound 
+insulation and noise reduction for buildings 
+Ref. 7.15 
+British Standards Institute (2014) BS 4142 – Methods for rating and 
+assessing industrial and commercial sound. 
+Abergelli PEIR 2018 – CHAPTER 7: NOISE AND VIBRATION 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+7-40 
+ 
+Ref. 7.16 
+British Standards Institute (2014) BS 5228-1:2009+A1:2014 – Code of 
+practice for noise and vibration control on construction and open sites. 
+Part 1: Noise. 
+Ref. 7.17 
+British Standards Institute (2014) BS 5228-2:2009+A1:2014 – ‘Code of 
+practice for Noise and Vibration control on construction and open sites. 
+Part 2: Vibration.’ 
+Ref. 7.18 
+Department for Communities and Local Government (2012) National 
+Planning Policy Framework. 
+Ref. 7.19 
+Department for Communities and Local Government (DCLG) (2014) 
+Planning Practice Guidance. 
+Ref. 7.20 
+British Standards Institute (2003) BS 7445-1 – Description and 
+measurement of environmental noise. Guide to quantities and 
+procedures. 
+Ref. 7.21 
+British Standards Institute (1991) BS 7445-2 – Description and 
+measurement of environmental noise. Guide to the acquisition of data 
+pertinent to land use. 
+Ref. 7.22 
+British Standards Institute (2008) BS 6472-1 – Guide to evaluation of 
+human exposure to vibration in buildings. Vibration sources other than 
+blasting. 
+Ref. 7.23 
+British Standards Institute (1993) BS 7385-2 – Evaluation and 
+measurement for vibration in buildings. Guide to damage levels from 
+groundborne vibration. 
+Ref. 7.24 
+Department of Transport/ Welsh Office (1998) Calculation of Road 
+Traffic Noise (CRTN). 
+Ref. 7.25 
+Highways Agency (2011) Design Manual for Road and Bridges Volume 
+11 Section 3 Part 7 HD213/11 (Revision 1) Traffic Noise and Vibration. 
+Ref. 7.26 
+Swansea Urban Development Plan 2008 
+Ref. 7.27 
+Draft Swansea Local Development Plan 2010-2025 submitted 28 July 
+2017   
+Ref. 7.28 
+Peter Brett Associates Millbrook Power Project – ES Chapter 7 Noise 
+and Vibration 2017 
+ 
+ 
+ 

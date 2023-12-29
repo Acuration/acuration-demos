@@ -1,0 +1,1228 @@
+Electric Insights
+Quarterly
+July to September 2020
+Dr Iain Staffell, Dr Malte Jansen, Professor Richard Green, Professor Rob Gross and Professor Tim Green 
+Imperial College London
+Phil McNally 
+Energy UK
+Drax Electric Insights Quarterly – Q3 2020
+2
+Contents
+1. 
+Headlines 
+3
+2. 
+The Saudi Arabia of wind power? 
+4
+3. 
+How to handle 40 GW of wind? 
+6
+4. 
+Nuclear outages cause output to slump 
+9
+5. 
+The low carbon electricity league table 
+11
+6. 
+Capacity and production statistics 
+13
+7. 
+Power system records 
+14
+Electric Insights was established by Drax to help inform and enlighten the debate 
+on Britain’s electricity. Since 2016 it has been delivered independently by a team of 
+academics at Imperial College London using data courtesy of Elexon, National Grid 
+and Sheffield Solar.
+£511/MWh
+Sept 15th, 6pm
+£60
+£80
+£100
+£40
+£20
+£0
+£60
+£80
+£100
+£40
+£20
+£0
+–£20
+–£40
+2020 Q3
+£/MWh
+£/MWh
+2015
+2016
+2017
+2018
+2019
+2020
+July
+August
+September
+Drax Electric Insights Quarterly – Q3 2020
+3
+1.  Headlines
+This quarter we discuss two technologies with very different fortunes. 
+Offshore wind has been dealt a significant boost after government reaffirmed 
+its commitment to an upgraded target of 40 gigawatts (GW) installed by 
+the end of this decade. Our first article examines the announcement, and 
+the claim that this would make “the UK to wind as Saudi Arabia is to oil”. 
+Our second article looks at the challenge of trying to balance the electricity 
+system with such a lot of renewables.
+The story could not be more different for Britain’s nuclear fleet. Output fell to just 
+8% of electricity supplied, quite possibly its lowest share in four decades. Most of 
+the country’s reactors were offline for maintenance, but even so, National Grid 
+had to pay Sizewell B to reduce its output to maintain system stability.
+Our fourth article provides an update to the low-carbon electricity league 
+table, first produced three years ago. Over the last decade, we find the UK has 
+decarbonised its power system faster than any other major country. Many 
+other countries are also reducing the environmental impact of their electricity 
+production, and not necessarily those you would naturally expect.
+Focusing on the last quarter, fossil fuels grew to supply 42% of Britain’s 
+electricity – their largest share for the time of year since 2016, and the first 
+year-on-year growth in a decade. Three gas power stations were mothballed 1 
+though after their owner went into administration, as ‘the recent challenges 
+facing the UK power market’ meant the were no longer profitable. If they remain 
+closed, this would reduce Britain’s gas power station capacity by 8% (2.2 GW).
+This happened despite power prices recovering from recent lows in Quarter 2,  
+returning to their 2019 levels. September saw a large price spike due to 
+very low margins (the amount of capacity declaring itself available being 
+uncomfortably close to forecast demand).
+Wholesale electricity prices, showing the 
+monthly averages over the last five years… 
+…and half-hourly prices over the last quarter 
+1 
+Two stations (Sutton Bridge and Severn Power Station) have gone into a long-term dormant preservation state. A third station (Baglan Bay) was described in news reports as being unaffected, but has declared itself 
+unavailable to the power market for the rest of this year, implying that it may follow suit. 
+60
+40
+20
+0
+2000
+2010
+2020
+2030
+2040
+Historic
+Central Scenario
+Range
+GW
+New target
+(40 GW)
+Old target 
+(30 GW)
+3
+2
+1
+0
+2000
+2005
+2010
+2015
+2020
+2025
+2030
+Historic
+New target (40 GW)
+Old target (30 GW)
+GW per year
+Drax Electric Insights Quarterly – Q3 2020
+4
+2.  The Saudi Arabia of wind power?
+On October 6th, the Prime Minister reaffirmed strong commitments to 
+offshore wind. While this could cement the UK’s world leading position,  
+it alone does not make us “the Saudi Arabia of wind power” as was  
+widely reported.
+There were four key takeaways from the PM’s speech:
+There’s a mix of new and existing information in there.  
+The 40 GW target was part of the 2019 Conservative election 
+manifesto, and industry has been working towards the 
+target for a while. Regardless, reaffirmation from the top is 
+welcomed. The new target is pushing close to the upper bound 
+of National Grid’s most ambitious scenario for deployment, 
+and requires us to install three times more capacity per year 
+throughout the 2020s than was achieved in the 2010s.
+The rest is new information. The 1 GW target for floating 
+offshore wind is the first sign of a clear ambition from 
+government on this burgeoning technology and has been 
+welcomed by industry. Floating wind turbines could 
+significantly expand the UK’s offshore wind generation, 
+with the IEA estimating that more than half of the UK’s 
+offshore wind resource exists at depths of more than  
+120 metres, and a fifth at depths more than 800 metres.
+The £160m for upgrading local infrastructure is key to 
+scaling up the offshore wind industry allowing larger 
+turbines to be constructed and deployed at a faster rate. 
+The final announcement has the potential to align UK 
+renewables deployment with a net zero consistent pathway 
+for the first time, but we await further clarity. 
+1. 
+Boosting the Government’s previous target from 30 GW to 40 GW of 
+offshore wind by 2030 
+2. 
+Creating a new target for floating offshore wind to deliver 1 GW  
+by 2030
+3. 
+Making £160 million available to upgrade ports and infrastructure
+4. Supporting up to double the capacity of renewable energy in the next 
+Contracts for Difference (CfD) round
+The UK’s offshore wind capacity…
+…and build rate, showing the old and new targets for 2030 in 
+relation to National Grid’s Future Energy Scenarios
+Drax Electric Insights Quarterly – Q3 2020
+5
+So, what could 40 GW of offshore wind actually do for the UK? Newer turbines 
+will sport larger blades and taller towers, and so will offer higher capacity 
+factors than today’s machines. BEIS assume a capacity factor of 47% for new 
+offshore wind farms being built today, up from 40% historically.1 This could 
+potentially rise to 57% for new turbines built in 2030, if improvements in blade 
+diameter, hub height, turbine design and siting are all realised.
+This would mean that by 2030, the UK’s 40 GW of offshore wind would have 
+an average capacity factor of 49%, and could produce 170 terrawatt-hours 
+(TWh) of electricity per year. That is equal to three-fifths of Britain’s total 
+electricity demand, and is easily enough to make good of the PM’s claim to 
+have “every household in the UK powered by offshore wind”. By 2030, the 
+nation’s 26+ million households are expected to consume in the region of  
+100–120 TWh per year, including new demands from electric heating and 
+vehicle charging.
+But, is that really enough to make us the ‘Saudi Arabia of wind’? Not by itself. 
+Saudi oil fields produce around 10 million barrels a day, or around a tenth of 
+the world’s oil demand. This translates to 6,000 TWh per year, meaning it 
+takes just ten days to produce 170 TWh.
+If the UK wanted comparable energy dominance to Saudi Arabia it would 
+need to build over 1,400 GW of offshore wind. While that is a massive leap 
+from current plans, it lies within the theoretical potential of the UK’s 300,000 
+square miles of waters. The IEA report that the best sites could hold up to 
+1,900 GW of capacity, giving a technical potential of 9,000 TWh per year – 
+enough to power the whole of Europe three times over.
+The UK has favourable circumstances for offshore wind deployment – with 
+shallow waters, high wind speeds and significant deep offshore infrastructure 
+expertise. While exploiting the whole of this resource is of course a long 
+way off, it must be remembered that Saudi Arabia had nearly a century of oil 
+field development to get to where it is today, whereas the UK’s offshore wind 
+industry only took off ten years ago. Where it could be in another 90 years 
+leaves ample room for imagination.
+1 
+The average capacity factor for British offshore wind farms experienced over the past five years.
+40
+30
+20
+10
+0
+40
+50
+30
+20
+10
+0
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+GW
+GW
+Inﬂexible & intermittent generation
+Synchronous generation
+Excess production
+Drax Electric Insights Quarterly – Q3 2020
+6
+1 
+We model the 2030 situation by combining annual generation by technology from National Grid’s ‘Leading the Way’ scenario with hourly capacity factors for the future wind and solar fleets from Renewables.ninja.  
+By 2030, National Grid expects that onshore wind and solar PV capacity will also have grown by 75%, and together will produce 60 TWh per year (compared to 170 TWh from offshore wind). While this will make balancing 
+harder, they expect nuclear output will have fallen by one third due to the ageing fleet, which will make balancing easier. The actual situation in 2030 will be complicated further by changing demand patterns due to 
+uptake of electric heating and vehicles. 
+3.  How to handle 40 GW of wind?
+Headline annual figures mask the huge variation in wind output that will be 
+experienced in future. Day-to-day management of Britain’s power system will 
+be very different with double our current wind capacity. The charts below show 
+the daily generation mix over the course of a year, both as it happened in 2019, 
+and how it would look with 2030’s generation mix.
+National Grid ESO is comfortable managing the current levels of fluctuation in 
+electricity supply and demand. The darker blue area in the top chart shows the amount 
+of demand left over to be met after renewables and nuclear, which typically ranges 
+from 10 to 30 GW throughout the year. Fast forward just 10 years to a country with 
+40 GW of offshore wind and the situation is very different. This range expands all the 
+way from 30 GW down to minus 30 GW, meaning nuclear and renewables producing 
+substantially more than total national demand. This situation of ‘over-production’ has 
+been faced by Denmark for many years, and more recently by Scotland, but these are 
+small countries with interconnections to much larger neighbours.
+The bumpy ride shown in these charts is the daily average of demand and output – 
+the hourly variation is even stronger, but this could more easily be accommodated 
+by battery storage, pumped hydro and electric vehicles. The variations seen over 
+multiple days of high or low winds will test the system further though.
+Generation from synchronous, inflexible and intermittent technologies over the course of 2019. 
+The top panel shows 2019 as it happened (with 10 GW of offshore wind). The bottom panel shows what National Grid’s 
+scenario for 2030 might look like 1 (with 40 GW of offshore wind), highlighting days with excess generation.
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+April
+August
+January
+60
+30
+50
+40
+20
+10
+0
+GW
+60
+30
+50
+40
+20
+10
+0
+GW
+60
+30
+50
+40
+20
+10
+0
+GW
+Inﬂexible & intermittent generation
+Synchronous generation
+Excess production
+Drax Electric Insights Quarterly – Q3 2020
+7
+The charts below show the situation in more detail, zooming in on three 
+specific weeks which would challenge the limits of system operation. On the 
+left is a particularly windy and sunny week, where intermittent renewables and 
+nuclear produce 55% more than demand. In the middle is a calm week, where 
+a third of electricity demand has to come from other sources. On the right, 
+nuclear, wind and solar provide almost the entire demand averaged over the 
+week, but their share ranges from just 30% of demand to over 200% in specific 
+hours. Synchronous generators (in darker blue) must flex up and down by over 
+30 GW in the space of just 8 hours.
+Taken across the whole of 2030, 34 TWh of electricity needs to be generated 
+from non-renewable sources to satisfy the residual electricity demand. At other 
+times, there is 37 TWh of excess electricity production that can be used for other 
+applications. So, what could be done to balance out this surplus and shortfall? 
+Britain could export its excess wind to neighbouring countries. Interconnection 
+capacity is expected to expand rapidly over the coming decade, perhaps tripling 
+to over 15 GW if all potential projects are built. That said, weather patterns 
+are much larger than the British Isles, so if it is windy here, it is typically windy 
+across most of Northern Europe. In the hours when Britain’s wind farms operate 
+at over 80% capacity factor, those in France, Netherlands, Ireland and Belgium 
+are typically in the range of 50–85%. When British farms deliver under 20% 
+capacity factors, the neighbouring countries’ farms average just 6–20%. 
+Storage is another option, but it would need to have very long duration to cope 
+with entire weeks of excess or shortfall (shown above). Britain’s pumped hydro 
+stations offer about 8–24 hours of storage, while battery storage systems can 
+handle only 1–4 hours. With several days of surplus or shortfall, we find a total 
+of 28 TWh of storage would be needed to capture all of that excess. This is 
+around 1,000 times the current electricity storage capacity available in Britain, 
+but it is comparable to the total natural gas storage the UK has in the form of 
+underground salt caverns.
+Blowing in the wind: Britain’s generation 
+mix across three selected weeks in 2030, 
+highlighting overproduction from wind…
+…the continued need for synchronous 
+generators…
+…and volatility of supply and demand
+Drax Electric Insights Quarterly – Q3 2020
+8
+Perhaps some of these wind farms should produce something other than 
+electricity. Electrolysers can be used to turn electricity and water into 
+hydrogen. The excess electricity production in 2030 could be used to make 
+670 million kg of hydrogen. That would be enough to fill 133 million fuel tanks 
+in fuel cell vehicles such as the Toyota Mirai, or to heat nearly 2 million homes.
+Some could make hydrogen directly out at sea by using their electricity to 
+split water. Especially as farms move further from shore, grid connections 
+can contribute up to one-third of the total cost. Hydrogen could potentially 
+be hauled to shore at lower cost, piggy backing off the existing oil and 
+gas pipelines, which will see limited use as the North Sea fields start to 
+wind down. Hydrogen production from just 4 GW of offshore farms could 
+potentially feed one million homes with zero carbon heat – or supply the high-
+temperature heat needed for to decarbonise British industry. 
+The large-scale adoption of hydrogen will require changes by energy users, 
+not to mention a nationwide transmission and distribution system. The cost 
+of electrolysers will affect its economics, particularly given that they won’t be 
+able to run full-time. Offshore plants can only run when it is windy, while grid-
+connected electrolysers will need to turn down as the price of electricity rises 
+on low-wind days. But these are challenges that might be overcome. Simply 
+plugging massive numbers of wind farms into the existing grid and hoping for 
+the best is much less likely to be a successful approach.
+9
+6
+3
+0
+2.49 GW
+August 23rd, 2020
+GW
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+2010–19 average
+2020
+2010–19 range
+Drax Electric Insights Quarterly – Q3 2020
+9
+Britain’s nuclear power production fell to what is perhaps its lowest level in 
+40 years. The country’s reactor fleet have typically produced 6–8 GW over 
+the past decade, but on August 23rd output fell to just 2.49 GW – less than the 
+combined capacity of the original Magnox fleet built in the 1960s. 
+The chart below shows the nuclear output during 2020 compared to the 
+range seen over the past decade. The low of 2.49 GW happened on a Sunday 
+afternoon when demand was low, yet nuclear still fell to just 8% of electricity 
+production – it’s lowest since records began. 
+4.  Nuclear outages cause output to slump
+Over the past decade the country’s last four Magnox reactors (at Oldbury 
+and Wylfa) have shut down. The remaining fleet of 15 reactors is moving 
+towards the end of their working lives, with most aged 30 to 45 years old. 
+There are many reasons why nuclear output would be dwindling: outages for 
+maintenance and repair are a key factor, but system stability and the ongoing 
+coronavirus response also play a part.
+Dungeness B has been on a long shutdown since late 2018, and is expected to 
+restart at the end of this year after two years of maintenance. The country’s 
+oldest reactors, Hunterston B and Hinkley Point B, are both on planned 
+outages for inspection, after hundreds of cracks were found in their graphite 
+cores. At the same time, Sizewell B plus one reactor at Hartlepool A, Heysham 
+A and Torness were all offline for various reasons, leaving only one station 
+(Heysham B) operating close to full capacity.
+Output from nuclear power plants during 2020, compared to the range of output 
+over the last decade
+Dungeness B
+Heysham A
+Heysham B
+Hinkley Point B
+Hartlepool A
+Hunterston B
+Sizewell B
+Torness
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Ofﬂine
+Part-load
+Online
+Drax Electric Insights Quarterly – Q3 2020
+10
+The chart below shows the reactor outages seen over 2020. On August 23rd, 
+close to three quarters of our nuclear reactor fleet was out of action.
+Nuclear power output can also be limited by grid requirements. National 
+Grid issues instructions to turn generators off or on to maintain system 
+stability. One of their concerns comes when the system becomes low on 
+‘system inertia’, meaning that the frequency of the electricity supplied can 
+change rapidly if a generator is suddenly lost. This poses a threat to keeping 
+system frequency close to 50 Hz, and can force emergency measures such as 
+disconnecting consumers, as happened during the blackout of August 2019.
+Sizewell B is Britain’s largest generating unit, and so represents the largest 
+‘loss of infeed’ risk. If it suddenly disconnected, up to 1,320 MW of capacity 
+would be lost.2 Normally it is perfectly safe for the rest of the system to 
+accommodate this loss, but with COVID restrictions expected to keep 
+electricity demand lower than usual, fewer conventional power stations 
+(coal, gas or biomass) would be available to counter such a failure. National 
+Grid sought the permission to turn Sizewell B down to half its normal output, 
+meaning the largest potential loss was instead the French interconnector at 
+1,000 MW. Sizewell lowered its output between May and September, and was 
+paid £73 million by National Grid in compensation. This in turn wrought havoc 
+with wholesale electricity prices, as by the time we got to the end of August, 
+lockdowns had eased around the country and demand was back to within 1% of 
+historical levels. On September 15th, National Grid ESO had to issue a capacity 
+market notice because not enough generation was expected to be available 
+to meet demand, even though Sizewell B was still being paid to remain offline.
+The current COVID situation provides a petri-dish for looking at the future 
+of our energy system, and it shows that having more flexible and price-
+responsive units will be essential to balancing out the increasing volatility of 
+both electricity supply and demand.
+Availability from nuclear power plants during 2020,
+highlighting August 23rd when output was at its lowest 1
+1 
+Data from Elexon’s REMIT platform. Operators give their planned maintenance schedule in advance, so the chart is able to show the whole of 2020.
+2 
+Once Hinkley Point C opens, it will become the largest generator in the country, raising the loss of infeed risk to 1,630 MW, making the job of balancing the power system more challenging.
+0
+200
+400
+600
+800
+gC02/kWh
+Norway
+Sweden
+France
+Brazil
+Canada
+UK
+Spain
+Italy
+Ukraine
+Russia
+Germany
+Mexico
+Egypt
+USA
+Netherlands
+Iran
+Turkey
+Thailand
+Japan
+Saudi Arabia
+South Korea
+Vietnam
+Malaysia
+Taiwan
+China
+Australia
+Indonesia
+India
+Poland
+South Africa
+2010
+2019
+0
+100
+–100
+–200
+gC02/kWh
+UK
+USA
+Germany
+Australia
+China
+Poland
+Italy
+Ukraine
+Netherlands
+Mexico
+South Africa
+Thailand
+Saudi Arabia
+Canada
+Spain
+Iran
+France
+Sweden
+Malaysia
+Taiwan
+Russia
+Egypt
+Norway
+Turkey
+South Korea
+India
+Brazil
+Japan
+Indonesia
+Vietnam
+Drax Electric Insights Quarterly – Q3 2020
+11
+A lot can change in a decade. Around the world, coal is being pushed out 
+of major power systems by renewables, but who has been successful at 
+decarbonising their electricity? We rank the world’s 30 largest electricity 
+systems by the carbon content of their generation mix, and explore the 
+changes that occurred over the last ten years. We find that the UK has 
+decarbonised its electricity system at almost twice the pace of any other 
+major economy by growing renewables six-fold and slashing the use of coal.
+There is a huge variation in how much carbon is emitted 
+when generating one kWh of electricity around the world.  
+It ranges from just 13 grams of CO2 in Norway up to  
+880 grams in South Africa. The cleanest countries at the 
+top of the league table – Scandinavia, France, Brazil and 
+Canada – all have large hydropower resources or a sizeable 
+share of nuclear power.
+Not everywhere has the same natural resources or historic 
+infrastructure, so it matters how fast emissions are falling. 
+The chart above shows the change in emissions intensity 
+between 2010 and 2019.
+Of the thirty largest electricity consumers (all over 100 TWh 
+per year), the UK has decarbonised faster than anywhere 
+else over the last decade. The UK’s carbon intensity fell 
+from 450 to 195 g/kWh, a drop of 58%. British households 
+are emitting three quarters of a tonne of CO2 less per year 
+just from changes in the power system alone.1 
+This is double the reduction seen in the other major 
+economies. Great progress has also been made in the USA, 
+Germany, Australia and China, where carbon intensities 
+have fallen by 120–150 g/kWh over the past decade.
+5.  The low carbon electricity league table
+The carbon intensity of electricity generation in the world’s 
+thirty largest markets at the start and end of the last decade
+The change in electricity carbon intensity in the world’s thirty 
+largest markets over the last decade
+1 
+A typical house consuming 2,900 kWh per year would save 777 kgCO2 per year. Houses with electric heating would typically save more than a tonne (1,125 kg) of CO2 per year, based on average consumption of 
+4,200 kWh per year.
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+–5%
+Change in share of coal
+Renewables 
+displacing coal
+Change in share of renewables
+–30%
+–20%
+–10%
+0%
+10%
+20%
+30%
+Germany
+Italy
+Thailand
+Turkey
+Japan
+Australia
+Netherlands
+France
+Spain
+South Africa
+USA
+Indonesia
+Vietnam
+Poland
+Malaysia
+Brazil
+India
+Canada
+Taiwan
+Ukraine
+Mexico
+China
+South Korea
+Sweden
+Norway
+Iran
+Russia
+Saudi Arabia
+Egypt
+Asia
+Americas
+Africa
+Oceania
+Europe
+Drax Electric Insights Quarterly – Q3 2020
+12
+These are not the places that many would associate with world-leading 
+shifts towards clean energy – as the soundbites of China building a coal power 
+station every week, or ”Trump digs coal” live long in the memory. But, these 
+countries embody the two big macro trends going on in electricity generation: 
+the shrinking role for coal, and growing share of renewables.
+The chart below highlights the changes seen in these two areas. The 
+countries which have done most to clean up their electricity generation sit 
+in the top left. Across the five highlighted countries, their electricity mix has 
+shifted from around two-thirds to one-half coming from coal over this period 
+(a 15 percentage points fall), and their share of renewables doubled from an 
+eighth to a quarter (12 percentage points gain). The UK stands out in front, 
+with coal falling from 30% to just 2%, and renewables increase from 8% to 42%.
+It is crucial that the coming decade sees most countries follow this path. It is 
+five years since the Paris Agreement was adopted by almost 200 countries, 
+and while much has improved since then, global carbon emissions have 
+continued to rise. Power systems provide one of the cheapest and most 
+effective ways to reverse this trend, and the UK offers the world an example 
+of how fast the transition can be made.
+Evolving electricity mixes used around the world, 2 showing the change in the shares 
+of coal and renewables between 2010 and 2019
+2 
+Geographic regions shown are those recognised by the United Nations Statistical Commission.
+62.1 TWh
+supplied
+42.1%
+22.3%
+16.8%
+6.9%
+6.2%
+4.0%
+1.2%
+0.4%
+Gas
+Wind
+Nuclear
+Biomass
+Solar
+Imports
+Hydro
+Coal
+Share of the mix
+Drax Electric Insights Quarterly – Q3 2020
+13
+4%
+–8%
+–4%
+0%
+2015
+2014
+2013
+2012
+2011
+2010
+2016
+2017
+2018
+2019
+2020
+6.  Capacity and production statistics
+Outages and the ongoing COVID response have taken their toll on Britain’s 
+nuclear output, which fell by almost a fifth from the same three months of 
+last year. Lower power prices in Britain also meant we imported a quarter 
+less electricity from abroad compared to this time last year. Exports were 
+also up by a third, redressing somewhat the record-breaking trade deficit 
+seen last year.
+The gap left by falling nuclear and imports was filled by offshore wind and 
+natural gas. Offshore wind output and installed capacity both grew by a sixth 
+over the past year, with a further 1.5 GW of new capacity coming online. Gas 
+output was up slightly on this time last year, giving rise to the first year-on-
+year increase in the fossil-fuelled share of electricity generation since 2010.
+Britain’s electricity supply mix in the 
+third quarter of 2020
+Year-on-year changes in the share of electricity from fossil fuels 
+during Quarter 3
+Installed Capacity (GW)
+Energy Output (TWh)
+Utilisation / Capacity Factor
+2020 Q3
+Annual change
+2020 Q3
+Annual change
+Average
+Maximum
+Nuclear
+9.5
+~
+10.4
+ –2.4 (–18%)
+50%
+63%
+Biomass
+3.5
+~
+4.3
+ +0.0 (+1%)
+56%
+97%
+Hydro
+1.1
+~
+0.7
+ –0.2 (–17%)
+30%
+88%
+Wind
+– of which Onshore
+– of which Offshore
+24.6
+13.2
+10.8
+ +1.8 (+8%)
+ +0.3 
+(+2%)
+ 
++1.5 
+(+16%)
+13.9
+6.3
+7.5
+ +0.9 (+7%)
+  –0.2 
+(–3%)
+ 
+ +1.1 
+(+16%)
+26%
+22%
+32%
+68%
+62%
+80%
+Solar
+13.1
+ +0.1 (+1%)
+3.9
+ –0.3 (–7%)
+13%
+64%
+Gas
+27.6
+ –0.5 (–2%)
+26.1
+ +1.5 (+6%)
+43%
+78%
+Coal
+5.2
+ –3.2 (–38%)
+0.3
+ –0.1 (–35%)
+2%
+57%
+Imports
+5.0
+~
+4.1
+ –1.4 (–26%)
+38%
+94%
+Exports
+1.6
+ +0.4 (+33%)
+15%
+68%
+Storage discharge
+3.1
+~
+0.3
+ –0.0 (–13%)
+5%
+61%
+Storage recharge
+0.3
+ –0.0 (–12%)
+5%
+53%
+Installed capacity and electricity produced by each technology 1  2
+1 
+Other sources give different values because of the types of plant they consider. For example, BEIS Energy Trends records an additional 0.7 GW of hydro, 0.6 GW of biomass and 3 GW of waste-to-energy plants.  
+These plants and their output are not visible to the electricity transmission system and so cannot be reported on here.
+2 
+We include an estimate of the installed capacity of smaller storage devices which are not monitored by the electricity market operator. Britain’s storage capacity is made up of 2.9 GW of pumped hydro storage,  
+0.6 GW of lithium-ion batteries, 0.4 GW of flywheels and 0.3 GW of compressed air.
+Drax Electric Insights Quarterly – Q3 2020
+14
+7.  Power system records
+Last quarter saw 11 power system records broken out of the 200+ we follow, 
+compared to 38 in the second quarter of 2020. While it was relatively quiet, 
+it was a period of contrasting extremes. Natural gas and wind power reached 
+all-time highs, while nuclear power fell to the lowest levels on record.
+Gas power stations broke the record they set only in June by supplying over 
+72% of electricity demand in the early hours of August 27th. Just a week earlier 
+it was Britain’s renewables were doing the exact same thing, coincidentally by 
+also supplying over 72% of demand for the first time. 
+Around the same time, Britain’s wind farms supplied more than 60% of the 
+country’s electricity for the first time, and more than half of electricity 
+demand over an entire day. Nuclear output fell to a series of new lows,  
+with the lowest instantaneous, daily and monthly averaged output since 
+records began.
+The tables below look over the past decade (2009 to 2020) and report the 
+record output and share of electricity generation, plus sustained averages 
+over a day, a month and a calendar year.1 Cells highlighted in blue are records 
+that were broken in the third quarter of 2020. Each number links to the date 
+it occurred on the Electric Insights website, allowing these records to be 
+explored visually.
+ 
+All Renewables – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+25,225
+72.5%
+Daily average
+ 19,700
+63.8%
+Month average
+16,030
+44.3%
+Year average
+10,475
+31.5%
+ 
+Biomass – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+3,486
+16.8%
+Daily average
+3,316
+12.9%
+Month average
+2,839
+8.8%
+Year average
+2,053
+6.2%
+ 
+Wind – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+16,962
+60.9%
+Daily average
+15,962
+50.0%
+Month average
+12,346
+34.1%
+Year average
+6,682
+20.1%
+ 
+Solar – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+9,680
+33.1%
+Daily average
+3,386
+13.6%
+Month average
+2,651
+10.0%
+Year average
+1,331
+4.0%
+1 
+The annual records relate to calendar years, so cover the period of 2009 to 2019.
+Drax Electric Insights Quarterly – Q3 2020
+15
+ 
+Day ahead wholesale price
+Maximum (£/MWh)
+Minimum (£/MWh)
+Instantaneous
+792.21
+–72.84
+Daily average
+197.45
+–11.35
+Month average
+63.17
+22.03
+Year average
+56.82
+36.91
+ 
+Carbon intensity
+Maximum (g/kWh)
+Minimum (g/kWh)
+Instantaneous
+704
+18
+Daily average
+633
+61
+Month average
+591
+141
+Year average
+508
+192
+£
+CO2
+ 
+All fossil fuels – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+49,307
+88.0%
+Daily average
+43,085
+86.4%
+Month average
+36,466
+81.2%
+Year average
+29,709
+76.3%
+ 
+All fossil fuels – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+2,421
+8.9%
+Daily average
+3,921
+14.9%
+Month average
+7,382
+27.8%
+Year average
+13,756
+41.3%
+ 
+All low carbon – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+32,688
+89.1%
+Daily average
+27,282
+79.3%
+Month average
+23,276
+65.4%
+Year average
+17,902
+53.4%
+ 
+All low carbon – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+3,395
+8.3%
+Daily average
+5,007
+10.8%
+Month average
+6,885
+16.7%
+Year average
+8,412
+21.6%
+CO2
+CO2
+ 
+Nuclear – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+9,342
+42.8%
+Daily average
+9,320
+32.0%
+Month average
+8,649
+26.5%
+Year average
+7,604
+22.0%
+ 
+Nuclear – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+2,488
+8.1%
+Daily average
+2,665
+10.3%
+Month average
+4,232
+12.9%
+Year average
+6,023
+17.2%
+ 
+Gross demand
+Maximum (MW)
+Minimum (MW)
+Instantaneous
+60,070
+16,934
+Daily average
+49,203
+23,297
+Month average
+45,003
+26,081
+Year average
+37,736
+32,659
+ 
+Demand (net of wind and solar)
+Maximum (MW)
+Minimum (MW)
+Instantaneous
+59,563
+5,700
+Daily average
+48,823
+9,454
+Month average
+43,767
+18,017
+Year average
+36,579
+24,646
+Drax Electric Insights Quarterly – Q3 2020
+16
+ 
+Gas – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+27,131
+72.6%
+Daily average
+24,210
+61.3%
+Month average
+20,828
+54.8%
+Year average
+17,930
+46.0%
+ 
+Gas – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+1,556
+4.9%
+Daily average
+3,071
+9.5%
+Month average
+6,775
+19.9%
+Year average
+9,159
+24.6%
+ 
+Imports – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+4,884
+19.1%
+Daily average
+4,490
+14.7%
+Month average
+3,796
+10.6%
+Year average
+2,850
+8.6%
+ 
+Pumped storage – Maximum 2
+Output (MW)
+Share (%)
+Instantaneous
+2,660
+7.9%
+Daily average
+362
+1.2%
+ 
+Pumped storage – Minimum 2
+Output (MW)
+Share (%)
+Instantaneous
+–2,782
+–10.8%
+Daily average
+–622
+–1.7%
+ 
+Exports – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+−3,870
+ −14.3%
+Daily average
+–2,748
+–7.9%
+Month average
+–1,690
+–3.9%
+Year average
+–731
+–1.9%
+2 
+Note that Britain has no inter-seasonal electricity storage, so we only report on half-hourly and daily records. Elexon and National Grid only report the output of large pumped hydro storage plants. 
+The operation of battery, flywheel and other storage sites is not publicly available.
+ 
+Coal – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+26,044
+61.4%
+Daily average
+24,589
+52.0%
+Month average
+20,746
+48.0%
+Year average
+15,628
+42.0%
+ 
+Coal – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+0
+0.0%
+Daily average
+0
+0.0%
+Month average
+0
+0.0%
+Year average
+678
+2.0%
+Drax Group plc
+Drax Power Station, Selby, North Yorkshire, YO8 8PH
+Imperial Consultants
+58 Prince’s Gate, Exhibition Road, London, SW7 2PG
+www.imperial-consultants.co.uk
+www.drax.com
+@ConsultImperial
+@DraxGroup

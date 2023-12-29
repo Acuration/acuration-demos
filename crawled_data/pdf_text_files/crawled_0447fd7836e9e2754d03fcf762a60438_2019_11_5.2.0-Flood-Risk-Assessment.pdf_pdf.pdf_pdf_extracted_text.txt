@@ -1,0 +1,1264 @@
+The Hirwaun Power
+(Gas Fired Power Station) Order
+5.2.0 Flood Risk Assessment
+Planning Act 2008
+The Infrastructure Planning
+(Applications: Prescribed Forms and Procedure) Regulations 2009
+PINS Reference Number:
+EN010059
+Document Reference:
+5.2.0
+Regulation Number:
+r5(2)(e)
+Author:
+Parsons Brinckerhoff
+Revision
+Date
+Description
+0
+March 2014
+Submission version
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 1 -
+CONTENTS
+Page
+List of Abbreviations
+3
+GLOSSARY OF KEY TERMS
+4
+Summary
+7
+1
+Introduction
+9
+1.1
+Project Background
+9
+1.2
+Development Proposals
+9
+1.3
+Consultation
+10
+2
+Assessment Methodology
+12
+2.1
+Overview
+12
+2.2
+Definition of Flood Risk
+13
+2.3
+Potential Sources of Flooding
+15
+2.4
+Potential Effects of Climate Change
+16
+2.5
+The Flood and Water Management Act 2010
+16
+3
+Site Description
+18
+3.1
+Power Generation Plant Site Description and Location
+18
+3.2
+Existing Drainage
+22
+4
+Existing Flood Risk
+24
+4.1
+Tidal and Fluvial Flooding
+24
+4.2
+Other Sources of Flooding
+24
+4.3
+Summary of Existing Flood Risk
+27
+5
+Post Development Flood Risk & Drainage Statement
+28
+5.1
+Post Development Flood Risk
+28
+5.2
+Surface Water Drainage Proposals
+28
+5.3
+Summary of Post Development Flood Risk
+28
+6
+Sequential / Justification Test
+30
+6.1
+Sequential Test / Justification Test
+30
+6.2
+The Exception Test
+30
+7
+Conclusion
+31
+7.1
+Introduction
+31
+7.2
+Summary of Existing Flood Risk
+31
+7.3
+Summary of Post Development Flood Risk
+31
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 3 -
+LIST OF ABBREVIATIONS
+AEP
+Annual Exceedance Probability
+AGI
+Above Ground Infrastructure/installation
+AOD
+Above Ordnance Datum
+BGL
+Below Ground Level
+BGS
+British Geological Survey
+DCO
+Development Consent Order
+DCWW
+Dwr Cymru Welsh Water
+EN-1
+Overarching National Policy Statement for Energy
+ES
+Environmental Statement
+FCA
+Flood Consequence Assessment
+FEH
+Flood Estimation Handbook
+FRA
+Flood Risk Assessment
+FWMA
+Flood and Water Management Act 2010
+Ha
+Hectares
+HPL
+Hirwaun Power Limited
+LLFA
+Lead Local Flood Authorities
+LFRMS
+Local Flood Risk Management Strategy
+NGR
+National Grid Reference
+NPPF
+National Planning Policy Framework
+NRW
+Natural Resources Wales
+NSIP
+Nationally Significant Infrastructure Project
+NSRI
+National Soils Resources Institute
+OS
+Ordnance Survey
+PEIR
+Preliminary Environmental Information Report
+PFRA
+Preliminary Flood Risk Assessment
+RCTBC
+Rhonda Cynon Taf Borough Council
+SAB
+SUDS Approving Body
+SFCA
+Strategic Flood Consequence Assessment
+SINC
+Site of Importance for Nature Conservation
+SUDS
+Sustainable Drainage Systems
+TAN15
+Technical Advice Note 15: Development
+WAG
+Welsh Government
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 4 -
+GLOSSARY OF KEY TERMS
+DCO Application
+The application for a DCO made to the Secretary of State under section 37 PA
+2008 in respect of the Project, required pursuant to section 31 PA 2008 because
+the Project constitutes a Nationally Significant Infrastructure Project under
+section 14 (1)(a) and section 15 PA 2008 by virtue of being an onshore
+generating station in England or Wales of 50 MWe capacity or more;
+Development
+Consent Order
+Consent by a UK Government Minister for a Nationally Significant Infrastructure
+Project. A DCO can incorporate or override the need for a variety of consents
+which would otherwise be required for a development, including planning
+permission. A DCO can also include rights of compulsory acquisition. A DCO is
+made in the form of a Statutory Instrument.
+The Developer:
+Means HPL;
+Draft DCO:
+The draft DCO which accompanies the DCO Application (Document Number:
+[3.1]);
+Electrical
+Connection:
+A new underground electrical cable connection to export electricity from the
+Power Generation Plant into the national electricity transmission system at the
+Rhigos Substation (Work No. 5 in the Draft DCO); [
+Electrical
+Connection Route
+Corridor
+The route of the Electrical Connection (Work No. 5 in the Works Plan);
+Environmental
+Statement
+The final document which provides a comprehensive discussion on the
+Environmental Impact Assessment.
+Flood Risk
+Assessment
+A site-specific flood risk assessment is carried out by, or on behalf of, a
+developer to assess the risk to a development site and demonstrate how flood
+risk from all sources of flooding to the development itself and flood risk to others
+will be managed now, and taking climate change into account.
+Gas Connection:
+A new underground gas pipeline connection to bring natural gas to the Power
+Generation Plant from the existing high pressure gas network NTS in the vicinity
+of the proposed Project Site including the above ground infrastructure (AGI) for
+the gas pipeline at the point of connection to the NTS, as well as a new
+permanent access to the AGI (Works No. 3 & 4 in the Draft DCO);
+Gas Connection
+Route Corridor:
+The route of the Gas Connection, including the site of the AGI and the new
+access to the AGI (Works No. 3 & 4 in the Works Plan); [Note: we don’t have this
+definition in the ES – could PB please update the ES]
+HPL:
+A special purpose vehicle which has been set up to develop the proposed Project
+and has been established by Watt Power Limited (WPL). WPL has been
+established to develop flexible gas fired generation assets to support the UK
+Government drive to a low carbon economy.  WPL is resourced through Stag
+Energy, a company founded in 2002;
+Power Generation
+Plant
+A SCGT gas fired ‘peaking’ power generating plant capable of providing up to
+299 MWe (Work No. 2 in the Draft DCO);
+Power Generation
+The site of the Power Generation Plant (Work No. 2 in the Works Plan);
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 5 -
+Plant Site:
+Project
+The Power Generation Plant, the Electrical Connection and the Gas Connection
+together;
+Project Site
+The site of the Project corresponding to the Order Limits of the Draft DCO;
+SCGT
+Simple cycle gas turbine;
+Works Plan
+Plan showing the numbered works referred to in the Draft DCO (Document
+Number: [2.3]);
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 7 -
+SUMMARY
+Background
+Parsons Brinckerhoff was commissioned by Hirwaun Power
+Limited to prepare a site specific Flood Risk Assessment (FRA)
+for a simple cycle gas turbine (SCGT) power station at Hirwaun
+Industrial Estate, near Aberdare, South Wales. The FRA was
+conducted in accordance with the Overarching National Policy
+Statement for Energy and other relevant planning guidance and
+provides a predominantly qualitative assessment of flood risk to
+the development proposals and people and property elsewhere
+as a result of the planned Project.
+Existing flood
+risk
+The existing flood risk to the site from fluvial, tidal, groundwater,
+overland flow and artificial sources has been assessed.
+The site is located in the low risk Flood Zone 1 / Development
+Zone A and is at low risk of fluvial flooding.
+Indicative Environment Agency mapping shows a raised risk of
+surface water flooding. This mapping does not take accurate
+account of surface water drainage or the culverted Nant Yr
+Ochain watercourse which flows around the outside of the site.
+As a result, the risk of surface water flooding is considered to be
+low.
+No significant risks have been identified from groundwater,
+overland flow or artificial sources and the risk of flooding at the
+site is assessed to be low.
+Post
+development
+flood risk and
+surface water
+management
+proposals
+The surface water management of the site will be designed to
+ensure no surface water flooding within the site for all storms up
+to the 1 in 30 year return period storm and no increased risk to
+people or property elsewhere in all events up to and including the
+1 in 100 year return period storm and allowing for the predicted
+impacts of climate change over the life of the development.
+As a result of the proposed measures, the development will
+cause no increase to flood risk within the site or to people and
+property elsewhere.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 9 -
+1
+INTRODUCTION
+1.1
+Project Background
+1.1.1
+Parsons Brinckerhoff Ltd has been appointed by Hirwaun Power
+Limited (HPL) to prepare a site specific Flood Risk Assessment (FRA)
+and Drainage Statement to support the Hirwaun Power Project.
+1.1.2
+The FRA will be conducted in accordance with the requirements of the
+Overarching National Policy Statement for Energy (EN-1) and
+Technical Advice Note (TAN) 15: Development and Flood Risk and will
+provide a predominantly qualitative analysis of flood risk to support the
+Environmental Statement. The assessment will include the following:
+· 
+Confirmation of the sources of flooding which may affect the site;
+· 
+A qualitative assessment of the risk of flooding to the site and to
+adjacent sites as a result of proposed Project;
+· 
+Review of the availability and adequacy of existing information; and
+· 
+Identification of possible measures which could reduce flood risk to
+acceptable levels.
+1.1.3
+The Project constitutes a Nationally Significant Infrastructure Project
+(NSIP) under Section 15 of the Planning Act 2008 and as such a
+Development Consent Order (DCO) is required. This FRA has been
+prepared to support the DCO application and forms an Appendix to the
+Environmental Statement (ES).
+Nomenclature
+1.1.4
+This document has been titled a Flood Risk Assessment in accordance
+with the phrasing used in EN-1. This document also meets the
+requirements of a Flood Consequence Assessment in accordance with
+TAN15 and Planning Policy Wales.
+1.2
+Development Proposals
+1.2.1
+The Project comprises a new simple cycle gas turbine (SCGT) Power
+Station and integral connections on land at and near the Hirwaun
+Industrial Estate near Aberdare in South Wales.
+1.2.2
+The Project consists of three main elements: the Power Generation
+Plant, the Gas Connection and the Electrical Connection.
+· 
+The Power Generation Plant will be located entirely within the
+existing industrial estate, covering an area of 7.5 hectares (ha). The
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 10 -
+footprint of the Plant is approximately 5 ha within wider site and is
+to be located within an area of existing impermeable surface;
+· 
+The Gas Connection comprises a new underground gas pipeline
+connection to bring natural gas to the Power Generation Plant from
+the existing high pressure gas network NTS in the vicinity of the
+proposed Project Site including the above ground infrastructure
+(AGI) for the gas pipeline at the point of connection to the NTS, as
+well as a new permanent access to the AGI (Works No. 3 & 4 in the
+Draft DCO);
+· 
+The Electrical Connection comprises a new underground electrical
+cable connection to export electricity from the Power Generation
+Plant into the national electricity transmission system at the Rhigos
+Substation (Work No. 5 in the Draft DCO); [
+1.2.3
+The Gas Connection and Electrical Connection are predominantly
+below ground and it is considered that they will not have a significant
+impact on flood risk. The AGI for the gas pipeline is less than 1 hectare
+and located in Flood Zone 1. As a result this assessment will focus on
+the Power Generation Plant.
+1.3
+Consultation
+1.3.1
+A Preliminary Environmental Information Report (PEIR) was submitted
+in May 2013 and statutory responses were received from key
+stakeholders including the Planning Inspectorate, Natural Resources
+Wales (NRW) and Dwr Cymru Welsh Water (DCWW). These
+responses are included in Appendix A of the ES.
+Rhonda Cynon Taf Borough Council (RCTBC)
+1.3.2
+A meeting was held with RCTBC in January 2014 to discuss the
+culverted River Camnant / Nant yr Ochain watercourse and the
+requirements for surface water drainage. In summary, the guidance
+from RCTBC was as follows:
+· 
+Historical mapping and other records indicate there may be a
+culverted watercourse running beneath the site. RCTBC advise
+against building over the existing culvert due to the risk of
+damaging the culvert, the difficulty of inspecting the culvert and the
+residual flood risk should the culvert become blocked.
+· 
+RCTBC are aware that opening up the existing culvert or diverting
+the culvert may not be feasible for the Power Generation Project.
+RCTCBC would seek that regard is had to their culverting policy
+whether within the application or prior to construction through an
+appropriate strategy document.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 11 -
+· 
+RCTBC require a drainage strategy setting out the proposals for
+surface water management for the Power Generation Project.
+Whilst RCTBC accept that the site is brownfield, they would expect
+to see the consideration of the use of SUDs and increased
+infiltration.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 12 -
+2
+ASSESSMENT METHODOLOGY
+2.1
+Overview
+2.1.1
+The assessment has been prepared to meet the requirements of
+TAN15 and the flood risk requirements of EN-1.
+2.1.2
+The minimum requirements of a FRA under EN-1 are that it should:
+· 
+Be proportionate to the risk and appropriate to the scale, nature
+and location of the project;
+· 
+Consider the risk of flooding arising from the project in addition to
+the risk of flooding to the project;
+· 
+Take the impacts of climate change into account, clearly stating the
+development lifetime over which the assessment has been made;
+· 
+Be undertaken by competent people, as early as possible in the
+process of preparing the proposal;
+· 
+Consider both the potential adverse and beneficial effects of flood
+risk management infrastructure, including raised defences, flow
+channels, flood storage areas and other artificial features, together
+with the consequences of their failure;
+· 
+Consider the vulnerability of those using the site, including
+arrangements for safe access;
+· 
+Consider and quantify the different types of flooding (whether from
+natural and human sources and including joint and cumulative
+effects) and identify flood risk reduction measures, so that
+assessments are fit for the purpose of the decisions being made;
+· 
+Consider the effects of a range of flooding events including extreme
+events on people, property, the natural and historical environment
+and river and coastal processes;
+· 
+Include the assessment of the remaining (known as ‘residual’) risk
+after risk reduction measures have been taken into account and
+demonstrate that this is acceptable for the particular project;
+· 
+Consider how the ability of water to soak into the ground may
+change with development, along with how the proposed layout of
+the project may affect drainage systems;
+· 
+Consider if there is a need to be safe and remain operational during
+a worst case flood event over the development’s lifetime; and
+· 
+Be supported by appropriate data and information, including
+historical information on previous events.
+2.1.3
+The methodology adopted in this FRA comprises:
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 13 -
+· 
+Review of available flood risk data to identify existing flood risk from
+fluvial, tidal, groundwater, overland flow and artificial sources;
+· 
+Consideration of existing ground conditions on-site to determine
+groundwater levels,  soil permeability and contamination risks
+through review of previous land use and information available from
+NRW, the British Geological Survey (BGS) and National Soil
+Resources Institute (NSRI) Soils Site Report;
+· 
+Review of the development proposals in terms of flood risk
+vulnerability and flood zone compatibility, in accordance with the
+methodology defined in the TAN15;
+· 
+Consideration of how the development proposals may affect flood
+risk to the site and surrounding land; and
+· 
+Proposals for the appropriate management of flood risks to
+facilitate development whilst not increasing risks elsewhere.
+2.1.4
+Data regarding flood risk relevant to the Project and surrounding area
+has been obtained from the following sources:
+· 
+EA indicative flood risk maps and groundwater maps;
+· 
+NRW / TAN15 Development Advice Map;
+· 
+Rhonda Cynon Taff Strategic Flood Consequence Assessment
+(SFCA), October 2008;
+· 
+Rhonda Cynon Taff Preliminary Flood Risk Assessment (PFRA),
+October 2011;
+· 
+Rhonda Cynon Taff Local Flood Risk Management Strategy
+(LFRMS), October 2012 (draft for consultation);
+· 
+Direct consultation with NRW, RCTBC and DCWW as discussed in
+Section 1.3.
+2.2
+Definition of Flood Risk
+2.2.1
+Flood risk is the product of the likelihood or chance of a flood occurring
+(flood frequency) and the consequence or impact of the flooding (flood
+consequence).
+Flood Frequency
+2.2.2
+Flood frequency is identified in terms of the return period and annual
+probability. For example, a 1 in 100 year flood event has a 1% annual
+probability of occurring. Table 1 below provides a conversion between
+return periods and annual flood probabilities.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 14 -
+Table 1 – Flood probability conversion table
+Return Period (years)
+2
+5
+10
+20
+50
+100
+200
+1000
+Annual Flood Probability
+(%)
+50
+20
+10
+5
+2
+1
+0.5
+0.1
+2.2.3
+TAN15 identifies Development Advice Zones to aid planning decisions
+relating to flood risk. Table 2 below describes the composition and use
+of these zones to control and manage development.
+Table 2 – Development Advice Zones
+Description of Zone
+Use within the precautionary
+framework
+Considered to be at little or no risk of
+fluvial or tidal/coastal flooding.
+A
+Used to indicate that justification
+test is not applicable and no need to
+consider flood risk further.
+Area known to have been flooded in
+the past evidenced by sedimentary
+deposits.
+B
+Used as part of a precautionary
+approach to indicate where site
+levels should be checked against
+the extreme (0.1% annual
+probability) flood level. If site levels
+are greater that the flood levels
+used to define adjacent extreme
+flood outline there is no need to
+consider flood risk further.
+Environment Agency extreme flood
+outline, equal to or greater than 0.1%
+annual probability of flooding.
+C
+Used to indicate that flooding issues
+should be considered as an integral
+part of decision making by the
+application of the justification test
+including assessment of
+consequences.
+Areas of the floodplain which are
+developed and served by significant
+infrastructure, including flood
+defences.
+C1
+Used to indicate that development
+can take place subject to
+application of justification test,
+including acceptability of
+consequences.
+Areas of the floodplain without
+significant flood defence
+infrastructure.
+C2
+Used to indicate that only less
+vulnerable development should be
+considered subject to application of
+justification test, including
+acceptability of consequences.
+Emergency services and highly
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 15 -
+vulnerable development should not
+be considered.
+Flood Consequences
+2.2.4
+The consequence of a flood event describes the potential damage,
+danger and disruption caused by flooding. This is dependent on the
+mechanism and characteristics of the flood event and the vulnerability
+of the affected land and land use.
+2.2.5
+TAN15 identifies three classifications of flood risk vulnerability and
+provides recommendations on the compatibility of each vulnerability
+classification with the Development Advice Zones, as shown in Table 3.
+Table 3 – Flood risk vulnerability and flood zone compatibility
+Development
+Advice Zone
+Emergency
+Services
+Highly Vulnerable
+Less vulnerable
+A
+ü
+ü
+ü
+B
+Justification test
+required if within
+0.1% AEP event
+Justification test
+required if within
+0.1% AEP event
+Justification test
+required if within
+0.1% AEP event
+C
+Justification test
+required
+Justification test
+required
+Justification test
+required
+C1
+Justification test
+required
+Justification test
+required
+Justification test
+required
+C2
+û
+û
+Justification test
+required
+ü Development considered acceptable
+û Development not considered acceptable
+2.3
+Potential Sources of Flooding
+2.3.1
+The following sources of flooding will be considered in this assessment:
+· 
+Fluvial flood risk from nearby watercourses;
+· 
+Overland surface water flooding from adjacent sites;
+· 
+Site generated surface water runoff;
+· 
+Surcharging of sewers;
+· 
+Groundwater flooding; and
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 16 -
+· 
+Tidal flooding.
+2.4
+Potential Effects of Climate Change
+2.4.1
+Scientific consensus is that the global climate is changing as a result of
+human activity. While there remain uncertainties in how a changing
+climate will affect areas already vulnerable to flooding, it is expected to
+increase risk significantly over time.
+2.4.2
+As highlighted in TAN15, the UK Climate Impacts Programme
+(UKCIP02) climate change scenarios for the UK suggest that winters
+will become wetter by as much as 20% by 2050. Rainfall patterns are
+also predicted to change, with summers and autumn becoming much
+drier, but the number of rain-days and average intensity of rainfall is
+expected to increase.
+2.4.3
+In accordance with TAN15, the potential impact of climate change will
+be assessed by increasing rainfall intensity by 20% in the 100 year
+event.
+2.5
+The Flood and Water Management Act 2010
+2.5.1
+The Flood and Water Management Act 2010 (FWMA) introduces new
+responsibilities for flood risk management for local authorities and sets
+out new requirements for the management of sustainable drainage.
+2.5.2
+The FWMA Act is still being implemented and this report provides
+guidance on how its implementation will impact on the management of
+surface water and flood risk for the Project.
+Lead Local Flood Authorities
+2.5.3
+Under the FWMA the unitary authority or county council for an area is
+designated the  ‘Lead Local Flood Authority’ (LLFA), with responsibility
+for managing flood risk from surface water, ground water and ordinary
+watercourses within their area. The LLFA are also the consenting
+authority for works near or within ordinary watercourses. Rhonda
+Cynon Taff Borough Council is the LLFA for the Project area.
+Sustainable Drainage
+2.5.4
+Schedule 3 of the FWMA introduces new National Standards for
+Sustainable Drainage Systems (SUDS) against which proposed
+drainage systems should comply.  Under Schedule 3 of the FWMA,
+LLFAs will become the SUDS Approving Body (SAB) for surface water
+drainage systems for new development. Approval from the SAB for
+drainage proposals must be agreed prior to construction.  For drainage
+systems that serve more than one property, the SAB will have
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 17 -
+responsibility for maintenance of adopted SUDS schemes that meet
+SAB requirements.
+2.5.5
+These standards are currently in draft and will be implemented
+following consultation.
+2.5.6
+The draft standards introduce the SUDS hierarchy that states that the
+following methods of surface water disposal must be considered in
+order of preference:
+· 
+Discharge into the ground;
+· 
+Discharge to a surface water body;
+· 
+Discharge to a surface water sewer;
+· 
+Discharge to a combined sewer.
+2.5.7
+The draft standards also promote the management of surface water
+runoff at source, on the surface and integrated with public open space
+where it is reasonably practicable to do so.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 18 -
+3
+SITE DESCRIPTION
+3.1
+Power Generation Plant Site Description and Location
+3.1.1
+The Power Generation Plant site is located at Hirwaun Industrial
+Estate, approximately 2km west of Hirwaun and 5km west of Aberdare
+at National Grid Reference (NGR) SN938061.
+3.1.2
+The site location is shown in Figure 1.
+Figure 1 – Site location showing project redline boundary
+3.1.3
+The site covers an area of approximately 7.5 hectares (ha), with the
+footprint covering approximately 5 ha of the site.
+3.1.4
+The site is at approximately 210m AOD, with a shallow gradient from
+south to north across the site and comprises an area of land currently
+occupied by a large industrial building used for storage and distribution.
+3.1.5
+The A465 trunk road lies runs near to the northern boundary of the site.
+Hydrology and Surface Water Features
+3.1.6
+The site lies at the watershed of two major river catchments. The land
+to the west of the site drains to the River Neath, which flows south-west
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 19 -
+to discharge to the Bristol Channel in Swansea Bay. The land to the
+east of the site drains to the River Cynon, which flows south-east and
+joins the River Taff at Abercynon. The River Cynon flows through the
+centre of Hirwaun approximately 1km to the east of the Project Site.
+3.1.7
+Review of OS mapping and the Flood Estimation Handbook (FEH)
+database indicates that the site is in the hydraulic catchment of the
+River Camnant. The upstream reaches of this watercourse are labelled
+on OS mapping and historical maps as the Nant yr Ochain and the
+distinction between these two watercourses is not clear. Downstream of
+the site the River Camnant passes beneath the A465 and flows in a
+westerly direction to join the Afon Sychryd which flows north-west to
+join the Afon Melte, discharging to the River Neath at Pontneddfechan.
+3.1.8
+Historical mapping indicates that the Nant yr Ochain / River Camnant
+historically flowed through the site and has been subject to numerous
+diversions, as detailed below:
+Year
+Details
+1921
+(Figure 2)
+Nant yr Ochain and River Camnant shown in their natural
+alignment. No development at the Hirwaun Industrial Estate. A
+small tributary of the River Camnant is shown flowing south-
+north through the west of the site.
+1951-1953
+(Figure 3)
+Western section of Nant yr Ochain watercourse shown
+culverted through site, emerging at north-east of the site to
+connect back into Nant yr Ochain. Eastern section of Nant yr
+Ochain shown rerouted to north along road.
+1981
+(Figure 4)
+The 1981 map shows the site following the construction of the
+A465 and extension of the industrial estate.
+The eastern section of the Nant yr Ochain is no longer shown,
+and the connection from the culvert beneath the site to the
+watercourse downstream is no longer shown.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 20 -
+Figure 2 – Historical mapping of the site, 1921 (PEIR red line boundary site
+boundary shown in pink)
+Figure 3 – Historical mapping of the site, 1951-1953
+Nant yr Ochain
+Afon Sychryd
+River Camnant
+Small tributary of
+River Camnant
+Nant yr Ochain
+Afon Sychryd
+River Camnant
+Small tributary of
+River Camnant
+Alignment of
+culvert as
+indicated on
+1951
+mapping
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 21 -
+Figure 4 - Historical mapping of the site, 1981
+3.1.9
+Review of Dwr Cymru asset records and the current detailed OS
+mapping shows a culvert running around the boundary of site, as
+shown in Figure 5. It is unclear whether this culvert is separate to the
+potential culvert running north-south through the site.
+Figure 5 – Current 1:10,000 OS Mapping
+3.1.10
+Other small water bodies within the vicinity of the Project Site are:
+· 
+An area of bog / marshy grassland is located approximately 1km to
+the east of the Power Generation Plant Site. This area incorporates
+Nant yr Ochain
+now not shown
+Afon Sychryd
+River Camnant
+Small tributary of
+River Camnant
+Alignment of
+culvert as
+inferred from
+1951
+mapping
+Location of culvert
+on EA record
+Downstream end of
+mapped extent of
+Nant yr Ochain
+Route of culvert
+shown on DCWW
+records
+Reappearance of Nant yr
+Ochain shown on OS
+mapping
+Location of culvert on
+EA record
+Alignment of culvert
+indicated on 1951
+mapping
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 22 -
+the shallow Hirwaun Ponds and forms part of the Hirwaun Industrial
+Estate Site of Importance for Nature Conservation (SINC);
+· 
+A small fishing pond is located approximately 200m south of the
+site;
+· 
+The agricultural land to the south of the site is drained by a network
+of small ditches and land drains.
+3.1.11
+The DCWW drinking water reservoir Penderyn Reservoir is
+approximately 250m to north of site.
+Geology and Hydrogeology
+3.1.12
+With reference to Table 10.5 from Section 10 of the Environmental
+Statement, the bedrock and superficial geology underlying the site is
+summarised in Table 4.
+Table 4 – Geological make-up at the site
+Geological
+Deposit
+Description
+Topsoil
+Brown Sandy Clay. Range in depth from 0.15-0.61 m
+below ground level (BGL)
+Peat
+Soft, dark brown / black fibrous peat ranging in depth
+from 1.37 – 5.33m BGL.
+Glacial Till
+Mixture of sand, silt, gravel, cobbles and boulders.
+Ranging in depth from 7-9m BGL.
+Coal Measures
+Not proven by boreholes
+3.1.13
+The coal measures are classified as Secondary A aquifer, described as
+permeable layers capable of supporting water supplies at a local rather
+than strategic scale, and in some cases forming an important source of
+base flow to rivers. These are generally aquifers formerly classified as
+minor aquifers;
+3.1.14
+The Cranfield University / National Soils Resources Institute Soilscape
+website (www.landis.org.uk) identifies that the soil across the majority
+of the Project Site is a slowly permeable wet and very acid upland soil
+with a peaty surface.  The soil is described as having impeded
+drainage.
+3.2
+Existing Drainage
+3.2.1
+The following existing foul and surface water drainage has been
+identified within the Project Site and immediate surrounding area:
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 23 -
+Public Infrastructure
+3.2.2
+Public sewer records for the site have been supplied by DCWW and
+show:
+· 
+Surface water drains to a culvert which runs in an anti-clockwise
+direction before discharging into the Nant yr Ochain watercourse
+downstream. This culvert appears to collect flows from the Nant yr
+Ochain upstream of the site;
+· 
+A combined foul and surface water sewer network is shown,
+ultimately discharging to the DCWW Hirwaun Sewage Treatment
+Works immediately to the north of the site.
+3.2.3
+It is unclear from the sewer records or from site records where the
+existing infrastructure on the Power Generation Plant Site connects into
+the public sewer network.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 24 -
+4
+EXISTING FLOOD RISK
+4.1
+Tidal and Fluvial Flooding
+4.1.1
+Figure 6 is an extract from the TAN15 Development Advice Map,
+showing flood risk from tidal and fluvial sources.  The mapping shows
+the site to be Zone A, with a low risk of fluvial and tidal flooding.
+Figure 6- Extract from TAN15 Development Advice Map (Green = Zone C1,
+Blue = Zone C2, Yellow = Zone B)
+Flood Risk from Nant yr Ochain Culvert
+4.1.2
+The indicative mapping from the EA and NRW shows no raised flood
+risk from the culverted Nant yr Ochain. However, the indicative
+mapping does not take into account the risk from potential blockage of
+the culvert. This risk is considered further in the section below on flood
+risk from overland flow.
+4.2
+Other Sources of Flooding
+Groundwater Flood Risk
+4.2.2
+Groundwater flooding occurs when water stored below ground reaches
+the surface. It is commonly associated with porous underlying geology,
+such as chalk, limestone and gravels.
+4.2.3
+The BGS Susceptibility to Groundwater map was obtained for the site
+by Argyll Environmental. This map (shown in Figure 7) shows areas of
+High and Very High risk of groundwater flooding at the Power
+Generation Plant site.
+Site Location
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 25 -
+Figure 7 – Extract of BGS Susceptibility to Groundwater Flooding map
+4.2.4
+However, while the bedrock geology beneath the site is classified as a
+Secondary Aquifer and will contain groundwater, the bedrock is
+overlain by a layer of low permeability glacial till and peat, which would
+impede the emergence of groundwater at the site. The risk of
+significant groundwater emergence at the site is therefore considered
+to be low.
+4.2.5
+There are no known incidents of groundwater flooding at the site and
+the risk of groundwater flooding is assessed to be low.
+Overland Flow
+4.2.6
+For the purpose of this FRA, flood risk from overland flow includes
+flooding from surface water runoff, surcharging of the sewerage
+network and overland flow from artificial sources such as canals or
+reservoirs.
+4.2.7
+Figure 8 shows the EA surface water flood risk map for the Project Site.
+As discussed in paragraph 4.1.2, the map shows surface water flooding
+following the route of the Nant yr Ochain culvert. Areas of the Project
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 26 -
+Site are shown to be at risk in a Medium Risk (1 in 100 yr) and High
+Risk (1 in 30 year) flood extent. This mapping does not take full
+account of existing drainage or culverts, so can be considered to
+represent the flooding of the Project Site in the event of complete
+blockage of the Nant yr Ochain culvert. This culvert is indicated on the
+DCWW asset plan, and it is assumed that DCWW hold responsibility
+for its maintenance. If this is the case, the risk of blockage and
+subsequent risk of surface water flooding would be greatly reduced.
+There are no known incidents of surface water flooding at the site.
+Figure 8 – Extract of EA Flooding from Surface Water map. High risk = 1 in 30
+yr, Medium risk = 1 in 100 yr, Low risk = 1 in 1000 yr. Very low = less than 1
+in 1000 yr.
+4.2.8
+As shown in Figure 9, the Project Site is not assessed to be at risk of
+flooding from the Penderyn Reservoir.
+Site Location
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 27 -
+Figure 9 – Extract from EA Flood Risk from Reservoir indicative mapping
+4.3
+Summary of Existing Flood Risk
+4.3.1
+The site is assessed to be at low risk of flooding from all sources.
+Site Location
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 28 -
+5
+POST DEVELOPMENT FLOOD RISK & DRAINAGE STATEMENT
+5.1
+Post Development Flood Risk
+5.1.1
+The Project is located entirely within the low risk Zone A on the TAN15
+Development Advice Map and the low risk Flood Zone 1 on the EA
+indicative flood zone mapping.  The Project will have no impact on
+fluvial flood risk at the Project Site or to people and property
+downstream.
+5.2
+Surface Water Drainage Proposals
+5.2.1
+The Project is being constructed on a brownfield site, which remains in
+economic use by International Greetings UK and comprises of large
+areas of impermeable concrete surface. The development does not
+increase the impermeable area of the site and as a result will not result
+in an increase in surface water run-off from the site.
+5.2.2
+Detailed proposals for the surface water drainage of the new buildings
+and hardstanding are yet to be confirmed, however the proposed
+approach is to utilise the existing drainage infrastructure serving the
+existing site. Review of DCWW mapping indicates that surface water
+from the site is likely to discharge to the culverted Nant yr Ochain which
+flows around the outside of the site to join the River Camnant
+downstream.
+5.2.3
+It is proposed that the site will continue to discharge surface water to
+the culverted Nant yr Ochain watercourse at an unattenuated rate.
+Review of the downstream catchment shows no raised flood risk in the
+downstream River Camnant up to its confluence with the Afon Melte,
+which has a large and steep catchment. Surface water falling on the
+Project site forms a very small part of this catchment and attenuating
+surface water flows would have no impact on flood risk.
+5.2.4
+Surface water drainage will be designed to ensure no surface water
+flooding within the site up to the 1 in 30 year event.  Site levels will be
+designed to ensure no increased risk of flooding to people and
+properties elsewhere in the event of rainfall events greater than the 1 in
+30 year event up to the 100 year plus 20% climate change event.
+5.3
+Summary of Post Development Flood Risk
+5.3.1
+The Project will result in no increased flood risk to the site or people
+and properties outside of the site. Surface water drainage will be
+designed to ensure no surface water flooding within the site up to the 1
+in 30 year event and no increased risk of flooding to people and
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 29 -
+property elsewhere in events up to the 100 year plus 20% climate
+change event.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 30 -
+6
+SEQUENTIAL / JUSTIFICATION TEST
+6.1
+Sequential Test / Justification Test
+6.1.1
+The site is located within TAN15 Zone A / EA Flood Zone 1 and is
+therefore considered to meet the requirements of the Sequential Test /
+Justification Test.
+6.2
+The Exception Test
+6.2.1
+Due to the low flood risk the Exception Test does not need to be
+applied to this development.
+Hirwaun Power Project Flood Risk
+Assessment
+Hirwaun Power Project Flood Risk Assessment
+Prepared by Parsons Brinckerhoff
+March 2014
+for Hirwaun Power Ltd
+- 31 -
+7
+CONCLUSION
+7.1
+Introduction
+7.1.1
+Proposals have been prepared for the development of a new SCGT
+Power Station and integral connections on land at and near Hirwaun
+Industrial Estate. The Project proposals comprise three elements: the
+Power Generation Plant, a new Gas Connection and a new Electricity
+Connection. This FRA focuses on the Power Generation Plant due to
+the small extent of above ground permanent works for the Gas
+Connection and Electrical Connections.
+7.1.2
+This FRA has been prepared to consider the flood risk to the Power
+Generation Plant from external sources and the impact that the Project
+will have on flood risk within the site and elsewhere.
+7.2
+Summary of Existing Flood Risk
+7.2.1
+Through review of indicative flood maps and the SFCA it was identified
+that the site is located within the low risk EA Flood Zone 1 / TAN15
+Zone A with an annual probability of tidal and fluvial flooding of less
+than 0.1% (1 in 1000).
+7.2.2
+The EA indicative surface water flood map shows a raised risk of
+surface water flooding at the site. However, this mapping does not fully
+take into account surface water drainage or the culverted Nant yr
+Ochain which flows around the eastern boundary of the Project Site.
+7.2.3
+There are no known significant flood risks to the site from groundwater
+or overland flow and no known records of historical flooding within the
+site.
+7.2.4
+The Project Site is assessed to be at low risk of flooding.
+7.3
+Summary of Post Development Flood Risk
+7.3.1
+The Project will be designed to ensure there will be no increase in the
+volume or rate of surface water discharge from the site and hence will
+have no significant impact on flood risk either within the site or to
+people and property elsewhere.

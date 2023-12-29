@@ -1,0 +1,132 @@
+ 
+ 
+Biomass Carbon Calculator  
+Consultation on calculator methodology, scope, accuracy and usability  
+Summary of responses 
+ 
+6th November 2020 
+ 
+ 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION - SUMMARY OF 
+RESPONSES 
+Page 1 of 5 
+ 
+ 
+ 
+ 
+Summary 
+Drax thanks all respondents for participating in the consultation of its Biomass Carbon Calculator. We 
+have considered all feedback and have published an amended version of the Calculator and 
+accompanying User Guide alongside this summary of responses.  
+We received five formal responses to the consultation. In addition, we received informal feedback from 
+a variety of other stakeholders, including our suppliers and the United Nations Economic Commission 
+for Europe (UNECE) Team of Specialists on Wood Energy1. 
+Stakeholder responses fell into two categories: 
+• Responses concerning accounting of biogenic carbon and impacts on forest carbon stocks 
+• Responses concerning calculator operation 
+Responses concerning biogenic carbon 
+We received two responses recognising the potential implications of bioenergy on forest carbon stocks 
+and raised concerns such impacts are not included in the calculator. Drax welcomes this issue being 
+raised and shares the view that biomass should not be used where there exists a significant risk of 
+carbon stock depletion, carbon debt, or harming biodiversity. 
+However, carbon stock changes are not appropriate for including in the calculator for the following 
+reasons: 
+• The calculator is designed to comply with the methodologies laid out in the Renewables 
+Obligation and EU Renewable Energy Directive, where ‘fuel in use’ CO2 emissions for biomass are 
+treated as zero provided all other sustainability criteria are met 
+• There is no consensus methodology for measuring impact of bioenergy on forest carbon stocks 
+and to date, studies have provided highly uncertain estimates, ranging from very positive to very 
+ 
+1 http://www.unece.org/index.php?id=54628 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION - SUMMARY OF 
+RESPONSES 
+Page 2 of 5 
+ 
+ 
+ 
+ 
+negative climate outcomes. This is frequently due to the sensitivity of calculations to important 
+assumptions (e.g. See 2). 
+• The calculator is based on attributional lifecycle analysis (LCA). This approach is most appropriate 
+for regulation of supply chain emissions as impacts are directly attributed to individual supply 
+chains, ensuring unsustainable supply chains are identified and penalised accordingly. However, 
+it is often most appropriate to estimate the net impacts of biomass on forest carbon stocks using 
+consequential LCA, where net atmospheric impacts are estimated but are not attributed to 
+individual supply chains. 
+While calculations of forest carbon sit outside the scope of the calculator, we fully agree with the 
+respondents that ‘rigorous and scientifically-grounded evidence’ should be used to differentiate 
+between biomass sources that genuinely benefit the climate from those that exacerbate the problem 
+for decades into the future.  
+In testament to this belief, we have aligned our Responsible sourcing policy to the best science on forest 
+carbon modelling, ensuring that we only use biomass that will deliver climate and wider environmental 
+benefits, both in the short and long term. 
+Our policy is based on the findings of the Forest Research paper, Carbon impacts of biomass consumed 
+in the EU and commits us to only sourcing biomass that: 
+• 
+Reduces CO2 emissions 
+• 
+Protects the environment 
+• 
+Supports people and communities 
+To ensure our sourcing aligns to this policy, we will be held to account by our Independent Advisory 
+Board.  
+We further recognise additional monitoring and evaluation is required to ensure we meet the desired 
+policy aims. We have therefore committed to undertaking detailed analyses of forest carbon stocks and 
+market impacts in our forest sourcing regions to ensure our demand has not had a detrimental impact 
+on carbon stored in these forests or on local markets. These reports have been conducted by forestry 
+experts local to the region, who have a detailed understanding of forest dynamics in the region. 
+Currently, we have published seven reports: 
+ 
+2 Rolls & Forster. 2020. Quantifying forest growth uncertainty on carbon payback times in a 
+simple biomass carbon model analysis 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION - SUMMARY OF 
+RESPONSES 
+Page 3 of 5 
+ 
+ 
+ 
+ 
+• LaSalle 
+• Amite 
+• Morehouse 
+• Chesapeake 
+• Estonia 
+• Latvia 
+• Georgia 
+ 
+We expect to publish further catchment area reports in the near future, with a view to covering 70% of 
+our supply base by the end of 2020 and 90% by the end of 2021. 
+Responses concerning calculator operation 
+Methodology 
+No responses were received that indicated the calculator does not align to the UK Renewables 
+Obligation. 
+One response was received that indicated potential risk of non-compliance with Directive (EU) 
+2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of 
+the use of energy from renewable sources. 
+Two non-compliances were identified: 
+• Use of ‘typical’ values for energy required in forestry operations 
+• The use of a carnot efficiency value of 0.3546 for CHP emission allocations where temperatures 
+of heat is delivered below 150°C 
+As both mechanisms are appropriate for UK regulations the calculator has been updated to provide 
+sufficient flexibility to allow compliance with both sets of regulation. These updates are detailed in the 
+calculator ‘change log’ and accompanying User Guide. 
+ 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION - SUMMARY OF 
+RESPONSES 
+Page 4 of 5 
+ 
+ 
+ 
+ 
+Standard Values 
+One response was received that provided additional resources for missing standard values. Equally, this 
+response noted a small number of standard values that had been incorrectly entered. The calculator has 
+accounted for the response with updates detailed in the calculator ‘change log’. 
+Calculation Errors 
+One response was received that indicated a calculation error, relating to a missed step in converting 
+‘Additional upstream emissions’ from a fresh basis to a dry basis. The calculator has accounted for the 
+response with updates detailed in the calculator ‘change log’. 
+Usability 
+Several responses, both formal and informal, provided comment on potential improvements on the 
+usability of the calculator. Updates are detailed in the calculator ‘change log’. 
+ 

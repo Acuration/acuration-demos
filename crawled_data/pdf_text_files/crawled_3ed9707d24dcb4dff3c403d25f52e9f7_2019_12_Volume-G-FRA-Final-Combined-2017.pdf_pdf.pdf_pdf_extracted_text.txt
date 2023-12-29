@@ -1,0 +1,4094 @@
+ 
+ 
+On behalf of Millbrook Power Ltd 
+ 
+ 
+Project Ref: 40334 | Rev: 1.0 | Date: May 2017 
+ 
+ 
+Office Address: 16 Brewhouse Yard, Clerkenwell, London EC1V 4LJ 
+T: +44 (0)207 566 8600   E: london@peterbrett.com 
+Millbrook Power Project 
+Preliminary Environmental Information Report (2017) – Appendices  
+Volume G  
+Flood Risk Assessment
+ 
+ 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Contents – Volume G - Water Quality and Resources Appendices 
+9.1 – Flood Risk Assessment 
+ 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Water Quality and Resources  
+9.1 Flood Risk Assessment 
+ 
+ 
+ 
+ 
+On behalf of Millbrook Power Limited 
+ 
+ 
+Project Ref: 31116/3014 | Rev 0 | Date: March 2015 
+ 
+ 
+Office Address: 11 Prospect Court, Courteenhall Road, Blisworth, Northampton NN7 3DG 
+T: +44 (0)1604 878 300  F: +44 (0)1604 878 333  E: northampton@peterbrett.com 
+Millbrook Power Project 
+Flood Risk Assessment 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+1 
+Contents 
+Executive Summary ................................................................................................. 3 
+1 
+Introduction ...................................................................................................... 5 
+1.1 
+Background and Development Proposals ............................................. 5 
+2 
+Project Description .......................................................................................... 7 
+2.1 
+Overview ............................................................................................... 7 
+3 
+Scope of report ................................................................................................. 9 
+4 
+Legislation, Guidance and Policy Context ................................................... 10 
+4.1 
+National Policy Statements ................................................................. 10 
+4.2 
+National Planning Policy Framework (March 2012) ............................ 10 
+4.3 
+The Flood Risk Regulations (2009) ..................................................... 11 
+4.4 
+Flood and Water Management Act (2010) .......................................... 11 
+4.5 
+Water Environment (Water Framework Directive) (England and Wales) 
+Regulations 2003 ........................................................................................... 12 
+4.6 
+The Environmental Permitting (England and Wales) Regulations 2010
+ 
+12 
+4.7 
+Water Resources Act 1991 ................................................................. 12 
+4.8 
+Land Drainage Act 1991 ..................................................................... 13 
+4.9 
+The Building Regulations 2010 ........................................................... 13 
+4.10 Interim Code of Practice for Sustainable Drainage Systems (2004) ... 13 
+4.11 Sewers for Adoption 7th Edition ........................................................... 13 
+4.12 Surface Waters Plan - Plan for Strategic Management of Surface 
+Waters and their Local Environment in the Forest of Marston Vale 
+(Bedfordshire and River Ivel Internal Drainage Board and the Forest of 
+Marston Vale, June 2002) .............................................................................. 13 
+4.13 Central Bedfordshire Council Local Flood Risk Management Strategy 
+(February 2014) ............................................................................................. 14 
+4.14 Preliminary Flood Risk Assessment .................................................... 14 
+4.15 Strategic Flood Risk Assessment ........................................................ 14 
+5 
+Site and Surroundings ................................................................................... 16 
+5.1 
+Site Location and Description .............................................................. 16 
+5.2 
+Wider Setting ....................................................................................... 16 
+5.3 
+Watercourses and Water Bodies ......................................................... 17 
+5.4 
+Flood Defences ................................................................................... 17 
+5.5 
+Groundwater Vulnerability ................................................................... 17 
+6 
+Planning Background .................................................................................... 19 
+6.1 
+Context ................................................................................................ 19 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+2 
+6.2 
+The Low Level Restoration Scheme (LLRS) ....................................... 19 
+7 
+Stakeholder Consultation .............................................................................. 21 
+8 
+Flood Risk Assessment ................................................................................. 22 
+8.1 
+Tidal/Coastal ....................................................................................... 22 
+8.2 
+Groundwater ....................................................................................... 22 
+8.3 
+Surface Water ..................................................................................... 22 
+8.4 
+Watercourses ...................................................................................... 23 
+8.5 
+Extent and Depth of Flooding .............................................................. 25 
+9 
+Impact of The Project ..................................................................................... 28 
+9.1 
+Fluvial .................................................................................................. 28 
+9.2 
+Surface Water ..................................................................................... 28 
+10 
+Surface Water Management .......................................................................... 29 
+10.1 LLRS Surface Water Drainage Strategy ............................................. 29 
+10.2 Proposed Project Site Surface Water Drainage .................................. 31 
+10.3 Review of The Project within the context of the LLRS Surface Water 
+Drainage Strategy .......................................................................................... 32 
+10.4 Extreme Flooding (0.1% Probability Event) ......................................... 34 
+10.5 Pollution Control .................................................................................. 35 
+10.6 Maintenance........................................................................................ 36 
+11 
+Climate Change .............................................................................................. 37 
+12 
+Residual Risk .................................................................................................. 38 
+13 
+Concluding Remarks ..................................................................................... 39 
+Appendices 
+Appendix A Site Location Plan 
+Appendix B Low Level Restoration Scheme 
+Appendix C Stakeholder Consultation 
+Appendix D Hydraulic Modelling 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+3 
+ Executive Summary 
+ 
+This Flood Risk Assessment (FRA) has been prepared on behalf of Millbrook Power 
+Limited and in accordance with the National Planning Policy Framework to support an 
+application for a Development Consent Order (DCO) relating to the construction of a 
+proposed Power Generation Plant in Bedfordshire.  The Project will comprise an Open 
+Cycle Gas Turbine Power Generation Plant fuelled by natural gas, along with 
+associated infrastructure including a new Gas Connection to bring in fuel to supply the 
+plant and an Electrical Connection to export the power generated to the National Grid. 
+ 
+This FRA has been prepared following consultation with both the Environment Agency 
+and the Bedfordshire and River Ivel Internal Drainage Board and sets out: 
+ 
+(i) 
+the nature of the existing flood risk constraints associated with watercourses 
+and water bodies within and in the vicinity of the Project Site, 
+(ii) the likely nature of the impact of the proposed Project from a flood risk 
+perspective and details of proposed mitigation measures and 
+(iii) the scope of technical work undertaken to enable a detailed appraisal of flood 
+risk constraints to inform both development planning/design and the 
+preparation of the FRA. 
+ 
+The Project Site is partly located within The Rookery, between Milton Keynes and 
+Bedford, extending over an area of some 210ha and comprising two former clay pits 
+(Rookery North and Rookery South) separated by an east-west spine of unexcavated 
+clay. 
+In accordance with the provisions of the Environment Act 1995, The Rookery has been 
+the subject of a Review of Old Minerals Permission (ROMP), which allows the minerals 
+Planning Authority to update the older mineral planning permissions by imposing 
+modern operating, restoration and aftercare conditions.  The landowner submitted an 
+application for the determination of new conditions in June 2009 and this application 
+set out details of a Low Level Restoration Scheme (LLRS) which seeks to restore the 
+former clay workings to low-intensity agricultural use, with measures included to 
+enhance biodiversity and landscape.  The LLRS works comprise the re-profiling of the 
+pit base, slope buttressing works, the implementation of a surface water drainage 
+strategy and landscaping works.  These works will be completed prior to the 
+commencement of construction works for the Millbrook Power Project and the LLRS 
+therefore provides the ‘baseline’ for the purposes of assessing flood risk constraints, 
+the impact of the proposals from a flood risk perspective and associated mitigation 
+measures. 
+ 
+The Mill Brook watercourse flows in a northerly direction along the western flank of 
+Rookery South Pit and a Tributary of the Mill Brook, draining a catchment to the south 
+of Rookery South Pit, joins the Mill Brook in the vicinity of the south-west corner of 
+Rookery South Pit.  The FRA has considered the nature of flood risk associated with 
+these watercourses and, through hydraulic modelling analysis, has shown that during 
+the 1 in 100 year flood event, floodwater may discharge into Rookery South Pit from a 
+localised area along the upper reach of the Tributary of the Mill Brook.  However, the 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+4 
+LLRS works are such that the Power Generation Plant Site will comprise an elevated 
+platform.  In addition, the LLRS surface water drainage strategy has been designed to 
+cater for floodwater influx into the Pit from the Mill Brook Tributary.  On this basis, and 
+within the context of Tables 1 and 3 of the NPPF Planning Practice Guidance, the 
+Power Generation Plant Site is categorised as Flood Zone 1 – Low Probability.  This 
+Flood Zone classification has been agreed with the Environment Agency. 
+The LLRS includes the implementation of a surface water drainage strategy, this 
+strategy having been designed to cater for the entire area of Rookery South Pit, 
+including the consented Covanta RRF project.  This FRA has reviewed the Project 
+within the context of the LLRS drainage strategy and demonstrates that the surface 
+water drainage infrastructure brought forward as part of the LLRS offers adequate 
+storage capacity to accommodate surface water run-off from the additional 
+impermeable area associated with the Project.  On this basis, the Project is 
+‘compatible’ with, and accommodated by, the LLRS drainage strategy, such that no 
+further mitigation measures are required as part of the Project. 
+The assessment considers the potential impacts of climate change upon (i) flood risk 
+associated with the Mill Brook and its Tributary and (ii) the surface water run-off regime.  
+The potential implications of extreme flooding (1 in 1,000 year, or 0.1% probability 
+event) and ‘residual risk’ issues relating to the operation/performance of the surface 
+water drainage system are also addressed and the assessment concludes that flood 
+risk considerations do not constitute a barrier to the granting of a Development Consent 
+Order (DCO) for the Project. 
+ 
+ 
+ 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+5 
+1 
+Introduction 
+1.1 
+Background and Development Proposals 
+1.1.1 Peter Brett Associates LLP (PBA) has been appointed by Millbrook Power 
+Limited to prepare a Flood Risk Assessment (FRA) in support of an application 
+for a Development Consent Order relating to the construction of a Power 
+Generation Plant in Bedfordshire. The Project would comprise an Open Cycle 
+Gas Turbine (OCGT) peaking power generating station fuelled by natural gas, 
+along with integral infrastructure such as a new Gas Connection to bring in fuel 
+to supply the plant and an Electrical Connection to export the power generated 
+to the National Grid. 
+1.1.2 Government policy in respect of development and flood risk in areas in England 
+is contained within the Department for Communities and Local Government 
+document National Planning Policy Framework (NPPF) published in March 
+2012 and the accompanying Planning Practice Guidance (PPG) published in 
+March 2014.  In addition, the Overarching National Policy Statement for Energy 
+(NPS EN-1) requires that applications for energy projects of 1ha or greater in 
+Flood Zone 1 and all energy projects in Flood Zone 2 and 3 are accompanied 
+by a Flood Risk Assessment. 
+1.1.3 The NPPF requires Local Planning Authorities (LPAs) to consult the 
+Environment Agency (EA) on all applications for development in flood risk areas 
+(except minor development), including those in areas with critical drainage 
+problems and for any development on land exceeding 1 hectare outside flood 
+risk areas (as set out in Section 15 of the Planning Practice Guidance).  
+However, The Planning Inspectorate will make the final decision with regards to 
+applications for Development Consent Orders. 
+1.1.4 This FRA has been prepared in accordance with the NPPF and associated 
+Planning Practice Guidance and following consultation with the EA and 
+Bedfordshire and River Ivel Internal Drainage Board.  The level of detail entered 
+into in any appraisal of flood risk is dependent upon the scale and potential 
+impact of the proposed development and EA Standing Advice (England, Version 
+3.1) outlines the requirements based upon the scale/nature of development and 
+its location within the floodplain. 
+1.1.5 The NPPF requires that any appraisal of flood risk be undertaken by competent 
+people as early as possible in the planning process.  PBA has many years of 
+experience in, amongst other areas, the assessment of flood risk, hydrology, 
+flood defence and river engineering. 
+1.1.6 It should be noted that the insurance market applies different tests to properties 
+in relation to both determining premiums and, more fundamentally, determining 
+the insurability of properties for flood risk.  Those undertaking development in 
+areas which may be at risk of flooding are advised to contact their insurers or 
+the Association of British Insurers (ABI) to seek further guidance prior to 
+commencing development. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+6 
+1.1.7 The findings of this FRA are based on data available at the time of the study 
+(February 2015) and relate to the current development proposals as outlined in 
+Section 2.  PBA does not warrant that the advice in this report will guarantee 
+the availability of flood insurance either now or in the future. 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+7 
+2 
+Project Description 
+2.1 
+Overview 
+2.1.1 The Project constitutes a Nationally Significant Infrastructure Project (NSIP) 
+pursuant to the Planning Act 2008 and therefore requires a Development 
+Consent Order (DCO) under that Act. 
+2.1.2 The Project would comprise: 
+� 
+a new Power Generation Plant in the form of an Open Cycle Gas Turbine 
+(OCGT) peaking power generating station, fuelled by natural gas with a 
+rated electrical output of between 50 and 299 Megawatts (MW).  This is the 
+output of the generating station as a whole, measured at the terminals of 
+the generating equipment. The Power Generation Plant comprises: 
+ generating equipment including one Gas Turbine Generator, with one 
+exhaust gas flue stacks and Balance of Plant (together referred to as the 
+‘Generating Equipment’), which are located within the ‘Generating 
+Equipment Site’; 
+ a new purpose built access road from Green Lane to the Generating 
+Equipment Site (the ‘Access Road);  
+ a temporary construction compound required during construction only 
+(the ‘Laydown Area’); 
+� 
+a new gas pipeline connection to bring natural gas to the Generating 
+Equipment from the National Transmission System (NTS) (the ‘Gas 
+Connection’). This element incorporates an Above Ground Installation (AGI) 
+at the point of connection to the NTS; and 
+� 
+a new electrical connection to export power from the Generating Equipment 
+to the National Grid Electricity Transmission System (NETS) (the ‘Electrical 
+Connection’). This element could be delivered in one of two ways:  
+ The first option would involve one underground double circuit Tee-in. This 
+would require one new tower (which will replace an existing tower and be 
+located in the existing Grendon – Sundon transmission route corridor, 
+thereby resulting in no net additional towers). This option would also 
+require two SECs, one located on each side of the existing transmission 
+line, and both circuits would then be connected via underground cables 
+approximately 500 metres in length to a new substation (the ‘Substation’). 
+This is hereafter referred to as "Option 1". 
+ The second option is similar to Option 1 and would involve an 
+underground single circuit turn in (requiring two cable circuits, one into 
+and one out of the substation). This would require one new tower (which 
+will again replace an existing tower and be located in the existing 
+Grendon – Sundon transmission route corridor, thereby resulting in no 
+net additional towers). This option would also require one larger SEC, 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+8 
+which could be located on either side of the existing transmission line, 
+and both circuits would then be connected via underground cables 
+approximately 500 metres in length to a new substation (the ‘Substation’). 
+This is hereafter referred to as "Option 2". 
+2.1.3 The Generating Equipment, Access Road and Laydown Area are together 
+known as the ‘Power Generation Plant’ and are located within the ‘Power 
+Generation Plant Site’.  
+2.1.4 The Power Generation Plant, Gas Connection, and Electrical Connection, 
+together with all access requirements are referred to as the ‘Project’ and are all 
+integral to the generation of electricity and subsequent export of that electricity 
+to the NETS. The land upon which the Project would be developed, or which 
+would be required in order to facilitate the development of the Project, is referred 
+to as the ‘Project Site’.  
+2.1.5 As a peaking plant, the Generating Equipment would operate when there is a 
+‘stress event’, such as a surge in demand or a sudden outage, and would also 
+operate at times when renewable energy sources, such as wind and solar 
+farms, cannot generate sufficient electricity due to their intermittent operation.  
+The Generating Equipment would operate for up to a maximum of 2,250 hours 
+per year. 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+29 
+3 
+Scope of report 
+3.1.1 This report summarises: 
+� 
+The legislation, guidance and policy that should be taken into account 
+when planning a development from a flood risk perspective; 
+� 
+the nature of the existing flood risk constraints associated with 
+watercourses and water bodies within and in the vicinity of the Project 
+Site; 
+� 
+the likely nature of the impact of the proposed Project from a flood risk 
+perspective and details of proposed mitigation measures and; 
+� 
+the scope of technical work undertaken to enable a detailed appraisal of 
+flood risk constraints to inform both development planning/design and the 
+preparation of this NPPF compliant FRA.  
+3.1.2 The report is structured as follows: 
+� 
+Section 4 summarises the legislation, guidance and policy context in 
+respect of development and flood risk. 
+� 
+Section 5 provides a description of the Project Site and its general 
+surroundings. 
+� 
+Section 6 provides an overview of the planning background relating to the 
+Project Site. 
+� 
+Section 7 provides an overview of the consultation undertaken to support 
+preparation of this FRA. 
+� 
+Section 8 addresses flood risk from tidal sources, groundwater, surface 
+water, impounded water bodies and watercourses and categorises the 
+Project Site in accordance with the flood zones set out in the NPPF. 
+� 
+Section 9 considers the potential impacts of the Project from a flood risk 
+perspective. 
+� 
+Section 10 addresses surface water management. 
+� 
+Section 11 addresses the implications of climate change.  
+� 
+Section 12 discusses the nature of residual risk and 
+� 
+Section 13 concludes the report. 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+30 
+4 
+Legislation, Guidance and Policy Context 
+4.1 
+National Policy Statements 
+ 
+4.1.1 The principal planning policy for the determination of energy-related NSIPs is 
+provided by the National Policy Statements issued by the Government’s 
+Department for Climate Change.  The Overarching National Policy Statement 
+for 
+Energy 
+(EN-1) 
+identifies 
+flood 
+risk 
+as 
+a 
+topic 
+requiring 
+consideration/assessment as part of energy-related projects and requires that: 
+� 
+Where the Project is likely to have effects on the water environment, the 
+applicant should undertake an assessment of the existing status of, and 
+impacts of the Project on, water quality, water resources and physical 
+characteristics of the water environment; 
+� 
+An application should be accompanied by a Flood Risk Assessment 
+(FRA) for energy projects of 1ha or greater in Flood Zone 1 and all 
+energy projects in Flood Zones 2 and 3; 
+� 
+Where a project may be affected by or may increase flood risk, pre-
+application discussions should be undertaken with the Environment 
+Agency and other bodies; 
+� 
+Any requirements for sequential testing are satisfied; 
+� 
+Priority is given to the use of Sustainable Drainage Systems (SuDS). 
+4.1.2 National Policy Statement for Fossil Fuel Electricity Generating Infrastructure 
+(EN-2) outlines the factors influencing site selection for fossil fuel generating 
+stations and also sets out additional policy on the potential impacts of energy 
+infrastructure projects.  This includes policy on water quality and resource 
+impacts and is concerned principally with water demand/consumption and the 
+impacts of abstraction and discharge of cooling water.  NPS EN-2 does not set 
+out additional policy in respect of flood risk. 
+4.1.3 National Policy Statement for Electricity Networks Infrastructure (EN-5) 
+provides the primary basis for decisions taken by the Secretary of State on 
+applications it receives for electricity networks infrastructure and sets out the 
+factors influencing route selection and the impacts that may arise from such 
+development.  However, NPS EN-5 does not set out additional policy in 
+respect of flood risk. 
+4.2 
+National Planning Policy Framework (March 2012) 
+ 
+4.2.1 The National Planning Policy Framework (NPPF) and the accompanying 
+Planning Practice Guidance sets out the Government’s national policy on 
+development and flood risk and seeks to provide clarity on what is required at 
+regional and local levels to ensure that flood risk is taken into account at all 
+stages in the planning process, to avoid inappropriate development in areas at 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+31 
+risk of flooding and to direct development away from areas at highest risk.  
+The NPPF outlines a risk based approach to the planning process and is 
+underpinned by the Sequential Test, which is designed to ensure that areas at 
+little or no risk of flooding are developed in preference to areas at higher risk. 
+Where, following application of the Sequential Test, it is not possible, or 
+consistent with wider sustainability objectives, for the development to be 
+located in zones with a lower probability of flooding, the Exception Test can be 
+applied.  Essentially, the two parts of the Test require proposed development 
+to show that it will provide wider sustainability benefits to the community that 
+outweigh flood risk and that it will be safe for its lifetime, without increasing 
+flood risk elsewhere.  The Test therefore provides a mechanism to allow 
+necessary development to go ahead in situations where suitable sites at lower 
+risk of flooding are not available. 
+4.2.2 The NPPF requires that the spatial planning process should consider the 
+possible impacts of climate change and contingency allowances are provided 
+to enable impacts to be considered over the lifetime of the development. 
+4.3 
+The Flood Risk Regulations (2009) 
+4.3.1 The Flood Risk Regulations transpose the EC Floods Directive (Directive 
+2007/60/EC) into domestic law.  The regulations require that preliminary flood 
+risk 
+assessments 
+are 
+prepared 
+by 
+the 
+Environment 
+Agency 
+and 
+Unitary/County Authorities (Lead Local Flood Authorities) and that areas at 
+significant potential risk of flooding are identified.  For these "significant risk" 
+areas, hazard maps must be produced and flood risk management plans 
+developed to reduce flood risk. 
+4.4 
+Flood and Water Management Act (2010) 
+4.4.1 The Flood and Water Management Act received Royal Assent on 8th April 
+2010 and takes forward some of the proposals set out in three previous 
+strategy documents published by the UK Government: Future Water, Making 
+Space for Water and the UK Government's response to the Sir Michael Pitt 
+Review of the summer 2007 floods. In doing so it gives the Environment 
+Agency a strategic overview of flood risk and gives local authorities 
+responsibility for preparing and putting in place strategies for managing flood 
+risk from groundwater, surface water and ordinary watercourses in their areas.  
+4.4.2 The Act makes provisions for the establishment of SuDS Approval Bodies 
+(SAB's), which will be the Unitary Authority or County Council in most cases, 
+and the publication of National Standards in respect of the design, 
+construction, maintenance and operation of drainage systems. Construction 
+work which has drainage implications may not be commenced unless a 
+drainage system for the work has been approved by the SAB. The SAB is also 
+required to adopt drainage systems which have been designed and 
+constructed in accordance with National Standards. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+32 
+4.5 
+Water Environment (Water Framework Directive) (England and Wales) 
+Regulations 2003 
+4.5.1 These regulations transpose the EU Water Framework Directive (2000/60/EC) 
+(WFD) into law in England and Wales.  The WFD is a wide-ranging piece of 
+European legislation that establishes a new legal framework for the protection, 
+improvement and sustainable use of surface waters, coastal waters and 
+groundwater across Europe in order to: 
+� 
+Promote sustainable water use; 
+� 
+Contribute to the mitigation of floods and droughts; 
+� 
+Prevent deterioration and enhance status of aquatic ecosystems, including 
+groundwater; 
+� 
+Reduce pollution. 
+4.5.2 Water management has historically been co-ordinated according to 
+administrative or political boundaries. The WFD promotes an approach based 
+on management by river basin - the natural geographical and hydrological 
+unit. River basin management plans include clear objectives in respect of 
+water quality and pollution control and a detailed account of how objectives 
+are to be met within a prescribed timeframe. 
+4.6 
+The Environmental Permitting (England and Wales) Regulations 2010 
+4.6.1 The Regulations as amended provide the regulatory framework under which 
+discharges to controlled waters and other emissions to the environment are 
+controlled. 
+4.6.2 The Regulations also transpose the requirements of the Groundwater 
+Directive into law in England and Wales. They place a duty on the 
+Environment Agency to protect groundwater by prohibiting groundwater 
+activities other than those carried out under a permit or exemption. 
+Groundwater activities include discharges of pollutants to groundwater 
+(whether direct or indirect).  
+4.6.3 The Regulations therefore require that the direct or indirect discharge of 
+pollutants to groundwater must be subject to prior authorisation and also allow 
+notices to be served to control activities which may lead to discharges of 
+pollutants to groundwater.  
+4.7 
+Water Resources Act 1991 
+4.7.1 The Water Resources Act 1991 (WRA) came into effect in 1991 and sets out 
+the responsibilities of the Environment Agency in relation to water pollution, 
+resource management, flood defence, fisheries, and in some areas, 
+navigation. The WRA regulates discharges to controlled waters, namely rivers, 
+estuaries, coastal waters, lakes and groundwater. Discharge to controlled 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+33 
+waters is only permitted with the consent of the Environment Agency. 
+Similarly, a licence is required to abstract from controlled waters.  
+4.8 
+Land Drainage Act 1991 
+4.8.1 The Act consolidates various enactments relating to Internal Drainage Boards 
+and the functions of these Boards and local authorities in relation to land 
+drainage.  Amongst other matters, the Act sets out provisions and powers in 
+respect 
+of 
+the 
+control 
+of 
+flow 
+of 
+watercourses 
+and 
+watercourse 
+restoration/improvement works. 
+4.9 
+The Building Regulations 2010 
+4.9.1 The Building Regulations 2010, Requirement H3, stipulates that rainwater 
+from roofs and paved areas is carried away from the surface to discharge to 
+one of the following, listed in order of priority: 
+1. an adequate soakaway or some other adequate infiltration system, or 
+where that is not reasonably practicable; 
+2. a watercourse, or where that is not practicable; 
+3. a sewer. 
+4.10 Interim Code of Practice for Sustainable Drainage Systems (2004) 
+4.10.1 This Code of Practice provides support for developers in promoting and 
+implementing a sustainable approach to water management and in particular 
+Sustainable Drainage Systems (SuDS), to ensure their long-term viability and 
+to promote consistent use. The document sets out the key regulatory 
+requirements that must be considered and adhered to before SuDS are 
+installed and commissioned. 
+4.11 Sewers for Adoption 7th Edition 
+4.11.1 'Sewers for Adoption' is the standard in England and Wales for the design and 
+construction of sewers to adoptable standards. It is a guide to assist 
+developers in preparing their submission to a Sewerage Undertaker prior to 
+entering an Adoption Agreement under Section 104 of the Water Industry Act 
+1991. 
+4.12 Surface Waters Plan - Plan for Strategic Management of Surface Waters 
+and their Local Environment in the Forest of Marston Vale (Bedfordshire 
+and River Ivel Internal Drainage Board and the Forest of Marston Vale, 
+June 2002) 
+4.12.1 This document was prepared to promote a series of policies that will 
+encourage an integrated and sustainable approach to the management of 
+surface waters in the context of major development in the area, including: 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+34 
+� 
+An integrated approach to flood risk management, surface water drainage 
+and the water environment; 
+� 
+Promote government guidance such as PPS25 (since replaced by the 
+NPPF), providing a framework for site-specific Flood Risk Assessments to 
+be produced in support of planning applications; 
+� 
+Implementation of strategic solutions to surface water drainage and flood 
+risk that are sustainable and offer opportunities for environmental and 
+recreational gains. 
+4.12.2 It should be noted that Rookery Pit lies outside of the Bedfordshire and River 
+Ivel Internal Drainage Board’s area of jurisdiction. However, Mill Brook, which 
+flows along the western side of the Pit, outfalls to Stewartby Lake located just 
+to the west, which is a water body maintained by the Bedfordshire and River 
+Ivel Internal Drainage Board. 
+4.13 Central Bedfordshire Council Local Flood Risk Management Strategy 
+(February 2014) 
+4.13.1 Central Bedfordshire Council, in its role as Lead Local Flood Authority (as 
+defined by the Flood and Water Management Act, 2010), has prepared a 
+Local Flood Risk Management Strategy.  The strategy addresses flood risk 
+arising from surface water, groundwater and ordinary watercourses, sets out a 
+number of objectives for managing flood risk and the actions and the 
+measures identified to achieve these objectives.  The majority of the items set 
+out in the strategy Action Plan are county-wide and the strategy does not 
+identify any specific issues/actions/objectives for the area in the immediate 
+vicinity of the Project Site. 
+4.14 Preliminary Flood Risk Assessment 
+4.14.1 In accordance with the requirements of the Flood Risk Regulations (2009), 
+Central Bedfordshire Council, Bedford Borough Council and Milton Keynes 
+Council commissioned the Bedford Group of Drainage Boards to prepare a 
+Preliminary Flood Risk Assessment.  This constitutes a high level screening 
+exercise to identify significant flood risk areas associated with flooding from 
+surface water, groundwater and ordinary watercourses.  The assessment did 
+not identify any significant flood risk areas and, being a high level, strategic 
+study, it does not contain any information in respect of flood risk associated 
+with the Mill Brook catchment. 
+4.15 Strategic Flood Risk Assessment 
+4.15.1 In 2008, Mid Bedfordshire District Council commissioned WSP Limited to 
+prepare a Stage 2 Strategic Flood Risk Assessment to inform preparation of 
+the Local Development Framework for the District.  The assessment is based 
+upon hydraulic modelling data and Environment Agency flood mapping data 
+available in 2008 and focuses upon fluvial flood risk associated with likely 
+future growth areas and potential development sites (for future housing 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+35 
+supply).  The assessment does not present any detailed/site-specific 
+information in respect of flood risk associated with the Mill Brook catchment. 
+4.15.2 To inform spatial planning across the District, South Bedfordshire District 
+Council commissioned Scott Wilson Ltd to prepare a Stage 1 Strategic Flood 
+Risk Assessment.  The 2008 study is based upon hydraulic modelling data 
+and Environment Agency flood mapping data available in 2008 and, being 
+relatively ‘high level’ in nature, does not present any detailed/site-specific 
+information in respect of flood risk in the vicinity of Rookery Pit. 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+36 
+5 
+Site and Surroundings 
+5.1 
+Site Location and Description 
+5.1.1 The Project Site is partly located within 'The Rookery', which comprises two 
+former clay pits (Rookery North and Rookery South) separated by an east-
+west spine of unexcavated clay. 
+5.1.2 The Rookery is located in the Marston Vale between Milton Keynes and 
+Bedford, approximately 3km north of Ampthill, a local market town, and 7km 
+south-west of Bedford. 
+5.1.3 The general location of the Project Site is shown in Figure 1, Appendix A. 
+5.1.4 The Generating Equipment Site, Laydown Area and parts of the Access Road, 
+Gas Connection and Electrical Connection would be located within part of 
+Rookery South Pit, which is approximately 95ha in area and bounded by steep 
+clay banks that are varied in nature and substrate.  The level of the pit base 
+currently varies between approximately 10m and 15m below ground level and 
+includes open water, reed beds, pools and bare inundated clay.  The land that 
+remains at the original ground level (approximately 42maOD) around the 
+periphery of Rookery South Pit is predominantly bare ground that has 
+previously been cleared of vegetation and maintained in this state for 
+approximately the last 28 years. 
+5.1.5 The Gas Connection and Electrical Connection would be located largely 
+outside of Rookery South Pit, in a mostly undeveloped, agricultural landscape 
+which comprises large arable fields, small areas of woodland, hedgerows and 
+a number of drainage ditches. 
+5.1.6 Access to the site is from the north near Stewartby, via the A421 Bedford 
+Road and Green Lane.  A junction on Green Lane leads to an access track 
+which extends south, along the western fringe of Rookery North Pit and into 
+Rookery South Pit. 
+5.2 
+Wider Setting 
+5.2.1 
+The former brickworks buildings and chimneys of the Stewartby Brickworks 
+and the settlement of Stewartby itself lie to the north of The Rookery. Other 
+nearby residential areas include: Houghton Conquest approximately 1.5km to 
+the east of the Project Site boundary; Marston Moretaine approximately 1.2km 
+to the west and Millbrook approximately 400m to the south.  These residential 
+areas are shown on Figure 1, Appendix A. 
+5.2.2 
+To the west of the Project Site is the Marston Vale Millennium Country Park.  
+Millbrook Proving Ground, a vehicle testing ground covering 285ha, is located 
+to the south-west of Rookery South Pit. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+37 
+5.2.3 
+Overhead power lines run west to east, to the south of Rookery South Pit, and 
+a number of public footpaths are located in and around the Project Site, linking 
+it to the wider Marston Vale.  
+5.2.4 
+The closest residential dwelling to the Power Generation Plant Site is South 
+Pillinge Farm, located approximately 130m to the west of the western 
+boundary of the Project Site.  South Pillinge Farm is separated from the 
+Project Site by a small deciduous woodland.  
+5.3 
+Watercourses and Water Bodies 
+5.3.1 
+The Mill Brook watercourse flows in a northerly direction along the western 
+flank of Rookery South Pit.  The Brook rises in the vicinity of Millbrook, 
+approximately 1.5km to the south of Rookery South Pit, and drains a 
+predominantly rural catchment of approximately 4.5km2.  It passes through a 
+culvert beneath the Marston Vale Railway Line and ultimately outfalls to 
+Stewartby Lake, a further 400m downstream. 
+5.3.2 
+A tributary watercourse draining a catchment of 1.5km2 passes to the south of 
+Rookery South Pit within the Project Site and joins the Mill Brook to the east of 
+South Pillinge Farm (Figure 1, Appendix A). 
+5.4 
+Flood Defences 
+5.4.1 There are no flood defences within/adjacent to the Project Site. 
+5.5 
+Groundwater Vulnerability 
+5.5.1 The 
+EA 
+publish 
+on 
+their 
+website 
+(http://apps.environment-
+agency.gov.uk/wiyby/default.aspx) indicative Source Protection Zones (SPZs) 
+for 2000 groundwater sources such as wells, boreholes and springs used for 
+public drinking water supply. The zones define areas where a range of human 
+activities may damage/pollute groundwater. The maps show three main zones 
+(inner, outer and total catchment) and a fourth zone of special interest. 
+5.5.2 The location of a site within a SPZ will determine the level of restriction applied 
+to a range of activities within the context of EA policy.  Restricted activities, as 
+defined by "Policy and Practice for the Protection of Groundwater" (EA, 1992) 
+are: 
+� 
+Groundwater abstraction; 
+� 
+Physical disturbance of aquifers and groundwater flow; 
+� 
+Waste disposal to land; 
+� 
+Land contamination; 
+� 
+Disposal of liquid effluent, sludges and slurries to land; 
+� 
+Discharges to underground strata; 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+38 
+� 
+Diffuse pollution of groundwater; and 
+� 
+Additional activities or developments which pose a threat to groundwater 
+quality. 
+5.5.3 Examination of EA mapping shows that the Project Site does not lie within any 
+SPZ and as such it is envisaged that the EA would not object to the proposals, 
+subject to standard conditions. 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+39 
+6 
+Planning Background 
+6.1 
+Context 
+6.1.1 The Environment Act 1995 requires owners and operators of mineral sites to 
+periodically update the planning conditions that regulate and control extraction 
+operations.  This review process is known as the Review of Old Minerals 
+Permission (ROMP) and aims to allow the minerals Planning Authority to 
+update the older mineral planning permissions by imposing modern operating, 
+restoration and aftercare conditions. 
+ 
+6.1.2 O&H Properties Ltd (O&H), as landowner of Rookery Pit, submitted an 
+application for the determination of new conditions in June 2009 (application 
+number: BC/CM/2000/8).  This ROMP review application set out details of a 
+Low Level Restoration Scheme (LLRS), the scope of which is summarised 
+below and set out in the Drawings presented in Appendix B. 
+6.2 
+The Low Level Restoration Scheme (LLRS) 
+6.2.1 The LLRS seeks to restore the former clay workings to low-intensity 
+agricultural use, with measures included to enhance biodiversity and 
+landscape.  The LLRS works within Rookery South Pit comprise: 
+� 
+the re-profiling of the base of the pit involving the extraction of soils and 
+clays from the permitted extraction area on the southern side with re-
+grading of the base of the pit to an approximate level of 15mbgl; 
+� 
+implementation of surface water drainage measures and construction of 
+an attenuation pond and pumping station in order to facilitate a managed 
+surface water drainage strategy; 
+� 
+a landscape strategy to include planting on the boundary of Rookery 
+South Pit and the margins of the attenuation pond;  
+� 
+provision of buttresses to the southern, eastern and northern slopes to 
+ensure the long-term stability of those slopes, and re-grading through 
+excavation; 
+� 
+provision of a series of permissive footpaths around the perimeter of 
+Rookery North Pit and around the attenuation pond within Rookery South 
+Pit; 
+� 
+provision of an access ramp into Rookery South Pit from Rookery North 
+Pit which connects to Green Lane, Stewartby via an existing track along 
+the western side of Rookery North Pit. Note that the ramp and existing 
+track are both of an agricultural standard; and 
+� 
+provision of a further, smaller access track into and out of Rookery South 
+Pit from the south side of the pit connecting with Station Lane, near 
+Millbrook Station. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+40 
+6.2.2 
+To facilitate the proposed LLRS works, extraction of clay from a currently un-
+worked area situated directly to the south of the existing extent of Rookery 
+South Pit will be undertaken. This area covers approximately 25 ha and forms 
+part of the existing minerals extraction consent boundary, but has not 
+historically been subject to excavation works. Deposits won from this area will 
+provide material for use in the restoration, re-profiling and buttressing work to 
+Rookery South Pit together with the implementation of a landscape and 
+ecology strategy, which will integrate with ecological mitigation works and 
+strategic landscape planting in Rookery North Pit. 
+6.2.3 
+Once the LLRS works are completed, Rookery South Pit will be approximately 
+15m below the surrounding ground level in the vicinity of the Generating 
+Equipment Site, Laydown Area and the Substation. 
+6.2.4 
+The LLRS works will be completed prior to the commencement of construction 
+works for the Project, with the possible exception of buttressing and re-
+profiling to the eastern side of Rookery South Pit, which has no bearing on the 
+Project as it lies outside the boundary of the Project Site. 
+6.2.5 
+The LLRS therefore provides the baseline for the purposes of assessing (i) the 
+nature of flood risk constraints associated with watercourses and water bodies 
+within and in the vicinity of the site and (ii) the likely nature of the impact of the 
+development proposals from a flood risk perspective and associated mitigation 
+measures. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+41 
+7 
+Stakeholder Consultation 
+7.1.1 In preparing this FRA, consultation has been undertaken with the Environment 
+Agency (EA) and the Bedfordshire and River Ivel Internal Drainage Board 
+(IDB). 
+7.1.2 The purpose of this consultation was to: 
+� 
+identify the issues to be addressed; 
+� 
+agree design criteria/principles; 
+� 
+agree the methodology for the technical assessment/analysis required to 
+inform the FRA. 
+7.1.3 A joint FRA ‘scoping’ meeting was held with both the EA and IDB in December 
+2014, at which the scope of the FRA and associated methodology and design 
+principles were agreed.  A copy of the meeting notes summarising the scope 
+of matters discussed and agreed is enclosed within Appendix C. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+42 
+8 
+Flood Risk Assessment 
+8.1 
+Tidal/Coastal 
+8.1.1 Flooding arising from tidal or coastal sources is not an issue at this inland 
+location. 
+8.2 
+Groundwater 
+8.2.1 Information in respect of the geological and hydrogeological setting of the site 
+is set out in the report titled ‘Millbrook Power Project, Phase 1 Ground 
+Condition Assessment (Contamination and Ground Stability), December 
+2014’, prepared by Peter Brett Associates LLP.  According to this report the 
+solid geology of the area generally consists of the following sequence of 
+strata: 
+� 
+the Peterborough Member of the Oxford Clay Formation; 
+� 
+underlain by the Kellaways Formation (including the Kellaways Clay 
+Member); 
+� 
+underlain by the Cornbrash Formation (limestone) and the Blisworth Clay 
+Formation and Blisworth Limestone Formation at depth. 
+8.2.2 More specifically, the report indicates that the geological sequence in the base 
+of Rookery South Pit comprises made ground in the form of Callow Clay fill 
+(superficial deposits and weathered Oxford Clay not suitable for brickmaking 
+which was removed and cast back into the Pit), underlain by Oxford Clay.   
+8.2.3 The report also indicates that the clayey deposits of the Callow Clay Fill, 
+Oxford Clay, Kellaways Clay and Blisworth Clay Formation can be considered 
+as being aquicludes/aquitards (an impermeable body of rock or stratum of 
+sediment that acts as a barrier to the flow of groundwater).  According to the 
+report, the Cornbrash Formation is classified as a Minor Aquifer, but has been 
+shown to be characterised by low permeability, such that it is considered to be 
+an aquitard.  The Blisworth Limestone Formation is similarly characterised by 
+low permeability. 
+8.2.4 The report indicates that groundwater elevations in the base of Rookery South 
+Pit are around 28.7mAOD (approximately 0.3m bgl). 
+8.2.5 Enquiries conducted as part of this assessment and information collated as 
+part of the aforementioned Ground Condition Assessment have not identified 
+any evidence of elevated groundwater levels or records of groundwater 
+flooding.  Flooding arising from groundwater sources is not therefore 
+considered to be an issue at this location. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+43 
+8.3 
+Surface Water 
+8.3.1 The site comprises a former clay pit that is being restored to low-intensity 
+agricultural use.  Surface water accumulating within the Pit is currently 
+pumped to the Mill Brook, in accordance with the terms of an existing Consent 
+to Discharge (EA reference PRCNF/14024) granted under Schedule 10 of the 
+Water Resources Act 1991. 
+8.3.2 The updated Flood Map for Surface Water (published on the Environment 
+Agency’s website (http://apps.environment-agency.gov.uk/wiyby/37837.aspx) 
+indicates that approximately 50% of Rookery South Pit may be affected by 
+surface water flooding.  However, this mapping is based upon the existing 
+topography of the Pit base and is not therefore representative of the surface 
+water drainage regime that will exist following implementation of the LLRS (as 
+set out in Section 6 above). 
+8.3.3 As noted above, the LLRS provides the baseline for the purposes of assessing 
+the nature of flood risk constraints.  The LLRS works include the 
+implementation of a surface water drainage strategy, comprising construction 
+of a surface water balancing pond within the north-west corner of Rookery 
+South Pit, the excavation of associated surface water interceptor channels 
+within the base of the Pit and provision of a pumping station to enable surface 
+water to be pumped to Rookery North Pit and the Mill Brook.  The surface 
+water drainage strategy has been designed to accommodate the Covanta 
+RRF, along with other future development, including the Millbrook Power 
+Project.  Proposals in respect of surface water management are set out in 
+Section 10 of this report. 
+8.3.4 It is therefore concluded that surface water will be appropriately managed 
+such that flood risk arising from surface water sources, both within and outside 
+the Pit, is not considered to be an issue at this location. 
+8.4 
+Watercourses 
+8.4.1 The EA publishes floodplain maps on the internet (http://apps.environment-
+agency.gov.uk/wiyby/37837.aspx).  These maps show the possible extent of 
+fluvial flooding for the 1 in 100 year flood (that which would have a 1% 
+probability of being exceeded each year) or the possible extent of tidal 
+flooding to a 1 in 200 year event. Also shown is the possible extent of flooding 
+arising from a 1 in 1,000 year event (0.1% probability). 
+8.4.2 In this instance, the EA’s flood maps do not extend to include the Mill Brook 
+and its tributary on account of the small size of the contributing catchment 
+area. 
+8.4.3 The nature of flood risk associated with the Mill Brook and its Tributary was 
+originally assessed in 2008 (‘the LLRS modelling study’) as part of the ROMP 
+review application and the findings reflected in the design of the LLRS.  Flood 
+risk was assessed by developing a HEC-RAS hydraulic model using a 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+44 
+topographic survey of Rookery South Pit and the watercourse corridor and 
+associated structures/crossings undertaken in 2003. 
+8.4.4 This analysis demonstrated that floodwater may discharge into the Pit during 
+the 1 in 100 year flood event, the discharge occurring in a very localised area 
+along the upper reach of the Mill Brook Tributary (Figure 2, Appendix D).  The 
+LLRS was subsequently designed to cater for this flooding mechanism – 
+floodwater being allowed to discharge into the Pit on a ‘managed’ basis, such 
+that it would be intercepted and routed to the surface water attenuation pond 
+(the routing channels and attenuation pond being designed to accommodate 
+both floodwater discharge from the Mill Brook Tributary and surface water run-
+off arising from within the Pit itself).  This strategy was agreed with both the 
+Environment Agency and the Bedfordshire and River Ivel Internal Drainage 
+Board (IDB). 
+8.4.5 The LLRS modelling study was refined and updated in 2010 in support of 
+proposals for development within the north-west area of Rookery South Pit 
+(the Covanta RRF) and following further topographic survey of the Mill Brook 
+corridor (the Covanta modelling study).   
+8.4.6 Following consultation with the EA and IDB in December 2014, it was agreed 
+that the 2010 Covanta modelling study provides the best available data in 
+respect of flood risk associated with the Mill Brook such that it should be taken 
+forward and used to inform the FRA prepared in support of the Project.  
+However, it was noted that in the time that has elapsed since the 2010 study 
+was concluded, the Flood Estimation Handbook (FEH) methodology and 
+associated database (used to estimate flood flows for the purposes of 
+hydraulic modelling) has been revised/updated.  It was therefore agreed that 
+the 2010 assessment of flood flows should be reviewed/validated before being 
+used to inform the FRA prepared in support of the Millbrook Power Project. 
+8.4.7 A summary of the revised and updated FEH analysis is set out in the 
+Technical Note presented in Appendix D.  This demonstrates that flood flow 
+estimates based upon the current FEH methodology and database are lower 
+than those derived in 2010 as part of the Covanta modelling study.  As agreed 
+with the EA and IDB (ref correspondence included in Appendix C), it has not 
+therefore been necessary to revisit the 2010 Covanta modelling study and this 
+study has therefore been taken forward and used as the basis for this FRA. 
+8.4.8 The 2010 Covanta modelling study validated the findings of the earlier (2008) 
+LLRS modelling study.  In summary, it was found that: 
+� 
+During the 1 in 100 year event floodwater may discharge into Rookery 
+South Pit from a localised area along the upper reach of the Mill Brook 
+Tributary.  Floodwater discharge does not occur along the main branch of 
+the Mill Brook; 
+� 
+Discharge into the Pit from the Mill Brook Tributary increases marginally 
+during the 1 in 100 year plus climate change event.  Floodwater discharge 
+does not occur along the main branch of the Mill Brook. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+45 
+� 
+During the 1 in 1,000 year event, floodwater may discharge from the upper 
+reach of the Mill Brook Tributary and also over the right (eastern) bank of 
+the main branch of the Mill Brook immediately upstream of the culvert 
+beneath the Bedford to Bletchley Railway. 
+The 2010 Covanta modelling study also indicated that the volume of 
+floodwater influx into the Pit associated with the 1 in 100 year plus climate 
+change flood event amounted to 7,500m3.  This represents a reduction from 
+the volume of 23,000m3 assessed as part of the LLRS modelling study 
+undertaken in 2008 in support of the ROMP review application and is a result 
+of the improved resolution of the hydraulic model developed in 2010. 
+8.5 
+Extent and Depth of Flooding 
+8.5.1 Hydraulic modelling has demonstrated that floodwater arising from the Mill 
+Brook and its Tributary may discharge into Rookery South Pit during the 1 in 
+100 year and the 1 in 100 year plus climate change events. 
+8.5.2 However, as outlined in Section 6 above, the LLRS includes (i) re-profiling of 
+the base of the pit to create an elevated platform and (ii) implementation of a 
+surface water drainage strategy, comprising construction of a surface water 
+balancing pond within the north-west corner of Rookery South Pit, the 
+excavation of associated surface water interceptor channels within the base of 
+the Pit and provision of a pumping station to enable surface water to be 
+pumped to Rookery North Pit and the Mill Brook.  The surface water drainage 
+scheme has been designed to cater for floodwater influx into the Pit from the 
+Mill Brook and its Tributary (the design and capacity of the surface water 
+drainage scheme is discussed further in Section 10 of this report). 
+8.5.3 On this basis, and within the context of Tables 1 and 3 of the NPPF Planning 
+Practice Guidance, the Power Generation Plant site is categorised as Flood 
+Zone 1 – Low Probability.  This Flood Zone classification has been agreed 
+with the Environment Agency (ref correspondence included in Appendix C). 
+Table 1 Flood Zones 
+Zone 1 Low Probability 
+Definition 
+This zone comprises land assessed as having a less than 1 in 1000 
+annual probability of river or sea flooding in any year (<0.1%). 
+Appropriate uses 
+All uses of land are appropriate in this zone 
+FRA requirements For development proposals on sites comprising one hectare or above 
+the vulnerability to flooding from other sources as well as from river and 
+sea flooding, and the potential to increase flood risk elsewhere through 
+the addition of hard surfaces and the effect of the new development on 
+surface water run-off, should be incorporated in a FRA. This need only 
+be brief unless the factors above or other local considerations require 
+particular attention. 
+Policy aims 
+In this zone, developers and local authorities should seek opportunities 
+to reduce the overall level of flood risk in the area and beyond through 
+the layout and form of the development, and the appropriate application 
+of sustainable drainage systems. 
+Zone 2 Medium Probability 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+46 
+Definition 
+This zone comprises land assessed as having between a 1 in 100 and 1 
+in 1000 annual probability of river flooding (1% – 0.1%) or between a 1 in 
+200 and 1 in 1000 annual probability of sea flooding (0.5% – 0.1%) in 
+any year. 
+Appropriate uses 
+Essential infrastructure and the water-compatible, less vulnerable and 
+more vulnerable uses, as set out in Table 2, are appropriate in this zone.  
+The highly vulnerable uses are only appropriate in this zone if the 
+Exception Test is passed. 
+FRA requirements All development proposals in this zone should be accompanied by a 
+FRA. 
+Policy aims 
+In this zone, developers and local authorities should seek opportunities 
+to reduce the overall level of flood risk in the area through the layout and 
+form of the development, and the appropriate application of sustainable 
+drainage systems. 
+Zone 3a High Probability 
+Definition 
+This zone comprises land assessed as having a 1 in 100 or greater 
+annual probability of river flooding (>1%) or a 1 in 200 or greater annual 
+probability of flooding from the sea (>0.5%) in any year. 
+ 
+ 
+Appropriate uses 
+The water-compatible and less vulnerable uses of land (Table 2) are 
+appropriate in this zone.  The highly vulnerable uses should not be 
+permitted in this zone. 
+ 
+The more vulnerable uses and essential infrastructure should only be 
+permitted in this zone if the Exception Test is passed. Essential 
+infrastructure permitted in this zone should be designed and constructed 
+to remain operational and safe for users in times of flood. 
+FRA requirements All development proposals in this zone should be accompanied by a 
+FRA. 
+Policy aims 
+ 
+ 
+ 
+ 
+ 
+In this zone, developers and local authorities should seek opportunities 
+to: 
+i. reduce the overall level of flood risk in the area through the layout and 
+form of the development and the appropriate application of sustainable 
+drainage systems; 
+ii. relocate existing development to land in zones with a lower probability 
+of flooding; and 
+iii. create space for flooding to occur by restoring functional floodplain 
+and flood flow pathways and by identifying, allocating and safeguarding 
+open space for flood storage. 
+Zone 3b The Functional Floodplain 
+Definition 
+This zone comprises land where water has to flow or be stored in times 
+of flood. 
+ 
+Local planning authorities should identify in their Strategic Flood Risk 
+Assessments areas of functional floodplain and its boundaries 
+accordingly, in agreement with the Environment Agency. The 
+identification of functional floodplain should take account of local 
+circumstances and not be defined solely on rigid probability parameters. 
+But land which would flood with an annual probability of 1 in 20 (5%) or 
+greater in any year, or is designed to flood in an extreme (0.1%) flood, 
+should provide a starting point for consideration and discussions to 
+identify the functional floodplain. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+47 
+Appropriate uses 
+Only the water-compatible uses and the essential infrastructure listed in 
+Table 2 that has to be there should be permitted in this zone. It should 
+be designed and constructed to: 
+– remain operational and safe for users in times of flood; 
+– result in no net loss of floodplain storage; 
+– not impede water flows; and 
+– not increase flood risk elsewhere. 
+ 
+Essential infrastructure in this zone should pass the Exception Test. 
+FRA requirements 
+ 
+All development proposals in this zone should be accompanied by a 
+FRA. 
+Policy aims 
+In this zone, developers and local authorities should seek opportunities 
+to: 
+ 
+i. reduce the overall level of flood risk in the area through the layout and 
+form of the development and the appropriate application of sustainable 
+drainage systems; 
+ 
+ii. relocate existing development to land with a lower probability of 
+flooding. 
+8.5.4 The Power Generation Plant site is located within the lowest probability flood 
+zone and, as such, there is no requirement to apply the sequential test. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+48 
+9 
+Impact of The Project 
+9.1 
+Fluvial 
+9.1.1 The Project will not give rise to any loss of floodplain storage or interrupt flood 
+routing processes.  On this basis, no mitigation measures are required. 
+9.2 
+Surface Water 
+9.2.1 Development will give rise to an increase in the impermeable area within 
+Rookery South Pit. 
+9.2.2 Proposals in respect of surface water management are set out in Section 10 of 
+this report. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+49 
+10 Surface Water Management 
+10.1 LLRS Surface Water Drainage Strategy 
+10.1.1 As outlined in Section 6 above, a surface water drainage strategy will be 
+implemented as part of the LLRS works.  The LLRS works are taking place 
+independently of the Project and will be completed prior to the commencement 
+of construction works for the Project. 
+10.1.2 The principal components of the surface water drainage strategy are 
+presented in Drawing 3.1, Appendix B and may be summarised as follows: 
+� 
+the base of the pit will have been re-profiled such that surface water run-
+off sheds towards the north-west corner of the pit; 
+� 
+construction of a surface water balancing pond within the north-west 
+corner of Rookery South Pit; 
+� 
+excavation of surface water interceptor channels within the base of the Pit 
+to intercept surface water run-off and convey it to the attenuation pond; 
+� 
+surface water run-off that collects within the Rookery South Pit attenuation 
+pond will be pumped to Rookery North Pit as a strategic attenuation facility 
+at a rate of 100l/s, and to the Mill Brook at a rate of 23l/s (in accordance 
+with the existing Consent to Discharge, EA reference PRCNF/14024); 
+� 
+the normal water level within Rookery North Pit will have been drawn 
+down from 36m to 35m AOD to provide an additional storage volume, 
+thereby allowing Rookery North to be used as a strategic attenuation 
+facility in higher order rainfall events; 
+� 
+a gravity return connection will allow surface water to be discharged from 
+Rookery North back to the attenuation pond in Rookery South at a rate of 
+no more than 23l/s. 
+Design Parameters 
+10.1.3 The design parameters adopted for the purposes of designing the LLRS 
+surface water drainage strategy are as follows: 
+Impermeable Area 
+10.1.4 Given the nature of the pit and its surrounding clay catchment, it was assumed 
+that the base of the pit, the side slopes of the pit and the small areas of land 
+draining towards the pit are 100% impermeable. The total impermeable area 
+assumed was approximately 105ha, the boundary of which is shown on 
+Drawing No. 3.1 contained within Appendix B. 
+Flood Estimation Handbook (FEH) 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+50 
+10.1.5 The sizing of the attenuation pond was undertaken using catchment specific 
+rainfall parameters derived from the Flood Estimation Handbook (FEH). 
+Volumetric Run-off Coefficient 
+10.1.6 A volumetric run-off coefficient (Cv) of 0.85 was adopted in the sizing of the 
+attenuation pond. 
+Climate Change 
+10.1.7 In accordance with the NPPF and associated Planning Practice Guidance, the 
+attenuation pond was sized to allow for an increase of up to 30% in rainfall 
+intensity due to the effects of climate change. 
+Sizing of the Attenuation Pond 
+10.1.8 The attenuation pond has been sized to accommodate rainfall events up to 
+and including the 1 in 100 year event plus climate change (taken as an 
+increase of 30% in rainfall intensity) with a 1 in 10 year plus climate change 
+event following within one week of the 1 in 100 year rainfall event. The 
+attenuation pond is a ‘wet’ pond containing a 0.5m normal water depth, a 
+further 2m of storage depth (total depth of water when full of 2.5m), 1 in 3 side 
+slopes and a 1.0m freeboard. 
+Mill Brook Floodwater Influx 
+10.1.9 In addition to catering for surface water run-off arising from within Rookery 
+South Pit, the attenuation pond has been designed to accommodate 
+floodwater influx from the Mill Brook and its Tributary associated with the 1 in 
+1000 year flood event. 
+Storage Volumes 
+10.1.10 In addition to assessing the quantum of surface water storage required to 
+accommodate the 1 in 100 year plus climate change event, the design of the 
+surface water drainage infrastructure brought forward as part of the LLRS was 
+informed by consideration of ‘residual risk’ scenarios, including: 
+� 
+Pumping station failure and; 
+� 
+A 1 in 10 year plus climate change follow-on rainfall event occurring within 
+one week of the 1 in 100 year plus climate change event. 
+10.1.11 Storage volumes for the various design scenarios, defined as part of the LLRS 
+design process, are summarised in Table 2 below: 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+51 
+Table 2 – Surface Water Storage Volumes 
+Scenarios  
+Pump 
+Rate 
+Storage Volume 
+Required 
+Top Water 
+Level (m 
+AOD) 
+1 in 100 year rainfall 
+event plus 30% climate 
+change. 
+123l/s 
+101,391m3 
+27.94 
+1 in 100 year rainfall 
+event plus 30% climate 
+change with pumping 
+station failure (3 day 
+duration).  
+0l/s 
+125,088m3 assuming 
+pumping station is off-
+line for up to 3 days  
+28.41 
+1 in 100 year rainfall 
+event plus 30% climate 
+change with a 1 in 10 
+year plus 30% climate 
+change follow-on event.  
+123l/s 
+101,391m3 (1 in 100 
+years plus climate 
+change) + 91,614m3 
+(1 in 10 year plus 
+climate change) total = 
+193,005m3 
+29.15 
+1 in 100 year rainfall 
+event plus 30% climate 
+change with a 1 in 10 
+year plus 30% climate 
+change follow-on event, 
+plus 1 in 100 year plus 
+climate change discharge 
+from Mill Brook.  
+123l/s 
+101,391m3 (1 in 100 
+years plus climate 
+change) + 91,614m3 
+(1 in 10 year plus 
+climate change) 
++23,000m3 (Mill Brook 
+discharge) total = 
+216,005m3 
+29.45 
+10.1.12 As set out in the table above, the Rookery South Pit attenuation pond has 
+been sized to provide adequate storage to accommodate the 1 in 100 year 
+plus climate change rainfall event, followed by the 1 in 10 year plus climate 
+change rainfall event (i.e. total storage for surface water run-off amounts to 
+193,005m3).  Storage capacity also caters for floodwater influx from the Mill 
+Brook associated with the 1 in 100 year plus climate change event (23,000m3), 
+such that the total volume of storage within the pond (including freeboard) 
+amounts to 216,005m3. 
+10.2 Proposed Project Site Surface Water Drainage 
+Generating Equipment Site 
+10.2.1 Surface water run-off arising from internal roads and areas of hardstanding will 
+be conveyed by a private, gravity surface water drainage network to the LLRS 
+interceptor channels, ultimately outfalling to the LLRS surface water balancing 
+pond.  The private, gravity surface water drainage network will be designed in 
+accordance with the requirements of the Building Regulations and BS EN 752. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+52 
+10.2.2 Surface water run-off that may be mobilised as overland flows during extreme 
+rainfall events will be conveyed by the internal roads to the LLRS drainage 
+system.  Site levels will therefore be designed accordingly. 
+Access Road 
+10.2.3 Surface water run-off from the access road extending from Green Lane will be 
+conveyed via a gravity, highway drainage network and will outfall to the LLRS 
+surface water balancing pond.  Highway drainage will be designed in 
+accordance with the requirements of the Design Manual for Roads and 
+Bridges.  Surface water run-off that may be mobilised as overland flows during 
+extreme rainfall events will be conveyed within the highway cross-section. 
+Gas Connection 
+10.2.4 The connection comprises a buried pipeline, such that it will not give rise to an 
+increase in impermeable area within the catchment of the Mill Brook and 
+impact upon the surface water run-off regime. 
+10.2.5 The only permanent above ground structure associated with the gas 
+connection is the Above Ground Installation (AGI) at the point of connection to 
+the National Transmission System.  It is currently envisaged that surface water 
+run-off arising from areas of hardstanding associated with the AGI will be 
+managed/controlled using a soakaway or other similar infiltration method.  
+Infiltration testing will be undertaken as part of the detailed design process. 
+Electrical Connection 
+10.2.6 The connection comprises an underground cable/circuit, such that it will not 
+give rise to an increase in impermeable area within the catchment of the Mill 
+Brook and impact upon the surface water run-off regime. 
+10.2.7 The substation is the only permanent above ground structure associated with 
+the electrical connection.  Surface water run-off arising from the substation will 
+be conveyed to the LLRS interceptor channels, ultimately outfalling to the 
+LLRS surface water balancing pond. 
+10.3 Review of The Project within the context of the LLRS Surface Water 
+Drainage Strategy 
+10.3.1 As summarised above, the surface water drainage infrastructure brought 
+forward as part of the LLRS has been designed to cater for all future 
+development within Rookery South Pit, including the consented Covanta RRF 
+project. 
+10.3.2 In order to establish whether the Millbrook Power Project is ‘compatible’ with 
+the LLRS drainage strategy (i.e. such that no further mitigation measures are 
+required as part of the Project), the nature/extent of the contributing catchment 
+area associated with the Project has been reviewed.  This review has 
+concluded that: 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+53 
+� 
+The Generating Equipment, substation, temporary Laydown Area and 
+southern part of the Access Road fall within the surface water drainage 
+catchment defined for the purposes of designing the LLRS surface water 
+drainage infrastructure (i.e. such that the LLRS drainage strategy caters 
+for  surface water run-off arising from these areas); 
+� 
+The length of Access Road extending from Green Lane to the north-west 
+corner of Rookery South Pit falls outside the surface water drainage 
+catchment defined for the purposes of designing the LLRS surface water 
+drainage infrastructure. 
+10.3.3 The additional impermeable area associated with the length of Access Road 
+extending from Green Lane to the north-west corner of Rookery South Pit 
+equates to approximately 17,200m2 and it is proposed that surface water run-
+off from this area drains to the Rookery South Pit attenuation pond.  This will 
+therefore give rise to an increase in the area contributing to the pond.  The 
+impact of this additional contributing area draining to the pond has been 
+assessed using the MicroDrainage design software and using design 
+parameters previously established in respect of the LLRS.   
+10.3.4 Storage volumes for the various design scenarios, defined as part of the LLRS 
+design process, and taking account of the additional impermeable area 
+associated with the northern part of the Access Road, are summarised in 
+Table 3 below: 
+Table 3 – Surface water storage volumes 
+Scenarios  
+Pump 
+Rate 
+Storage Volume 
+Required 
+Top Water 
+Level (m AOD) 
+1 in 100 year rainfall event 
+plus 30% climate change 
+123l/s 
+103,184m3 
+27.96 
+1 in 100 year rainfall event 
+plus 30% climate change 
+with pumping station 
+failure (3 day duration)  
+0l/s 
+127,100m3 
+assuming 
+pumping station 
+is off-line for up 
+to 3 days  
+28.43 
+1 in 100 year rainfall event 
+plus 30% climate change 
+with a 1 in 10 year plus 
+30% climate change 
+follow-on event  
+123l/s 
+103,184m3 (1 in 
+100 years plus 
+climate change) + 
+95,099m3 (1 in 10 
+year plus climate 
+change) total = 
+198,283m3 
+29.26 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+54 
+Scenarios  
+Pump 
+Rate 
+Storage Volume 
+Required 
+Top Water 
+Level (m AOD) 
+1 in 100 year rainfall event 
+plus 30% climate change 
+with a 1 in 10 year plus 
+30% climate change 
+follow-on event, plus 1 in 
+100 year plus climate 
+change discharge from 
+Mill Brook.  
+123l/s 
+103,184m3 (1 in 
+100 years plus 
+climate change) 
++95,099m3 (1 in 
+10 year plus 
+climate change) 
++7,500m3 (Mill 
+Brook discharge) 
+total = 205,783m3 
+29.38 
+ 
+10.3.5 As set out in the table above, allowing for the additional impermeable area 
+associated with the northern part of the Access Road, the storage volume 
+required to cater for run-off associated with the 1 in 100 year plus climate 
+change rainfall event, followed by the 1 in 10 year plus climate change rainfall 
+event, increases from 193,005m3 to 198,283m3.  Allowing for floodwater influx 
+from the Mill Brook associated with the 1 in 100 year plus climate change 
+event, the total volume of storage required reduces from 216,005m3 to 
+205,783m3.  This reduction in the total volume of storage required is due to the 
+reduced volume of floodwater influx from the Mill Brook, defined by the 2010 
+Covanta modelling study. 
+10.3.6 The review set out above therefore demonstrates that the surface water 
+attenuation pond brought forward as part of the LLRS offers adequate storage 
+capacity to accommodate surface water run-off from the additional 
+impermeable area associated with the length of Access Road extending from 
+Green Lane to the north-west corner of Rookery South Pit.  On this basis, the 
+Millbrook Power Project is ‘compatible’ with the LLRS drainage strategy, such 
+that no further mitigation measures are required as part of The Project. 
+10.4 Extreme Flooding (0.1% Probability Event) 
+10.4.1 As set out in Section 8 above, the hydraulic modelling analysis has assessed 
+flood risk associated with the 1 in 1,000 year event and this has shown that 
+floodwater may discharge from the upper reach of the Mill Brook Tributary and 
+also over the right (eastern) bank of the main branch of the Mill Brook 
+immediately upstream of the culvert beneath the Bedford to Bletchley Railway. 
+10.4.2 As explained above, the LLRS surface water drainage scheme has been 
+designed to cater for both surface water run-off and floodwater influx into the 
+Pit from the Mill Brook and its Tributary.  Table 4 below summarises the 
+storage requirements associated with the 1 in 1,000 year event. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+55 
+Table 4 Storage Requirements Associated with the 1 in 1000 year Event 
+Scenario  
+Pump 
+Rate 
+Storage Volume 
+Required  
+Top Water 
+Level (m AOD) 
+1 in 1000 year rainfall 
+event 
+ 
+123l/s 
+135,259m3 
+28.39 
+1 in 1000 year rainfall 
+event, plus 1 in 1000 year 
+plus climate change 
+discharge from Mill Brook 
+123l/s 
+135,259m3 (1 in 
+1000 years plus 
+climate change) 
++21,000m3 (Mill 
+Brook discharge) 
+total = 156,259m3 
+ 
+28.67 
+10.4.3 As outlined above, the total volume of storage within the pond (including 
+freeboard) exceeds 200,000m3.  The surface water attenuation pond therefore 
+offers adequate storage capacity to accommodate both surface water run-off 
+and floodwater influx into the Pit from the Mill Brook and its Tributary 
+associated with the 1 in 1,000 year event. 
+10.5 Pollution Control 
+10.5.1 The Project includes the following potential sources of oil contamination: 
+� 
+Oil-filled transformers; 
+� 
+Lubrication systems for the Generating Equipment; 
+� 
+Oil storage and; 
+� 
+Areas of hardstanding for oil delivery vehicles. 
+10.5.2 All designated oil retaining areas will include secondary containment 
+measures (bunds) designed to contain 110% of the volume of oil stored. 
+10.5.3 The surface water drainage system serving potentially contaminated oil 
+retaining areas will pass surface water run-off through a Class 1 Full Retention 
+Oil Separator (as set out in BS EN 858) prior to discharging surface water to 
+the LLRS drainage system. 
+10.5.4 All private surface water drains will pass surface water run-off through an oil 
+interceptor prior to outfalling to the LLRS surface water drainage system. 
+10.5.5 Surface water run-off arising from the access road will pass through an oil 
+interceptor prior to outfalling to the LLRS surface water balancing pond.  
+Highway drainage outfalls will include a penstock control to enable 
+containment of contaminated run-off. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+56 
+10.6 Maintenance 
+10.6.1 Private surface water drains will be operated and maintained by Millbrook 
+Power Limited.  The LLRS surface water drainage infrastructure will be 
+maintained by O&H Properties Limited. 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+57 
+11 Climate Change 
+11.1.1 Table 2 of the Environment Agency’s ‘Climate change allowances for 
+planners’ guidance (September 2013) suggests that initial research has 
+indicated that by 2115 peak river flows could have increased by up to 20%.  
+There is much uncertainty regarding climate change but any increase in flows 
+would result in more frequent and more extensive flooding. 
+11.1.2 The possible effects of a 20% increase in flood flows in the Mill Brook and its 
+Tributary have been assessed (Section 8 of this report).  Although the analysis 
+indicates that the volume of floodwater discharge into Rookery South Pit from 
+the upper reach of the Mill Brook Tributary may increase as a result of climate 
+change, it has been shown that the surface water conveyance and storage 
+infrastructure within the Pit offers adequate capacity to accommodate such 
+changes. 
+11.1.3 Table 2 of the Environment Agency’s ‘Climate change allowances for 
+planners’ guidance also states that peak rainfall intensity may increase by up 
+to 30% by 2115 and that the average intensity of rainfall is expected to 
+increase.  Such changes could result in increased volumes of run-off from the 
+site. 
+11.1.4 Given the anticipated design life of the Project, and based upon the 
+recommended contingency allowances set out in Table 2 of the Environment 
+Agency’s ‘Climate change allowances for planners’ guidance, a 20% increase 
+in peak rainfall intensity would typically be adopted for the purposes of 
+designing a surface water drainage strategy to accommodate the effects of 
+climate change.  However, given the nature and location of the Project, the 
+highest contingency allowance of 30% increase in peak rainfall intensity has 
+been adopted in this instance. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+58 
+12 Residual Risk 
+12.1.1 Hydraulic modelling analysis indicates that floodwater may discharge into 
+Rookery South Pit from a localised area along the upper reach of the Mill 
+Brook Tributary during the 1 in 100 year and 1 in 1,000 year events.  
+Modelling has also shown that floodwater may discharge over the right 
+(eastern) bank of the main branch of the Mill Brook immediately upstream of 
+the culvert beneath the Bedford to Bletchley Railway during the 1 in 1,000 
+year event or as a result of a partial blockage of the culvert beneath the 
+railway. 
+12.1.2 However, it has been shown that the surface water drainage infrastructure 
+brought forward as part of the LLRS offers adequate capacity to cater for such 
+conditions.  It should also be noted that the locations at which floodwater may 
+discharge from the watercourse and into the Pit are ‘remote’ from the 
+Generating Equipment Site, and as such floodwater would not be expected to 
+impact on sensitive power generation infrastructure. 
+12.1.3 The principal residual flood risk issue in this instance relates to the 
+operation/performance of the surface water drainage system.  As set out in 
+Section 10, surface water run-off accumulating within the Rookery South 
+attenuation pond is pumped to both Rookery North and the Mill Brook.  Should 
+the pumping station fail, water levels within the attenuation pond would be 
+greater than those anticipated under ‘normal’ operating conditions.  However, 
+it has been shown (Table 10.2, Section 10 of this report) that the surface water 
+drainage infrastructure brought forward as part of the LLRS offers adequate 
+capacity to cater for a scenario where the pumping station is ‘off-line’ for up to 
+three days, this providing sufficient time for ‘stand-by’ arrangements to be 
+brought into effect. 
+12.1.4 Notwithstanding the above, an incident management plan should be prepared 
+so that visitors/operational staff are aware of the action to be taken in the 
+event of floodwater/surface water affecting the Generating Equipment Site and 
+associated highway access. 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+59 
+13 Concluding Remarks 
+13.1.1 National, Regional and Local planning policy requires that: 
+� 
+Development is directed to sites at the lowest probability of flooding; 
+� 
+Development accommodates the potential impacts of climate change; 
+� 
+Development should not be permitted if it would be at unacceptable risk of 
+flooding or create an unacceptable risk elsewhere; 
+� 
+Where possible, development should contribute to reduced flood risk; 
+� 
+New development should facilitate safe access and exit during flood 
+conditions. 
+13.1.2 Within this context, the Project is considered to fully comply with National, 
+Regional and Local planning policy in respect of development and flood risk.  
+On this basis, it is concluded that flood risk considerations do not constitute a 
+barrier to the granting of a Development Consent Order (DCO) for the Project. 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+60 
+Appendix A  
+Site Location Plan 
+ 
+ 
+ 
+GREEN LANE
+STEWARTBY
+ROOKERY
+NORTH PIT
+ROOKERY
+SOUTH PIT
+MIDLAND MAINLINE
+RAILWAY LINE
+MARSTON
+MORETAINE
+A421
+MARSTON VALE
+RAILWAY LINE
+0.5km
+0.0km
+1.0km
+2.0km
+3.0km
+HOUGHTON
+CONQUEST
+SOUTH
+PILLINGE
+FARM
+A421
+BEDFORD ROAD
+SITE
+ACCESS
+MILLBROOK
+PROVING
+GROUND
+MILLBROOK
+BEDFORD
+M1
+AMPTHILL
+MARSTON VALE
+MILLENNIUM
+COUNTRY PARK
+FORMER
+STEWARTBY
+BRICK WORKS
+STEWARTBY
+LAKE
+KEY
+    SITE BOUNDARY
+    WATERCOURSES
+Culvert beneath
+railway
+Mill Brook
+Mill Brook
+Tributary
+Checked by
+Drawn by
+A3 Scale
+Drawing Status
+Date of 1st Issue
+Drawn
+Mark Revision
+Chkd
+Date
+File Location: j:\31116 rookery pit gas power station\cad\dwgs\hydro\31116_3014_001 - figure 1.dwg
+UTILITIES NOTE: The position of any existing public or private sewers, utility
+services, plant or apparatus shown on this drawing is believed to be correct,
+but no warranty to this is expressed or implied.  Other such plant or apparatus
+may also be present but not shown.  The Contractor is therefore advised to
+undertake his own investigation where the presence of any existing sewers,
+services, plant or apparatus may affect his operations.
+SCALING NOTE:  Do not scale from this drawing.  If in doubt, ask.
+Drawing Number
+Revision
+Reproduced from/based upon Ordnance Survey material with the permission of Ordnance Survey 
+�
+on behalf of The Controller of Her Majesty's Stationery Office. � Crown Copyright.
+Unauthorised reproduction infringes Crown Copyright and may lead to prosecution or civil proceedings.
+Licence No.                         Year of Publication           Owner/Purchaser of Mapping
+user name: david batash
+Offices throughout
+the UK and Europe
+�  Peter Brett Associates LLP
+www.peterbrett.com
+NORTHAMPTON
+Tel:  01604 878300
+MILLBROOK POWER PROJECT
+LOCATION PLAN
+Client
+FLOOD RISK ASSESSMENT
+FIGURE 1
+-
+03.02.15
+NTS
+DB
+SH
+PBA LLP
+100021575
+2014
+31116/3014/001
+A
+Project Site
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+54 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+55 
+Appendix B  
+Low Level Restoration Scheme 
+ 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+56 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+57 
+Appendix C  
+Stakeholder Consultation 
+ 
+ 
+ 
+ 
+ 
+MINUTES 
+ 
+J:\31116 Rookery Pit Gas Power Station\Word\Meetings\141212 EA-IDB consultation mtg (flood risk).docx 
+Page 1 of 4 
+ 
+ 
+ 
+Meeting Title: 
+Millbrook Power, Bedfordshire 
+Attendees: 
+Hayley Baldock (EA), Trevor Skelding (Beds IDB), Stuart Harwood (PBA) 
+cc: 
+Chris Leach (PBA), Nick Johnson (Millbrook Power Limited) 
+Date of Meeting: 
+12th December 2014 
+Job Number: 
+31116-3007 
+ 
+Item 
+Subject 
+Actions 
+1.  
+Background/Introduction 
+ 
+SH explained that the purpose of the meeting was to: 
+• 
+provide the EA and IDB with an overview of the project; 
+• 
+set out and agree the design principles and parameters to 
+be taken forward in respect of flood risk and surface water 
+management; 
+• 
+agree the scope of the Flood Risk Assessment to support 
+the DCO application. 
+ 
+ 
+2.  
+Roles/Responsibilities 
+ 
+HB and TS confirmed the scope/extent of both the EAs and IDBs 
+remit in the area. 
+ 
+TS confirmed that the IDB was principally interested in the nature of 
+the surface water pumping regime from Rookery Pit (to the Mill 
+Brook watercourse bordering the western boundary of the Pit) and 
+ensuring that any pumping continued in accordance with the terms 
+of the existing consent to discharge (which permits pumping at a 
+rate of 23l/s). 
+ 
+It was noted that Central Beds Council, as LLFA, has a remit that 
+extends to include surface water (as set out in the Flood and Water 
+Management Act).  Given the current ‘transitional’ period regarding 
+allocation of roles/responsibilities relating to flood risk management, 
+HB confirmed that the EA would assess/review the FRA in its wider 
+sense, considering flood risk associated with watercourses and 
+surface water management. 
+ 
+It was also noted that any works (permanent or temporary) to the 
+watercourses bordering Rookery Pit would require consent.  
+Consent applications are dealt with by the IDB on behalf of Central 
+Beds Council. 
+ 
+ 
+3.  
+Site and Project Description 
+ 
+SH provided a description of The Rookery (north and south - former 
+clay pits) and an overview of the principal components of the project 
+by reference to the information, figures, etc, included within the 
+Preliminary Environmental Information Report (provided on the 
+Millbrook Power website:  http://www.millbrookpower.co.uk/). 
+ 
+The generating equipment (x5 turbines), 400kv sub-station, 
+ 
+1
+Stuart Harwood
+From:
+Trevor Skelding <Trevor.Skelding@idbs.org.uk>
+Sent:
+14 January 2015 10:58
+To:
+Stuart Harwood
+Subject:
+RE: Millbrook Power, Rookery Pit, Stewartby, Beds
+Stuart 
+ 
+I confirm that this record of the points discussed is correct in respect of the IDB. 
+ 
+Regards 
+ 
+Trevor Skelding  MSc IEng MICE 
+Principal Engineer 
+The Bedford Group Of Drainage Boards 
+01234 767995 
+Information in this message and any associated files attached it, may be confidential and may be legally 
+privileged.  If you have received this email in error please notify the author immediately by return email or 
+telephone and then delete this message and any associated attachments and do not copy it to anyone else. 
+ 
+We may have to make this message and any reply to it public if asked to under the Freedom of Information 
+Act, Data Protection Act or for litigation.  Email messages and attachments sent to or from The Bedford 
+Group of Drainage Board address may also be accessed by someone other than the sender or recipient, for 
+business purposes. 
+ 
+The statements in this message are made by the individual who sent them and do not necessarily represent 
+the views or opinions of The Bedford Group of Drainage Boards. 
+ 
+ 
+ 
+From: Stuart Harwood [mailto:SHarwood@peterbrett.com]  
+Sent: 14 January 2015 10:29 
+To: Baldock, Hayley M; Trevor Skelding 
+Cc: Chris Leach 
+Subject: Millbrook Power, Rookery Pit, Stewartby, Beds 
+Importance: High 
+ 
+Hayley/Trevor, 
+ 
+Please find attached a copy of the notes prepared following our meeting in respect of the above on 12th December 
+2014. 
+ 
+We would be grateful if you would confirm that the attached constitutes an accurate record of the points 
+discussed/agreed, etc.  Should you consider that the notes require amending or wish to offer further comment 
+regarding flood risk/water management matters, please feel free to call. 
+ 
+Hayley – you will note that the penultimate paragraph under Item 6 (flood risk associated with the Mill Brook) 
+refers to the hydraulic modelling analysis undertaken in 2010 and the fact that this assessment, submitted in 
+support of the FRA, would have been reviewed/audited by the EA.  Consultation in respect of the Rookery South 
+Resource Recovery Facility was dealt with under your reference   AC/2010/113063/02-L01    (IPC Application 
+Reference EN01011) – we would be grateful if you would refer back to your records and confirm that the 2010 
+modelling analysis was indeed reviewed and deemed ‘fit for purpose’, etc. 
+2
+ 
+Thanks and regards, 
+ 
+Stuart. 
+ 
+Stuart Harwood 
+Associate 
+  
+For and on behalf of Peter Brett Associates LLP 
+11 Prospect Court, Courteenhall Road, Blisworth, Northampton, NN7 3DG 
+t 01604 878313 
+f 01604 878333 
+m 07770-698159 
+e sharwood@peterbrett.com 
+w www.peterbrett.com  
+  
+ 
+ 
+ 
+ 
+From: Stuart Harwood  
+Sent: 05 December 2014 11:01 
+To: 'Baldock, Hayley M'; Trevor Skelding 
+Subject: Millbrook Power, Rookery Pit, Stewartby, Beds 
+Importance: High 
+ 
+Hayley, 
+ 
+Thanks for the confirmation. 
+ 
+As discussed, PBA previously undertook a detailed assessment of the baseline environment from a flood risk 
+perspective in 2010 in support of the Covanta energy from waste proposal.  We subsequently prepared the FRA in 
+support of the DCO application for the Covanta facility (located within the north-west area of Rookery South 
+Pit).  This included (i) hydraulic modelling to assess the nature of flood risk associated with the Mill Brook and its 
+tributary and (ii) details of a surface water management strategy to serve development within the Pit.  You will note 
+that Rookery Pit is subject to an ongoing Low Level Restoration Scheme (LLRS).  As these works are being 
+implemented prior to construction of the Millbrook Power scheme, the LLRS therefore constitutes the ‘baseline’ for 
+the purposes of EIA and preparation of the FRA (as per the Covanta scheme). 
+ 
+The Covanta scheme was to be located in the north-west of Rookery South Pit, whereas the Millbrook Power 
+scheme is located in the south-west of the Pit, so the flood risk/water management issues are fundamentally the 
+same.  As far as we are aware, nothing has changed since 2010, so the 2010 technical assessment and associated 
+design principles, parameters and flood risk mitigation works/strategy can be taken forward as the basis for the 
+Millbrook scheme. 
+ 
+See link below to the FRA prepared in support of the Covanta scheme – this should set the scene and provide 
+adequate background ahead of our meeting on 12th Dec. 
+ 
+ 
+http://infrastructure.planningportal.gov.uk/wp-content/ipc/uploads/projects/EN010011/2.%20Post-
+Submission/Application%20Documents/Reports/Flood%20Risk%20Assessment%20-%20Appendices.PDF 
+ 
+ 
+As below, the purpose of the meeting is to ‘re-cap’ on matters, ensure that any ‘new’ information is identified and 
+ensure that we are all ‘on the same page’ in respect of the issues to be addressed and the scope of technical 
+assessment required in respect of flood risk and wider water management matters. 
+ 
+3
+Happy to discuss should you have any queries or require additional info, etc, ahead of the meeting. 
+ 
+Thanks and regards, 
+ 
+Stuart. 
+ 
+Stuart Harwood 
+Associate 
+  
+For and on behalf of Peter Brett Associates LLP 
+11 Prospect Court, Courteenhall Road, Blisworth, Northampton, NN7 3DG 
+t 01604 878313 
+f 01604 878333 
+m 07770-698159 
+e sharwood@peterbrett.com 
+w www.peterbrett.com  
+  
+ 
+ 
+ 
+ 
+From: Baldock, Hayley M [mailto:hayley.baldock@environment-agency.gov.uk]  
+Sent: 05 December 2014 09:47 
+To: Stuart Harwood; Trevor Skelding 
+Subject: RE: Millbrook Power, Rookery Pit, Stewartby, Beds 
+ 
+Hi Stuart/Trevor,  
+ 
+Thank you for amending the date for this. 10am would be great for me at the IDB’s offices.  
+ 
+See you both then.  
+ 
+Kind regards  
+ 
+ 
+Hayley Baldock (nee Newcombe) 
+FCRM Officer, Partnerships and Strategic Overview Team 
+Cambridgeshire and Bedfordshire Area 
+� Phone: (Ext.) 01480 483960 (Int.) 7 50 3960 
+� E-mail: hayley.baldock@environment-agency.gov.uk 
+ 
+Please note that I will not normally be in the office on Tuesday's 
+ 
+ 
+ 
+ 
+From: Stuart Harwood [mailto:SHarwood@peterbrett.com]  
+Sent: 04 December 2014 17:27 
+To: Trevor Skelding 
+Cc: Baldock, Hayley M 
+Subject: RE: Millbrook Power, Rookery Pit, Stewartby, Beds 
+ 
+Thanks Trevor. 
+ 
+Hayley – see below – would be grateful if you could confirm attendance on the 12th Dec (am) at the IDB’s offices in 
+Stewartby and a time that suits (9.30/10.00 ?) 
+ 
+4
+Thanks both. 
+ 
+Regards, 
+  
+Stuart Harwood 
+Associate 
+  
+For and on behalf of Peter Brett Associates LLP 
+11 Prospect Court, Courteenhall Road, Blisworth, Northampton, NN7 3DG 
+t 01604 878313 
+f 01604 878333 
+m 07770-698159 
+e sharwood@peterbrett.com 
+w www.peterbrett.com  
+  
+ 
+ 
+ 
+ 
+From: Trevor Skelding [mailto:Trevor.Skelding@idbs.org.uk]  
+Sent: 04 December 2014 16:34 
+To: Stuart Harwood 
+Subject: RE: Millbrook Power, Rookery Pit, Stewartby, Beds 
+ 
+Stuart 
+ 
+Morning of the 12th is possible. 
+ 
+Regards 
+ 
+Trevor Skelding  MSc IEng MICE 
+Principal Engineer 
+The Bedford Group Of Drainage Boards 
+01234 767995 
+Information in this message and any associated files attached it, may be confidential and may be legally 
+privileged.  If you have received this email in error please notify the author immediately by return email or 
+telephone and then delete this message and any associated attachments and do not copy it to anyone else. 
+ 
+We may have to make this message and any reply to it public if asked to under the Freedom of Information 
+Act, Data Protection Act or for litigation.  Email messages and attachments sent to or from The Bedford 
+Group of Drainage Board address may also be accessed by someone other than the sender or recipient, for 
+business purposes. 
+ 
+The statements in this message are made by the individual who sent them and do not necessarily represent 
+the views or opinions of The Bedford Group of Drainage Boards. 
+ 
+ 
+ 
+From: Stuart Harwood [mailto:SHarwood@peterbrett.com]  
+Sent: 04 December 2014 15:22 
+To: Trevor Skelding 
+Subject: RE: Millbrook Power, Rookery Pit, Stewartby, Beds 
+Importance: High 
+ 
+Trevor, 
+ 
+5
+Hayley Baldock at the EA is available on 12th and 15th Dec – are you available for either of these dates ? 
+ 
+I think there would be some value in a ‘joint’ meeting (EA & IDB) if we can find mutually convenient 
+dates.  Alternatively we’ll need to run with separate mtgs as we need to complete stakeholder consultation by the 
+Xmas break. 
+ 
+Thanks, 
+ 
+Stuart. 
+ 
+Stuart Harwood 
+Associate 
+  
+For and on behalf of Peter Brett Associates LLP 
+11 Prospect Court, Courteenhall Road, Blisworth, Northampton, NN7 3DG 
+t 01604 878313 
+f 01604 878333 
+m 07770-698159 
+e sharwood@peterbrett.com 
+w www.peterbrett.com  
+  
+ 
+ 
+ 
+ 
+From: Trevor Skelding [mailto:Trevor.Skelding@idbs.org.uk]  
+Sent: 02 December 2014 16:08 
+To: Stuart Harwood 
+Subject: RE: Millbrook Power, Rookery Pit, Stewartby, Beds 
+ 
+Stuart 
+ 
+Monday 8th and Thursday 11th are available.  
+ 
+Regards 
+ 
+Trevor Skelding  MSc IEng MICE 
+Principal Engineer 
+The Bedford Group Of Drainage Boards 
+01234 767995 
+Information in this message and any associated files attached it, may be confidential and may be legally 
+privileged.  If you have received this email in error please notify the author immediately by return email or 
+telephone and then delete this message and any associated attachments and do not copy it to anyone else. 
+ 
+We may have to make this message and any reply to it public if asked to under the Freedom of Information 
+Act, Data Protection Act or for litigation.  Email messages and attachments sent to or from The Bedford 
+Group of Drainage Board address may also be accessed by someone other than the sender or recipient, for 
+business purposes. 
+ 
+The statements in this message are made by the individual who sent them and do not necessarily represent 
+the views or opinions of The Bedford Group of Drainage Boards. 
+ 
+ 
+ 
+From: Stuart Harwood [mailto:SHarwood@peterbrett.com]  
+Sent: 02 December 2014 16:03 
+6
+To: hayley.baldock@environment-agency.co.uk 
+Cc: Trevor Skelding 
+Subject: Millbrook Power, Rookery Pit, Stewartby, Beds 
+Importance: High 
+ 
+Hayley, 
+ 
+Further to the e-mail below, I have spoken with Paul Henderson and understand that you now deal with flood risk 
+matters associated with sites/proposals in the Bedford/Marston Vale area. 
+ 
+You will note from the e-mail below that we are seeking to convene a joint meeting with both the EA and the 
+Bedford Group of Drainage Boards to discuss the scope of FRA required in respect of the Millbrook Power project.  It 
+would therefore be appreciated if you could confirm your availability to attend a meeting at the IDB’s Stewartby 
+office during the weeks commencing 8th and 15th of December.  We understand that the Agency will levy a fee for 
+pre-application advice and would be grateful if you could confirm fees for attendance at a meeting so that we may 
+seek client approval in advance (we would anticipate a meeting of no more than 2hrs, plus your travel time). 
+ 
+Trevor – apologies, we will need to cancel the meeting scheduled for this Thursday 4th Dec.  Could you confirm 
+your availability for the weeks as above – thanks. 
+ 
+Should you have any queries or wish to discuss, please feel free to call. 
+ 
+Thanks and regards, 
+ 
+Stuart. 
+ 
+Stuart Harwood 
+Associate 
+  
+For and on behalf of Peter Brett Associates LLP 
+11 Prospect Court, Courteenhall Road, Blisworth, Northampton, NN7 3DG 
+t 01604 878313 
+f 01604 878333 
+m 07770-698159 
+e sharwood@peterbrett.com 
+w www.peterbrett.com  
+  
+ 
+ 
+ 
+From: Stuart Harwood [mailto:SHarwood@peterbrett.com]  
+Sent: 18 November 2014 10:06 
+To: Trevor Skelding; John Oldfield; Henderson, Paul (paul.henderson@environment-agency.gov.uk) 
+Subject: Millbrook Power, Rookery Pit, Stewartby, Beds 
+ 
+Gents, 
+ 
+PBA has been appointed to prepare the EIA in respect of the DCO application for the above.  As part of this work we 
+are also preparing the Flood Risk Assessment, which will comprise an appendix to the relevant ES chapter. 
+ 
+You may recall that PBA previously prepared the FRA in support of the DCO application for the Covanta Resource 
+Recovery Facility (located within the north-west area of Rookery South Pit).  This included (i) hydraulic modelling to 
+assess the nature of flood risk associated with the Mill Brook and its tributary and (ii) details of a surface water 
+management strategy to serve development within the Pit.  You will note that Rookery Pit is subject to an ongoing 
+Low Level Restoration Scheme (LLRS).  As these works are being implemented prior to construction of the Millbrook 
+7
+Power scheme, the LLRS therefore constitutes the ‘baseline’ for the purposes of EIA and preparation of the FRA (as 
+per the Covanta scheme). 
+ 
+We are progressing the technical work in accordance with the scope, design principles and parameters previously 
+agreed with both the EA and IDB in respect of the Covanta scheme.  However, given the time that has elapsed since 
+this work was undertaken (2010), it would seem appropriate to convene a joint meeting to ‘re-cap’ on matters, 
+ensure that any ‘new’ information is identified and ensure that we are all ‘on the same page’ in respect of the issues 
+to be addressed and the scope of technical assessment required in respect of flood risk and wider water 
+management matters.  It would therefore be appreciated if you could confirm your availability to attend a meeting 
+during the first two weeks of December (1st – 12th). 
+ 
+Trevor/John – would it be possible to hold the meeting at your offices in Stewartby ? 
+ 
+In terms of attendees, and in addition to yourselves, I would anticipate no more than x2 PBA staff and x1 
+representative from the client team. 
+ 
+ 
+Should you have any queries or wish to discuss, please feel free to call. 
+ 
+ 
+Thanks and regards, 
+ 
+Stuart. 
+ 
+Stuart Harwood 
+Associate 
+  
+For and on behalf of Peter Brett Associates LLP 
+11 Prospect Court, Courteenhall Road, Blisworth, Northampton, NN7 3DG 
+t 01604 878313 
+f 01604 878333 
+m 07770-698159 
+e sharwood@peterbrett.com 
+w www.peterbrett.com  
+  
+ 
+ 
+ 
+ 
+Peter Brett Associates LLP is a limited liability partnership registered in England and Wales. Registered number: OC334398. Roger Tym & Partners, Baker 
+Associates, Martin Wright Associates and Hannah, Reed and Associates are part of Peter Brett Associates LLP. A list of members is open to inspection at 
+our registered office. Registered Office: Caversham Bridge House, Waterman Place, Reading, Berkshire, RG1 8DN. UK T: +44 (0)118 950 0761 F: +44 
+(0)118 959 7498. Brett Consulting Limited is wholly owned by Peter Brett Associates LLP. Registered number: 07765026. Registered address: as above. 
+Email is used as a convenient medium for rapid data transfer. Any contractual correspondence sent or received by email will not be held to be such unless 
+and until it is received in writing by fax or letter. Likewise, file attachments must be treated as uncontrolled documents until issued as hard copy. This email 
+and any files transmitted with it are confidential and may be legally privileged, and are intended solely for the use of the individual or entity to which they are 
+addressed. If an addressing or transmission error has misdirected this email please notify the author by replying to this email and delete the email. If you are 
+not the intended recipient you must not use or disclose, print or rely on this email. You are advised that you open any attachment at your own risk. 
+Any OS Data attached to this email is issued in accordance with Licence No. 100021575 under condition that it is used to plot once and not retained on the 
+recipients computer system.  
+scanned by Ignite Email Filtering Service - Ignite's comprehensive cloud based email content security solution. For more information please visit 
+www.ignite.co.uk 
+ 
+----------------------------------------------------------------------------------------------------------- 
+This message has been scanned for viruses by Websense 
+_ 
+8
+scanned by Ignite Email Filtering Service - Ignite's comprehensive cloud based email content security solution. For more information please visit 
+www.ignite.co.uk 
+scanned by Ignite Email Filtering Service - Ignite's comprehensive cloud based email content security solution. For more information please visit 
+www.ignite.co.uk 
+scanned by Ignite Email Filtering Service - Ignite's comprehensive cloud based email content security solution. For more information please visit 
+www.ignite.co.uk 
+ 
+ 
+Information in this message may be confidential and may be legally privileged. If you 
+have received this message by mistake, please notify the sender immediately, delete it 
+and do not copy it to anyone else. 
+ 
+We have checked this email and its attachments for viruses. But you should still check 
+any attachment before opening it. 
+We may have to make this message and any reply to it public if asked to under the 
+Freedom of Information Act, Data Protection Act or for litigation.  Email messages and 
+attachments sent to or from any Environment Agency address may also be accessed by 
+someone other than the sender or recipient, for business purposes. 
+ 
+ 
+scanned by Ignite Email Filtering Service - Ignite's comprehensive cloud based email content security solution. For more information please visit 
+www.ignite.co.uk 
+ 
+ 
+MINUTES 
+ 
+J:\31116 Rookery Pit Gas Power Station\Word\Meetings\141212 EA-IDB consultation mtg (flood risk).docx 
+Page 2 of 4 
+ 
+ 
+electrical connection and gas connection were highlighted. 
+ 
+SH explained that the project constitutes a Nationally Significant 
+Infrastructure Project pursuant to the 2008 Planning Act and 
+therefore requires development consent under that Act.  PBA has 
+been appointed to prepare the Environmental Statement and 
+associated Flood Risk Assessment in support of the application for 
+a Development Consent Order (DCO). 
+4.  
+Low Level Restoration Scheme 
+ 
+SH explained that The Rookery is the subject of a Low Level 
+Restoration Scheme (LLRS) and that, once restored, Rookery 
+South (the location of the Millbrook Power project), would be 
+approximately 15m below the surrounding ground level. 
+ 
+SH explained that the principal works associated with the LLRS 
+comprise: 
+ 
+• 
+Re-profiling of the base of the pit to create a platform 
+graded to fall to the north; 
+• 
+Implementation of a surface water drainage system, 
+comprising a balancing pond, network of interceptor 
+channels and pumping station; 
+• 
+Buttressing of the pit slopes; 
+• 
+Provision of access ramps; 
+• 
+Landscaping works/planting around the pit edge and 
+balancing pond. 
+ 
+It was noted and agreed that, as the LLRS is to be 
+implemented/completed prior to any development within Rookery 
+South Pit, the LLRS constitutes the ‘baseline’ for the purposes of 
+the EIA and preparation of the FRA for the Millbrook Power project. 
+ 
+ 
+5.  
+Surface Water Management 
+ 
+SH explained that the LLRS drainage scheme comprises/operates 
+as follows: 
+ 
+• 
+Surface water collecting in the balancing pond will be 
+pumped to (i) Rookery North at a rate of 100l/s and (ii) the 
+Mill Brook at a rate of 23l/s (as per the terms of the existing 
+Consent to Discharge); 
+• 
+The water level in Rookery North will be drawn down by 
+approximately 1m; 
+• 
+Water from Rookery North will return to the balancing pond 
+in Rookery South via a gravity connection at a rate of no 
+more than 23l/s. 
+• 
+By using Rookery North as a strategic stormwater storage 
+facility, the balancing pond would return to its normal water 
+level approximately 12 days after the 1 in 100 year plus 
+climate change event. 
+ 
+SH explained that, in respect of design parameters, the base and 
+side-slopes of Rookery South are assumed to be 100% 
+impermeable and the sizing of the balancing pond has been 
+undertaken using catchment-specific rainfall parameters derived 
+from the Flood Estimation Handbook (FEH). 
+ 
+ 
+ 
+ 
+MINUTES 
+ 
+J:\31116 Rookery Pit Gas Power Station\Word\Meetings\141212 EA-IDB consultation mtg (flood risk).docx 
+Page 3 of 4 
+ 
+ 
+The balancing pond has been sized to accommodate rainfall events 
+up to and including the 1 in 100 year event including climate change 
+and comprises a retained water depth of 0.5m. 
+ 
+As the LLRS design has been prepared assuming the Pit to be 
+100% impermeable and the Millbrook Power project falls within the 
+catchment of the Pit, it was agreed that the LLRS drainage strategy 
+offers adequate capacity to accommodate surface water run-off 
+from the Millbrook Power project, such that no additional mitigation 
+would be required in respect of surface water run-off control. 
+ 
+SH explained that design of the surface water strategy caters for 
+residual risk scenarios comprising (i) the 1 in 100 year plus climate 
+change event and a period of pumping station failure (pumps off-
+line for 3 days) and (ii) a "follow-on" event - a 1 in 10 year plus 
+climate change event occurring within 1 week of the 1 in 100 year 
+plus climate change event.  The pond has been sized to provide 
+sufficient residual capacity above that required for the 1 in 100 year 
+plus climate change event to accommodate both residual risk 
+scenarios. 
+ 
+On this basis, it was agreed that the design of the drainage strategy 
+is robust. 
+ 
+In terms of details/commentary to be included within the FRA for the 
+Millbrook Power project, HB agreed that a scope similar to that set 
+out in the document prepared in support of the Covanta RRF 
+scheme would be appropriate. 
+ 
+6.  
+Flood Risk Associated with Mill Brook 
+ 
+SH explained that a HEC-RAS hydraulic model of the Mill Brook and 
+its tributary (running along the southern fringe of Rookery South Pit) 
+had been developed as part of PBA’s previous work (to inform 
+design of the LLRS (2008) and the FRA for the Covanta RRF 
+scheme (2010)).  The analysis had shown that floodwater would 
+‘spill’ into Rookery South Pit from a localised area of the tributary, 
+albeit at a relatively low rate (peak spill rate of approx. 0.2m3/s). 
+ 
+SH explained that, as per the LLRS proposals, floodwater will be 
+allowed to spill into the pit as per the “existing” situation, but will be 
+“managed” by being intercepted and conveyed to the attenuation 
+pond.  SH confirmed that the surface water drainage channels and 
+attenuation pond being brought forward as part of the LLRS had 
+been designed to accommodate floodwater influx from the Mill 
+Brook tributary. 
+ 
+In addition, it was noted that the ‘raised’ platform created by the 
+LLRS works will be such that the site of the Millbrook Power project 
+will be elevated above water levels within the balancing pond and 
+associated drainage channels, etc. 
+ 
+On this basis, it was agreed that the project site would be 
+adequately safeguarded from flooding, such that no further 
+mitigation works would be required as part of the project. 
+ 
+In terms of the flood zone classification of the project site post 
+implementation of the LLRS, it was noted that the 2010 assessment 
+indicated that the raised platforms within Rookery South Pit would 
+ 
+ 
+ 
+MINUTES 
+ 
+J:\31116 Rookery Pit Gas Power Station\Word\Meetings\141212 EA-IDB consultation mtg (flood risk).docx 
+Page 4 of 4 
+ 
+ 
+be classified as Flood Zone 2.  It was agreed that the Millbrook 
+Power project site could most likely be classified as Flood Zone 1 
+(low probability of flooding) – the hydraulic model to be used to 
+confirm. 
+ 
+SH explained that consideration of the 1,000 year event in 2010 had 
+shown that floodwater may spill over the eastern bank of the Mill 
+Brook immediately upstream of the culvert beneath the railway (in 
+the vicinity of the north-west corner of the Covanta RRF site).  
+Given the distance from the Millbrook Power site, coupled with the 
+topography across the base of the Pit following implementation of 
+the LLRS, HB agreed that mitigation measures would not need to 
+be brought forward as part of the Millbrook Power project.  (It was 
+also noted that measures had been incorporated within the design 
+of the Covanta RRF scheme to cater for this floodwater spill). 
+ 
+The requirement to divert the lower reach of the Mill Brook tributary 
+was noted and SH advised that the diverted reach had been 
+designed to convey 100 year plus climate change flood flows ‘in 
+bank’.  TS and HB confirmed this is an adequate design standard. 
+ 
+TS confirmed that the IDB would deal with any consent applications 
+for watercourse works on behalf of CBC. 
+ 
+SH highlighted the fact that the hydraulic modelling analysis dates 
+to 2010 and that the FEH method has evolved/been updated in the 
+interim.  It was agreed that the 2010 hydrology/assessment of Mill 
+Brook flood flows should be reviewed/validated.  HB agreed that, 
+where the updated, 2014 analysis provides flow estimates that are 
+less than or equal to the 2010 estimates, it would not be necessary 
+to revisit the hydraulic modelling analysis (i.e. the 2010 modelling 
+data/output could be taken forward and used to inform the FRA). 
+ 
+It was noted that the hydraulic model files had been submitted to 
+the EA as part of the 2010 Covanta RRF FRA and HB advised that 
+the EA would ordinarily review/audit such work to ensure it is ‘fit for 
+purpose’, etc.  HB agreed to check the EA’s records. 
+ 
+HB advised that consideration should be given to provisions for 
+maintenance of the flood risk/surface water management 
+infrastructure – outline details of the options available should be set 
+out in the FRA (the detail to be brought forward at a later date as 
+part of conditions, etc). 
+ 
+7.  
+Summary 
+ 
+It was agreed that little had changed in the time that has elapsed 
+since PBA’s previous (2008 and 2010) assessments, such that this 
+work and associated design principles/parameters, etc, could be 
+taken forward as the basis for the Millbrook Power project. 
+ 
+It was also agreed that, as the LLRS scheme and associated flood 
+risk/surface water management strategy is essentially ‘fixed’ (and 
+caters for the site of the Millbrook Power project) no additional flood 
+risk related mitigation works will need to be brought forward as part 
+of the Millbrook Power project. 
+ 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+58 
+ 
+ 
+ 
+Flood Risk Assessment 
+Millbrook Power Project 
+ 
+ 
+ 
+ 
+59 
+Appendix D  
+Hydraulic Modelling 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 1 of 13 
+ 
+ 
+ 
+Job Name: 
+Millbrook Power Project 
+Job No: 
+31116 
+Note No: 
+31116/3014/TN01 
+Date: 
+27/01/2015 
+Prepared By: Sarah Kirby  
+Reviewed By: Stuart Harwood 
+Subject: 
+Hydrological and Hydraulic Modelling 
+ 
+Item 
+Subject 
+1. INTRODUCTION 
+ 
+Peter Brett Associates has been appointed by Millbrook Power Limited to prepare a Flood 
+Risk Assessment (FRA) in support of an application for a Development Consent Order 
+relating to the construction of a power generation plant.  The proposed plant is located in 
+The Rookery, comprising two former clay pits (Rookery North and South).  The Mill Brook 
+watercourse flows in a northerly direction along the western flank of Rookery South Pit and 
+a tributary of the Brook, draining a catchment to the south of the Pit, joins the Mill Brook in 
+the vicinity of the south-west corner of the Pit. 
+ 
+Environment Agency floodplain maps do not extend to include the Mill Brook or its tributary 
+on account of the small size of the contributing catchment areas.  The nature of flood risk 
+associated with the Mill Brook and its tributary was originally assessed in 2008 in support of 
+a planning application relating to the Review of Old Mineral Permissions (ROMP), which set 
+out details of a Low Level Restoration Scheme for the Rookery Pits.  Flood risk was 
+assessed by developing a HEC-RAS hydraulic model using topographic survey of Rookery 
+South Pit and the watercourse corridor.  This study was subsequently refined and updated 
+in 2010 in support of proposals for development within the north-west area of Rookery 
+South Pit and following further, more detailed survey of the watercourse corridor. 
+ 
+Following consultation with the EA and Bedford Group of Drainage Boards in December 
+2014, it was agreed that the 2010 study provides the best available data in respect of flood 
+risk associated with the Mill Brook and its tributary, such that it should be taken forward and 
+used to inform the FRA prepared in support of the Millbrook Power Project.  However, it was 
+noted that in the time that has elapsed since the 2010 study was concluded, the Flood 
+Estimation Handbook (FEH) methodology and associated database (used to estimate flood 
+flows for the purposes of hydraulic modelling) has been revised/updated.  It was therefore 
+agreed that the 2010 assessment of flood flows should be reviewed/validated. 
+ 
+This Technical Note sets out a summary of (i) the revised and updated FEH analysis and (ii) 
+the scope of hydraulic modelling analysis undertaken as part of the 2010 study. 
+ 
+2. HYDROLOGY 
+ 
+A hydrological and hydraulic modelling assessment of the Mill Brook and its tributary was 
+carried out in 2010.    Flood flows were estimated using the ReFH methodology and the 
+appraisal found that the contributing catchment extended to include an additional area 
+outside the FEH catchment boundary.  Both the catchment area and URBEXT descriptors 
+were therefore amended accordingly. 
+ 
+ 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 2 of 13 
+ 
+ 
+Item 
+Subject 
+ 
+Both the EA and IDB have been consulted and have confirmed that there have been no 
+changes within the catchment that would impact upon the hydrological analysis.  However, 
+as noted above, the FEH methodology and associated database has been revised/updated 
+in the time that has elapsed since the 2010 study.  Catchment hydrology has therefore been 
+re-assessed to establish whether the flood flows estimated in 2010 may be taken forward 
+and used to inform the FRA prepared in support of the Millbrook Power Project.   
+ 
+Flood estimation has been based upon the Flood Estimation Handbook Statistical (FEH) 
+methodology and ReFH methodology.   
+ 
+Catchment Delineation & Modelling Approach 
+ 
+Flows have been estimated at the downstream extent of the reach of watercourse 
+represented in the hydraulic model - at the culvert beneath the Bedford to Bletchley/Marston 
+Vale railway line, as per the 2010 assessment (see Figure 1).  The FEH catchment was 
+derived at grid reference 501085, 241335 using FEH CD-ROM version 3.  The total 
+catchment area as defined by FEH is 3.49km2 (red outline shown in Figure 2) and the 
+tributary catchment is 1.49km2 (green outline shown in Figure 2). 
+ 
+ 
+ 
+Figure 1 – Flow Estimation Point 
+Contains Ordnance Survey Data (Crown Copyright, 2015) 
+ 
+Flow Estimation Point 
+Tributary of Mill Brook 
+Mill Brook 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 3 of 13 
+ 
+ 
+Item 
+Subject 
+ 
+Figure 2 – FEH CD ROM v3 - Mill Brook catchment (red) and Mill Brook tributary sub-catchment (green) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 4 of 13 
+ 
+ 
+Item 
+Subject 
+ 
+The FEH catchments were reviewed against 1:25,000 scale OS mapping, historical 
+mapping and based upon site observations.  This identified two areas that fall outside the 
+FEH catchment boundary and which should therefore be removed from the catchment area 
+(shown as blue hatched areas on Figure 3).  These include: 
+ 
+• 
+Area to the east of the Midland Mainline railway (0.44km2) 
+• 
+Area within the southern part of Rookery South Pit (0.32km2)  
+ 
+In addition, the FEH defined catchment does not include several areas which were found to 
+fall within the contributing catchment of the Mill Brook (i.e. such that the catchment should 
+be modified to include these areas): 
+ 
+• 
+Additional area associated with the Millbrook Vehicle Proving Ground (highlighted in 
+pink in Figure 3 and totalling an area of 0.85km2) 
+• 
+Area located to the north of the Proving Ground and east of the Bedford to 
+Bletchley/Marston Vale railway (highlighted in pink hatching and totalling an area of 
+0.18km2) 
+• 
+Area immediately to the south of the proving ground (highlighted in pink hatching 
+and totalling an area of 0.24km2) 
+ 
+Figure 3 below shows the revised catchment area in bold red and also includes the proving 
+ground highlighted in pink.  The original FEH catchments can be seen in the background.  
+The revised total catchment area of the Mill Brook is 3.81km2 (revised FEH total catchment 
+of 2.96km2 plus the 0.85km2 Proving Ground area) and the revised tributary catchment is 
+0.86km2.  The 2010 assessment used a catchment area of 4.49km2 for the Mill Brook and 
+1.49km2 for the tributary catchment. 
+ 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 5 of 13 
+ 
+ 
+Item 
+Subject 
+ 
+ 
+Figure 3 – Revised catchment areas 
+ 
+The 2010 assessment included a detailed assessment of the urban/suburban areas within 
+the FEH catchment and proving ground area.  Ordnance Survey mapping was used to 
+determine that approximately 2% of the proving ground area was urban and 2% was 
+suburban (in accordance with FEH definitions).  Of the FEH catchment, approximately 0.8% 
+of the catchment was deemed to be urban and approximately 1% of the catchment was 
+deemed to be suburban. 
+ 
+Using equation 6.2 from FEH Volume 5 (URBEXT = URBEXT + 0.5SUBURBEXT) the 
+URBEXT value for the Proving Ground was estimated to be 0.03 and for the FEH 
+catchment was 0.013. 
+ 
+ 
+ 
+Area to east of 
+Midland Mainline 
+Railway (to be 
+removed from 
+catchment) 0.44km2 
+Area within 
+southern part of 
+Rookery South Pit – 
+to be removed 
+(0.32km2) 
+Additional area – 
+Mill Brook Proving 
+Ground (0.85km2) 
+REVISED TOTAL 
+CATCHMENT 
+AREA (3.81km2) 
+Area located to the 
+north of the Proving 
+Ground and east of 
+the Bedford to 
+Bletchley/Marston 
+Vale railway 
+(additional area of 
+0.18km2) 
+Area located to the 
+south of the Proving 
+Ground (additional 
+area of 0.24km2) 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 6 of 13 
+ 
+ 
+Item 
+Subject 
+There has been no change in the urban extent since the 2010 assessment (as confirmed by 
+a review of up to date aerial imagery and mapping) and therefore there was no need to 
+update these URBEXT values. 
+ 
+In order to determine the updated URBEXT value for the updated total catchment at the 
+downstream extent of the modelled reach, area weighting (as per the methodology outlined 
+in Section 7.2.2 of FEH Volume 5) was used to combine the FEH catchment and Proving 
+Ground URBEXT values based on the parameters shown in Table 1. 
+ 
+Catchment Area 
+Area (km2) 
+URBEXT 
+value 
+Fraction of 
+Combined 
+Catchment 
+FEH Catchment 
+2.96 
+0.013 
+0.78 
+Proving Ground 
+0.85 
+0.03 
+0.22 
+Table 1 Area Weighting Parameters 
+ 
+Using the methodology outlined in FEH Volume 5, the updated URBEXT value for the total 
+catchment was estimated to be 0.0167. 
+ 
+The other catchment descriptors (apart from DPLBAR) are not area dependent and 
+therefore the revised catchment area would not result in any significant changes to the FEH 
+descriptors.  The DPLBAR value based on the revised catchment area of 3.81km2 would 
+decrease slightly and therefore the original FEH value was used. 
+ 
+The key catchment descriptors are shown in Table 2 (with revised AREA and URBEXT 
+values).  The SPRHOST and BFIHOST values indicate that the catchment is not 
+permeable. 
+ 
+Catchment Descriptor 
+Downstream 
+Extent – Mill 
+Brook 
+AREA 
+3.81 
+BFIHOST 
+0.41 
+DPLBAR 
+2.51 
+DPSBAR 
+54.5 
+FARL 
+0.999 
+FPEXT 
+0.131 
+PROPWET 
+0.27 
+SAAR 
+594 
+SPRHOST 
+49.16 
+URBEXT2000 
+0.0167 
+Table 2 FEH CD-ROM (version 3) Catchment Descriptors for Mill Brook (with amended AREA and URBEXT) 
+ReFH Flow Estimation 
+The ReFH method can be used to provide peak flows and also hydrographs.  Parameters in 
+the ReFH model are derived from catchment descriptors. 
+ 
+Hydrographs were derived at the downstream extent of the reach of watercourse 
+represented in the hydraulic model - at the culvert beneath the Bedford to Bletchley/Marston 
+Vale railway line, as per the 2010 assessment, using an ISIS ReFH Boundary Unit.  Several 
+storm durations have been considered for the 1% annual probability (1 in 100 year) event to 
+identify the critical storm duration.  For this analysis, the 9 hour storm is shown to produce 
+the highest peak flow using a time-step of 1 hour. 
+ 
+Table 3 provides a summary of the peak flows estimated using the ReFH method.  The 
+hydrograph outputs from ISIS are included in Appendix A. 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 7 of 13 
+ 
+ 
+Item 
+Subject 
+ 
+Return Period 
+Flow 
+(m3/s) 
+2 
+1.07 
+5 
+1.41 
+10 
+1.69 
+20 
+1.98 
+50 
+2.43 
+100 
+2.84 
+200 
+3.37 
+1000 
+5.18 
+Table 3 – ReFH Flows for downstream extent of Mill Brook 
+FEH Statistical Estimation 
+QMED Estimation 
+QMED was calculated using the updated QMED equation for rural catchments based on 
+standard FEH relationships, as follows: 
+ 
+ 
+This yields QMED cds ss rural (the as rural QMED estimate for the total rural catchment based 
+upon FEH catchment descriptors).  The calculated QMED cds ss rural for the downstream 
+extent of the Mill Brook is 0.66m3/s.  The URBEXT2000 value is below the threshold at which 
+FEH recommends an urban adjustment is made (URBEXT2000>0.03) and therefore no urban 
+adjustment was applied to the QMED. 
+ 
+The FEH highlights that the validity of the QMED value estimated simply from catchment 
+descriptors can be improved by using a data transfer procedure.  EA Guidance on 
+Improvements to the Flood Estimation Handbook statistical method, published in July 2008, 
+identifies the need to find a single donor site to adjust the QMED estimate that is both 
+hydrologically similar and geographically close.  In this instance no suitable donor stations 
+were found that are hydrologically similar and geographically close (within 30km) and 
+therefore a donor adjustment was not made to the QMED estimate. 
+ 
+Derivation of Pooled Growth Curve 
+ 
+WINFAP-FEH Version 3 and HiFlows data version 3.3.2 were used in this hydrological 
+analysis.  WINFAP-FEH was used to identify hydrologically similar gauged sites, define a 
+pooling group at the downstream extent of the reach and derive a flood frequency curve for 
+the reach.  The initial pooling group was defined with a target of 700 station years of data 
+(on account of the likelihood that a number of catchment gauging station records may need 
+to be removed during the pooling group review process).  The default pooling group is 
+shown in Appendix A. 
+ 
+The pooling group was created using two HiFlows datasets: 
+ 
+ (i)        “Sites suitable for QMED adjustment”  
+ (ii)       “Sites suitable for Pooling only”  
+ 
+ 
+ 
+ 
+2
+.0 0460
+.0 1536
+.8 3062
+.3 4451
+1000
+.0 8510
+BFIHOST
+SAAR FARL
+AREA
+QMED =
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 8 of 13 
+ 
+ 
+Item 
+Subject 
+Derivation of Flood Frequency Curve 
+ 
+The flood frequency curve provides estimates of design flood flows for a range of flood 
+return periods and is derived by factoring up the estimate of QMED using the pooled growth 
+curve fittings. 
+ 
+In this instance, the default pooling group was used as a comparison to ReFH flows.   
+ 
+In this instance the URBEXT2000 value is less than 0.03 and therefore an urban adjustment 
+was not applied to the flood frequency curve.  The 1 in 1000 year flow was obtained from 
+WINFAP by selecting further return periods before calculating the growth factors.  The 
+resulting flood frequency curve is presented below in Table 4 along with the ReFH flow 
+estimates. 
+ 
+Return 
+Period 
+(yrs) 
+FEH Statistical Flow Estimates - 
+Default Pooling Group 
+ReFH Flow 
+Estimates (m3/s) 
+Growth Curve 
+Fittings 
+Flood Frequency 
+Curve (m3/s) 
+2 
+1.00 
+0.66 
+1.07 
+5 
+1.51 
+0.99 
+1.41 
+10 
+1.92 
+1.26 
+1.69 
+20 
+2.37 
+1.56 
+1.98 
+50 
+3.10 
+2.04 
+2.43 
+100 
+3.78 
+2.48 
+2.84 
+200 
+4.59 
+3.02 
+3.37 
+1000 
+7.17 
+4.72 
+5.18 
+ 
+Table 4 – Default Flood Frequency Curve for downstream extent of Mill Brook 
+ 
+As the ReFH peak flows were greater than the default pooling group flows no further 
+modifications to the pooling group were made and no further FEH Statistical assessment 
+was completed.  In accordance with the latest EA Flood Estimation Guidelines (2015) ReFH 
+is generally preferred for smaller catchments as uncertainties exist in pooling via WINFAP 
+for normal (i.e. non permeable, non-urban) small catchments. 
+ 
+3. SUMMARY AND CONCLUSIONS 
+The peak ReFH flows for the 2010 and 2014 assessments are shown in Table 5. 
+Return Period 
+2010 Flow 
+(m3/s) 
+2014 Flow 
+(m3/s) 
+100 
+3.3 
+2.84 
+100 + 20% 
+3.96 
+3.40 
+1000 
+5.9 
+5.18 
+Table 5 – Comparison of ReFH peak flows (2010 and 2014 assessments) 
+ 
+It can be seen that the flood flow estimates based upon the current (2014/2015) 
+methodology and parameters are lower than those derived in 2010.   
+The flow estimates summarised in Table 5 above relate to the total contributing catchment 
+area taken at the culvert beneath the Bedford to Bletchley railway (i.e. comprising flows 
+within the Mill Brook AND its tributary).  For the purposes of the hydraulic modelling, inflows 
+are derived by areal weighting of the ‘lumped’ flow estimates.  A summary of the inflows 
+derived by areal weighting for both the 2010 and 2014 assessments is presented in 
+Appendix A.  It can be seen that the 2014 estimates of the tributary inflows are significantly 
+lower than the 2010 estimates.  The 2014 estimates of the Mill Brook inflows are lower/the 
+same as the 2010 estimates, with the exception of the 1,000 year inflow, for which the 2014 
+estimate is marginally (0.07m3/s) higher.  However, this is not considered significant when 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 9 of 13 
+ 
+ 
+Item 
+Subject 
+viewed in the context of confidence limits/the margin of error associated with flood flow 
+estimation and hydraulic modelling. 
+It is therefore concluded that the 2010 modelling study provides a ‘precautionary’ basis for 
+preparing the FRA in support of the Millbrook Power Project. 
+4. HYDRAULIC MODELLING 
+The 2010 hydraulic assessment was undertaken using the HEC-RAS modelling software 
+(Version 4.0.0) and using an ‘unsteady’ modelling approach on account of the fact that 
+issues relating to floodwater storage and ‘discharge/spill’ from the watercourse system 
+needed to be considered. 
+The objective of the modelling was to derive a series of design flood levels and establish 
+whether Rookery South Pit would be at risk of inundation as a result of flooding on the Mill 
+Brook and its tributary during the 1 in 100 year and 1 in 100 year plus climate change flood 
+events. 
+Schematisation 
+A model schematic plan is presented in Appendix B (Drawing No. 31116/3014/003) and 
+shows model extents and the locations of cross-sections and hydraulic structures. 
+The Mill Brook and its tributary both consist of a single channel which is represented as a 
+series of river and structure cross-sections based upon topographic survey undertaken in 
+2009. 
+The lower reach of the Mill Brook tributary is to be diverted as part of the LLRS.  The 
+diverted reach will consist of a trapezoidal channel profile with a base width of 2m, depth of 
+1.5m and top width of 6m.  The diversion works will be implemented prior to construction of 
+the Millbrook Power Project and details of the proposed channel configuration were 
+therefore included in the HEC-RAS model. 
+There are nine structures within the study area (as shown on Drawing No. 
+31116/3014/003, Appendix B).  These structures are modelled as culverts, with the 
+exception of Structure S2a, which is represented using a deck/roadway component within 
+the model. 
+Seven lateral structures (representing floodwater ‘discharge/spill’ from the watercourses) 
+are included in the model (as shown on Drawing No. 31116/3014/003, Appendix B). 
+The Mill Brook outfalls to Stewartby Lake approximately 400m downstream of the culvert 
+beneath the Bedford to Bletchley/Marston Vale railway.  The Bedfordshire and River Ivel 
+Internal Drainage Board provided peak water level data for Stewartby Lake associated with 
+historic flood events.  However, the highest recorded water level within Stewartby Lake 
+(35.71aOD) does not extend to influence the modelled reach of watercourse.  The 
+downstream boundary of the hydraulic model is therefore based upon ‘normal depth’, 
+calculated using the topographic survey. 
+5. RESULTS 
+The model provides a design series of flood levels for the 1 in 100 year and 1 in 100 year 
+plus climate change events.  The modelling analysis indicates that floodwater may 
+discharge into Rookery South Pit during the 1 in 100 year event. This discharge occurs in a 
+very localised area along the upper reach of the Mill Brook tributary at a peak rate of 
+approximately 0.2m3/s, giving rise to a volume of approximately 6,500m3. Floodwater 
+discharge does not occur along the main branch of the Mill Brook – the minimum freeboard 
+between the 100 year flood level and the discharge threshold being approximately 250-
+300mm along the reach immediately upstream of the culvert beneath the Bedford to 
+Bletchley/Marston Vale railway. 
+ 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 10 of 13 
+ 
+ 
+Item 
+Subject 
+During the 1 in 100 year plus climate change flood event, the model indicates that discharge 
+from the upper reach of the Mill Brook tributary increases marginally, resulting in a 
+discharge volume of approximately 7,500m3. Floodwater discharge does not occur along 
+the main branch of the Mill Brook – the minimum freeboard between the 100 year plus 
+climate change flood level and the discharge threshold being approximately 150-200mm 
+along the reach immediately upstream of the Bedford to Bletchley/Marston Vale railway. 
+A CD containing the model files is included in Appendix B. 
+6. SENSITIVITY ANALYSIS 
+Sensitivity analysis was undertaken to quantify the sensitivity of model results to (i) 
+assumptions regarding model parameters and (ii) more extreme conditions than those 
+considered above. 
+The results associated with sensitivity testing for (i) Mannings ‘n’ plus 20% and (ii) partial 
+blockage of the culvert beneath the Bedford to Bletchley/Marston Vale railway are 
+summarised below. 
+Mannings ‘n’ +20% 
+Modelling analysis has shown that water levels may increase by up to approximately 
+100mm as a result of a 20% increase in Mannings ‘n’.  This results in a marginal increase in 
+the peak rate of floodwater discharge into Rookery South Pit from the upper reach of the 
+Mill Brook tributary, such that the discharge volume increases by approximately 2,500m3 for 
+the 100 year event. 
+Structure Blockage 
+The culvert beneath the Bedford to Bletchley/Marston Vale railway constitutes a constriction 
+to river flows.  The potential impact of culvert blockage upon flood levels was simulated by 
+blocking 50% of the opening area of the culvert.  This test indicated that the water level 
+immediately upstream of the culvert would increase by approximately 0.6m, thereby giving 
+rise to floodwater ‘spill’ over the eastern bank of the Mill Brook.  This increases the volume 
+of floodwater discharge into Rookery South Pit by approximately 13,000m3 when compared 
+to the 100 year scenario without culvert blockage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENT ISSUE RECORD 
+Technical Note No 
+Rev 
+Date 
+Prepared 
+Checked 
+Reviewed 
+(Discipline Lead) 
+Approved 
+(Project Director) 
+31116/3014/TN01 
+- 
+27.01.15 
+SK 
+SH 
+SH 
+PJ 
+Peter Brett Associates LLP disclaims any responsibility to the Client and others in respect of any matters outside the scope of this report.  This 
+report has been prepared with reasonable skill, care and diligence within the terms of the Contract with the Client and generally in accordance with 
+the appropriate ACE Agreement and taking account of the manpower, resources, investigations and testing devoted to it by agreement with the 
+Client.  This report is confidential to the Client and Peter Brett Associates LLP accepts no responsibility of whatsoever nature to third parties to 
+whom this report or any part thereof is made known.  Any such party relies upon the report at their own risk. 
+© Peter Brett Associates LLP 2013 
+Peter Brett Associates LLP 3rd Floor Waterloo House, Victoria Square, Birmingham B2 5TB  
+T: +44 (0)121 633 2900  F: +44 (0)121 633 2901  E: birmingham@peterbrett.com 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 11 of 13 
+ 
+ 
+ 
+Appendix A 
+ 
+Hydrological Assessment 
+ 
+Default Pooling Group Details 
+ 
+ReFH Hydrographs 
+ 
+Flow Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 12 of 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31116 Flow Summary - Total Catchment
+2008 based on CA of 4.49km2 (pro rata of flows of 1.49km2 for trib inflow and 3km2 for Mill Brook inflow)
+2014 based on CA of 3.81km2 (pro rata of flows for 0.86km2 trib inflow and 2.95km2 for Mill Brook inflow)
+ReFH Flows
+FEH
+Default PG
+Return Period yrs)
+Peak Flow (m3/s)
+2
+0.66
+Total 
+Catchment
+Mill Brook Inflow
+Trib Inflow
+Total 
+Catchment
+Mill Brook Inflow
+Trib Inflow
+Total 
+Catchment
+Mill Brook Inflow Trib Inflow
+Total 
+Catchment
+Mill Brook Inflow
+Trib Inflow
+Total 
+Catchment Mill Brook Inflow
+Trib Inflow
+Total Catchment
+Mill Brook Inflow
+Trib Inflow
+0
+0.2
+0.13
+0.07
+0.14
+0.11
+0.03
+0.24
+0.16
+0.08
+0.17
+0.13
+0.04
+0.2
+0.13
+0.07
+0.14
+0.11
+0.03
+5
+0.99
+1
+0.2
+0.13
+0.07
+0.16
+0.12
+0.03
+0.24
+0.16
+0.08
+0.18
+0.14
+0.04
+0.2
+0.13
+0.07
+0.15
+0.12
+0.03
+10
+1.26
+2
+0.2
+0.13
+0.07
+0.23
+0.17
+0.05
+0.24
+0.16
+0.08
+0.23
+0.18
+0.05
+0.2
+0.13
+0.07
+0.19
+0.15
+0.04
+20
+1.56
+3
+0.4
+0.27
+0.13
+0.41
+0.32
+0.09
+0.36
+0.24
+0.12
+0.37
+0.28
+0.08
+0.3
+0.2
+0.1
+0.31
+0.24
+0.07
+50
+2.04
+4
+0.7
+0.47
+0.23
+0.81
+0.62
+0.18
+0.6
+0.4
+0.2
+0.66
+0.51
+0.15
+0.5
+0.33
+0.17
+0.55
+0.42
+0.12
+100
+2.48
+5
+1.2
+0.80
+0.40
+1.57
+1.21
+0.35
+0.96
+0.64
+0.35
+1.19
+0.92
+0.27
+0.8
+0.53
+0.27
+0.99
+0.76
+0.22
+100 + 20%
+2.98
+6
+2
+1.34
+0.66
+2.69
+2.09
+0.61
+1.56
+1.04
+0.52
+1.93
+1.49
+0.43
+1.3
+0.87
+0.43
+1.60
+1.24
+0.36
+200
+3.02
+7
+3.2
+2.14
+1.06
+3.92
+3.03
+0.88
+2.28
+1.52
+0.76
+2.69
+2.09
+0.61
+1.9
+1.27
+0.63
+2.25
+1.74
+0.51
+1000
+4.72
+8
+4.5
+3.01
+1.49
+4.87
+3.77
+1.10
+3.12
+2.08
+1.04
+3.26
+2.52
+0.73
+2.6
+1.74
+0.86
+2.71
+2.10
+0.61
+9
+5.5
+3.67
+1.83
+5.18
+4.01
+1.17
+3.72
+2.49
+1.23
+3.40
+2.63
+0.77
+3.1
+2.07
+1.03
+2.84
+2.20
+0.64
+10
+5.9
+3.94
+1.96
+4.94
+3.83
+1.12
+3.96
+2.65
+1.31
+3.21
+2.48
+0.72
+3.3
+2.2
+1.1
+2.68
+2.07
+0.60
+11
+5.8
+3.88
+1.92
+4.38
+3.39
+0.99
+3.84
+2.57
+1.27
+2.83
+2.19
+0.64
+3.2
+2.14
+1.06
+2.36
+1.82
+0.53
+12
+5.3
+3.54
+1.76
+3.71
+2.87
+0.84
+3.48
+2.33
+1.15
+2.40
+1.86
+0.54
+2.9
+1.94
+0.96
+2.00
+1.55
+0.45
+13
+4.6
+3.07
+1.53
+3.06
+2.37
+0.69
+3
+2
+1
+1.99
+1.54
+0.45
+2.5
+1.67
+0.83
+1.66
+1.28
+0.37
+14
+3.9
+2.61
+1.29
+2.50
+1.94
+0.56
+2.52
+1.68
+0.84
+1.63
+1.26
+0.37
+2.1
+1.4
+0.7
+1.36
+1.05
+0.31
+15
+3.2
+2.14
+1.06
+2.00
+1.55
+0.45
+2.04
+1.36
+0.68
+1.31
+1.01
+0.30
+1.7
+1.14
+0.56
+1.09
+0.84
+0.25
+16
+2.6
+1.74
+0.86
+1.57
+1.21
+0.35
+1.68
+1.12
+0.56
+1.03
+0.80
+0.23
+1.4
+0.94
+0.46
+0.86
+0.67
+0.19
+17
+2
+1.34
+0.66
+1.21
+0.93
+0.27
+1.32
+0.88
+0.44
+0.81
+0.62
+0.18
+1.1
+0.73
+0.37
+0.67
+0.52
+0.15
+18
+1.6
+1.07
+0.53
+0.96
+0.75
+0.22
+1.08
+0.72
+0.36
+0.66
+0.51
+0.15
+0.9
+0.6
+0.3
+0.55
+0.43
+0.12
+19
+1.3
+0.87
+0.43
+0.82
+0.64
+0.19
+0.84
+0.56
+0.28
+0.57
+0.44
+0.13
+0.7
+0.47
+0.23
+0.48
+0.37
+0.11
+20
+1.1
+0.73
+0.37
+0.75
+0.58
+0.17
+0.72
+0.48
+0.24
+0.53
+0.41
+0.12
+0.6
+0.4
+0.2
+0.44
+0.34
+0.10
+21
+1
+0.67
+0.33
+0.71
+0.55
+0.16
+0.72
+0.48
+0.24
+0.50
+0.39
+0.11
+0.6
+0.4
+0.2
+0.42
+0.32
+0.09
+22
+0.9
+0.60
+0.30
+0.69
+0.53
+0.15
+0.6
+0.4
+0.2
+0.48
+0.37
+0.11
+0.5
+0.33
+0.17
+0.40
+0.31
+0.09
+23
+0.8
+0.53
+0.27
+0.69
+0.53
+0.15
+0.6
+0.4
+0.2
+0.48
+0.37
+0.11
+0.5
+0.33
+0.17
+0.41
+0.31
+0.09
+Timestep (hrs)
+2008
+2014
+100yr (m3/s)
+2008
+2014
+1000yr (m3/s)
+2008
+100yr + CC (m3/s)
+2014
+ 
+ 
+TECHNICAL NOTE 
+ 
+J:\31116 Rookery Pit Gas Power Station\Incoming\PBA B'ham\150210 Revised Tech Note from SK\150227 Millbrook 
+Hydrological Modelling Note_SH SK (Final).docx 
+ 
+ 
+Page 13 of 13 
+ 
+ 
+ 
+ 
+Appendix B 
+ 
+Hydraulic Modelling 
+ 
+Drawing 31116/3014/003 – HEC-RAS Hydraulic Model schematic 
+ 
+CD containing hydraulic model files 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A0
+A0a
+LATERAL STRUCTURE 3a
+(184.0)
+LATERAL STRUCTURE 1
+(900.0)
+LATERAL STRUCTURE 3b
+(185.0)
+LATERAL STRUCTURE 3c
+(200.0)
+LATERAL STRUCTURE 3d
+(250.0)
+LATERAL STRUCTURE 3e
+(300.0)
+LATERAL STRUCTURE 2
+(776.0)
+0
+ROOKERY SOUTH
+Checked by
+Drawing Issue Status
+Date of 1st Issue
+Drawing Number
+Drawn by
+Revision
+Drawn
+Mark Revision
+Chkd
+Date
+File Location: j:\31116 rookery pit gas power station\cad\dwgs\hydro\31116_3014_003.dwg
+UTILITIES NOTE: The position of any existing public or private sewers, utility services, plant or apparatus shown on this
+drawing is believed to be correct, but no warranty to this is expressed or implied.  Other such plant or apparatus may also
+be present but not shown.  The Contractor is therefore advised to undertake his own investigation where the presence of
+any existing sewers, services, plant or apparatus may affect his operations.
+SCALING NOTE:  Do not scale from this drawing.  If in doubt, ask.
+user name: david batash
+Offices throughout the UK, Ireland,
+continental Europe, Africa, Asia and Australia
+�  Peter Brett Associates LLP
+www.pba.co.uk
+NORTHAMPTON
+Tel:  0160 487 8300     Fax:  0160 487 8333
+MILLBROOK POWER PROJECT
+HEC-RAS HYDRAULIC MODEL SCHEMATIC
+Client
+FLOOD RISK ASSESSMENT
+31116/3014/003
+-
+06.02.15
+1:2000
+DB
+SH
+A0 Scale
+SITE LOCATION
+SCALE = 1:12500
+ROOKERY NORTH
+ROOKERY SOUTH

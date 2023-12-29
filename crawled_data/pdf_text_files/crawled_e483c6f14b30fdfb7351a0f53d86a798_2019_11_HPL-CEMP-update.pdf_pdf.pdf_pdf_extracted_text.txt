@@ -1,0 +1,4391 @@
+ 
+ 
+March 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIRWAUN POWER PROJECT  
+OUTLINE CONSTRUCTION 
+ENVIRONMENTAL MANAGEMENT  
+PLAN [CEMP]  
+Hirwaun Power Limited 
+ 
+Final
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 3 - 
+CONTENTS 
+Page 
+1 
+Introduction 
+7 
+1.1 
+Overview 
+7 
+1.2 
+Purpose of this document 
+7 
+1.3 
+Project Description 
+9 
+2 
+Outline CEMP – General Information 
+10 
+2.1 
+Register of Environmental Impacts 
+10 
+2.2 
+Risk Assessments 
+10 
+2.3 
+Method Statements 
+11 
+2.4 
+Site Environmental Standards 
+11 
+2.5 
+Environmental Management System 
+12 
+2.6 
+Public Relations 
+12 
+2.7 
+Monitoring and Measurement 
+13 
+2.8 
+Roles and Responsibilities 
+13 
+3 
+Outline CEMP – Specific Measures 
+15 
+3.1 
+Introduction 
+15 
+3.2 
+Noise and Vibration 
+15 
+3.3 
+Air Quality 
+17 
+3.4 
+Contaminated Land and Groundwater 
+21 
+3.5 
+Surface Water 
+26 
+3.6 
+Ecology 
+28 
+3.7 
+Landscape and Visual Impacts 
+32 
+3.8 
+Archaeology / Cultural Heritage 
+33 
+3.9 
+Artificial Lighting 
+34 
+4 
+Conclusions 
+36 
+ 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 4 - 
+GLOSSARY 
+Above Ground 
+Installation 
+AGI 
+Situated within the Gas Connection site (Work No 4A) and 
+containing the MOC and PTF. 
+ 
+*The other ‘above ground installation’ comprising the natural gas 
+receiving station and compound is part of the Power Generation 
+Plant site (Work No 2B). 
+Best Practicable 
+Means 
+BPM 
+Best Practicable Means is a term applied with regulations on 
+limiting pollutant discharges with regard to the abatement 
+strategy. 
+Closed-Circuit 
+Television 
+CCTV 
+Closed-Circuit Television 
+Outline Construction 
+Environmental 
+Management Plan 
+(CEMP): 
+CEMP 
+Refers to this document and provides an outline of the main 
+environmental considerations which should be considered during 
+construction of the Project and considered further in the final 
+CEMP.  
+ 
+Required CEMP 
+ 
+- 
+Refers to the CEMP required by the DCO as defined by 
+RCTCBC 
+ 
+Final CEMP 
+ 
+- 
+Refers to the CEMP produced by the main contractor and agreed 
+by RCTCBC 
+ 
+Construction Traffic 
+Management Plan 
+ 
+CTMP 
+Construction Traffic Management Plan involves the management 
+of pedestrians, vehicles and equipment, which are located on-
+site. 
+ 
+DCO Application 
+- 
+The application for a DCO made to the Secretary of State under 
+section 37 PA 2008 in respect of the Project, required pursuant 
+to section 31 PA 2008 because the Project constitutes a 
+Nationally Significant Infrastructure Project under section 14 
+(1)(a) and section 15 PA 2008 by virtue of being an onshore 
+generating station in England or Wales of 50 MWe capacity or 
+more 
+Development Consent 
+Order 
+DCO 
+Consent by a UK Government Minister for a Nationally 
+Significant Infrastructure Project. A DCO can incorporate or 
+override the need for a variety of consents which would 
+otherwise be required for a development, including planning 
+permission. A DCO can also include rights of compulsory 
+acquisition. A DCO is made in the form of a Statutory Instrument. 
+The Developer 
+- 
+Means Hirwaun Power Limited (HPL) 
+Draft DCO 
+- 
+The draft DCO which accompanies the DCO Application 
+(Document Number: [3.1]) 
+Environment Agency 
+(the equivalent body 
+in Wales being 
+Natural Resources 
+EA 
+Executive Non-departmental Public Body responsible to the 
+Secretary of State for Environment, Food and Rural Affairs. 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 5 - 
+Wales) 
+Ecological 
+Management Plan 
+EcMP 
+Ecological Management Plan is a synthesis of all proposed 
+mitigative and monitoring actions, set to a timeline with specific 
+responsibility assigned and follow-up actions defined. It is 
+normally incorporated as part of the Environmental Management 
+Plan (EMP), one of the most important outputs of the 
+environmental assessment process. 
+Electrical Connection 
+- 
+A new underground electrical cable connection to export 
+electricity from the Power Generation Plant into the national 
+electricity transmission system at the Rhigos Substation (Work 
+No. 5 in the Draft DCO) 
+Electrical Connection 
+Route Corridor 
+- 
+The route of the Electrical Connection (Work No. 5 in the Works 
+Plan) 
+Environmental Health 
+Officer 
+ 
+EHO 
+Environmental health officers make sure that people's living and 
+working surroundings are safe, healthy and hygienic. 
+Environmental 
+Statement 
+ES 
+The final document which provides a comprehensive discussion 
+on the Environmental Impact Assessment. 
+Gas Connection 
+- 
+A new underground gas pipeline connection to bring natural gas 
+to the Power Generation Plant from the existing high pressure 
+gas network NTS in the vicinity of the proposed Project Site 
+including the above ground infrastructure (AGI) for the gas 
+pipeline at the point of connection to the NTS, as well as a new 
+permanent access to the AGI (Works No. 3 & 4 in the Draft 
+DCO); 
+Gas Connection 
+Route Corridor 
+- 
+The route of the Gas Connection, including the site of the AGI 
+and the new access to the AGI (Works No. 3 & 4 in the Works 
+Plan). 
+Hirwaun Power 
+Limited 
+HPL 
+Hirwaun Power Limited is a subsidiary established by Watt 
+Power Limited (WPL).  WPL has been established to develop 
+flexible gas fired generation assets to support the UK 
+Government drive to a low carbon economy.  WPL is resourced 
+through Stag Energy, a company founded in 2002; 
+Kilometres per Hour 
+Km/h 
+Measurement of distance travelled over an hour. 
+Mega Watt Electrical 
+MWe  
+Measurement of electrical power. 
+MIfA 
+MIfA 
+A Member of the Institute for Archaeologists 
+Ministry of Transport 
+requirements 
+MOT 
+A compulsory annual test for safety and exhaust emissions of 
+motor vehicles of more than a specified age. 
+Nationally Significant 
+Infrastructure Project 
+NSIP  
+The Project constitutes a Nationally Significant Infrastructure 
+Project (NSIP) by virtue of s.14(1)(a) and s.15 of the Planning 
+Act 2008 (PA 2008) which include within the definition of a NSIP 
+any onshore generating station in England or Wales of 50 MWe 
+capacity or more. 
+National Transmission 
+System 
+NTS  
+A network of gas pipelines throughout the United Kingdom that 
+supply gas to power stations from natural gas terminals situated 
+on the coast, and also gas distribution companies which lead 
+indirectly to homes. 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 6 - 
+ 
+ 
+ 
+Natural Resources 
+Wales 
+NRW  
+A regulatory authority and principal adviser to the Welsh 
+Government on the environment, enabling the sustainable 
+development of Wales’ natural resources for the benefit of 
+people, the economy and wildlife. Made up of the former 
+Environment Agency Wales, Countryside Commission Wales 
+and Forestry Commission Wales. 
+Personal Protective 
+Equipment 
+PPE 
+Personal protective equipment refers to protective clothing, 
+helmets, goggles, or other garments or equipment designed to 
+protect the wearer's body from injury. 
+Planning Act 2008 
+PA 2008  
+UK legislation which  passes responsibility for dealing with 
+development consent applications for NSIPs to the Planning 
+Inspectorate , who will examine applications and make 
+recommendations for a decision by the relevant Secretary of 
+State (the Secretary of State for Energy and Climate Change in 
+the case of energy NSIP applications).  
+Power Generation 
+Plant 
+- 
+A SCGT gas fired ‘peaking’ power generating plant capable of 
+providing up to 299 MWe (Work No. 2 in the Draft DCO); 
+Power Generation 
+Plant Site 
+- 
+The site of the Power Generation Plant (Work No. 2 in the Works 
+Plan); 
+Project 
+- 
+The Power Generation Plant, the Electrical Connection and the 
+Gas Connection together; 
+ 
+Project Site 
+- 
+The site of the Project corresponding to the Order Limits of the 
+Draft DCO; 
+ 
+Rhondda Cynon Taf 
+County Borough 
+Council 
+RCTCBC 
+The administrative body and local planning authority and 
+highways authority for the County Borough of Rhondda Cynon 
+Taf. 
+Simple Cycle Gas 
+Turbine 
+SCGT 
+A Simple Cycle Gas Turbine is a type of gas turbine most 
+frequently used in the power generation, aviation, and oil and 
+gas industry (electricity generation and mechanical drives). The 
+simple cycle gas turbine differs from a combined cycle operation 
+in that it has only one power cycle (ie. no provision for waste 
+heat recovery). 
+Site of Importance for 
+Nature Conservation 
+SINC 
+A Site of Importance for Nature Conservation 
+SHE Officer 
+- 
+The site safety, health and environment officer 
+Secretary of State for 
+Energy and Climate 
+Change 
+SoS 
+Her Majesty's Principal Secretary of State for Energy and Climate 
+Change is a British government cabinet position. 
+Works Plan 
+ 
+Plan showing the numbered works referred to in the Draft DCO 
+(Document Number: [2.3]); 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 7 - 
+1 
+INTRODUCTION  
+1.1 
+Overview 
+1.1.1 
+Hirwaun Power Limited (HPL) is making an application for a 
+Development Consent Order (DCO) to the Secretary of State for 
+Energy and Climate Change (SoS).  The DCO will authorise HPL to 
+construct and operate a new 299 megawatt electrical (MWe) simple 
+cycle gas turbine (SCGT) Power Generation Plant together with integral 
+Gas and Electrical Connections (hereafter referred to as the Project).  
+The Power Generation Plant will be located on the Hirwaun Industrial 
+Estate between Rhigos and Hirwaun in South Wales.   
+1.2 
+Purpose of this document  
+1.2.1 
+This document provides an outline from which a final Construction 
+Environmental Management Plan (CEMP) will be produced for each 
+Work in the DCO, to govern all parts of the construction works 
+(including site preparation/demolition) associated with the Project for all 
+contractors. This document will be hereafter referred to as the ‘outline 
+CEMP’.  This outline CEMP is informed by the ES and associated DCO 
+documents.  
+1.2.2 
+Schedule 2 Requirement 12 of the DCO includes a requirement to 
+approve CEMP(s) in a staged manner by the local planning authority, 
+namely Rhondda Cynon Taf County Borough Council (RCTCBC) prior 
+to the commencement of any works.  Such CEMP(s)) will be developed 
+after any grant of a DCO, in conjunction with, or by, the main 
+contractor/s appointed for such works once the timescales for the 
+detailed implementation are defined.  
+1.2.3 
+The final CEMP(s) shall consider the following: 
+ 
+Complaints procedures; 
+ 
+Nuisance management including measures to avoid or minimise 
+the impacts of construction works (covering dust, noise, vibration 
+and lighting); 
+ 
+Lighting; 
+ 
+Waste management; 
+ 
+Surface and ground water mitigation measures; 
+ 
+Procedure in the event significant archaeological remains are 
+encountered; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 8 - 
+ 
+Landscape and visual impact mitigation (such as retention of 
+existing trees and minimising visual intrusion of construction 
+works); and 
+ 
+Security measures. 
+1.2.4 
+Traffic and Transport mitigation measures are to be in a Construction 
+Traffic Management Plan (CTMP)) prepared by the main contractors 
+and submitted under Requirement 13 of Schedule 2 of the DCO, and 
+complementary to the CEMP. Similarly ecological mitigation measures 
+are to be contained in anEcMP to be submitted under Requirement 10 
+of Schedule 2 of the DCO, and complementary to the CEMP. 
+Appropriate references to these documents are made in this Outline 
+CEMP and should be made in the final CEMP(s). 
+1.2.5 
+In considering these environmental matters the final CEMP will provide 
+information on: 
+ 
+A register of environmental aspects [the effects of the Scheme]; 
+ 
+Roles and responsibilities; 
+ 
+Communication and co-ordination; 
+ 
+Training and awareness; 
+ 
+Operational control; 
+ 
+Checking and corrective action; and  
+ 
+Environmental control measures. 
+1.2.6 
+The final CEMP will fall within the scope of the main contractor’s 
+externally certified international environmental management systems, 
+and as such will be subject to independent audits by the relevant 
+certification bodies.   
+1.2.7 
+This outline CEMP provides sufficient information, based on best 
+practice guidance and mitigation measures in the ES to act as a 
+framework for the final CEMP and to provide assurance to the decision 
+maker and stakeholders that all appropriate measures will be taken 
+forward to the construction phase.  
+1.2.8 
+Measures set out in the final CEMP will also have reference to the 
+Welsh Government document ‘Construction and Demolition Sector 
+Plan’ which seeks to move towards zero waste by detailing outcomes, 
+policies and delivery actions for organisations, companies and 
+individuals involved with the construction and demolition sector in 
+Wales. It forms part of the suite of documents that comprise the waste 
+management plan/strategy for Wales, in accordance with the plan 
+making requirements enshrined in Wales and EU legislation.   
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 9 - 
+1.3 
+Project Description 
+1.3.1 
+The Power Generation Plant will operate as a Simple Cycle Gas 
+Turbine (SCGT) peaking plant and has been designed to provide an 
+electrical output of up to 299 Megawatts electrical (MWe). The plant will 
+be fuelled by natural gas.   
+1.3.2 
+The three main elements of the Hirwaun Power Project comprise:  
+ 
+A new Power Generation Plant, a SCGT gas fired ‘peaking’ power 
+generating plant capable of providing up to 299 MWe; 
+ 
+A new underground electrical cable connection (the Electrical 
+Connection) to export electricity from the Power Generation Plant 
+into the National Grid at Rhigos Substation; and  
+ 
+A new underground gas pipeline connection (the Gas Connection) 
+to bring natural gas to the Power Generation Plant from the existing 
+high pressure gas network National Transmission System in the 
+vicinity of the proposed Project Site.  This element of the Project 
+also includes the above ground installation (AGI) for the gas 
+pipeline at the point of connection to the National Transmission 
+System (NTS), as well as a new permanent access to the AGI.  
+1.3.3 
+The Power Generation Plant, Gas Connection and Electrical 
+Connection together are referred to as the Project and are all integral to 
+the generation of electricity and the subsequent export of that electricity 
+to the National Grid.  
+1.3.4 
+The Project constitutes a Nationally Significant Infrastructure Project 
+(NSIP) by virtue of section 14 (1)(a) and section 15 of the Planning Act 
+2008 (PA 2008) which includes within the definition of an NSIP any 
+onshore generating station in England or Wales of 50 MWe capacity or 
+more. Under section 31 PA 2008 a development consent order (DCO) 
+is required to develop a NSIP. Under section 37 PA 2008 this can only 
+be granted if an application is made for it to the Secretary of State 
+(SoS) (the DCO Application).  
+1.3.5 
+This outline CEMP is part of a suite of documents which accompany 
+the DCO Application and should be read in conjunction to gain a fuller 
+understanding of the Project.  
+ 
+ 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 10 - 
+2 
+OUTLINE CEMP – GENERAL INFORMATION 
+2.1 
+Register of Environmental Impacts 
+2.1.1 
+A register of Environmental Impacts is required to be produced as part 
+of the CEMP.  This Register would be used to inform the environmental 
+procedures and provide a tool for construction teams when preparing 
+construction method statements or field briefings.  This register would 
+also comprise the various risks identified in the Environmental 
+Statement (ES) and would be regularly updated to reflect any additional 
+risks resulting from the main contractor/s selected methods of working, 
+changing site conditions etc. Risks would be identified under the 
+following general headings: 
+ 
+Noise & Vibration; 
+ 
+Air Quality & Emissions; 
+ 
+Geology & Soils; 
+ 
+Water Quality, Drainage & Hydrology; 
+ 
+Landscape and Visual Impacts;  
+ 
+Ecology; 
+ 
+Traffic and Transport; 
+ 
+Waste and Health; 
+ 
+Archaeology and Cultural Heritage; and  
+ 
+Combined Impacts.  
+2.2 
+Risk Assessments 
+2.2.1 
+All activities undertaken on-site would be subject to an environmental 
+risk assessment.  Environmental risk assessments would be 
+undertaken by trained staff following an approved procedure which will: 
+ 
+Identify potential environmental impacts that can be anticipated; 
+ 
+Assess the risks from these impacts; 
+ 
+Identify the control measures to be taken and re-calculate the risk; 
+and 
+ 
+Report where an unacceptable level of residual risk is identified so 
+that action can be taken through design changes, re-scheduling of 
+work or alternative methods of working in order to reduce the risk to 
+an acceptable level. 
+2.2.2 
+The results of risk assessments, and their residual risks are only 
+considered acceptable if:  
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 11 - 
+ 
+The severity of outcome is reduced to the lowest practical level;  
+ 
+The number of risk exposures are minimised; and 
+ 
+All reasonably practical mitigating measures have been taken and 
+the residual risk rating is reduced to a minimum.  
+2.2.3 
+The findings of the risk assessment and in particular the necessary 
+controls 
+would 
+be 
+explained 
+to 
+all 
+contractors 
+before 
+the 
+commencement of the relevant works using an agreed instruction 
+format (e.g. Toolbox Talks).  
+2.3 
+Method Statements 
+2.3.1 
+Method statements would be completed by the main contractor or sub 
+contractor by trained engineers or other appropriately experienced 
+personnel, in consultation with on-site staff and, where necessary, 
+environmental specialists.  Their production would include a review of 
+the environmental risks and commitments, so that appropriate control 
+measures are developed and included within the construction process. 
+2.3.2 
+Method statements would be reviewed by the main contractor or sub 
+contractor’s appointed environmental manager and, where necessary, 
+by an appropriate environmental specialist.  Where required, method 
+statements would also be submitted to the enforcement agencies 
+(Natural Resources Wales, Environmental Health Officer from 
+RCTCBC etc.).  Method statements would most likely contain the 
+following: 
+ 
+Location of the activity and access/egress arrangements; 
+ 
+Work to be undertaken and methods of construction; 
+ 
+Plant and materials to be used; 
+ 
+Labour and supervision requirements; 
+ 
+Health, safety and environmental considerations; and 
+ 
+Any permit or consent requirements beyond those already obtained 
+(including the DCO). 
+2.4 
+Site Environmental Standards 
+2.4.1 
+Site Environmental Standards would be agreed with the main 
+contractor and would detail the minimum measures that shall be 
+achieved 
+for 
+general 
+operations 
+falling 
+outside 
+the 
+risk 
+assessment/method statement procedure. The site environmental 
+standards would be designed to cover the majority of construction 
+activities in accordance with the ES submitted with the application and 
+requirements associated with the DCO.   
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 12 - 
+2.4.2 
+These will cover issues such as storage of materials, management of 
+waste, noise and vibration, and water pollution control.  The standards 
+will be printed on A3 posters, placed on site notice boards and used as 
+a briefing tool on site.  These standards will also form the basis of 
+Toolbox talks which will inform all contractors working on site of the 
+potential environmental risks arising from construction activities.  
+2.4.3 
+Best practice construction site management techniques will be 
+implemented to avoid/minimise the generation of excessive waste, 
+dust, noise, lighting, noise and vibration, in accordance with the ES and 
+relevant requirements associated with the DCO.  These are discussed 
+in more detail in Section 3 of this document.  
+2.5 
+Environmental Management System 
+2.5.1 
+Following construction, an Environmental Management System for 
+commercial operation will be developed and contained within the 
+overall Business Management System prepared by the operator and 
+designed to comply with ISO 14001 or an equivalent recognised 
+standard. 
+2.5.2 
+Implementation of ISO 14001 is a Key Strategy for HPL and the use of 
+an Environmental Management Plan for commissioning based on ISO 
+14001 (or similar) will be used to support implementation and 
+compliance with the DCO and the Environmental Permit that will be 
+required for operation of the Project under the Environmental Permitting 
+(England and Wales) Regulations 2011.  All operational staff for the 
+Project will be given comprehensive environmental awareness training 
+as part of this process. 
+2.5.3 
+During the commissioning phase of the Project, HPL will require its 
+environmental and compliance procedures to be implemented and 
+used by the main contractor and the operator.  
+2.6 
+Public Relations 
+2.6.1 
+The following steps will be taken to make the public aware of the 
+activities on site and the available lines of communication with HPL: 
+ 
+Neighbouring occupiers will be notified of the start of site works and 
+the likely duration of the overall demolition and construction 
+phases;  
+ 
+A telephone number for environmental complaints will be published 
+local to the site.  The site safety, health and environment (SHE) 
+officer will be responsible for dealing with any complaints and will 
+have the appropriate authority to resolve any issues that may 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 13 - 
+occur.  Should they be required both the SHE officer and the site 
+managers ‘out of hours’ telephone numbers will be available; 
+ 
+The SHE officer will maintain a close liaison with the council’s 
+Environmental Health Officer (EHO) at all times; 
+ 
+Should any complaints regarding dust be received by the SHE 
+officer the details will be passed to the EHO for verification 
+purposes; and 
+ 
+Should any unforeseen event occur within the construction site that 
+has the potential to cause off-site pollution then the SHE officer will 
+immediately notify the EHO by phone and e-mail.  As far as 
+possible notice will be issued to the EHO for dealing with an 
+unforeseen activity which may give rise to a particular dust 
+problem. 
+2.7 
+Monitoring and Measurement 
+2.7.1 
+Weekly site inspections will be carried out which will assess the 
+potential for environmental emergency situations to arise on the site.  
+Additionally the main contractor will assess the potential for 
+environmental incidents on a daily basis across the site.  Particular 
+notice will be taken during and following extreme weather events, when 
+working in areas of known contamination, and when particularly 
+hazardous activities are being carried out.  Method Statements will be 
+required where the risk assessment has identified a significant risk to 
+the environment.  
+2.7.2 
+In the event of any environmental incident the most senior 
+representative of the main contractor will take the role of the 
+responsible person and will take charge of the situation.  Where 
+possible, the responsible person will take immediate steps to eliminate 
+the 
+impact 
+on 
+the 
+environment 
+and 
+mitigate/minimise 
+any 
+environmental damage. 
+2.8 
+Roles and Responsibilities  
+2.8.1 
+Suggested specific roles and responsibilities for the implementation of 
+the final CEMP are described below: 
+HPL Project Director 
+2.8.2 
+The HPL Project Director would have overall responsibility for 
+environmental performance throughout the construction period and will 
+ensure 
+that 
+appropriate 
+resources 
+are 
+made 
+available 
+and 
+environmental control and any agreed or appropriate protection 
+measures are implemented. 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 14 - 
+Environmental, Health & Safety Management 
+2.8.3 
+The Site Manager would be appointed the responsibility for co-
+ordinating and managing all the environmental activities during the 
+construction phase.  The role would involve will carrying out the 
+following duties: 
+ 
+Develop and review the CEMP and specialist procedures; 
+ 
+Lead the appointment of construction environmental specialists; 
+ 
+Ensure delivery of environmental training to personnel within the 
+project team; 
+ 
+Monitor construction activities and performance to ensure 
+compliance with the CEMP and that identified and appropriate 
+control measures are being effective;  
+ 
+Act as a main point of contact between the regulatory authorities 
+and the project on environmental issues; 
+ 
+Monitor construction activities and performance to ensure control 
+measures are effective; 
+ 
+Maintain full records of the progress of the Environmental Works; 
+ 
+Implement an auditable environment record system; 
+ 
+Maintain regular contact and liaison with the Environmental 
+Specialists;  
+ 
+Carry out audits as required by the CEMP; 
+ 
+Ensure compliance with Duty of Care at all times; and 
+ 
+Implement and monitor measures to ensure correct waste 
+minimisation, segregation and disposal. 
+ 
+ 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 15 - 
+3 
+OUTLINE CEMP – SPECIFIC MEASURES 
+3.1 
+Introduction 
+3.1.1 
+This section outlines some of the specific design and mitigation 
+measures which will be used in the CEMP for the Project in order to 
+limit impacts on noise and vibration, air quality, contaminated land and 
+groundwater, ecology, archaeology and cultural heritage and landscape 
+and visual amenity. It will additionally outline the measures to prevent 
+impacts arising from artificial lighting.   
+3.2 
+Noise and Vibration 
+3.2.1 
+This section outlines the potential sources of nuisance noise created by 
+construction works and the methods of mitigation proposed to limit 
+these impacts which shall be adopted in a CEMP.  
+3.2.2 
+All construction activities will be undertaken in accordance with 
+requirements attached to the DCO, and the recommendations of BS 
+5228 ‘Noise and Vibration Control on Construction and Open Sites’.  It 
+details the legislative background to noise control, along with the 
+recommended procedures for effective liaison between developers, site 
+operators and local authorities.  Methods of how to minimise the impact 
+of site noise on workers and local residents are also provided. 
+3.2.3 
+The main mitigation measure to limit impacts of nuisance noise on 
+human receptors is to ensure noise levels do not exceed the noise 
+thresholds set out in the ES (65 dBA daytime) and to undertake noise 
+monitoring during construction to make sure these agreed thresholds 
+are not breached. 
+3.2.4 
+In addition, construction works shall not take place outside the hours of 
+07:00-18.30 Monday to Friday and 07.00-13.00 on Saturday, unless 
+otherwise agreed with RCTCBC.  Controls on working hours are 
+specifically set out in DCO Schedule 2 Requirements 14 and 15. 
+3.2.5 
+If works are required outside of these core construction hours then 
+method statements and risk assessments will be required to be 
+submitted to the local planning authority for approval.   
+3.2.6 
+To minimise the risk of noise complaints, the main contractor will advise 
+potentially affected residents of the works to be undertaken outside of 
+working hours.  The residents will also be provided with a point of 
+contact for any queries or complaints.  
+3.2.7 
+The main contractor and all sub-contractors working on-site have a 
+general duty to take all reasonably practicable measures to minimise 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 16 - 
+nuisance from noise and vibration that has the potential to impact on 
+the local community or environment.  To achieve this and avoid the 
+potential for construction works to give rise to consequences that would 
+otherwise be statutory nuisances (but for the provision of the DCO), 
+Best Practicable Means (BPM) as defined in section 79(9)(a) of the 
+Environmental Protection Act 1990 must be employed and the following 
+requirements will be complied with: 
+ 
+Appropriate 
+selection 
+of 
+plant, 
+construction 
+methods 
+and 
+programming.  Only plant conforming with relevant national or 
+international standards, directives or recommendations on noise or 
+vibrations emissions will be used;   
+ 
+Construction plant will be operated and maintained appropriately, 
+having regard to the manufacturer’s written recommendations or 
+using other appropriate operation and maintenance programmes 
+which reduce noise and vibration emissions; 
+ 
+All vehicles and plant will be switched off when not in use; 
+ 
+Approved routes and programming for the transport of construction 
+materials, spoil and personnel to reduce the risk of increased noise 
+and vibration impacts due to the construction of the project; 
+ 
+Vehicle and mechanical plant used for the purpose of the works 
+shall be fitted with effective exhaust silencers, to be maintained in 
+good working order and operated in such a manner as to be 
+maintained in good working order and operated in such a manner 
+as to minimise noise emissions.  The contractor shall use plant 
+items that comply with the relevant EU/UK noise limits applicable to 
+all equipment; 
+ 
+All ancillary plant such as generators, compressors and pumps 
+would be positioned so as to cause minimum noise disturbance 
+(e.g. as far away as practicable from residential receptors).  If 
+necessary, temporary acoustic barriers or enclosures would be 
+provided; 
+ 
+The positioning of construction plant and activities to minimise 
+noise at sensitive locations; 
+ 
+Equipment that breaks concrete by munching or similar, rather than 
+by percussion, shall be used as far as is practicable; 
+ 
+The use of mufflers on pneumatic tools; 
+ 
+Where practicable, rotary drills actuated by hydraulic or electrical 
+power shall be used for excavating hard materials; 
+ 
+The use of non-reciprocating construction plant where ever 
+practicable; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 17 - 
+ 
+The use, where necessary, of effective sound reducing enclosures; 
+ 
+The targeting, where possible, of noisy work at times which 
+minimise disturbance; and 
+ 
+To prevent damage to adjacent structures, demolition and 
+construction activities will be carried out in accordance with Part 2 
+of BS 7385:1993 (Evaluation and Measurement for Vibration in 
+Buildings). 
+3.3 
+Air Quality 
+3.3.1 
+Relevant air quality mitigation measures are outlined in Section 6 of the 
+ES and in the Statutory Nuisance Statement.  However, the following 
+provides an outline of the processes which could be employed in the 
+final CEMP in order to reduce dust and exhaust emissions during 
+construction.  
+3.3.2 
+This section outlines the potential sources of air pollution created by 
+construction works and the methods of mitigation proposed to limit 
+these impacts which shall be adopted in the final CEMP.  The following 
+provides an outline of the processes which shall be employed in the 
+final CEMP in order to reduce dust and exhaust emissions during 
+construction. 
+3.3.3 
+A site-specific dust management plan (DuMP) will be prepared for use 
+during the demolition phase (Work no. 1) and the construction of the 
+Power Generation Plant (Work no. 2), Gas Connection (Work nos. 3 & 
+4) and Electrical Connection (Work no. 5).  This will form part of the full 
+CEMP for the work(s) submitted and approved in writing by RCT prior 
+to works commencing. 
+3.3.4 
+A Construction Traffic Management Plan will be prepared to manage 
+construction traffic, as well as minimise effects of the works on 
+congestion and hence elevated vehicle emissions on the highway.  This 
+is a requirement under Schedule 2 Requirement 13 of the DCO so 
+would be submitted separately to the CEMP but will be suitably cross-
+referred and linked.  
+3.3.5 
+Construction/demolition activities associated with the greatest potential 
+for dust generation are: 
+ 
+Earthworks including excavation of topsoil, handling on site and 
+deposition; 
+ 
+Handling and storage of materials (including loading and 
+unloading); 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 18 - 
+ 
+Wind blow across disturbed/exposed site surfaces and materials; 
+and 
+ 
+ Mechanical operations such as crushing, drilling, concrete mixing 
+and cutting.  
+3.3.6 
+Best Practicable Methods (BPM) will be used to minimise the risk of 
+adverse effects from construction dust and causing nuisance or 
+damage to flora and fauna specific control measures for limiting 
+nuisance dust and exhaust emissions during construction are as 
+follows:  
+ 
+Site Management 
+i 
+Records of dust and air quality complaints to be kept, 
+including likely causes and mitigation measures to reduce 
+impacts if appropriate; 
+ii 
+On-site and off-site visual inspections to be undertaken and 
+recorded;  
+iii 
+Inspections shall be increased in frequency during periods of 
+high activity or prolonged dry, windy weather; and 
+iv 
+Keep site perimeter, fences etc clean. 
+ 
+Site Planning 
+v 
+Consideration of weather conditions, dust generating potential 
+of material to be excavated prior to commencement of works; 
+vi 
+Plan site layout to maximise distance from plant/stockpiles 
+etc. to sensitive receptors; 
+vii 
+If work within 20m of sensitive receptors cannot be avoided, 
+erect solid screens at least as high as stockpiles; and 
+viii 
+Dusty materials shall be removed from site as soon as 
+possible. 
+ 
+Demolition (where reasonably practicable): 
+ix 
+Use of water as a dust suppressant; 
+x 
+Cutting equipment shall use water as a dust suppressant or 
+incorporate suitable extraction/ventilation; and 
+xi 
+Use of enclosed chutes and skips where applicable;  
+ 
+Earthworks/Construction (where reasonably practicable): 
+xii 
+Dampening down of all potentially dusty activities; 
+xiii 
+Temporary covering of earthworks; 
+xiv 
+Removal of covers by area and not all at once; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 19 - 
+xv 
+Minimisation of drop heights;  
+xvi 
+Re-vegetation of exposed surfaces; 
+xvii Stockpiles will be formed and utilised for the shortest possible 
+time; 
+xviii Stockpiles will be formed such that there are no steep sides or 
+angular in form/shape; 
+xix 
+Stockpiles to be located away from the site boundary and 
+sensitive receptors wherever possible;  
+xx 
+Stockpiles to be covered or enclosed wherever possible; 
+xxi 
+Exposed soils to be re-vegetated as soon as practicable.  
+Near sensitive ecosystems or other sensitive receptors, 
+hessian/mulches or similar techniques to be considered where 
+it is not possible to re-vegetate or cover with topsoil; 
+xxii Minimise dust generating activities, particularly near sensitive 
+ecosystems or other sensitive receptors during prolonged dry, 
+dusty weather unless damping / other suppressants are used; 
+xxiii Ensure an adequate water supply to site and use water as 
+dust suppressant where applicable; 
+xxiv Ensure any site machinery is well maintained and in full 
+working order; 
+xxv Ensure equipment available for cleaning spills of dusty 
+material available at all times; and 
+xxvi Sand and aggregates shall be stored away from sensitive 
+receptors and screened/shielded.  Similarly concrete batching 
+shall take place away from receptors. 
+ 
+Trackout (where reasonably practicable): 
+xxvii If required due to site conditions vehicles to be washed and 
+cleaned effectively prior to leaving the site; 
+xxviii Effective vehicle cleaning and specific wheel-washing facilities 
+will be implemented at all site exits, including: hose pipes with 
+adequate water supply and pressure and mechanical wheel 
+spinners or brushes;  
+xxix An area of paving/hard standing will be implemented between 
+the washing facilities and the site exit;  
+xxx Hard surface haul routes to be used on-site wherever 
+possible, as well as preferred routes for vehicles.  
+xxxi Loads entering and leaving the site with dust generating 
+potential will use load covers; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 20 - 
+xxxii Vehicles to comply with site speed limits (15mph on hard 
+surfaces, 10mph on unconsolidated surfaces); 
+xxxiii Water assisted sweeping of local roads to be undertaken if 
+material is tracked out of site; 
+xxxiv Install hard surfacing as soon as practicable on site and 
+ensure that they are maintained in good condition; and 
+xxxv Haulage routes would be planned in order to avoid adversely 
+affecting air quality within the Aberdare Air Quality 
+Management Area. 
+3.3.7 
+To ensure that dust generated by construction works does not exceed 
+levels which could constitute a nuisance dust monitoring is proposed to 
+be undertaken at the northern end of the Power Generation Site, in 
+particular, in the vicinity of the Hirwaun Industrial Estate SINC. A real 
+time monitor for total suspended particulate is proposed, used as an 
+‘indicative instrument; only.  The monitoring station would be mobile 
+and would be moved around the site as principal activities move. 
+Should dust arisings at this location be found to exceed trigger levels 
+then additional dust control measures from the above list will be 
+applied. Trigger levels for the instrument, which would suggest 
+increasing risk emissions, will be agreed with RCT and NRW prior to 
+the commencement of construction.  
+3.3.8 
+It is proposed that solid hoarding be erected along the northern edge of 
+the Power Generation Plant site during demolition activities.  The 
+prolonged storage of debris on-site, in temporary stockpiles will be 
+avoided.  Vehicles removing demolition or site clearance materials 
+must have their loads effectively sheeted on all sides.  Crushing of 
+material for reuse, transportation or disposal shall be undertaken as far 
+away as possible from sensitive receptors.  
+3.3.9 
+On-site burning of waste material will be forbidden.  
+3.3.10 
+The number of handling operations shall be minimised, ensuring that 
+dusty material is not moved or handled unnecessarily.  Fine material 
+shall be delivered to site in bags.  Drop heights must be kept to a 
+minimum. 
+3.3.11 
+Hard-standing areas for vehicles entering, parking and leaving the 
+Project Site shall be provided, with wheel washing facilities at access 
+points where there is a risk of tracking mud onto local roads.  Plant and 
+wheel washing will be carried out in a designated area of hardstanding 
+at least 10 m from a watercourse or surface water drain.  Where this is 
+not possible alternative mitigation will be implemented.   
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 21 - 
+3.3.12 
+The performance of the wheel washing system will be maintained by 
+the regular removal of settled sediment from within the sump.  Run-off 
+from this area will be collected in a dedicated sump and water will be 
+recycled/re-used wherever possible.  Where recovery is not possible, 
+water from the sump system will be emptied to a dedicated storage 
+tank prior to its removal from site for authorised disposal by a suitably 
+licensed contractor. 
+3.3.13 
+Site roads shall be cleaned regularly, and damped down if necessary to 
+prevent nuisance dust.  Site vehicle movements shall be kept to a 
+minimum and, where possible, restricted to paved haulage routes.  
+Vehicle speeds will be limited to 10 mph on unconsolidated track and 
+15 mph on hard surfaces.  The idling of vehicles will be kept to a 
+minimum. 
+3.3.14 
+The main contractor will have responsibility on a day to day basis for 
+determining if either the nature of the activities on site or weather 
+conditions would be likely to result in the unacceptable transfer of dust 
+off site.  In cases where this is anticipated, remedial action will be taken 
+to minimise emissions, including the application of appropriate control 
+measures, or if necessary, the temporary suspension of works. 
+3.3.15 
+Good site management practices during the construction works will 
+help to prevent the generation of airborne dust.  It will be the 
+responsibility of the nominated main contractor and site manager to 
+ensure through the final CEMP that sufficient precautionary measures 
+to limit dust generation are in fact taken. 
+3.4 
+Contaminated Land and Groundwater 
+3.4.1 
+The CEMP will include a Demolition Method Statement which will apply 
+as necessary to each Work Package of the Project.  
+3.4.2 
+During construction, if piling were to be required to the depth of the 
+secondary aquifer A, mitigation measures set out in “Piling and 
+penetrative ground improvement methods on land affected by 
+contamination guidance on pollution prevention – NGWCLC Report 
+NC/99/73” would be prepared and agreed with NRW as part of the 
+CEMP in order to manage potential pollutant pathways. 
+3.4.3 
+Site investigations undertaken at an adjacent site to the Power 
+Generation Plant have not revealed levels of contamination which are 
+likely to pose a risk to human health or cause a statutory nuisance.  
+Further ground investigations will be undertaken at the Power 
+Generation Plant site prior to construction which will further define the 
+exact nature of ground conditions at the Power Generation Plant Site. 
+However, based on evidence to date, there are not anticipated to be 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 22 - 
+any significant issues with contamination at the Power Generation Plant 
+site or Electrical Connection.  
+3.4.4 
+Foundation design will be informed from further assessment of ground 
+conditions completed during environmental and geotechnical site 
+investigation. 
+3.4.5 
+Land under which the Gas Connection will be developed has remained 
+as undeveloped greenfield land and therefore there is low likelihood of 
+contamination.    
+3.4.6 
+Professional standards and guidance relating to contamination will be 
+consulted to provide advice on best practice mitigation measures which 
+will be employed during the construction/demolition phase of the 
+Project. 
+3.4.7 
+This multi-stage process is only to cover unexpected contamination. 
+3.4.8 
+Sensitive receptors are as follows:- 
+ 
+Construction workers (during excavation and works); 
+ 
+Site users; 
+ 
+Groundwater; and 
+ 
+Surface water bodies.  
+3.4.9 
+There is a small risk of construction workers coming into contact with 
+contaminated soils and groundwater during construction. 
+3.4.10 
+There will be no access to construction areas by the general public. 
+The site will be secured to avoid unauthorised access and contact with 
+contaminated soil or groundwater. 
+3.4.11 
+In the case that unidentified contaminant “hotspots” showing visual of 
+olfactory evidence of contamination are discovered during construction 
+works, the following procedure will be applied:  
+ 
+Stop work immediately; 
+ 
+Report the discovery to the construction manager; 
+ 
+Seal off the area to contain the spread of contaminants; 
+ 
+Clear the area to ensure there is nothing that could cause fire or 
+explosion; 
+ 
+Contact the regulator or local authority once it is confirmed that 
+contamination is found; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 23 - 
+ 
+Arrange for testing to be carried out and agree changes to the 
+existing contamination strategy; and 
+ 
+Record details of the incident, including photos and relevant 
+information on the Environmental Incident Report Form. 
+3.4.12 
+Any material which is excavated and free from visual and olfactory 
+evidence of contamination will be stockpiled and tested for metal (and 
+other determinants) for reuse on site.  Any soils which are considered 
+to be contaminated hotspots (either identified through testing or through 
+visual or olfactory evidence of contamination on site) will be removed 
+and disposed of by a suitably licensed contractor or treated on-site.  
+3.4.13 
+All water from dewatering activities shall either be transported off site 
+by a suitably licensed contractor or treated on site.  Any proposed 
+discharges to existing land drains (or other surface water bodies) will 
+be undertaken in accordance with the requirements of the Environment 
+Agency (EA) Regulatory Position Statement on temporary water 
+discharges from excavations, which is applied by NRW.  
+3.4.14 
+Where soils are imported onto the site then they shall be subject to 
+testing to ensure contaminated soils are not being brought onto the 
+site. 
+3.4.15 
+Speed restrictions will be imposed onsite to minimise disturbance of 
+bare surfaces.  Measures shall also be put into place to ensure that the 
+length of time bare surfaces are left exposed are minimised. 
+3.4.16 
+Precautions will be undertaken in accordance with NRW's Pollution 
+Prevention Guidance to ensure that silt laden runoff, arisings or 
+chemicals are not allowed to enter watercourses.  Measures will 
+include, testing of arisings to see whether they are suitable for reuse on 
+site, siting stockpiles well away from watercourses, covering stockpiles 
+in inclement weather, use of impermeable liners and use of fixing 
+agents.  
+3.4.17 
+The final CEMP will identify any potential human health risks to 
+construction workers or future site users so that appropriate 
+mitigation/remediation can be put in place. 
+3.4.18 
+Although the main contractor undertaking the works will be required to 
+produce a risk assessment and method statement detailing how they 
+will minimise the risk of coming into contact with potentially 
+contaminated materials, the following can be considered as a guide for 
+the final CEMP: 
+3.4.19 
+Compliance with the mitigation measures set out in the following 
+documents: 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 24 - 
+ 
+Protection of Workers and the general public during the 
+development of contaminated land (HSE 1991); and 
+ 
+If applicable, a guide to safe working on contaminated sites R132 
+(CIRIA 1996). 
+3.4.20 
+Work will be carried out in accordance with best practices and safe 
+working practices will be maintained.  
+3.4.21 
+Construction workers will wear appropriate personal protective 
+equipment (PPE) for the nature of works being undertaken.  This will 
+involve standard site PPE, plus overall, gloves and eye protection. 
+3.4.22 
+Additional measures that will likely be taken are:  
+ 
+Eating, drinking and smoking will be limited to a designated ‘clean’ 
+area of the site;  
+ 
+Site welfare facilities will be made available;  
+ 
+All workers will be required to wash their hands and remove 
+overalls/boots when moving from ‘dirty’ to ‘clean’ areas of the site;  
+ 
+Any soils excavated which are considered to be potentially 
+contaminated (e.g. visual or olfactory evidence) will be reported to 
+site management and left alone until their appropriate treatment.  
+Suitable training will be provided to site personnel to ensure the 
+correct identification of potentially contaminated soils by olfactory 
+means; and 
+ 
+Water inflows to excavated areas will be minimised by the use of 
+lining materials, good housekeeping techniques and by the control 
+of drainage and construction materials in order to prevent the 
+contamination of ground water.  Site personnel will be made aware 
+of the potential impact on ground and surface water associated with 
+certain aspects of the construction works to further reduce the 
+incidence of accidental impacts. 
+3.4.23 
+Measures shall be taken to avoid/minimise the potential for fuel and 
+chemical spills.  A spill response procedure will also apply on-site; and 
+indicative procedure is shown in Insert 3.1.   
+ 
+ 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 25 - 
+Insert 3.1: Emergency Spill Response Procedure 
+ STOP any more material spilling, e.g. 
+right oil drums, close valves; extinguish 
+fires using fire extinguisher. Switch off 
+sources of ignition e.g. switch off plant.  
+But only if it is safe to do so. 
+CONTAIN the spillage using 
+bunds of earth or sand, drip 
+trays, booms and/or spill 
+materials immediately.
+Check the spill has not reached any drains/manholes, 
+watercourses, etc.  Stop the flow if possible.  Divert the 
+flow from drains/watercourses.  Bund drains/manholes 
+to stop the substance entering the drainage system.   
+Do not wash spillage or runoff into the drainage system.
+NOTIFY SITE MANAGER immediately giving the 
+following information:
+ 
+whether the material has entered the drain/
+watercourse or is affecting the environment
+ 
+substance involved
+ 
+location
+ 
+cause of the incident
+ 
+volumes involved
+SPILLAGE TYPE
+MAJOR
+Cannot be controlled; pollution has entered or could enter a drain or watercourse.  
+Report to Site Manager/Environmental Advisor immediately.
+MINOR  
+Can be controlled; pollution has not entered, and cannot enter a drain or watercourse
+STOP – CONTAIN – NOTIFY – CLEAN UP – INVESTIGATE  
+EMERGENCY SPILL RESPONSE PROCEDURE
+What to do if you find a spillage of any substance on site.
+Identify substance spilt, obtain MSDS/
+COSHH information and correct PPE.
+Site Manager immediately NOTIFIES the 
+ENVIRONMENTAL ADVISOR who informs the 
+relevant persons i.e. Client, Regulatory Authorities.
+CLEAN UP the spill:
+MAJOR – call in expert advice/specialist Clean-
+up Contractor
+MINOR – clean up the spill using appropriate 
+spill materials.
+Most senior person on site becomes the 
+RESPONSIBLE PERSON and STOPS the 
+work immediately.
+CLEAN UP waste materials:
+ 
+Bag-up used spill materials
+ 
+Remove contaminated ground and wastewater
+Dispose of waste materials as Hazardous Waste
+RESPONSIBLE PERSON fills in 
+Environmental Incident Report Form 
+and passes to ENVIRONMENTAL 
+ADVISOR.
+ENVIRONMENTAL ADVISOR INVESTIGATES 
+the incident and determines root causes; lessons 
+learnt; and corrective actions to be taken to 
+prevent recurrence.  This information is fed back 
+into the system via Training, Toolbox Talks, 
+Briefings, Bulletins, and Procedural changes as 
+required.
+STOP
+CONTAIN
+NOTIFY
+CLEAN UP
+INVESTIGATE
+ 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 26 - 
+3.4.24 
+A Site Waste Management Plan (SWMP) will form part of the CEMP, 
+for use during the demolition and construction stages.  This will ensure 
+waste management provisions complement the construction activities 
+on site and that wastes emanating from the project are dealt with in an 
+appropriate manner and their management follows the waste hierarchy. 
+The SWMP will identify the waste types arising from the project, 
+estimate quantities of each waste type and identify treatment. 
+3.5 
+Surface Water 
+3.5.1 
+The Power Generation Plant site is in the hydraulic catchment of the 
+River Camnant. The upstream reaches of this watercourse are the Nant 
+yr Ochain which is culverted under the site. Furthermore the Gas 
+Connection runs through an area of marshy agricultural land parts of 
+which form the Hirwaun Common Site of Importance Nature 
+Conservation (SINC).  
+3.5.2 
+In order to ensure that there will be no discharges to any watercourses 
+as a result of construction activities at the Project Site, the following 
+matters shall be included in the detailed CEMP: 
+ 
+Site infrastructure will be designed in accordance with EA pollution 
+Prevention Guidelines and industry best practise. 
+ 
+Oil storage will be undertaken in accordance with the Control of 
+Pollution (Oil Storage) Regulations 2001.  Storage tanks will be 
+located on an impervious base provided with bund walls to give a 
+containment capacity of the greater of 110 per cent of the largest 
+tank volume within the bund or 25 per cent of the total storage 
+capacity of all tanks within the bund.  All valves and couplings will 
+be contained within the bunded area; 
+ 
+Any surface water which has the potential to be contaminated by 
+hydrocarbons (e.g. from car parks), which are used during the 
+construction phase, to be passed through oil interceptor(s) prior to 
+discharge;   
+ 
+Measures will be taken to ensure that no leachate, or any surface 
+water that has the potential to be contaminated, will be allowed to 
+enter directly or indirectly into any water course, underground strata 
+or adjoining land; 
+ 
+Provisions will be made so that all existing drainage systems 
+continue to operate; 
+ 
+Water inflows to excavated areas will be minimised by the use of 
+lining materials, good housekeeping techniques and by the control 
+of drainage and construction materials in order to prevent the 
+contamination of ground water.  Site personnel will be made aware 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 27 - 
+of the potential impact on ground and surface water associated with 
+certain aspects of the construction works to further reduce the 
+incidence of accidental impacts; 
+ 
+Refuelling of construction vehicles and equipment will be restricted 
+to a designated area with properly designed fuel tanks and bunds 
+and suitable operating procedures;  
+ 
+All static plant and any hazardous materials stored at the Power 
+Generation Plant Site will be located within specifically designed 
+areas with an impermeable base and with secondary containment 
+designed to contain 110% of the maximum stored material. The 
+drainage of these areas will incorporate oil separators designed 
+and manufactured in accordance with BS EN 858-1 to ensure no 
+contaminated runoff enters the surface water sewer or drains to a 
+watercourse. A detailed emergency response plan will be prepared 
+which will be enacted in the event of a spill of hazardous material to 
+minimise the risk of environmental impacts; 
+ 
+Construction access roads will be designed to ensure no increased 
+flood risk or silt production; 
+ 
+Temporary wheel washing facilities will be installed to prevent 
+transfer of soil sediment onto nearby public roads. Runoff from 
+wheel wash facilities will be collected and removed or treated prior 
+to discharge; 
+ 
+If deemed necessary, measures such as temporary drainage 
+routes silt fences and silt bunds will be constructed to prevent 
+heavily silted discharge to surface waters and to attenuate high 
+flows; 
+ 
+At the gas pipeline, pre- and post-construction agricultural under-
+drainage schemes will be designed and installed to an agreed 
+specification to ensure similar surface water flows pre- and post- 
+construction and to ensure no increase in sediment, silt or nutrient 
+runoff; 
+ 
+A Soil Handling Strategy will be formulated, including a programme 
+of soils de-compaction, loosening and aftercare aligned to the 
+drainage schemes. This will facilitate soil structure recovery and 
+natural drainage pathways to return soil water retention / storage to 
+pre-construction status; 
+ 
+During construction of the pipeline, care will be taken to ensure that 
+silt laden water does not enter watercourses. This will be done by 
+plugging existing drains, intercepting surface water above the 
+working width and where appropriate by leaving filter strips of 
+unstrapped topsoil along main watercourses / ditches. Topsoil will 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 28 - 
+be replaced over post-construction drains as soon as possible to 
+prevent site water from getting into drains; 
+ 
+For construction of the pipeline, any de-watering pumping will be 
+undertaken using an appropriately sized pump at such a rate to 
+avoid disturbance or erosion of stream banks.; 
+ 
+The Main Contractor will be required to regularly inspect all pumps, 
+pipes and connections; 
+ 
+For construction of the pipeline, temporary lagoons, siltation tanks 
+or filter membranes may be considered at sensitive outfall locations 
+or where deeper excavations are proposed; 
+ 
+Any stockpiled material will be located away from watercourses to 
+avoid pollution runoff and best practice working guidelines will be 
+followed to avoid spillages near watercourses;   
+ 
+The final CEMP will be developed including a site environmental 
+and health and safety management policy to mitigate construction 
+risks. General rules apply to site works to ensure that no significant 
+impact to identified receptors will occur during construction. Best 
+practice recommendations for the prevention of contamination will 
+be outlined in the final CEMP, both which will be developed and 
+discussed with the Local Authority prior to commencement of 
+construction;  
+ 
+The draft Method Statement for protection of the nearby SINCs 
+presented at Appendix 8.10 of the ES (Document Reference 6.1.0) 
+will be revised and included within the final CEMP. This Method 
+Statement will include measures to prevent line rush establishing 
+through inappropriate soil handling. This Method Statement is to be 
+followed; and  
+ 
+The 
+British 
+Standard 
+Code 
+of 
+Practice 
+for 
+Earthworks 
+BS 6031:1981 and British Standard Code of Practice for 
+Foundations BS 8004:1086 contains detailed methods that will be 
+adopted during construction.  
+3.6 
+Ecology 
+3.6.1 
+Relevant works to protect/mitigate impacts on ecology and biodiversity 
+are described in more detail in the ES.  Appropriate regard for the 
+protection of local habitats and protected species during the 
+construction works will be included within the CEMP and will 
+incorporate the following measures:  
+ 
+As far as is practicable, work compounds and access tracks etc. 
+will not be located in, or adjacent to, areas that maintain habitat 
+value or are within areas supporting protected species; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 29 - 
+ 
+The Construction footprint will be demarcated with robust fencing, 
+to ensure a buffer of at least five metres between the construction 
+footprint and any water bodies is preserved during construction. 
+Furthermore it will prevent access to areas outside working areas, 
+particularly in areas adjacent to features of interest/value; 
+ 
+Briefings and instruction will be given to contractors regarding the 
+biodiversity issues associated with the site and protocols and 
+contingency plans will be established to deal with incidents should 
+they arise including in relation to storage of potentially dangerous 
+materials; 
+ 
+The demolition of all buildings will be undertaken under statement 
+European Protected species licence, to be obtained from Natural 
+Resources Wales, and the supervision of a licensed bat worker;   
+ 
+Where possible, all vegetation clearance prior to construction shall 
+take place between September and February (depending on 
+climatic conditions in a given year), to prevent damage to any nests 
+of breeding birds; 
+ 
+Where vegetation cannot be removed outside of the nesting 
+season, pre-clearance checks must be undertaken by an 
+experienced ecologist to identify if any birds are nesting within or 
+close to the vegetation due to be removed.  To ensure legal 
+compliance if a bird nest is found, no works will be undertaken in 
+that area (approximately 10 m in all directions for most bird 
+species) until the young birds are no longer dependent on the nest 
+site;   
+ 
+Works will be undertaken during daylight hours (i.e. 7:00-18:30) 
+during the bat active season and artificial lighting overnight will be 
+minimised. Where this is not possible, low sodium lighting will be 
+used as this is known to have a minimal impact on bats relative to 
+the majority of other types of construction lighting; 
+ 
+Contaminants will not to be stored near areas of hydrological 
+sensitivity;  
+ 
+The draft Method Statement for protection of the nearby Sites of 
+Important Nature Conservation (SINCs) presented at Appendix 
+8.10 of the ES (Document Reference 6.1.0) will be revised and 
+included within the final CEMP in respect of Work nos 1, 3 and 4 
+(i.e. those works which are proximate to the Hirwaun Industrial 
+Estate SINC and Hirwaun Common SINC) to be submitted under 
+Requirement 12, once the detailed construction arrangements are 
+confirmed.  This Method Statement is to be followed. Furthermore, 
+if developed, Method Statements for marsh fritillary butterfly must 
+be incorporated into the final EcMP and cross referred in the 
+CEMP; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 30 - 
+ 
+Ecological Management Plan(s) will be produced for each Work 
+under Requirement 10 and must be given due regard as part of the 
+final CEMP; 
+ 
+A detailed soil handling and reinstatement strategy will be 
+developed as part of the final CEMP; 
+ 
+Solid hoarding shall be erected along the northern edge of the 
+Power Generation Plant site during demolition; 
+ 
+Any broad-leaved semi-natural woodland habitat lost from outside 
+the permanent easement of the Gas Connection will be reinstated 
+following construction using native species; 
+ 
+Works will be programmed to occur outside periods of high flow i.e. 
+will not be carried out after periods of heavy rainfall; 
+ 
+Prior to each watercourse diversion commencing, in channel 
+vegetation (if present) will be removed and placed on the banks of 
+the watercourse downstream of the crossing point; 
+ 
+The establishment of watercourse diversions will follow a careful 
+procedure including the construction of a dam up stream, followed 
+by the over-pumping of the watercourse downstream, trench 
+excavation and laying of pipeline, trench reinstatement and 
+reinstatement of watercourse; 
+ 
+A pre-construction Otter Monitoring Survey will be undertaken 
+under Requirement 10 but would inform preparation of the detailed 
+CEMP; 
+ 
+A simple Otter Method Statement will be included in the EcMP ( to 
+capture measures to ensure that otters can cross the working width 
+/ working corridor. As otters are most active around dawn and dusk 
+(and therefore temporary obstructions during daylight construction 
+are unlikely to require specific mitigation), fencing will be used 
+outside working hours to create suitable commuting routes if 
+necessary; Any trenches / pits which are excavated adjacent to 
+suitable habitat are to be covered over outside working hours, or 
+include an appropriate ramp to allow an otter to escape;  
+ 
+All works in the vicinity of watercourse crossings will be undertaken 
+under the guidance of a suitably qualified Ecologist; During 
+construction, instead of creating new gaps in linear features, 
+existing gaps will be utilised wherever possible;  
+ 
+Light spillage onto linear features will be avoided by the use of 
+directional lighting. The project will have regard to The Institute of 
+Lighting Engineers/Bats Conservation Trust Best Practice 
+Guidance in relation to lighting and bats; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 31 - 
+ 
+Tree and shrub clearance will take place outside of the breeding 
+bird season; 
+ 
+The demolition of the two buildings within the Power Generation 
+Plant compound which are used by barns swallows will be 
+mitigated for by installing suitable ledges or readymade nests within 
+the proposed bat mitigation structure; 
+ 
+Measures to avoid the incidental mortality or injury of reptiles and 
+amphibians will be incorporated into vegetation and site clearance 
+methodologies; 
+ 
+A pre-construction ecological constraints survey will be undertaken 
+to confirm the ecological status of the site prior to demolition and 
+construction works commencing; 
+ 
+In relation to temporary effects on marshy grassland habitats, a 
+detailed soil handling and reinstatement strategy will be developed 
+as part of the CEMP.  This will be informed by pre-construction soil 
+and vegetation surveys.  This will ensure impacts on marshy 
+grassland soils within the Gas Connection route are minimised 
+during site clearance, construction and restoration, maximising the 
+success of the habitat restoration; 
+ 
+A pre-construction survey of the site for marsh fritillary larval food-
+plants (i.e. any of the scabious species) will be undertaken in the 
+summer preceding construction of the Gas Connection. Should any 
+food-plants be found the survey will be extended to include a 
+search for larval webs in late summer; 
+ 
+In the unlikely event marsh fritillary are detected then a specific 
+method statement will be developed to ensure construction-related 
+impacts on individual butterflies/larvae are avoided, for example by 
+translocation of larval food webs to outside the construction 
+footprint. Any such Method Statement, if required would be 
+developed in consultation with NRW and the RCTCBC Ecologist; 
+ 
+Any broad-leaved semi-natural woodland habitat lost from outside 
+the permanent easement of the Gas Connection will be reinstated 
+following construction using native species.  Native species only 
+will be used, sourced from stock of local provenance if possible; 
+ 
+During construction, the working width will also be minimised as far 
+as possible; 
+ 
+Demolition of buildings known to be used by breeding birds will 
+either take place outside the breeding bird season, or will be 
+preceded by blocking potential nesting locations in the winter prior 
+to demolition;   
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 32 - 
+ 
+Additional tree planting will also be provided immediately west of 
+the A4061 at the southern end of the Gas Connection;   
+ 
+The Landscape Strategy will also include reinstating any species-
+poor hedgerows removed with species-rich hedgerow planting, and 
+providing an increased diversity of tree/scrub species in 
+replacement woodland/scrub planting mixes.  All re-instatement 
+planting will be native species;  
+ 
+In addition bird boxes will be erected on retained vegetation within 
+HPL’s ownership; 
+ 
+Monitoring of breeding bird populations will take place 1 and 3 
+years post-construction;  
+ 
+Reptiles and amphibians In order to ensure the incidental mortality 
+of reptiles/amphibians is avoided, suitable terrestrial habitat for 
+these species will be cut carefully to a height of under 15 cm prior 
+to construction and site clearance commencing.  This will 
+encourage those species to leave the Project Site; 
+ 
+Otters The works programme will be staged so as to minimise the 
+length of time works are carried out along any watercourse affected 
+by construction of the Gas Connection; 
+ 
+Watercourse crossings would be worked on for the minimum 
+duration necessary (with the intent being for the duration of in-
+channel works to last no more than one day per watercourse); 
+ 
+Trenches and holes shall be covered when not being worked on to 
+prevent entry by mammals and where this is not possible exist and 
+escape routes such as ramps or mammal ladders will be provided; 
+and 
+ 
+Open entrances to pipes and pipelines shall be covered when not 
+being worked on to prevent access by mammals.  
+3.7 
+Landscape and Visual Impacts 
+3.7.1 
+The following mitigation measures, as outlined in the ES will be 
+implemented during the construction phase in order to specifically limit 
+impacts on landscape and visual amenity of the surrounding area:  
+ 
+The retention and management of existing vegetation wherever 
+possible; 
+ 
+Planting, hard landscaping and other mitigation substantially in 
+accordance with ES Figure 11.5; 
+ 
+Implementation of the Lighting Strategy; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 33 - 
+ 
+Temporary storage of topsoil and any other material considered of 
+value for retention. Where practical stores would be sited to screen 
+the construction works; 
+ 
+Agreed site access points; 
+ 
+Maintenance of tidy and contained site compound; 
+ 
+Where feasible, perimeter screen planting will be undertaken in 
+advance of the works to be effective on completion of the 
+construction works;  
+ 
+Where practicable storage of topsoil will take place, with siting, to 
+screen and/or provide a physical buffer between the construction 
+works and more sensitive receptors;  
+ 
+Temporary protection (in accordance with Best Practice) of any 
+boundary vegetation to be retained;  
+ 
+The design and layout of site construction areas will reduce 
+adverse impacts arising from temporary security fencing and 
+lighting;  
+ 
+The removal of all temporary structures and stockpiles when no 
+longer required;  
+ 
+Spreading of topsoil, reseeding and planting within the Project Site 
+and adjoining areas that are to be reinstated as soon as possible 
+after sections of work are complete;  
+ 
+Management of all reinstates area in accordance with a 5 year 
+aftercare plan to help ensure full and successful establishment of 
+the planting to the approval of the planning authority; and 
+ 
+The prompt reinstatement of temporary construction areas when no 
+longer required.  
+3.8 
+Archaeology / Cultural Heritage 
+3.8.1 
+An assessment of the potential archaeological and cultural heritage 
+resource at the site has been undertaken as part of the ES.  Although 
+the potential impacts on archaeology are low, they cannot be ruled out 
+completely.  
+3.8.2 
+A Written Scheme of Investigation (WSI) will be prepared in advance of 
+demolition / construction commencing.  This will set out investigative 
+measures such as evaluation trenching prior to construction, and 
+monitoring of ground disturbance during construction and topsoil 
+stripping activities.   
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 34 - 
+3.9 
+Artificial Lighting 
+3.9.1 
+The Project Site will require artificial lighting during construction to 
+provide a safe working site during hours of darkness.  An outline 
+lighting strategy has been prepared to support the DCO Application 
+(document reference [6.2.0] Appendix 11.2) and compliance with this is 
+secured by Requirement 16 of Schedule 2 of the DCO.  It shall also 
+inform the CEMP in terms of general design objectives that will be used 
+to ensure that adverse effects of lighting associated with demolition and 
+construction of the Project are minimised are listed below: 
+ 
+Use appropriately designed luminaires for the task at hand;  
+ 
+Use louvres and shields to prevent undesirable light break-out; 
+ 
+Demolition and construction lighting shall be directed away from all 
+sensitive receptors;  
+ 
+Preference shall be given to several, lower lighting units rather than 
+tall, wide beam lighting units to illuminate large areas as it will limit 
+light trespass, glare and sky glow from the plant; 
+ 
+Vehicle lights shall be properly directed (conforming to MOT 
+requirements) and lenses must be intact to prevent un-necessary 
+glare and light intrusion;  
+ 
+Lighting shall be reduced or switched off when not required for 
+safety purposes. Security lighting shall be kept at the minimum 
+level needed for visual and security protection; and   
+ 
+If appropriate, the use of infra-red floodlighting and CCTV systems 
+shall be considered for security to reduce the need for visible 
+lighting outside working hours.  
+3.9.2 
+Specific ecological design objectives that will be implemented to ensure 
+that adverse effects of lighting associated with demolition and 
+construction of the Project are minimised are listed below: 
+ 
+There shall be no light intrusion beyond the boundary of the 
+proposed Project Site and particularly within the SINC to the north 
+of the Project Site which is a habitat that supports breeding birds 
+and bats; 
+ 
+There shall be no night-time working within the SINC while 
+construction of the Gas Connection and above ground facility takes 
+place; 
+ 
+No task lighting shall be used between the Power Generation Plant 
+to the north and the proposed laydown area (in the existing car 
+park) to the south to avoid fragmentation of habitats at night-time; 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 35 - 
+ 
+No temporary lighting shall be installed along the Gas Connection 
+corridor between the main site and the working area of the pipeline 
+to avoid fragmentation of habitats used by bats at night-time; and 
+ 
+Dark corridors shall be maintained on hedgerows and watercourses 
+and any other linear features by avoiding light trespass on these 
+areas. This will avoid the fragmentation of habitat used by species 
+such as bats and also otters that use these features to move at 
+night-time. 
+ 
+ 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP clean 
+Prepared by Parsons Brinckerhoff 
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 36 - 
+4 
+ CONCLUSIONS 
+4.1.1 
+This outline CEMP provides a framework on which the construction 
+contractor will be required to base a more detailed CEMP.  
+4.1.2 
+Although no significant impacts are predicted as a result of the 
+construction phase of the Project, the mitigation measures outlined 
+herein will ensure that the lowest level of risk possible is placed on the 
+environment.  
+4.1.3 
+Mitigation measures have been outlined to limit impacts of noise levels, 
+air quality, contaminated land and groundwater, ecology, archaeology 
+and cultural heritage, landscape and visual amenity and artificial 
+lighting. These mitigation measures shall be taken forward for further 
+consideration when preparing the detailed CEMP.   
+4.1.4 
+It has also outlined a series of general best practice principles which 
+shall be adhered to, including; a register of environmental impacts, the 
+production of risk assessments and Method Statements, the adherence 
+to Site Environmental Standards, the production of an operations 
+Environmental Management System, dealing with Public Relations, the 
+monitoring and measurement of construction activities and the roles 
+and responsibilities of key site staff.   
+ 
+ 
+The Hirwaun Power (Gas Fired Power Station) Order 
+ 
+6.2.0 Environmental Statement Appendices Volume [A] [part] 
+[4.1 – updated Outline Construction Environmental 
+Management Plan] 
+ 
+ 
+Planning Act 2008 
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number: 
+ 
+ 
+EN010059 
+Document Reference:  
+ 
+ 
+CEMP1 
+Regulation Number: 
+ 
+ 
+ 
+5(2)(a) 
+Author: 
+ 
+ 
+ 
+ 
+Parsons Brinckerhoff 
+ 
+Revision 
+ 
+Date 
+ 
+ 
+Description 
+ 
+ 
+1 
+ 
+ 
+September 2014 
+Examination version (comparite) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HIRWAUN POWER PROJECT  
+OUTLINE CONSTRUCTION 
+ENVIRONMENTAL MANAGEMENT  
+PLAN [CEMP]  
+Hirwaun Power Limited 
+ 
+Final
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+CONTENTS 
+Page 
+1 
+Introduction 
+7 
+1.1 
+Overview 
+7 
+1.2 
+Purpose of this document 
+7 
+1.3 
+Project Description 
+9 
+2 
+Outline CEMP – General Information 
+10 
+2.1 
+Register of Environmental Impacts 
+10 
+2.2 
+Risk Assessments 
+10 
+2.3 
+Method Statements 
+11 
+2.4 
+Site Environmental Standards 
+11 
+2.5 
+Environmental Management System 
+12 
+2.6 
+Public Relations 
+12 
+2.7 
+Monitoring and Measurement 
+13 
+2.8 
+Roles and Responsibilities 
+13 
+3 
+Outline CEMP – Specific Measures 
+15 
+3.1 
+Introduction 
+15 
+3.2 
+Noise and Vibration 
+15 
+3.3 
+Air Quality 
+17 
+3.4 
+Contaminated Land and Groundwater 
+21 
+3.5 
+Surface Water 
+26 
+3.6 
+Ecology 
+28 
+3.7 
+Landscape and Visual Impacts 
+32 
+3.8 
+Archaeology / Cultural Heritage 
+33 
+3.9 
+Artificial Lighting 
+34 
+4 
+Conclusions 
+36 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 3 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+GLOSSARY 
+Above Ground 
+Installation 
+AGI 
+Situated within the Gas Connection site (Work No 4A) and 
+containing the MOC and PTF. 
+ 
+*The other ‘above ground installation’ comprising the natural gas 
+receiving station and compound is part of the Power Generation 
+Plant site (Work No 2B). 
+Best Practicable 
+Means 
+BPM 
+Best Practicable Means is a term applied with regulations on 
+limiting pollutant discharges with regard to the abatement 
+strategy. 
+Closed-Circuit 
+Television 
+CCTV 
+Closed-Circuit Television 
+Outline Construction 
+Environmental 
+Management Plan 
+(CEMP): 
+CEMP 
+Refers to this document and provides an outline of the main 
+environmental considerations which should be considered during 
+construction of the Project and considered further in the final 
+CEMP.  
+ 
+Required CEMP 
+ 
+- 
+Refers to the CEMP required by the DCO as defined by 
+RCTCBC 
+ 
+Final CEMP 
+ 
+- 
+Refers to the CEMP produced by the main contractor and agreed 
+by RCTCBC 
+ 
+Construction Traffic 
+Management Plan 
+ 
+CTMP 
+Construction Traffic Management Plan involves the management 
+of pedestrians, vehicles and equipment, which are located on-
+site. 
+ 
+DCO Application 
+- 
+The application for a DCO made to the Secretary of State under 
+section 37 PA 2008 in respect of the Project, required pursuant 
+to section 31 PA 2008 because the Project constitutes a 
+Nationally Significant Infrastructure Project under section 14 
+(1)(a) and section 15 PA 2008 by virtue of being an onshore 
+generating station in England or Wales of 50 MWe capacity or 
+more 
+Development Consent 
+Order 
+DCO 
+Consent by a UK Government Minister for a Nationally 
+Significant Infrastructure Project. A DCO can incorporate or 
+override the need for a variety of consents which would 
+otherwise be required for a development, including planning 
+permission. A DCO can also include rights of compulsory 
+acquisition. A DCO is made in the form of a Statutory Instrument. 
+The Developer 
+- 
+Means Hirwaun Power Limited (HPL) 
+Draft DCO 
+- 
+The draft DCO which accompanies the DCO Application 
+(Document Number: [3.1]) 
+Environment Agency 
+(the equivalent body 
+in Wales being 
+Natural Resources 
+EA 
+Executive Non-departmental Public Body responsible to the 
+Secretary of State for Environment, Food and Rural Affairs. 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 4 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+Wales) 
+Ecological 
+Management Plan 
+EcMP 
+Ecological Management Plan is a synthesis of all proposed 
+mitigative and monitoring actions, set to a timeline with specific 
+responsibility assigned and follow-up actions defined. It is 
+normally incorporated as part of the Environmental Management 
+Plan (EMP), one of the most important outputs of the 
+environmental assessment process. 
+Electrical Connection 
+- 
+A new underground electrical cable connection to export 
+electricity from the Power Generation Plant into the national 
+electricity transmission system at the Rhigos Substation (Work 
+No. 5 in the Draft DCO) 
+Electrical Connection 
+Route Corridor 
+- 
+The route of the Electrical Connection (Work No. 5 in the Works 
+Plan) 
+Environmental Health 
+Officer 
+ 
+EHO 
+Environmental health officers make sure that people's living and 
+working surroundings are safe, healthy and hygienic. 
+Environmental 
+Statement 
+ES 
+The final document which provides a comprehensive discussion 
+on the Environmental Impact Assessment. 
+Gas Connection 
+- 
+A new underground gas pipeline connection to bring natural gas 
+to the Power Generation Plant from the existing high pressure 
+gas network NTS in the vicinity of the proposed Project Site 
+including the above ground infrastructure (AGI) for the gas 
+pipeline at the point of connection to the NTS, as well as a new 
+permanent access to the AGI (Works No. 3 & 4 in the Draft 
+DCO); 
+Gas Connection 
+Route Corridor 
+- 
+The route of the Gas Connection, including the site of the AGI 
+and the new access to the AGI (Works No. 3 & 4 in the Works 
+Plan). 
+Hirwaun Power 
+Limited 
+HPL 
+Hirwaun Power Limited is a subsidiary established by Watt 
+Power Limited (WPL).  WPL has been established to develop 
+flexible gas fired generation assets to support the UK 
+Government drive to a low carbon economy.  WPL is resourced 
+through Stag Energy, a company founded in 2002; 
+Kilometres per Hour 
+Km/h 
+Measurement of distance travelled over an hour. 
+Mega Watt Electrical 
+MWe  
+Measurement of electrical power. 
+MIfA 
+MIfA 
+A Member of the Institute for Archaeologists 
+Ministry of Transport 
+requirements 
+MOT 
+A compulsory annual test for safety and exhaust emissions of 
+motor vehicles of more than a specified age. 
+Nationally Significant 
+Infrastructure Project 
+NSIP  
+The Project constitutes a Nationally Significant Infrastructure 
+Project (NSIP) by virtue of s.14(1)(a) and s.15 of the Planning 
+Act 2008 (PA 2008) which include within the definition of a NSIP 
+any onshore generating station in England or Wales of 50 MWe 
+capacity or more. 
+National Transmission 
+System 
+NTS  
+A network of gas pipelines throughout the United Kingdom that 
+supply gas to power stations from natural gas terminals situated 
+on the coast, and also gas distribution companies which lead 
+indirectly to homes. 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 5 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+ 
+ 
+ 
+Natural Resources 
+Wales 
+NRW  
+A regulatory authority and principal adviser to the Welsh 
+Government on the environment, enabling the sustainable 
+development of Wales’ natural resources for the benefit of 
+people, the economy and wildlife. Made up of the former 
+Environment Agency Wales, Countryside Commission Wales 
+and Forestry Commission Wales. 
+Personal Protective 
+Equipment 
+PPE 
+Personal protective equipment refers to protective clothing, 
+helmets, goggles, or other garments or equipment designed to 
+protect the wearer's body from injury. 
+Planning Act 2008 
+PA 2008  
+UK legislation which  passes responsibility for dealing with 
+development consent applications for NSIPs to the Planning 
+Inspectorate , who will examine applications and make 
+recommendations for a decision by the relevant Secretary of 
+State (the Secretary of State for Energy and Climate Change in 
+the case of energy NSIP applications).  
+Power Generation 
+Plant 
+- 
+A SCGT gas fired ‘peaking’ power generating plant capable of 
+providing up to 299 MWe (Work No. 2 in the Draft DCO); 
+Power Generation 
+Plant Site 
+- 
+The site of the Power Generation Plant (Work No. 2 in the Works 
+Plan); 
+Project 
+- 
+The Power Generation Plant, the Electrical Connection and the 
+Gas Connection together; 
+ 
+Project Site 
+- 
+The site of the Project corresponding to the Order Limits of the 
+Draft DCO; 
+ 
+Rhondda Cynon Taf 
+County Borough 
+Council 
+RCTCBC 
+The administrative body and local planning authority and 
+highways authority for the County Borough of Rhondda Cynon 
+Taf. 
+Simple Cycle Gas 
+Turbine 
+SCGT 
+A Simple Cycle Gas Turbine is a type of gas turbine most 
+frequently used in the power generation, aviation, and oil and 
+gas industry (electricity generation and mechanical drives). The 
+simple cycle gas turbine differs from a combined cycle operation 
+in that it has only one power cycle (ie. no provision for waste 
+heat recovery). 
+Site of Importance for 
+Nature Conservation 
+SINC 
+A Site of Importance for Nature Conservation 
+SHE Officer 
+- 
+The site safety, health and environment officer 
+Secretary of State for 
+Energy and Climate 
+Change 
+SoS 
+Her Majesty's Principal Secretary of State for Energy and Climate 
+Change is a British government cabinet position. 
+Works Plan 
+ 
+Plan showing the numbered works referred to in the Draft DCO 
+(Document Number: [2.3]); 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 6 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+1 
+INTRODUCTION  
+1.1 
+Overview 
+1.1.1 
+Hirwaun Power Limited (HPL) is making an application for a 
+Development Consent Order (DCO) to the Secretary of State for 
+Energy and Climate Change (SoS).  The DCO will authorise HPL to 
+construct and operate a new 299 megawatt electrical (MWe) simple 
+cycle gas turbine (SCGT) Power Generation Plant together with integral 
+Gas and Electrical Connections (hereafter referred to as the Project).  
+The Power Generation Plant will be located on the Hirwaun Industrial 
+Estate between Rhigos and Hirwaun in South Wales.   
+1.2 
+Purpose of this document  
+1.2.1 
+This document provides an outline from which a final Construction 
+Environmental Management Plan (CEMP) will be produced for each 
+Work in the DCO, which willto govern all parts of the construction works 
+(including site preparation/demolition) associated with the Project for all 
+contractors. This document will be hereafter referred to as the ‘outline 
+CEMP’.  This outline CEMP is informed by the ES and associated DCO 
+documents.  
+1.2.2 
+Schedule 2 Requirement 12 of the DCO includes a requirement to 
+approve CEMP(s) in a staged manner by the local planning authority, 
+namely Rhondda Cynon Taf County Borough Council (RCTCBC) prior 
+to the commencement of any works.  Such CEMP(s)) will be developed 
+after any grant of a DCO, in conjunction with, or by, the main 
+contractor/s appointed for such works once the timescales for the 
+detailed implementation are defined.  
+1.2.3 
+The final CEMP(s) shouldshall consider the following: 
+• 
+Complaints procedures; 
+• 
+Nuisance management including measures to avoid or minimise 
+the impacts of construction works (covering dust, noise, vibration 
+and lighting); 
+• 
+Lighting; 
+• 
+Waste management; 
+• 
+Surface and ground water mitigation measures; 
+• 
+Procedure in the event significant archaeological remains are 
+encountered; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 7 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+Landscape and visual impact mitigation (such as retention of 
+existing trees and minimising visual intrusion of construction 
+works); and 
+• 
+Security measures.; 
+1.2.4 
+Traffic and Transport mitigation measures (such as aare to be in a 
+Construction Traffic Management Plan (CTMP)) prepared by the main 
+contractors and submitted under Requirement 13 of Schedule 2 of the 
+DCO, and complementary to the CEMP). Similarly ; andEecological 
+mitigation measures are to be contained in an(such as an EcMP to be 
+submitted under Requirement 10 of Schedule 2 of the DCO, and 
+complementary to the CEMP.) Appropriate references to these 
+documents are made in this Outline CEMP and should be made in the 
+final CEMP(s). 
+1.2.5 
+In considering these environmental matters the final CEMP will provide 
+information on: 
+• 
+A register of environmental aspects [the effects of the Scheme]; 
+• 
+Roles and responsibilities; 
+• 
+Communication and co-ordination; 
+• 
+Training and awareness; 
+• 
+Operational control; 
+• 
+Checking and corrective action; and  
+• 
+Environmental control measures. 
+1.2.6 
+The final CEMP will fall within the scope of the main contractor’s 
+externally certified international environmental management systems, 
+and as such will be subject to independent audits by the relevant 
+certification bodies.   
+1.2.7 
+This outline CEMP provides sufficient information, based on best 
+practice guidance and mitigation measures in the ES to act as a 
+framework for the final CEMP and to provide assurance to the decision 
+maker and stakeholders that all appropriate measures will be taken 
+forward to the construction phase.  
+1.2.8 
+Measures set out in the final CEMP will also have reference to the 
+Welsh Government document ‘Construction and Demolition Sector 
+Plan’ which seeks to move towards zero waste by detailing outcomes, 
+policies and delivery actions for organisations, companies and 
+individuals involved with the construction and demolition sector in 
+Wales. It forms part of the suite of documents that comprise the waste 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 8 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+management plan/strategy for Wales, in accordance with the plan 
+making requirements enshrined in Wales and EU legislation.   
+1.3 
+Project Description 
+1.3.1 
+The Power Generation Plant will operate as a Simple Cycle Gas 
+Turbine (SCGT) peaking plant and has been designed to provide an 
+electrical output of up to 299 Megawatts electrical (MWe). The plant will 
+be fuelled by natural gas.   
+1.3.2 
+The three main elements of the Hirwaun Power Project comprise:  
+• 
+A new Power Generation Plant, a SCGT gas fired ‘peaking’ power 
+generating plant capable of providing up to 299 MWe; 
+• 
+A new underground electrical cable connection (the Electrical 
+Connection) to export electricity from the Power Generation Plant 
+into the National Grid at Rhigos Substation; and  
+• 
+A new underground gas pipeline connection (the Gas Connection) 
+to bring natural gas to the Power Generation Plant from the existing 
+high pressure gas network National Transmission System in the 
+vicinity of the proposed Project Site.  This element of the Project 
+also includes the above ground installation (AGI) for the gas 
+pipeline at the point of connection to the National Transmission 
+System (NTS), as well as a new permanent access to the AGI.  
+1.3.3 
+The Power Generation Plant, Gas Connection and Electrical 
+Connection together are referred to as the Project and are all integral to 
+the generation of electricity and the subsequent export of that electricity 
+to the National Grid.  
+1.3.4 
+The Project constitutes a Nationally Significant Infrastructure Project 
+(NSIP) by virtue of section 14 (1)(a) and section 15 of the Planning Act 
+2008 (PA 2008) which includes within the definition of an NSIP any 
+onshore generating station in England or Wales of 50 MWe capacity or 
+more. Under section 31 PA 2008 a development consent order (DCO) 
+is required to develop a NSIP. Under section 37 PA 2008 this can only 
+be granted if an application is made for it to the Secretary of State 
+(SoS) (the DCO Application).  
+1.3.5 
+This outline CEMP is part of a suite of documents which accompany 
+the DCO Application and should be read in conjunction to gain a fuller 
+understanding of the Project.  
+ 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 9 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+2 
+OUTLINE CEMP – GENERAL INFORMATION 
+2.1 
+Register of Environmental Impacts 
+2.1.1 
+A register of Environmental Impacts is required to be produced as part 
+of the CEMP.  This Register would be used to inform the environmental 
+procedures and provide a tool for construction teams when preparing 
+construction method statements or field briefings.  This register would 
+also comprise the various risks identified in the Environmental 
+Statement (ES) and would be regularly updated to reflect any additional 
+risks resulting from the main contractor/s selected methods of working, 
+changing site conditions etc. Risks would be identified under the 
+following general headings: 
+• 
+Noise & Vibration; 
+• 
+Air Quality & Emissions; 
+• 
+Geology & Soils; 
+• 
+Water Quality, Drainage & Hydrology; 
+• 
+Landscape and Visual Impacts;  
+• 
+Ecology; 
+• 
+Traffic and Transport; 
+• 
+Waste and Health; 
+• 
+Archaeology and Cultural Heritage; and  
+• 
+Combined Impacts.  
+2.2 
+Risk Assessments 
+2.2.1 
+All activities undertaken on-site would be subject to an environmental 
+risk assessment.  Environmental risk assessments would be 
+undertaken by trained staff following an approved procedure which will: 
+• 
+Identify potential environmental impacts that can be anticipated; 
+• 
+Assess the risks from these impacts; 
+• 
+Identify the control measures to be taken and re-calculate the risk; 
+and 
+• 
+Report where an unacceptable level of residual risk is identified so 
+that action can be taken through design changes, re-scheduling of 
+work or alternative methods of working in order to reduce the risk to 
+an acceptable level. 
+2.2.2 
+The results of risk assessments, and their residual risks are only 
+considered acceptable if:  
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 10 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+The severity of outcome is reduced to the lowest practical level;  
+• 
+The number of risk exposures are minimised; and 
+• 
+All reasonably practical mitigating measures have been taken and 
+the residual risk rating is reduced to a minimum.  
+2.2.3 
+The findings of the risk assessment and in particular the necessary 
+controls 
+would 
+be 
+explained 
+to 
+all 
+contractors 
+before 
+the 
+commencement of the relevant works using an agreed instruction 
+format (e.g. Toolbox Talks).  
+2.3 
+Method Statements 
+2.3.1 
+Method statements would be completed by the main contractor or sub 
+contractor by trained engineers or other appropriately experienced 
+personnel, in consultation with on-site staff and, where necessary, 
+environmental specialists.  Their production would include a review of 
+the environmental risks and commitments, so that appropriate control 
+measures are developed and included within the construction process. 
+2.3.2 
+Method statements would be reviewed by the main contractor or sub 
+contractor’s appointed environmental manager and, where necessary, 
+by an appropriate environmental specialist.  Where required, method 
+statements would also be submitted to the enforcement agencies 
+(Natural Resources Wales, Environmental Health Officer from 
+RCTCBC etc.).  Method statements would most likely contain the 
+following: 
+• 
+Location of the activity and access/egress arrangements; 
+• 
+Work to be undertaken and methods of construction; 
+• 
+Plant and materials to be used; 
+• 
+Labour and supervision requirements; 
+• 
+Health, safety and environmental considerations; and 
+• 
+Any permit or consent requirements beyond those already obtained 
+(including the DCO). 
+2.4 
+Site Environmental Standards 
+2.4.1 
+Site Environmental Standards would be agreed with the main 
+contractor and would detail the minimum measures that shouldshall be 
+achieved 
+for 
+general 
+operations 
+falling 
+outside 
+the 
+risk 
+assessment/method statement procedure. The site environmental 
+standards would be designed to cover the majority of construction 
+activities in accordance with the ES submitted with the application and 
+requirements associated with the DCO.   
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 11 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+2.4.2 
+These will cover issues such as storage of materials, management of 
+waste, noise and vibration, and water pollution control.  The standards 
+will be printed on A3 posters, placed on site notice boards and used as 
+a briefing tool on site.  These standards will also form the basis of 
+Toolbox talks which will inform all contractors working on site of the 
+potential environmental risks arising from construction activities.  
+2.4.3 
+Best practice construction site management techniques will be 
+implemented to avoid/minimise the generation of excessive waste, 
+dust, noise, lighting, noise and vibration, in accordance with the ES and 
+relevant requirements associated with the DCO.  These are discussed 
+in more detail in Section 3 of this document.  
+2.5 
+Environmental Management System 
+2.5.1 
+Following construction, an Environmental Management System for 
+commercial operation will be developed and contained within the 
+overall Business Management System prepared by the operator and 
+designed to comply with ISO 14001 or an equivalent recognised 
+standard. 
+2.5.2 
+Implementation of ISO 14001 is a Key Strategy for HPL and the use of 
+an Environmental Management Plan for commissioning based on ISO 
+14001 (or similar) will be used to support implementation and 
+compliance with the DCO and the Environmental Permit that will be 
+required for operation of the Project under the Environmental Permitting 
+(England and Wales) Regulations 2011.  All operational staff for the 
+Project will be given comprehensive environmental awareness training 
+as part of this process. 
+2.5.3 
+During the commissioning phase of the Project, HPL will require its 
+environmental and compliance procedures to be implemented and 
+used by the main contractor and the operator.  
+2.6 
+Public Relations 
+2.6.1 
+The following steps will be taken to make the public aware of the 
+activities on site and the available lines of communication with HPL: 
+• 
+Neighbouring occupiers will be notified of the start of site works and 
+the likely duration of the overall demolition and construction 
+phases;  
+• 
+A telephone number for environmental complaints will be published 
+local to the site.  The site safety, health and environment (SHE) 
+officer will be responsible for dealing with any complaints and will 
+have the appropriate authority to resolve any issues that may 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 12 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+occur.  Should they be required both the SHE officer and the site 
+managers ‘out of hours’ telephone numbers will be available; 
+• 
+The SHE officer will maintain a close liaison with the council’s 
+Environmental Health Officer (EHO) at all times; 
+• 
+Should any complaints regarding dust be received by the SHE 
+officer the details will be passed to the EHO for verification 
+purposes; and 
+• 
+Should any unforeseen event occur within the construction site that 
+has the potential to cause off-site pollution then the SHE officer will 
+immediately notify the EHO by phone and e-mail.  As far as 
+possible notice will be issued to the EHO for dealing with an 
+unforeseen activity which may give rise to a particular dust 
+problem. 
+2.7 
+Monitoring and Measurement 
+2.7.1 
+Weekly site inspections will be carried out which will assess the 
+potential for environmental emergency situations to arise on the site.  
+Additionally the main contractor will assess the potential for 
+environmental incidents on a daily basis across the site.  Particular 
+notice will be taken during and following extreme weather events, when 
+working in areas of known contamination, and when particularly 
+hazardous activities are being carried out.  Method Statements will be 
+required where the risk assessment has identified a significant risk to 
+the environment.  
+2.7.2 
+In the event of any environmental incident the most senior 
+representative of the main contractor will take the role of the 
+responsible person and will take charge of the situation.  Where 
+possible, the responsible person will take immediate steps to eliminate 
+the 
+impact 
+on 
+the 
+environment 
+and 
+mitigate/minimise 
+any 
+environmental damage. 
+2.8 
+Roles and Responsibilities  
+2.8.1 
+Suggested specific roles and responsibilities for the implementation of 
+the final CEMP are described below: 
+HPL Project Director 
+2.8.2 
+The HPL Project Director would have overall responsibility for 
+environmental performance throughout the construction period and will 
+ensure 
+that 
+appropriate 
+resources 
+are 
+made 
+available 
+and 
+environmental control and any agreed or appropriate protection 
+measures are implemented. 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 13 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+Environmental, Health & Safety Management 
+2.8.3 
+The Site Manager would be appointed the responsibility for co-
+ordinating and managing all the environmental activities during the 
+construction phase.  The role would involve will carrying out the 
+following duties: 
+• 
+Develop and review the CEMP and specialist procedures; 
+• 
+Lead the appointment of construction environmental specialists; 
+• 
+Ensure delivery of environmental training to personnel within the 
+project team; 
+• 
+Monitor construction activities and performance to ensure 
+compliance with the CEMP and that identified and appropriate 
+control measures are being effective;  
+• 
+Act as a main point of contact between the regulatory authorities 
+and the project on environmental issues; 
+• 
+Monitor construction activities and performance to ensure control 
+measures are effective; 
+• 
+Maintain full records of the progress of the Environmental Works; 
+• 
+Implement an auditable environment record system; 
+• 
+Maintain regular contact and liaison with the Environmental 
+Specialists;  
+• 
+Carry out audits as required by the CEMP; 
+• 
+Ensure compliance with Duty of Care at all times; and 
+• 
+Implement and monitor measures to ensure correct waste 
+minimisation, segregation and disposal. 
+ 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 14 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+3 
+OUTLINE CEMP – SPECIFIC MEASURES 
+3.1 
+Introduction 
+3.1.1 
+This section outlines some of the specific design and mitigation 
+measures which will be used in the CEMP for the Project in order to 
+limit impacts on noise and vibration, air quality, contaminated land and 
+groundwater, ecology, archaeology and cultural heritage and landscape 
+and visual amenity. It will additionally outline the measures to prevent 
+impacts arsingarising from artificial lighting.   
+3.2 
+Noise and Vibration 
+3.2.1 
+This section outlines the potential sources of nuisance noise created by 
+construction works and the methods of mitigation proposed to limit 
+these impacts which shouldshall be adopted in a CEMP.  
+3.2.2 
+All construction activities will be undertaken in accordance with 
+requirements attached to the DCO, and the recommendations of BS 
+5228 ‘Noise and Vibration Control on Construction and Open Sites’.  It 
+details the legislative background to noise control, along with the 
+recommended procedures for effective liaison between developers, site 
+operators and local authorities.  Methods of how to minimise the impact 
+of site noise on workers and local residents are also provided. 
+3.2.3 
+The main mitigation measure to limit impacts of nuisance noise on 
+human receptors is to ensure noise levels do not exceed the noise 
+thresholds set out in the ES (65 dBA daytime) and to undertake noise 
+monitoring during construction to make sure these agreed thresholds 
+are not breached. 
+3.2.4 
+In addition, construction works shall not take place outside the hours of 
+07:00-19:0018.30 Monday to Friday and 07.00-13.00 on Saturday, 
+unless otherwise agreed with RCTCBC.  Controls on working hours are 
+specifically set out in DCO Schedule 2 Requirements 14 and 15. 
+3.2.5 
+If works are required outside of these core construction hours then 
+method statements and risk assessments will be required to be 
+submitted to the local planning authority for approval.   
+3.2.6 
+To minimise the risk of noise complaints, the main contractor will advise 
+potentially affected residents of the works to be undertaken outside of 
+working hours.  The residents will also be provided with a point of 
+contact for any queries or complaints.  
+3.2.7 
+The main contractor and all sub-contractors working on-site have a 
+general duty to take all reasonably practicable measures to minimise 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 15 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+nuisance from noise and vibration that has the potential to impact on 
+the local community or environment.  To achieve this and avoid the 
+potential for construction works to give rise to consequences that would 
+otherwise be statutory nuisances (but for the provision of the DCO), 
+Best Practicable Means (BPM) as defined in section 79(9)(a) of the 
+Environmental Protection Act 1990 must be employed and the following 
+requirements will be complied with: 
+• 
+Appropriate 
+selection 
+of 
+plant, 
+construction 
+methods 
+and 
+programming.  Only plant conforming with relevant national or 
+international standards, directives or recommendations on noise or 
+vibrations emissions will be used;   
+• 
+Construction plant will be operated and maintained appropriately, 
+having regard to the manufacturer’s written recommendations or 
+using other appropriate operation and maintenance programmes 
+which reduce noise and vibration emissions; 
+• 
+All vehicles and plant will be switched off when not in use; 
+• 
+Approved routes and programming for the transport of construction 
+materials, spoil and personnel to reduce the risk of increased noise 
+and vibration impacts due to the construction of the project; 
+• 
+Vehicle and mechanical plant used for the purpose of the works 
+shouldshall be fitted with effective exhaust silencers, to be 
+maintained in good working order and operated in such a manner 
+as to be maintained in good working order and operated in such a 
+manner as to minimise noise emissions.  The contractor 
+shouldshall use plant items that comply with the relevant EU/UK 
+noise limits applicable to all equipment; 
+• 
+All ancillary plant such as generators, compressors and pumps 
+would be positioned so as to cause minimum noise disturbance 
+(e.g. as far away as practicable from residential receptors).  If 
+necessary, temporary acoustic barriers or enclosures would be 
+provided; 
+• 
+The positioning of construction plant and activities to minimise 
+noise at sensitive locations; 
+• 
+Equipment that breaks concrete by munching or similar, rather than 
+by percussion, shouldshall be used as far as is practicable; 
+• 
+The use of mufflers on pneumatic tools; 
+• 
+Where practicable, rotary drills actuated by hydraulic or electrical 
+power shouldshall be used for excavating hard materials; 
+• 
+The use of non-reciprocating construction plant where ever 
+practicable; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 16 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+The use, where necessary, of effective sound reducing enclosures; 
+• 
+The targeting, where possible, of noisy work at times which 
+minimise disturbance; and 
+• 
+To prevent damage to adjacent structures, demolition and 
+construction activities will be carried out in accordance with Part 2 
+of BS 7385:1993 (Evaluation and Measurement for Vibration in 
+Buildings). 
+3.3 
+Air Quality 
+3.3.1 
+Relevant air quality mitigation measures are outlined in Section 6 of the 
+ES and in the Statutory Nuisance Statement.  However, the following 
+provides an outline of the processes which could be employed in the 
+final CEMP in order to reduce dust and exhaust emissions during 
+construction.  
+3.3.2 
+This section outlines the potential sources of air pollution created by 
+construction works and the methods of mitigation proposed to limit 
+these impacts which shouldshall be adopted in the final CEMP.  The 
+following provides an outline of the processes which shouldshall be 
+employed in the final CEMP in order to reduce dust and exhaust 
+emissions during construction. 
+3.3.3 
+A site-specific dust management plan (DuMP) will be prepared for use 
+Dduring the demolition phase (Work no. 1) and the construction of the 
+Power Generation Plant (Work no. 2), Gas Connection (Work nos. 3 & 
+4) and Electrical Connection (Work no. 5), it is intended that a site 
+specific dust management plan (DuMP).  This  will form part of the full 
+CEMP for the sitefor the work(s) and will require to be submitted and 
+approved in writing by RCT prior to works commencing. 
+3.3.2 
+Furthermore,A a Construction Traffic Management Plan will be 
+prepared to manage construction traffic, as well as minimise effects of 
+the works on congestion and hence elevated vehicle emissions on the 
+highway.  This is a requirement under Schedule 2 Requirement 13 of 
+the DCO so would be submitted separately to the CeEMP but will be 
+suitably cross-referred and linked.  
+3.3.4 
+ 
+3.3.33.3.5 
+Construction/demolition activities associated with the greatest potential 
+for dust generation are: 
+• 
+Earthworks including excavation of topsoil, handling on site and 
+deposition; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 17 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+Handling and storage of materials (including loading and 
+unloading); 
+• 
+Wind blow across disturbed/exposed site surfaces and materials; 
+and 
+• 
+ Mechanical operations such as crushing, drilling, concrete mixing 
+and cutting.  
+3.3.43.3.6 
+In order to ensure the employment of Best Practicable Methods (BPM) 
+will be used to minimise the risk of adverse effects from construction 
+dust and causing nuisance or damage to flora and fauna specific 
+control measures for limiting nuisance dust and exhaust emissions 
+during construction are as follows:  
+• 
+Site Management 
+i 
+Records of dust and air quality complaints to be kept, 
+including likely causes and mitigation measures to reduce 
+impacts if appropriate; 
+ii 
+On-site and off-site visual inspections to be undertaken and 
+recorded;  
+iii 
+Inspections shall be increased in frequency during periods of 
+high activity or prolonged dry, windy weather; and 
+iv 
+Keep site perimeter, fences etc clean. 
+• 
+Site Planning 
+v 
+Consideration of weather conditions, dust generating potential 
+of material to be excavated prior to commencement of works; 
+vi 
+Plan site layout to maximise distance from plant/stockpiles 
+etc. to sensitive receptors; 
+vii 
+If work within 20m of sensitive receptors cannot be avoided, 
+erect solid screens at least as high as stockpiles; and 
+viii 
+Dusty materials shall be removed from site as soon as 
+possible. 
+• 
+Demolition (where reasonably practicable): 
+iix 
+Use of water as a dust suppressant; 
+iix 
+Cutting equipment shall use water as a dust suppressant or 
+incorporate suitable extraction/ventilation; and 
+iiixi Use of enclosed chutes and skips where applicable;  
+• 
+Earthworks/Construction (where reasonably practicable): 
+ivxii Dampening down of all potentially dusty activities; 
+vxiii Temporary covering of earthworks; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 18 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+vixiv Removal of covers by area and not all at once; 
+viixv Minimisation of drop heights;  
+viiixvi 
+Re-vegetation of exposed surfaces; 
+ixxvii Stockpiles will be formed and utilised for the shortest possible 
+time; 
+xxviii Stockpiles will be formed such that there are no steep sides or 
+angular in form/shape; 
+xixix Stockpiles to be located away from the site boundary and 
+sensitive receptors wherever possible; and 
+xx 
+Stockpiles to be covered or enclosed wherever possible.; 
+xxi 
+Exposed soils wouldto be re-vegetated as soon as 
+practicable.  Near sensitive ecosystems or other sensitive 
+receptors, hessian/mulches or similar techniques wouldto be 
+considered where it is not possible to re-vegetate or cover 
+with topsoil; 
+xxii Minimise dust generating activities, particularly near sensitive 
+ecosystems or other sensitive receptors during prolonged dry, 
+dusty weather unless damping / other suppressants are used; 
+xxiii Ensure an adequate water supply to site and use water as 
+dust suppressant where applicable; 
+xxiv Ensure any site machinery is well maintained and in full 
+working order; 
+xxv Ensure equipment available for cleaning spills of dusty 
+material available at all times; and 
+• 
+Sand and aggregates shall be stored away from sensitive receptors 
+and screened/shielded.  Similarly concrete batching shall take 
+place away from receptors. 
+xxvi  
+• 
+Trackout (where reasonably practicable): 
+xiixxvii 
+If required due to site conditions vehicles to be washed 
+and cleaned effectively prior to leaving the site; 
+xiiixxviii Effective vehicle cleaning and specific wheel-washing 
+facilities will be implemented at all site exits, including: hose 
+pipes with adequate water supply and pressure and 
+mechanical wheel spinners or brushes;  
+xivxxix 
+An area of paving/hard standing will be implemented 
+between the washing facilities and the site exit; and 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 19 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+xxx Hard surface haul routes to be used on-site wherever 
+possible, as well as preferred routes for vehicles.  
+xxxi Loads entering and leaving the site with dust generating 
+potential will use load covers; 
+xxxii Vehicles to comply with site speed limits (15mph on hard 
+surfaces, 10mph on unconsolidated surfaces); 
+xxxiii Water assisted sweeping of local roads to be undertaken if 
+material is tracked out of site; 
+xxxiv Install hard surfacing as soon as practicable on site and 
+ensure that they are maintained in good condition; and 
+xxxv Haulage routes would be planned in order to avoid adversely 
+affecting air quality within the Aberdare Air Quality 
+Management Area. 
+xv 
+ 
+3.3.7 
+To ensure that dust generated by construction works does not exceed 
+levels which could constitute a nuisance  dust monitoring is proposed to 
+be undertaken at the northern end of the Power Generation Site, in 
+particular, in the vicinity of the Hirwaun Industrial Estate SINC. A real 
+time monitor for total suspended particulate is proposed, used as an 
+‘indicative instrument; only.  The monitoring station would be mobile 
+and wshould be moved around the site as principal activities move. 
+Should dust arisings at this location be found to exceed trigger levels 
+then additional dust control measures from the above list will be 
+applied. Trigger levels for the instrument, which would suggest 
+increasing risk emissions, will be agreed with NRW RCT and NRW 
+prior to the commencement of construction.  
+3.3.53.3.8 
+It is proposed that solid hoarding be erected along the northern edge of 
+the Power Generation Plant site during demolition activities.  The 
+prolonged storage of debris on-site, in temporary stockpiles will be 
+avoided.  Vehicles removing demolition or site clearance materials 
+must have their loads effectively sheeted on all sides.  Crushing of 
+material for reuse, transportation or disposal shouldshall be undertaken 
+as far away as possible from sensitive receptors.  
+3.3.63.3.9 
+On-site burning of waste material will be forbidden.  
+3.3.73.3.10 The number of handling operations shouldshall be minimised, ensuring 
+that dusty material is not moved or handled unnecessarily.  Fine 
+material shouldshall be delivered to site in bags.  Drop heights must be 
+kept to a minimum. 
+3.3.83.3.11 Hard-standing areas for vehicles entering, parking and leaving the 
+Project Site shouldshall be provided, with wheel washing facilities at 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 20 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+access points where there is a risk of tracking mud onto local roads.  
+Plant and wheel washing will be carried out in a designated area of 
+hardstanding at least 10 m from a watercourse or surface water drain.  
+Where this is not possible alternative mitigation will be implemented.   
+3.3.93.3.12 The performance of the wheel washing system will be maintained by 
+the regular removal of settled sediment from within the sump.  Run-off 
+from this area will be collected in a dedicated sump and water will be 
+recycled/re-used wherever possible.  Where recovery is not possible, 
+water from the sump system will be emptied to a dedicated storage 
+tank prior to its removal from site for authorised disposal by a suitably 
+licensed contractor. 
+3.3.103.3.13 Site roads shouldshall be cleaned regularly, and damped down if 
+necessary to prevent nuisance dust.  Site vehicle movements 
+shouldshall be kept to a minimum and, where possible, restricted to 
+paved haulage routes.  Vehicle speeds will be limited to 10 mph on 
+unconsolidated track and 2015 mph on hard standingsurfaces10 km/h.  
+The idling of vehicles will be kept to a minimum. 
+3.3.113.3.14 The main contractor will have responsibility on a day to day basis for 
+determining if either the nature of the activities on site or weather 
+conditions would be likely to result in the unacceptable transfer of dust 
+off site.  In cases where this is anticipated, remedial action will be taken 
+to minimise emissions, including the application of appropriate control 
+measures, or if necessary, the temporary suspension of works. 
+3.3.123.3.15 Good site management practices during the construction works will 
+help to prevent the generation of airborne dust.  It will be the 
+responsibility of the nominated main contractor and site manager to 
+ensure through the final CEMP that sufficient precautionary measures 
+to limit dust generation are in fact taken. 
+3.4 
+Contaminated Land and Groundwater 
+3.4.1 
+During demolition / construction tThe CEMP will include a Demolition 
+Method Statement which will apply as necessary to each stageWork 
+Package of the Project.  
+3.4.2 
+During construction, if piling iswere to be required to the depths of the 
+secondary aquifer A, mitigation measures set out in “Piling and 
+penetrative ground improvement methods on land affected by 
+contamination guidance on pollution prevention – NGWCLC Report 
+NC/99/73” would be prepared and agreed with NRW as part of the 
+CEMP adopted eliminating anyin order to manage potential pollutant 
+pathways. 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 21 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+3.4.13.4.3 
+Site investigations undertaken at an adjacent site to the Power 
+Generation Plant have not revealed levels of contamination which are 
+likely to pose a risk to human health or cause a statutory nuisance.  
+Further ground investigations will be undertaken at the Power 
+Generation Plant site prior to construction which will further define the 
+exact nature of ground conditions at the Power Generation Plant Site. 
+However, based on evidence to date, there are not anticipated to be 
+any significant issues with contamination at the Power Generation Plant 
+site or Electrical Connection.  
+3.4.4 
+Foundation design will be informed from further assessment of ground 
+conditions completed during environmental and geotechnical site 
+investigation. 
+3.4.23.4.5 
+Land under which the Gas Connection will be developed has remained 
+as undeveloped greenfield land and therefore there is low likelihood of 
+contamination.    
+3.4.33.4.6 
+Professional standards and guidance relating to contamination will be 
+consulted to provide advice on best practice mitigation measures which 
+will be employed during the construction/demolition phase of the 
+Project. 
+3.4.43.4.7 
+This multi-stage process is only to cover unexpected contamination. 
+3.4.53.4.8 
+Sensitive receptors are as follows:- 
+• 
+Construction workers (during excavation and works); 
+• 
+Site users; 
+• 
+Groundwater; and 
+• 
+Surface water bodies.  
+3.4.63.4.9 
+There is a small risk of construction workers coming into contact with 
+contaminated soils and groundwater during construction. 
+3.4.73.4.10 There will be no access to construction areas by the general public. 
+The site will be secured to avoid unauthorised access and contact with 
+contaminated soil or groundwater. 
+3.4.83.4.11 In the case that unidentified contaminant “hotspots” showing visual of 
+olfactory evidence of contamination are discovered during construction 
+works, the following procedure will be applied:  
+• 
+Stop work immediately; 
+• 
+Report the discovery to the construction manager; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 22 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+Seal off the area to contain the spread of contaminants; 
+• 
+Clear the area to ensure there is nothing that could cause fire or 
+explosion; 
+• 
+Contact the regulator or local authority once it is confirmed that 
+contamination is found; 
+• 
+Arrange for testing to be carried out and agree changes to the 
+existing contamination strategy; and 
+• 
+Record details of the incident, including photos and relevant 
+information on the Environmental Incident Report Form. 
+3.4.93.4.12 Any material which is excavated and free from visual and olfactory 
+evidence of contamination will be stockpiled and tested for metal (and 
+other determinants) for reuse on site.  Any soils which are considered 
+to be contaminated hotspots (either identified through testing or through 
+visual or olfactory evidence of contamination on site) will be removed 
+and disposed of by a suitably licensed contractor or treated on-site.  
+3.4.103.4.13 All water from dewatering activities shall either be transported off site 
+by a suitably licensed contractor or treated on site.  Any proposed 
+discharges to existing land drains (or other surface water bodies) will 
+be undertaken in accordance with the requirements of the Environment 
+Agency (EA) Regulatory Position Statement on temporary water 
+discharges from excavations, which is applied by NRW.  
+3.4.113.4.14 Where soils are imported onto the site then they shall be subject to 
+testing to ensure contaminated soils are not being brought onto the 
+site. 
+3.4.123.4.15 Speed restrictions will be imposed onsite to minimise disturbance of 
+bare surfaces.  Measures shall also be put into place to ensure that the 
+length of time bare surfaces are left exposed are minimised. 
+3.4.133.4.16 Precautions will be undertaken in accordance with Natural Resources 
+Wales (NRW's) Pollution Prevention Guidance to ensure that silt laden 
+runoff, arisings or chemicals are not allowed to enter watercourses.  
+Measures will include, testing of arisings to see whether they are 
+suitable for reuse on site, siting stockpiles well away from 
+watercourses, covering stockpiles in inclement weather, use of 
+impermeable liners and use of fixing agents.  
+3.4.17 
+The final CEMP will identify any potential human health risks to 
+construction workers or future site users so that appropriate 
+mitigation/remediation can be put in place. 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 23 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+3.4.143.4.18 Although the main contractor undertaking the works will be required to 
+produce a risk assessment and method statement detailing how they 
+will minimise the risk of coming into contact with potentially 
+contaminated materials, the following can be considered as a guide for 
+the final CEMP: 
+3.4.153.4.19 Compliance with the mitigation measures set out in the following 
+documents: 
+• 
+Protection of Workers and the general public during the 
+development of contaminated land (HSE 1991); and 
+• 
+If applicable, a guide to safe working on contaminated sites R132 
+(CIRIA 1996). 
+3.4.163.4.20 Work will be carried out in accordance with best practices and safe 
+working practices will be maintained.  
+3.4.173.4.21 Construction workers will wear appropriate personal protective 
+equipment (PPE) for the nature of works being undertaken.  This will 
+involve standard site PPE, plus overall, gloves and eye protection. 
+3.4.183.4.22 Additional measures that will likely be taken are:  
+• 
+Eating, drinking and smoking will be limited to a designated ‘clean’ 
+area of the site;  
+• 
+Site welfare facilities will be made available;  
+• 
+All workers will be required to wash their hands and remove 
+overalls/boots when moving from ‘dirty’ to ‘clean’ areas of the site;  
+• 
+Any soils excavated which are considered to be potentially 
+contaminated (e.g. visual or olfactory evidence) will be reported to 
+site management and left alone until their appropriate treatment.  
+Suitable training will be provided to site personnel to ensure the 
+correct identification of potentially contaminated soils by olfactory 
+means; and 
+• 
+Water inflows to excavated areas will be minimised by the use of 
+lining materials, good housekeeping techniques and by the control 
+of drainage and construction materials in order to prevent the 
+contamination of ground water.  Site personnel will be made aware 
+of the potential impact on ground and surface water associated with 
+certain aspects of the construction works to further reduce the 
+incidence of accidental impacts. 
+3.4.193.4.23 Measures shouldshall be taken to avoid/minimise the potential for fuel 
+and chemical spills.  A spill response procedure will also apply on-site; 
+and indicative procedure is shown in Insert 3.1.   
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 24 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+Insert 3.1: Emergency Spill Response Procedure 
+ STOP any more material spilling, e.g. 
+right oil drums, close valves; extinguish 
+fires using fire extinguisher. Switch off 
+sources of ignition e.g. switch off plant.  
+But only if it is safe to do so. 
+CONTAIN the spillage using 
+bunds of earth or sand, drip 
+trays, booms and/or spill 
+materials immediately.
+Check the spill has not reached any drains/manholes, 
+watercourses, etc.  Stop the flow if possible.  Divert the 
+flow from drains/watercourses.  Bund drains/manholes 
+to stop the substance entering the drainage system.   
+Do not wash spillage or runoff into the drainage system.
+NOTIFY SITE MANAGER immediately giving the 
+following information:
+• 
+whether the material has entered the drain/
+watercourse or is affecting the environment
+• 
+substance involved
+• 
+location
+• 
+cause of the incident
+• 
+volumes involved
+SPILLAGE TYPE
+MAJOR
+Cannot be controlled; pollution has entered or could enter a drain or watercourse.  
+Report to Site Manager/Environmental Advisor immediately.
+MINOR  
+Can be controlled; pollution has not entered, and cannot enter a drain or watercourse
+STOP – CONTAIN – NOTIFY – CLEAN UP – INVESTIGATE  
+EMERGENCY SPILL RESPONSE PROCEDURE
+What to do if you find a spillage of any substance on site.
+Identify substance spilt, obtain MSDS/
+COSHH information and correct PPE.
+Site Manager immediately NOTIFIES the 
+ENVIRONMENTAL ADVISOR who informs the 
+relevant persons i.e. Client, Regulatory Authorities.
+CLEAN UP the spill:
+MAJOR – call in expert advice/specialist Clean-
+up Contractor
+MINOR – clean up the spill using appropriate 
+spill materials.
+Most senior person on site becomes the 
+RESPONSIBLE PERSON and STOPS the 
+work immediately.
+CLEAN UP waste materials:
+• 
+Bag-up used spill materials
+• 
+Remove contaminated ground and wastewater
+Dispose of waste materials as Hazardous Waste
+RESPONSIBLE PERSON fills in 
+Environmental Incident Report Form 
+and passes to ENVIRONMENTAL 
+ADVISOR.
+ENVIRONMENTAL ADVISOR INVESTIGATES 
+the incident and determines root causes; lessons 
+learnt; and corrective actions to be taken to 
+prevent recurrence.  This information is fed back 
+into the system via Training, Toolbox Talks, 
+Briefings, Bulletins, and Procedural changes as 
+required.
+STOP
+CONTAIN
+NOTIFY
+CLEAN UP
+INVESTIGATE
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 25 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+3.4.24 
+A Site Waste Management Plan (SWMP) will form part of the CEMP, 
+for use during the demolition and construction stages.  This will ensure 
+waste management provisions complement the construction activities 
+on site and that wastes emanating from the project are dealt with in an 
+appropriate manner and their management follows the waste hierarchy. 
+The SWMP will identify the waste types arising from the project, 
+estimate quantities of each waste type and identify treatment. 
+3.5 
+Surface Water 
+3.5.1 
+The Power Generation Plant site is in the hydraulic catchment of the 
+River Camnant. The upstream reaches of this watercourse are the Nant 
+yr Ochain which is culverted under the site.  
+3.5.1 
+ Furthermore the Gas Connection runs through an area of marshy 
+agricultural land parts of which form the Hirwaun Common Site of 
+Importance Nature Conservation (SINC).  
+3.5.2 
+In order to ensure that there will be no discharges to any watercourses 
+as a result of construction activities at the Project Site, the following 
+matters should shall be included in the detailed CEMP: 
+• 
+Site infrastructure will be designed in accordance with EA pollution 
+Prevention Guidelines and industry best practise. 
+• 
+Oil storage will be undertaken in accordance with the Control of 
+Pollution (Oil Storage) Regulations 2001.  Storage tanks will be 
+located on an impervious base provided with bund walls to give a 
+containment capacity of the greater of 110 per cent of the largest 
+tank volume within the bund or 25 per cent of the total storage 
+capacity of all tanks within the bund.  All valves and couplings will 
+be contained within the bunded area; 
+• 
+Any surface water which has the potential to be contaminated by 
+hydrocarbons (e.g. from car parks), which are used during the 
+construction phase, to be passed through oil interceptor(s) prior to 
+discharge;   
+• 
+Measures will be taken to ensure that no leachate, or any surface 
+water that has the potential to be contaminated, will be allowed to 
+enter directly or indirectly into any water course, underground strata 
+or adjoining land; 
+• 
+Provisions will be made so that all existing drainage systems 
+continue to operate; 
+• 
+Water inflows to excavated areas will be minimised by the use of 
+lining materials, good housekeeping techniques and by the control 
+of drainage and construction materials in order to prevent the 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 26 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+contamination of ground water.  Site personnel will be made aware 
+of the potential impact on ground and surface water associated with 
+certain aspects of the construction works to further reduce the 
+incidence of accidental impacts; 
+• 
+Refuelling of construction vehicles and equipment will be restricted 
+to a designated area with properly designed fuel tanks and bunds 
+and suitable operating procedures;  
+• 
+All static plant and any hazardous materials stored at the Power 
+Generation Plant Site will be located within specifically designed 
+areas with an impermeable base and with secondary containment 
+designed to contain 110% of the maximum stored material. The 
+drainage of these areas will incorporate oil separators designed 
+and manufactured in accordance with BS EN 858-1 to ensure no 
+contaminated runoff enters the surface water sewer or drains to a 
+watercourse. A detailed emergency response plan will be prepared 
+which will be enacted in the event of a spill of hazardous material to 
+minimise the risk of environmental impacts; 
+• 
+Construction access roads will be designed to ensure no increased 
+flood risk or silt production; 
+• 
+Temporary wheel washing facilities will be installed to prevent 
+transfer of soil sediment onto nearby public roads. Runoff from 
+wheel wash facilities will be collected and removed or treated prior 
+to discharge; 
+• 
+If deemed necessary, measures such as temporary drainage 
+routes silt fences and silt bunds will be constructed to prevent 
+heavily silted discharge to surface waters and to attenuate high 
+flows; 
+• 
+At the gas pipeline, pre- and post-construction agricultural under-
+drainage schemes will be designed and installed to an agreed 
+specification to ensure similar surface water flows pre- and post- 
+construction and to ensure no increase in sediment, silt or nutrient 
+runoff; 
+• 
+A Soil Handling Strategy will be formulated, including a programme 
+of soils de-compaction, loosening and aftercare aligned to the 
+drainage schemes. This will facilitate soil structure recovery and 
+natural drainage pathways to return soil water retention / storage to 
+pre-construction status; 
+• 
+During construction of the pipeline, care will be taken to ensure that 
+silt laden water does not enter watercourses. This will be done by 
+plugging existing drains, intercepting surface water above the 
+working width and where appropriate by leaving filter strips of 
+unstrapped topsoil along main watercourses / ditches. Topsoil will 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 27 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+be replaced over post-construction drains as soon as possible to 
+prevent site water from getting into drains; 
+• 
+For construction of the pipeline, any de-watering pumping will be 
+undertaken using an appropriately sized pump at such a rate to 
+avoid disturbance or erosion of stream banks.; 
+• 
+The Main Contractor will be required to regularly inspect all pumps, 
+pipes and connections; 
+• 
+For construction of the pipeline, temporary lagoons, siltation tanks 
+or filter membranes may be considered at sensitive outfall locations 
+or where deeper excavations are proposed; 
+• 
+Any stockpiled material will be located away from watercourses to 
+avoid pollution runoff and best practice working guidelines will be 
+followed to avoid spillages near watercourses;   
+• 
+The final CEMP will be developed including a site environmental 
+and health and safety management policy to mitigate construction 
+risks. General rules apply to site works to ensure that no significant 
+impact to identified receptors will occur during construction. Best 
+practice recommendations for the prevention of contamination will 
+be outlined in the final CEMP, both which will be developed and 
+discussed with the Local Authority prior to commencement of 
+construction;  
+• 
+The draft Method Statement for protection of the nearby SINCs 
+presented at Appendix 8.10 of the ES (Document Reference 6.1.0) 
+will be revised and included within the final CEMP. This Method 
+Statement will include measures to prevent line rush establishing 
+through inappropriate soil handling. This Method Statement is to be 
+followed; and  
+• 
+The 
+British 
+Standard 
+Code 
+of 
+Practice 
+for 
+Earthworks 
+BS 6031:1981 and British Standard Code of Practice for 
+Foundations BS 8004:1086 contains detailed methods that will be 
+adopted during construction.  
+3.6 
+Ecology 
+3.6.1 
+Relevant works to protect/mitigate impacts on ecology and biodiversity 
+are described in more detail in the ES.  Appropriate regard for the 
+protection of local habitats and protected species during the 
+construction works will be included within the CEMP and will 
+incorporate the following measures:  
+• 
+As far as is practicable, work compounds and access tracks etc. 
+will not be located in, or adjacent to, areas that maintain habitat 
+value or are within areas supporting protected species; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 28 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+The Construction footprint will be demarcated with robust fencing, 
+to ensure a buffer of at least five metres between the construction 
+footprint and any water bodies is preserved during construction. 
+Furthermore it willSite fencing will be erected to prevent access to 
+areas outside working areas, particularly in areas adjacent to 
+features of interest/value; 
+• 
+Briefings and instruction will be given to contractors regarding the 
+biodiversity issues associated with the site and protocols and 
+contingency plans will be established to deal with incidents should 
+they arise including in relation to storage of potentially dangerous 
+materials; 
+• 
+The demolition of all buildings will be undertaken under statement 
+European Protected species licence, to be obtained from Natural 
+Resources Wales, and the supervision of a licensed bat worker;   
+• 
+The demolition of all buildings will be undertaken under a detailed 
+precautionary method statement and the supervision of a licensed 
+bat worker;   
+• 
+Where possible, all vegetation clearance prior to construction 
+shouldshall take place between September and February 
+(depending on climatic conditions in a given year), to prevent 
+damage to any nests of breeding birds; 
+• 
+Where vegetation cannot be removed outside of the nesting 
+season, pre-clearance checks must be undertaken by an 
+experienced ecologist to identify if any birds are nesting within or 
+close to the vegetation due to be removed.  To ensure legal 
+compliance if a bird nest is found, no works will be undertaken in 
+that area (approximately 10 m in all directions for most bird 
+species) until the young birds are not longerno longer dependent 
+on the nest site;   
+• 
+Works will be undertaken during daylight hours (i.e. 7:00-18:30) 
+during the bat active season and artificial lighting overnight will be 
+minimised. Where this is not possible, low sodium lighting will be 
+used as this is known to have a minimal impact on bats relative to 
+the majority of other types of construction lighting; 
+• 
+18:30Contaminants should will not to be stored near areas of 
+hydrological sensitivity;  
+• 
+The draft Methods Sstatements for protection of the nearby Sites of 
+Important Nature Conservation (SINCs) presented at Appendix 
+8.10 of the ES (Document Reference 6.1.0) will be revised 
+alongsideand included within the agreement of the final CEMP in 
+respect of Work nos 1, 3 and 4 (i.e. those works which are 
+proximate to the Hirwaun Industrial Estate SINC and Hirwaun 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 29 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+Common SINC) to be submitted under Requirement 12, once the 
+detailed construction arrangements are confirmed.  This Method 
+Statement is to must be followed. Furthermore, if developed, 
+Method Statements for marsh fritillary butterfly must be 
+incorporated into the final CEMPEcMP and cross referred in the 
+CEMP; 
+• 
+An Ecological Management Plan(s) will be produced for each Work 
+under Requirement 10 and must be given due regard as part of the 
+final CEMP; 
+• 
+A detailed soil handling and reinstatement strategy will be 
+developed as part of the final CEMP; 
+• 
+Solid hoarding shall be erected along the northern edge of the 
+Power Generation Plant site during demolition; 
+• 
+Any broad-leaved semi-natural woodland habitat lost from outside 
+the permanent easement of the Gas Connection will be reinstated 
+following construction using native species; 
+• 
+Works will be programmed to occur outside periods of high flow i.e. 
+will not be carried out after periods of heavy rainfall; 
+• 
+Prior to each watercourse diversion commencing, in channel 
+vegetation (if present) will be removed and placed on the banks of 
+the watercourse downstream of the crossing point; 
+• 
+The establishment of watercourse diversions will follow a careful 
+procedure including the construction of a dam up stream, followed 
+by the over-pumping of the watercourse downstream, trench 
+excavation and laying of pipeline, trench reinstatement and 
+reinstatement of watercourse; 
+• 
+A pre-construction Otter Monitoring Survey will be undertaken 
+under Requirement 10 but would to inform preparation of the 
+detailed CEMP;. 
+• 
+A simple Otter Method Statement will be prepared for 
+inclusionincluded in the CEMPEcMP ( to capture measures to 
+ensure that otters can cross the working width / working corridor. 
+As otters are most active around dawn and dusk (and therefore 
+temporary obstructions during daylight construction are unlikely to 
+require specific mitigation), fencing will be used outside working 
+hours to create suitable commuting routes if necessary; Any 
+trenches / pits which are excavated adjacent to suitable habitat are 
+to be covered over outside working hours, or include an appropriate 
+ramp to allow an otter to escape; and  
+ 
+All works in the vicinity of watercourse crossings will be undertaken 
+under the guidance of a suitably qualified Ecologist;.  
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 30 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+During construction, instead of creating new gaps in linear features, 
+existing gaps will be utilised wherever possible;  
+• 
+Light spillage onto linear features will be avoided by the use of 
+directional lighting. The project will have regard to The Institute of 
+Lighting Engineers/Bats Conservation Trust Best Practice 
+Guidance in relation to lighting and bats; 
+• 
+Tree and shrub clearance will take place outside of the breeding 
+bird season; 
+• 
+The demolition of the two buildings within the Power Generation 
+Plant compound which are used by barns swallows will be 
+mitigated for by installing suitable ledges or readymade nests within 
+the proposed bat mitigation structure; 
+• 
+Measures to avoid the incidental mortality or injury of reptiles and 
+amphibians will be incorporated into vegetation and site clearance 
+methodologies; 
+• 
+A pre-construction ecological constraints survey will be undertaken 
+to confirm the ecological status of the site prior to demolition and 
+construction works commencing; 
+• 
+In relation to temporary effects on marshy grassland habitats, a 
+detailed soil handling and reinstatement strategy will be developed 
+as part of the CEMP.  This will be informed by pre-construction soil 
+and vegetation surveys.  This will ensure impacts on marshy 
+grassland soils within the Gas Connection route are minimised 
+during site clearance, construction and restoration, maximising the 
+success of the habitat restoration; 
+• 
+A pre-construction survey of the site for marsh fritillary larval food-
+plants (i.e. any of the scabious species) will be undertaken in the 
+summer preceding construction of the Gas Connection. Should any 
+food-plants be found the survey will be extended to include a 
+search for larval webs in late summer; 
+• 
+In the unlikely event marsh fritillary are detected then a specific 
+method statement will be developed to ensure construction-related 
+impacts on individual butterflies/larvae are avoided, for example by 
+translocation of larval food webs to outside the construction 
+footprint. Any such Method Statement, if required would be 
+developed in consultation with NRW and the RCTCBC Ecologist; 
+• 
+Any broad-leaved semi-natural woodland habitat lost from outside 
+the permanent easement of the Gas Connection will be reinstated 
+following construction using native species.  Native species only 
+will be used, sourced from stock of local provenance if possible; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 31 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+During construction, the working width will also be minimised as far 
+as possible; 
+• 
+Demolition of buildings known to be used by breeding birds will 
+either take place outside the breeding bird season, or will be 
+preceded by blocking potential nesting locations in the winter prior 
+to demolition;   
+• 
+Additional tree planting will also be provided immediately west of 
+the A4061 at the southern end of the Gas Connection;   
+• 
+The Landscape Strategy will also include reinstating any species-
+poor hedgerows removed with species-rich hedgerow planting, and 
+providing an increased diversity of tree/scrub species in 
+replacement woodland/scrub planting mixes.  All re-instatement 
+planting will be native species;  
+• 
+In addition bird boxes will be erected on retained vegetation within 
+HPL’s ownership; 
+• 
+Monitoring of breeding bird populations will take place 1 and 3 
+years post-construction;  
+• 
+Reptiles and amphibians In order to ensure the incidental mortality 
+of reptiles/amphibians is avoided, suitable terrestrial habitat for 
+these species will be cut carefully to a height of under 15 cm prior 
+to construction and site clearance commencing.  This will 
+encourage those species to leave the Project Site; 
+• 
+Otters The works programme will be staged so as to minimise the 
+length of time works are carried out along any watercourse affected 
+by construction of the Gas Connection; 
+• 
+Watercourse crossings would be worked on for the minimum 
+duration necessary (with the intent being for the duration of in-
+channel works to last no more than one day per watercourse); 
+• 
+Trenches and holes shouldshall be covered when not being worked 
+on to prevent entry by mammals and where this is not possible 
+exist and escape routes such as ramps or mammal ladders will be 
+provided; and 
+• 
+Open entrances to pipes and pipelines shouldshall be covered 
+when not being worked on to prevent access by mammals.  
+3.7 
+Landscape and Visual Impacts 
+3.7.1 
+The following mitigation measures, as outlined in the ES will be 
+implemented during the construction phase in order to specifically limit 
+impacts on landscape and visual amenity of the surrounding area:  
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 32 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+The retention and management of existing vegetation wherever 
+possible; 
+• 
+Planting, hard landscaping and other mitigation substantially in 
+accordance with ES Figure 11.5; 
+• 
+Implementation of the Lighting Strategy; 
+• 
+Temporary storage of topsoil and any other material considered of 
+value for retention. Where practical stores would be sited to screen 
+the construction works; 
+• 
+Agreed site access points; 
+• 
+Maintenance of tidy and contained site compound; 
+• 
+Where feasible, perimeter screen planting will be undertaken in 
+advance of the works to be effective on completion of the 
+construction works;  
+• 
+Where practicable storage of topsoil will take place, with siting, to 
+screen and/or provide a physical buffer between the construction 
+works and more sensitive receptors;  
+• 
+Temporary protection (in accordance with Best Practice) of any 
+boundary vegetation to be retained;  
+• 
+The design and layout of site construction areas will reduce 
+adverse impacts arising from temporary security fencing and 
+lighting;  
+• 
+The removal of all temporary structures and stockpiles when no 
+longer required;  
+• 
+Spreading of topsoil, reseeding and planting within the Project Site 
+and adjoining areas that are to be reinstated as soon as possible 
+after sections of work are complete;  
+• 
+Management of all reinstates area in accordance with a 5 year 
+aftercare plan to help ensure full and successful establishment of 
+the planting to the approval of the planning authority; and 
+• 
+The prompt reinstatement of temporary construction areas when no 
+longer required.  
+3.8 
+Archaeology / Cultural Heritage 
+3.8.1 
+An assessment of the potential archaeological and cultural heritage 
+resource at the site has been undertaken as part of the ES.  Although 
+the potential impacts on archaeology are low, they cannot be ruled out 
+completely.  
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 33 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+3.8.2 
+A Written Scheme of Investigation (WSI) will be prepared in advance of 
+demolition / construction commencing.  This will set out investigative 
+measures such as evaluation trenching prior to construction, and 
+monitoring of ground disturbance during construction and topsoil 
+stripping activities.   
+3.9 
+Artificial Lighting 
+3.9.1 
+The Project Site will require artificial lighting during construction to 
+provide a safe working site during hours of darkness.  An outline 
+lighting strategy has been prepared to support the DCO Application 
+(document reference [6.2.0] Appendix 11.2) and compliance with this is 
+secured by Requirement 16 of Schedule 2 of the DCO.  The It 
+shouldshall also inform the CEMP in terms of general design objectives 
+that will be used to ensure that adverse effects of lighting associated 
+with demolition and construction of the Project are minimised are listed 
+below: 
+• 
+Use appropriately designed luminaires for the task at hand;  
+• 
+Use louvres and shields to prevent undesirable light break-out; 
+• 
+Demolition and construction lighting shouldshall be directed away 
+from all sensitive receptors;  
+• 
+Preference shouldshall be given to several, lower lighting units 
+rather than tall, wide beam lighting units to illuminate large areas as 
+it will limit light trespass, glare and sky glow from the plant; 
+• 
+Vehicle lights shouldshall be properly directed (conforming to MOT 
+requirements) and lenses must be intact to prevent un-necessary 
+glare and light intrusion;  
+• 
+Lighting shouldshall be reduced or switched off when not required 
+for safety purposes. Security lighting shouldshall be kept at the 
+minimum level needed for visual and security protection; and   
+• 
+If appropriate, the use of infra-red floodlighting and CCTV systems 
+shouldshall be considered for security to reduce the need for visible 
+lighting outside working hours.  
+3.9.2 
+Specific ecological design objectives that will be implemented to ensure 
+that adverse effects of lighting associated with demolition and 
+construction of the Project are minimised are listed below: 
+• 
+There shouldshall be no light intrusion beyond the boundary of the 
+proposed Project Site and particularly within the SINC to the north 
+of the Project Site which is a habitat that supports breeding birds 
+and bats; 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 34 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+• 
+There shouldshall be no night-time working within the SINC while 
+construction of the Gas Connection and above ground facility takes 
+place; 
+• 
+No task lighting shouldshall be used between the Power 
+Generation Plant to the north and the proposed laydown area (in 
+the existing car park) to the south to avoid fragmentation of habitats 
+at night-time; 
+• 
+No temporary lighting shouldshall be installed along the Gas 
+Connection corridor between the main site and the working area of 
+the pipeline to avoid fragmentation of habitats used by bats at 
+night-time; and 
+• 
+Dark corridors shouldshall be maintained on hedgerows and 
+watercourses and any other linear features by avoiding light 
+trespass on these areas. This will avoid the fragmentation of habitat 
+used by species such as bats and also otters that use these 
+features to move at night-time. 
+ 
+ 
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 35 - 
+ 
+ 
+Hirwaun Power Project Outline CEMP 
+ 
+4 
+ CONCLUSIONS 
+4.1.1 
+This outline CEMP provides a framework on which the construction 
+contractor should will be required to base a more detailed CEMP.  
+4.1.2 
+Although no significant impacts are predicted as a result of the 
+construction phase of the Project, the mitigation measures outlined 
+herein will ensure that the lowest level of risk possible is placed on the 
+environment.  
+4.1.3 
+Mitigation measures have been outlined to limit impacts of noise levels, 
+air quality, contaminated land and groundwater, ecology, archaeology 
+and cultural heritage, landscape and visual amenity and artificial 
+lighting. These mitigation measures shouldshall be taken forward for 
+further consideration when preparing the detailed CEMP.   
+4.1.4 
+It has also outlined a series of general best practice principles which 
+shouldshall be adhered to, including; a register of environmental 
+impacts, the production of risk assessments and Method Statements, 
+the adherence to Site Environmental Standards, the production of an 
+operations Environmental Management System, dealing with Public 
+Relations, the monitoring and measurement of construction activities 
+and the roles and responsibilities of key site staff.   
+HIR-8930-PB-ENV-RPT-R40-CEMP tracked 
+Prepared by Parsons Brinckerhoff 
+March 2014
+March 2014 
+for Hirwaun Power Limited 
+ 
+- 36 - 

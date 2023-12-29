@@ -1,0 +1,1185 @@
+Environmental Research Communications
+PAPER • OPEN ACCESS
+Quantifying forest growth uncertainty on carbon payback times in a
+simple biomass carbon model
+To cite this article: Will Rolls and Piers M Forster 2020 Environ. Res. Commun. 2 045001
+ 
+View the article online for updates and enhancements.
+This content was downloaded from IP address 5.71.70.206 on 09/04/2020 at 09:58
+Environ. Res. Commun. 2 (2020) 045001
+https://doi.org/10.1088/2515-7620/ab7ff3
+PAPER
+Quantifying forest growth uncertainty on carbon payback times in a
+simple biomass carbon model
+Will Rolls
+and Piers M Forster
+Priestley International Centre for Climate, University of Leeds, Leeds, West Yorkshire, United Kingdom
+E-mail: w.j.rolls@leeds.ac.uk
+Keywords: biomass fuels, LCA, forest model, payback period, carbon sequestration parity, forest carbon, soil carbon
+Abstract
+In 2018 Sterman et al (2018a) published a simple dynamic lifecycle analysis (DLCA) model for
+forest-sourced bioenergy. The model has been widely cited since its publication, including
+widespread reporting of the model’s headline results within the media. In adapting a successful
+replication of the Sterman et al (2018a) model with open-source software, we identiﬁed a number of
+changes to input parameters which improved the ﬁt of the model’s forest site growth function with
+its training data. These relatively small changes to the input parameters result in relatively large
+changes to the model predictions of forest site carbon uptake: up to 92 tC.ha−1 or 18% of total site
+carbon at year 500. This change in estimated site carbon resulted in calculated payback periods
+(carbon sequestration parity) which differed by up to 54 years in a clear-fell scenario when
+compared with results obtained using previously published parameters. Notably, this uncertainty
+was conﬁned to forests which were slower growing and where the model’s training dataset was not
+sufﬁciently long for forests to reach maturity. We provide improved parameterisations for all forest
+types used within the original Sterman et al (2018a) paper, and propose that these provide better ﬁts
+to the underlying data. We also provide margins of error for the generated growth curves to indicate
+the wide range of possible results possible with the model for some forest types. We conclude that,
+while the revised model is able to reproduce the earlier Sterman et al (2018a) results, the headline
+ﬁgures from that paper depend heavily on how the forest growth curve is ﬁtted to the training data.
+The resulting uncertainty in payback periods could be reduced by either obtaining more extensive
+training data (including mature forests of all types) or by modiﬁcation of the forest growth
+function.
+Introduction
+The use of biofuels is a signiﬁcant element in global climate change mitigation strategies (Smith et al 2014, Rogelj
+et al 2018). These fuels have been attractive because, while biofuels do release CO2 on combustion, the
+regeneration of biofuel feedstocks can result in the absorption of an equal quantity of CO2. This regenerative
+ability in biofuels (unlike fossil fuels which do not regenerate during any meaningful timeframe: Rose et al 2014)
+has historically led to an assumption of ‘carbon neutrality’ of energy from biofuels (Buchholz et al 2016, Smith
+et al 2014).
+While this assumption can be broadly true (assuming that the feedstock regenerates as expected, omitting
+supply chain emissions, and depending on the deﬁnition of ‘carbon neutral’: Malmsheimer et al 2011) a period
+of elevated atmospheric CO2 may still exist because of the disparity between the rates of carbon emission and
+uptake relative to a counterfactual scenario. This has been described as a ‘carbon debt’ (Fargione et al 2008) site
+carbon is ‘spent’ on combustion, and takes a period of time to be ‘repaid’. The time required to pay back the debt
+varies depending on the carbon emissions of the relevant supply chains, and recovery of the forest where the
+feedstock originated.
+OPEN ACCESS
+RECEIVED
+24 January 2020
+REVISED
+4 March 2020
+ACCEPTED FOR PUBLICATION
+13 March 2020
+PUBLISHED
+6 April 2020
+Original content from this
+work may be used under
+the terms of the Creative
+Commons Attribution 4.0
+licence.
+Any further distribution of
+this work must maintain
+attribution to the
+author(s) and the title of
+the work, journal citation
+and DOI.
+© 2020 The Author(s). Published by IOP Publishing Ltd
+An extensive array of possible methodological choices (Buchholz et al 2016, Breton et al 2018) terminology
+(Malmsheimer et al 2011, Mitchell et al 2012, Bentsen 2017) and accounting assumptions (Lamers and
+Junginger 2013, Ter-Mikaelian et al 2015, Bentsen 2017) as well as the possibility of long periods of carbon debt,
+has led to a wide range of estimated payback periods (the time taken for a biomass scenario to outperform a
+counterfactual in terms of emissions over time: described as Carbon Sequestration Parity in Mitchell et al 2012)
+and conﬂicting opinions about the advisability of using forest biomass for energy. Variability in the results
+available from the literature, debate about the inclusion of different factors, and over-simpliﬁed communication
+of the beneﬁts and costs of biomass use (Searchinger 2012, Searchinger and Heimlich 2015, Moomaw 2018a,
+Isaacs 2019) has been interpreted more widely as a lack of consensus. This has resulted in a range of responses in
+the policy sphere (e.g. FERN 2011, RSPB 2012, Brack 2017) which are not necessarily fully informed (Slade et al
+2018).
+In 2018 Sterman et al (2018a) published a simple dynamic lifecycle analysis (DLCA) model (Sterman et al
+2018a) as an addition to an existing modelling framework (C-Roads Sterman et al 2012). Their intent was to
+allow policy makers to rapidly compare the climate effect of different policy alternatives over time, and to
+provide indicative results to guide regulatory development (Rooney-Varga et al 2019). The model has been
+widely cited since its publication (e.g. Norton et al 2019, Kalt et al 2019, Boumanchar et al 2019, Reid et al 2020,
+Maxwell et al 2020, Schlesinger 2018, Teske 2018). This publicity has included widespread reporting of the
+model’s results within the media (Moomaw 2018b, Beeler and Morrison 2018, Smith 2020, Beswick 2018).
+Given the lack of clarity, agreement, and the degree of uncertainty which already exists in attempting to estimate
+payback periods, and the widespread acceptance of the ﬁndings of the Sterman et al (2018a) model: described as
+‘well documented and thorough’ (Prisley et al 2018), we developed a replication of the Sterman et al (2018a)
+model in an open source framework to serve as a common foundation for future work, addressing the effects of
+differing assumptions, parameterisations, and scenarios.
+While others have identiﬁed a number of potential weaknesses in the assumptions made by Sterman et al
+(2018a) (silvicultural practice Prisley et al 2018, responded to in Sterman et al 2018b, and biomass end-use
+efﬁciency Dwivedi et al 2019) little attention has been paid to the parameters governing simulated forest site
+regrowth. In testing our replication of the model, we identiﬁed uncertainties in the modelled forest growth
+curves, which have a profound impact on the reliability of results from ﬁve of the eight region/species
+combinations previously published by Sterman et al (2018a).
+Research objectives
+The work was carried out with reference to two key research objectives:
+Firstly, the paper by Sterman et al (2018a) has been widely cited in the academic literature, policy brieﬁngs/
+recommendations and the press (as described above). We produced a model based on a similar framework
+which is simple/easy to modify; fully open source; and easy to calibrate to different assumptions. This tool was
+intended to facilitate comparisons between the wide range of different techniques, experimental decisions and
+assumptions which already exist in the literature.
+Secondly, our work identiﬁed a level of uncertainty in the results as obtained by Sterman et al (2018a) that
+they did not discuss. We draw attention to this discrepancy, identify possible solutions, and caution against
+undue reliance on the affected results.
+Method
+Sterman et al (2018a) model analysis
+The Sterman et al (2018a) model is available under an open access licence, although it operates inside a closed-
+source framework which requires a full, ‘professional’, licenced copy of the VENSIM software (Venata
+Systems 2017) to work. The model is formed of two key components: (1) equations describing the supply chain,
+which are used to calculate the emissions associated with fuel production and use (a life cycle assessment: LCA
+calculation) and (2) a site model which calculates ongoing changes in carbon on a forest site and in the
+atmosphere after felling has taken place (a dynamic component to the LCA). While closer analysis of the supply
+chain variables and calculation may be warranted, here we focus on the forest site model.
+The site model makes use of the ﬂexible Chapman-Richards growth function (Richards 1959, Pienaar and
+Turnbull 1973, Zhao-gang and Feng-ri 2003) parameterised to represent aboveground carbon in forest sites.
+This function is used to represent gross primary productivity (GPP) of a forest site, while simple multiplication
+by dimensionless constants is used to approximate forest respiration; organic carbon deposition; and
+heterotrophic respiration.
+2
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+The model was parameterised for eight different forest types in the USA (listed in table 1) by using a least-
+squares non-linear regression method, which is common (‘invariably’ used: Burkhart and Tomé 2012, p 239)
+within forest model development. The method uses a solution-ﬁnding algorithm to ﬁt a mathematical
+representation of the forest growth curve to representative data-points with the minimum degree of error. This
+provides an approximation of actual forest growth behaviour which can be used to predict forest growth values
+where actual data is not present (e.g. in different time-steps, or over extended time periods). In this case, the
+model was trained using average values for forest and soil carbon produced by the USDA (Smith et al 2006). This
+dataset has been constructed using a combination of sample plots, and interpolation of data using the
+FORCARB2 model (Smith et al 2006, p 13). While uncertainties exist, and the data is unsuitable for smaller scale
+(stand-level) modelling, (Smith et al 2006, p 17) this data has been widely used in other projects (e.g. Jenkins et al
+2010, Pan et al 2011, Lawler et al 2014, Adams et al 2018) for high-level estimates of carbon storage. The resulting
+model represents a high-level statistical approximation of forest growth (deﬁned in Weiskittel et al 2011) which
+allows interpolation of values between the 5-year intervals in the data and extrapolation beyond the end of the
+dataset.
+This approach has limitations, speciﬁcally resolution and predictive capacity. Generalisation implicit in the
+training data (average forest growth over a wide range of local site types) limits the applicability of the model to
+individual stands or spatially explicit areas - providing only high-level estimates. The lack of process-based
+calculation limits the model’s ability to take account of varying site conditions (climate, soil, exposure), complex
+silvicultural systems (thinning, or selection fellings), and stochastic factors (e.g. ﬁre or pest outbreak). This
+method does, however, have value as a tool to look at the approximate effect of management of large areas of
+forest to simple silvicultural systems in a more abstract/theoretical setting. This is particularly useful when
+looking at the carbon dynamics of biomass where a number of misconceptions persist (Ter-Mikaelian et al 2015,
+Bentsen 2017).
+Replicating the Sterman et al (2018a) model
+We recreated the model developed in Sterman et al (2018a) in a general-purpose, object-oriented, high-level
+programming language: Python. This was carried out using the Anaconda Python distribution (available from
+www.anaconda.com) which is already widely used in the research community and is distributed with an
+extensive ecosystem of open-source libraries and modules.
+Our implementation: the ‘Simple Biomass Comparison Model’ (SBCM: included as supplementary
+material, most recent version downloadable from github.com/Priestley-Centre/SBCM) follows the same
+pattern as described above. SBCM compares emissions over time resulting from 1) fossil fuel production and
+use, and 2) biomass production, use, and subsequent forest site recovery.
+The model was initially compared to the results published by Sterman et al (2018a) to check the success of the
+replication, this was carried out using a scenario based on a clear-fell of forest in order to supply biomass
+(equivalent to scenario S3 in Sterman et al 2018a). The biomass supply scenario was compared with a
+counterfactual (fossil fuel) scenario with energy derived from coal with an implicit assumption that there would
+be no emissions from the forest site in the absence of biomass production. While this may not always be an
+appropriate comparison (Ter-Mikaelian et al 2015, Koponen et al 2018) it was used to allow a direct comparison
+of results with those obtained by Sterman et al (2018a).
+Table 1. Species/region types covered by the Sterman et al
+(2018a) model.
+Region of USA
+Common name
+Maple/beech/birch
+North East
+Oak/hickory
+Oak/pine
+Oak/hickory
+South Central
+Oak/pine
+Short-leaved/loblolly pine plantation
+South East
+Short-leaved/loblolly pine plantation
+Long-leaved/slash pine plantationa
+a Occasionally mislabelled in Sterman et al (2018a) supple-
+mentary information as long-leaved/loblolly pine.
+3
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Agreement between SBCM and the Sterman et al (2018a) model (using the same parameters) in terms of
+forest growth over the ﬁrst hundred years is very good (<1tC.ha−1) but not exact in terms of maximum values
+for carbon over extended time periods (varying by up to 36tC.ha−1 for above-ground carbon at year 500). In
+view of this uncertainty, a curve ﬁtting approach was developed in Python software to see whether
+improvements to the model parameterisation could be made, and whether a better ﬁt of the training data would
+result in a closer agreement with Sterman et al (2018a).
+Stermanetal(2018a)usethe[optimizer]functioninVensimtoapplyleastsquaresnon-linearregressionand
+MarkovChainMonteCarlomethodstodeterminemodelparameters.Thisisdescribedindetailintheir
+supplementarymaterial(Stermanetal2018aavailableonlineatstacks.iop.org/ERC/2/045001/mmedia)but,in
+summary,theyrestrictedthematchingalgorithmtoparameterswhichgeneratevalueswhichsatisfytwosetconditions:
+1. Theinitialvaluesforforestandsoilcarbonmustequalyearzerovaluesinthetrainingdata(fromSmithetal2006)
+2. The curve must result in the smallest achievable root mean squared error (RMSE) values between the data
+and modelled output.
+We used a similar approach in our replication of the model, using the [scipy] Python library. The [scipy.
+optimize] function for Python contains a number of different algorithms for curve ﬁtting (table 2) and for the
+weighting given to outlying data (table 3). The training data produced by the USDA (Smith et al 2006) which in
+turn were based on a series of estimates from the Forestry Inventory and Analysis Database (USDA Forestry
+Service 2005) contains values for forest and soil carbon for forests over the ﬁrst 90 or 125 years of growth
+(depending on forest type). This contains the full growth curve (planting to maturity) of plantation forests;
+however, natural forests (and forest soils) take far longer to reach equilibrium and data over this timescale was
+not present. This projection of the growth curve beyond the length of the ﬁtting data results in additional
+uncertainties (as discussed below).
+A full range of possible combinations of algorithm and loss function were attempted in two permutations:
+ﬁrstly, with the model parameters unconstrained (simply looking for the best ﬁt possible, with very loose limits
+on possible parameter values) and, secondly with constraints applied—requiring the ﬁrst value in the results to
+equal the ﬁrst value in the USDA training data (±1 tC.ha−1). In both cases the ﬁt of the modelled output to the
+training data was assessed by calculating the RMSE.
+Using a subset of possible parameterisations (40 of 240) which resulted in an improved RMSE score over
+Sterman et al (2018a) SBCM was run to determine: the changes over time in forest and soil carbon storage, the
+carbon storage when mature (at ‘equilibrium’ as discussed by Sterman et al 2018a–assumed to be reached when
+forest and soil carbon is 99% of the potential maximum value) and the effect that parameter changes have on
+payback period.
+In each case, the supply-chain model used the original parameterisation for supply chain efﬁciencies and
+emissions (from Sterman et al 2018a) without incorporating the modiﬁcation of the efﬁciency parameter used
+by Dwivedi et al (2019) to allow a comparison with the original model results.
+Table 2. Algorithms from the [scipy.optimize.leastsquares] function.
+Algorithm
+Notes
+lm
+Levenberg-marquardt algorithm (Moré 1978).
+trf
+Trust region reﬂective (Branch et al 1999).
+dogbox
+A trf implementation using a rectangular trust region
+(Voglis and Lagaris 2004, Nocedal and
+Wright 2006).
+Table 3. Loss functions providing different weight to
+outliers (Scipy.org 2019).
+Loss function
+Formula
+Linear
+r
+z =
+z
+( )
+Soft_l1
+r
+=
+´
++
+-
+z
+z
+2
+1
+1
+0.5
+( )
+((
+)
+)
+Huber
+r
+=
+´
+-
+
+z
+z if z
+else
+z
+1
+2
+1
+0.5
+( )
+Cauchy
+r
+=
++
+z
+z
+ln 1
+( )
+(
+)
+Arctan
+r
+z =
+arctan z
+( )
+( )
+4
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Results
+SBCM evaluation
+Results for forest growth obtained by running SBCM using the standard parameters in Sterman et al (2018a)
+supplementary information table S3 show good agreement with values published by Sterman et al (2018a) over a
+modelled period of 100 years (as shown in ﬁgure 1). Notably; however, the forest carbon levels at equilibrium
+(maturity) are consistently higher than those reported by Sterman et al (2018a as shown in ﬁgure 2). This raises
+questions, as SBCM also returns lower RMSE values than were originally published in some cases (ﬁgure 3).
+The effect of re-parameterisation
+Of the 240 permutations assessed using our method (30 per forest type) 40 returned results with a better RMSE
+error than that reported by Sterman et al (2018a) shown in ﬁgure 4 (the full range of results are available online).
+The increased range of possible parameterisations, while achieving marginal improvements in RMSE over
+the original Sterman et al (2018a) model resulted in a high degree of uncertainty in terms of the changes in forest
+Figure 1. Forest and soil carbon values extrapolated using SBCM and the parameterisation used by Sterman et al. (2018a) Small
+discrepancies do exist, but growth over the ﬁrst hundred years is visually indistinguishable from results published by Sterman et al
+(2018a supplementary material ﬁgure S2 page 11). Plantations are denoted with*.
+5
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+and soil carbon predicted by SBCM (which is unsurprising due to the numerical instability of the Chapman -
+Richards growth function: Ratkowsky 1983, Burkhart and Tomé 2012). In ﬁve of the eight forest types assessed,
+revised parameterisation resulted in substantial expansions of the uncertainty associated with site carbon,
+particularly in levels of soil carbon (see ﬁgure 5, which shows the range of possible outcomes using improved
+parameterisations). It is notable that this increase in uncertainty is conﬁned to slower growing species mixtures
+Figure 2. A comparison between forest carbon equilibrium values published by Sterman et al (2018a) supplementary information
+table S3 and results from SBCM using the same parameters. All values are of forest carbon at year 500 (plantations are denoted with*).
+Figure 3. A comparison between RMSE values published by Sterman et al (2018a supplementary information table S3) and SBCM
+using the same parameters. Some variability exists between models which prompted further work. Plantations are denoted with*.
+6
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+where the entire growth curve was not present within the training dataset. In contrast, all three plantation forests
+show very similar outcomes regardless of parameterisation (ﬁgure 5 below). This supports the assertion in
+Burkhart and Tomé (2012) that the Chapman—Richards growth curve can result in more accurate outcomes
+when an estimated asymptote is added, as these forest types contain values close to the asymptote within the
+training data.
+Changes in payback periods
+Taking the range of growth curves into account and running the model for the full range of improved
+parameterisations (again using a 95% clear-fell scenario: equivalent to Sterman et al 2018a scenario S3) we found
+that the range of possible payback periods expands (ﬁgure 6). In each case, the values obtained using the Sterman
+et al (2018a) parameterisation fall at the top of the range of possible outcomes, and multiple estimates of shorter
+payback periods also ﬁt the available data to a comparable degree. This is due primarily to the rate of emission to
+the atmosphere from the soil carbon pool. The rate of emission is directly proportional to the carbon pool size
+and, since this size and the time required for the pool to saturate are uncertain, this has a strong effect on the net
+emissions of the system shortly after felling.
+There is a considerable difference between forests labelled by Sterman et al (2018a) as ‘natural’
+(predominantly naturally regenerated hardwoods) and plantations (planted pine forests in the southern USA).
+Natural forests showed greater variation in terms of the time taken to reach maturity, the embodied carbon in a
+mature forest site, and the payback times associated with their use for biomass fuel. In contrast, plantation
+forests exhibited very low levels of uncertainty throughout. We argue that this pattern is due to extension of
+growth curves beyond the end of the ﬁtting data. Of the forest types studied, all of the natural forests required
+long periods of time to reach maturity (equilibrium). The length of the datasets available to train the model were
+either 90 or 125 years, and this often fell short of capturing the entire growth curve. The faster growing
+plantation forests reached maturity comfortably within the timeframe available. A summary of the dataset
+length and years required to reach maturity is shown in table 4.
+A further illustration of this effect can be seen in ﬁgure 7. There is a statistically signiﬁcant correlation
+(p=6.26×10−6) between the degree to which data has been extrapolated and standard deviation of the site
+carbon at equilibrium.
+Figure 4. A comparison of RMSE values published by Sterman et al (2018a) supplementary information table S2) and those obtained
+by re-parameterisation of the model. All values are restricted to parameterisations with a better ﬁt than Sterman et al (2018a) (40 in
+total) for clarity. Plantations are denoted with*.
+7
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Discussion and conclusions
+While there are small discrepancies between the forest site model results from the newly developed SBCM and
+Sterman et al (2018a) the overall match is good (ﬁgure 1), and we conclude that SBCM replicates the earlier
+model well.
+In investigating disagreements between previously published results (Sterman et al 2018a) and the output of
+SBCM, we were not able to adjust the model parameterisations to achieve a large improvement in the ﬁt with the
+training data (ﬁgure 4). It is signiﬁcant, however; that the small improvements that were achieved, resulted in
+substantial changes to carbon uptake estimates generated by the model (ﬁgure 5). New parameterisations
+revealed large uncertainties in terms of the time carbon stocks take to reach equilibrium as well as the quantity of
+carbon stored on forest sites. This is believed to be due to the sensitivity of the growth function used within the
+model to minor changes in input parameters (numerical instability: discussed in Ratkowsky 1983).
+Figure 5. Full uncertainty of forest and soil carbon levels under all improved parameterisations Shaded areas contain the full range of
+outcomes possible from extrapolating parameterisations with a better ﬁt than those obtained by Sterman et al (2018a) ±RMSE. Solid
+lines indicate the results obtained from SBCM under the Sterman et al (2018a) parameterisation. Plantations are denoted with*.
+8
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+It is notable that the wide variation in possible growth rates exists only in the forests described by Sterman
+et al (2018a) as ‘natural’. The common feature in these forests is that the full growth curve is not fully represented
+within the training data, as forest growth to maturity takes longer than the 125 years available from Smith et al
+(2006). This failure to specify a value on or near the asymptote of the curve is known to provide less accurate
+results when using the Chapman—Richards growth function (Burkhart and Tomé 2012). Faster growing
+‘plantation’ forests do not suffer from this problem: the entire growth curve (including the asymptote) is
+contained within the training dataset; and consequently, the variation in output is very low. We conclude that
+the modelled outputs for these site types are more reliable and less prone to error than those from slower
+Figure 6. Carbon payback period (carbon sequestration parity) under different parameterisations. Once again, the variation between
+minimum and maximum values is far lower in the plantation forests (*).
+Table 4. Comparison of time taken for forests to reach maturity and the length of the dataset used to train the model NB. The time required
+for forest soils to reach an equilibrium is substantially longer.
+Region/species
+Min
+Mean
+Max
+Length of training dataset
+(years)
+NE maple/beech/birch
+forest
+263
+316
+342
+125
+soil
+513
+1118
+2403
+NE oak/hickory
+forest
+374
+476
+573
+125
+soil
+480
+602
+768
+NE oak/pine
+forest
+212
+235
+250
+125
+soil
+477
+709
+1073
+SC oak/hickory
+forest
+196
+223
+271
+90
+soil
+713
+1310
+3309
+SC oak/pine
+forest
+247
+261
+271
+90
+soil
+946
+1796
+4176
+SC shortleaf/loblolly pine (plantation)
+forest
+35
+35
+35
+90
+soil
+148
+160
+169
+SE shortleaf/loblolly pine (plantation)
+forest
+34
+34
+35
+90
+soil
+256
+281
+324
+SE longleaf/slash pine (plantation)
+forest
+34
+34
+35
+90
+soil
+244
+278
+305
+9
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+growing forests. In all forest types, the degree of variation is well correlated with the degree to which the growth
+curve has been extrapolated beyond the available training data (as shown in ﬁgure 7).
+The variability exhibited by the ‘natural’ forest types is signiﬁcant given the reliance of the original model on
+the assumption that forests are biologically mature (at equilibrium) before felling and that this has occurred by
+year 500. In the absence of an extended input dataset, we conclude that it is not possible to determine which
+parameterisation for ‘natural’ forests is most appropriate when using the current growth function (indeed, the
+values preferred by Sterman et al (2018a) may be the best ﬁt with real-world situations).
+We acknowledge the argument by Prisley et al (2018) that the lack of more nuanced silvicultural systems is a
+weakness in the model. We suggest that this, when combined with the uncertainty inherent in the slower
+growing ‘natural’ forests, raises important questions about the ability of the model to accurately predict payback
+times in these forest types. Based on our range of possible parameterisations, the range of possible carbon
+payback periods when modelling ‘natural’ forests expanded by between 21 and 54 years. This is in contrast to
+range of possible payback periods when modelling ‘plantation’ forests, which in each case was within one year
+(ﬁgure 6). We found that in every case the values published by Sterman et al (2018a) represented the maximum
+payback period achieved, suggesting a potential bias in their parameterisation. We conclude that, while the
+paper produced by Sterman et al (2018a) has been widely cited and discussed, its headline ﬁgures contain a level
+of uncertainty which is not apparent. This uncertainty can be limited by use of a growth function which does not
+suffer from the same instability, or collection of an extended dataset for very old forests (to provide an
+asymptote, limiting the range of possible growth curves produced).
+We recommend the inclusion of robust error/uncertainty reporting (included in tables 5a and 5b) when
+discussing the climate effect of biomass fuel production from these site types when using this model. We have
+provided a summary of our best parameterisations below (table 6) and these are also available in the
+supplementary information.
+This work sits within a wider programme of research to address the large uncertainties in the literature when
+calculating the carbon dynamics of forest growth and biomass fuel use. This work is ongoing, and is being
+carried out through expansion of the SBCM model framework. In the short term we intend to mitigate the
+uncertainty addressed in this paper by restricting assessments to either time horizons which do not extrapolate
+beyond the training data (max 125 years) or are based on forest types which are not affected (the ‘plantation’
+forests). Future work will be based around incorporation of an alternative growth function, development of a
+wider range of silvicultural options (as per Prisley et al 2018), modiﬁcation of the scenarios available (as per
+Dwivedi et al 2019) and better reﬂection the effect of biomass production on different forested sites and wider
+landscapes.
+Figure 7. Comparison of the change in site carbon storage with extent to which values have been extrapolated beyond the training
+data. Values on the x axis is equal to the time taken for the site to reach full maturity (including soil), minus the number of years for
+which the ﬁtting data is available. Error bars represent standard deviation. Plantation forests (denoted with*) show very low variation,
+and the error bars are obscured by the data-point. The dotted line is a linear best ﬁt for the data points (r2=0.986).
+10
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Table 5a. Calculated values for soil and forest carbon with margins of error based on the range of parameterisations identiﬁed above. Margins of error were calculated using highest and lowest estimates ± appropriate RMSE value.
+year
+NE maple/beech/birch forest (tC.ha−1)
+NE oak/hickory forest (tC.ha−1)
+NE oak/pine forest (tC.ha−1)
+SC oak/hickory forest (tC.ha−1)
+forest
+soil
+forest
+soil
+forest
+soil
+forest
+soil
+62.4
++4.2
+117.9
++13.0
+84.6
++3.5
+86.6
++8.8
+59.1
++3.9
+118.5
++3.9
+57.3
++2.9
+56.4
++1.4
+25
+−7.5
+−13.3
+−6.9
+−10.0
+−8.4
+−17.2
+−1.5
+−6.7
+101.7
++4.3
+116.1
++15.3
+138.9
++3.7
+79.6
++9.5
+100.0
++3.9
+117.4
++4.0
+102.4
++2.3
+59.3
++1.4
+50
+−6.5
+−15.1
+−6.8
+−10.6
+−6.2
+−20.3
+−1.6
+−7.5
+150.3
++4.6
+128.5
++11.0
+215.8
++3.6
+87.9
++6.1
+150.9
++3.8
+127.9
++3.9
+162.9
++4.6
+71.6
++1.4
+100
+−5.0
+−10.1
+−5.2
+−6.8
+−5.4
+−13.3
+−1.7
+−4.7
+174.5
++6.1
+149.0
++5.3
+263.8
++6.9
+107.3
++5.9
+173.1
++3.9
+145.3
++3.7
+184.4
++13.6
+87.7
++8.0
+150
+−6.9
+−8.3
+−6.9
+−5.4
+−9.1
+−8.7
+−1.4
+−3.1
+186.4
++7.6
+169.9
++6.8
+293.8
++11.8
+126.9
++6.4
+181.6
++4.0
+162.9
++5.8
+189.9
++20.9
+104.1
++12.4
+200
+−9.6
+−12.0
+−11.0
+−6.3
+−11.9
+−6.9
+−1.4
+−3.2
+192.2
++8.7
+188.1
++4.7
+312.4
++16.6
+143.2
++4.6
+184.7
++4.1
+178.6
++3.7
+191.2
++24.7
+119.8
++13.3
+250
+−11.7
+−15.4
+−15.7
+−5.2
+−13.4
+−8.0
+−1.4
+−5.5
+197.4
++10.4
+235.5
++15.0
+340.1
++30.4
+177.5
++16.5
+186.4
++4.2
+224.7
++4.2
+191.6
++27.5
+185.0
++1.4
+500
+−14.5
+−26.2
+−28.4
+−17.3
+−14.5
+−32.5
+−1.4
+−34.0
+197.5
++10.5
+249.7
++60.3
+342.9
++34.1
+182.5
++24.3
+186.5
++4.2
+246.7
++5.1
+191.6
++27.5
+265.2
++1.4
+1000
+−14.6
+−38.0
+−30.5
+−21.1
+−14.5
+−52.9
+−1.4
+−98.6
+11
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Table 5b. Calculated values for soil and forest carbon with margins of error based on the range of parameterisations identiﬁed above. Margins of error were calculated using highest and lowest estimates±appropriate RMSE value.
+year
+SC oak/pine forest (tC.ha−1)
+SC shortleaf/loblolly pine plantation (tC.ha−1)
+SE shortleaf/loblolly pine plantation (tC.ha−1)
+SE longleaf/slash pine plantation (tC.ha−1)
+forest
+soil
+forest
+soil
+forest
+soil
+forest
+soil
+58.5
++1.5
+64.6
++1.0
+125.3
++1.1
+64.5
++1.0
+132.4
++1.2
+97.4
++1.1
+121.2
++1.3
+133.2
++4.5
+25
+−2.0
+−5.4
+−2.3
+−3.7
+−2.4
+−4.4
+−2.6
+−4.4
+50
+97.8
++1.4
+66.9
++1.0
+134.2
++1.2
+65.0
++1.0
+141.9
++1.3
+98.1
++1.1
+130.4
++1.3
+133.7
++4.1
+−1.8
+−6.2
+−1.2
+−3.0
+−1.3
+−3.7
+−1.3
+−3.9
+146.9
++1.3
+76.1
++1.0
+134.2
++1.2
+66.0
++1.0
+141.9
++1.3
+99.7
++1.1
+130.5
++1.3
+135.1
++3.3
+100
+−2.0
+−4.6
+−1.2
+−2.0
+−1.3
+−2.9
+−1.3
+−3.0
+169.6
++1.5
+88.2
++4.7
+134.2
++1.2
+66.5
++1.0
+141.9
++1.3
+100.8
++1.1
+130.5
++1.3
+136.1
++2.8
+150
+−3.5
+−4.3
+−1.2
+−2.1
+−1.3
+−3.0
+−1.3
+−3.0
+179.2
++1.6
+101.2
++7.6
+134.2
++1.2
+66.8
++1.0
+141.9
++1.3
+101.6
++1.1
+130.5
++1.3
+136.9
++2.4
+200
+−4.9
+−4.5
+−1.2
+−2.1
+−1.3
+−3.2
+−1.3
+−3.1
+183.1
++1.7
+114.3
++8.0
+134.2
++1.2
+67.0
++1.0
+141.9
++1.3
+102.2
++1.1
+130.5
++1.3
+137.5
++2.1
+250
+−5.8
+−5.6
+−1.2
+−2.1
+−1.3
+−3.3
+−1.3
+−3.2
+185.6
++1.9
+172.9
++1.0
+134.2
++1.2
+67.3
++1.0
+141.9
++1.3
+103.5
++1.1
+130.5
++1.3
+138.9
++1.8
+500
+−6.7
+−21.4
+−1.2
+−2.2
+−1.3
+−3.7
+−1.3
+−3.6
+185.6
++1.9
+256.5
++1.0
+134.2
++1.2
+67.3
++1.0
+141.9
++1.3
+103.8
++1.1
+130.5
++1.3
+139.4
++1.9
+1000
+−6.7
+−87.2
+−1.2
+−2.2
+−1.3
+−3.9
+−1.3
+−3.8
+12
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Table 6. Best achieved values for model variables. NB these values have been rounded to 5 decimal places (the [scipy.optimize.leastsquares] function operates to 35 decimal places). The model is highly sensitive to input parameters, and full
+values obtained are available with the supplementary information. Plantations are highlighted.
+Variable
+NE maple/beech/
+birch
+NE oak/
+hickory
+NE oak/pine
+SC oak
+/hickory
+SC oak/pine
+SC shortleaf /loblolly pine
+(plantation)
+SE shortleaf /loblolly pine
+(plantation)
+SE longleaf /slash pine
+(plantation)
+Initial forest carbon (tC.ha−1)
+0.00000
+0.00000
+0.34027
+5.42946
+3.65256
+4.01355
+4.28585
+4.08908
+Initial soil carbon (tC.ha−1)
+118.44336
+99.35253
+112.43524
+50.74496
+59.95396
+71.49007
+102.08017
+139.90835
+Forest carbonmax (tC.ha−1)
+381.41778
+999.97326
+245.82447
+525.90193
+207.35840
+174.73552
+146.11936
+158.35607
+jab (d’less)
+0.00000
+0.00092
+0.00635
+0.05255
+0.00367
+0.28448
+0.20793
+0.26133
+k (d’less)
+0.00591
+0.00292
+0.00793
+0.00299
+0.00943
+0.00275
+0.00299
+0.00101
+v (d’less)
+1.38027
+0.92458
+1.30275
+1.50000
+1.22833
+0.72667
+0.90271
+0.81340
+jba (d’less)
+0.00000
+0.00000
+0.00000
+0.05000
+0.00000
+0.05000
+0.00153
+0.03644
+jbs (d’less)
+0.00753
+0.00656
+0.00562
+0.00243
+0.00199
+0.00562
+0.00453
+0.00590
+jsa (d’less)
+0.00594
+0.01232
+0.00420
+0.00133
+0.00093
+0.01121
+0.00619
+0.00553
+RMSE (tC.ha−1)
+3.75833
+3.50038
+3.70652
+1.38643
+1.04564
+0.95397
+1.05174
+1.04512
+Recommended margins of error and parameters.
+13
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Acknowledgments
+The authors would like to gratefully acknowledge the work carried out by Prof J Sterman, Dr L, Seigel, and Prof J
+Roony-Varga. Without their clear and comprehensive model description, this work would not have been
+possible.
+Funding statement
+The work was carried out by the Priestly Centre which is based within the University of Leeds. Work was partially
+funded by grants from the United Bank of Carbon, and the sustainability department at Drax Group plc.
+ORCID iDs
+Will Rolls
+https://orcid.org/0000-0002-0286-4510
+Piers M Forster
+https://orcid.org/0000-0002-6078-0171
+References
+Adams A B, Pontius J, Galford G L, Merrill S C and Gudex-Cross D 2018 Modeling carbon storage across a heterogeneous mixed temperate
+forest: the inﬂuence of forest type speciﬁcity on regional-scale carbon storage estimates Landscape Ecol 33 641–58
+Beeler C and Morrison J 2018 The UK’s move away from coal means they’re burning wood from the US | WUNC (https://wunc.org/post/
+uk-s-move-away-coal-means-they-re-burning-wood-us)
+Bentsen N S 2017 Carbon debt and payback time—Lost in the forest? Renew. Sustain. Energy Rev. 73 1211–7
+Beswick A 2018 MIT expert: carbon-neutral biomass ‘accounting fraud The Chronicle Herald (http://thechronicleherald.ca/news/local/
+mit-expert-carbon-neutral-biomass-accounting-fraud-256464/)
+Boumanchar I, Chhiti Y, M’hamdi Alaoui F E, Elkhouakhi M, Sahibed-dine A, Bentiss F, Jama C and Bensitel M 2019 Investigation of (co)-
+combustion kinetics of biomass, coal and municipal solid wastes Waste Manage. (Oxford) 97 10–8
+Brack D 2017 Woody Biomass for Power and Heat: Impacts on the Global Climate (London: Chatham House) (https://chathamhouse.org/
+publication/woody-biomass-power-and-heat-impacts-global-climate)
+Branch M A, Coleman T F and Li Y 1999 A Subspace, interior, and conjugate gradient method for large-scale bound-constrained
+minimization problems SIAM J. Sci. Comput. 21 1–23
+Breton C, Blanchet P, Amor B, Beauregard R and Chang W-S 2018 Assessing the climate change impacts of biogenic carbon in buildings: a
+critical review of two main dynamic approaches Sustainability 10 2020
+Buchholz T, Hurteau M D, Gunn J and Saah D 2016 A global meta-analysis of forest bioenergy greenhouse gas emission accounting studies
+GCB Bioenergy 8 281–9
+Burkhart H E and Tomé M 2012 Modeling Forest Trees and Stands (Dordrecht: Springer Netherlands) (https://doi.org/10.1007/978-90-
+481-3170-9)
+Dwivedi P, Khanna M and Fuller M 2019 Is wood pellet-based electricity less carbon-intensive than coal-based electricity?It depends on
+perspectives, baselines, feedstocks, and forest management practices Environ. Res. Lett. 14 024006
+Fargione J, Hill J, Tilman D, Polasky S and Hawthorne P 2008 Land clearing and the biofuel carbon debt Science 319 1235–8
+FERN 2011 FoE Scotland, Milieu Defensie, NOAH (FoE Denmark), Suomen luonnonsuojeluliitto, Terra, BirdLife International, Bond Beter
+Leefmilieu, Client Earth and BEE Woody Biomass for Energy: NGO Concerns and Recommendations (https://fern.org/ﬁleadmin/
+uploads/fern/Documents/NGO%20Report%20on%20Biomass%2011%20April%202011-ﬁnal.pdf)
+Isaacs E 2019 Climate Change Solutions—Sensible or Misguided? (Calgary: University of Calgary) (https://journalhosting.ucalgary.ca/index.
+php/sppp/article/view/EFL%20-%2035) (https://doi.org/10.11575/sppp.v12i0.68112)
+Jenkins W A, Murray B C, Kramer R A and Faulkner S P 2010 Valuing ecosystem services from wetlands restoration in the Mississippi
+alluvial valley Ecol. Econ. 69 1051–61
+Kalt G, Mayer A, Theurl M C, Lauk C, Erb K-H and Haberl H 2019 Natural climate solutions versus bioenergy: can carbon beneﬁts of natural
+succession compete with bioenergy from short rotation coppice? GCB Bioenergy 11 1283–97
+Koponen K, Soimakallio S, Kline K L, Cowie A and Brandão M 2018 Quantifying the climate effects of bioenergy—choice of reference
+system Renew. Sustain. Energy Rev. 81 2271–80
+Lamers P and Junginger M 2013 The ‘debt’ is in the detail: a synthesis of recent temporal forest carbon analyses on woody biomass for energy
+Biofuels, Bioprod. Bioreﬁn. 7 373–85
+Lawler J J, Lewis D J, Nelson E, Plantinga A J, Polasky S, Withey J C, Helmers D P, Martinuzzi S, Pennington D and Radeloff V C 2014
+Projected land-use change impacts on ecosystem services in the United States Proc. Natl Acad. Sci. 111 7492–7
+Malmsheimer R W et al 2011 Managing forests because carbon matters: integrating energy, products, and land management policy Journal of
+Forestry 2011 S7–48 (https://www.srs.fs.usda.gov/pubs/40291)
+Maxwell D, Gudka B A, Jones J M and Williams A 2020 Emissions from the combustion of torreﬁed and raw biomass fuels in a domestic
+heating stove Fuel Process. Technol. 199 106266
+Mitchell S R, Harmon M E and O’Connell K E B 2012 Carbon debt and carbon sequestration parity in forest bioenergy production GCB
+Bioenergy 4 818–27
+Moomaw W 2018a EU Bioenergy Policies Will Increase Carbon Dioxide Concentrations (Tufts University) (https://sites.tufts.edu/gdae/ﬁles/
+2019/10/ClimatePolicyBrief7.pdf)
+Moomaw W 2018b The EPA says burning wood to generate power is ‘carbon-neutral.’ Is that true ? Salon (https://salon.com/2018/05/
+12/the-epa-says-burning-wood-to-generate-power-is-carbon-neutral-is-that-true_partner/)
+Moré J J 1978 The levenberg-marquardt algorithm: implementation and theory Numerical Analysis ed G A Watson 630 (Berlin Heidelberg:
+Springer) pp 105–16 (http://link.springer.com/10.1007/BFb0067700)
+14
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster
+Nocedal J and Wright S 2006 Numerical Optimization (New York: Springer) (http://link.springer.com/10.1007/978-0-387-40065-5)
+(https://doi.org/10.1007/978-0-387-40065-5)
+Norton M et al 2019 Serious mismatches continue between science and policy in forest bioenergy GCB Bioenergy 11 1256–63
+Pan Y, Chen J M, Birdsey R, McCullough K, He L and Deng F 2011 Age structure and disturbance legacy of North American forests
+Biogeosciences 8 715–32
+Pienaar L V and Turnbull K J 1973 The chapman-richards generalization of von bertalanffy’s growth model for basal area growth and yield in
+even - aged stands Forest Science 19 2–22
+Prisley S P, Gaudreault C, Lamers P, Stewart W, Miner R, Junginger H M, Oneil E, Malmsheimer R and Volk T A 2018 Comment on ‘Does
+replacing coal with wood lower CO2 emissions?Dynamic lifecycle analysis of wood bioenergy Environ. Res. Lett. 13 128002
+Ratkowsky D A 1983 Nonlinear regression modeling: a uniﬁed practical approach (New York: M. Dekker)
+Reid W V, Ali M K and Field C B 2020 The future of bioenergy Global Change Biol. 26 274–86
+Richards F J 1959 A ﬂexible growth function for empirical use J. Exp. Bot. 10 290–301
+Rogelj J et al 2018 Scenarios towards limiting global mean temperature increase below 1.5 °C Nat. Clim. Change 8 325
+Rooney-Varga J N, Kapmeier F, Sterman J D, Jones A P, Putko M and Rath K 2019 The climate action simulation Simul. Gaming 51 114–40
+1046878119890643
+Rose S K, Kriegler E, Bibas R, Calvin K, Popp A, van Vuuren D P and Weyant J 2014 Bioenergy in energy transformation and climate
+management Clim. Change 123 477–93
+RSPB 2012 FoE and Greenpeace Dirtier than Coal: Why Government Plans to Subsidise Burning Trees are Bad News for the Planet (https://
+rspb.org.uk/Images/biomass_report_tcm9-326672.pdf)
+Schlesinger W H 2018 Are wood pellets a green fuel? Science 359 1328–9
+Scipy.org 2019 scipy.optimize.least_squares — SciPy v1.2.1 Reference Guide (https://docs.scipy.org/doc/scipy/reference/generated/
+scipy.optimize.least_squares.html#scipy.optimize.least_squares)
+Searchinger T 2012 Sound principles, and an important inconsistency in the 2012 UK Bioenergy Strategy (Princeton) Woodrow Wilson School
+of Public and International Affairs (https://2.rspb.org.uk/Images/Searchinger_comments_on_bioenergy_strategy_SEPT_2012_
+tcm9-329780.pdf)
+Searchinger T and Heimlich R 2015 Avoiding bioenergy competition for food crops and land (Waskington DC: World Resources Institute)
+(https://wriorg.s3.amazonaws.com/s3fs-public/avoiding_bioenergy_competition_food_crops_land.pdf)
+Slade R, Di Lucia L and Adams P 2018 Greenhouse Gas Balances of Bioenergy Systems (New York: Academic) pp 11–28 (https://sciencedirect.
+com/science/article/pii/B9780081010365000021) Chapter 2 - How Policy Makers Learned to Start Worrying and Fell Out of Love
+With Bioenergy
+Smith E 2020 Burning biomass in N S will speed up the climate crisis, warns MIT prof | CBC News CBC (https://cbc.ca/news/canada/
+nova-scotia/mit-john-sterman-woodchips-forestry-trees-nova-scotia-northern-pulp-1.5461404)
+Smith J E, Heath L S, Skog K E and Birdsey R A 2006 Methods for calculating forest ecosystem and harvested carbon with standard estimates for
+forest types of the United States (Newtown Square, PA: US Department of Agriculture, Forest Service, Northeastern Research Station)
+(https://fs.usda.gov/treesearch/pubs/22954) (https://doi.org/10.2737/NE-GTR-343)
+Smith P, Bustamante M, Ahammad H, Clark H, Dong H, Elsiddig E A, Haberl H, Harper R, House J, Jafari M et al 2014 Agriculture, forestry
+and other land use (AFOLU) Climate change 2014: mitigation of climate change. Contribution of Working Group III to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change (Cambridge: Cambridge University Press) pp 811–922
+Sterman J D, Siegel L and Rooney-Varga J N 2018a Does replacing coal with wood lower CO2 emissions?Dynamic lifecycle analysis of wood
+bioenergy Environ. Res. Lett. 13 015007
+Sterman J D, Siegel L and Rooney-Varga J N 2018b Reply to comment on ‘Does replacing coal with wood lower CO2 emissions? Dynamic
+lifecycle analysis of wood bioenergy Environ. Res. Lett. 13 128003
+Sterman J, Fiddaman T, Franck T, Jones A, McCauley S, Rice P, Sawin E and Siegel L 2012 Climate interactive: the C-ROADS climate policy
+model: climate interactive Syst. Dyn. Rev. 28 295–305
+Ter-Mikaelian M T, Colombo S J and Chen J 2015 The burning question: does forest bioenergy reduce carbon emissions? a review of
+common misconceptions about forest carbon accounting Journal of Forestry 113 57–68
+Teske S 2018 Achieving the Paris Climate Agreement Goals: Global and Regional 100% Renewable Energy Scenarios With Non-Energy GHG
+Pathways for +1.5c and +2c (New York, NY: Springer Berlin Heidelberg) 978-3-030-05843-2
+USDA Forestry Service 2005 Forest Inventory and Analysis Database (https://ﬁa.fs.fed.us/library/database-documentation/index.php)
+Venata Systems 2017 Vensim (Harvard: Venata Systems inc.) (https://vensim.com/)
+Voglis C and Lagaris I E 2004 A rectangular trust region dogleg approach for unconstrained and bound constrained nonlinear optimization
+WSEAS Int. Conf. on Applied Mathematics. WSEAS Int. Conf. on Applied Mathematics p 7 (https://researchgate.net/proﬁle/Isaac_
+Lagaris2/publication/255640635_A_Rectangular_Trust_Region_Dogleg_Approach_for_Unconstrained_and_Bound_
+Constrained_Nonlinear_Optimization/links/5520c54b0cf29dcabb0b5a2c.pdf)
+Weiskittel A R, Hann D W, Kershaw J A and Vanclay J K 2011 Forest Growth and Yield Modeling (Wiley) (https://doi.org/10.1002/
+9781119998518)
+Zhao-gang L and Feng-ri L 2003 The generalized Chapman-Richards function and applications to tree and stand growth Journal of Forestry
+Research 14 19–26
+15
+Environ. Res. Commun. 2 (2020) 045001
+W Rolls and P M Forster

@@ -1,0 +1,2296 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF 
+BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: 
+BUSINESS MODEL OPTIONS 
+A report for Drax 
+March 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frontier Economics Ltd is a member of the Frontier Economics network, which consists of two separate companies based in Europe (Frontier 
+Economics Ltd) and Australia (Frontier Economics Pty Ltd). Both companies are independently owned, and legal commitments entered into by 
+one company do not impose any obligations on the other company in the network. All views expressed in this document are the views of Frontier 
+Economics Ltd. 
+ 
+ 
+frontier economics  
+ 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+CONTENTS 
+Executive Summary 
+4 
+Business model options 
+5 
+Conclusions 
+7 
+1 
+Introduction 
+8 
+1.1 
+Why BECCS? 
+8 
+1.2 
+Aims of this report 
+9 
+2 
+Key considerations for business model design 
+11 
+2.2 
+Principles for business model design 
+12 
+2.3 
+Timing and business model evolution 
+13 
+3 
+Business model options 
+18 
+3.1 
+Identifying business model options 
+18 
+3.2 
+Transition paths from short-term business models 
+25 
+3.3 
+Funding of short-term options 
+28 
+4 
+Assessment of business model options 
+30 
+4.1 
+Business model impact on costs and revenues 
+30 
+4.2 
+Business model assessment 
+31 
+4.3 
+Summary 
+36 
+5 
+Conclusions 
+37 
+ANNEX A Why is it desirable to deliver BECCS in the near term? 
+39 
+ANNEX B Funding principles and candidate groups 
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+frontier economics  
+4 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+EXECUTIVE SUMMARY 
+Drax Power Station is currently exploring the option of adding carbon capture and 
+storage equipment to its biomass-fired generating units.  The resulting plant could 
+produce at least 8 million tonnes (Mt) of negative CO2 emissions each year, as well 
+as generating renewable electricity. Drax is planning to make a final investment 
+decision (FID) on its bioenergy with carbon capture and storage (‘BECCS in 
+power’1) investment in Q1 2024, with the first BECCS unit to be operating by 2027. 
+The potential of BECCS as part of the path to Net Zero has been widely 
+recognised.  
+ BECCS in power is an important part of all of the Climate Change Committee 
+(CCC)’s Net Zero scenarios, contributing to negative emissions of between 16-
+39Mt CO2e per year by 20502. Investment needs to occur early: by 2035, the 
+CCC sees a role for 3-4GW of BECCS, as part of a mix of low carbon 
+generation3.  
+ The Government’s Energy White Paper commits, by 2022, to establishing the 
+role which BECCS can play in reducing carbon emissions across the economy 
+and setting out how the technology could be deployed. The Government has 
+also committed to invest up to £1 billion to support the establishment of carbon 
+capture, usage and storage (CCUS) in four industrial clusters 4.  
+ National Grid’s 2020 Future Energy Scenarios (FES) indicate that it is not 
+possible to achieve Net Zero without BECCS5. 
+However, at present, a business model6 which could enable this investment is not 
+in place. A business model is required because a number of barriers and market 
+failures otherwise make economic investment impossible.  
+ There is no market for negative emissions. There is currently no source of 
+remuneration for the value delivered by negative emissions, and therefore no 
+return for the investment needed to achieve them. 
+ 
+ 
+1  
+Biomass can be combusted to generate energy (typically in the form of power, but this could also be in the 
+form of heat or liquid fuel), or gasified to produce hydrogen. The resulting emissions can then be captured 
+and stored using CCS technology. The focus of this report is on biomass combustion to generate power, 
+with CCS, which we refer to as ‘BECCS in power’. We refer to biomass gasification with CCS as ‘BECCS for 
+hydrogen’. 
+2  
+CCC (2020) , The Sixth Carbon Budget, Greenhouse Gas Removals, https://www.theccc.org.uk/wp-
+content/uploads/2020/12/Sector-summary-GHG-removals.pdf  The CCC’s 2019 Net Zero report also saw a 
+role for BECCS, with 51Mt of emissions removals included in the Further Ambition scenario by 2050. CCC 
+(2019), Net Zero: The UK’s Contribution to Stopping Global Warming.  
+https://www.theccc.org.uk/publication/net-zero-the-uks-contribution-to-stopping-global-warming/  
+3  
+CCC (2020), Policies for the Sixth Carbon Budget, https://www.theccc.org.uk/wp-
+content/uploads/2020/12/Policies-for-the-Sixth-Carbon-Budget-and-Net-Zero.pdf 
+4  
+BEIS (2020), Powering our Net Zero Future, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/945899/2
+01216_BEIS_EWP_Command_Paper_Accessible.pdf  
+5  
+National Grid (2020), Future Energy Scenarios 2020, https://www.nationalgrideso.com/future-energy/future-
+energy-scenarios/fes-2020-documents  
+6  
+In this report, we use “business model” to describe Government market-based incentives for investment and 
+operation. This is in line with the use of this term by BEIS, for example in BEIS (2019), Business Models For 
+Carbon Capture, Usage And Storage, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/819648/c
+cus-business-models-consultation.pdf 
+ 
+frontier economics  
+5 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ Positive spillovers are not remunerated. Positive spillovers that would be 
+delivered by a first-of-a-kind BECCS power plant, but which are not 
+remunerated include: 
+□ providing an anchor load for carbon dioxide (CO2) transport and storage 
+(T&S) infrastructure that can be used by subsequent CCS projects; 
+□ delivering learning that will help lower the costs of subsequent BECCS 
+power plants; and 
+□ delivering learning and shared skills that can be used across a range of 
+CCS projects, including hydrogen production with CCS. 
+ BECCS relies on the presence of CO2 transport and storage 
+infrastructure. Where this infrastructure doesn’t already exist, or where the 
+availability or costs are highly uncertain, this presents a significant risk to 
+investors in BECCS in power. 
+Frontier Economics has been commissioned by Drax to develop and evaluate 
+business model options for BECCS in power that could overcome these barriers, 
+and help deliver timely investment in BECCS.  
+Business model options 
+We started with a long list of business model options. After eliminating options that 
+are unsuitable for BECCS in power, we considered the following three options in 
+detail. 
+ Power Contract for Difference (CfD): the strike price of the CfD would be set 
+to include remuneration for negative emissions, low carbon power and for 
+learnings and spillover benefits.  
+ Carbon payment: a contractual carbon payment would provide a fixed 
+payment per tonne of negative emissions. The payment level would be set to 
+include remuneration for negative emissions, low carbon power and for 
+learnings and spillovers.  
+ Carbon payment + power CfD: this option combines the two options above. 
+The carbon payment would provide remuneration for negative emissions and 
+learnings and spillovers while the power CfD would support power market 
+revenues for the plant’s renewable power output.  
+We first considered if committing to any of these business model options for 
+BECCS in power now might restrict future policy options for a broader GGR support 
+scheme. We assessed whether these options could, over time, be transitioned into 
+a broader GGR support scheme (i.e. one not just focused on BECCS in power), 
+and concluded that this would be possible for all of them.  
+We then considered how these business model options could be funded, and 
+whether the choice of a business model option is linked to a particular source of 
+funds (for example, power CfDs are currently funded by a levy paid by electricity 
+suppliers to the Low Carbon Contracts Company [LCCC]). We concluded that 
+business models do not need to be attached to specific funding sources; all of the 
+options can be designed to fit with numerous different funding options, so the two 
+decisions can be made independently. This means that the business model options 
+ 
+frontier economics  
+6 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+can be considered on their own terms, with thinking about funding sources being 
+progressed in parallel. 
+We then evaluated the three business model options against a set of criteria 
+developed from principles set out in the BEIS consultation on business models for 
+CCS, summarised in the figure below. 
+Figure 1 
+Principles for design of business models 
+ 
+Source: Frontier Economics 
+ 
+All three business model options performed well across most criteria. However, our 
+evaluation highlighted some key trade-offs to consider when choosing a business 
+model: 
+ investor confidence: the power CfD and the two-part model with a CfD 
+performed better than the carbon payment on this measure, as they shield 
+investors from wholesale power market fluctuations; 
+ feasibility: the power CfD performed best on this measure. Because it is 
+already established in existing legislation and is well  understood, it will be quick 
+to implement. Introducing a mechanism to provide carbon payments may 
+require new legislation. However, this will be needed in any case to support 
+other CCUS technologies7, and could be introduced in time before projects 
+come online; and   
+ potential to become technology neutral and subsidy free:  all three options 
+could transition to a mid-term regime which could be technology neutral. 
+However, the stand-alone power CfD performed least well as it does not deliver 
+any learnings around remunerating negative emissions. 
+ 
+ 
+7  
+BEIS (2020), CCUS: An update on business models for Carbon Capture, Usage and Storage 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946561/c
+cus-business-models-commercial-update.pdf 
+Fair cost sharing
+▪ Allows fair and practical cost distribution
+Ease of policy 
+transition
+▪ Ease of transition to subsidy free system
+▪ Ease of transition to technology neutral solution 
+Instil investor 
+confidence
+▪ Attract innovation 
+▪ Attract new entrants
+▪ Instil supply chain confidence
+Cost efficient
+▪ Drive efficient management of investment costs
+▪ Drive efficient quantity of investment
+▪ Drive efficient dispatch and operation
+▪ Risks allocated in an efficient way, taking into 
+account the impact on the cost of capital
+Feasibility 
+▪ Limit administrative burden  
+▪ Practicality for investors
+▪ Requirement for complementary policy
+▪ Wider policy and state aid compatibility
+▪ Timely implementation
+ 
+frontier economics  
+7 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Overall, the two-part model performed well across the criteria and would offer a 
+clear path to a technology neutral and subsidy free world, delivering learnings that 
+will be relevant for other GGRs as well.   
+Conclusions 
+The UK’s Net Zero target will be challenging to achieve, and will require investment 
+in negative emissions technologies to offset residual emissions from hard-to-abate 
+sectors, as highlighted by the CCC8. BECCS in power is a particularly important 
+part of this picture, and represents a cost-effective means of delivering the scale 
+of negative emissions needed. Early investment in BECCS is also important in 
+insuring against the risk and cost of ”back ending” significant abatement effort. 
+However, market failures, most notably the lack of a market for negative emissions, 
+lack of remuneration for positive spillovers and learnings, and reliance on 
+availability of T&S infrastructure, mean that without policy intervention, the required 
+level of BECCS in power is unlikely to be delivered in time to contribute to Net Zero. 
+There are a number of business options available in the near term to overcome 
+these barriers. In our view, a two-part model combining a power CfD and a carbon 
+payment is preferable.  
+This measure:   
+ addresses identified market failures; 
+ can be implemented relatively easily and in time to capture benefits of early 
+BECCS in power investment; and 
+ can be structured to ensure an efficient outcome for customers (including with 
+reference to investors’ likely cost of capital) and in a way that allocates risks 
+appropriately. 
+ 
+ 
+ 
+8  
+CCC (2020) , The Sixth Carbon Budget, Greenhouse Gas Removals, https://www.theccc.org.uk/wp-
+content/uploads/2020/12/Sector-summary-GHG-removals.pdf  
+ 
+frontier economics  
+8 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+1 INTRODUCTION 
+Drax Power Station is a biomass- and coal-fired power plant. Four of its six 
+generating units are biomass-fired, and the two remaining coal units are ceasing 
+commercial operation in March 2021. Biomass combustion is a renewable form of 
+generation, and the CO2 released when it is burned is equal to the amount of CO2 
+that the biomass absorbs from the atmosphere as it grows. 
+Drax is currently exploring the option of adding carbon capture and storage 
+equipment to all the biomass units at the power station. In a first phase of 
+development carbon capture technology would be applied to two biomass units, 
+which together would produce at least eight million tonnes (Mt) each year of 
+negative emissions as well as generating electricity.  
+Drax is planning to make a final investment decision (FID) on its BECCS 
+investment in 2024, with one BECCS unit to be operating by 2027. This would be 
+the first carbon negative power station in the world. The timing of the investment 
+decision is largely driven by the government’s progress towards a business model 
+for BECCS and of the planned delivery of Transport and Storage (T&S) 
+infrastructure.   
+1.1 Why BECCS? 
+Because of the very high costs of abatement in certain sectors such as agriculture, 
+and the fact that total abatement in other sectors such as aviation is not currently 
+feasible, negative emissions will need to play a key role in meeting the Net Zero 
+target. 
+While most low carbon technologies abate emissions associated with economic 
+activity (for example by displacing traditional forms of electricity generation with 
+lower or zero carbon generation such as wind or solar), greenhouse gas removal 
+technologies (GGRs) produce negative emissions by capturing and storing 
+greenhouse gases that are already in the atmosphere. They can therefore be used 
+to offset emissions from hard-to-abate sectors, and by doing so lower net 
+emissions. 
+BECCS is likely to be one of the most important and earliest GGRs deployed to 
+meet Net Zero targets.  It has a number of advantages.  
+ BECCS delivers “permanent” greenhouse gas removals, which cannot be 
+guaranteed for all GGR technologies. For example, soil carbon sequestration 
+can store CO2 for long periods of time but requires continued careful land 
+management to be effective. 
+ BECCS can be a cost-effective technology to achieve Net Zero. The CCC 
+estimates that the cost of BECCS in power in the 2030s could be between 
+£70/tCO2e and £150/tCO2e9. This is likely to compare favourably to 
+decarbonising hard to tackle sectors, including some parts of industry and 
+aviation. 
+ 
+ 
+ 
+ 
+frontier economics  
+9 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ BECCS is also likely to be available earlier than many other GGR technologies.  
+Vivid Economics has evaluated the technological readiness levels of a range 
+of GGR technologies. The highest readiness levels are found in the use of wood 
+in construction, afforestation and soil carbon sequestration (all at either 8 or 9 
+out of a maximum readiness level of 9). However, BECCS is given the next 
+highest level of readiness, at 610 out of 9. This compares to some of the less 
+ready technologies including habitat restoration (5), DACCS (4), and enhanced 
+weathering (3).  
+The potential of BECCS as part of the path to Net Zero has been recognised by 
+Government and its advisors.  
+ BECCS in power is an important part of all of the CCC’s Net Zero scenarios, 
+contributing to negative emissions of between 16-39Mt CO2e per year by 
+205011. Investment needs to occur early: by 2035, the CCC sees a role for 3-
+4GW of BECCS, as part of a mix of dispatchable low carbon generation12.  
+ The Government’s Energy White Paper commits, by 2022, to establishing the 
+role which BECCS can play in reducing carbon emissions across the economy 
+and setting out how the technology could be deployed. The Government has 
+also committed to invest up to £1 billion to support the establishment of carbon, 
+capture, usage and storage (CCUS) in four industrial clusters 13. 
+ National Grid’s 2020 Future Energy Scenarios (FES) indicate that it is not 
+possible to achieve Net Zero without BECCS14. 
+1.2 Aims of this report  
+While there is a consensus that BECCS could make an important contribution to 
+delivering the UK’s carbon targets, policies to enable invest in BECCS are not yet 
+in place. In particular, under current policy, investors would not be remunerated for 
+negative emissions or for the positive learning externalities they provide. 
+In this context, we have been asked by Drax to develop proposals for a business 
+model15 to provide remuneration for negative emissions, power output and the 
+learnings and positive spillovers delivered by first-of-a-kind BECCS power plants 
+in the UK. 
+We have undertaken the following work as part of this study: 
+ 
+ 
+10  A technology readiness level of 6 means that it has been demonstrated in the relevant environment, but that 
+it is not yet operational or proven in the relevant environment. (Based on EU Horizon 2020 definition: 
+https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-g-
+trl_en.pdf)  
+11  CCC (2020) , The Sixth Carbon Budget, Greenhouse Gas Removals, https://www.theccc.org.uk/wp-
+content/uploads/2020/12/Sector-summary-GHG-removals.pdf  
+12  CCC (2020), Policies for the Sixth Carbon Budget, https://www.theccc.org.uk/wp-
+content/uploads/2020/12/Policies-for-the-Sixth-Carbon-Budget-and-Net-Zero.pdf 
+13  BEIS (2020), Powering our Net Zero Future, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/945899/2
+01216_BEIS_EWP_Command_Paper_Accessible.pdf  
+14  National Grid (2020), Future Energy Scenarios 2020, https://www.nationalgrideso.com/future-energy/future-
+energy-scenarios/fes-2020-documents   
+15  In this report, we use “business model” to describe Government market-based incentives for investment and 
+operation. This is in line with the use of this term by BEIS, for example in BEIS (2019), Business Models For 
+Carbon Capture, Usage And Storage 
+ 
+frontier economics  
+10 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ based on the characteristics of BECCS power plants, we have reviewed the 
+key market failures that may need to be addressed through a business model; 
+and 
+ we have developed and evaluated a set of business model options, as well as 
+assessed considerations for funding. 
+The remainder of this report sets out our findings. We cover the following. 
+ Section 2 sets out key considerations and principles for business model design 
+to enable investment in first-of-a-kind BECCS power plants. 
+ Section 3 explains our approach to identifying business model options, and 
+provides an overview of shortlisted options. 
+ Section 4 assesses the shortlisted business model options. 
+ Section 5 sets out our conclusions.  
+ 
+ 
+ 
+frontier economics  
+11 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+2 KEY CONSIDERATIONS FOR BUSINESS 
+MODEL DESIGN 
+Section 1 illustrated that BECCS in power could help the UK cost-effectively meet 
+climate targets.  
+In this section we set out key considerations for business model design to enable 
+investment in BECCS. This covers:  
+ principles that should guide business model design. We will later use these 
+principles to assess each policy option against these aims to identify strengths 
+and weaknesses; and  
+ considerations around timing for a first-of-a-kind plant and its support regime, 
+and how business model design may evolve over time.  
+2.1.1 Market failures and other barriers to investment 
+Investment in BECCS in power is constrained by the existence of market failures 
+and characteristics of first of a kind BECCS power plants that increase the cost of 
+capital and create barriers to investment. This means deployment is slower than 
+would be ideal from a social perspective. Government intervention is therefore 
+needed to address some of these market failures and other barriers. 
+More specifically, those barriers include the following. 
+ Absence of a market for negative emissions.  BECCS in power has a 
+number of outputs that can be sold in specific markets and therefore 
+remunerated: power, a reliable source of capacity, and system services. 
+However, a key source of costs is the CCS technology and infrastructure, which 
+delivers negative emissions - around 4Mt per unit at Drax. Because there is no 
+market for negative emissions, there is currently no source of remuneration for 
+the value delivered by these negative emissions, and therefore no return for 
+the investment needed to achieve them. The existing carbon price only applies 
+to positive emissions, so incentivises carbon abatement, but only to the point 
+of zero emissions. This causes a distortion because negative emissions 
+technologies such as BECCS are not placed on a level footing with abatement 
+options, meaning that emissions reductions may not be achieved in the most 
+cost effective manner. 
+ Positive spillovers not remunerated. An investment in a first-of-a-kind 
+BECCS power plant will lead to positive spillovers that include:  
+□ providing an anchor load for carbon transport and storage infrastructure that 
+can be used by subsequent CCS projects; 
+□ innovation that will help to lower the costs of subsequent BECCS power 
+plants; and 
+□ learnings and shared skills that can be used across a range of CCS 
+projects, including hydrogen production with CCS. 
+ Reliance on CCS infrastructure being in place. BECCS relies on the 
+presence of CO2 T&S infrastructure. Where this infrastructure doesn’t already 
+ 
+frontier economics  
+12 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+exist, or where its availability or costs are highly uncertain, this presents a 
+significant risk to investors in BECCS. This risk is likely to raise the cost of 
+capital and may even limit the ability for investors to raise finance, making the 
+project unbankable. Given the complex and novel nature of T&S infrastructure, 
+it is unlikely that investors will invest in BECCS technology until there is a high 
+level of certainty that T&S will exist, and that they will have access to it on well-
+understood terms and with an understood risk allocation. 
+Policy can address these barriers, as we demonstrate in the remainder of this 
+report. 
+2.2 Principles for business model design  
+In its consultation on business models and supportive policies for unlocking 
+investment in carbon capture, usage and storage (CCUS), BEIS set out a number 
+of principles to guide the design of these models. These principles are shown in 
+Figure 2 below. 
+Figure 2 
+BEIS parameters to guide CCUS business model development 
+ 
+Source: BEIS (2019) Business models for carbon capture, usage and storage, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/819
+648/ccus-business-models-consultation.pdf, p14 
+We have adapted these principles from BEIS into a set of assessment criteria that 
+can be used to both guide the design and to evaluate different support options. We 
+have focused on the principles that are most relevant for BECCS in power, and 
+added some further detail where relevant. The final set of criteria that we use is 
+shown in Figure 3 below. 
+ 
+frontier economics  
+13 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Figure 3 
+Principles for design of business models 
+ 
+Source: Frontier Economics 
+These principles have guided our design of support options, as set out in the next 
+section. We also come back to these principles in section 4, where we carry out a 
+more detailed assessment of the potential business model options. 
+2.3 Timing and business model evolution 
+To enable FID on a first-of-a-kind investment in a BECCS power plant in Q1 2024, 
+a business model needs to be developed and implemented in the very near term. 
+Speed and ease of implementation are therefore key considerations.  
+However, in the long-term, policymakers may wish for further BECCS in power 
+investments to be part of a broader GGR business model (which might be more 
+technology neutral across GGR technologies that have matured by that stage). 
+While the design and implementation of such a business model is likely to take too 
+long to make it relevant for an FID in Q1 2024, it is clearly important that any 
+business model implemented in the short-term does not limit options for a future 
+broader business model, and ideally helps move towards such a model.  This 
+would ensure that the short-term business model was “low regret” on a route to a 
+post-subsidy world in the long run. 
+Fair cost sharing
+▪ Allows fair and practical cost distribution
+Ease of policy 
+transition
+▪ Ease of transition to subsidy free system
+▪ Ease of transition to technology neutral solution 
+Instil investor 
+confidence
+▪ Attract innovation 
+▪ Attract new entrants
+▪ Instil supply chain confidence
+Cost efficient
+▪ Drive efficient management of investment costs
+▪ Drive efficient quantity of investment
+▪ Drive efficient dispatch and operation
+▪ Risks allocated in an efficient way, taking into 
+account the impact on the cost of capital
+Feasibility 
+▪ Limit administrative burden  
+▪ Practicality for investors
+▪ Requirement for complementary policy
+▪ Wider policy and state aid compatibility
+▪ Timely implementation
+ 
+frontier economics  
+14 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Figure 4 
+Narrow and broad business models 
+ 
+Source: Frontier Economics  
+ 
+To help assess the impact of short-term options, we define three timescales for 
+policy (illustrated in Figure 5 and described in more detail below), and use these 
+to help ensure that all of the power-related BECCS support options which we define 
+in the short-term are capable of transitioning to the credible broader GGR support 
+options in the mid-term, and indeed to a post-subsidy world in the long-term. 
+To do this, since the endpoint of a post subsidy world is clear, we work backwards 
+from how the market would ideally work in that timescale, and use this to draw 
+conclusions about ideal arrangements in the mid-term and then in the short-term. 
+Figure 5 
+Evolution of business models over time 
+ 
+ 
+Source: Frontier Economics 
+2.3.1 Long-term 
+The long-term goal of low carbon policy is a well-functioning and comprehensive 
+carbon market so that climate change goals such as Net Zero can be met without 
+further government intervention. It is important to ensure that for any policies 
+implemented now, there is a clear path to this post-subsidy world. 
+At this point, it is highly likely that BECCS in power and other key GGR 
+technologies will be at a well-established, nth-of-a-kind stage, given their 
+importance in reaching Net Zero. Therefore, learnings and spillover benefits from 
+first-of-a-kind plants will largely have been captured, and so support will not be 
+▪ Focused on only BECCS
+▪ Implemented using variations on 
+existing policy instruments
+Broad
+Narrow
+Technologies covered
+▪ Encompasses a large range of 
+GGR technologies
+▪ Results in technology neutral 
+incentives, so efficient outcomes
+▪ Some broad options might need more fundamental policy reform so may not be possible in the 
+timelines required
+▪ However, if a narrow option is chosen it should be a “low regret” option that contributes to the 
+pathway to broader, long-term solutions
+Post-subsidy world
+Short term
+Mid term
+Long term
+Broad support, covering all 
+GGR technologies
+Narrow support, covering 
+early projects, can be 
+implemented quickly
+ 
+frontier economics  
+15 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+needed to remunerate these. There will still however be a need to remunerate 
+negative emissions. 
+The carbon market at this stage will therefore need to have the following features. 
+ It must be mandatory and cover the relevant sectors, including the markets 
+for complementary products such as electricity, hydrogen, building materials 
+and fertiliser;  
+ it must recognise negative emissions in the same way it does positive 
+emissions,16 to deliver consistent incentives for carbon reductions, whether 
+through abatement or through negative emissions. This will help deliver a cost-
+efficient Net Zero outcome, as residual emissions in hard-to-abate sectors can 
+purchase negative emissions from GGRs if this is more cost efficient than 
+abatement; 
+ it must involve a sufficiently high carbon price to incentivise abatement to 
+meet Net Zero or other climate change goals (including the required level of 
+negative emissions); and 
+ it must deliver a sufficiently stable carbon price to provide confidence to 
+investors. 
+Such a carbon market will incentivise the optimal level of GGRs through two 
+channels: 
+ it will provide a price for the carbon that is captured; and 
+ it will have an impact on the market for complementary outputs of GGRs, for 
+example: 
+□ electricity prices will reflect the carbon price (relevant to BECCS in power);17 
+□ hydrogen prices will reflect the carbon price (relevant to BECCS for 
+hydrogen); and18 
+□ building materials or fertiliser prices will reflect the carbon price (relevant to 
+afforestation and biochar)   
+These characteristics are important to note, as they will help us identify the effects 
+that the mid-term business model options should replicate. 
+2.3.2 Mid-term 
+We characterise the mid-term as a period during which the carbon market is not 
+yet mature enough to incentivise all of the reductions that are needed to meet 
+climate change goals. For all GGRs, therefore, some form of support is needed to 
+incentivise required levels of negative emissions. 
+However, by this point we would expect that GGR technologies are well enough 
+established that learnings and spillover benefits from first-of-a-kind plants will be 
+less significant.  As a result, the benefits of technology specific support may be 
+ 
+ 
+16  This will require establishment of a regime for measuring, reporting and verifying negative emissions. The 
+permanence of those negative emissions may also need to be considered as part of this. 
+17  A high carbon price would increasing the cost of unabated thermal plant. This would set a limit on the price 
+that the next most expensive lower carbon options such as demand side response (DSR) and storage can 
+charge. 
+18  Note that DACCS does not have an accompanying output that would be affected. 
+ 
+frontier economics  
+16 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+outweighed by the costs, and it should be possible to implement a business model 
+that is broad across GGR technologies. This is desirable as it means that different 
+GGRs compete for support on the same basis, and investment is in the most cost-
+effective. 
+To replicate the impact of an efficient carbon price as described above, a business 
+model should provide remuneration for negative emissions (where these are not 
+remunerated under existing carbon markets), and it may also make sense to have 
+a mechanism to support the price of complementary outputs such as power or 
+hydrogen that would have a higher price under an efficient carbon market.  
+It may be desirable to keep this complementary output price support mechanism 
+separate from that which remunerates negative emissions, because the latter can 
+be technology neutral, while the former will differ by technology. If a single 
+mechanism is used to cover both the value of negative emissions and any 
+complementary output (such as electricity or hydrogen), there is potential for 
+overcompensating the amount of support required for the complementary outputs. 
+2.3.3 Short-term 
+The short-term is defined by the timescale over which BECCS in power and other 
+nascent GGRs are at first-of-a-kind stage. At this stage, investors will bear 
+additional risks and costs associated with deploying the technologies at scale, but 
+will also deliver positive learnings and spillovers.  For BECCS in power, this period 
+may be over the next five to fifteen years, and final investment decisions will need 
+to be taken well before that.  As we note above, Drax is planning to be in a position 
+to take FID in Q1 2024. 
+At this point the key focus is to enable first-of-a-kind plants. Fully technology neutral 
+business models across GGRs are: 
+ not desirable at this stage, because different technologies have different 
+spillovers and benefits, and levels of support will need to differ to reflect this (or 
+risk that only the most mature technologies will be adopted, limiting future 
+options for greenhouse gas reduction); and 
+ not necessarily achievable at this stage, because of the likely time it would 
+take to design and implement the business models relative to the FID dates of 
+infrastructure to come online in the late 2020s / early 2030s. 
+Therefore in the short-term, it is likely that a “narrow” business model is needed. 
+However, to transition effectively to the mid-term, a narrow model should: 
+ provide remuneration for negative emissions (including a mechanism that 
+allows any revenue achieved from existing carbon markets to be taken into 
+account);  
+ support the complementary output price (electricity in the case of BECCS in 
+power); and  
+ in the short-term provide a further uplift to deliver learnings and spillovers.  
+Because technology neutrality is not desirable at this stage, there is no need to 
+separate these elements, so all of the support could be provided through one 
+ 
+frontier economics  
+17 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+mechanism. However, having multiple mechanisms may mean that transition to a 
+mid-term solution is easier. 
+Figure 6 summarises our views, as set out above, on the evolution of policies over 
+time. 
+Figure 6 
+Summary of business model features over different time 
+period 
+ 
+Short-term 
+Mid term 
+Long-term 
+Key 
+features  
+ Provide remuneration 
+for negative 
+emissions (taking into 
+account any revenue 
+from existing carbon 
+markets)  
+ Support the 
+complementary 
+output price (power in 
+this case) 
+ Provide support to 
+deliver learnings and 
+spillovers 
+ 
+Provide remuneration 
+for negative 
+emissions(taking into 
+account any revenue 
+from existing carbon 
+markets) 
+ Support 
+complementary GGR 
+output prices 
+ 
+Efficient CO2 market that: 
+ recognises negative 
+emissions; 
+ has a sufficiently high 
+carbon price; and 
+ has a sufficiently 
+stable carbon price. 
+ 
+Narrow or 
+broad  
+Narrow. Full technology 
+neutrality across GGRs is 
+not desirable at this 
+stage, because different 
+technologies have 
+different spillovers and 
+benefits. 
+Broad. The mechanism 
+to remunerate negative 
+emissions can be 
+technology neutral across 
+GGRs.  
+Ideally, support for the 
+complementary output 
+price would be delivered 
+through a separate, 
+technology-specific 
+mechanism to avoid the 
+risk of high inframarginal 
+rents for technologies 
+requiring less uplift. 
+Broad. This market will 
+be fully technology neutral 
+across carbon abatement 
+and GGR technologies.  
+Source:  Frontier Economics 
+ 
+ 
+frontier economics  
+18 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+3 BUSINESS MODEL OPTIONS 
+In this section we use the approach set out in the previous section to identify and 
+shortlist business model options. We then explain how any of the short-term 
+options identified could be transitioned to a technology neutral mid-term option, 
+and to a subsidy-free world. Finally, we consider whether the policies differ in terms 
+of the funding options which they allow. 
+3.1 Identifying business model options 
+In this section we consider potential business model options in the mid-term and 
+the short-term. Again, we work backwards considering mid-term options and then 
+setting out short-term options which could feasibly transition to the mid-term 
+approaches considered. 
+3.1.1 Mid-term business model options 
+The purpose of identifying mid-term options is to ensure that the short-term options 
+we identify for first-of-a-kind BECCS power plants can be transitioned to mid-term 
+options and ultimately to a subsidy-free system. It is important that none of the 
+short-term options close doors to implementing any of these options in future. We 
+identify mid-term options at a high level, and we do not give a view as to which of 
+these options for future support is more preferable or likely.  
+We noted in the previous section that a mid-term business model should: 
+ provide remuneration for negative emissions (taking into account any revenue 
+from existing carbon markets); and 
+ support the price of any complementary GGR outputs such as power or 
+hydrogen that have associated carbon emissions. 
+Negative emissions can be remunerated either through a direct carbon payment 
+for negative emissions, or a negative CO2 obligation. Either of these models could 
+be applied in a technology neutral way across all GGR technologies. 
+ Direct carbon payment. A carbon payment would provide a fixed payment per 
+tonne of negative emissions, and would be a contractual mechanism between 
+the producer and a counterparty such as the LCCC (we note that if the carbon 
+pricing regime includes provision for negative emissions by the mid-term, this 
+contract could be structured as a CfD19). Because the market price for carbon 
+will not at this stage be high and/or stable enough to incentivise the required 
+amount of negative emissions to meet Net Zero, the contracted carbon price 
+will need to be set such that enough investors in GGRs can break even given 
+their cost of capital, to deliver the required quantity of negative emissions. More 
+ 
+ 
+19  The Government recently published its response on its consultation on the future of carbon pricing in the 
+UK. Based on this, we do not expect that negative emissions will be included in the scheme in the near 
+term, however this could be considered when the Government first reviews the policy in 2023.  
+ 
+See: HM Government (2020) The future of UK carbon pricing. UK Government and Devolved 
+Administrations’ response, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/889037/
+Government_Response_to_Consultation_on_Future_of_UK_Carbon_Pricing.pdf 
+ 
+frontier economics  
+19 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+detail on how a carbon agreement could be structured is provided in the box 
+below. 
+ Negative CO2 obligation. A negative CO2 obligation would require 
+greenhouse gas emitters covered by the obligation to secure negative CO2 
+certificates to cover a given proportion of their emissions. Companies 
+producing negative emissions would “produce” negative emissions certificates, 
+which would then be traded and provide a source of revenue (we note that if 
+the carbon pricing regime includes provision for negative emissions by the mid-
+term, these payments would be on top of any carbon market revenue). 
+ 
+WHAT WOULD A NEGATIVE CARBON PAYMENT LOOK LIKE? 
+An agreement providing payments for negative emissions would be a new 
+mechanism, so we provide some suggestions below on how this could be 
+structured. 
+Feature 
+Details 
+Type of agreement 
+Private law contract with LCCC or similar counterparty. 
+Provisions for 
+transition 
+Provisions included in the contract to allow any revenue 
+from an emissions trading scheme or the voluntary carbon 
+market to offset some or all of the carbon payment if and 
+when negative emissions are included in a UK emissions 
+trading scheme and as the voluntary market develops. 
+Scope 
+Contract to be structured such that it can be used by any 
+negative emissions technology, but payment may initially 
+need to be technology specific until technologies are 
+sufficiently mature. 
+Payment 
+Fixed payment per tonne of CO2 captured. In the near term, 
+allocation and payment level would be agreed by bilateral 
+negotiation between the investor and counterparty. Payment 
+level set such that the investor can recoup their investment 
+plus a reasonable rate of return, and taking into account 
+other potential sources of revenue (e.g. from power CfDs). 
+In the mid-term, allocation and payment level would be 
+determined by competitive auction. 
+T&S costs 
+Pass-through of regulated T&S costs. 
+Complementary 
+policies required 
+A system needs to be in place for monitoring, reporting and 
+verifying negative emissions. 
+Duration 
+To be considered. This would likely depend on asset lives, 
+and setting a duration that minimises the cost of capital. 
+Other features to 
+be considered 
+ 
+Liability for the cost of any emissions released from 
+storage. 
+ 
+Frequency of payments. 
+ 
+Point of payment (e.g. for BECCS in power it might be at 
+the point the carbon enters the CCS pipeline). 
+ 
+ 
+ 
+frontier economics  
+20 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+We note that it is preferable that support for complementary output prices be  
+delivered through a separate mechanism. CfDs are a well-established support 
+regime in the power sector, and are also being considered for hydrogen production.  
+This mechanism could therefore be a power CfD for BECCS in power, and a 
+hydrogen CfD for BECCS for hydrogen.  
+Therefore a full mid-term business model could be structured as: 
+ a carbon payment and a (power or hydrogen) CfD20; or 
+ a negative CO2 obligation and a (power or hydrogen) CfD. 
+3.1.2 Short-term business model options 
+In the short-term, we suggested that a narrow business model should: 
+ provide remuneration for negative emissions;  
+ support the complementary output price (power in this case); and 
+ provide support to deliver learnings and spillovers. 
+There is a wider set of potential types of support that could be implemented in the 
+short-term. Some of these were set out as business model options in the BEIS 
+CCUS business models consultation.21 The broad categories of potential support 
+are listed and briefly described below. 
+ Regulated asset base approach. This would involve a regulatory valuation of 
+the electricity generation assets and setting tariffs to pass costs on to 
+consumers. 
+ Cap and floor. This would set a minimum and maximum level of revenue, 
+whereby investors would be topped up if earnings fall below the minimum, and 
+would need to return earnings to consumers if they rise above the maximum. 
+ Cost-plus open book. This would involve direct payments to cover costs that 
+are deemed to have been reasonably incurred, plus an agreed margin. 
+ Power CfDs. Power CfDs are a well-established mechanism for providing low-
+carbon generators with stable power market revenues, along with support 
+required to deliver required amounts of low-carbon generation. 
+ Hybrid CfDs. This type of CfD provides lower £/MWh payments as output 
+moves up pre-determined “bands”. The aim is to incentivise generators to 
+reduce output when prices are low. 
+ Dispatchable Power Agreement (DPA). BEIS is considering the introduction 
+of a DPA for gas-fired CCS. This consists of an availability payment and a 
+variable payment, where the variable payment calculated by considering the 
+difference in short run marginal cost between the gas-fired CCUS plant and a 
+theoretical reference unabated plant22. 
+ 
+ 
+20  Other business models for complementary products could also be envisaged. 
+21  BEIS (2019) Business models for carbon capture, usage and storage, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/819648/c
+cus-business-models-consultation.pdf  
+22  BEIS (2020), CCUS: An update on business models for Carbon Capture, Usage and Storage 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946561/c
+cus-business-models-commercial-update.pdf  
+ 
+frontier economics  
+21 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ Carbon payment. As described above, a carbon payment would provide a 
+fixed payment per tonne of negative emissions, and would be a contractual 
+mechanism between the producer and a counterparty such as the LCCC 
+(similar to a CfD). 
+ Negative CO2 obligation scheme. As described above, this would require 
+greenhouse gas emitters covered by the scheme to secure negative CO2 
+certificates to cover a given proportion of their emissions. Companies 
+producing negative emissions would earn negative emissions certificates, 
+which would then be traded and provide a source of revenue. 
+Given the BEIS criteria set out in the previous section, the need for a transition 
+path to one of the mid-term options, and the specific characteristics of BECCS in 
+power, a number of these options can be eliminated. The table below sets out 
+which options we have eliminated, and the reasoning. 
+Figure 7 
+Initial assessment of support options  
+Support 
+option 
+Rationale 
+Performance against criteria 
+Regulated 
+asset base 
+(RAB)23 
+Can deliver cashflow 
+before production starts, 
+and helps ensure that 
+infrastructure will be 
+funded regardless of 
+subsequent levels of 
+demand 
+ 
+Investor confidence: regulatory regimes (unlike contractual 
+mechanisms such as CfDs) may provide less certainty over 
+revenues as they need to establish a track record and even then, 
+can be adjusted over time 
+ 
+Ease of transition: early cashflow not needed because a significant 
+proportion of costs are operating costs and there is limited demand 
+risk. Therefore a regulated approach is less beneficial, particularly 
+given it may be difficult to transition away from. 
+□ No clear transition path to mid-term options. 
+Cap and 
+floor 
+Straightforward 
+approach to removing 
+risk of excessively high 
+or low returns 
+ 
+Investor confidence: in addition to points on RAB, if cap and floor 
+set wide apart, then the approach will not be effective at addressing 
+risks. 
+ 
+Ease of transition: if cap and floor set narrow, similar issues to RAB 
+approach. 
+□ No clear transition path to mid-term options. 
+Cost-plus 
+open book 
+Straightforward and the 
+investor is guaranteed 
+the agreed rate of return 
+ This option does not meet a number of the BEIS criteria, including 
+efficiency, allocation of risk and ease of transition (no clear transition 
+path to mid-term options). 
+Power 
+CfDs 
+Provides investors with 
+a guarantee over power 
+market revenues, while 
+taking into account 
+actual revenues 
+To be assessed further  
+Hybrid 
+CfDs 
+Creates efficient 
+dispatch incentives for 
+intermittent generators 
+ Feasibility: this variant of a power CfD is unlikely to be necessary 
+or proportionate as a BECCS power plant is expected to run 
+baseload given the value of negative emissions produced. 
+ 
+ 
+ 
+23  The reasoning set out here also applies to a split CfD, which would provide an upfront payment to cover 
+fixed capital costs (similar to the RAB approach being considered for nuclear generation), but would also 
+provide a subsequent output-linked payment to cover variable costs (similar to a standard CfD).  
+ 
+frontier economics  
+22 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Support 
+option 
+Rationale 
+Performance against criteria 
+DPA  
+Creates efficient 
+dispatch incentives for 
+intermittent generators 
+ Feasibility: this variant of a power CfD is unlikely to be necessary 
+or proportionate as a BECCS power plant is expected to run 
+baseload given the value of negative emissions produced. 
+Carbon 
+payment 
+Straightforward 
+approach to remunerate 
+negative emissions 
+To be assessed further 
+Negative 
+CO2 
+obligation 
+scheme24 
+Market-based approach 
+that, if the scheme 
+functions well, should 
+deliver an efficient price 
+for negative CO2 
+obligation certificates, 
+and encourage cost 
+efficient development of 
+negative emissions 
+technologies 
+ 
+Investor confidence: obligations (unlike contractual mechanisms 
+such as CfDs) provide less certainty over revenues as they can be 
+adjusted by policy-makers over time. An obligation scheme would 
+be particularly unsuitable at this early stage when few GGRs exist, 
+and technology neutrality across these technologies is not possible. 
+Having a small number of sellers at this stage could result in large 
+fluctuations in obligation prices (e.g. due to entry and exit of sellers). 
+ 
+Feasibility: designing and introducing an obligation, particularly one 
+for negative emissions for which there is no precedent, is unlikely to 
+be feasible in the timelines required. This is due to the need to create 
+legal obligations around producing certificates, the challenges 
+around monitoring and enabling trading, and difficulties around 
+designing the scheme to tune desired outcomes.  
+Obligations are also complex to administer (as RO experience has 
+indicated, with parameterisation including “headroom” calculations 
+and banding). And they are difficult to budget, unlike CfDs where a 
+defined envelope of budget can be set. 
+Source:  Frontier 
+This process of elimination leaves power CfDs and carbon payments as 
+candidates for the short-term. These forms of support could be used individually or 
+in combination, giving three distinct options for support. We explain below how 
+these options would deliver the needed support to enable investment in BECCS in 
+power. 
+ Power CfD: the strike price of the CfD would be set to include remuneration for 
+negative emissions, low carbon power and for learnings and spillover benefits. 
+This would therefore be a bespoke CfD for BECCS in power. 
+ Carbon payment: a carbon payment would provide a fixed payment per tonne 
+of negative emissions, on a contractual basis. The payment level would be set 
+to include remuneration for negative emissions, low carbon power and for 
+learnings and spillovers. A similar business model could apply to other GGRs, 
+noting that the level of payment would differ by technology. 
+ Carbon payment + power CfD25: this option is a two-part business model, 
+combining the two options above. The carbon payment would provide 
+ 
+ 
+24  We note that a number of the drawbacks set out here also apply to obligations as a mid-term option. 
+However our focus is on evaluating short-term options, so we have not commented on the suitableness of 
+an obligation scheme in the mid-term. 
+25  There is a variant of this option where the power CfD would be replaced with a “carbon CfD” that would only 
+stabilise the portion of power market revenues related to the carbon price.  The effect of this is that investors 
+are shielded from the variation in wholesale prices that is driven by the carbon price, but exposed to 
+variation that is driven by fuel costs and other factors.  We do not consider this variant in detail in the 
+following sections as its effect is somewhat like a hybrid of the power CfD and the carbon payment. There is 
+also other work ongoing exploring this option, for example by the LCCC. 
+ 
+frontier economics  
+23 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+remuneration for negative emissions and learnings and spillovers while the 
+power CfD would support power market revenues.  
+For any of these business models, there are a number of features that are 
+important to consider, including the duration of support and protections against 
+specific risks. We set out in the box below some of these key features and some 
+considerations that should be taken into account when considering the specific 
+design of a chosen business model. 
+ 
+frontier economics  
+24 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+KEY BUSINESS MODEL FEATURES 
+Duration of support 
+The standard duration for CfD contracts in GB is 15 years.  There is not an obvious 
+justification for a different duration in the case of BECCS in power, given the cost 
+characteristics of the plant. Contract length would ideally be optimised to provide 
+the best value for money for the group(s) funding the business model;  
+Reference power price used (for CfDs only) 
+BECCS generation is non-intermittent and is likely to run at high load factors  as a 
+result of the value of negative emissions. Like nuclear, it would appear reasonable 
+to base its payments on the baseload (season ahead) reference price. Baseload 
+prices are calculated using a traded volume weighted average on a seasonal basis. 
+They provide an incentive for baseload generators to avoid outages at a time when 
+hourly prices are highest. This is because CfD payments relate to the difference 
+between the average season-ahead price and the strike price. If generators sell 
+forward at the season-ahead price, they ensure they receive their expected 
+revenue.  But if they then have to buy energy in the market to cover an outage, 
+they are exposed to the difference between the hourly prices at which they buy and 
+the season-ahead price.  
+Limits on T&S availability risk 
+As we described in section 2, because first-of-a-kind BECCS power plants would 
+be some of the first users of T&S infrastructure, they would help deliver positive 
+spillovers by contributing to the costs of this infrastructure and helping to 
+demonstrate its reliability.  
+In doing so, however, first-of-a-kind BECCS power plants could potentially be 
+exposed to significant risk because lack of access to T&S infrastructure would 
+mean that a plant cannot produce negative emissions. This risk comes both in the 
+form of possible delays to the deployment of the infrastructure, and also the 
+possibility of technical issues in the early years that limits its availability. 
+Furthermore, T&S availability is entirely exogenous, and because there has been 
+limited demonstration of this infrastructure it is difficult for investors to estimate the 
+scale of this risk. 
+It is therefore important that any element of a business model that is providing 
+remuneration for negative emissions (the power CfD in the first option above, and 
+the carbon payment in the other options) mitigates the exposure of investors to the 
+risk of T&S outages. This may include contractual payments from the T&S 
+operator, who may in turn draw on government support to meet these payments.  
+The compensation might also need to cover any losses that a generator makes if 
+it has already sold power (and possibly negative emissions) that it is not able to 
+deliver due to a T&S outage, and needs to buy back power/negative emissions to 
+cover its position in the market. The mechanism for this would need to be 
+considered further. 
+ 
+frontier economics  
+25 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Limits on opex risk 
+The most significant operating costs for a BECCS power plant are likely to be the 
+cost of fuel (biomass) and the cost of using T&S infrastructure. There is an option 
+to index strike prices/payment levels to changes in biomass prices, changes in T&S 
+costs, or both. There is also the option for indexation to apply to only a portion of 
+the contract, e.g. under the current nuclear CfD, investors bear the risk of changes 
+in opex during the initial 15 years but are protected from changes after this period. 
+Whether indexation is used should depend on how well-placed investors are to 
+manage these risks, and how feasible it is to find a suitable index. For example, 
+we note that there is not currently a liquid biomass market on which to base a fuel 
+cost index. 
+Furthermore, T&S costs are likely to be regulated to some extent, in which case 
+there would be some form of protection for investors against instability, and T&S 
+costs could be passed-through.  
+3.2 Transition paths from short-term business models 
+It is possible to transition from any of the short-term options described above to a 
+subsidy-free world with an efficient CO2 market, via either of the two mid-term 
+options discussed above (carbon payment or negative CO2 obligation). Some 
+options are more straightforward than others, but all are possible, meaning that 
+none of the shortlisted short-term options close any doors in future. Below we 
+briefly explain how the relevant transitions would be possible. 
+Figure 8 
+Possible transitions to a subsidy free world 
+ 
+Source: Frontier 
+3.2.1 Short-term to mid-term 
+We first consider the transition routes from the short-term to mid-term options.  
+First, we consider the transitions to a carbon payment regime in the mid-term: 
+ transition from power CfD: provided it is relatively simple to establish a ratio 
+between the MWh of power produced and the tCO2 captured and stored, it 
+Broad support, covering all GGR
+technologies
+Post-subsidy world
+Carbon Payment
+[+ Power CfD or mechanism to 
+support output price for other 
+GGRs]
+Negative CO2 obligation 
+[+ Power CfD or mechanism to 
+support output price for other 
+GGRs]
+Efficient CO2 market 
+Short term
+Mid term
+End point
+Narrow, covering early projects, 
+can be implemented quickly
+Power CfD
+Carbon Payment
+Carbon Payment + Power CfD
+ 
+frontier economics  
+26 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+should be relatively simple to convert a power CfD with a price defined in 
+£/MWh to a carbon payment with a price defined in £/tCO2, without impacting 
+on the financial return originally agreed under the CfD contract.  If the mid-term 
+carbon payment is accompanied by a power CfD instrument, payments under 
+a unified short-term power CfD could be split into both £/MWh and £/tCO2 
+components; 
+ transition from carbon payment (with or without power CfD): this is likely 
+to be the most straightforward short-term to mid-term transition option. The 
+carbon payment for negative emissions is retained in the mid-term.  If a two-
+part business model is desirable in the mid-term, it would be preferable to apply 
+a two-part model in the short-term. 
+Second, we consider the transition to a negative CO2 obligation.  In all of the short-
+term support options outlined above in Figure 8, there will need to be a contractual 
+counterparty (such as the LCCC) that provides support payments.  If a negative 
+obligation was introduced, while the CfDs contracts signed in earlier periods were 
+still ongoing , this counterparty could sell negative emission certificates (based on 
+its support contracts) to parties obligated under the negative CO2 obligation.  This 
+would ensure that GGR technologies signed up to CfDs could also still effectively 
+participate as part of the supply curve of GGRs under an obligation scheme, 
+without affecting the revenue that investors receive.  In doing so, the contractual 
+counterparty would raise some of the funds required to remunerate support 
+contracts. That said, some form of (reduced) levy might still be needed as a 
+backstop source of funds for the counterparty, in case the obligation scheme does 
+not raise sufficient funds. More detail on how prices are determined in an obligation 
+scheme is provided in the box below. 
+ 
+frontier economics  
+27 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+MECHANISMS TO LIMIT PRICE RISK IN AN OBLIGATION SCHEME 
+The Renewables Obligation (RO) was one of the main support mechanisms for 
+large-scale renewable electricity projects in the UK. It came into effect in 2002 and 
+closed for new generating capacity in  2017. 
+Under the RO, electricity suppliers are required to present to Ofgem a specified 
+number of Renewables Obligation Certificates (ROCs) per unit of electricity 
+supplied to their customers. ROCs are tradeable certificates issued to operators of 
+accredited renewable generating stations for the renewable electricity they 
+generate. The price of ROCs can fluctuate, depending on the relationship between 
+the production of renewable electricity and energy supplied to consumers.  
+The RO includes two features for limiting risks around the ROC price.  
+ ‘Headroom’ is included, to ensure that the price of obligation certificates 
+does not collapse.  The Government sets the headroom each year, generally 
+by forecasting renewable generation for that year and adding 10%. Electricity 
+suppliers in the UK are then obligated to purchase ROCs amounting to this 
+‘headroom’ figure.  This feature aims to reduce the risk of oversupply of 
+obligation certificates.  However, given the difficulties of accurately forecasting 
+supply, some risk remains.  
+ A buyout price, set by Ofgem, is included to cap the cost of meeting the 
+obligation. Suppliers can pay a buyout price instead of purchasing ROC 
+certificates. This effectively caps the market price for ROCs and reduces the 
+risk of price spikes. 
+3.2.2 Mid-term to end point 
+While it is less relevant to the choice of a short-term approach, we also consider 
+briefly the transition routes from the mid-term to the long-term from: 
+ a carbon payment: at some point during the transition to an efficient CO2 
+market, negative emissions will need to be recognised and brought into the CO2 
+markets. However, at this point, the carbon price may not yet be high enough 
+and/or stable enough to incentivise the level of negative emissions needed to 
+meet Net Zero or other climate change goals. At this point, fixed carbon 
+payments could be replaced with a carbon CfD defined such that GGR 
+investors receive a consistent level of remuneration for their negative 
+emissions.  Then, over time, as the carbon price rises, CfD payments will fall 
+(and the issue of new carbon CfDs could gradually be phased out); and  
+ a negative CO2 obligation: in contrast to a carbon payment regime, 
+transitioning  away from a negative CO2 obligation may be more complex 
+(particularly if policymakers wish to avoid investors under the obligation 
+benefitting from rising CO2 prices). Once GGRs are included in a carbon pricing 
+scheme, investors in GGRs would receive revenue for their obligation 
+certificates on top of carbon revenue, and “steering” the obligation price to 
+respond to an evolving carbon price would be difficult.26  Similarly, gradually 
+ 
+ 
+26  Reducing the target volume of the scheme creates risk around a price “cliff edge” – in a simple obligation 
+scheme design, once the target level of obligation is met, there is no longer a scarcity of certificates and the 
+price will crash.  In theory the penalty price (applied to those who have not met their obligation) could be 
+ 
+ 
+frontier economics  
+28 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+reducing take-up under an obligation scheme is more difficult, again because 
+of the complexity of “steering” the obligation price.27  Nevertheless, routes (such 
+as those established for the closing and eventual termination of the 
+Renewables Obligation) exist to phase out an obligation scheme, even if these 
+include more direct regulation of the price of certificates or the definition of a 
+final closing date for the scheme.  
+3.2.3 Conclusion on transition paths 
+Our analysis suggests that it is possible to transition from any of the proposed 
+“narrow” short-term options though to a “broad” business model in the mid-term, 
+whether that is based on a carbon payment or a negative CO2 obligation.  
+Implementing one of the short-term options would therefore be low regret in that, 
+without significantly limiting the choice of mid-term options, it would enable early 
+BECCS in power investments, and their associated benefits of: 
+ helping the UK meet its upcoming carbon budgets and stay on track to meet 
+Net Zero; 
+ supporting the development of CCS infrastructure, by acting as an anchor load 
+and reducing costs for other users; 
+ developing technical learnings that can be applied to subsequent BECCS 
+power plants and other CCS applications; and 
+ assuming a business model is used for first-of-a-kind BECCS power plants, 
+delivering policy learnings that can be applied to other GGRs. 
+3.3 Funding of short-term options 
+It is clearly important to identify the way in which support under any of the short-
+term business model options can be funded. A credible funding route will be of 
+critical interest to investors, and the incidence of costs of the business model will 
+be important from a policy perspective. 
+It may seem that the form of a business model and the way it is funded are strongly 
+interlinked. For example, power CfDs are currently funded by a levy paid by 
+electricity suppliers to the LCCC. However, business models do not need to be 
+attached to specific funding sources; most options can be designed to fit with 
+numerous different funding options, so the two decisions can be made 
+independently.  
+In Annex B we identify some candidate groups to fund any chosen business model 
+and set out some potential principles for deciding on funding. However, at this 
+stage we do not form any recommendations as to a funding source. This is 
+because once a business model has been chosen, arrangements can be put in 
+place to raise the required funding from any chosen group. This is demonstrated 
+in the figure below, which describes how a power CfD or a carbon payment could 
+ 
+ 
+used to steer the market price of certificates, but even then, there is not a straightforward link between this 
+penalty price and the price achieved by any given plant.  
+27  The government committed to “headroom” in the Renewables Obligation scheme in order to provide 
+investors with confidence that the price would not crash in the case of an over-supply of low carbon 
+electricity.  Having done so, the scheme was then simply closed to new investors on a given date rather 
+than seeing any gradual phasing down.  
+ 
+frontier economics  
+29 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+be funded by any of five candidate groups (while we apply this to the groups we 
+have selected, this reasoning could be applied to any target group).  A two-part 
+power CfD and carbon payment would involve a combination of the two 
+approaches (and indeed, would allow an option where the power CfD continues to 
+be funded by electricity suppliers while the carbon payment is funded by a different 
+group). 
+Figure 9 
+Funding a business model by different groups 
+ 
+Source: Frontier 
+Investors in early BECCS power plants will need assurance over the plan for 
+funding as well as business model design in the next few years to enable 
+investment decisions to be made. However, these decisions should be made 
+independently, without tying business model options to funding sources, to secure 
+the preferred outcome on each. Further work on designing a business model can 
+progress in parallel with thinking about funding sources, to ensure that investors 
+are sufficiently confident both about the nature and source of funding in time to 
+enable early investment in BECCS in power . 
+Undertaxed emitters
+Undertaxed emitters not 
+exposed to intl. competition
+Power CfD
+Carbon payment
+Taxpayers
+Funding from government 
+(general taxation revenues)
+Funding from government 
+(general taxation revenues)
+Upstream fossil fuel suppliers
+Levy on fossil fuel suppliers, 
+payable to CfD counterparty
+Levy on fossil fuel suppliers, 
+payable to administering entity
+Electricity suppliers/users
+Levy on electricity suppliers (as 
+currently) or users, payable to 
+CfD counterparty
+Levy on electricity 
+suppliers/consumers, payable to 
+administering entity
+Levy on customers in chosen 
+sectors, payable to CfD
+counterparty
+Levy on customers in chosen 
+sectors, payable to 
+administering entity
+Candidate groups
+ 
+frontier economics  
+30 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+4 ASSESSMENT OF BUSINESS MODEL 
+OPTIONS 
+In this section, for each of the short-term business model options identified, we first 
+look at the impact on the costs and revenues that investors can expect to face in 
+order to help understand the investor confidence and cost efficiency characteristics 
+of each option. We then evaluate each of the options against the principles set out 
+in Section 2, highlighting the key strengths and weaknesses of each option as a 
+business model for BECCS in power. Finally we set out conclusions on the most 
+preferable options and key trade-offs between them. 
+4.1 Business model impact on costs and revenues 
+Figure 10 illustrates the cost and revenue profiles that investors would face under 
+each of the three proposed short-term business model options (although these are 
+shown side-by-side they represent alternative worlds, not a sequence of support 
+over time.)  
+Figure 10 
+Cost and revenue profiles of alternative support options 
+ 
+Source: Frontier 
+Note: 
+Illustrations are based on assuming a constant level of output over time. 
+ 
+Under all options, investors would face the initial pre-construction and construction 
+costs, and would bear operating costs such as biomass costs throughout the 
+lifetime of the investment.  
+However, revenue streams would differ by business model. 
+ power CfD: under the power CfD (which in this case would provide 
+remuneration for both power and for negative emissions), investors earn a fixed 
+level of revenue per MWh of power generated, equal to the strike price of the 
+CfD contract. This strike price shields investors from fluctuations in power 
+ 
+frontier economics  
+31 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+prices, as well as including an uplift to provide revenue for negative emissions, 
+learnings and spillovers. Investors do not face any power wholesale market 
+risk; 
+ carbon payment: under a carbon payment, investors receive a fixed payment 
+per tonne of CO2 captured and stored. This payment includes an uplift for 
+learnings and spillovers. On top of this, investors earn power market revenues 
+for each MWh of electricity generated, meaning that they face full exposure to 
+power wholesale market risk; and  
+ two-part carbon payment + power CfD: this option combines the two above, 
+so there is a fixed payment per tonne of negative CO2 stored, plus a CfD that 
+provides a strike price that shields investors from power price fluctuations. The 
+uplift for learnings and spillovers could be included within either of these 
+mechanisms. Investors do not face any power wholesale market risk. 
+4.2 Business model assessment 
+Having set out the implications of each regime for cost and revenue risk, we turn 
+to an assessment of the different business model options.  As a reminder, Figure 
+11 below sets out our evaluation criteria.  
+Figure 11 
+Criteria for assessing business model options 
+ 
+Source: Frontier 
+Figure 12 provides a summary of our assessment of each of the business model 
+options against the main criteria categories, using traffic light colour coding to 
+indicate how well the criteria are likely to be met.  
+Fair cost sharing
+▪ Allows fair and practical cost distribution
+Ease of policy 
+transition
+▪ Ease of transition to subsidy free system
+▪ Ease of transition to technology neutral solution 
+Instil investor 
+confidence
+▪ Attract innovation 
+▪ Attract new entrants
+▪ Instil supply chain confidence
+Cost efficient
+▪ Drive efficient management of investment costs
+▪ Drive efficient quantity of investment
+▪ Drive efficient dispatch and operation
+▪ Risks allocated in an efficient way, taking into 
+account the impact on the cost of capital
+Feasibility 
+▪ Limit administrative burden  
+▪ Practicality for investors
+▪ Requirement for complementary policy
+▪ Wider policy and state aid compatibility
+▪ Timely implementation
+ 
+frontier economics  
+32 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Figure 12 
+Assessment of business model options 
+ 
+ 
+Source: Frontier 
+Note: 
+Green indicates that the criteria is largely met, yellow indicates that it is partially met, and red indicates 
+that it is not met. 
+We set out our reasoning in more detail below. 
+Instil investor confidence 
+ 
+The key driver of investor confidence is certainty over future revenues, which will 
+enable investors to determine the risk that they do not make a return on their initial 
+investment. More certainty over returns in turn will reduce the cost of capital which 
+investors require, and (other things equal) should help attract new entrants, 
+innovation, and instil supply chain confidence. 
+In usual circumstances, exposure to wholesale power prices is important because 
+this provides investment signals and incentivises efficient dispatch. However, the 
+energy transition has required significant government intervention to deliver 
+required investment in low carbon generation. Government has taken on a 
+decision-making role around the technologies that require investment, and the 
+timing of that investment. Business models can be designed to incentivise broadly 
+efficient dispatch decisions. Therefore the benefits of exposing investors in low 
+carbon power to wholesale prices are lower, and shielding investors from this risk 
+has the benefit of reducing the cost of capital and the cost of support. This logic 
+has applied to investment in low carbon generation previously, and could be 
+argued should also apply to support for early BECCS power plants. 
+Power CfD
+Carbon payment
+Carbon Payment 
++ Power CfD
+Instil investor 
+confidence
+Cost efficient
+Feasibility 
+Fair cost sharing
+Ease of policy 
+transition
+Instil investor 
+confidence
+Power CfD
+Carbon payment
+Carbon Payment 
++ Power CfD
+ 
+frontier economics  
+33 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+All three options provide certainty over remuneration for negative emissions, which 
+is contractually set, either within the power CfD strike price or as the level of carbon 
+payment. The main distinction between these options is therefore whether or not 
+they shield investors from power market risk. Both options with a power CfD protect 
+investors from this risk, whereas the carbon payment does not.  
+The power CfD may also have a slight benefit over the other two options because 
+it is a private law contract with an established track record, and may therefore give 
+investors more confidence than the options that require the establishment of a new 
+carbon payment mechanism. However, the carbon payment could be designed 
+such that it also provides investors with a high degree of confidence. 
+We conclude that the two options with a power CfD perform better than the carbon 
+payment alone.  
+4.2.1 Cost efficiency 
+ 
+ 
+The main considerations for cost efficiency are whether the business models: 
+ drive efficient management of investment costs; 
+ drive efficient quantity of investment; 
+ drive efficient dispatch and operation; and 
+ risks allocated in an efficient way, taking into account the impact on the cost of 
+capital. 
+There is no significant distinction between the business models in terms of the 
+incentives they create around management of investment costs or quantity of 
+investment. In all cases: 
+ investors are exposed to investment and operating costs so are incentivised to 
+manage these efficiently; and 
+ the choice of business model will not drive the quantity of investment, which 
+will be approved administratively by government.  
+The business models do have different properties in terms of exposing investors 
+to wholesale power prices. For dispatchable generation, models that leave power 
+price risk with investors would provide more efficient dispatch incentives, as they 
+would encourage generators to reduce output when prices are low, and vice versa. 
+However, because of the value attached to the negative emissions that a BECCS 
+power plant will be delivering when it is generating, it is highly probable that BECCS 
+plants will operate with a high load factor28.  As a result, it is less likely that 
+ 
+ 
+28  We note that even issues around negative pricing of power are less of an issue for BECCS plants than for, 
+say, a windfarm.  Even if the power price is negative, there may still be an economic logic for a BECCS 
+plant to operate, as a result of the value of negative carbon emissions. 
+Power CfD
+Carbon payment
+Carbon Payment 
++ Power CfD
+Cost efficient
+ 
+frontier economics  
+34 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+protection from power prices under a power CfD will result in significantly distorted 
+dispatch incentives (compared to, for example, a gas CCS plant).   
+Regarding risk allocation, transferring risks from investors has the potential to 
+reduce the investor cost of capital, and therefore reduce consumer/taxpayer costs. 
+However, it also means that consumers/taxpayers will bear additional risks, and it 
+removes the incentive on investors to manage these risks efficiently.  Allocating 
+risk appropriately involves balancing these risks. 
+The carbon payment strikes a different balance in that trade-off compared to the 
+two options with a power CfD, as it leaves investors with power price exposure, 
+likely resulting in a higher cost of capital. Investors will have some ability to respond 
+to power price signals through their dispatch decisions. However this may be  
+limited because, as explained above, BECCS power plants are likely to operate 
+with a very high load factor. The options with a power CfD on the other hand shield 
+investors from this risk, and may deliver a lower cost of capital.  
+Therefore we conclude that while the options have different risk allocations, all of 
+them appear reasonable, and overall all three options perform relatively well on 
+efficiency. 
+4.2.2 Feasibility 
+ 
+We have considered a number of features of each of the business models relating 
+to feasibility: 
+ administrative burden: the power CfD performs better on this than the 
+business models involving a carbon payment. This is because carbon 
+payments are a new form of support and there will be time and cost involved in 
+designing and administering these payments, and potentially introducing new 
+legislation. However, it is likely that a mechanism for rewarding carbon abated 
+and / or removed will need to be designed in any case to support other CCS 
+projects, in which case there would be limited additional administrative burden 
+in designing and using the mechanism for BECCS. 
+ practicality for investors: all business models are practical for investors. 
+However, the power CfD is likely to be preferred because investors have 
+experience and understanding of power CfDs; 
+ requirement for complementary policy: none of the business models require 
+the introduction of complementary policies, beyond what would be needed 
+anyway for negative emissions and CCS technologies (e.g. monitoring, 
+reporting and verification system for negative emissions, and policy on T&S for 
+CCS); 
+ wider policy and state aid compatibility: all of the business models are 
+compatible with wider policy, and we do not foresee any state aid issues in 
+relation to business model structure (there will still be considerations around 
+Power CfD
+Carbon payment
+Carbon Payment 
++ Power CfD
+Feasibility 
+ 
+frontier economics  
+35 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+the overall level of support, and issues around cumulation29 of aid would need 
+to be considered – however, we would expect any issues to be resolved 
+relatively easily); 
+ timely implementation: the power CfD performs better than the other options 
+on this criteria. In fact, speed of implementation is one of the main strengths of 
+using a power CfD, as it is already well established. It would be fairly quick to 
+adapt existing CfD terms to apply to BECCS in power. The other options may 
+require legislation, which would need to be delivered in time for early projects 
+to take their FIDs. . 
+Overall, we conclude that the power CfD performs better than the other two 
+options. 
+4.2.3 Fair cost sharing 
+ 
+As we noted above, any of the support options can be designed to be funded by 
+any chosen group, whether that is fossil fuel suppliers, hard-to-abate sectors, 
+electricity consumers, or others. In determining the source of funding, government 
+will need to take into account a range of factors including efficiency, fairness and 
+practicality. We provide more detail on these considerations in Annex B. 
+Therefore we conclude that all of the options can be designed to perform well in 
+terms of cost sharing. 
+4.2.4 Ease of policy transition 
+ 
+As explained in section 3, all of the short-term options we have set out can 
+transition to a subsidy free system in the long-term. However, some are better 
+suited than others, particularly because they deliver learnings that will aid in the 
+transition to an efficient CO2 market that recognises negative emissions. 
+We have considered how easy or difficult it would be to transition each of the 
+options to a technology neutral business model for future projects, and then to a 
+subsidy free business model. 
+ 
+ 
+29  For example, if the BECCS plant were to participate in a Capacity Remuneration Mechanism. 
+Power CfD
+Carbon payment
+Carbon Payment 
++ Power CfD
+Fair cost sharing
+Ease of policy 
+transition
+Power CfD
+Carbon payment
+Carbon Payment 
++ Power CfD
+ 
+frontier economics  
+36 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ ease of transition to technology neutrality: all three options are unlikely to 
+have any technology neutral elements in the short-term, although they could 
+transition to a mid-term regime which could be technology neutral; and 
+ ease of transition to subsidy free: while all of the options can transition to a 
+subsidy free system, the power CfD does not create any policy learnings 
+around treatment of negative emissions that contribute to this transition. The 
+other two options do create learnings around a carbon payment for negative 
+emissions that can eventually be broadened to other GGRs and then captured 
+within an efficient CO2 market. 
+Overall, we conclude that the two-part business model performs best on this 
+criterion. The other two options perform less well, with the power CfD performing 
+worst as it does not deliver learnings around remunerating negative emissions. 
+4.3 Summary 
+All three main business model options perform relatively well across most criteria, 
+as we have only considered business models that are broadly fit for purpose. 
+However, the evaluation above highlights that there are a few key trade-offs that 
+must be considered when choosing a business model. These are as follows. 
+ investor confidence: the power CfD and the two-part model with a CfD 
+perform better than the carbon payment on this measure, as they shield 
+investors from wholesale market fluctuations; 
+ feasibility: the power CfD performs best on this measure. Because it is well 
+established and understood, it will be quick to implement. Introducing carbon 
+payments will require some time to introduce a new regime of support 
+payments, whether administered by the LCCC or another counterparty (though 
+we note that the Government has committed to delivering business models for 
+industrial CCUS, and is minded to introduce carbon support payments30); ; and 
+ potential to become technology neutral and subsidy free: All three options 
+could transition to a mid-term regime which could be technology neutral.  The 
+stand-alone power CfD performs least well as it does not deliver any learnings 
+around remunerating negative emissions. 
+Overall, the two-part model performs well across the BEIS criteria and would offer 
+a clear path to a technology neutral and subsidy free world, delivering learnings 
+that will be relevant for other GGRs. The power CfD also performs well, other than 
+on the longer term transition path. However, it is particularly attractive in terms of 
+feasibility, so if shorter-term ease and speed of introduction are key considerations, 
+the power CfD may be preferable.  
+ 
+ 
+30  BEIS (2020), CCUS: An update on business models for Carbon Capture, Usage and Storage 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946561/c
+cus-business-models-commercial-update.pdf 
+ 
+frontier economics  
+37 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+5 CONCLUSIONS 
+The Government’s Net Zero target has significantly changed the scale and nature 
+of the UK’s decarbonisation challenge. Because of the very high costs and 
+potential infeasibility of abatement in certain sectors, negative emissions will need 
+to play a key role in meeting the Net Zero target. 
+Without BECCS in power, meeting Net Zero may not be possible, and investing in 
+this technology early will help reduce the risk around meeting Net Zero and interim 
+carbon budgets by helping to offset delays in abatement in other sectors.  
+However, given market failures and policy gaps, BECCS in power is unlikely to be 
+delivered without further intervention. In particular, under current policy, investors 
+would not be remunerated for negative emissions or for the positive learning 
+externalities they provide. 
+We have shortlisted three main business model options to enable investment in 
+first-of-a-kind BECCS power plants consistent with the Q1 2024 FID timeline 
+proposed by Drax: 
+ a power CfD (providing remuneration for both power and negative emissions); 
+ a carbon payment; and  
+ a two-part carbon payment and power CfD. 
+None of these three options limits options for future business models that would 
+apply across GGR technologies. They can therefore be evaluated and considered 
+in their own right while thinking on mid-term GGR strategy progresses.  And they 
+do not place constraints on who funds the business model, which can therefore be 
+considered a separate design choice. Work to define the business model options 
+can progress in parallel while views on funding are being developed. 
+All three options perform relatively well across our evaluation criteria. Our 
+assessment highlights a few key trade-offs that must be considered when choosing 
+a business model. These are: 
+ investor confidence: the power CfD and two-part model perform better than 
+the carbon payment on investor confidence, as they shield investors from 
+wholesale market fluctuations; 
+ feasibility: the power CfD performs best on feasibility. Because it exists, and 
+is well established and understood, it will be quick to implement; and 
+ potential to become technology neutral and subsidy free: All three options 
+could transition to a mid-term regime which could be technology neutral. The 
+two-part model and the carbon payment may provide additional learning on the 
+remuneration of negative emissions.  
+Overall, the two-part model performs well across the BEIS criteria and would offer 
+a clear path to a technology neutral and subsidy free world, delivering learnings 
+that will be relevant for other GGRs. The power CfD also performs well, other than 
+on the longer term transition path. However, it is particularly attractive in terms of 
+feasibility. Both options deliver a number of desirable features: 
+ they address identified market failures; 
+ 
+frontier economics  
+38 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ they can be implemented relatively simply and in time to capture benefits of 
+early BECCS in power investment; and 
+ they can be structured to ensure an efficient outcome for customers (including 
+with reference to investors’ likely cost of capital) and allocate risks 
+appropriately. 
+ 
+ 
+ 
+ 
+frontier economics  
+39 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ANNEX A WHY IS IT DESIRABLE TO 
+DELIVER BECCS IN THE NEAR 
+TERM?  
+Achieving investment in BECCS in power in the near term has a number of 
+benefits:  
+ it can support the development of CCS infrastructure, by acting as an anchor 
+load and reducing costs for other users; 
+ it will develop technical learnings that can be applied to subsequent BECCS 
+power plants and other CCS applications; 
+ assuming a business model is used for first-of-a-kind BECCS power plants, this 
+will deliver policy learnings that can be applied to other GGRs; and 
+ it will help the UK meet its upcoming carbon budgets and stay on track to meet 
+Net Zero. 
+We provide more detail on each of these points in turn below. 
+A.1.1 Developing BECCS will help with the rollout of CCS 
+infrastructure, which has wider benefits   
+CCS is likely to be a key part of meeting 2050 abatement targets, both globally and 
+in the UK. Globally, the International Energy Agency stresses that CCS is “one of 
+the most-cost effective solutions available for large scale emission reductions” and 
+calls for  “urgent action” in the delivery of CCS infrastructure.31  
+In the UK, the recent Energy White Paper, sets out an ambition to capture 10Mt of 
+carbon dioxide a year by 2030, investing up to £1 billion to support the 
+establishment of CCUS in four industrial clusters32. The CCC stresses the 
+importance of accelerating progress in CCS and advocates that the first CCS 
+cluster be operational by 2026, with two clusters, capturing at least 10 MtCO₂, 
+operating by 2030 in order to meet Net Zero.33 The CCC also believes that CCS is 
+important in the development of low carbon hydrogen, which is a key element of 
+its scenarios in reaching Net Zero, and particularly important in reducing emissions 
+from heat.34 
+Early investment in BECCS would help to provide an anchor load for CCS 
+infrastructure. By spreading the costs of this infrastructure over the higher volume 
+of emissions captured and stored by BECCS, costs to other users of the 
+infrastructure (e.g. hydrogen production with CCS and other industrial sectors 
+where carbon could be captured, such as cement, iron, steel and refineries) will be 
+ 
+ 
+31  IEA (2019), Transforming Industry through CCUS, https://www.iea.org/reports/transforming-industry-
+through-ccus 
+32  BEIS (2020), Powering our Net Zero Future, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/945899/2
+01216_BEIS_EWP_Command_Paper_Accessible.pdf  
+33  CCC (2019), Net Zero The UK’s contribution to stopping global warming, https://www.theccc.org.uk/wp-
+content/uploads/2019/05/Net-Zero-The-UKs-contribution-to-stopping-global-warming.pdf 
+34  CCC (2019), Net Zero The UK’s contribution to stopping global warming, https://www.theccc.org.uk/wp-
+content/uploads/2019/05/Net-Zero-The-UKs-contribution-to-stopping-global-warming.pdf 
+ 
+frontier economics  
+40 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+lower35. These lower costs in turn increase the likely take-up of CCS technologies 
+by future users of the infrastructure.  
+BECCS could have other positive spill-overs to other technologies that require 
+CCS infrastructure, for example:  
+ learnings around the use of the infrastructure; 
+ demonstrating the reliability of the infrastructure; and 
+ an institutional benefit of having an anchor client that can help coordinate with 
+government and other players to ensure that the infrastructure is up and 
+running. 
+A.1.2 Investment in BECCS will deliver innovation, learnings 
+and shared skills 
+As discussed above, decarbonisation scenarios set out by the CCC and others 
+involve significant quantities of BECCS by 2050. However, according to the CCC, 
+only one large-scale BECCS power plant capturing over 1 MtCO2/y is in operation 
+in the world.36 
+Early investment in BECCS in power will help identify and overcome any technical 
+hurdles, and will deliver the innovation to bring costs of future BECCS plants down. 
+Some examples of the technical challenges that an early BECCS in power plant 
+would help address include developing further understanding of: 
+ the use of amine solvent, which is proven with fossil use, but where further 
+experience is needed on biomass combustion flue gases at scale; and 
+ optimisation of plant performance, integration with existing plant, energy 
+efficiency and innovation, all of which have the potential to reduce costs for 
+future BECCS in power projects. 
+BECCS will also deliver learnings and skills around CCS that can be relevant to 
+many other technologies that make use of CCS, including DACCS and most types 
+of hydrogen production. The Government already has a knowledge sharing 
+initiative around CCS, through which learnings from the White Rose and Peterhead 
+CCS projects have been shared.37 These learnings include information around 
+T&S costs and risks, insight that can help reduce the uncertainty around CCS, and 
+encourage investment. 
+Investment in BECCS will provide further learnings around CCS technology in a 
+new context. For example: 
+ learnings on interfacing with a T&S system (both technically and commercially); 
+ learnings for industrial CCS where flue gases have more in common with 
+biomass than gas (e.g. particulates and metal elements); and 
+ 
+ 
+35  If transport and storage is developed under a Regulated Asset Base model which determines a level of 
+revenue to be recovered in any given year, a higher volume of emissions transported and stored in that year 
+(as a result of BECCS volumes) should imply a lower unit tariff for all infrastructure users.  
+36  CCC (2019), Net Zero The UK’s contribution to stopping global warming, https://www.theccc.org.uk/wp-
+content/uploads/2019/05/Net-Zero-The-UKs-contribution-to-stopping-global-warming.pdfCCC (2019) Net 
+Zero, p.93 
+37  BEIS (2016), Carbon Capture and Storage knowledge sharing, 
+https://www.gov.uk/government/collections/carbon-capture-and-storage-knowledge-sharing 
+ 
+frontier economics  
+41 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ building on UK CCS expertise. 
+A.1.3 If a business model is used to deliver BECCS in the 
+near term, this will provide policy learnings 
+Finally, assuming a business model is used to enable investment in BECCS in 
+power, policy experience gained through the design and implementation of this 
+model will be useful for future business models for other technologies. In particular, 
+understanding how to remunerate negative emissions will be essential for 
+achieving sufficient investment in GGRs of all kinds over the coming years. 
+A.1.4 Developing BECCS in power in the near term will help 
+the UK meet upcoming carbon budgets and ultimately 
+Net Zero  
+Although the UK met its first two carbon budgets (2008-2012 and 2013-2017) and 
+is on its way to meeting the third (2018-2022), it is expected to miss its fourth by 
+109 MtCO2e and its fifth by 165 MtCO2e (2023-2027 and 2028-2032). This is 
+illustrated in the figure below, which is based on the latest BEIS emissions 
+projections.38  
+Figure 13 
+Actual and projected performance against carbon budgets 
+ 
+Source:    Data from BEIS, Updated Energy and Emissions Projections: 2018, 
+https://www.gov.uk/government/collections/energy-and-emissions-projections#history 
+Since the carbon budgets are legally binding, missing them entails risks for the 
+Government – for example, potentially exposing it to legal action. Given this, there 
+is potential value in introducing a technology which can start to deliver negative 
+emissions by the fifth carbon budget, and make a significant contribution to future 
+carbon budgets on the path to Net Zero by 2050.  
+ 
+ 
+ 38BEIS (2019) Updated Energy and Emissions Projections, 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/794590/u
+pdated-energy-and-emissions-projections-2018.pdf 
+1,600
+1,800
+2,000
+2,200
+2,400
+2,600
+2,800
+3,000
+3,200
+1,600
+1,800
+2,000
+2,200
+2,400
+2,600
+2,800
+3,000
+3,200
+Carbon
+Budget 1
+Carbon
+Budget 2
+Carbon
+Budget 3
+Carbon
+Budget 4
+Carbon
+Budget 5
+2008-12
+2013-17
+2018-22
+2023-27
+2028-32
+Emissions (MtCO2e)
+Upper 95%
+confidence interval
+Lower 95%
+confidence interval
+Outturn/projection
+Carbon budget
+ 
+frontier economics  
+42 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Ensuring that GGR technologies are in place early also reduces the risk of delays 
+in deployment impacting the ability of the UK to offset residual emissions by 2050. 
+It ensures that there is sufficient time to capture the benefits of learnings and 
+positive spillovers from first-of-a-kind plants. It may also ensure that sufficient GGR 
+options are available to enable competition between GGRs at a stage when 
+technologies are sufficiently mature. 
+The rate at which the UK abates will have a direct impact on the UK’s contribution 
+to the global rise in temperatures. As shown below, meeting Net Zero by 2050 has 
+a significant impact on global temperatures compared to the initial target of an 80% 
+reduction by 2050.  
+Figure 14 
+UK impact on global temperature in 2070, under future 
+emissions pathways 
+ 
+Source: CCC Net Zero supporting data, https://www.theccc.org.uk/publication/net-zero-the-uks-contribution-to-
+stopping-global-warming/#supporting-research,-charts-and-data, chapter 2 
+The importance of early investment in BECCS in power is reflected in National 
+Grid’s FES scenarios.39 Across the three scenarios that meet Net Zero, BECCS in 
+power is deployed from the period between 2025 and 2030. 
+ 
+ 
+39  National Grid (2020) Future Energy Scenarios, 
+https://www.nationalgrideso.com/document/173821/download 
+0.000
+0.001
+0.002
+0.003
+0.004
+0.005
+0.006
+Net-zero 2045
+Net-zero 2050
+Net-zero 2060
+(90% reduction
+in 2050)
+Net-zero 2070
+(80% reduction
+in 2050)
+80% reduction
+in 2050
+(maintained)
+UK contribution to warming (°C, relative to 
+2020)
+ 
+frontier economics  
+43 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Figure 15 
+BECCS electricity generation capacity in FES 
+ 
+Source: National Grid (2020) FES 
+ 
+ 
+frontier economics  
+44 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+ANNEX B FUNDING PRINCIPLES AND 
+CANDIDATE GROUPS 
+B.1 Principles to guide funding decisions 
+We have identified three key principles that can be used to guide a decision on 
+which group or groups fund a chosen business model: efficiency, fairness and 
+practicality. There are trade-offs between these principles, and these should be 
+considered carefully when making a decision. We provide more detail around each 
+of these principles below. 
+Efficiency  
+There are two aspects to efficiency, the first relates to creating efficient incentives, 
+and the second relates to avoiding distortions: 
+ efficient incentives: in applying a levy to certain groups or sectors, there is an 
+opportunity to do this in a way that tries to replicate the incentives and outcomes 
+that an efficient carbon price would achieve. For various reasons, there are 
+many sectors that are currently not covered by the EU Emissions Trading 
+Scheme (or are covered, but receive free certificates), and do not face other 
+domestic taxes based on emissions. These sectors therefore face an implicit 
+carbon price which is lower than that of other sectors which are part of the ETS, 
+and which do face additional taxes.  We refer to these sectors as “undertaxed” 
+sectors, and examples may include aviation and agriculture. If it is possible to 
+raise funding for a chosen business model from these groups, then this may 
+help deliver good outcomes in terms of delivering something closer to an 
+economy-wide carbon price.  
+However, identifying these sectors reliably may be complex, and would require 
+a careful analysis of current effective tax rates to determine whether and by 
+how much a sector is undertaxed. 
+ avoiding distortions: beyond ensuring a consistent carbon price across the 
+economy, efficiently raising funding involves taxing groups that have more 
+inelastic demand. This is because the required funds can be raised while 
+causing fewest distortions to behaviour. This may mean, for example, avoiding 
+recovering funds from sectors which are exposed to international competition 
+or where there is a risk of offshoring.  
+Fairness 
+This principle refers to protecting vulnerable groups. This is in itself complex, as 
+the relationship between income and consumption of particular products is typically 
+complex.   
+However, the fairness principle may indicate that it is better to avoiding trying to 
+recover funds from sectors which are high up typical value chains.  This is because, 
+if this cost recovery pushes up the price of significant numbers of intermediate and 
+final products, it may then be harder to prevent it impacting vulnerable customer 
+groups.  
+ 
+frontier economics  
+45 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Practicality 
+This principle aims to ensure that a chosen funding approach is manageable to 
+implement and monitor, and transparent in how it functions. This may rule out 
+taxing sectors where there are a large number of players or a large number of 
+inputs to a product, as this increases the administrative burden.  
+B.1.1 Trade-offs between principles 
+There are tensions and trade-offs between all of these principles. For example: 
+ the second efficiency principle encourages taxing groups with inelastic 
+demand. However, this is in tension with the fairness principle, because 
+vulnerable groups may have more inelastic demand; and 
+ the fairness principle encourages taxing lower down in the value chain, 
+whereas the practicality principles encourage taxing higher up (as there are 
+likely to be fewer entities, making business models administratively simpler).  
+An appropriate balance therefore needs to be struck. It may be possible to address 
+multiple principles by imposing the levy in a way that focuses on achieving 
+efficiency, but then making lump-sum transfers (e.g. through increased benefits) to 
+sub-groups in order to address any fairness concerns. However this would then 
+create additional complexity. It is also important to keep in mind that political 
+considerations will inevitably drive a large part of this decision. 
+B.2 Options for groups that could fund a chosen 
+business model 
+We have identified five groups that could be candidates for funding a chosen 
+business model. These have been chosen because there is:  
+ a rationale (based on the principles above) for charging this group;  
+ a precedent for targeting this group; or  
+ previous research has argued that these groups should fund climate change 
+policies.  
+We set out these groups in the table below, and for each we discuss the pros and 
+cons of targeting that group. 
+ 
+frontier economics  
+46 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+Figure 16 
+Candidate groups for funding a chosen business model 
+Level in 
+value chain 
+Candidate 
+group 
+Pros 
+Cons 
+ 
+Upstream 
+Fossil fuel 
+suppliers 
+Practical: 
+straightforward to 
+administer due to limited 
+number of players 
+No way to focus the tax 
+on undertaxed or 
+inelastic sectors, or to 
+protect vulnerable 
+groups 
+ 
+Undertaxed 
+emitters 
+Incentivises behaviour 
+that replicates outcomes 
+of an efficient carbon 
+price 
+ Difficult to accurately 
+identify undertaxed 
+emitters  
+ Some sectors (e.g. 
+those exposed to 
+international 
+competition) may 
+have elastic demand 
+ 
+Undertaxed 
+emitters not 
+exposed to 
+international 
+competition 
+Incentivises behaviour 
+that replicates outcomes 
+of an efficient carbon 
+price 
+Difficult to accurately 
+identify undertaxed 
+emitters – and exposure 
+to international 
+competition is a 
+subjective measure 
+ 
+ 
+Electricity 
+suppliers/users 
+ 
+There is precedent 
+for taxing this group, 
+which has relatively 
+inelastic demand 
+ Taxing at this level 
+makes it slightly 
+easier to protect 
+vulnerable groups 
+Electricity users already 
+face significantly more 
+tax than many other 
+emitting sectors 
+Downstream 
+Taxpayers 
+Relatively easy to 
+administer 
+No way to focus the tax 
+on undertaxed or 
+inelastic sectors 
+Source:  Frontier 
+The table sets out a subset of credible funding options – there are clearly numerous 
+further options which could be considered.  In this report we do not provide a view 
+on which of these groups (or other groups) should fund a chosen business model. 
+This is a decision that will ultimately need to be taken by policymakers, by weighing 
+up the pros and cons and political feasibility of different options. 
+ 
+ 
+frontier economics  
+47 
+ 
+ 
+SUPPORTING THE DEPLOYMENT OF BIOENERGY CARBON CAPTURE AND 
+STORAGE (BECCS) IN THE UK: BUSINESS MODEL OPTIONS 
+  
+ 
+www.frontier-economics.com 

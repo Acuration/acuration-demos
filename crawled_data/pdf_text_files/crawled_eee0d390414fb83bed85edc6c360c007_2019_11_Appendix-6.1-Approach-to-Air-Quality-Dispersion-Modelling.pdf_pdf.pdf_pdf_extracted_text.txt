@@ -1,0 +1,91 @@
+Appendix 6.1
+Approach to Air Quality Dispersion Modelling
+Appendix 6.1 Approach to Air Quality Dispersion 
+Modelling  
+The following methodology was agreed as part of the consultation process as agreed 
+with City and County of Swansea (CCS). 
+Table 6-1: Agreed Approach to the Air Quality Assessment  
+Point of Consultation 
+Agreed Approach 
+Stack Modelling 
+Model to be used: 
+ADMS 5 
+Pollutants 
+to 
+be 
+considered: 
+Nitrogen oxides, carbon monoxide 
+Meteorological Data 
+5 years data (2012-2016) for Cwm Level Park Data 
+(provided by CCS) with missing data/cloud cover 
+supplemented with Mumbles Head Data for the same time 
+period. 
+Terrain Data  
+Included in the model based maximum resolution (64x64) 
+allowed within ADMS5 and covering an area applicable to 
+each modelling grid 
+Modelling Grid 
+200 m (20 km x 20 km centred on the stack) – used for 
+contour plots and ecological impact assessment. 
+30 m (3 km x 3 km centred on the stack) – used for Stack 
+Height Determination 
+Indicative Receptors  
+Ecological Designations (modelled at a height of 1.5 m):  
+- Ramsar, SAC and SPA sites within 10 km 
+- SSSI, SINC, Ancient Woodland, NNR and LNRs 
+designated within 2 km 
+ 
+Human Receptors (modelled at a height of 1.5 m)  - 
+specific receptor locations representing the closest 
+sensitive receptors to the Project Site, i.e.: 
+- Abergelli Farm; 
+- Morriston; 
+- Pant-lasau; 
+- Llwyncelyn; 
+- Llangyfelach; and 
+- Receptors representative of the eastern boundary of 
+areas 11 and 5 on the LDP Concept Plan 
+Background Air Quality 
+Human Health - Based on Mapped Defra grid square for 
+each modelled receptor. 
+Contour Plots - No background will be applied for contour 
+plots which will just show contributions from the Project 
+Point of Consultation 
+Agreed Approach 
+Ecology - Background for ecological receptors will be 
+based on APIS background estimates  
+NOx to NO2 conversion 
+Use Environment Agency values of 70% conversion of 
+NOx to NO2 for annual concentrations and 35% for hourly 
+concentrations. 
+Assessment 
+of 
+Significance 
+Environment Agency Screening levels i.e. if less than 1% 
+of AQS objective for Long-term and 10% for short-term 
+then can be screened out as not significant. 
+Roads Modelling 
+Is assessment required? Screen need to assess road contributions based on the 
+based on the IAQM Land-Use Planning & Development 
+Control Planning For Air Quality Jan 2017 (v1.2) Table 6.2
+If 
+traffic 
+contributions 
+cannot be screened out 
+based 
+on 
+the 
+IAQM 
+guidance’s then: 
+Model Using ADMS Roads at specific receptors close to 
+the roads that exceed the IAQM screening level at a 
+height of 1.5 m.  
+Use Defra mapped background data 
+Stack contribution will be added to this to assess in 
+combination effects. 
+NOx to NO2 conversion based on Defra conversion tool. 
+Assess significance based on the IAQM guidance’s 
+criteria  
+ 
+ 
+ 

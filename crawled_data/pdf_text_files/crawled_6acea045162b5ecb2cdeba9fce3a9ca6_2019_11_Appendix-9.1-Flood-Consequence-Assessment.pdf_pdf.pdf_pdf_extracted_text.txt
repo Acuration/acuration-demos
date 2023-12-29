@@ -1,0 +1,4943 @@
+Appendix 9.1
+Flood Consequence Assessment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Station 
+Flood Consequence Assessment 
+ 
+ 
+Abergelli Power Limited 
+ 
+  
+Project Number: 60542910 
+ 
+ 
+19 December 2017 
+ 
+   
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+ 
+ 
+Quality information 
+Prepared by 
+ 
+Checked by 
+ 
+Approved by 
+Ralph Collard 
+Graduate Engineer 
+ 
+ 
+Rob Sweet 
+Principal Scientist 
+ 
+Mark Davin 
+Principal Engioneer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revision History 
+Revision 
+Revision date 
+Details 
+Authorized 
+Name 
+Position 
+1 
+07/12/17 
+1st Draft 
+ 
+ 
+ 
+2 
+15/12/17 
+Client Comments 
+ 
+ 
+ 
+3 
+19/12/17 
+Incorporating client 
+comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distribution List 
+# Hard Copies  
+PDF Required 
+Association / Company Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+ 
+ 
+ 
+Prepared for: 
+Stag Energy   
+ 
+ 
+Prepared by: 
+Ralph Collard 
+Graduate Engineer  
+T: +44 (0) 117 917 1212  
+E: Ralph.Collard@aecom.com 
+ 
+ AECOM Limited 
+3rd Floor 
+Portwall Place 
+Portwall Lane 
+Bristol 
+BS1 6NA 
+UK 
+ 
+T: +44 117 901 7000 
+aecom.com 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+© 2017 AECOM Infrastructure & Environment UK Limited. All Rights Reserved.   
+This document has been prepared by AECOM Limited (“AECOM”) for sole use of our client (the “Client”) in 
+accordance with generally accepted consultancy principles, the budget for fees and the terms of reference 
+agreed between AECOM and the Client. Any information provided by third parties and referred to herein has not 
+been checked or verified by AECOM, unless otherwise expressly stated in the document. No third party may rely 
+upon this document without the prior and express written agreement of AECOM. 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+ 
+ 
+Table of Contents 
+1. 
+Executive Summary ..................................................................................................................................... 6 
+2. 
+Introduction .................................................................................................................................................. 8 
+2.1 
+Background ...................................................................................................................................... 8 
+2.2 
+The Project ....................................................................................................................................... 8 
+2.3 
+The Purpose and Structure of this Document ................................................................................... 8 
+2.4 
+Data sources/References ................................................................................................................. 8 
+2.5 
+Site Visit and Consultation .............................................................................................................. 10 
+3. 
+Project Site and Surrounding Area ............................................................................................................. 11 
+3.1 
+Existing Site .................................................................................................................................... 11 
+3.2 
+Topography ..................................................................................................................................... 11 
+3.3 
+Local Water Features ..................................................................................................................... 11 
+3.4 
+Geology and Soil ............................................................................................................................ 12 
+3.5 
+Surrounding Area ............................................................................................................................ 13 
+4. 
+The Project ................................................................................................................................................ 14 
+4.1 
+The Project ..................................................................................................................................... 14 
+5. 
+Policy Context ............................................................................................................................................ 15 
+5.1 
+National Policy ................................................................................................................................ 15 
+5.2 
+Regional Policy ............................................................................................................................... 17 
+5.3 
+Local Policy .................................................................................................................................... 17 
+5.4 
+Evidence Base ................................................................................................................................ 17 
+6. 
+Sources of Flooding and Flood Risk .......................................................................................................... 19 
+6.1 
+Overview ......................................................................................................................................... 19 
+6.2 
+Tidal ................................................................................................................................................ 19 
+6.3 
+Fluvial ............................................................................................................................................. 19 
+6.4 
+Overland Flow ................................................................................................................................ 20 
+6.5 
+Sewer Flooding ............................................................................................................................... 21 
+6.6 
+Groundwater ................................................................................................................................... 21 
+6.7 
+Artificial Sources ............................................................................................................................. 21 
+6.8 
+Summary ........................................................................................................................................ 22 
+7. 
+Climate Change ......................................................................................................................................... 23 
+7.1 
+General ........................................................................................................................................... 23 
+7.2 
+Peak River Flows ............................................................................................................................ 23 
+7.3 
+Peak Rainfall Intensity .................................................................................................................... 23 
+7.4 
+Impact of Climate Change on Flooding Sources ............................................................................ 24 
+8. 
+Flood Risk Management Measures ........................................................................................................... 25 
+8.1 
+General ........................................................................................................................................... 25 
+8.2 
+Flood Risk Management Measures ................................................................................................ 25 
+8.3 
+Surface Water Management ........................................................................................................... 28 
+8.4 
+Flood Attenuation Storage .............................................................................................................. 28 
+9. 
+Off Site Impacts and Residual Risk ............................................................................................................ 30 
+9.1 
+Impact to third party property/land .................................................................................................. 30 
+10. 
+Conclusions and Recommendations.......................................................................................................... 31 
+11. 
+References ................................................................................................................................................ 32 
+Appendix A – Project Site ...................................................................................................................................... 33 
+Appendix B – Site and Surrounding Area .............................................................................................................. 36 
+Appendix C – Project ............................................................................................................................................ 43 
+Appendix D – NRW Data....................................................................................................................................... 50 
+Appendix E – Outline Drainage Strategy ............................................................................................................... 54 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+ 
+ 
+Tables 
+Table 2-1: Received Data ........................................................................................................................................ 9 
+Table 5-1 Flood Zone Designations (source: TAN 15) ........................................................................................... 16 
+Table 5-2: Development Categories (source: TAN 15) ............................................. Error! Bookmark not defined. 
+Table 7-1: Climate change allowances for the West Wales River Basin District .................................................... 23 
+Table 7-2: Peak rainfall intensity allowance ........................................................................................................... 24 
+Table 8-1: Greenfield Runoff Rates and Attenuation Storage Requirements ........................................................ 29 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+6 
+ 
+1. 
+Executive Summary 
+1.1.1 
+This report presents the findings of a Flood Consequence Assessment (FCA) undertaken by AECOM 
+Limited on behalf of Abergelli Power Limited. This FCA has been prepared to inform and support the 
+Development Consent Order (DCO) application for a new Open Cycle Gas Turbine (OCGT) peaking 
+power generating station, Electrical Connection and Gas Connection north of Swansea, Wales. 
+1.1.2 
+The Project will be located within the largely undeveloped rural site approximately 3km to the north of 
+the city of Swansea, approximately 1 km southeast of Felindre and to the east of the existing Felindre 
+Compressor Gas Station. The Project Site extends to approximately 30.8 hectares (ha). 
+1.1.3 
+The Project Site is located within the Afon Llan catchment and is bounded and crossed by a series of 
+small watercourses/drainage ditches which are fed by issues and springs throughout the catchment. 
+All watercourses discharge into the Afon Llan at the southern reaches perimeter of the Project Site. 
+The Afon Llan links with the Afon Lliw and the River Loughor, which discharges into Carmarthen Bay.  
+1.1.4 
+This FCA has been prepared following consultation with Natural Resources Wales (NRW) and City and 
+Council of Swansea (CCS) and conforms to the requirements of ‘Technical Advice Note 15 (TAN15): 
+Development and Flood Risk’ (July 2004) and the Welsh Government’s accompanying Development 
+Advice Maps (DAMs). NRW fluvial and surface water flood maps have been used to inform the 
+assessment of flood risk.  
+1.1.5 
+The Project is considered ‘Highly Vulnerable’ under the development criteria in TAN15. A review of the 
+DAMs shows that a small area of the Generating Equipment Site is located within DAM Zone B. A 
+small area at the southern boundary of the Project Site is within DAM Zone C2 however no building, 
+development or construction activities are proposed within this area. The majority of the Project Site is 
+located within DAM Zone A and is considered acceptable for development.  
+1.1.6 
+TAN15 requires that all potential flood sources that could affect the developable areas of the Project 
+Site be considered. An initial assessment of flood risk to and from the Project Site from all sources 
+shows: 
+ 
+There is no risk of tidal flooding;  
+ 
+The risk of fluvial flooding is considered to be negligible from Afon Llan and low from ordinary 
+watercourses/land drainage to small areas of the Generating Equipment Site and Access Road;  
+ 
+The risk of surface water flooding is considered to be medium to high for small areas of the 
+Generating Equipment Site, Access Road and Gas Connection however the majority of the site is 
+considered to be at low risk;  
+ 
+The risk of sewer flooding is considered to be negligible;  
+ 
+The risk of groundwater flooding is considered to be low; and 
+ 
+There is no risk of flooding from artificial sources. 
+1.1.7 
+TAN15 requires taking into account the potential impact of climate change over the lifetime of the 
+development to ensure a safe and secure living and/or working environment. Following consultation 
+with CCS it was agreed that a 1% Annual Exceedance Probability (AEP) +20% Climate Change 
+allowance was used to assess the flood attenuation requirements. 
+1.1.8 
+It was identified the main flood risk to the Project Site is from surface water runoff and fluvial flooding 
+from ordinary watercourse in small areas of the Generating Equipment Site. Therefore an Outline 
+Drainage Strategy (Appendix E) has been prepared to manage surface water at the Project Site and 
+flood mitigation measures have been proposed to reduce flood risk to and from the Project Site.  
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+7 
+ 
+1.1.9 
+During construction works a Construction Environment Management Plan (CEMP) will incorporate 
+measures to prevent an increase in flooding. It is expected that this will include new temporary and/or 
+permanent drainage ditches, silt traps, settlement lagoons and monitoring of flow routes along the 
+eastern perimeter of the Project Site. 
+1.1.10 
+During operation flood mitigation measures have been proposed that include raised ground and 
+finished floor levels, permanent cut off ditches, maintenance of overland flow routes across the whole 
+Project Site and particularly at the eastern extent of the Generating Equipment Site, an easement to 
+the existing Welsh Water Water Main that traverses the Generating Equipment Site, suitably sized 
+culverts beneath the Access Road and safe access and egress routes for all site workers. 
+1.1.11 
+The Outline Drainage Strategy (Appendix E) outlines the implementation of SuDS methods including 
+swales and attenuation storage to manage surface water on and off the Project Site. Prior to a Ground 
+Investigation it is assumed that the possibility of infiltration will be limited. Therefore to mitigate the 
+increase in impermeable area due to the Project, flood attenuation storage areas for the Generating 
+Equipment Site, Access Road Maintenance Compound and Above Ground Installation (AGI) are 
+proposed to attenuate and release surface water to local watercourses at the existing greenfield runoff 
+rates up to and including the 1% AEP + 20% Climate Change event.   
+1.1.12 
+The Project may have some impact on flood flows and flood storage associated with the local 
+watercourse at the south eastern extent of the Generating Equipment Site where raising of ground 
+levels are proposed. The impact on flood storage and conveyance will be mitigated by the 
+formalisation of an overland flow route along the eastern extent of the Generating Equipment Site. 
+With the formalisation of the overland flow path it is anticipated that, combined with the steep 
+catchment, any loss of storage and impact on conveyance will be minimal. Minor changes to the flood 
+routes within the rural area are not considered to increase flood risk to third parties.  
+1.1.13 
+Through implementation of mitigation measures outlined in this document and in the outline drainage 
+design it is considered by AECOM that this development is acceptable under TAN15 guidance. 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+8 
+ 
+2. 
+Introduction 
+2.1 
+Background 
+2.1.1 
+This report presents the findings of a Flood Consequence Assessment (FCA) undertaken by AECOM 
+Limited on behalf of Abergelli Power Limited. This FCA has been prepared to inform and support the 
+Development Consent Order (DCO) application for a new Open Cycle Gas Turbine (OCGT) peaking 
+power generating station, Electrical Connection and Gas Connection north of Swansea, Wales.    
+2.2 
+The Project 
+2.2.1 
+The Project comprises an OCGT peaking power generating station, fuelled by natural gas and capable 
+of providing a rated electrical output of up to 299 Megawatts (MW), a new Access Road to the 
+Generating Equipment Site, a new Gas Connection to bring natural gas to the Generating Equipment 
+site from the National Transmission System and a new Electrical Connection to export power from the 
+Generating Equipment to the National Grid Electricity Transmission System (NETS).   
+2.2.2 
+The Project will be located within the largely undeveloped rural site approximately 3 km to the north of 
+Swansea (Appendix A, Figure A1) and will extend across an area of approximately 30.8 hectares (ha).  
+2.3 
+The Purpose and Structure of this Document 
+2.3.1 
+According to TAN 151, highly vulnerable development (i.e. a power station) is not permitted within 
+Development Advice Map (DAM) Zone C2 (Section 5). They are, however, acceptable in DAM Zone A 
+and DAM Zone B where fluvial / tidal flooding is considered to be less of an issue. In the Section 42 
+consultation response, NRW requested that an FCA was undertaken. This was to assess the potential 
+flood consequences associated with the Afon Llan and ordinary watercourses to and from the Project. 
+A FCA has therefore been undertaken to determine the risks of flooding that could result from the 
+Project and subsequent appropriate flood risk mitigation measures required.  
+2.3.2 
+The aim of the FCA is to assess flood consequences to and from the Project. Where appropriate, 
+mitigation measures have been identified to manage flood consequences in line with planning 
+guidance in order to support the DCO application for elements of the Project. In order to meet this aim 
+the following scope of the FCA was undertaken:  
+ 
+Collection and review of existing flood risk data including topographic data, surface water 
+drainage, Natural Resources Wales information (Appendix C), development plans and CCS 
+Flood Risk Management Plan;  
+ 
+Assessment and interpretation of available information to identify potential sources of flood risk 
+including groundwater, surface water and infrastructure failure; and,  
+ 
+Review of the Project design in light of the identified flood risks and identification of measures, 
+where necessary, that would manage any residual flood risk to the Project Site to acceptable 
+levels. 
+2.4 
+Data sources/References 
+2.4.1 
+The baseline conditions for the Project Site have been established through a desk study and via 
+consultation with NRW and CCS. This consultation is outlined in more detail within Chapter 9: Water 
+Resources of the PEIR. This information has been utilised to inform the assessment made within the 
+FCA. The data collected during the course of this assessment is described in Table 2.1  
+ 
+ 
+ 
+                                                                                                                     
+1 Welsh Government. Technical Advice Note 15: Development and Flood Risk.  2004. 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+9 
+ 
+Table 2-1: Received Data 
+Purpose 
+Data Description 
+Comments 
+Identification of hydrological features 
+1: 
+25,000 
+Ordnance 
+Survey 
+(OS) 
+mapping 
+Identified the position of the Project Site 
+with respect to local hydrological features 
+Identification of existing flood risk 
+2m LiDAR topographic survey of the 
+Project Site 
+Provides existing site and surrounding 
+levels as a Digital Terrain Map (DTM) 
+NRW DAM 
+Identifies areas suitable for development 
+with respect to existing flood risk 
+NRW Indicative Flood Zone Map  
+Identifies fluvial/tidal inundation extents 
+and historical flooding 
+NRW Updated Flood Map for Surface 
+Water (UFMfSW) 
+Identifies existing surface water flood risk 
+and overland flow routes 
+CCS 
+Strategic 
+Flood 
+Consequence 
+Assessment (SFCA)  
+CCS Preliminary Flood Risk Assessment 
+(PFRA) 
+Swansea Flood Risk Management Plan 
+CCS Local Flood Risk Management 
+Strategy 
+Assess the flood risk across the Project 
+Site. Includes flood risk from fluvial/tidal 
+sources, sewers overland flow and 
+groundwater 
+Consultation with CCS 
+Historical flood records, flood risk from 
+ordinary watercourses and overland flow 
+and requirements for work near and on 
+ordinary watercourses  
+Consultation with NRW  
+Historical flood records, modelled flood 
+water levels and associated data for the 
+Afon Llan 
+British 
+Geological 
+Survey 
+records 
+(internet) 
+Provides 
+details 
+of 
+geology 
+and 
+hydrogeology in the vicinity of the Project 
+Site.  
+Utility Plan including Dŵr Cymru Welsh 
+Water Water Main  
+Identifies flood risk from artificial sources 
+Identification of historical flooding 
+CCS SFCA  
+CCS PRFA 
+Gives details of historical flooding 
+Details of the Project  
+Draft Engineering Concept Design and 
+layout drawings 
+Provides layout of the Project 
+Surface water drainage 
+OS Mapping 
+SFCA 
+Identifies existing site drainage, public 
+drainage systems near the Project Site 
+and details of existing surface water 
+runoff from the Project Site 
+ 
+Outline Drainage Strategy for the Project 
+Site (2017)  
+Conceptual drainage strategy outlining 
+surface water will be managed at the 
+Project Site 
+  
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+10 
+ 
+2.5 
+Site Visit and Consultation 
+2.5.1 
+A site visit was undertaken on 8th November 2017 to assess the local topography and local drainage 
+network. Observations made during this site visit have been used to inform this FCA.    
+2.5.2 
+Consultation with respect to the requirements of this FCA has been undertaken with the following key 
+stakeholders between September and November 2017: 
+ 
+NRW; and 
+ 
+CCS 
+2.5.3 
+Consultation with Dŵr Cymru Welsh Water was undertaken in 2014 during the scoping process. 
+Further consultation is expected during the DCO consultation process during 2018. Information 
+provided by Dŵr Cymru Welsh Water regarding the capacity of the Water Main through the Project Site 
+is considered to be current and up to date as no major upgrade has taken place within the intervening 
+period. In addition, further investigations are ongoing to determine the location and depth of the Water 
+Main and these will be provided in the DCO Application. However these investigations are not 
+expected to influence the conclusion of the FCA.  
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+11 
+ 
+3. 
+Project Site and Surrounding Area 
+3.1 
+Existing Site 
+3.1.1 
+The Project Site (red outline in Figure A1, Appendix A) is located on predominately open agricultural 
+land approximately 2 km north of Junction 46 on the M4, approximately 3 km to the north of Swansea, 
+approximately 1km southeast of Felindre and 1.4 km north of Llangyfelach 
+3.1.2 
+The Project Site area is approximately 30.8 ha (Figure A2, Appendix A).   
+3.2 
+Topography 
+3.2.1 
+Ground levels at the Project Site vary from approximately 146 m AOD at the highest point in the north-
+west corner at Rhyd-y-pandy Road to approximately 80 m AOD along the southern perimeter, with 
+ground levels generally falling in a southerly and south easterly direction. The land within the 
+Generating Equipment Site is at approximately 90 m AOD (Figure B1, Appendix B). 
+3.2.2 
+The Felindre Gas Compressor Station located to the north of the new section of the Access Road is 
+built upon raised ground at a level of approximately 87 m AOD. This is between 5-8 m above the 
+ordinary watercourse to the south. 
+3.3 
+Local Water Features 
+3.3.1 
+Figure B2 (Appendix B) shows the main local water features in the vicinity of the Project Site. A more 
+detailed description of the local drainage network within each area of the Project Site can be found in 
+Figure B3 Appendix B. 
+3.3.2 
+The Project Site is bound and crossed by a series of small watercourses/drainage ditches which are 
+fed by issues and springs throughout the catchment. All watercourses discharge into the Afon Llan at 
+the southern perimeter of the Project Site. The Afon Llan links with the Afon Lliw and the River 
+Loughor, which discharges into Carmarthen Bay.  
+Main River 
+3.3.3 
+The Afon Llan flows in a south westerly direction along the southern perimeter of the Project Site. This 
+watercourse is designated Main River and falls under the jurisdiction of NRW. Observations from the 
+site visit show that the watercourse is approximately 4-5 m wide at the top of bank and 0.8-1.0 m deep 
+from channel bottom to top of bank along the southern boundary of the Project Site. The water depth 
+of the Afon Llan on the day of the site was estimated to be approximately 0.3 m deep.  
+3.3.4 
+The Afon Llan floodplain consists of arable and pasture fields. The Generating Equipment Site is 
+located approximately 300 m to the north of the watercourse and approximately 6 m above the bank 
+level of Afon Llan.  
+Ordinary Watercourses 
+3.3.5 
+A series of ordinary watercourses drain into the Afon Llan at the southern perimeter of the Project Site. 
+An ordinary watercourse is a watercourse that is not designated as ‘Main River’ and can include rivers, 
+streams, ditches, drains cuts, culverts, dikes sluices, sewers through which water passes.  The largest 
+of the ordinary watercourses flows in a southerly direction (Figure B3, Appendix B) along the east 
+perimeter of the Project Site (Stream A). Observations made during the November 2017 site visit 
+estimate that Stream A has a channel width of approximately 1.5-2.0 m at the top of bank and is 
+approximately 1.0 m high from the channel bed to top of bank. A water depth of approximately 0.3 m 
+was observed on the site visit. 
+3.3.6 
+Stream A has a relatively steep gradient from the north east of the Generating Equipment Site down to 
+the Afon Llan floodplain as it falls from approximately 89 m AOD to 76 m AOD across 620 m (gradient 
+of approximately 1 in 50) which is considered to be relatively steep for a watercourse.  
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+12 
+ 
+3.3.7 
+A second ordinary watercourse (Stream B)  flows south-westerly along the eastern boundary of the 
+Felindre Gas Compressor Station  and crosses the proposed Access Road before entering the Afon 
+Llan approximately 0.9 km to the south west (Figure B3, Appendix B). This watercourse has been 
+diverted along existing field boundaries and site observations estimate the channel to be 1.5 m wide at 
+the top of bank and 0.4-0.5 m high from the channel bed to the top of bank. A water depth of 0.3 m in 
+Stream B was observed during the site visit. 
+Land Drains and Drainage Ditches  
+3.3.8 
+A number of land drains and small drainage ditches cross the Project Site and outfall to the local 
+watercourse network and eventually the Afon Llan. These primarily follow existing field boundaries and 
+trackways and are generally ephemeral in nature. 
+3.3.9 
+A drainage ditch passes through the centre of the proposed Generating Equipment Site (Stream C) 
+and outfalls into Stream A to the south east (Figure B2, Appendix B). This drains a small catchment 
+area (approximately 0.1 km2) to the north of the Generating Equipment Site and during the site visit a 
+water depth of 0.1 m was observed in the ditch.  
+3.3.10 
+A second drainage ditch flows across the proposed path of the Gas Connection to the north of the 
+Generating Equipment Site (Steam D) and outfalls in to Stream A to the south east (Figure B2, 
+Appendix B). The drainage ditch has been diverted and is approximately 1 m wide at the top of bank 
+and 0.3 m high from the channel bed to top of bank. A very low flow was observed during the site visit 
+with most of the flow coming from a small leaking waterpipe servicing the surrounding fields. The 
+watercourse flows away from Abegelli Farm and Abergelli Solar Farm at the location of the proposed 
+Gas Connection crossing.   
+Ponds and Other Sources.     
+3.3.11 
+Two heavily vegetated ponds are located within the Generating Equipment Site. As a result of 
+restricted access and high groundwater table, in the area the extent of these ponds could not be 
+verified.       
+3.3.12 
+The Afon Lliw and Lower Lliw Reservoir are located approximately 2.1 km to the north of the 
+Generating Equipment Site within a neighbouring topographic catchment.  As such neither reservoir is 
+considered to be a flood risk to the Project Site and they are therefore not considered further in this 
+report.   
+3.3.13 
+A series of surface water outfalls were noted from the Felindre Gas Compressor Station that flow into 
+the aforementioned ordinary watercourse (Stream B).   
+Existing Flood Defence Structures 
+3.3.14 
+There are no flood defence structures within the vicinity of the Project Site.  
+3.4 
+Geology and Soil  
+3.4.1 
+A review of the British Geological Survey (BGS) online mapping2 data indicates that the Project Site is 
+underlain by bedrock of the Grovesend Formation, comprising mudstone, siltstone and sandstone 
+(Figure B4, Appendix B). Superficial deposits across the Project Site are quite variable however the 
+Generating Equipment Site is predominately underlain by Peat with the surrounding site comprising of 
+mainly Till and Glaciofluvial sand and gravel deposits (Figure B5, Appendix B). No ground 
+investigations to date have been undertaken to verify the depth of these superficial deposits.   
+3.4.2 
+The superficial glaciofluvial deposits and the bedrock geology are both classified as Secondary A 
+Aquifers.  Secondary A Aquifers are defined as ‘permeable layers capable of supporting water supplies 
+at a local rather than strategic scale, and in some cases forming an important source of base flow to 
+rivers.’ 
+                                                                                                                     
+2 • BGS (British Geological Survey), Geology of Britain Viewer (1974). Available at: 
+http://mapapps.bgs.ac.uk/geologyofbritain/home.html. Accessed November 2017 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+13 
+ 
+3.4.3 
+The superficial glacial till deposits are classed as Unproductive Strata,  defined as ‘rock layers or drift 
+deposits with low permeability that have negligible significance for water supply or river base flow’. 
+3.4.4 
+The Landmark Envirocheck report (2017)3 has identified no groundwater abstraction licences 
+associated with the Project Site. There is only one licence located within 100 m of the Project Site 
+boundary, recorded 56 m to the north-east for a well at Abergelli Farm, licence number 22/59/4/0027 
+dated February 1993, for general farming and domestic use.  
+3.4.5 
+A review of the Cranfield University/National Soil Resources Institute Soilscapes website4 has found 
+that that there are two main soil types across the Project Site which indicates the following: 
+ 
+The Generating Equipment Site and the AGI compound are characterised by slowly permeable 
+soils with a peaty surface and are considered to have impeded drainage; and 
+ 
+The rest of the Project Site is characterised by freely draining loamy soils.   
+3.4.6 
+Observations made during the site visit in November 2017 support the slow permeability of the 
+Generating Equipment Site where ponding of surface water was observed throughout. This would 
+support the inference that there is limited potential for infiltration of surface water within the area.  
+3.5 
+Surrounding Area 
+General 
+3.5.1 
+The area surrounding the Project Site is, at present, predominantly rural in character, although there is 
+Felindre Park and Share facility to the south and a substantial amount of utility infrastructure in the 
+area, some of which crosses the Project Site (see Figure B6, Appendix B). Most notable is the Water 
+Water Main that traverses the site from the north west to south east (Section 3.5.3) and electricity 
+pylons associated with the Substation. 
+3.5.2 
+Other features of the area include public footpaths, bridleways and tracks located in and around the 
+Project Site, linking it to the wider area. 
+Felindre Water Treatment Works 
+3.5.3 
+The Felindre Water Treatment Works is situated approximately 1.4 km to the north west of the 
+Generating Equipment Site. A 1.68 m diameter Water Main flows in a south easterly direction through 
+the Generating Equipment Site, generally following the line of the existing farm trackway (Figure B6, 
+Appendix B). The pipeline is owned by Welsh Water who has advised that typically a 30 m easement 
+(15 m either side of the pipeline) is required to be kept clear of construction. A 60 m easement has 
+been shown on the layout due to uncertainty over the accuracy and digitisation of the archive drawings 
+(Appendix C, C1,C2 and C3). Further investigations into the location and depth of the Water Main are 
+ongoing.  
+Felindre Gas Compressor Station 
+3.5.4 
+The Access Road is bound to the north by the Felindre Gas Compressor Station and is approximately 
+400 m to the west of the Generating Equipment Site. The main site is at an elevation of approximately 
+87 m AOD and lies 5-8m above the fields to the south.    
+3.5.5 
+During the site visit it was observed that number of small cut-off ditches drain the perimeter of the 
+Felindre Gas Compressor Station  and outfall in to the drainage network to the south.  
+Solar Farm 
+3.5.6 
+Cefn Betingau Solar Park and Abergelli Solar Farm are located to the east of Project Site. A further two 
+Solar Farms are located in the vicinity at Rhyd-y-pandy and Abergelli Farm.  
+ 
+                                                                                                                     
+3 Landmark Information Group Envirocheck Report (reference 142844199_1_1 dated 13 October 2017). 
+4 http://www.landis.org.uk/soilscapes/ - Accessed November 2017 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+14 
+ 
+4. 
+The Project 
+4.1 
+The Project 
+4.1.1 
+The Project comprises a OCGT peaking power generating station, fuelled by natural gas and capable 
+of providing a rated electrical output of up to 299 Megawatts (MW), a new Access Road to the 
+Generating Equipment Site, a new Gas Connection to bring natural gas to the Generating Equipment 
+site from the National Transmission System and a new Electrical Connection to export power from the 
+Generating Equipment to the National Grid Electricity Transmission System (NETS).   
+4.1.2 
+Figure C1 in Appendix C shows an overview of the key areas within the Project Site. A detailed view of 
+each element can be found within Figure C2 in Appendix C.  
+4.1.3 
+The Project consists of the following elements:  
+ 
+Power Generation Plant: An Open Cycle Gas Turbine (OCGT) peaking power generating 
+station, fuelled by natural gas and capable of providing a rated electrical output of up to 299 
+Megawatts (MW). The Power Generation Plant comprises: 
+o 
+Generating equipment including one Gas Turbine Generator with one exhaust gas flue stack 
+and Balance of Plant (BOP) (together referred to as the ‘Generating Equipment’) which are 
+located within the ‘Generating Equipment Site’; 
+o 
+An Access Road to the Generating Equipment Site from the B4489 which lies to the west, 
+formed by upgrading an existing access road between the B4489 junction and the Swansea 
+North Substation (the Substation) and constructing a new section of access road from the 
+Substation to the Generating Equipment Site; and 
+o 
+A temporary construction compound for the storage of materials, plant and equipment as well 
+as containing site accommodation and welfare facilities, temporary car parking and temporary 
+fencing (the Laydown Area). There will be two Laydown areas and a small area within the 
+southern Laydown Area will be retained permanently for the Maintenance Compound. 
+o 
+Ecological Mitigation Area – area for potential reptile translocation and ecological 
+enhancement. Location and area to be confirmed post-consultation once discussions with 
+NRW and CCS have been undertaken. Area likely to be commensurate with the extent of 
+mitigation required and within the Order Limits of the Project.  
+o 
+Permanent parking and drainage to include: a site foul, oily water and surface water drainage 
+system.  
+ 
+The Gas Connection will be in the form of a new above ground installation (AGI) and 
+underground gas pipeline connection (the Pipeline). This is to bring natural gas to the Generating 
+Equipment from the National Transmission System. The Pipeline will follow an approximate 
+north-south route corridor, between the National Transmission System south of Rhyd-y-pandy 
+Road and the Generating Equipment Site.  
+ 
+Electrical Connection: This is an underground electrical cable to export power from the 
+Generating Equipment to the National Grid Electricity Transmission System (NETS). The 
+proposed route of the Electrical Connection will be alongside the Access Road.   
+4.1.4 
+The Project has a current design and operational life of 25 years. During this period, on-going 
+assessment of the condition of the electricity market and energy mix would be undertaken to assess 
+whether to ‘re-power’ or decommission. 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+15 
+ 
+5. 
+Policy Context 
+5.1 
+National Policy 
+Overarching National Policy Statement for Energy (NPS EN-1) 
+5.1.1 
+According to the policy5, an assessment of the existing baseline conditions regarding water quality, 
+water resources and physical characteristics of the water environment is required where a proposed 
+project is likely to have effects on the water environment. 
+5.1.2 
+The NPS EN – 1 also sets the requirement for additional pollution control measures that must be 
+considered for all activities that discharge to the water environment and recommends that the 
+Secretary of State (SoS) gives increased weight in its decision making to impacts on the water 
+environment that would have an adverse effect on the achievement of the objectives of the WFD. 
+National Policy Statement for Gas Supply Infrastructure and Gas and Oil Pipelines (NPS EN – 4) 
+5.1.3 
+The NPS EN-46 Part 2 Section 2.22.2 recognises that “constructing pipelines creates corridors of 
+surface clearance and excavation that can potentially affect watercourses, aquifers, water abstraction 
+and discharge points, areas prone to flooding and ecological receptors. Pipeline impacts could include 
+inadequate or excessive drainage, interference with groundwater flow pathways, mobilisation of 
+contaminants already in the ground, the introduction of new pollutants, flooding, disturbance to water 
+ecology, pollution due to silt from construction / demolition and disturbance to species and their 
+habitats”. 
+5.1.4 
+The NPS EN-4 states that where the project is likely to have effects on water resources or water 
+quality, an assessment of the impacts should be provided in line with Section 5.15 of EN-1. The SoS 
+should be satisfied that the impacts on water quality and resources are acceptable in accordance with 
+Section 5.15 of EN-1 . 
+National Policy Statement for Electricity Networks Infrastructure (NPS EN-5)  
+5.1.5 
+NPS EN-5 requires consideration of adaption to climate change particularly from the increased risk of 
+flooding to the resilience of some of the sites infrastructure and should be covered in the FCA.  
+Planning Policy Wales 2016 
+5.1.6 
+Planning Policy Wales 2016 is supplemented by TAN15  and incorporates sustainable development 
+into the planning system which can be adhered to.  It requires every local planning authority to have 
+produced a Local Development Plan (LDP) superseding the Unitary Development Plan (UDP). 
+TAN15 (2004) 
+5.1.7 
+TAN15 provides guidance which supplements the policy set out in Planning Policy Wales (PPW)7 in 
+relation to development and flooding. A precautionary framework is set out which advises caution in 
+respect of new development in areas at high risk of flooding and this is used as a guide for planning 
+decisions. The overall aim of the precautionary framework is to direct new development away from 
+those areas that have a high risk of flooding; and development will only be justified in these areas if it 
+meets the criteria and tests specified in this guidance.  
+5.1.8 
+TAN15 also requires provision for future changes in flood risk are considered. Therefore the predicted 
+future impacts of climate change should be accounted for within the FCA where they can be 
+anticipated.  
+ 
+                                                                                                                     
+5 Department of Energy & Climate Change. Overarching National Policy Statements for Eenergy infrastructure. London: The 
+Stationery Office,(EN-1) July 2011. 
+6 Department of Energy and Climate Change.  National Policy Statement for Gas Supply Infrastructure and Gas and Oil 
+Pipelines (EN-4). July 2011. 
+7 Welsh Government (2016) Planning Policy Wales, Edition 9 (November, 2016); 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+16 
+ 
+5.1.9 
+The operation of the precautionary framework is governed by DAMs made up of three zones (Table 5-
+1) which are used to trigger the appropriate planning test and definitions of vulnerable developments. 
+The DAMs are based on the best available information considered adequate to determine when flood 
+risk needs to be taken into consideration with future development.   
+Table 5-1 Flood Zone Designations (source: TAN 15) 
+Flood Zone 
+Definition 
+Use within the precautionary framework 
+A 
+Little or no risk of fluvial/ tidal flooding 
+Justification test is not applied and do not need to consider further 
+B 
+Areas known to have flooded historically 
+evidenced by sedimentary deposits. 
+Used as part of the precautionary approach to indicate where site 
+levels should be checked against the extreme (0.1% annual 
+probability) flood. No need to consider flood risks further if site 
+levels are greater than the extreme flood level 
+C 
+Based on NRW extreme flood outline 
+(0.1% annual probability) 
+Indicates that flooding issues should be considered as an integral 
+part of the decision making by the application of the justification 
+test, including FCA 
+C1 
+Areas of Zone C which are developed 
+and served by significant infrastructure, 
+including flood defences 
+Indicates that development can take place subject to the application 
+of the justification test, including acceptability of consequences 
+C2 
+Areas of Zone C without significant flood 
+defence infrastructure 
+Indicates that only ‘less vulnerable’ development should be 
+considered, subject to the application of the justification test, 
+including acceptability of consequences. Emergency services and 
+highly vulnerable development should not be considered. 
+ 
+ 
+ 
+5.1.10 
+The precautionary framework identifies the vulnerability of different land uses to flooding, and 
+classifies proposed uses accordingly as detailed in Table 5-2. This is because certain flooding 
+consequences may not be acceptable for particular development types 
+Table 5-2: Development Categories (source: TAN 15) 
+Development Category 
+Use within the precautionary framework 
+Emergency Services 
+Hospitals, ambulance stations, fire stations, police stations, coastguard stations, 
+command centres, emergency depots and buildings used to provide emergency 
+shelter in time of flood. 
+High vulnerable development 
+All residential premises (including hotels and caravan parks), public buildings (e.g. 
+schools, libraries, leisure centres), especially vulnerable industrial development (e.g. 
+power stations, chemical plants, incinerators), and waste disposal sites. 
+Less vulnerable development 
+General industrial, employment, commercial and retail development, transport and 
+utilities infrastructure, car parks, mineral extraction sites and associated processing 
+facilities, excluding waste disposal sites. 
+5.1.11 
+Table 5-2 highlights that a power station development is classified as ‘Highly Vulnerable’; Project Site 
+is located within DAM Zone C2, Zone B and Zone A (Appendix D, D1).  
+5.1.12 
+According to TAN15 new development should be directed away from Zone C and towards more 
+suitable land in Zone A, otherwise to Zone B, where river or tidal flooding will be less of an issue. In 
+Zone C there are a number of tests that need to be applied for certain types of development, however 
+highly vulnerable development (i.e. power generation) and Emergency Services should not be 
+permitted in Zone C2. All other development should only be permitted within Zones C1 and C2 if 
+determined by the planning authority to be justified in that location, satisfying the tests within the TAN 
+15 document. 
+5.1.13 
+As shown in Figure D1, Appendix D, there is a small area on the southern perimeter of the Project Site 
+that lies within DAM Zone C2, and therefore is not suitable for highly vulnerable development. No 
+development is proposed in this area.   
+ 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+17 
+ 
+5.1.14 
+A small portion of the south eastern corner of the Generating Equipment Site is located within DAM 
+Zone B and the majority of the site is within DAM Zone A, which under TAN15 is considered 
+appropriate for ‘highly vulnerable’ development as long as all sources of flood risk have been 
+considered. This FCA addresses these risks with mitigation proposed where necessary.  
+5.2 
+Regional Policy  
+Western Wales River Basin Management Plan (RBMP) 2015 
+5.2.1 
+The purpose of the RBMP is to protect and improve the water environment in the Western Wales River 
+Basin District (RBD).  The plan includes; classification of water bodies; summary of Programme of 
+Measures to achieve statutory objectives and statutory objectives for water bodies 
+5.3 
+Local Policy 
+Swansea City Council Unitary Development Plan (UDP) 2008 
+5.3.1 
+The CCS UDP was adopted on 10th November 2008 and it is stated on the CCS website that this is 
+the most up to date Development Plan covering the authorities' administrative area and is used in the 
+determination of planning applications. 
+5.3.2 
+Policy EV35: Surface water run-off, and Policy EV36: Development and Flood Risk, are the relevant 
+policies in CCS Unitary Development Plan. Policy EV35 affects developments that will lead to 
+additional surface water run-off or cause a reduction of the quality of surface water run-off, and 
+encourages SuDS implementation wherever practical to counteract this. Policy EV36 only allows new 
+development within flood risk areas if developers can justify the location by proving the flooding 
+consequences associated with the development are acceptable. Until the adoption of the Local 
+Development Plan this is considered the most up to date Development Plan covering the authorities' 
+administrative area. 
+Swansea City Council Local Development Plan 2017 
+5.3.3 
+The Project Site is located entirely within the CCS and so must comply with local planning policy and 
+strategy.  
+5.3.4 
+The council submitted the Swansea Local Development Plan 2010-2025 (the LDP) to the Ministers of 
+the Welsh Government for independent examination on 28 July 2017. The Plan ‘provides a clear 
+planning framework to address key issues facing the County, providing certainty and the basis for 
+efficient planning decisions. Its policies and proposals will enable the delivery of sustainable 
+development, and ensure that social, economic, environmental and cultural well-being goals are all 
+suitably balanced in the decision making process so that the right development occurs in the right 
+place’ 
+5.3.5 
+The LDP adopts a sustainable approach to flood risk by avoiding vulnerable development occurring 
+within flood hazard areas.  Policy RP4 Avoidance of Flood Risk states that development will not be 
+permitted if it causes an increase to flooding on or off site. 
+5.4 
+Evidence Base 
+Strategic Flood Consequence Assessment 
+5.4.1 
+CCS developed a Level 1 Strategic Flood Consequence Assessment (SFCA)8 in 2010 that provides an 
+overview of flood risk from all sources and provides developers and other interested parties with 
+guidance on flood risk and issues associated with flooding.  
+5.4.2 
+The Level 1 SCFA does not identify any historic flooding within the vicinity of the Project Site or 
+highlight any specific flood risk to the Project Site.   
+                                                                                                                     
+8 Scott Wilson. City & County of Swansea Council – Stage 1 Strategic Flood Consequence Assessment. 2010 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+18 
+ 
+5.4.3 
+CCS developed a Level 2 SFCA9 in 2012 that provides a more detailed appraisal of flood risk to Local 
+Development Plan Candidate Sites to assess their suitability.  
+5.4.4 
+The Felindre area, located to the west of the Project Site, is highlighted for Mixed Used Major 
+Development and includes six land parcels for development consideration. The Project Site is located 
+to the east of these land parcels and should be considered within context of this development.  
+Local Flood Risk Management Strategy 
+5.4.5 
+In 2013, CCS developed a Local Flood Risk Management Strategy (LFRMS)10, this document 
+highlights the responsibilities of CCS as Lead Local Flood Authority (LLFA) with respect to flooding 
+from surface water, ordinary watercourses and groundwater. This report also outlines the strategy 
+objectives of CCS to manage flood risk. 
+Flood Risk Management Plan 2015 
+5.4.5.1 
+CCS developed a Flood Risk Management Plan (FRMP)11 which provides an overview of the flood risk 
+in Swansea and detailed objectives for reducing flood risk in community areas which have been 
+identified as being at significant flood risk.  
+5.4.6 
+The Project Site is situated within the Mawr Community and is not located within a Flood Risk Area as 
+described within the FRMP. Borough wide measures from the CCS Flood Risk Management Strategy 
+apply 
+and 
+there 
+are 
+no 
+specific 
+requirements 
+for 
+the 
+Project 
+Site.
+                                                                                                                     
+9 URS. City and County of Swansea – Strategic Flood Consequence Assessment stage 2. Plymouth, 2012 
+10 City and County of Swansea Local Flood Risk Management Strategy.2013  Available online: 
+http://www.swansea.gov.uk/floodstrategy 
+11 City and County of Swansea. Flood Risk Management Plan 2015. Swansea, 2015 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+19 
+ 
+6. 
+Sources of Flooding and Flood Risk 
+6.1 
+Overview 
+6.1.1 
+TAN15 requires that all potential flood sources that could affect the Project be considered. This chapter 
+primarily focuses on the fluvial and surface water flood risk posed to the Project Site location, but also 
+considers the flood risk posed to the Project Site from other sources. 
+6.2 
+Tidal 
+6.2.1 
+Tidal flood sources include both the sea and estuaries. The assessment of tidal flood risk takes into 
+account the sites distance from the Severn Estuary (approximately 9 km) and minimum ground levels 
+on site (approximately 75 m AOD). This assessment identifies that there is no tidal flood risk posed to 
+the Project and is therefore not considered further within this FCA. 
+6.3 
+Fluvial 
+6.3.1 
+The Project Site is bound by Afon Llan (Main River) to the south and an unnamed watercourse 
+(Stream A) to the east. A series of small watercourses and land drains cross the Project Site (Stream B 
+and Stream C) with a number of issues and sinks present within the vicinity of the Project Site.  
+Main River 
+6.3.2 
+The NRW DAM Maps12 (See Figure D1, Appendix D) identify that the majority of the Project Site is 
+located within DAM Zone A (little or no risk of fluvial flooding) whilst a small proportion of the 
+Generating Equipment Site is located within DAM Zone B (areas known to have flooded historically 
+evidenced by sedimentary deposits). A small area of the southern portion of the Project Site is located 
+within DAM Zone C2 (Areas of Zone C without significant flood defence infrastructure) and is 
+associated with the Afon Llan floodplain. This part of the Project Site is a proposed water compatible 
+Ecological Mitigation Area (Figure C1, Appendix C) and is therefore not considered to be affected by or 
+impact upon the floodplain.   
+6.3.3 
+A review of the NRW Fluvial Flood Map (Figure D2, Appendix D) indicates that the area south of the 
+Generating Equipment Site is located within Flood Zone 3 (the extent of a flood from rivers with a 1% 
+(1 in 100) chance or greater of happening in any given year) and coincides with the DAM Zone C2 
+extent. The majority of the Project Site is located within Flood Zone 1 with negligible risk of flooding 
+from rivers (Figure D2, Appendix D).  
+6.3.4 
+The CCS Level 1 SCFA and Level 2 SFCA indicate that there has been no recorded historical fluvial 
+flooding within the Project Site or within 1km of the Project Site. Further consultation with NRW and 
+CCS shows that there has been no recorded flooding from fluvial sources on or near the Project Site 
+since the production of the SFCAs.  
+6.3.5 
+Modelled river levels for the Project Site and surrounding area were requested from NRW, however it 
+was stated that a “1D Steady State HECRAS catchment wide model created in 2007.  This model is 
+well out of date and the results would not be suitable for use in an FCA”.  
+6.3.6 
+In the absence of suitable modelled flood levels, a review of the existing LiDAR data shows that the 
+Generating Equipment Site is elevated at its lowest point to approximately 6 m above the flood plain of 
+Afon Llan and located approximately 300 m from the current Flood Zone 3 extent. In conclusion, it is 
+considered that there is negligible fluvial flood risk to the Project from Afon Llan due to the distance 
+from the flood plain and the higher elevation of the site and the floodplain.  
+ 
+ 
+                                                                                                                     
+12 Lle Geo-Portal. Development Advice Map. 2017. (Online) Available from: http://lle.gov.wales/map#m=-
+3.159,51.47832,8&b=europa&l=328h;329h;330; (Accessed November 2017) 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+20 
+ 
+Local Ordinary Watercourses and Land Drains 
+6.3.7 
+Section 3.3 provides a summary of the local ordinary watercourses and drainage ditches. Ordinary 
+watercourses fall under the jurisdiction of CCS and land drainage is the responsibility of the riparian 
+owner.    
+6.3.8 
+CCS has confirmed that there are no recorded historical flooding events from ordinary watercourses 
+within the vicinity of the Project Site primarily due to the rural nature and size of the local watercourse 
+network.  
+6.3.9 
+The ordinary watercourses and land drains flowing through the Project Site are not included within the 
+NRW DAM or Flood Maps. There are no modelled flood water levels for any of the identified ordinary 
+watercourses or drainage ditches. However, given the steep topography, relatively small channel 
+dimensions and ephemeral nature of some of the drainage ditches it has been assumed that the risk of 
+fluvial flooding is low, with ditches only holding water in higher return period storm events or when the 
+groundwater level are raised.   
+6.3.10 
+In the absence of modelled flood levels for ordinary watercourses, a review of the NRW Updated Flood 
+Map for Surface Water (UFMfSW) was undertaken. This dataset provides a high level assessment of 
+flood risk from surface water and provides an indication of primary overland flow paths and likely 
+locations of ponding. This therefore provides a coarse indication of the direction of out of bank flood 
+flow routes.    
+6.3.11 
+The UFMfSW shows that there are two main overland flow routes passing across the Project Site from 
+the high ground in the north to the Afon Llan in the south (Figure D3, Appendix D). The mapping 
+indicates that the part of the Generating Equipment Site, located within DAM Zone B, lies at the 
+confluence of several local watercourses and drains and may be at risk of flooding should the 
+watercourse overtop in the 3.3% AEP event. However, given the size of watercourse observed during 
+the site visit, steepness of the catchment and size of the floodplain downstream it is considered that 
+the risk of fluvial flooding from ordinary watercourse is low.  
+6.3.12 
+It is likely that the greatest fluvial flood risk to the Project Site will be during the construction phase 
+when there will be the culverting/bridging of Stream C (Access Road) and diversion of Stream B 
+(Generating Equipment Site) and Stream D (Gas Connection). Flood risk mitigation measures to 
+reduce this risk will be outlined within the CEMP and are discussed in Section 8.2.   
+6.3.13 
+The AGI area is not located near any watercourses and therefore the risk of flooding from fluvial 
+sources is negligible.  
+6.3.14 
+The Pipeline and Electrical Connection, once constructed, will be underground and not at risk of 
+flooding from fluvial sources.  
+6.3.15 
+In conclusion, it is considered that there is negligible flood risk to the Project from Afon Llan due to the 
+distance from the modelled flood plain and the difference in elevation of the Project Site and the 
+floodplain. Flood risk from ordinary watercourse is considered to be low given the size of watercourse 
+observed during the site visit, steepness of the catchment and size of the receiving floodplain 
+downstream. 
+6.4 
+Overland Flow 
+6.4.1 
+Overland flow results from rainfall that fails to infiltrate the surface. This is exacerbated where the 
+permeability of the ground is low due to the type of soil and geology (such as clayey soils) or urban 
+development. Surface water flow may also occur in areas where steep topography can rapidly convey 
+water that has failed to penetrate the surface or where the ground may already be saturated.  
+6.4.2 
+It has been identified in Section 3.4 that part of the Project Site and surrounding area is characterised 
+by low permeable soils. It is likely therefore that rainfall during extreme events will be unable to 
+effectively infiltrate into the ground and convey overland flow towards the Afon Llan.  
+6.4.3 
+CCS holds no records of surface water flooding within the vicinity of the Project Site.  
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+21 
+ 
+6.4.4 
+A review of the UFMfSW indicates that the land adjacent to the local drains and watercourses, 
+predominately Stream A (Generating Equipment Site) and Stream B (Access Road), have areas that 
+are at a high risk of surface water flooding (3.3% AEP). The majority of the Project Site is considered 
+to be at very low risk ((0.1% AEP) for Surface Water). Figure D3, Appendix D shows the key flow paths 
+across the Project Site.  
+6.4.5 
+As described in Section 3.2 the Project Site is reasonably steep, sloping in a south easterly and 
+southerly direction towards the Afon Llan floodplain. It is expected that overland flow from the upland 
+areas of the Project Site would follow this natural topography away from the Project Site with only very 
+localised ponding. The existing trackway to the west of the Generating Equipment Site conveys water 
+to the south east away from the Project Site through minor land drains.  
+6.4.6 
+Flood risk from surface water is likely to be greatest during construction when the temporary diversion 
+of overland flow routes is required for the construction of the Access Road and Gas Connection and 
+permanent diversion of Stream B for the Generating Equipment Site. Flood mitigation measures are 
+outlined in Section 8.2.   
+6.4.7 
+It is concluded that based on the UFMfSW small sections of the Generating Equipment Site, Access 
+Road and Gas Connection are at a medium to high risk of flooding from overland flow. However the 
+majority of the Project Site is considered to be at low risk of flooding from overland flow.  
+6.5 
+Sewer Flooding 
+6.5.1 
+Flooding can occur as a result of infrastructure failure, e.g. blocked sewers or failed pumping stations. 
+Sewer flooding can occur when the system surcharges due to the volume or intensity of rainfall 
+exceeding the capacity of the sewer, or if the system becomes blocked by debris or sediment. 
+6.5.2 
+The Project Site is located within an undeveloped area where there is limited known sewerage 
+infrastructure. Flood risk from sewer sources is considered very low and therefore not considered 
+further in this FCA.  
+6.6 
+Groundwater 
+6.6.1 
+Groundwater flooding occurs where groundwater levels rise above ground surface levels. The geology 
+has a major influence on where this type of flooding takes place; it is most likely to occur in low-lying 
+areas underlain by permeable rocks (aquifers). 
+6.6.2 
+The CCS PFRA, Level 1 and Level 2 SFCA’s state there are no recorded flood events from 
+groundwater sources within the CCS region. The FRMP indicates that there is a low risk of 
+groundwater flooding across the CCS region.   
+6.6.3 
+A review of the BGS Area susceptible to groundwater flooding map within the Landmark Envirocheck 
+Report (2017) indicates the lower areas of the Project Site and Generating Equipment Site are 
+considered to have potential for groundwater flooding at the surface. Observations made during the 
+site visit indicate that the water table was high within the Generating Equipment Site. 
+6.6.4 
+Due to the steep local topography at the Project Site, it is likely that any groundwater reaching the 
+surface would be conveyed to the south east away from the Generating Equipment Site. This was 
+observed during the site visit, as small issues were conveyed in ruts and drainage ditches along the 
+trackway at the west of the Generating Equipment Site. Therefore by maintaining any existing flow 
+paths during construction and operation the risk of ponding will be limited. 
+6.6.5 
+Based upon the evidence, there is potential for groundwater flooding at the surface however given the 
+local topography and proposed ground levels above the groundwater flood risk is considered to be 
+low.  
+6.7 
+Artificial Sources 
+6.7.1 
+Artificial sources include flood risk from sources such as storage areas and reservoirs. 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+22 
+ 
+6.7.2 
+The Afon Lliw and Lower Lliw reservoir are located approximately 2 km to the north of the Project Site 
+within a neighbouring topographic catchment. A review of the NRW Reservoir Flood Risk Map shows 
+that there is no risk of flooding from a breach to the reservoirs and as such is not considered further 
+within this FCA.  
+6.8 
+Summary 
+6.8.1 
+In summary the following flood risk for the Project Site: 
+ 
+There is no risk of tidal flooding;  
+ 
+The risk of fluvial flooding is considered to be negligible from Afon Llan and low from ordinary 
+watercourses/land drainage to small areas of the Generating Equipment Site and Access Road;  
+ 
+The risk of surface water flooding is considered to be medium to high for small areas of the 
+Generating Equipment Site, Access Road and Gas Connection however the majority of the 
+Project Site is considered to be at low risk;  
+ 
+The risk of sewer flooding is considered to be negligible;  
+ 
+The risk of groundwater flooding is considered to be low; and 
+ 
+There is no risk of flooding from artificial sources.  
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+23 
+ 
+7. 
+Climate Change 
+7.1 
+General 
+7.1.1 
+TAN15 requires that it is necessary to take account of the potential impact of climate change over the 
+lifetime of the development to ensure a safe and secure living and/or working environment. 
+7.1.2 
+Welsh Government published updated climate change guidance in December 201613 . The guidance 
+indicates that climate change is likely to have an impact on river flows, sea levels, rainfall intensity, 
+wave height and wind speed. 
+7.1.3 
+Details of the methods and justifications for calculating the projected climate change allowances can 
+be found on the Welsh Government website and will not be replicated in this document.      
+7.2 
+Peak River Flows 
+7.2.1 
+The peak river flow allowances show the anticipated changes to peak flow by river basin district. The 
+Project Site is located within the West Wales river basin district and Table 7-1 shows the peak river 
+flow allowances.  
+Table 7-1: Climate change allowances for the West Wales River Basin District14 
+West Wales  
+Total 
+potential 
+change 
+anticipated by 2020s 
+Total 
+potential 
+change 
+anticipated by 2050s 
+Total 
+potential 
+change 
+anticipated by 2080s 
+Upper end estimate 
+25% 
+40% 
+75% 
+Change 
+factor/central 
+estimate 
+15% 
+25% 
+30% 
+Lower end estimate  
+5% 
+10% 
+15% 
+ 
+7.2.2 
+The lifetime of the development is considered to be a minimum of 25 years and through 
+correspondence with NRW it is agreed that the Central estimate for the Total potential change 
+anticipated by the 2050’s (25%) can be used in this assessment. The period described as the 2050’s is 
+not defined within the Welsh Government Climate Change Guidance (2016). However, within the 
+Environment Agency Climate Change Allowances15 (2016) it is stated for the Dee and Severn River 
+Basin Districts that the period, 2050’s, is defined as 2040-2069. Therefore this assessment is 
+considered representative for a design life up to 2069.    
+7.3 
+Peak Rainfall Intensity 
+7.3.1 
+Increased rainfall affects river levels, land and drainage systems. Table 7-2 shows the anticipated 
+changes in extreme rainfall intensity in small and urban catchments based upon English guidelines. At 
+the time of writing no specific Welsh Government guidance was available and so this is considered the 
+most up to date peak rainfall allowances.  
+ 
+ 
+                                                                                                                     
+13 Welsh Government. CL-03-16 - Climate change allowances for Planning purposes. Cardiff 2016,  
+14 Adapted from Table 1 Welsh Government. Guidance for Flood Consequence Assessments – Climate Change Allowances. 
+Cardiff 2016, 
+15 Environment Agency , Flood risk assessments: climate change allowances. London 2016 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+24 
+ 
+Table 7-2: Peak rainfall intensity allowance16 
+Climate Change Allowance 
+Band  
+Total 
+potential 
+change 
+anticipated by 2020s 
+Total 
+potential 
+change 
+anticipated by 2050s 
+Total 
+potential 
+change 
+anticipated by 2080s 
+Upper Central 
+10% 
+20% 
+40% 
+Central 
+5% 
+10% 
+20% 
+7.3.2 
+It was agreed through correspondence with CCS and NRW that the Upper Central estimate for the 
+Total potential change factor anticipated by 2050’s should be used in this assessment. As described in 
+Section 7.2.2 this assessment is considered representative for a design life up to 2069.    
+7.4 
+Impact of Climate Change on Flooding Sources 
+Fluvial 
+7.4.1 
+The effect of climate change on peak river flow and consequently on flood levels within Afon Llan is 
+unlikely to increase the flood risk from fluvial sources to the Project Site given the present distance and 
+elevation distance from the watercourse.  
+Overland Flow 
+7.4.2 
+Climate change must be taken into account when considering surface water runoff generated by the 
+development site. The increase in rainfall intensity will result in increased surface water runoff rates 
+and volumes. Therefore the drainage systems associated with the development must be designed to 
+accommodate the climate change allowances in compliance with TAN15.   
+7.4.3 
+To accommodate increased surface water volumes peak runoff from the development will be 
+attenuated up to and including the 1% + 20% Climate Change AEP event using onsite storage. All cut 
+off ditches and culverts will be designed to a similar standard to ensure no increased flood risk to the 
+Project Site from overland flow. Section 8.3 and Appendix E outline how surface runoff will be 
+managed on the Project Site. 
+Groundwater 
+7.4.4 
+The predicted increase in wetness of winters and the intensity of storm events as a result of climate 
+change could impact the groundwater level fluctuations at the Project Site and possibly increase the 
+fluctuations of the groundwater table. This may therefore increase the likelihood of groundwater 
+emergence and the potential for groundwater flooding to impact the development.  
+7.4.5 
+Once constructed, the Project will be largely covered by hard standing, which reduces infiltration and 
+the likelihood of localised groundwater flooding reaching the surface. Cut off trenches along the 
+northern and western perimeter of the Project Site will intercept any overland flow as a result of 
+increased ground water levels and discharge in to the attenuation storage and local watercourse.  
+7.4.6 
+It is therefore anticipated that the risk from groundwater sources will remain low and not increase 
+significantly as a result of climate change. 
+ 
+                                                                                                                     
+16 Adapted from Table 2 Environment Agency. Flood risk assessments: climate change allowances. 2016. Available from 
+https://www.gov.uk/guidance/flood-risk-assessments-climate-change-allowances 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+25 
+ 
+8. 
+Flood Risk Management Measures 
+8.1 
+General 
+8.1.1 
+It has been demonstrated within Section 6 that the main flood risk to the Project Site is from surface 
+water runoff and fluvial flooding from ordinary watercourse during construction operation and 
+decommissioning, which therefore forms the basis for this assessment. This chapter identifies the 
+flood risk management measures required to mitigate against the flood risk which has been identified 
+in accordance with TAN15 requirements. 
+8.2 
+Flood Risk Management Measures 
+8.2.1 
+An Outline Drainage Strategy (Appendix E) has been prepared to manage surface water flood risk to 
+and from the Project Site and is provided within Appendix E. The surface water drainage system 
+proposed adopts the principles within The SuDS Manual – CIRIA 75317 and industry best practice and 
+is describe further in Section 8.3.  
+8.2.2 
+The following key measures to mitigate flood risk to the Project Site during construction will be 
+implemented to reduce flood risk to the Project Site: 
+Construction 
+8.2.3 
+Construction activities associated with the Project intercept a number of overland flow routes as 
+discussed in Section 6.4 which is most notable at the Access Road, Generating Equipment Site and 
+Gas Connection. Given that the highest flood risk for the Project is from surface water and/or ordinary 
+watercourse flooding mitigation measures are focussed on managing and mitigating risks to the 
+temporary works as well as not increasing flood risk off site. 
+8.2.4 
+During construction, pollution prevention guidelines will be followed by the contractor.  
+8.2.5 
+The proposed works involve new crossings, diversions and temporary diversions of local 
+watercourses. Any proposed works to the watercourses require Land Drainage Consent from CCS and 
+must be granted before any works can take place. Diversion and crossing of local watercourses have 
+been kept to a minimum within the Project design.  
+8.2.6 
+A Construction Environmental Management Plan (CEMP) will incorporate measures to prevent an 
+increase in flooding during construction works. It is expected that the CEMP will include provisions 
+such as: 
+ 
+New temporary and/or permanent drainage ditches to prevent uncontrolled surface runoff of 
+contaminated water;  
+ 
+Silt traps within drainage ditches to reduce the flow of suspended solids from the Project Site;  
+ 
+Settlement lagoons and/or proprietary settlement tanks as required to reduce the flow of 
+suspended solids from site;  
+ 
+Suitable layout of the construction site and application of suitable management techniques to 
+prevent runoff from stockpiles directly ion to the watercourse; and 
+ 
+Monitoring of overland flow routes along the eastern extent of the Generating Equipment Site to 
+ensure minimal impedance of flow routes.   
+                                                                                                                     
+17 CIRIA. The SuDS Manual (C753). London 2015 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+26 
+ 
+Operation 
+8.2.7 
+To ensure the ongoing operation of the Project, an Outline Drainage Strategy has been prepared 
+(Section 8.3) to manage foul, oily and surface water from the Project Site and flood risk mitigation 
+measures have been proposed.   
+8.2.8 
+The following measures will be implemented to ensure the operation of the Project is protected:  
+Raised Ground and Finished Floor Levels 
+8.2.9 
+Ground levels across the Generating Equipment Site will be raised to provide three platform terraces 
+for the development. Indicative proposed site levels are provided within Figures C3 and Figure C4, 
+Appendix C, which demonstrate that the Generating Equipment will be at a proposed level of 89.3 m 
+AOD and 86.8 m AOD whilst the attenuation storage area terrace will be at a proposed elevation of 
+84.0 m AOD.  The indicative proposed levels are approximately 2 m above higher than the existing 
+south east corner of the Project Site, which is currently at the highest risk of flooding. It is anticipated 
+that the raised levels will be sufficiently resilient to future climate change levels given the steep 
+topography of the site and size of the floodplain.   
+8.2.10 
+The north east corner of the Generating Equipment Site will be within a cutting below the existing 
+ground levels. In this area potential overland flow and or watercourse overtopping will be managed by 
+either localised earth mounding and/or a suitably sized cut off ditch (see below).  
+8.2.11 
+As an additional measure the finished floor levels In the Generating Equipment Site will be 0.15 m 
+above the site road crown level with plant plinths 0.3 m above the site level. This will reduce the Power 
+Generation Plant vulnerability to flooding.  
+Cut off ditches/watercourses 
+8.2.12 
+To prevent inundation of the Generating Equipment Site from surface runoff down the hillside, cut off 
+drainage ditches will be placed around the uphill Generating Equipment Site perimeter. The location of 
+these cut of ditches are located within Appendix E.  These new drainage ditches will be designed to 
+divert surface runoff around the Generating Equipment Site and return downstream back to the original 
+drainage ditches/watercourse. The final design of the cut off ditches will be completed at detailed 
+design however they should be designed to adequately accommodate the 1% + 20% Climate Change 
+AEP flows.  
+8.2.13 
+It is proposed the existing watercourse, Stream C, is diverted around the northern and western 
+perimeter of the Generating Equipment Site. The final sizing of the diverted watercourse will be 
+undertaken at the detailed design stage however based upon based on a catchment area of circa 
+13,100 m2, pessimistic runoff coefficient of 0.60 and rainfall intensity of 45 mm/hr [based on M100-1hr 
+storm it is estimated that the upper end flows will be approximately 100 l/s. As noted in Section 8.2.10 
+this may be extended around to the east of the Project Site to protect the cutting platform.  
+8.2.14 
+The permanent cut-off ditches require Land Drainage Consent from CCS before construction can take 
+place.  
+Maintenance of Overland Flow Routes 
+8.2.15 
+It has been demonstrated that there is an existing overland flow route that crosses the eastern extent 
+of the Generating Equipment Site which, in areas, is considered to be medium to high risk of flooding. 
+Part of this overland flow route falling on the Generating Equipment Site will be accommodated by the 
+onsite drainage that includes attenuation storage for surface runoff from the Project Site (Section 8.3). 
+However, as there is land raising at the Generating Equipment Site some of this overland flow route 
+will be diverted along the eastern extent of the Project Site. In order to maintain this overland flow path 
+it is proposed that the eastern boundary of the Generating Equipment Site is kept clear and formalised 
+to encourage water downslope and away from the development towards the undeveloped area to the 
+south. This will also provide the easement required by CCS for maintenance access to the 
+watercourse. 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+27 
+ 
+Welsh Water - Water Main Easement 
+8.2.16 
+The Dŵr Cymru Welsh Water Water Main that crosses the site will have an easement of a minimum of 
+30 m as required by Welsh Water. The proposed site layout (Appendix C, C1 and C2) indicates that a 
+60 m easement has been provided due to uncertainty of the accuracy and digitisation of archive 
+drawings.  Further investigations are currently being carried out to identify the location and depth of the 
+Water Main prior to detailed design so adequate easement can be provided for.   
+8.2.17 
+The ground levels will be maintained within the Water Main easement area. This will provide a flood 
+flow path in the event of a Water Main rupture away from the elevated Generating Equipment Site 
+which should be able to accommodate the understood flows of 1.2-1.7 m3/s. The combination of the 
+easement, general topographic slope to the south and elevation of Generating Equipment Site Plant 
+means that the flood risk from the unlikely rupture of the Water Main will be negligible.    
+Access Road Culverts 
+8.2.18 
+The Access Road leading west from the Generating Equipment Area crosses a small field drain, 
+Felindre Gas Compressor Station surface water drainage ditch and an ordinary watercourse (Stream 
+B). It is assumed in outline design that a culvert will be used to convey flow beneath the road 
+(Appendix E) to prevent the Access Road from flooding. Whilst this is proposed as a culvert, other 
+techniques such as bridging could be incorporated into the design.   
+8.2.19 
+Culvert crossings will be designed to allow for flow up to and including the 1% AEP + 20% Climate 
+Change Allowance to ensure there is no impedance of flow. For more extreme events the overland 
+flow will pass over the road to the south along the natural fall of the topography. 
+8.2.20 
+To mitigate against the risk of blockage it is proposed that a twin culvert arrangement and/or 
+trashscreen is implemented which will allow for the continued flow of water beneath the Access Road 
+in the event that one culvert is blocked.  
+8.2.21 
+It is noted that Land Drainage Consent must be granted by CCS prior to any works on Ordinary 
+Watercourses.  
+Safe Access and Egress Route 
+8.2.22 
+During flood events it is proposed that suitable access and egress routes are provided the details of 
+which are subject to detailed design. As a minimum, safe pedestrian access/egress routes should be 
+provided and where possible vehicular routes should be accommodated in to the design.  
+Decommissioning 
+8.2.23 
+It is recommended that a detailed Decommissioning Environmental Management Plan will be prepared 
+at a later date to identify required measures to prevent pollution during this phase of the development, 
+based on the detailed decommissioning plan.  
+8.2.24 
+The mitigation measures for decommissioning will be similar to those identified for construction.  
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+28 
+ 
+8.3 
+Surface Water Management 
+8.3.1 
+An Outline Drainage Strategy (Appendix E) has been developed for the Project for the disposal of foul, 
+oily and surface water from the Project to assist with planning and detailed drainage design phases 
+(Appendix E).  
+8.3.2 
+The Project will increase the impermeable area at the Project Site through the construction of hard 
+standing and buildings. Without suitable mitigation measures this is likely to increase the surface water 
+runoff rates and volumes that leave the Project Site compared to the existing greenfield conditions. 
+The Outline Drainage Strategy (Appendix E) therefore identifies mitigation measures such as 
+attenuation storage, swales and infiltration strips to manage any increase in surface water runoff as a 
+result of the Project.    
+8.3.3 
+An increase in impermeable area is only applicable to the Generating Equipment Site and 
+Maintenance Compound, Access Road and AGI Compound. The Pipeline and Electrical Connection 
+will be below ground and will not increase the impermeable area at the Project Site.    
+8.3.4 
+The main elements of the strategy are as follows: 
+ 
+The Project Site drainage system will be designed to prevent flooding of the Project Site during 
+the 3.33% AEP and maintain greenfield runoff rates off site up to and including the 1% AEP + 
+20% Climate Change event;  
+ 
+Where possible, the site will be designed to drain by infiltration;  
+ 
+Pending a Ground Investigation (at detailed design stage) it is assumed that drainage by 
+infiltration will not be possible and therefore all site surface water runoff will be attenuated up to 
+an including the 1% AEP + 20% Climate Change event and discharged to the local watercourse 
+network at the greenfield runoff rate;  
+ 
+The Access Road will generally have a constant cross fall and no longitudinal fall. Where 
+possible, roadside swales and infiltration drains will be used to remove and convey any 
+standing water in to the surface water drainage system;  
+ 
+The AGI area will drain to a small attenuation area and discharge into the nearest local 
+watercourse at the greenfield runoff rate.    
+8.3.5 
+It is not proposed to connect existing road drainage systems into the new surface water drainage 
+system. Existing road drainage systems along the access road to the west of the Felindre Gas 
+Compressor Station will be maintained 
+8.3.6 
+The surface water drainage design will be subject to detailed design which will be undertaken after 
+granting of the DCO 
+8.4 
+Flood Attenuation Storage 
+8.4.1 
+Due to local ground conditions and high groundwater it is unlikely that the proposed surface water 
+drainage system will be able to infiltrate into the ground. This will be confirmed by a Ground 
+Investigation prior to detailed design. As such a worst case scenario has been assumed where all 
+surface runoff from the Project Site will be attenuated in order to mimic the equivalent greenfield runoff 
+rates for events up to the 1%AEP +20% Climate Change event.    
+8.4.2 
+It is proposed that attenuation storage is required for the Generating Equipment Site, Maintenance 
+Compound, AGI compound and the Access Road.  A full explanation of the sizing calculation and 
+location of the attenuation areas is included within the Outline Drainage Strategy in Appendix E 
+ 
+ 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+29 
+ 
+8.4.3 
+Table 8.1 demonstrates the preliminary calculated greenfield runoff rates using the IH124 method18 
+and required attenuation storage for each area of the Project Site for the 1%+20% Climate Change 
+event. It can be seen that the largest attenuation storage of approximately 2018m3 is required for the 
+Generating Equipment Site.    
+Table 8-1: Greenfield Runoff Rates and Attenuation Storage Requirements19  
+Area of Site 
+Impermeable Area (ha) 
+Greenfield Runoff Rate 
+(l/s) 
+Required 
+Attenuation 
+Storage (m3) 
+Generating Equipment Site 1.976 
+13.6 
+2018 
+Maintenance Compound 
+0.2708 
+2.05 
+304.3 
+Access Road 
+0.306 
+2.31 
+343.9 
+AGI Compound 
+0.27 
+1.61 
+109.5 
+8.4.4 
+Through the implementation of attenuation storage it is considered that the Project will not increase 
+surface runoff from the Project Site up to and including the 1% AEP + 20% Climate Change event.
+                                                                                                                     
+18 Institute of Hydrology. Report No.124 Flood Estimation for small catchments. Wallingford. 1994 
+19 Adapted from Tables 4.3-1 to 4.3-4 WSP. Outline Drainage Strategy, Abergelli Power Ltd. Manchester, 2017 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+30 
+ 
+9. 
+Off Site Impacts and Residual Risk 
+9.1 
+Impact to third party property/land 
+9.1.1 
+The flood risk to third parties has been assessed in accordance with TAN15. The following possible 
+flood risk impacts have been identified: 
+ 
+Loss of ordinary watercourse flood storage at the Project Site;   
+ 
+Impact on overland flow routes and conveyance;  
+ 
+Damage of Dŵr Cymru Welsh Water Water Main 
+ 
+Increase surface runoff (see Section 8);  
+9.1.2 
+The area of the Project Site that is located within Afon Llan floodplain will not involve any built 
+development or any land raising. Therefore this will not affect the storage of the Afon Llan floodplain.  
+9.1.3 
+The Project may have some impact on flood flows and flood storage associated with the local 
+watercourse at the south eastern extent of the Generating Equipment Site where raising of ground 
+levels are proposed (Figure C3 and C4, Appendix C). The impact on flood storage and conveyance will 
+be mitigated by the formalisation of an overland flow route along the eastern extent of the Generating 
+Equipment Site. This will allow any flow to pass around the site to the south, away from the Cefn 
+Betingau Solar Park and towards the Afon Llan floodplain. Furthermore, the creation of suitably sized 
+cut-off drainage ditches will provide additional storage during large events. With the formalisation of 
+the overland flow path it is anticipated that, combined with the steep catchment, any loss of storage 
+and impact on conveyance will be minimal. Minor changes to the flood routes within the rural area are 
+not considered to increase flood risk to third parties.      
+9.1.4 
+During construction of the Gas Connection there may be a temporary diversion of the existing 
+drainage ditch to the north of the Generating Equipment Site. Abergelli Farm House and Abergelli 
+Solar Farm are located at a higher elevation than the watercourse at this location and will therefore not 
+be affected by any temporary diversion.    
+9.1.5 
+During construction and operation there is a very low risk that the Dŵr Cymru Welsh Water Water Main 
+could accidentally be damaged causing water to flow across the Project Site. A Ground Penetrating 
+Radar (GPR) survey will be completed in January 2018 to identify the exact location and depth of the 
+Water Main and protective provisions will be employed during both phasesto ensure any works around 
+the Water Main are strictly controlled. Dŵr Cymru Welsh Water require a 30m easement around the 
+Water Main and the proposed design includes a 60m easement. The land naturally drains to the south 
+east between the laydown area and Generating Equipment Site following existing drainage ditches. It 
+is anticipated that the large easement and existing drainage ditch network could adequately convey 
+water towards the south east away from the Project Site and towards the Afon Llan,       
+9.1.6 
+The Outline Drainage Strategy (Appendix E) and mitigation measures highlighted in Section 8.2 
+demonstrate that the impact on increased surface runoff will be negligible.   
+9.1.7 
+It has been concluded that there will be negligible impact to third parties from the Project through the 
+implementation of the necessary mitigation measures described in this FCA. 
+  
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+31 
+ 
+10. 
+Conclusions and Recommendations 
+10.1.1 
+Based upon the NRW flood maps, it has been demonstrated in Figure D1, Appendix D that part of the 
+southern extent of the Project Site is located with TAN15 Flood Zone C2 (areas of the floodplain 
+without significant flood defence infrastructure, based on the NRW extreme flood outline, equal to or 
+greater than 0.1% (fluvial or tidal)). As part of the Project design this area will not involve any built 
+development or land raising and will therefore not impact upon the floodplain or be affected by 
+flooding.  
+10.1.2 
+Under TAN15 highly vulnerable development (i.e. power stations) must be located out of Flood Zone 
+C2, preferably in Flood Zone A and if this is not possible Flood Zone B. A small area of the Generating 
+Equipment Site is located within Flood Zone B whilst the majority of the Project is located within Flood 
+Zone A (Figure D1, Appendix D). Under TAN15, this is considered acceptable development provided 
+flood risk from all sources has been considered. 
+10.1.3 
+To understand the flood risk to the Project Site and impact of the Project to the surrounding area an 
+assessment of all sources of flooding has been undertaken and flood mitigation measures proposed. 
+10.1.4 
+Flood risk to the Project was assessed as follows: 
+ 
+There is no risk of tidal flooding;  
+ 
+The risk of fluvial flooding is considered to be negligible from Afon Llan and low from ordinary 
+watercourses/land drainage to small areas of the Generating Equipment Site and Access 
+Road;  
+ 
+The risk of surface water flooding is considered to be medium to high for small areas of the 
+Generating Equipment Site, Access Road and Gas Connection however the majority of the 
+site is considered to be at low risk;  
+ 
+The risk of sewer flooding is considered to be negligible;  
+ 
+The risk of groundwater flooding is considered to be low;  
+ 
+The risk of flooding from artificial sources is considered to be negligible 
+10.1.5 
+The most likely flood risk to the Project Site has been identified as surface water flooding and localised 
+ordinary watercourse flooding. Therefore mitigation measures have been included within the Project 
+design to reduce the overall risk of flooding to low.   
+10.1.6 
+An Outline Drainage Strategy has been proposed to control surface water runoff from the project site 
+to reduce any of site impact up to and including the 1% AEP +20% Climate Change event. Flood 
+attenuation storage is proposed for all impermeable areas on the Generating Equipment Site, Access 
+Road, Maintenance Compound and AGI. 
+10.1.7 
+Through implementation of mitigation measures outlined in this document and in the outline drainage 
+design it is considered that this development is acceptable under TAN15 guidance. 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+32 
+ 
+11. 
+References 
+BGS (British Geological Survey), Geology of Britain Viewer (1974). Available at: 
+http://mapapps.bgs.ac.uk/geologyofbritain/home.html. Accessed November 2017 
+CIRIA. The SuDS Manual (C753). London 2015 
+City & County of Swansea Council – Stage 1 Strategic Flood Consequence Assessment. 2010 
+City and County of Swansea – Strategic Flood Consequence Assessment stage 2. Plymouth, 2012 
+City and County of Swansea. Flood Risk Management Plan 2015. Swansea, 2015 
+City and County of Swansea Local Flood Risk Management Strategy.2013 
+Cranfield University. Soilscapes. http://www.landis.org.uk/soilscapes/ - Accessed November 2017 
+Environment Agency. Flood risk assessments: climate change allowances. 2016. Available from 
+https://www.gov.uk/guidance/flood-risk-assessments-climate-change-allowances 
+Department of Energy & Climate Change. National Policy Statements for energy infrastructure. London: The 
+Stationery Office, 2011 
+Department of Energy and Climate Change.  National Policy Statement for Gas Supply Infrastructure and Gas 
+and Oil Pipelines (EN-4). July 2011. 
+Landmark Information Group Envirocheck Report (reference 142844199_1_1 dated 13 October 2017).   
+Lle Geo-Portal. Development Advice Map. 2017. (Online) Available from: http://lle.gov.wales/map#m=-
+3.159,51.47832,8&b=europa&l=328h;329h;330; (Accessed November 2017) 
+Institute of Hydrology. Report No.124 Flood Estimation for small catchments. Wallingford. 1994 
+Welsh Government. CL-03-16 - Climate change allowances for Planning purposes. Cardiff 2016, 
+Welsh Government. Guidance for Flood Consequence Assessments – Climate Change Allowances. Cardiff 2016, 
+Welsh Government (2016) Planning Policy Wales, Edition 9 (November, 2016); 
+Welsh Government. Technical Advice Note 15: Development and Flood Risk. Cardiff, 2004 
+WSP. Abergelli Power Plant Design Concept Report. Godalming, 2017 
+WSP. Outline Drainage Strategy, Abergelli Power Ltd. Manchester, 2017 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+33 
+ 
+Appendix A – Project Site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\A1_LocationPlan.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX A
+LOCATION PLAN
+001
+Scale at A3: 1:50,000
+FIGURE A1
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+19/12/17
+Project Site boundary
+10
+0
+10
+20 km
+SWANSEA
+Felindre
+Llangyfelach
+M4
+M4
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\A2_ProjectSite.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX A
+PROJECT SITE
+001
+Scale at A3: 1:10,000
+FIGURE A2
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+19/12/17
+Project Site boundary
+Felindre
+Gallops
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+36 
+ 
+Appendix B – Site and Surrounding Area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+85
+90
+115
+95
+110
+105
+140
+100
+80
+135
+75
+120
+130
+125
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\B1_ExistingSiteLevels.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX B 
+EXISTING SITE 
+LEVELS
+001
+Scale at A3: 1:10,000
+FIGURE B1
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+19/12/17
+Project Site boundary
+1m Contour
+Watercourses
+Topography
+191m AOD
+161m AOD
+131m AOD
+101m AOD
+71m AOD
+42m AOD
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW XW
+XW
+XWXW
+XWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XWXWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+Lower Lliw Reservoir
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+Nant y Fendrod - headwaters to conf with Tawe
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\B2_Surfacewater bodies.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX B
+SURFACEWATER BODIES
+001
+Scale at A3: 1:25,000
+FIGURE B2
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+GM
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary 
+1 km Buffer
+kj
+Wells
+XW
+Springs
+Surface Water
+WFD Lakes
+Moderate
+WFD Rivers
+Good
+Moderate
+WFD SW Catchments
+Llan - headwaters to tidal limit
+w - headwaters to confluence with Llan
+Lliw - headwaters to confluence with Llan
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\B3_LocalWatercourses_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX B
+LOCAL WATERCOURSES 
+005
+Scale at A3: 1:8,000
+FIGURE B3
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Generating Equipment SIte
+Above Ground Installation
+Access Road
+Electrical Connection (400kV Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+Watercourses
+<
+STREAM D
+<
+STREAM C
+<
+STREAM B
+<
+STREAM A
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW XW
+XW
+XWXW
+XWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XWXWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+Lower Lliw Reservoir
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+Nant y Fendrod - headwaters to conf with Tawe
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\B4_Bedrock Geology.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX B 
+BEDROCK GEOLOGY
+001
+Scale at A3: 1:25,000
+FIGURE B4
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+GM
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary 
+1 km Buffer
+kj
+Wells
+XW
+Springs
+WFD Rivers
+WFD Lakes
+Other Watercourses
+Inferred Water Flow Direction
+Groundwater
+Surface Water
+Bedrock Geology
+Grovesend Formation
+Swansea Member Sandstone
+Swansea Member Mudstone Siltstone 
+Sandstone
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW XW
+XW
+XWXW
+XWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XWXWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+Lower Lliw Reservoir
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+Nant y Fendrod - headwaters to conf with Tawe
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\B5_Superficial Geology.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX B
+SUPERFICIAL GEOLOGY
+001
+Scale at A3: 1:25,000
+FIGURE B5
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+GM
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary 
+Above Ground Installation
+Access Road
+Electrical Connection (400kV Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+1 km Buffer
+kj
+Wells
+XW
+Springs
+WFD Rivers
+WFD Lakes
+Superficial Geology
+Till
+Glacial Deposits
+Glaciolfluvial Deposits
+Alluvium
+Peat
+<
+Generating 
+Equipment 
+Site 
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\B6_Utilities.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX B
+EXISTING UTILITIES
+PLAN
+001
+Scale at A3: 1:12,000
+FIGURE B6
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+19/12/17
+Project Site boundary
+Wales and West Utilities Limited
+(Underground Gas Lines)
+British Telecommunications plc (Overhead
+Telecommunications Lines)
+Western Power Distribution (South Wales)
+plc (Underground Electricity Distribution
+Lines)
+Western Power Distribution (South Wales)
+plc (Overhead Electricity Distribution Lines)
+Water Main
+National Gas Transmission System
+National Electricity Transmission
+(Overhead Electricity Transmission Lines)
+Oil Pipeline
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+43 
+ 
+Appendix C – Project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Llan - headwaters to tidal limit
+w - headwaters to confluence with Llan
+Lliw - headwaters to confluence with Llan
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\C1_SiteLayout_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX C
+SITE LAYOUT PLAN
+005
+Scale at A3: 1:8,000
+FIGURE C1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Electrical Connection (400 kV)
+Gas Connection
+Generatting Equipment Site
+Access Track
+Laydown Area
+Watercourses
+Generating Equipment SIte
+Water Main
+North Swansea
+Substation
+Existing Access Track
+Felindre Gas
+Compressor 
+Station
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\C2_WorksPlan.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX C
+WORKS PLANS KEY 
+PLAN AND WORKS 
+SHEET 1 OF 3
+005
+Scale at A3: 1:3,000
+FIGURE C2
+50
+0
+50
+100
+150
+200
+250 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Access Road
+Electrical Connection (400kV
+Cable)
+Watercourses
+Laydown 
+Area
+Maintenance 
+Compound
+400kV Electricity
+North Swansea
+Substation
+Proposed Access Track
+Felindre Gas
+Compressor 
+Station
+Llan - headwaters to tidal limit
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\C2_WorksPlan.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX C
+WORKS PLANS KEY 
+PLAN AND WORKS 
+SHEET 2 OF 3
+005
+Scale at A3: 1:3,000
+FIGURE C2
+50
+0
+50
+100
+150
+200
+250 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Generating Equipment SIte
+Access Road
+Electrical Connection (400kV
+Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+Watercourses
+Gas Pipeline
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\C2_WorksPlan.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX C
+WORKS PLANS KEY 
+PLAN AND WORKS 
+SHEET 3 OF 3
+005
+Scale at A3: 1:3,000
+FIGURE C2
+50
+0
+50
+100
+150
+200
+250 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Above Ground Installation
+Gas Connection
+Watercourses
+OIL PIPELINE
+ASSUMED TO BE
+DECOMMISIONED
+18" DIA. OIL PIPELINE
+66" WATER MAIN
+18" DIA. OIL PIPELINE
+66" WATER MAIN
+60m WATER MAIN
+EASEMENT
+Gas Compressor Station
+Issues
+Drain
+Drain
+Issues
+Issues
+Drain
+Issues
+Track
+Drain
+Ponds
+Track
+Track
+Chy
+FB
+Chy
+Tanks
+Mast
+Def
+00
+50
+100
+150
+200
+250
+300
+00
+50
+100
+150
+200
+250
+280
+00
+50
+100
+150
+200
+250
+300
+350
+400
+400
+00
+50
+100
+150
+160
+Project Number:
+Revision:
+Date:
+Scale:
+Sheet:
+Designed:
+Drawn:
+Approved:
+Checked:
+Title:
+Site/Project:
+Client:
+Drawing Number:
+App
+Chk
+By
+Description
+Date
+Rev
+A1
+File Name: \\uk.wspgroup.com\central data\Projects\700340xx\70034053 - Abergelli Power Concept Update\Layouts\1 Current\70034053-PBP-G-0001-D.dwg
+Project Number:
+Revision:
+Drawing Number:
+A
+11/05/2017
+ADAPTED FROM 287521B-PBP-G-0001
+SPS
+SJS
+IMG
+A1
+70034053
+D
+PBP-G-0001
+Generating Equipment Site
+Reg5(2)(o)
+PRELIMINARY
+SPS
+IMG
+SJS
+IMG
+11/05/2017
+1 OF  1
+1:1000
+PBP-G-0001
+D
+70034053
+ABERGELLI SCGT
+CONTROL ROOM/
+OFFICE/WORKSHOP
+FIN FAN
+COOLERS
+SITE
+FENCE
+RAW/FIRE
+WATER TANK
+DEMIN
+WATER TANK
+TANKER
+UNLOADING
+STATION
+TRANSFORMER
+EXHAUST
+STACK
+NATURAL GAS
+RECEIVING
+STATION
+EMERGENCY
+GENERATOR
+DIESEL TANK
+CONSTRUCTION LAYDOWN
+AREA - 2.1  ha
+CONSTRUCTION
+LAYDOWN AREA - 0.7 ha
+© Copyright WSP UK Limited
+ATTENUATION
+POND
+EMERGENCY
+ACCESS
+GATE
+HOUSE
+B
+08/06/2017 LAYOUT REVISED
+CPR
+SJS
+IMG
+GAS TURBINE
+GENERATOR
+C
+05/09/2017
+CONTOURS REMOVED
+SPS
+SJS
+IMG
+N
+OEM MAINTENANCE
+AREA - 0.3 ha
+D
+02/10/2017
+OEM MAINTENANCE AREA ADDED
+SPS
+SJS
+IMG
+Westbrook Mills
+Godalming
+Surrey GU7 2AZ
+Tel:    44-(0)1483-528400
+Fax:    44-(0)1483-528989
+wsp.com
+APPENDIX C FIGURE C3
+APPENDIX C FIGURE C4
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+50 
+ 
+Appendix D – NRW Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Llan - headwaters to tidal limit
+w - headwaters to confluence with Llan
+Lliw - headwaters to confluence with Llan
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\D1_DAMZones_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX D
+DEVELOPMENT ADVICE 
+ZONES 
+005
+Scale at A3: 1:8,000
+FIGURE D1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+‘© CNC/NRW and Centre for Ecology & 
+Hydrology © NERC (CEH)
+Some features of this information are
+based on digital spatial data licensed from
+the Centre for Ecology & Hydrology
+© NERC (CEH). Defra, Met Office and 
+DARD Rivers Agency © Crown copyright.
+© Cranfield University. © James Hutton 
+Institute. Contains OS data © Crown 
+copyright and database right 2015. Land 
+& Property Services © Crown copyright 
+and database right
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Watercourses
+Generating Equipment SIte
+Above Ground Installation
+Access Road
+Electrical Connection (400kV Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+Development Advice Map - Zone B
+Development Advice Map - Zone C2
+Data is adapted from the NRW Development 
+Advice Maps available from 
+https://naturalresources.wales/evidence-and-
+data/maps/long-term-flood-risk/?lang=en
+Llan - headwaters to tidal limit
+w - headwaters to confluence with Llan
+Lliw - headwaters to confluence with Llan
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\D2_FluvialFloodMap_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX D
+FLUVIAL FLOOD MAP 
+005
+Scale at A3: 1:8,000
+FIGURE D2
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+‘© CNC/NRW and Centre for Ecology 
+& Hydrology © NERC (CEH)
+Some features of this information are 
+based on digital spatial data licensed
+from the Centre for Ecology & Hydrology 
+© NERC (CEH). Defra, Met Office and 
+DARD Rivers Agency © Crown copyright. 
+© Cranfield University. © James Hutton 
+Institute. Contains OS data © Crown 
+copyright and database right 2015. 
+Land & Property Services 
+© Crown copyright and database right
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Watercourses
+Generating Equipment SIte
+Above Ground Installation
+Access Road
+Electrical Connection (400kV Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+Flood Zone 3
+Flood Zone 2
+Data is adapted from the NRW Fluvial and 
+Surface Water Flood Map available from
+https://naturalresources.wales/evidence-and
+-data/maps/long-term-flood-risk/?lang=en
+Llan - headwaters to tidal limit
+w - headwaters to confluence with Llan
+Lliw - headwaters to confluence with Llan
+Filename: \\eu.aecomnet.com\euprojectvol\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\FCA\D3_FloodMap_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+APPENDIX D
+UPDATED FLOOD MAP 
+FOR SURFACE WATER 
+005
+Scale at A3: 1:8,000
+FIGURE D3
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+‘© CNC/NRW and Centre for Ecology 
+& Hydrology © NERC (CEH)
+Some features of this information are 
+based on digital spatial data licensed 
+from the Centre for Ecology & Hydrology 
+© NERC (CEH). Defra, Met Office and 
+DARD Rivers Agency © Crown copyright. 
+© Cranfield University. © James Hutton 
+Institute. Contains OS data © Crown 
+copyright and database right 2015. 
+Land & Property Services © Crown 
+copyright and database right’
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+19/12/17
+Project Site Boundary
+Watercourses
+Generating Equipment SIte
+Above Ground Installation
+Access Road
+Electrical Connection (400kV Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+Flood Extent - 1 in 30 years
+Flood Extent - 1 in 100 years
+Flood Extent - 1 in 1000 years
+Data is adapted from the NRW Fluvial
+and Surface Water Flood Map available
+from https://naturalresources.wales/evidence
+-and-data/maps/long-term-flood-risk/?lang=en’
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+51 
+ 
+D.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+52 
+ 
+D.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+53 
+ 
+D.3 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+54 
+ 
+Appendix E – Outline Drainage Strategy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OUTLINE DRAINAGE 
+STRATEGY 
+ABERGELLI POWER LTD 
+ 
+ 
+ 
+ 
+OCTOBER 2017 
+   
+ 
+ 
+ 
+ 
+ 
+Type of document (draft) 
+ 
+ 
+Project no: 70034053 
+Date: October 2017  
+ 
+ 
+– 
+WSP 
+Manchester Technology Centre 
+Oxford Road 
+Manchester 
+M1 7ED 
+Greater Manchester 
+United Kingdom 
+ 
+Tel: +44-(0)161-200-5000 
+Fax: +44-(0)161-200-5001 
+www.wsp.com 
+OUTLINE DRAINAGE STRATEGY 
+Abergelli Power Ltd. 
+iii 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+      
+ 
+Q U A L I T Y  M A N A G E M E N T  
+ISSUE/REVISION 
+FIRST ISSUE 
+REVISION 1 
+REVISION 2 
+REVISION 3 
+Remarks 
+Initial Issue 
+Final Issue 
+Final for submission 
+Update to suit revised 
+site layout 
+Date 
+January 2015 
+February 2015 
+March 2015 
+October 2017 
+Prepared by 
+Richard Smith 
+Richard Smith 
+Richard Smith 
+Chris Moore 
+Signature 
+ 
+ 
+ 
+ 
+Checked by 
+Mark Eccleshare 
+Mark Eccleshare 
+Mark Eccleshare 
+Ignacio Martin Garcia 
+Signature 
+ 
+ 
+ 
+ 
+Authorised by 
+Ryan Broughton 
+Ryan Broughton 
+Ryan Broughton 
+ 
+Signature 
+ 
+ 
+ 
+ 
+Project number 
+287521B 
+287521B 
+287521B 
+70034053 
+Report number 
+ 
+ 
+ 
+ 
+File reference 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+ 
+Outline Drainage Strategy 
+WSP  
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+TABLE OF CONTENTS 
+1 
+EXECUTIVE SUMMARY ..............................................................1 
+2 
+PROJECT BACKGROUND ..........................................................2 
+2.1 
+SCOPE OF THIS REPORT ............................................................................. 2 
+2.2 
+SITE DESCRIPTION ....................................................................................... 2 
+3 
+DRAINAGE STRATEGY ..............................................................7 
+3.1 
+FOUL WATER DRAINAGE PROPOSAL ........................................................ 7 
+3.2 
+OILY WATER DRAINAGE PROPOSAL .......................................................... 7 
+3.3 
+SURFACE WATER DRAINAGE PROPOSAL ................................................. 8 
+SURFACE WATER DRAINAGE PHILOSOPHY ............................................... 8 
+PROPOSED SUDS MANAGEMENT TRAIN .................................................... 9 
+OUTLINE SIZING OF SITE ATTENUATION .................................................. 10 
+3.4 
+SITE FLOOD RISK ....................................................................................... 10 
+3.5 
+SURFACE WATER DRAINAGE STRATEGY DURING 
+CONSTRUCTION ......................................................................................... 10 
+4 
+OUTLINE ATTENUATION REQUIREMENTS – 
+PERMANENT CONSTRUCTION ................................................11 
+4.1 
+SCOPE ......................................................................................................... 11 
+4.2 
+RAINFALL & RUNOFF ................................................................................. 11 
+4.3 
+ATTENUATION VOLUMES .......................................................................... 12 
+GREENFIELD RUNOFF ................................................................................ 12 
+STORAGE REQUIREMENTS ....................................................................... 13 
+5 
+CONCLUSION & RECOMMENDATIONS ..................................15 
+ 
+A P P E N D I C E S  
+A P P E N D I X  A  
+GENERATING EQUIPMENT AREA – DRAINAGE 
+CATCHMENT AREAS 
+ 
+1 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+1 
+EXECUTIVE SUMMARY 
+The following report presents an outline strategy for disposal of foul, oily and surface water from 
+the proposed Abergelli Power Project to assist with planning and detailed drainage design 
+phases. Indicative storm water attenuation requirements are defined to demonstrate design 
+compliance with UK environmental regulations for new developments and assist with site spatial 
+planning.  
+2 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+2 
+PROJECT BACKGROUND 
+2.1 
+SCOPE OF THIS REPORT 
+This conceptual Project Site drainage strategy outlines the proposal for managing the surface 
+water, oily water and waste water drainage systems at the proposed Abergelli Power Project.  
+External flood risk to the Project Site is outside the scope of this report and will be addressed 
+separately.  
+2.2 
+SITE DESCRIPTION 
+The Project Site (approximate UK National Grid Reference SN 65477 01290) is located on open 
+land approximately 2 km north of Junction 46 on the M4, to the north of Swansea and 
+approximately 1 km southeast of Felindre, 760 m west of Llwyncelyn and 1.4 km north of 
+Llangyfelach. Refer to Figures 2.2-1 to 2.2-3 inclusive below. 
+ 
+Figure 2.2-1 Site location (1) 
+3 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+ 
+Figure 2.2-2 Site Location (2) 
+ 
+Figure 2.2-3 Site Location (3) 
+The current land use is predominantly agricultural, with sheep and horse grazing. The western 
+extent of the Project Site encompasses parts of National Grid’s ‘Swansea North’ electrical 
+substation (comprising a 400kV and 132kV substation) and the existing access road leading to 
+the substation and Felindre Gas Compressor Station from the B4489.  
+The Project Site is accessed from Junction 46 of the M4. From the M4 vehicles would travel north 
+via the B4489, with the Project Site therefore accessed from the west utilising the existing 
+4 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+National Grid junction and access road from the B4489 (which is to be widened to accommodate 
+abnormal loads and is part of the Access Road) and then via land following the southern 
+boundary of the Felindre Gas Compressor Station before crossing over agricultural land 
+immediately west of the Generating Equipment Site.  
+The Project Site is roughly 'L' shaped (in reverse). Ground levels at the Project Site vary from 
+approximately 146 m above ordnance datum (AOD) at the highest point in the north-west corner 
+at Rhyd-y-Pandy Road to approximately 80 m AOD along the southern perimeter, with ground 
+levels generally falling in a southerly and south easterly direction.   The land within the Generating 
+Equipment Site is at approximately 90 m AOD.  
+There are no residential dwellings located within the boundary of the Project Site. Most of the 
+Project Site is improved grassland but there are areas of marshy grassland in the south eastern 
+part of the Generating Equipment Site. There are parts of a Site of Importance for Nature 
+Conservation (SINC) within the Project Site (Lletty Morfil SINC). The woodland present within the 
+Project Site is designated as Ancient Woodland (a mixture of restored and semi-natural 
+woodland).  
+Within the Project Site there are springs, with their associated streams and drainage ditches 
+which discharge into the Afon Llan (See Figures 2-4 to 2-7 inclusive). The Afon Llan links with the 
+Afon Lliw and the River Loughor, which discharges into the Bristol Channel. 
+The Generating Equipment Site is located primarily within fields used for grazing, bounded by a 
+mixture of drainage ditches, fencing and poor quality hedgerows with substantial gaps in them. 
+The Generating Equipment Site and Laydown Area are both crossed by a soft surface horse 
+training track known as ‘the gallops’, which runs diagonally north-west to south-east. A block of 
+broadleaved woodland, classified as Ancient Woodland, and a Site of Importance for Nature 
+Conservation (SINC) lie to the east. There are also further blocks of Ancient Woodland, also 
+classified as SINCs, to the west surrounding Swansea North Substation, Felindre Gas 
+Compressor Station and the existing access road leading to these facilities from the B4489.  
+The proposed gas supply pipeline will follow an approximate north-south route corridor, as shown 
+in Figures 2-4 & 2-6, between the National Transmission System south of Rhyd-y-Pandy Road 
+and the Generating Equipment Site.  The Pipeline corridor varies between 50 m and 200 m in 
+width, depending on the working area required during construction. The maximum area of the 
+Gas Connection Site during construction is approximately 13 Ha. Once construction is completed, 
+the route corridor will reduce to 10 m wide, reflecting the width of the easement surrounding the 
+Pipeline required for maintenance and to ensure safety.  The Pipeline crosses grazing fields 
+bounded by a number of poor quality hedgerows (with gaps) and/or fence lines, one Public Right 
+of Way, and two drainage ditches. The Pipeline avoids the small deciduous copse to the north of 
+the Generating Equipment Site, part of which is classified as Ancient Woodland and a SINC.  
+The Electrical Connection will follow a route corridor of approximately 30 m in width during 
+construction. The Electrical Connection route coincides with the Access Road for approximately 
+500 m of the route length. The maximum site area for the Electrical Connection during 
+construction is 3 ha.  It will be located to the southwest of the Generating Equipment Site passing 
+through grass fields and following the southern boundary of the Gas Compressor Station, passing 
+through an area classified as Ancient Woodland and a SINC, before entering National Grid’s 
+Swansea North Substation.  
+The geology of the site is characterised by boulder clay and the underlying Grovesend Beds, 
+Upper Carboniferous sandstones and thin coals; overlain by glacial sand and gravel, alluvium and 
+peat. The geology is overlain by raw grey and brown soils.  
+The land within the power generation plant site is approximately 90 m Above Ordnance Datum 
+(AOD), generally sloping at 1:25 downwards in a southerly direction.  
+ 
+5 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+ 
+Figure 2-4 Plan showing nearby drains and watercourse to the site (Central section) 
+ 
+Figure 2-5 Plan showing nearby drains and watercourse to the site (West section) 
+ 
+ 
+ 
+6 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+ 
+Figure 2-6 Plan showing nearby drains and watercourse to the site (North section) 
+ 
+Figure 2-7 Key for Figures 1 to 3 
+7 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+3 
+DRAINAGE STRATEGY 
+3.1 
+FOUL WATER DRAINAGE PROPOSAL 
+The Generating Equipment Site incorporates welfare facilities which will require a site foul water 
+drainage system. The site is remote and it is believed it will be unfeasible to connect to a public 
+sewer. The provision of a cesspool, composting or chemical toilets has not been considered due 
+to Natural Resources Wales preferences, maintenance requirements and staff comfort. As a 
+result there are two options for the foul water drainage system:  
+1. A foul water drainage system that will drain to a septic tank within the site. The water from 
+septic tank would then discharge into an onsite drainage field. 
+2. A foul water drainage system that will drain to a package sewage treatment plant within the 
+site. The processed water from this treatment plant would then discharge into an onsite 
+drainage field or nearby watercourse. 
+Option 2 is likely to be the preferred option for ease of maintenance and environmental criteria.  
+The selected foul water drainage system will be positioned away from any areas at risk of flooding. 
+Site foul water drainage systems shall be designed and constructed in accordance with Part H of 
+the UK Building Regulations 2010. Any septic tank or package treatment plant shall be situated a 
+minimum of 10 metres from habitable buildings. We suggest the most appropriate siting of the 
+sewage treatment plant is in the area to the northwest of the accommodation building 
+(immediately northeast of the car parking area) in order to satisfy the aforementioned separation 
+requirement and allow ease of vehicular access for maintenance. 
+The proposed location of the sewage treatment plant is indicated in Figure 2-4. The most 
+appropriate outfall location would seem to be to the proposed drainage swale running along the 
+southwest boundary of the Generating Equipment Site. 
+3.2 
+OILY WATER DRAINAGE PROPOSAL 
+An oily water drainage system will be required to receive surface water from potentially 
+contaminated oil retaining areas and prevent contaminated water being discharged from the site. 
+The following areas and activities have been identified as potential sources of oil contamination:  
+ Oil filled transformers 
+ Lubrication systems for the Generating Equipment 
+ Oil/fuel storage 
+ Vehicle hard-standings used for the unloading of oil/fuel 
+In the event of a spillage all designated oil retaining areas (e.g. oil filled transformers and oil 
+storage areas) will be designed to contain at least 110% of the stored oil plus an allowance for 
+fire-fighting water/foam. Rainwater will be removed from oil retaining areas by an automatic pump 
+to the oily water drainage system. The automatic pumps will be designed to automatically shut 
+down in the event that a major oil spillage is detected in order to prevent large quantities of oil 
+entering the oily water drainage system.  
+8 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+Rainwater drainage from oily water areas will pass through a Class 1 Full Retention Oil Separator 
+(as defined in BS EN 858) to remove residual traces of oil before discharging into the site surface 
+water drainage system. The Oil Separator shall be sized to suit the oily water catchment area and 
+will be fitted with an alarm to indicate when the integral oil coalescer requires maintenance. 
+Oily water drainage shall be designed in accordance with National Grid Technical Specification 
+2.20 ‘Oil Containment at Electricity Substations and Other Operational Sites’ or similar approved. 
+Outline oily water drainage areas for the Generating Equipment Site are indicated in Figure 2-4. 
+3.3 
+SURFACE WATER DRAINAGE PROPOSAL 
+SURFACE WATER DRAINAGE PHILOSOPHY 
+The surface water drainage system will be required to adequately drain the Project Site and 
+prevent any significant flooding for the maximum design rainfall event of 100 year return period. 
+The surface water drainage system will adopt the principles of The SuDS Manual – CIRIA C697.  
+To prevent inundation of the Generating Equipment Site from surface runoff down the hillside, cut 
+off drainage ditches will be placed around the uphill Generating Equipment Site perimeter. These 
+new drainage ditches will be designed to divert surface runoff around the Generating Equipment 
+Site and return downstream back to the original drainage ditches/watercourse.  
+Where possible the new platform (levels and surfacing) will be designed so they naturally drain by 
+infiltration into the surrounding ground. Where this is not economically possible or presents an 
+unsatisfactory risk of flooding to the site, infiltration drains will be installed into the new platforms. 
+All infiltration drains will connect to the surface water drainage system.  
+It is not expected that it will be possible to connect the surface water drainage system to an 
+infiltration basin due to the presumed predominantly clayey ground and high groundwater level in 
+places. This will be confirmed when the Ground Investigation surveys are carried out. For the 
+purposes of this drainage strategy, a worst case is assumed. Instead the discharged flow of water 
+at the site boundary from the surface water drainage system will be attenuated in order to mimic 
+the equivalent greenfield runoff flow for events up to the 100 year return period event (with climate 
+change allowance). The flow will be attenuated using suitably sized attenuation pond(s) with 
+downstream flow restriction. The resulting equivalent greenfield runoff will discharge to existing 
+nearby watercourses. The attenuation pond(s) shall be sited to prevent flooding of operational 
+areas in the event of an extreme rainfall event in excess of the 100 year return period.  
+The Gas Connection comprises a buried pipeline and AGI. The Pipeline will not give rise to an 
+increase in impermeable area within the Project Site and impact upon the surface water run-off 
+regime.  
+The only permanent above ground structure associated with the gas connection is the Above 
+Ground Installation (AGI) at the point of connection to the National Transmission System. The AGI 
+consists of 2No 30m by 30m compounds and is proposed to drain to a soakaway. 
+Proposed new bituminous Power Generation Plant Site roads will generally have a constant 
+crossfall with no longitudinal fall. Where possible, roadside swales and infiltration drains will be 
+used to remove and convey any standing water into the surface water drainage system. Where 
+there are space constraints, or there is an elevated risk of contamination, the new roads will be 
+kerbed and drain via road gullies into the surface water drainage system.  
+Construction laydown areas and a maintenance yard are proposed to the west of the Generating 
+Equipment Area on the opposite side of the water main easement. We understand both laydown 
+and maintenance areas require granular finish (i.e. crushed rock pavement construction) at 
+commencement of construction in the Generating Equipment Area. The maintenance yard will be 
+9 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+retained on completion of construction, however the laydown areas will be returned to grassland  
+As a result, the construction laydown area runoff is omitted from calculations for permanent 
+construction runoff and it shall be considered in the CEMP only (refer to Section 3.5). 
+Culverts to route existing field drains under the proposed Access Road have been assumed in the 
+outline design, however, other techniques such as bridges could also be used. These culverts or 
+crossings will be designed for events up to the 100 year return period. It is expected that drainage 
+of the new section of Access Road will be via roadside swales. Swales will discharge to existing 
+watercourses via flow restriction device and piped outlets as necessary to approximate equivalent 
+greenfield runoff flows from the proposed road area. 
+A section of access road crosses the water main easement. At the time of writing, the form of this 
+crossing is unknown. The access road is likely to be raised due to restrictions on excavation 
+within the easement zone. In this case this section of road is likely to be formed on an 
+embankment above the easement (a causeway) or, if surcharge loading of the easement zone is 
+unacceptable, on a suspended bridge deck. Surface water runoff from the grassland/pasture area 
+to the north and upslope of the raised access road shall be allowed to passively drain through the 
+causeway due to installation of open pipes / culverts at regular spacings for the former option. A 
+suspended bridge structure would permit surface water runoff to flow unimpeded in the latter 
+option. We would expect any temporary drainage requirements during construction of a raised 
+access road to be addressed in the CEMP (refer to Section 3.5). 
+It is not proposed to connect existing road drainage systems into the new surface water drainage 
+system. Existing road drainage systems along the existing section of Access Road will be 
+maintained or modified to reflect any widening. 
+PROPOSED SUDS MANAGEMENT TRAIN 
+For purposes of this study it is assumed that the sensitivity of receiving watercourses is ‘Medium’. 
+In accordance with Table 3.3 of the ‘SuDS Manual’ (CIRIA, 2007) there shall be a minimum of 
+three SUDS management train techniques for drainage of runoff from general site development 
+areas: 
+1. TRAPPED GULLIES / FILTER DRAINS  
+As described above, where possible all proposed new bituminous road drainage will be 
+collected via roadside swales or infiltration drains. Where required the new platforms will 
+be drained via a filter drain. The swales and filter drains will be designed to minimise the 
+ingress of sediment into the drainage network. All new swales and drains on the 
+Generating Equipment Site will discharge into the proposed attenuation ponds and then 
+the existing watercourses. 
+2. ATTENUATION 
+The primary purpose of the attenuation pond is storage and gradual release of storm 
+water runoff, however it will have secondary benefits in terms of water treatment. The 
+pond geometry will be selected to promote settlement of any remaining suspended 
+sediment from inflow as the pond widens and flow velocity decreases towards its outfall. 
+Furthermore, in the unlikely accidental event of entry of pollutants from site activities to 
+the surface water drainage system, the attenuation pond provides access for water quality 
+sampling and retention of pollutants via closure of a valve within the outfall manhole prior 
+to remediation. 
+Periodic maintenance of the attenuation pond and its surrounding area will be required by 
+the Generating Equipment Site operator in order to remove significant silt deposits and 
+10 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+control vegetation. Suitable provision shall be made in the layout and levels of the pond 
+area to permit access by off-road vehicles to allow this maintenance to take place. 
+3. SWALE 
+The final measure within the SUDS system will be a drainage swale between the 
+attenuation pond and the un-named tributary of the Afon Llan (subject to agreement with 
+City and Council of Swansea). The swale will be incorporated into the landscaping and be 
+of a vegetated design to provide further filtering measures for any particles that have 
+passed through the previous control techniques.  
+Drainage from roads only requires application of two treatment train components. Therefore, the 
+proposed site access road will be drained via swales that shall provide storage attenuation with 
+controlled discharge, approximating to pre-development greenfield runoff, to existing 
+watercourses. 
+OUTLINE SIZING OF SITE ATTENUATION 
+Refer to Section 4 of this report for calculation of outline storage volume requirements. 
+3.4 
+SITE FLOOD RISK 
+The risk to the Project Site by flooding from external sources is outside the scope of this report 
+and is therefore not evaluated further herein.  
+Buildings, plant and equipment within the site will be elevated above the surrounding platform 
+level to avoid inundation by minor surface water flooding in the event of local drainage failure or 
+extreme rainfall events in excess of the 100 year return design event.  
+As a minimum a raised pedestrian access route will be provided to and within the site to provide 
+for safe access and egress during a flood.  
+3.5 
+SURFACE WATER DRAINAGE STRATEGY DURING CONSTRUCTION 
+Surface water drainage during construction will be developed by the contractor and detailed in the 
+Construction Environmental Management Plan (CEMP). At this stage it is expected that the CEMP 
+will include provisions such as:  
+ New temporary and /or permanent drainage ditches to prevent uncontrolled surface runoff of 
+contaminated water 
+ Silt traps within drainage ditches to reduce the flow of suspended solids from site. 
+ Settlement lagoons and / or proprietary settlement tanks as required to reduce the flow of 
+suspended solids from site. 
+ Suitable layout of the construction site and application of suitable management techniques to 
+prevent runoff from stockpiles directly into watercourses. 
+ 
+11 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+4 
+OUTLINE ATTENUATION 
+REQUIREMENTS – PERMANENT 
+CONSTRUCTION 
+4.1 
+SCOPE 
+The following figures are based on permanent construction only. Runoff and attenuation from 
+temporary construction hardstanding (e.g. construction laydown) and similar shall be considered 
+by the Contractor in the CEMP (refer to Section 3.5). 
+4.2 
+RAINFALL & RUNOFF 
+Site-specific rainfall has been derived using the HR Wallingford Flood Studies Report (FSR) for 
+the 100 year return storm with a range of storm durations for purposes of attenuation design.  
+This data is presented in Table 4.2-1 below. Note that a Climate Change factor of 120% has been 
+applied to the FSR calculated rainfall depths. This is in accordance with the upper bound figure 
+stated in Table 2 of the UK Environment Agency’s publication ‘Flood risk assessments: climate 
+change allowances’ (February 2016) for the period 2040 to 2069. The design life of the Abergelli 
+Power Project is 25 years. 
+Storm Event 
+M100-1 
+hour 
+M100-2 
+hours 
+M100-6 
+hours 
+M100-10 
+hours 
+M100-24 
+hours 
+M100-48 
+hours 
+M5-60 Rainfall 
+(mm/hr) 
+19 
+19 
+19 
+19 
+19 
+19 
+Required duration, D 
+(mins) 
+60 
+120 
+360 
+600 
+1440 
+2880 
+Ratio M5-60:M5-2day 
+0.24 
+0.24 
+0.24 
+0.24 
+0.24 
+0.24 
+Factor Z1 
+1.0 
+1.3 
+2 
+2.4 
+3.4 
+4.4 
+M5-D (mm) 
+19 
+24.7 
+38 
+45.6 
+64.6 
+83.6 
+Required storm return 
+(Years) 
+100 
+100 
+100 
+100 
+100 
+100 
+Factor Z2 
+2.022 
+2.022 
+2.022 
+2.022 
+2.022 
+2.022 
+M100-D Basic Rainfall 
+(mm) 
+38.4 
+49.9 
+76.8 
+92.2 
+130.6 
+169.0 
+Areal reduction factor 
+0.96 
+0.97 
+0.98 
+0.98 
+0.99 
+1 
+Climate change 
+growth factor 
+1.2 
+1.2 
+1.2 
+1.2 
+1.2 
+1.2 
+Total Design Rainfall 
+(mm) 
+44.3 
+58.1 
+90.4 
+108.4 
+155.2 
+202.8 
+Design Rainfall 
+Intensity (mm/hr) 
+44.3 
+29.1 
+15.1 
+10.8 
+6.5 
+4.2 
+Table 4.2-1 Site-specific rainfall calculations 
+Permanent site construction areas have been subdivided by category for purposes of runoff 
+calculation. Subdivision of the Equipment Generating Area is shown on drawing 70034053-SK-C-
+001 in Appendix A. A runoff coefficient has been allocated to each area type for determining the 
+proportion of rainfall that is converted to runoff. The permanent site area and runoff coefficients 
+are presented in Table 4.2-2. The chosen runoff coefficients represent the impermeability of the 
+area categories within the limits of 0.0 (no runoff) to 1.0 (100% of rainfall is converted to runoff) 
+12 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+and are benchmarked against equivalent values from industry publications. Note that the runoff 
+coefficients contain implicit allowances for minor ponding to ground surface during high intensity 
+rainfall events. 
+  
+Basic Area by Category (m2) 
+Assumed 
+Runoff 
+Coeff. 
+Equivalent Impermeable Area (m2) 
+  
+Generating 
+Equipment 
+Area 
+Access 
+Rd Extn 
+Maint-
+enance 
+Yard 
+Total 
+Site 
+Generating 
+Equipment 
+Area 
+Access 
+Rd Extn 
+Maint-
+enance 
+Yard 
+Building 
+Roofs 
+1825 
+0 
+0 
+1825 
+1.00 
+1825 
+0 
+0 
+Roads & 
+Car 
+Parking 
+4478 
+3600 
+0 
+8078 
+0.85 
+3806 
+3060 
+0 
+Oily 
+Water 
+Areas 
+985 
+0 
+0 
+985 
+0.95 
+936 
+0 
+0 
+General 
+Site 
+Areas*** 
+14239 
+0 
+3385 
+14239 
+0.80 
+11391 
+0 
+2708 
+Total 
+21527 
+3600 
+3385 
+25127 
+  
+17958 
+3060 
+2708 
+Equivalent Lumped Runoff Coefficient 
+0.834 
+0.850 
+0.800 
+Table 4.2-2 Permanent Site Areas and Associated Runoff Coefficients 
+Note *** - Assumed gravelled / granular surface finish 
+Runoff volumes are determined by multiplication of the rainfall depths by the equivalent 
+impermeable areas (the ‘Rational Method’). 
+4.3 
+ATTENUATION VOLUMES 
+GREENFIELD RUNOFF 
+Greenfield equivalent runoff rates are calculated individually for the permanent site area using the 
+procedure recommended in Institute of Hydrology report 124 ‘Flood Estimation for Small 
+Catchments’ and ‘Preliminary Rainfall Runoff Management for Developments’ (EA / DEFRA, 
+2005). See Table 4.3-1 below. Site soil type and annual average rainfall is derived from HR 
+Wallingford’s Flood Studies Report. 
+ 
+Site Area 
+ 
+Main Area 
+Access Rd Extn 
+Maintenance Yard 
+Hydrological Region 
+9 
+9 
+9 
+Soil Type 
+3 
+3 
+3 
+SPR 
+0.37 
+0.37 
+0.37 
+SOIL 
+0.4 
+0.4 
+0.40 
+SAAR (mm/year) 
+1600 
+1600 
+1600 
+Impermeable Area (Ha) 
+1.796 
+0.306 
+0.2708 
+IH 124 Reference Area (Ha) 
+50.0 
+50.0 
+50.0 
+Reference Area Greenfield Runoff 
+(L/s) 
+377.9 
+377.9 
+377.9 
+Site Area Greenfield Runoff (L/s) 
+13.6 
+2.31 
+2.05 
+Table 4.3-1 Greenfield Runoff Equivalent 
+13 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+STORAGE REQUIREMENTS 
+Outline attenuation requirements for the Generating Equipment Area, Access Road Extension 
+and Maintenance Yard areas are shown below in Tables 4.3-2, 4.3-3 and 4.3-4 respectively.  
+Storage volumes include a 25% increase to account for effects of varying pressure head – 
+discharge relationship upon initial filling of attenuation pond until the constant target discharge 
+rate is achieved. 
+ 
+Time from Storm 
+Commencement 
+(mins) 
+Storm Event 
+M100- 
+1 hour 
+M100- 
+2 hour 
+M100- 
+6 hour 
+M100- 
+10 hour 
+M100- 
+24 hour 
+M100- 
+48 hour 
+0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+5 
+77.8 
+49.3 
+23.1 
+15.2 
+7.0 
+2.8 
+10 
+155.6 
+98.5 
+46.2 
+30.4 
+14.0 
+5.6 
+15 
+233.3 
+147.8 
+69.3 
+45.6 
+21.0 
+8.4 
+30 
+466.7 
+295.5 
+138.6 
+91.1 
+42.0 
+16.9 
+60 
+933.4 
+591.0 
+277.1 
+182.3 
+84.1 
+33.8 
+120 
+872.3 
+1182.1 
+554.3 
+364.5 
+168.2 
+67.5 
+240 
+750.2 
+1059.9 
+1108.6 
+729.1 
+336.4 
+135.1 
+360 
+628.0 
+937.8 
+1662.9 
+1093.6 
+504.6 
+202.6 
+600 
+383.7 
+693.5 
+1418.6 
+1822.6 
+840.9 
+337.7 
+1440 
+0.0 
+0.0 
+563.6 
+967.7 
+2018.2 
+810.5 
+2880 
+0.0 
+0.0 
+0.0 
+0.0 
+552.5 
+1621.0 
+Maximum 
+933.4 
+1182.1 
+1662.9 
+1822.6 
+2018.2 
+1621.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.3-2 Generating Equipment Area Attenuation Requirements 
+ 
+Time from Storm 
+Commencement 
+(mins) 
+Storm Event 
+M100- 
+1 hour 
+M100- 
+2 hour 
+M100- 
+6 hour 
+M100- 
+10 hour 
+M100- 
+24 hour 
+M100- 
+48 hour 
+0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+5 
+12.9 
+8.4 
+3.9 
+2.6 
+1.2 
+0.5 
+10 
+25.8 
+16.8 
+7.9 
+5.2 
+2.4 
+1.0 
+15 
+38.7 
+25.2 
+11.8 
+7.8 
+3.6 
+1.4 
+30 
+77.4 
+50.4 
+23.6 
+15.5 
+7.2 
+2.9 
+60 
+154.8 
+100.7 
+47.2 
+31.1 
+14.3 
+5.8 
+120 
+144.4 
+201.4 
+94.4 
+62.1 
+28.7 
+11.5 
+240 
+123.6 
+180.6 
+188.9 
+124.2 
+57.3 
+23.0 
+360 
+102.8 
+159.8 
+283.3 
+186.3 
+86.0 
+34.5 
+600 
+61.2 
+118.2 
+241.7 
+310.6 
+143.3 
+57.5 
+1440 
+0.0 
+0.0 
+96.0 
+164.9 
+343.9 
+138.1 
+2880 
+0.0 
+0.0 
+0.0 
+0.0 
+94.1 
+276.2 
+Maximum 
+154.8 
+201.4 
+283.3 
+310.6 
+343.9 
+276.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.3-3 Access Road Extension Attenuation Requirements 
+ 
+ 
+14 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+ 
+Time from Storm 
+Commencement 
+(mins) 
+Storm Event 
+M100- 
+1 hour 
+M100- 
+2 hour 
+M100- 
+6 hour 
+M100- 
+10 hour 
+M100- 
+24 hour 
+M100- 
+48 hour 
+0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+5 
+11.4 
+7.4 
+3.5 
+2.3 
+1.1 
+0.4 
+10 
+22.8 
+14.9 
+7.0 
+4.6 
+2.1 
+0.8 
+15 
+34.2 
+22.3 
+10.4 
+6.9 
+3.2 
+1.3 
+30 
+68.5 
+44.6 
+20.9 
+13.7 
+6.3 
+2.5 
+60 
+137.0 
+89.1 
+41.8 
+27.5 
+12.7 
+5.1 
+120 
+127.8 
+178.3 
+83.6 
+55.0 
+25.4 
+10.2 
+240 
+109.4 
+159.8 
+167.2 
+109.9 
+50.7 
+20.4 
+360 
+91.0 
+141.4 
+250.7 
+164.9 
+76.1 
+30.6 
+600 
+54.1 
+104.6 
+213.9 
+274.8 
+126.8 
+50.9 
+1440 
+0.0 
+0.0 
+85.0 
+145.9 
+304.3 
+122.2 
+2880 
+0.0 
+0.0 
+0.0 
+0.0 
+83.3 
+244.4 
+Maximum 
+137.0 
+178.3 
+250.7 
+274.8 
+304.3 
+244.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4.3-4 Maintenance Yard Attenuation Requirements 
+15 
+ 
+Outline Drainage Strategy 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+5 
+CONCLUSION & RECOMMENDATIONS 
+The guidance within this report should be used as a basic methodology for development of the 
+detailed Abergelli site foul, oily water and storm water drainage design in accordance with the 
+appropriate design codes and standards. 
+ 
+ 
+ 
+ 
+Appendix A  
+GENERATING EQUIPMENT AREA – DRAINAGE CATCHMENT 
+AREAS 
+ 
+ 
+Abergelli Power Station  
+Flood Consequence Assessment 
+   
+Abergelli Power Limited 
+  
+ 
+ 
+Prepared for:  Stag Energy   
+ 
+AECOM 
+55 
+ 
+ 
+ 
+  
+ 
+aecom.com   
+ 
+ 
+ 
+ 

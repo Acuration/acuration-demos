@@ -1,0 +1,29 @@
+M
+Wire
+Battery
+Bulb
+Buzzer
+Switch  (off)
+Motor
+Switch (on
+Symbols for
+simple circuits
+DR1255-06
+A circuit is a collection of connected devices that allows electricity to flow from a 
+power source, typically a battery. 
+A battery has a positive point (+) and a negative point (-), and the electricity flows 
+from one point to the other. The electrical flow travels through a wire and can 
+power components such as a bulb, motor, or buzzer. 
+For a circuit to work, it must be complete and have no gaps. We can use a switch to 
+create a point where it’s possible to control the flow of electricity. The switch can be 
+open (so the circuit’s incomplete) or closed (to complete the circuit and make  
+it work).
+We can represent all the components in a circuit with a unique symbol:
+Close up!   
+Look at the battery’s negative and positive points and see 
+how they’re represented in the symbol.
+Battery
++
+–
+For more info and inspirational resources, visit 
+drax.com/resources/educational-resources

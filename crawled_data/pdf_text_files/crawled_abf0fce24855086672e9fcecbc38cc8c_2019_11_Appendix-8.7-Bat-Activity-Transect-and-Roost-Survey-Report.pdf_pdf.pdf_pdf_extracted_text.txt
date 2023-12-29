@@ -1,0 +1,8865 @@
+Appendix 8.7
+Bat Activity Transect and Roost
+Survey Report
+ 
+ 
+Abergelli Power Project  
+Bat Activity Transect and 
+Roost Survey Report  
+ 
+ 
+ 
+Abergelli Power Limited 
+November 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+1 
+ 
+ 
+ 
+Document Control 
+Document Properties 
+Organisation 
+AECOM 
+Author 
+Clare Morgans 
+Approved by (1st checker) 
+Lisbeth Nash 
+Approved by (2nd checker) 
+Kevin Webb 
+Title 
+Bat Activity Transect and Roost Survey Report 
+Document Reference 
+60542910 M1.003 
+Version History 
+Date 
+Version 
+Status 
+Description/Changes 
+30-11-17 
+V1.0 
+Draft 
+First draft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for: 
+Abergelli Power Limited 
+ 
+Prepared by: 
+ AECOM Limited 
+1 Callaghan Square 
+Cardiff 
+CF10 5BT 
+UK 
+ 
+T: +44 (0) 292 067 4600 
+aecom.com 
+  
+ 
+ 
+ 
+© 2016 AECOM Limited. All Rights Reserved.   
+This document has been prepared by AECOM Limited (“AECOM”) for sole use of our client (the “Client”) in accordance 
+with generally accepted consultancy principles, the budget for fees and the terms of reference agreed between AECOM 
+and the Client. Any information provided by third parties and referred to herein has not been checked or verified by 
+AECOM, unless otherwise expressly stated in the document. No third party may rely upon this document without the prior 
+and express written agreement of AECOM. 
+Where any conclusions and recommendations contained in this Report are based upon information provided by others, it 
+has been assumed that all relevant information has been provided by those parties and that such information is accurate. 
+Any such information obtained by AECOM has not been independently verified by AECOM, unless otherwise stated in the 
+Report. AECOM accepts no liability for any inaccurate conclusions, assumptions or actions taken resulting from any 
+inaccurate information supplied to AECOM from others. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+2 
+ 
+ 
+The methodology adopted and the sources of information used by AECOM in providing its services are outlined in this 
+Report. The work described in this Report was undertaken between 13 June 2017 and 17 October 2017 and is based on 
+the conditions encountered and the information available during the said period of time. The scope of this Report and the 
+services are accordingly factually limited by these circumstances. AECOM disclaim any undertaking or obligation to advise 
+any person of any change in any matter affecting the Report, which may come or be brought to AECOM’s attention after 
+the date of the Report. 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+3 
+ 
+ 
+CONTENTS 
+1. 
+Bat Survey Report ............................................................................................. 5 
+1.1 Introduction ............................................................................................... 5 
+1.2 Site Description ......................................................................................... 5 
+1.3 Proposed Project ....................................................................................... 6 
+1.4 Objectives of the Study ............................................................................. 6 
+1.5 Legislation ................................................................................................. 6 
+1.6 Quality Assurance ..................................................................................... 7 
+1.7 Methodology .............................................................................................. 7 
+1.8 Limitations ............................................................................................... 19 
+1.9 Baseline Environment ............................................................................. 21 
+1.10 Preliminary Project Site Assessment ....................................................... 41 
+1.11 Preliminary Potential Effects .................................................................... 51 
+1.12 Preliminary Recommendations for Further Surveys and Mitigtaion ......... 53 
+2. 
+References ...................................................................................................... 55 
+ 
+TABLES 
+Table 1.1 Building and Tree Bat Roost Potential Categories ...................................... 9 
+Table 1.2 Commuting and Foraging Habitat Potential Categories ............................ 13 
+Table 1.3 Survey Dates and Weather Conditions ..................................................... 16 
+Table 1.4 Desk Study Results .................................................................................. 21 
+Table 1.5 Building Ground Assessment Results ....................................................... 24 
+Table 1.6 Building Emergence/Re-entry Survey Results .......................................... 28 
+Table 1.7 Tree Emergence/Re-entry Survey Results ............................................... 33 
+Table 1.8 Bat Activity – Combined Walked Transect Results – Species Composition35 
+Table 1.9 Bat Activity – North Transect Results – Species Composition .................. 36 
+Table 1.10 Bat Activity – South Transect Results – Species Composition ................ 36 
+Table 1.11 Bat Activity – North Transect Results-BAI (bat passes/hr) by Listening Point 
+(Spatial Distribution) ................................................................................................. 37 
+Table 1.12 Bat Activity – South Transect Results – BAI (bat passes/hr) by Listening Point 
+(Spatial Distribution) ................................................................................................. 38 
+Table 1.13 Bat Activity – Listening Point Survey Times and BAI .............................. 38 
+Table 1.14 Bat Activity – North Transect Results 2017-BAI by Month (Temporal Distribution)
+ ................................................................................................................................. 40 
+Table 1.15 Bat Activity – South Transect Results 2017-BAI by Month (Temporal Distribution)
+ ................................................................................................................................. 40 
+Table 1.16 North Transect – BAI Results and Habitat Descriptions for LPs ............. 45 
+Table 1.17 South Transect – BAI Results and Habitat Descriptions for LPs ............. 46 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+4 
+ 
+ 
+PLATES 
+Plate 1.1 ................................................................................................................... 33 
+Plate 1.2 ................................................................................................................... 49 
+Plate 1.3 ................................................................................................................... 50 
+ 
+FIGURES 
+Figure 1 Phase 1 Habitat Map .................................................................................. 56 
+Figure 2 Building Bat Roost Ground Assessment Potential Categories and Tree Bat 
+Roost Climbed Inspection Categories .............................................................. 57 
+Figure 3.1 Bat Activity Transects North and South with Listening Points ................. 58 
+Figure 3.2 Bat Activity Transect North with Listening Points .................................... 59 
+Figure 3.3 Bat Activity Transect South with Listening Points .................................... 60 
+Figure 4.1 Building and Tree Roost Results  ............................................................ 61 
+Figure 4.2 BSG Building Results 2014  .................................................................... 62 
+Figure 5.1 Bat Activity Transect Results ................................................................... 63 
+Figure 5.2 Bat Activity Transect Results North ......................................................... 64 
+Figure 5.3 Bat Activity Transect Results South ......................................................... 65 
+ 
+APPENDICES 
+Appendix 1A Results of Preliminary Ground Level Roost Assessment – Buildings and 
+Trees and Results of Potential Roost Feature Climbed Inspection .................. 69 
+Appendix 2A BSG Report Buildlings with Potential for Roosting Bats ...................... 78 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+5 
+ 
+ 
+1. 
+Bat Survey Report  
+1.1 
+Introduction  
+1.1.1 
+AECOM was commissioned to undertake a suite of ecological survey work to 
+inform the Abergelli Power Project (the “Project”).  
+1.1.2 
+The Project Site is located near to the village of Felindre, Swansea, as shown in 
+Figure 1.1. The central grid reference for the Project Site is SN65280143. 
+1.1.3 
+The Preliminary Ecological Appraisal (PEA) Report (AECOM, 2017) identified that 
+surveys for bats were required at the Project Site.  The Project Site was assessed 
+as having ‘High’ commuting and foraging potential (Collins, 2016).  Four buildings 
+(outside of, but adjacent to the Project Site boundary) were assessed as having the 
+potential to support roosting bats (AECOM, 2017).  
+1.1.4 
+This baseline report outlines the presence of bat species within the Project Site 
+boundary and makes initial indications of potential effects and outlines initial 
+recommendations for further surveys, mitigation and enhancement.   
+1.1.5 
+The bat survey encompasses suitable habitat in close proximity to and within the 
+Project Site boundary, as shown on Figure 1 and Figures 3.1-3.3.  
+1.1.6 
+Previous surveys have been undertaken by BSG Ecology in 2014 which are 
+presented in Appendix 8.8 of the PEIR.  
+1.2 
+Site Description 
+1.2.1 
+The Project Site supports semi-natural broadleaved and plantation woodland, rows 
+of broadleaved trees, standalone broadleaved trees, dense and scattered scrub, 
+improved and semi-improved grassland and marshy grassland, tall ruderal, running 
+water ditches, ponds, species-rich hedgerow with trees, species-poor hedgerow 
+with trees, species-poor intact hedgerows, earth banks fences and bare ground 
+(hard standing). In order to cover the Project Site adequately two walked transects 
+were undertaken. 
+1.2.2 
+The walked transect North predominantly encompasses improved grassland fields 
+with hedgerows and mature tree lines. It also includes a few areas of dense scrub, 
+semi-improved neutral grassland, and a running water ditch (which is connected to 
+the Afon Llan watercourse outside of the Project Site) and a tree lined minor road 
+and track. 
+1.2.3 
+The walked transect South predominantly encompasses; marshy and improved 
+grassland fields with hedgerows and treelines, with ancient and semi-natural 
+woodland. It also includes semi-improved neutral grassland and areas of scattered 
+scrub.  There are three running water ditches and the walked transect runs 
+adjacent to a an area of running water on the eastern Project Site boundary which 
+connects to the Afon Llan watercourse, which is outside of the Project Site. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+6 
+ 
+ 
+1.2.4 
+Plates 1.2 and 1.3 show some of the transect habitat. 
+1.3 
+The Project  
+1.3.1 
+Full details of the Project and Site Description are provided in Chapter 3: Project & 
+Site Description 
+1.4 
+ Objectives of the Study  
+1.4.1 
+The objectives of this study were: 
+ 
+To identify nature conservation sites within the Project Site or within 10km of 
+the Project Site boundary designated for bats; 
+ 
+To identify any known records and/or populations of bats within the Project Site 
+or within 2km of the Project Site boundary; 
+ 
+To establish the presence of any bat roosts within the Project Site; 
+ 
+To establish bat species composition within the Project Site; 
+ 
+To record and map spatial distribution and temporal bat activity within the 
+Project Site;  
+ 
+To highlight any potential ecological constraints in respect to bats; 
+ 
+To outline further survey work that may be required; and, 
+ 
+To make suggestions for mitigation, compensation and enhancement of the 
+natural features identified within the Project Site in respect to bats.    
+1.5 
+Legislation 
+1.5.1 
+All bats and their roosts in Wales are fully protected under Schedule 5 of the 
+Wildlife and Countryside Act 1981 (as amended).  They are also included in 
+Schedule 2 of the Conservation of Habitats and Species Regulations 2010, known 
+as The Habitats Regulations.  The Wildlife and Countryside Act 1981 was amended 
+by the Countryside and Rights of Way Act 2000 (CRoW) which adds an extra 
+offence of recklessly disturbing roosting bats or obstructing access to their roosts; 
+makes species offences arrestable, increases the time limits for some prosecutions 
+and increases penalties.  
+1.5.2 
+The Wildlife and Countryside Act, the Habitats Regulations and the CRoW Act, 
+together make it an offence, among other things, to recklessly, intentionally or 
+deliberately: 
+ 
+Deliberately capture, injure or kill any wild animal of an EPS, 
+ 
+Deliberately disturb wild animals of any such species, and, 
+ 
+Damage or destroy a breeding site or resting place of such an animal 
+1.5.3 
+Disturbance is defined as that which is likely: 
+ 
+To impair their ability: 
+o To survive, to breed or reproduce, or to rear or nurture their young, or 
+o In the case of animals of a hibernating or migratory species, to hibernate 
+or migrate; or 
+ 
+To affect significantly the local distribution or abundance of the species to 
+which they belong. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+7 
+ 
+ 
+1.5.4 
+A bat roost is defined as “any structure or place (including trees) which any bat 
+uses for shelter or protection”.  Because bats tend to re-use the same roosts, legal 
+opinion is that the roost is protected whether or not the bat(s) are present at the 
+time.  
+1.5.5 
+If the proposed Project is likely to destroy or disturb bats or their roosts, then a 
+European Protected Species License (EPSL) will be required from Natural 
+Resources Wales (NRW), which would be subject to appropriate mitigation and 
+working methods to protect bats.  
+1.5.6 
+This is a brief summary of the legislation.  When dealing with individual cases, the 
+client is advised to consult the full texts of the relevant legislation and obtain further 
+legal advice. 
+1.6 
+Quality Assurance 
+1.6.1 
+This survey and subsequent report was undertaken in line with AECOM’s 
+Integrated Management System (IMS).  Our IMS places great emphasis on 
+professionalism, technical excellence, quality, environmental and Health and Safety 
+management.  All staff members are committed to establishing and maintaining our 
+certification to the international standards BS EN ISO 9001:2008 and 14001:2004 
+and BS OHSAS 18001:2007.  In addition, our IMS requires careful selection and 
+monitoring of the performance of all sub-consultants and contractors.   
+1.6.2 
+All AECOM Ecologists who worked on this project are members of (at the 
+appropriate level) the Chartered Institute of Ecology and Environmental 
+Management (CIEEM) and follow their code of professional conduct (CIEEM, 2013) 
+when undertaking ecological work.  
+1.7 
+Methodology 
+a) Desk study 
+1.7.1 
+The desk study was completed as part of the AECOM PEA (AECOM, 2017).  In 
+relation to bats, the objectives of the desk study were to review the existing 
+information available in the public domain to identify the following: 
+ 
+Special Areas of Conservation (SACs) and Sites of Special Scientific Interest 
+(SSSIs) designated for bats within a 10km radius of the Project Site boundary 
+paying due regard to Bat Conservation Trust (BCT) guidelines (Collins, 2016) , 
+using the Multi Agency Geographic Information for the Countryside (MAGIC) 
+website (NE, 2017);  
+ 
+Bat records up to 2km from the Project Site boundary, purchased from the 
+South East Wales Biodiversity Records Centre (SEWBReC);  
+ 
+Ancient Semi-Natural Woodland (ASNW), Plantation on Ancient Woodland Site 
+(PAWS), Restored Ancient Woodland Site (RAWS) or Ancient Woodland Site 
+of Unknown category (AWSU) within or adjacent to the Project Site using 
+Ancient Woodland Inventory 2011 dataset downloaded from the Lle website 
+(WG and NRW, 2017); 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+8 
+ 
+ 
+ 
+The Section 7 list of species of Principal Importance for Conservation of 
+Biological Diversity in Wales; and, 
+ 
+Features of ecological interest surrounding the Project Site, and features 
+connecting these habitats (e.g. hedgerows, watercourses, railway lines) using 
+aerial photographs and Ordnance Survey (OS) maps.   
+1.7.2 
+The County Ecologist and Glamorgan Bat Group was consulted regarding locally 
+designated site citations, local bat records not available from SEWBReC and any 
+local knowledge about the area. 
+b) Bat Roosts in Buildings 
+i. 
+Preliminary Ground Level Roost Assessments 
+1.7.3 
+There are no buildings within the Project Site. Buildings adjacent (adjacent is 
+defined as up to 20m from the Site boundary) to the Project Site boundary were 
+classified into categories dependent on the presence of features suitable as bat 
+roost habitat.   
+1.7.4 
+The assessment was conducted via an external appraisal from the ground using 
+binoculars where necessary.  Table 1.1 provides descriptions of the roost potential 
+categories for buildings.  
+ii. Emergence/Re-Entry Surveys  
+1.7.5 
+Surveys paid due regard to Bat Surveys: Good Practice Guidelines (Collins, 2016).  
+Each survey consisted of two surveyors stood around the buildings so that bats 
+could be observed leaving/re-entering Potential Roost Features (PRF).  Bat activity 
+was also recorded if observed by the surveyors.  
+1.7.6 
+Emergence surveys started at least 15 minutes before sunset and continued for 2 
+hours.  The dawn re-entry survey started at least 2 hours before sunrise and 
+continued until 15 minutes after sunrise.   
+1.7.7 
+Broadband frequency division detectors were used and digital recordings were 
+made to assist with species identification if required.   
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+9 
+ 
+ 
+Table 1.1 Building and Tree Bat Roost Potential Categories 
+Roost 
+Potential 
+Descriptions for Buildings 
+Descriptions for Trees 
+Known or 
+Confirmed 
+Confirmed signs of bat presence/ occupation 
+(droppings, oily staining around entry points, 
+insect remains, odour, scratching) and actual 
+bat presence.  
+Confirmed signs of bat 
+presence/ occupation 
+(droppings, oily staining 
+around entry points, 
+insect remains, odour, 
+scratching) and actual 
+bat presence.  
+High 
+A structure with one or more potential roost 
+sites that are obviously suitable for use by 
+larger numbers of bats on a more regular 
+basis and potential for longer periods of time 
+due to their size, shelter, protection, 
+conditions (e. g.  temperature, humidity, 
+height above ground level, light levels or 
+levels of disturbance) and surrounding 
+habitat.   
+Can include structures with points of access 
+to the interior of the building and poorly 
+maintained fabric providing ready access 
+points for bats into structures, but at the same 
+time not draughty.  Structures of traditional 
+stone, brick or timber construction.  
+Structures with large (>20cm) roof timbers 
+with mortice joints, cracks and holes.  
+Structures of pre or early 20th century 
+construction.  Structures with large 
+complicated and/or uncluttered roof spaces 
+providing unobstructed flying spaces.  
+Structures with weather boarding and/or 
+hanging tiles with gaps.  Structures with 
+accessible south facing roofs.  Structures with 
+proximity to good foraging habitat such as 
+woodland, wetland, water and /or good 
+hedgerows.  
+A tree with one or more 
+potential roost sites that 
+are obviously suitable 
+for use by larger 
+numbers of bats on a 
+more regular basis and 
+potential for longer 
+periods of time due to 
+their size, shelter, 
+protection, conditions (e. 
+g.  temperature, 
+humidity, height above 
+ground level, light levels 
+or levels of disturbance) 
+and surrounding habitat.  
+Moderate 
+A structure with one or more potential roost 
+sites that could be used by bats due to their 
+size, shelter, protection, conditions (e. g.  
+temperature, humidity, height above ground 
+level, light levels or levels of disturbance) and 
+surrounding habitat but unlikely to support a 
+roost of high conservation status.   
+Can include structures with some potential to 
+support roosting bats, but fewer features than 
+a high risk building.  Features may include 
+areas suitable for crevice dwelling and/or 
+access points into structures.  Some proximity 
+to foraging habitat.   
+A tree with one or more 
+potential roost sites that 
+could be used by bats 
+due to their size, shelter, 
+protection, 
+conditions 
+and surrounding habitat 
+but unlikely to support a 
+roost 
+of 
+high 
+conservation status.   
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+10 
+ 
+ 
+Roost 
+Potential 
+Descriptions for Buildings 
+Descriptions for Trees 
+Low 
+A structure with one or more potential roost 
+sites that could be used by individual bats 
+opportunistically.   
+However, these potential roost sites do not 
+provide enough space, shelter protection, 
+appropriate conditions and/or suitable habitat 
+to be used on a regular basis or by large 
+numbers of bats (i. e.  unlikely to be suitable 
+for maternity or hibernation).  
+Tree of sufficient size 
+and 
+age 
+to 
+contain 
+potential roost features 
+but with none seen from 
+the ground or features 
+seen have only very 
+limited 
+roosting 
+potential.   
+Negligible 
+No features suitable for roosting bats.   
+Can include structures constructed from 
+unsuitable materials e. g.  prefabricated with 
+steel and sheet material.  Structure is 
+draughty, light and cool buildings with no 
+roosting opportunities.  High levels of regular 
+disturbance including external and/or internal 
+lighting.  Building is isolated from areas of 
+foraging habitat.   
+Trees with no potential 
+to support bats.   
+Source: Category descriptions drawn from Collins, 2016 and Mitchell-Jones, 2004 to be applied using 
+professional judgement 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+11 
+ 
+ 
+c) Bat Roosts in Trees 
+i. 
+Preliminary Ground Assessment 
+1.7.8 
+Trees within or adjacent (adjacent is defined as up to 20m from the Site boundary) 
+to the Project Site boundary were classified into categories dependent on the 
+presence of features suitable as bat roost habitat.   
+1.7.9 
+Trees up to 50m from the Generating Equipment Site were classified into 
+categories dependent on the presence of features suitable as bat roost habitat. 
+1.7.10 The assessment was conducted via an external appraisal from the ground using 
+binoculars where necessary.  Table 1.1 provides descriptions of the roost potential 
+categories for trees.  
+1.7.11 Eleven trees with bat roost potential were identified during the PEA (AECOM, 
+2017).  Thirty four trees were identified during a ground level roost assessment of 
+trees in July 2017.   
+ii. Potential Roost Feature Climbed Inspection Survey  
+1.7.12 Following the ground level roost assessment trees which were assessed as having 
+‘Low or Moderate’ bat roost potential were subject to a PRF climbed inspection.  No 
+trees with High bat roost potential were identified.  
+1.7.13 These PRF climbed inspections were undertaken in August 2017.  The inspections 
+were completed by certified and bat licenced tree climbers.  
+1.7.14 The inspections paid due regard to Bat Surveys: Good Practice Guidelines (Collins, 
+2016), Bat Workers Manual (Mitchell-Jones and McLeish, 2004) and Bats and 
+Woodland Management (Forestry Commission, 2005).  
+1.7.15 Trees were climbed using ropes and/or ladders.  Once accessed, features were 
+examined in detail using a torch, endoscope or mirror to inspect (where possible) 
+the full extent of the features and search for bats or evidence of bat activity (e. g.  
+droppings, urine stains, odour, feeding remains, scratch marks, grease stains, wear 
+marks).  Where necessary, trees were re-categorised following the PRF climbed 
+inspection.  
+1.7.16 Two trees identified as having bat roost potential during the preliminary ground 
+level roost assessments were not climbed as they were approximately 20 and 55 
+metres outside of the Project Site boundary. 
+1.7.17 Sixteen trees could not be accessed and two could not be found during the PRF 
+climbed inspections, as described in the Limitations.  
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+12 
+ 
+ 
+iii. Emergence/Re-Entry Surveys  
+1.7.18 Following the ground level roost assessment and PRF climbed inspections, 
+emergence/re-entry surveys were undertaken on trees with a category of Moderate 
+or above.  
+1.7.19 Surveys paid due regard to Bat Surveys: Good Practice Guidelines (Collins, 2016). 
+Each survey consisted of one surveyor stood so that bats could be observed 
+leaving/re-entering the PRF. Bat activity was also recorded if observed by the 
+surveyors. 
+1.7.20 Emergence surveys started at least 15 minutes before sunset and continued for 2 
+hours (see Limitations). The dawn re-entry survey started at least 2 hours before 
+sunrise and continued until 15 minutes after sunrise.  
+1.7.21 Broadband frequency division detectors were used and digital recordings were 
+made to assist with species identification if required. The weather conditions during 
+the surveys were recorded and were largely considered favourable for bats.  
+Survey dates and weather conditions are given in Table 1.3. 
+d)  Bat Activity Surveys 
+i. 
+Preliminary Assessment of Potential Commuting and Foraging Habitat 
+1.7.22 The Project Site was assessed as having High commuting and foraging potential 
+for bats (Collins, 2016) during the PEA (AECOM, 2017).  Habitats within the Project 
+Site were classified into categories dependent on the presence of features suitable 
+for bats to commute and forage.  Table 1.2 provides category descriptions for 
+commuting and foraging habitat.  
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+13 
+ 
+ 
+Table 1.2 Commuting and Foraging Habitat Potential Categories 
+Roost Potential 
+Descriptions 
+High 
+Continuous high-quality habitat that is well connected to the wider 
+landscape that is likely to be used regularly by commuting bats 
+such as river valleys, streams, hedgerows, lines of trees and 
+woodland edge.   
+High-quality habitat that is well connected to the wider landscape 
+that is likely to be used regularly by foraging bats such as 
+broadleaved woodland, tree-lined watercourses and grazed 
+parkland. 
+Site is close to and connected to known roosts.  
+Moderate 
+Continuous habitat connected to the wider landscape that could 
+be used by bats for commuting such as lines of trees and scrub or 
+linked back gardens.   
+Habitat that is connected to the wider landscape that could be 
+used by bats for foraging such as trees, scrub, grassland or 
+water.   
+Low 
+Habitat that could be used by small numbers of commuting bats 
+such as a gappy hedgerow or un-vegetated stream, but isolated, 
+i. e.  not very well connected to the surrounding landscape by 
+other habitat.   
+Suitable, but isolated habitat that could be used by small number 
+of foraging bats such as a lone tree (not in a parkland situation) or 
+a patch of scrub.   
+Negligible 
+Negligible habitat features on site likely to be used by commuting 
+or foraging bats.   
+Source: Category descriptions drawn from Collins, 2016 to be applied using professional judgement  
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+14 
+ 
+ 
+ii. Bat Activity – Walked Transects 
+1.7.23 Surveys paid due regard to Bat Surveys: Good Practice Guidelines (Collins, 2016).  
+Two walked transect routes were developed to sample the Project Site, one in the 
+north and one in the south. These are shown on Figures 3.1-3.3.  
+1.7.24 Each transect was walked twice per month. Dusk activity surveys were completed 
+in June, July, August, September and October 2017. One dusk and dawn survey 
+within one 24 hour period was completed in September 2017.  
+1.7.25 No surveys were completed in April and May 2017 due to the late commencement 
+of the Project.   Activity surveys following the methodology above are due to be 
+undertaken in April and May 2018.  
+1.7.26 Each survey consisted of two surveyors walking a pre-determined transect route at 
+a steady pace across the Project Site.  The start point and direction of each 
+transect was varied across the months to reduce bias. 
+1.7.27 The transect contained set Listening Points (LPs) which the surveyors stopped at 
+for three minutes.  Each transect contained 12 LPs, with the exception of the first 
+set of surveys in June which had 11 LPs (see Limitations). The locations of the LPs 
+are shown on Figures 3.1 to3.3.  
+1.7.28 Tables 1.17 and 1.18 describe the habitat at each of the LPs. 
+1.7.29 Dusk transect surveys began 15 minutes before sunset and continued for up to 3 
+hours after sunset, except for on one occasion (see Limitations).  The dawn 
+transect started at least 2 hours before sunrise and continued until sunrise, except 
+for on one occasion (see Limitations).   
+1.7.30 A broadband frequency division detector was used (Bat Box Duet with EM3) and 
+digital recordings made to assist with species identification if required.   
+1.7.31 The weather conditions for all but one of the surveys (see Limitations) completed to 
+date was considered to be favourable for bats.  The weather conditions and survey 
+dates are given in Table 1.3. 
+e) Data Analysis and Interpretation 
+1.7.32 Bat echolocation call analysis where required was undertaken by a suitably 
+experienced ecologist, with support from reference material including the British Bat 
+Calls Species Identification Guide (Russ, 2012).  The Analook software programme 
+was used to analyse bat calls.  
+1.7.33 Long-eared bats have very quiet calls and these are often not recorded on bat 
+detectors but may be audible using bat detectors. Where long-eared bats are 
+suspected but the call has not been recorded then the long-eared bat (possible) 
+category has been used. This is shown in Tables 1.8 to 1.12. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+15 
+ 
+ 
+1.7.34 Using the walked transect data, a Bat Activity Index (BAI) was calculated as the 
+number of passes per hour divided by the survey time.  Survey time has been 
+calculated to the nearest 15 minutes, expressed as 0.25 hours, to account for minor 
+differences in survey duration (see Limitations).  
+1.7.35 Bat activity is an indication of the amount of use bats make of an area (Collins, 
+2016). A bat pass is defined by BCT as a sequence of greater than two 
+echolocation calls made as a single bat flies past the microphone (BCT, 2017).  A 
+bat pass is an index of bat activity rather than a measure of number of individuals in 
+a population (Collins, 2016).  
+1.7.36 Calculated values within this report have been given to one decimal place, except 
+for in Table 1.13.  
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+16 
+ 
+ 
+Table 1.3 Survey Dates and Weather Conditions 
+Survey Date 
+Sunset/ 
+Sunrise 
+Time 
+Start 
+Time 
+End 
+Time 
+Survey Type 
+Surveyors 
+Temp 
+(°C ) 
+Start/ 
+End 
+Humidity 
+(%) 
+Start/ 
+End 
+Wind 
+Speed Avg.  
+(mph) 
+Start/ 
+End 
+Cloud 
+Cover 
+(Octars) 
+Start/ 
+End 
+Rain 
+13 June 2017 
+21:34 
+21:19 
+00:27 
+South Transect 
+LN & CM 
+13.7 
+12.6 
+87.4 
+86. 5 
+0.0 
+0.0 
+1/8 
+0/8 
+None 
+14 June 2017 
+21:35 
+21:20 
+00:18 
+North Transect 
+LN & CM 
+19.5 
+14.0 
+66.6 
+80.3 
+0.0 
+0.0 
+7/8 
+8/8 
+None 
+26 June 2017 
+21:38 
+21:23 
+21:23 
+00:19 
+00:51 
+North Transect 
+South Transect 
+LN & UJ 
+CM & BW 
+15.9 
+Nr 
+74.4 
+Nr 
+0.0 
+Nr 
+8/8 
+Nr 
+Light rain at 
+23:16 for a 
+few minutes 
+06 July 2017 
+21:34 
+21:20 
+00:35 
+South Transect 
+LN & UJ 
+16.9 
+17.1 
+85.4 
+86.3 
+0.0 
+0.0 
+1/8 
+7/8 
+None 
+10 July 2017 
+21:32 
+21:20 
+00:28 
+North Transect 
+UJ & SB 
+14.0 
+15.7 
+83.0 
+85.0 
+0.7 
+0.6 
+5/8 
+8/8 
+Very light 
+drizzle at 
+00:20 
+24 July 2017 
+21:17 
+21:00 
+21:00 
+00:17 
+00:17 
+North Transect 
+South Transect 
+LF & SB 
+LN & NW 
+17.3 
+13.0 
+75.8 
+86.0 
+0.0 
+0.0 
+1/8 
+0/8 
+None 
+07 August 2017 
+20:55 
+20:39 
+20:40 
+23:44 
+00:00 
+North Transect 
+South Transect 
+UJ & SB 
+LN & LF 
+13.0 
+17.0 
+81.0 
+81 0 
+F1 - Light 
+Wind 
+(Baufort 
+Scale) 
+2/8 
+8/8 
+None 
+08 August 2017 
+20:53 
+20:30 
+22:53 
+Building 3 – Roost  
+LN & LF 
+14.9 
+12.9 
+82.0 
+85.2 
+0.0 
+0.7 
+6/8 
+5/8 
+None 
+09 August 2017 
+05:51 
+03:47 
+03:41 
+06:06 
+06:06 
+Tree 36 – Roost 
+Tree 44 – Roost 
+LN 
+LF 
+15.2 
+12.5 
+79.4 
+93.8 
+0.0 
+0.6 
+8/8 
+Nr 
+Light rain 
+but 
+sheltered in 
+woodland 
+15 August 2017 
+20:39 
+20:24 
+20:24 
+22:39 
+22:39 
+Tree 3 – Roost 
+Tree 19 – Roost  
+LF 
+UJ 
+15.7 
+12.1 
+83.3 
+92.8 
+0.0 
+0.9 
+3/8 
+2/8 
+None 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+17 
+ 
+ 
+Survey Date 
+Sunset/ 
+Sunrise 
+Time 
+Start 
+Time 
+End 
+Time 
+Survey Type 
+Surveyors 
+Temp 
+(°C ) 
+Start/ 
+End 
+Humidity 
+(%) 
+Start/ 
+End 
+Wind 
+Speed Avg.  
+(mph) 
+Start/ 
+End 
+Cloud 
+Cover 
+(Octars) 
+Start/ 
+End 
+Rain 
+20:20 
+22:39 
+Tree 21 – Roost  
+LN 
+21 August 2017 
+20:27 
+20:12 
+22:27 
+Building 4 – Roost 
+UJ & RS 
+20.1 
+18.4 
+81.4 
+86.1 
+0.0 
+0.0 
+8/8 
+6/8 
+None, light 
+drizzle day 
+before 
+23 August 2017 
+20:23 
+20:08 
+20:08 
+23:23 
+23:19 
+North Transect 
+South Transect 
+LN & LF 
+UJ & CM 
+15.7 
+15.0 
+83.7 
+91.5 
+0.8 
+1.2 
+4/8 
+7/8 
+Light rain at 
+21:20 for a 
+few minutes 
+29 August 
+20:05 
+19:35 
+19:30 
+22:05 
+22:05 
+Tree 36 – Roost 
+Tree 44 – Roost 
+LN 
+CM 
+14.2 
+11.0 
+76.5 
+85.6 
+0.0 
+0.0 
+7/8 
+7/8 
+None 
+30 August 2017 
+06:23 
+04:23 
+04:21 
+04:23 
+06:38 
+06:38 
+06:38 
+Tree 3 – Roost 
+Tree 19 – Roost  
+Tree 21 – Roost 
+RS 
+CM 
+LN 
+11.3 
+12.7 
+100.0 
+89.7 
+0.9 
+0.0 
+8/8 
+8/8 
+Rain until 
+04:40, then 
+dry 
+31 August 2017 
+06:26 
+04:26 
+06:41 
+Building 4 – Roost 
+LN & CM 
+11.7 
+8.9 
+91.4 
+90.7 
+0.0 
+0.7 
+5/8 
+1/8 
+None 
+06 September 
+2017 
+06:35 
+04:35 
+04:35 
+06:50 
+06:50 
+Building 3 – Roost 
+Tree 19 - Roost 
+LN & SB 
+UJ 
+14.8 
+11.4 
+85.1 
+89.3 
+0.0 
+0.6 
+8/8 
+3/8 
+None 
+07 September 
+2017 
+06:37 
+04:37 
+04:37 
+06:42 
+06:37 
+North Transect 
+South Transect 
+LN & LF 
+UJ & SB 
+14.1 
+13.0 
+80.1 
+82.3 
+0.0 
+0.0 
+8/8 
+6/8 
+None 
+11 September 
+2017 
+19:40 
+19:25 
+22:27 
+North Transect 
+UJ & BW 
+13.2 
+11.2 
+89.2 
+87.2 
+0.6 
+1. 2 (max) 
+3/8 
+0/8 
+Day before, 
+dry during 
+survey 
+12 September 
+2017 
+06:45 
+04:45 
+06:44 
+North Transect 
+LN & SB 
+10.1 
+10.3 
+86.6 
+89.9 
+0.8 
+0. 9 
+1/8 
+1/8 
+Showers 
+day before, 
+dry during 
+survey 
+13 September 
+2017 
+06:47 
+04:17 
+06:42 
+South Transect 
+LN & SB 
+10.4 
+11.0 
+80.3 
+85.1 
+2.3 
+2. 3 
+1/8 
+3/8 
+Rain in 
+night, dry 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+18 
+ 
+ 
+Survey Date 
+Sunset/ 
+Sunrise 
+Time 
+Start 
+Time 
+End 
+Time 
+Survey Type 
+Surveyors 
+Temp 
+(°C ) 
+Start/ 
+End 
+Humidity 
+(%) 
+Start/ 
+End 
+Wind 
+Speed Avg.  
+(mph) 
+Start/ 
+End 
+Cloud 
+Cover 
+(Octars) 
+Start/ 
+End 
+Rain 
+during 
+survey 
+13 September 
+2017 
+19:36 
+19:21 
+22:27 
+South Transect 
+UJ & BW 
+15.0 
+9.0 
+72.0 
+88.6 
+0.0 
+2.4 
+7/8 
+8/8 
+Rain before 
+survey. Dry 
+at start of 
+survey. Light 
+rain at 
+21:33.  
+Heavy rain 
+at 21:50, 
+lighter rain 
+at 22:17.  
+03 October 
+2017 
+18:50 
+18:35 
+18:36 
+21:50 
+21:50 
+North Transect 
+South Transect 
+BW & SB 
+LN & RS 
+11.4 
+12.9 
+75.8 
+73.4 
+0.8 
+1.2 
+2/8 
+8/8 
+None 
+17 October 
+2017 
+18:19 
+18:04 
+18:04 
+21:18 
+21:18 
+North Transect 
+South Transect 
+UJ & RS 
+CM & SB 
+13.0 
+13.0 
+Nr 
+Nr 
+0.0 
+0.0 
+7/8 
+7/8 
+None 
+Nr=not recorded 
+LN – NRW Bat Licenced Ecologist, UJ – Senior Ecologist, LF – Ecologist, CM – Ecologist, BW – NRW Bat Licenced Ecologist, SB – Assistant Ecologist, RS – 
+Sustainability Consultant, NW – Environmental Consultant.   
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+19 
+ 
+ 
+1.8 
+Limitations 
+1.8.1 
+Biological records can be received from a wide variety of sources and may or may 
+not be comprehensive and accurate.  However, if assessed in conjunction with a 
+survey, they can contribute to a robust ecological assessment of a site.   
+a) 
+Potential Roost Feature Climbed Inspection Survey  
+1.8.2 
+There are 16 trees which were not climbed due to access and/or health and safety 
+restrictions and there are two trees which were not climbed as they could not be 
+found due to dense woodland, however were the subject of emergence survey at a 
+later date.  These trees did not have their bat roost potential category altered from 
+the original assigned category and all trees with a Moderate bat roost potential 
+category subsequently had an emergence/re-entry surveys. Therefore this is not 
+deemed to be a significant limitation.  
+b) 
+Roost Survey  
+1.8.3 
+Building 1 was not fully assessed due to time constraints (AECOM, 2017). However 
+this building is approximately 120m outside of the Project Site boundary and no 
+further surveys were considered necessary on this building. Therefore this is not a 
+significant limitation.  
+1.8.4 
+Access was not granted to Buildings 6, 7 and 8 (collectively known as Abergelli 
+Farm) to the west of, but outside, the Project Site and these could not be assessed 
+for their potential to support roosting bats.  However, these buildings (BSG 
+Buildings 3, 4 and 5) were previously assessed by BSG (PEIR Appendix 8.8) (see 
+Table 1.4).  The previous results will be used in the assessment. 
+c) Bat Activity Walked Transect Survey 
+1.8.5 
+The first set of June walked transect surveys had 11 LPs per transect, this was 
+increased to 12 LPs per transect for all subsequent surveys.  This was done to 
+increase the spread of sample points.  This is not deemed to be a significant 
+limitation to the surveys or this report.  
+1.8.6 
+On 10 July 2017 during the Northern Transect the SD recording card briefly came 
+out of the EM3 bat detector and calls during that period were not recorded 
+electronically.  However, this was replaced and all bats heard during the period 
+were recorded on the survey sheet and were of common species which the 
+surveyor was able to determine species identification with confidence.  This is not 
+deemed to be a significant limitation to the survey or the results.   
+1.8.7 
+On 13 September 2017 the dawn South Transect survey finished at 06:42 which 
+was 5 minutes before sunrise, however no bats had been heard since 06:16 and 
+therefore this is not deemed to be a significant limitation. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+20 
+ 
+ 
+1.8.8 
+On a small number of occasions surveyors walked past an LPs or LPs were not 
+accessible meaning that bat data was not recorded for 3 minutes at that location. 
+For calculations of Bat Activity Index, the survey time at each LP has been adjusted 
+to reflect this variation and should mitigate the impact of this limitation of the 
+comparisons of bat activity between LPs. The occasions are listed below:  
+ 
+On 10 July 2017 North Transect LP 4 was missed;   
+ 
+On 23 August and 7, 11 and 12 September 2017, North Transect LP1 was not 
+accessible due to horses being present in the field. A replacement LP was 
+completed as close as possible to the original location at LP1a, as shown on 
+Figure 5.2; 
+ 
+On 7 and 13 September 2017 LP7 on the South Transect not accessible due to 
+the presence of rams in the field.  On 7 September 2017, LP9 was missed, this 
+was replaced with LP9a (see Table 1. 11, LP9a and Figure 5. 3).  As LP9 was 
+replaced with another LP close to the original location, this is not deemed to be 
+a significant limitation;  
+ 
+On 3 October 2017, LP9 was missed, this was replaced with LP9b (See Table 
+1. 11, LP9b and Figure 5. 3).  As LP9 was replaced with another LP close to 
+the original location, this is not deemed to be a significant limitation.  
+1.8.9 
+No surveys were completed in April and May 2017 due to the late commencement 
+of the Project.  Best practice guidelines recommend transect surveys are 
+undertaken between April and October (Collins, 2016).  Activity walked transect 
+surveys following the methodology described above are due to be undertaken in 
+April and May 2018.   
+1.8.10 The weather conditions encountered on the dusk transect surveys on 13 
+September 2017 (see Table 1.3) were not considered wholly favourable for bats, 
+but not so bad as to need to abandon the survey.  There was light rain at 21:33 and 
+a spell of heavy rain between 21:50 and 22:17.  The North Transect was also 
+sampled at dusk on 11 September 2017 in September in favourable weather 
+conditions. 
+1.8.11 It was not possible to incorporate land within the National Grid land within a walked 
+bat activity transect due to due to site access restrictions at night and during the 
+early morning.     
+d) Data Analysis and Interpretation 
+1.8.12 Different bat species vary in their likelihood of detection using bat detectors and 
+therefore it is not relevant to compare numbers of bat passes from different species 
+(Collins, 2016).   
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+21 
+ 
+ 
+1.9 
+Baseline Environment 
+a) 
+Desk Study Results 
+1.9.1 
+The designated habitats, sites and features, in relation to bats, within proximity to 
+the Project Site are listed in Table 1.4 below.   
+Table 1.4 Desk Study Results 
+Designation 
+/ 
+Feature 
+Description 
+Nationally 
+and 
+Internationally 
+Designated Sites for 
+bats within 10km  
+There are no sites designated for bats within 10km of the Project 
+Site boundary.  
+Locally 
+Designated 
+Sites within 2km 
+There are several locally designated sites within 2km of the 
+Project Site boundary (AECOM, 2017). However, none of these 
+are designated for bats or specifically mention bat species on the 
+citations   
+Bat records from the 
+last 10 years within 
+2km 
+The following recent (last 10 years) bat species have been 
+recorded within 2km of the Project Site: 
+Daubenton's Myotis daubentonii, Natterer's Myotis nattereri, 
+Noctule Nyctalus noctule, pipistrelle species Pipistrellus sp., 
+common pipistrelle Pipistrellus pipistrellus, soprano pipistrelle 
+Pipistrellus pygmaeus, long-eared species Plecotus sp., brown 
+long-eared Plecotus auritus and generic records of bat species 
+Chiroptera.  
+None of these  records of bats were from within the Project Site  
+There are records of known roost sites within 2km of the Project 
+Site as follows: 
+ 
+A noctule tree roost approximately 1km north-west of the 
+Project Site boundary; 
+ 
+Common pipistrelle roost approximately 1.3km east of the 
+project Site boundary; 
+ 
+A common pipistrelle roost approximately 1.8km south-east 
+ 
+A common pipistrelle roost approximately 1km southeast of 
+the project Site boundary; 
+ 
+A common pipistrelle roost approximately 1km north-west of 
+the Project Site boundary; 
+ 
+A soprano pipistrelle roost approximately 2km south-west of 
+the Project Site boundary; 
+ 
+A soprano pipistrelle roost approximately 2km north-west of 
+the project site boundary; 
+ 
+A long-eared bat and brown-long-eared bat  roost 
+approximately 1.6km east of the Project Site boundary; and 
+ 
+A long-eared bat and brown long-eared bat roost 
+approximately 1.1km north-west of the Project Site. 
+The specific location of the bat roosts is confidential.   
+Priority 
+Species 
+– Barbastelle 
+Barbestella 
+barbastellus, 
+Bechstein’s 
+Myotis 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+22 
+ 
+ 
+Designation 
+/ 
+Feature 
+Description 
+Listed 
+on 
+The 
+Environment 
+Act 
+(Wales) 2016 Section 
+7 
+bechsteinii, brown long-eared, greater horseshoe and lesser 
+horseshoe bats are listed on the Section 7 list.  
+Ancient Woodland 
+The following five areas have been identified: 
+ 
+An 8.1ha area of RAWS within and extending south-west 
+outside the Project Site. Part of this RAWS is known as 
+Waun ffyrdd Plantation 
+ 
+A 15.1 ha area of ASWU within and extending south-west 
+outside the Project Site.  Part of this ASWU area covers the 
+National Grid site which is currently hardstanding and the 
+ASWU is no longer present; 
+ 
+A 0. 9ha area of PAWS adjacent to the south-west Project 
+Site boundary;  
+ 
+A 4.3ha area of RAWS within and adjacent to the Project 
+Site boundary in the south-west; and, 
+ 
+A 1.6ha ASNW, adjacent to the east of the Project Site 
+boundary.  This area is also subject to Tree Protection 
+Orders (AECOM, 2017).   
+Surrounding 
+Land 
+Use 
+The Project Site is located north of Junction 46 of the M4 
+Motorway close to the village of Felindre, Swansea.  
+The Project Site has agricultural fields to the east, south and 
+north.  Areas of woodland are located to the south, east and west 
+of the Project Site.  Areas of the National Grid Power Station with 
+associated roads and buildings are partially within and adjacent to 
+the Project Site.  A water treatment works is located in the north 
+west outside of the Project Site.  
+County Ecologist 
+The County Ecologist was contacted by email on 9 November 
+2017 to gather any local knowledge of bat species and bat 
+habitats in proximity to the Site.  To date AECOM has not 
+received a response.  
+Local Bat Group 
+The local bat group was contacted by email on 9 November 2017 
+to gather any local knowledge of bat species and bat habitats in 
+proximity to the Site.  To date AECOM has not received a 
+response.  
+Previous Bat Roost 
+and Activity Surveys -  
+BSG Ecology 2014  
+Previous surveys have been undertaken by BSG Ecology. See 
+PEIR Appendix 8.8 . 
+ 
+The Site boundary included within these reports is different to the 
+2017 Project Site boundary. The 2017 Project Site is smaller than 
+the red line boundary used by BSG in 2014, however lies entirely 
+within the area covered by the 2014 BSG surveys. A summary of 
+the previous bat species surveys is detailed below: 
+Building – Ground Level Roost Assessments and Internal 
+Inspections 
+Eleven buildings with bat roost potential were identified.  Internal 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+23 
+ 
+ 
+Designation 
+/ 
+Feature 
+Description 
+inspections of buildings confirmed non- maternity roosts in three 
+buildings. These are shown in Appendix 2A: 
+ BSG Building 4: A scattering of long-eared bat, pipistrelle and 
+lesser horseshoe bat droppings were found in the store rooms; 
+ BSG Building 8: Small piles of long-eared bat and pipistrelle 
+droppings found in both first and second storey at the north of 
+the building; and,  
+ BSG Building 10: Two pipistrelle droppings were found on the 
+floor.  
+ 
+BSG Building 1, 2, 5 and 11 were categorised as having 
+Moderate bat roost potential.  BSG Building 7 was categorised as 
+having Low bat roost potential.  BSG Building 3 and 9 were 
+categorised as having Negligible bat roost potential (Hundt, 
+2012). 
+The buildings identified by BSG in 2014 fall outside of the 2017 
+Project Site.  However, some of these buildings adjacent to the 
+Project Site have been reassessed by AECOM in 2017.  Details 
+are provided in Table 1.5.   
+ 
+Tree – Ground Level Roost Assessments 
+Thirty three trees were considered to have potential to support 
+roosting bats.  29 of these were subject to a climbed inspection. 
+Emergence and/or re-entry surveys were carried out on eight 
+trees.  BSG Trees T3, T4 and T9 are located within the 2017 
+Project Site.  No bats were recorded emerging or re-entering any 
+potential roost features. No tree roosts were identified. Trees 
+within the Project Site have been reassessed by AECOM in 2017.  
+Details are provided in Section 1. 11.  
+Bat Activity Walked Transect Surveys 
+At least seven species of bat were recorded during transect 
+surveys; common pipistrelle, soprano pipistrelle, Myotis sp., long-
+eared bat, noctule, Leisler’s bat, and lesser horseshoe bat.  All of 
+these species and an additional three were recorded during 
+automated 
+static 
+detector 
+surveys; 
+Nathusius’ 
+pipistrelle 
+Pipistrellus nathusii, serotine Eptesicus serotinus and greater 
+horseshoe Rhinolophus ferrumequinum.   
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+24 
+ 
+ 
+b) Bat Roost Survey Results 
+i. 
+Bat Roosts in Buildings 
+Buildings - Preliminary Ground Level Roost Assessments 
+1.9.2 
+Five buildings were assessed for their potential to support roosting bats in 2017 
+and 11 buildings were assessed by BSG in 2014.  The results of the assessment 
+are provided in Table 1.5.  
+1.9.3 
+Building locations are provided in Figure 2. A map showing the AECOM 2017 
+results is provided in Figure 4.1 and a map showing the 2014 BSG building 
+locations is provided in Figure 4.2. 
+1.9.4 
+Access was not granted to Buildings 6, 7 and 8 (known as Abergelli Farm) in 2017 
+(outside the Project Site) and therefore these could not be assessed for their 
+potential to support roosting bats in 2017.  Details are given in Section 1.9 
+Limitations.   
+Table 1.5 Building Ground Assessment Results 
+AECOM 
+Building 
+Number 
+(2017) 
+BSG 
+Building 
+Number 
+(PEIR 
+Appendi
+x 8.8) 
+Building Description from Ground Level Roost 
+Assessment  
+Initial BRP 
+Category  
+1 
+Not 
+surveyed. 
+A residential bungalow.  Approximately 120m 
+outside of the Project Site boundary to the north-
+east.  This was not fully assessed due to time 
+constraints of the PEA survey (AECOM, 2017).  
+This is a modern building with a tiled roof.  There 
+were no obvious gaps.  House sparrows were 
+observed using spaces in the roof.  
+AECOM 2017: Low 
+BSG 
+2014: 
+Not 
+Surveyed 
+2  
+BSG 8 
+External out building within Abergelli Farm yard. 
+Approximately 75m outside of the Project Site 
+boundary to the west.  A brick built building with a 
+tower and asbestos pitched roof.  There are 
+potential  fly-in access points and features suitable 
+for crevice dwelling species such as pipistrelle   
+ 
+BSG Identified: 
+“Single storey brick barn with second story tower at 
+the northern end.  Multiple fly-in opportunities to 
+both storeys.  Small piles of long-eared bat and 
+pipistrelle droppings found in both first and second 
+storey at the north of the building“ (PEIR Appendix 
+8.8). 
+AECOM 2017: High 
+BSG 
+2014: 
+Confirmed Roost.  
+3 
+BSG 7 
+Approximately 5m outside of the Project Site 
+boundary to the west.  A single story brick built out 
+building with a pitched asbestos roof.  There are 
+AECOM 
+2017: 
+Moderate 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+25 
+ 
+ 
+AECOM 
+Building 
+Number 
+(2017) 
+BSG 
+Building 
+Number 
+(PEIR 
+Appendi
+x 8.8) 
+Building Description from Ground Level Roost 
+Assessment  
+Initial BRP 
+Category  
+gaps in the mortar and brick work and behind the 
+wooden facia boards 
+BSG Identified: 
+“Brick outbuilding with corrugated roof.  The cavity 
+wall may be accessible through broken vents. No 
+signs of use by bats were observed” (PEIR 
+Appendix 8.8).  
+BSG 
+2014: 
+Moderate 
+4 
+Not 
+surveyed 
+Approximately 10m outside of the Project Site 
+boundary to the west.  A single story brick built out 
+building located within a field. There are gaps 
+leading to a cavity wall.  Gaps are present on the 
+east and south face of this building.   
+AECOM 
+2017: 
+Moderate 
+BSG 
+2014: 
+Not 
+Surveyed 
+5 
+BSG 6 
+Modern steel barn; industrial building of steel frame 
+construction 
+with 
+asbestos 
+and 
+transparent 
+corrugated sheet roof and asbestos and steel 
+walls.  Within the building light enters via the 
+transparent corrugated roof sheets.  The building is 
+used regularly for farm maintenance and horses 
+are kept in the east section.  There are openings 
+that would allow bats to access the building (open 
+sections to the east and west, small hole 20x20cm 
+within wall on southern aspect, door to the east 
+and west usually left open).  No evidence of bats 
+(droppings) was found around the outside of the 
+building.   
+ 
+BSG identified: 
+“Corrugated iron barn, used as horse stable and 
+machinery store.  No potential roost features or 
+signs of use by bats observed” (PEIR Appendix 
+8.8). 
+AECOM 
+2017: 
+Negligible 
+BSG 
+2014: 
+Negligible  
+6 
+BSG 3 
+Abergelli Farm buildings. 
+Approximately 
+110m 
+from 
+the 
+Project 
+Site 
+boundary. Not assessed by AECOM.  
+ 
+BSG identified: 
+“Corrugated iron barn, used as horse stable.  No 
+potential roost features or signs of use by bats 
+were observed” (PEIR Appendix 8.8).  
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Negligible  
+7 
+BSG 4 
+Abergelli Farm buildings. 
+Approximately 90m from the Project Site boundary. 
+AECOM 2017: Not 
+Surveyed  
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+26 
+ 
+ 
+AECOM 
+Building 
+Number 
+(2017) 
+BSG 
+Building 
+Number 
+(PEIR 
+Appendi
+x 8.8) 
+Building Description from Ground Level Roost 
+Assessment  
+Initial BRP 
+Category  
+Not assessed by AECOM.  
+ 
+BSG identified: 
+“Stone built stable block.  Confirmed as a lesser 
+horseshoe, long-eared and pipistrelle roost” (PEIR 
+Appendix 8.8).   
+BSG 
+2014: 
+Confirmed Roost. 
+8 
+BSG 5 
+Abergelli Farm, residential buildings 
+Approximately 65m from the Project Site boundary. 
+Not assessed by AECOM.  
+ 
+BSG Identified: 
+“Terraced housing.  Some missing tiles, lifted lead 
+flashing and access to boxed eaves due to 
+damage could be used by bats. No signs of use by 
+bats were observed.  There was no access 
+available to the roof void“ (PEIR Appendix 8.8 
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Moderate 
+BSG 1 
+BSG 1 
+Assessment not required.  Approximately 265m 
+outside of the Project Site boundary. 
+ 
+BSG identified: 
+“A number of missing slates and gaps under ridge 
+tiles offer potential for roosting bats.  No signs of 
+use by bats were observed.  There was no access 
+available to the roof void” (PEIR Appendix 8.8). 
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Moderate 
+BSG 2 
+BSG 2 
+Assessment not required.  Approximately 290m 
+outside of the Project Site boundary. 
+ 
+BSG identified: 
+“Detached house.  A number of missing slates and 
+gaps under ridge tiles offer potential for roosting 
+bats.  No signs of use by bats were observed.  
+There was no access available to the roof void” 
+(PEIR Appendix 8.8). 
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Moderate 
+BSG 9 
+BSG 9 
+Assessment not required.  Approximately 235m 
+outside of the Project Site boundary. 
+ 
+BSG identified: 
+“Breeze block shed with corrugated roof.  No 
+potential roost features or signs of use by bats 
+observed” (PEIR Appendix 8.8).  
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Negligible 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+27 
+ 
+ 
+AECOM 
+Building 
+Number 
+(2017) 
+BSG 
+Building 
+Number 
+(PEIR 
+Appendi
+x 8.8) 
+Building Description from Ground Level Roost 
+Assessment  
+Initial BRP 
+Category  
+BSG 10 
+BSG 10 
+Assessment not required.  Approximately 155m 
+outside of the Project Site boundary. 
+ 
+BSG identified: 
+“Brick out-house, single room, no doors or 
+windows.  Flat concrete roof. Missing bricks allow 
+access to the cavity wall in a number of places.  
+Two pipistrelle droppings were found on the floor” 
+(PEIR Appendix 8.8). 
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Confirmed Roost 
+BSG 11 
+BSG 11 
+Assessment not required.  Approximately 195m 
+outside of the Project Site boundary. 
+ 
+BSG identified: 
+“Derelict stone cottage, two distinct standing walls, 
+no roof.  Walls are very exposed.  Some roosting 
+opportunities between the stone, and gaps into a 
+rubble filled wall.  No signs of use by bats were 
+observed” (PEIR Appendix 8.8). 
+AECOM 2017: Not 
+Surveyed  
+BSG 
+2014: 
+Moderate 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+28 
+ 
+ 
+Buildings - Emergence/Re-entry Surveys 
+1.9.5 
+The results of the 2014 and 2017 emergence/re-entry surveys are provided in Table 
+1.6. The locations of the buildings and the roost results from 2017 are shown on 
+Figure 4.1.   
+1.9.6 
+Further surveys were not undertaken on AECOM Buildings 1 and 2 due to their 
+distance from the Project Site.  A further survey was not undertaken on Building 5 in 
+2017 as it had Negligible bat roost potential.  
+Table 1.6 Building Emergence/Re-entry Survey Results 
+AECOM 
+Building 
+Number 
+BRP Category 
+(AECOM 2017 and 
+BSG 2014 
+combined – Table 
+1.5) 
+Roost Surveys 
+Completed - AECOM 
+2017 
+Roost Status – (AECOM 
+2017 and BSG 2014 
+combined) 
+1 
+Low 
+No 
+survey 
+completed. 
+Approximately 125m from 
+the Project Site boundary 
+Unknown 
+2  
+Confirmed Roost  
+No 
+survey 
+completed. 
+Approximately 70 m from 
+the Project Site boundary 
+Confirmed Roost 
+BSG confirmed this as a 
+non-maternity long-eared 
+and pipistrelle roost in 
+2014 (BSG Building 8) 
+(PEIR Appendix 8.8) 
+3 
+Moderate 
+1 X Dusk Emergence  
+1 X Dawn Re-entry 
+No Roost 
+4 
+Moderate 
+1 X Dusk Emergence  
+1 X Dawn Re-entry 
+No Roost 
+5 
+Negligible  
+No surveys required 
+No Roost 
+6 
+Negligible 
+No surveys required 
+No Roost 
+BSG internal inspection 
+did not find any evidence 
+of use by bats (BSG 
+Building 
+3) 
+(PEIR 
+Appendix 8.8). Due to the 
+lack of features suitable 
+for 
+bats 
+an 
+internal 
+inspection is sufficient to 
+determine if this building 
+is a roost 
+7 
+Confirmed Roost. 
+No surveys completed. Not 
+required. 
+Approximately 
+90m from the Project Site 
+boundary. 
+Confirmed Roost 
+BSG confirmed this as a 
+lesser horseshoe, long-
+eared 
+and 
+pipistrelle 
+roost (BSG Building 4) 
+(PEIR Appendix 8.8) 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+29 
+ 
+ 
+AECOM 
+Building 
+Number 
+BRP Category 
+(AECOM 2017 and 
+BSG 2014 
+combined – Table 
+1.5) 
+Roost Surveys 
+Completed - AECOM 
+2017 
+Roost Status – (AECOM 
+2017 and BSG 2014 
+combined) 
+8 
+Moderate  
+No surveys completed. Not 
+required. 
+Approximately 
+65m from the Project Site 
+boundary. 
+Unknown 
+BSG internal inspection 
+did not find evidence of 
+bats but not all areas 
+were accessible (BSG 
+Building 
+5) 
+(PEIR 
+Appendix 8.8). Due to the 
+bat 
+roost 
+features 
+identified 
+an 
+internal 
+inspection only is not 
+sufficient to determine if 
+this building is being 
+used as a roost 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+30 
+ 
+ 
+AECOM 
+Building 
+Number 
+BRP Category 
+(AECOM 2017 and 
+BSG 2014 
+combined – Table 
+1.5) 
+Roost Surveys 
+Completed - AECOM 
+2017 
+Roost Status – (AECOM 
+2017 and BSG 2014 
+combined) 
+BSG 1 
+Moderate 
+No surveys completed - 
+Assessment not required.  
+Approximately 
+265m 
+outside of the Project Site 
+boundary. 
+Unknown. 
+BSG identified: 
+“A number of missing 
+slates and gaps under 
+ridge tiles offer potential 
+for roosting bats.  No 
+signs of use by bats were 
+observed.  There was no 
+access available to the 
+roof 
+void” 
+(PEIR 
+Appendix 8.8). 
+BSG 2 
+Moderate 
+No surveys completed - 
+Assessment not required.  
+Approximately 
+290m 
+outside of the Project Site 
+boundary. 
+Unknown. 
+BSG identified: 
+“Detached house.  A 
+number of missing slates 
+and gaps under ridge 
+tiles offer potential for 
+roosting bats.  No signs 
+of use by bats were 
+observed.  There was no 
+access available to the 
+roof 
+void” 
+(PEIR 
+Appendix 8.8). 
+BSG 9 
+Negligible 
+No surveys required.  
+Also, approximately 235m 
+outside of the Project Site 
+boundary. 
+No Roost  
+BSG 10 
+Confirmed Roost 
+No surveys completed -
+Assessment not required.  
+Approximately 
+155m 
+outside of the Project Site 
+boundary. 
+Confirmed Roost BSG 
+identified: 
+“Brick out-house, single 
+room, 
+no 
+doors 
+or 
+windows.  Flat concrete 
+roof. Missing bricks allow 
+access to the cavity wall 
+in a number of places.  
+Two pipistrelle droppings 
+were found on the floor” 
+(PEIR Appendix 8.8). 
+BSG 11 
+Moderate 
+No 
+surveys 
+completed. 
+Assessment not required.  
+Approximately 
+195m 
+outside of the Project Site 
+boundary. 
+Unknown. 
+BSG identified: 
+“Derelict stone cottage, 
+two 
+distinct 
+standing 
+walls, no roof.  Walls are 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+31 
+ 
+ 
+AECOM 
+Building 
+Number 
+BRP Category 
+(AECOM 2017 and 
+BSG 2014 
+combined – Table 
+1.5) 
+Roost Surveys 
+Completed - AECOM 
+2017 
+Roost Status – (AECOM 
+2017 and BSG 2014 
+combined) 
+very exposed.  Some 
+roosting 
+opportunities 
+between the stone, and 
+gaps into a rubble filled 
+wall.  No signs of use by 
+bats 
+were 
+observed” 
+(PEIR Appendix 8.8). 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+32 
+ 
+ 
+ii. Bat Roosts in Trees 
+Trees - Preliminary Ground Level Roost Assessment 
+1.9.7 
+The results of the preliminary ground level roost assessment are provided in 
+Appendix 1A.  
+Trees - Potential Roost Feature Climbed Inspections 
+1.9.8 
+All trees with Low or Moderate bat roost potential were put forward for climbed 
+inspection.  A full table of results from the climbed inspections are provided in 
+Appendix 1A.  
+1.9.9 
+All trees inspected were reduced to Negligible or Low bat roost potential. No bat 
+roosts were identified.   
+1.9.10 Trees 3, 19, 21, 36 and 44 could not be accessed and therefore retained their 
+original Moderate rating. These trees were taken forward for emergence and re-
+entry surveys, in the absence of the climbed inspection assessment.  
+1.9.11 Trees with Low bat roost potential do not require further survey but may need to be 
+checked for roosting bats before removal.   
+Emergence/Re-entry Surveys 
+1.9.12 The results of the emergence /re-entry surveys are provide in Table 1.7. The 
+locations of the trees and the roost results are shown on Figure 4.   
+1.9.13 Of the five trees surveyed, one bat roost was confirmed in Tree 19.  Whilst the bat 
+was seen entering the tree, no calls were detected. This is possibly due to the 
+distance of the tree canopy from the surveyor, and the angle of the bat from the 
+detector. It has been concluded that the species is likely to be a common pipistrelle, 
+because a brief common pipistrelle pass was heard approximately nine seconds 
+before the roosting bat was seen flying around and then disappearing into the 
+crown of Tree 19.  
+1.9.14 A Photograph of Tree 19 is provided in Plate 1.1. 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+33 
+ 
+ 
+Table 1.7 Tree Emergence/Re-entry Survey Results 
+AECOM 
+Tree 
+Number 
+BRP Category 
+Roost Surveys Completed   
+Roost Status  
+Tree 3 
+Moderate 
+1 X Dusk Emergence  
+1 X Dawn Re-entry 
+No Roost 
+Tree 19 
+Moderate 
+2 X Dusk Emergence  
+1 X Dawn Re-entry 
+Confirmed Roost.  
+Lone male or lone 
+non-breeding female 
+summer roost for one 
+common pipistrelle 
+bat 
+Tree 21 
+Moderate 
+1 X Dusk Emergence  
+1 X Dawn Re-entry 
+No Roost 
+Tree 36 
+Moderate 
+1 X Dusk Emergence  
+1 X Dawn Re-entry 
+No Roost 
+Tree 44 
+Moderate 
+1 X Dusk Emergence  
+1 X Dawn Re-entry 
+No Roost 
+ 
+ 
+Plate 1.1: Tree 19 – Confirmed Bat Roost 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+34 
+ 
+ 
+c) Bat Activity Survey Results from 2017  
+iii. Walked Transects 
+1.9.15 The location of the walked transects and locations of the LPs are shown on Figures 
+3.1 to 3.3.  
+1.9.16 The results of the transect surveys are displayed in Tables 1.8 to 1.15. 
+1.9.17 Tables 1.8 to1.10 display the count of bat passes for each species or species 
+group. 
+1.9.18 Tables 1.11 to 1.13 display Bat Activity Index (BAI), expressed as bat passes per 
+hour.  
+1.9.19 Tables 1.11 to 1.13 display BAI (passes/hr), by Listening Point (LP). 
+1.9.20 Tables 1.14 to 1.15 display BAI (passes/hr), by month. 
+1.9.21 The results of the transect surveys and the distribution of the bat passes recorded 
+are shown Figures 5.1, 5.2 and 5.3. 
+1.9.22 A Site Assessment Summary is provided in Section 1.10. 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+35 
+ 
+ 
+Table 1.8 Bat Activity – Combined Walked Transect Results – Species Composition 
+Species  
+Count of Bat 
+Passes (June to 
+October) 
+Percentage 
+% 
+June 
+Bat Passes 
+July 
+Bat Passes 
+August 
+Bat Passes 
+September 
+Bat Passes 
+October 
+Bat Passes 
+Lesser horseshoe 
+1 
+0.1 
+0 
+0 
+1 
+0 
+0 
+Common pipistrelle 
+512 
+54.4 
+99 
+115 
+153 
+56 
+89 
+Soprano pipistrelle 
+302 
+32.1 
+60 
+54 
+83 
+58 
+47 
+Nathusius’ pipistrelle
+2 
+0.2 
+0 
+2 
+0 
+0 
+0 
+Myotis species 
+92 
+9.8 
+10 
+16 
+28 
+17 
+21 
+Noctule/Serotine 
+17 
+1.8 
+5 
+5 
+4 
+1 
+2 
+Long-eared 
+1 
+0.1 
+0 
+0 
+0 
+1 
+0 
+Long-eared 
+(possible) 
+4 
+0.4 
+1 
+0 
+2 
+0 
+1 
+Indeterminate 
+9 
+1.0 
+3 
+0 
+0 
+3 
+3 
+All Species 
+940 
+- 
+178 
+192 
+271 
+136 
+163 
+ 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+36 
+ 
+ 
+Table 1.9 Bat Activity – North Transect Results – Species Composition 
+Species  
+Count of Bat 
+Passes (June to 
+October) 
+Percentage 
+% 
+June 
+Bat Passes
+July 
+Bat Passes 
+August 
+Bat Passes 
+September 
+Bat Passes 
+October 
+Bat Passes 
+Lesser horseshoe 
+0 
+0.0 
+0 
+0 
+0 
+0 
+0 
+Common pipistrelle 
+252 
+59.0 
+53 
+60 
+66 
+33 
+40 
+Soprano pipistrelle 
+129 
+30.2 
+29 
+22 
+30 
+32 
+16 
+Nathusius’ pipistrelle
+1 
+0.2 
+0 
+1 
+0 
+0 
+0 
+Myotis species 
+33 
+7.7 
+2 
+6 
+10 
+5 
+10 
+Noctule/Serotine 
+8 
+1.9 
+2 
+2 
+2 
+0 
+2 
+Long-eared 
+1 
+0.2 
+0 
+0 
+0 
+1 
+0 
+Long-eared 
+(possible) 
+1 
+0.2 
+0 
+0 
+1 
+0 
+0 
+Indeterminate 
+2 
+0.5 
+1 
+0 
+0 
+0 
+1 
+All Species 
+427 
+- 
+87 
+91 
+109 
+71 
+69 
+ 
+Table 1.10 Bat Activity – South Transect Results – Species Composition 
+Species  
+Count of Bat 
+Passes (June to 
+October) 
+Percentage 
+% 
+June 
+Bat Passes
+July 
+Bat Passes 
+August 
+Bat Passes 
+September 
+Bat Passes 
+October 
+Bat Passes 
+Lesser horseshoe 
+1 
+0.2 
+0 
+0 
+1 
+0 
+0 
+Common pipistrelle 
+260 
+50.7 
+46 
+55 
+87 
+23 
+49 
+Soprano pipistrelle 
+173 
+33.7 
+31 
+32 
+53 
+26 
+31 
+Nathusius’ pipistrelle
+1 
+0.2 
+0 
+1 
+0 
+0 
+0 
+Myotis species 
+59 
+11.5 
+8 
+10 
+18 
+12 
+11 
+Noctule/Serotine 
+9 
+1.8 
+3 
+3 
+2 
+1 
+0 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+37 
+ 
+ 
+Species  
+Count of Bat 
+Passes (June to 
+October) 
+Percentage 
+% 
+June 
+Bat Passes
+July 
+Bat Passes 
+August 
+Bat Passes 
+September 
+Bat Passes 
+October 
+Bat Passes 
+Long-eared 
+0 
+0.0 
+0 
+0 
+0 
+0 
+0 
+Long-eared 
+(possible) 
+3 
+0.6 
+1 
+0 
+1 
+0 
+1 
+Indeterminate 
+7 
+1.4 
+2 
+0 
+0 
+3 
+2 
+All Species 
+513 
+- 
+91 
+101 
+162 
+65 
+94 
+ 
+Table 1.11 Bat Activity – North Transect Results-BAI (bat passes/hr) by Listening Point (Spatial Distribution) 
+Listening 
+Point 
+Lesser 
+horseshoe 
+Common 
+pipistrell
+e 
+Soprano 
+pipistrell
+e 
+Nathusius
+’ 
+pipistrelle 
+Myotis 
+specie
+s 
+Noctul
+e/Serot
+ine 
+Long-
+eared 
+Long-
+eared 
+(possible) 
+Indetermi
+nate 
+All 
+Species 
+1 
+0 
+4.4 
+2.2 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+6.7 
+1a 
+0 
+10.0 
+0.0 
+0.0 
+5.0 
+0.0 
+0.0 
+0.0 
+0.0 
+15.0 
+2 
+0 
+23.6 
+7.3 
+0.0 
+1.8 
+0.0 
+0.0 
+1.8 
+0.0 
+34.5 
+3 
+0 
+25.5 
+10.9 
+0.0 
+3.6 
+0.0 
+0.0 
+0.0 
+0.0 
+40.0 
+4 
+0 
+10.0 
+14.0 
+0.0 
+6.0 
+0.0 
+0.0 
+0.0 
+0.0 
+30.0 
+5 
+0 
+12.7 
+12.7 
+0.0 
+1.8 
+0.0 
+0.0 
+0.0 
+0.0 
+27.3 
+6 
+0 
+10.9 
+5.5 
+0.0 
+1.8 
+0.0 
+0.0 
+0.0 
+0.0 
+18.2 
+7 
+0 
+9.1 
+3.6 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+12.7 
+8 
+0 
+7.3 
+5.5 
+0.0 
+0.0 
+1.8 
+0.0 
+0.0 
+1.8 
+16.4 
+9 
+0 
+9.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+9.1 
+10 
+0 
+5.5 
+1.8 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+7.3 
+11 
+0 
+1.8 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+1.8 
+12 
+0 
+12.0 
+2.0 
+0.0 
+4.0 
+0.0 
+0.0 
+0.0 
+0.0 
+18.0 
+All LPs 
+0.0 
+11.1 
+5.3 
+0.0 
+1.7 
+0.2 
+0.0 
+0.2 
+0.2 
+18.5 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+38 
+ 
+ 
+ 
+Table 1.12 Bat Activity – South Transect Results – BAI (bat passes/hr) by Listening Point (Spatial Distribution) 
+Listening 
+Point 
+Lesser 
+horseshoe 
+Common 
+pipistrell
+e 
+Soprano 
+pipistrell
+e 
+Nathusius
+’ 
+pipistrelle 
+Myotis 
+specie
+s 
+Noctul
+e/Serot
+ine 
+Long-
+eared 
+Long-
+eared 
+(possible) 
+Indetermi
+nate 
+All 
+Species 
+1 
+0 
+1.8 
+3.6 
+0.0 
+7.3 
+0.0 
+0.0 
+0.0 
+0.0 
+12.7 
+2 
+0 
+10.9 
+1.8 
+0.0 
+7.3 
+0.0 
+0.0 
+0.0 
+0.0 
+20.0 
+3 
+0 
+9.1 
+5.5 
+0.0 
+3.6 
+0.0 
+0.0 
+0.0 
+0.0 
+18.2 
+4 
+0 
+9.1 
+7.3 
+0.0 
+1.8 
+0.0 
+0.0 
+1.8 
+1.8 
+21.8 
+5 
+0 
+16.4 
+18.2 
+0.0 
+7.3 
+0.0 
+0.0 
+0.0 
+0.0 
+41.8 
+6 
+0 
+10.9 
+21.8 
+0.0 
+5.5 
+0.0 
+0.0 
+0.0 
+0.0 
+38.2 
+7 
+0 
+22.2 
+2.2 
+0.0 
+2.2 
+0.0 
+0.0 
+0.0 
+0.0 
+26.7 
+8 
+0 
+12.7 
+7.3 
+0.0 
+1.8 
+3.6 
+0.0 
+0.0 
+0.0 
+25.5 
+9 
+0 
+8.9 
+6.7 
+0.0 
+2.2 
+0.0 
+0.0 
+0.0 
+0.0 
+17.8 
+9a 
+0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+9b 
+0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+10 
+0 
+1.8 
+1.8 
+0.0 
+1.8 
+1.8 
+0.0 
+0.0 
+0.0 
+7.3 
+11 
+0 
+5.5 
+5.5 
+0.0 
+1.8 
+0.0 
+0.0 
+0.0 
+0.0 
+12.7 
+12 
+0 
+2.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+2.0 
+All LPs 
+0.0 
+9.0 
+6.8 
+0.0 
+3.6 
+0.5 
+0.0 
+0.2 
+0.2 
+20.2 
+ 
+Table 1.13a  Bat Activity – Listening Point Survey Times and BAI - North 
+North – Listening Point 
+North – LP Survey Time in hours 
+North – All Species – BAI (Bat 
+passes/hour) 
+1 
+0.45 
+6.7 
+1a 
+0.20 
+15.0 
+2 
+0.55 
+34.5 
+3 
+0.55 
+40.0 
+4 
+0.50 
+30.0 
+5 
+0.55 
+27.3 
+6 
+0.55 
+18.2 
+7 
+0.55 
+12.7 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+39 
+ 
+ 
+North – Listening Point 
+North – LP Survey Time in hours 
+North – All Species – BAI (Bat 
+passes/hour) 
+8 
+0.55 
+16.4 
+9 
+0.55 
+9.1 
+10 
+0.55 
+7.3 
+11 
+0.55 
+1.8 
+12 
+0.50 
+18.0 
+All LPs - North 
+6.60 
+18.5 
+Three minutes is expressed as 0.05hrs 
+ 
+Table 1.14b  Bat Activity – Listening Point Survey Times and BAI - South 
+South – Listening Point 
+South – LP Survey Time 
+South – BAI (Bat passes/hour) 
+1 
+0.55 
+12.7 
+2 
+0.55 
+20.0 
+3 
+0.55 
+18.2 
+4 
+0.55 
+21.8 
+5 
+0.55 
+41.8 
+6 
+0.55 
+38.2 
+7 
+0.45 
+26.7 
+8 
+0.55 
+25.5 
+9 
+0.45 
+17.8 
+9a 
+0.05 
+0.0 
+9b 
+0.05 
+0.0 
+10 
+0.55 
+7.3 
+11 
+0.55 
+12.7 
+12 
+0.5 
+2.0 
+All LPs – South 
+6.45 
+20.2 
+Three minutes is expressed as 0.05hrs  
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+40 
+ 
+ 
+ 
+Table 1.15 Bat Activity – North Transect Results 2017-BAI by Month (Temporal Distribution) 
+Transect 
+All Surveyed 
+Months 
+June 
+July 
+August 
+September 
+October  
+Transect Survey 
+Time (Hrs) 
+32.3 
+5.9 
+6.4 
+6.3 
+7.1 
+6.5 
+BAI 
+(Bat 
+passes/hour) 
+13.2 
+7.0 
+7.0 
+8.5 
+4.8 
+5.3 
+ 
+Table 1.16 Bat Activity – South Transect Results 2017-BAI by Month (Temporal Distribution) 
+Transect 
+All Surveyed 
+Months 
+June 
+July 
+August 
+September 
+October  
+Transect Survey 
+Time (Hrs) 
+33.7 
+6.6 
+6.5 
+6.5 
+7.6 
+6.5 
+BAI 
+(Bat 
+passes/hour) 
+15.2 
+2.7 
+3.0 
+4.8 
+1.9 
+2.8 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+41 
+ 
+ 
+1.10 
+Preliminary Project Site Assessment 
+a) Bat Roosts 
+i. 
+Bat Roosts in Buildings  
+1.10.1 There are no buildings, and hence no building bat roosts, within the Project Site.  
+1.10.2 Buildings adjacent to the Project Site were assessed. None of the buildings 
+surveyed by AECOM supported bat roosts. Previous surveys by BSG in 2014 
+confirmed roosts in buildings not surveyed by AECOM in 2017 (PEIR Appendix 
+8.8). This is expressed below and shown on Figure 4.2:  
+ 
+AECOM Building 1:  Unknown Roost Status. Not surveyed by AECOM or BSG, 
+Building is approximately 125m from the Project Site boundary. 
+ 
+AECOM Building 2:  Confirmed as a long-eared and pipistrelle roost by BSG in 
+2014 (BSG Building 8) (PEIR Appendix 8.8). Not surveyed by AECOM. It is 
+approximately 120m outside of the Project Site boundary. 
+ 
+AECOM Building 3:  No Roost. 
+ 
+AECOM Building 4:  No Roost. 
+ 
+AECOM Building 5:  No Roost. 
+ 
+AECOM Building 6:  No Roost. 
+ 
+AECOM Building 7:  Confirmed as a lesser horseshoe, long-eared and 
+pipistrelle roost by BSG in 2014 (BSG Building 4) (PEIR Appendix 8.8). Not 
+surveyed by AECOM. It is approximately 90m outside of the Project Site 
+boundary. 
+ 
+AECOM Building 8:  Unknown Roost Status.  BSG internal inspection did not 
+find evidence of bats but not all areas were accessible (BSG Building 5) (PEIR 
+Appendix 8.8). Due to the bat roost features identified by BSG an internal 
+inspection only is not sufficient to determine if this building is being used as a 
+bat roost.  Not surveyed by AECOM. The building is approximately 65m from 
+the Project Site boundary. 
+ 
+BSG Building 1: Unknown Roost Status.  BSG internal inspection did not find 
+evidence of bats but not all areas were accessible (BSG (PEIR Appendix 8.8). 
+Due to the bat roost features identified by BSG an internal inspection only is not 
+sufficient to determine if this building is being used as a bat roost.  Not 
+surveyed by AECOM. The building is approximately 265m from the Project Site 
+boundary. 
+ 
+BSG Building 2:  Unknown Roost Status.  BSG internal inspection did not find 
+evidence of bats but not all areas were accessible (BSG (PEIR Appendix 8.8). 
+Due to the bat roost features identified by BSG an internal inspection only is not 
+sufficient to determine if this building is being used as a bat roost.  Not 
+surveyed by AECOM as the building is approximately 290m from the Project 
+Site boundary. 
+ 
+BSG Building 9:  No Roost.  BSG internal inspection did not find any evidence 
+of use by bats (PEIR Appendix 8.8). Due to the lack of features suitable for bats 
+an internal inspection is sufficient to determine if this building as a roost. Not 
+surveyed by AECOM as the building is approximately 235m from the Project 
+Site boundary. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+42 
+ 
+ 
+ 
+BSG Building 10: Confirmed as a pipistrelle roost by BSG in 2014 (PEIR 
+Appendix 8.8). Not surveyed by AECOM. It is approximately 155m outside of 
+the Project Site boundary. 
+ 
+BSG Building 11:  Unknown Roost Status.  BSG internal inspection did not find 
+any evidence of use by bats (PEIR Appendix 8.8). Due to the bat roost features 
+identified by BSG an internal inspection only is not sufficient to determine if this 
+building is being used as a bat roost.  Not surveyed by AECOM. The building is 
+approximately 195m from the Project Site boundary. 
+ 
+ii. Bat Roosts in Trees 
+1.10.3 Tree 19 is a lone male or non-breeding female common pipistrelle summer roost.  
+No other trees were identified as bat roosts. A photograph of Tree 19 is shown in 
+Plate 1.1.  
+b) Bat Activity – Walked Transect - Species Composition 
+1.10.4 At least 10 species of bat were recorded foraging and/or commuting in close 
+proximity of and within the Project Site.  The following species have been identified 
+during bat surveys at the Project Site: 
+ 
+Lesser horseshoe; 
+ 
+Common pipistrelle; 
+ 
+Soprano pipistrelle; 
+ 
+Nathusius’ pipistrelle; 
+ 
+Daubenton’s; 
+ 
+Natterer’s; 
+ 
+Mytois species; 
+ 
+Noctule; 
+ 
+Serotine; 
+ 
+Long-eared species; and, 
+ 
+Indeterminate species.  
+1.10.5 Nathusius’ pipistrelle and serotine were not identified during the BSG 2014 activity 
+transect surveys (PEIR Appendix 8.8).  Leisler’s bat was identified during the BSG 
+2014 activity transect surveys (PEIR Appendix 8.8) but was not identified during the 
+2017 surveys.  
+1.10.6 Common and soprano pipistrelles were the most commonly recorded species in the 
+Project Site.  Overall pipistrelle species comprised 86.8 % of all passes recorded 
+on the transect surveys; they were also the most commonly recorded species 
+during the emergence/re-entry surveys. Pipistrelle species comprised of 89.5% of 
+the passes recorded on the North Transect and 84.6% of the passes recorded on 
+the South Transect.   
+1.10.7 Pipistrelle species were similarly the most commonly recorded species during the 
+BSG 2014 transects surveys (PEIR Appendix 8.8).  
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+43 
+ 
+ 
+1.10.8 Two passes of Nathusius’ pipistrelle were recorded during the July transect 
+surveys, one record from the South Transect and one record from the North 
+Transect, making up 0.2% of total bat passes.  
+1.10.9 Overall Myotis species comprised 9.8% of the total calls recorded on the transect 
+surveys. Myotis species comprised 7.7% of the passes recorded on the North 
+Transect and 11.5% of the calls recorded on the South Transect  
+1.10.10 Activity levels for Myotis species during the 2017 transects surveys were 
+comparable with the activity levels recorded during the BSG 2014 transect surveys 
+(PEIR Appendix 8.8).  
+1.10.11 Overall noctule and serotine bats comprised 1.8% of the passes recorded on 
+transect surveys. Noctule and serotine bats comprised of 1.9% of the passes 
+recorded on the North Transect and 1.8% of the passes recorded on the South 
+Transect.   BSG did not breakdown these species into percentages.  
+1.10.12 Long-eared and possible long-eared bat comprised a total of 0.5% of the passes 
+recorded on the North Transect and 0.6% recorded on the South Transect   
+surveys.  BSG did not breakdown these species into percentages. 
+1.10.13 There was a single lesser horseshoe bat pass, recorded on the South Transect, 
+equating to 0.2% of the total passes for the South Transect and 0.1% of the total 
+passes for the Project Site.  This was recorded in August 2017.  BSG 2014 also 
+recorded only one lesser horseshoe bat pass, again recorded on the BSG south 
+transect. 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+44 
+ 
+ 
+c) Bat Activity – Walked Transect - Spatial Distribution 
+1.10.14 Figure 5.1 shows the spatial distribution of individual bat passes recorded during 
+the transect surveys.  
+1.10.15 In total 940 bat passes were recorded during the walked transects.   
+1.10.16 Higher levels of activity were recorded in the Southern Transect (513 bat passes; 
+15.2 BAI), compared to the Northern Transect (427 bat passes, 13. 2 BAI). The bat 
+activity levels are broadly similar.  
+1.10.17  Bat activity was recorded across the Project Site (Figure 5.1). Vegetated stream or 
+wet ditch corridors appear to be important for bats within the Project Site. The 
+distribution of bat call suggests the following general patterns of activity. This is a 
+qualitative assessment only: 
+ 
+Pipistrelle bats were recorded across the Project Site;  
+ 
+Myotis Species showed some association with mature tree lines and/or areas 
+near water; 
+ 
+Noctule and Serotine bats were primarily recorded at height over open fields 
+across the Project Site; 
+ 
+Long-eared bats showed some association with mature tree lines and are 
+focused more towards the centre and south-east of the Project Site.  The 
+passes recorded are within approximately 315m to 700m of the BSG confirmed 
+long-eared roost in Building 7 and approximately 270m and 850m of the BSG 
+confirmed long-eared roost in Building 2;  
+ 
+The single lesser horseshoe was recorded on the South Transect along a 
+mature tree line approximately 900m south of the closest known lesser 
+horseshoe roost in Building 2. 
+ 
+i. 
+North Transect 
+1.10.18 Figure 5.2 shows the spatial spread of bat passes recorded on the North Transect.  
+1.10.19 Table 1.16 below, provides the BAI values for the North Transect LPs and a 
+description of the habitat at the LP. 
+1.10.20 LP2 and LP8 had the highest diversity of bat species, with a total of four different 
+species recorded at each.  
+1.10.21 LP3 had the highest BAI, with LP4 having the second highest BAI. LP11 had the 
+lowest BAI, with only one bat pass was recorded over all the months. 
+1.10.22 LP3 is located adjacent to a watercourse and riparian woodland with mature trees.  
+LP4 is located next to a row of mature trees which are connected to the Abergelli 
+Farm buildings to the west and a watercourse to the east.  
+1.10.23 Photographs highlighting some of the habitat types within the North Transect are 
+provided in Plate 1.2. 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+45 
+ 
+ 
+Table 1.17 North Transect – BAI Results and Habitat Descriptions for LPs 
+Listening 
+Point 
+BAI for All 
+Species 
+Habitat Description 
+3 
+40.0 
+Within the corner of improved grassland field 
+adjacent to a vegetated stream corridor with mature 
+trees and scrub. Field is grazed by sheep. 
+2 
+34.5 
+On the ‘cross roads’ of a vegetated stream corridor 
+with mature trees and scrub; and a mature tree line 
+with partially wet ditch. Improved grassland field are 
+adjacent to these linear features, grazed by horses 
+and sheep. 
+4 
+30.0 
+Adjacent to a mature tree line and a wet ditch, within 
+an improved grassland field, which has patches of 
+soft rush.  
+5 
+27.3 
+On a farm track which has a mature hedgerow 
+species, on one side including mature hawthorn and 
+other mature trees.  Surrounding the track are 
+improved grassland fields grazed by horses and 
+sheep. 
+6 
+18.2 
+On a farm track, further north than LP 5, which has a 
+mature hedgerow species, on one side including 
+mature hawthorn and other mature trees.  
+Surrounding the track are improved grassland fields 
+grazed by horses and sheep. There is a residential 
+property nearby.  
+12 
+18.0 
+On a farm track, further south than LP 5, which has a 
+mature hedgerow species, on one side including 
+mature hawthorn and other mature trees.  
+Surrounding the track are improved grassland fields 
+grazed by horses and sheep. This point is an 
+interchange between a number of hedgerows.  
+8 
+16.4 
+On the edge of an improved grassland field, adjacent 
+to a wet ditch/source of a stream which is lined with 
+mature trees.  
+1a 
+15.0 
+In the corner of an improved grassland field, 
+adjacent to intact hedgerows and near to farm 
+buildings. Fields are grazed by horses and sheep. 
+No ditches or watercourses. 
+7 
+12.7 
+On the edge of an improved grassland field to a 
+defunct hedgerow of sparsely distributed hawthorn 
+trees. This is near the brow of the hill and near to the 
+highest point of the site. No ditches or watercourses. 
+9 
+9.1 
+In the corner of improved grassland field adjacent to 
+wire fence and species poor hedgerow, 
+predominantly of bracken, this borders a minor road. 
+No ditches or watercourses. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+46 
+ 
+ 
+10 
+7.3 
+On the edge of an improved grassland field adjacent 
+to a species poor hedgerow, predominantly of 
+bracken, this borders a minor road. No ditches or 
+watercourses. 
+1 
+6.7 
+On track next to corner of an improved grassland 
+field, adjacent to intact hedgerows and near to farm 
+buildings. Fields are grazed by horses and sheep. 
+No ditches or watercourses. 
+11 
+1.8 
+On a farm track which has some mature trees and 
+some sections of hedgerow. The track is between a 
+solar farm and a semi-improved grassland field. No 
+ditches or watercourses. 
+ii. South Transect 
+1.10.24 Figure 5.3 shows the spatial spread of individual bat records during the north 
+transect surveys.  
+1.10.25 Table 1.17 provides the BAI values for the South Transect LPs and a description of 
+the habitat at the LP. 
+1.10.26 LP4, LP8 and LP10 had the highest level of diversity of bat species, with a total of 
+four different species recorded at each.  
+1.10.27 LP5 had the highest BAI, with LP6 having the second highest BAI.  Only one bat 
+pass was recorded at LP12 over all the months.   
+1.10.28 LP5 is located next to an area of riparian woodland and watercourse.  
+1.10.29 LP6 is located at the end of a mature tree line, next to a wet ditch and marshy 
+grassland. LP5 and LP6 are located within the south-east of the Project Site.  
+1.10.30 Photographs highlighting some of the habitat within the South Transect are 
+provided in Plate 1.3. 
+Table 1.18 South Transect – BAI Results and Habitat Descriptions for LPs 
+Listening 
+Point 
+BAI for All 
+Species 
+Habitat Description 
+5 
+41.8 
+On the Gallops / farm track adjacent to semi-natural 
+riparian woodland on the east and marshy grassland 
+to the west. The LP is at the confluence of two 
+riparian corridors, an unnamed stream and the Afon 
+Llan River.  
+6 
+38.2 
+At the end of a line of mature trees adjacent to a wet 
+ditch. Surrounding fields are of marshy grassland 
+and improved grassland grazed by sheep.  
+7 
+26.7 
+On the edge of an improved grassland field adjacent 
+to a woodland edge, with mature trees and running 
+water. To the north of the LP is semi-improved 
+neutral grassland. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+47 
+ 
+ 
+Listening 
+Point 
+BAI for All 
+Species 
+Habitat Description 
+8 
+25.5 
+On the edge of an improved grassland field adjacent 
+to barbed wire fence with running water. There is no 
+hedgerow or trees at this point on the stream. Mature 
+trees border the stream a short distance to the south.
+4 
+21.8 
+On the Gallops / farm track adjacent to marshy 
+grassland. This is in proximity to LP6, and bats were 
+on occasion seen flying from the tree line at LP6 
+across the Gallops and foraging over the marshy 
+grassland.  
+2 
+20.0 
+On the ‘cross roads of three rides in the semi-natural 
+woodland. A vegetated stream corridor is nearby.  
+3 
+18.2 
+On the edge of semi natural woodland (ancient 
+woodland), adjacent to improved grassland field 
+gazed by horses. 
+9 
+17.8 
+On the edge of an improved grassland field, on the 
+end of a wet ditch, next to a wire fence.  
+1 
+12.7 
+On a farm track on the edge of an area of semi-
+natural woodland, adjacent to a small pond 
+generated by run off from the field. 
+11 
+12.7 
+On the edge of a marshy grassland field adjacent to 
+a hedgerow with trees and a wet flowing ditch. 
+10 
+7.3 
+In the corner of a marshy grassland field adjacent to 
+a mature tree line. No ditches or watercourses.  
+12 
+2.0 
+On the farm track adjacent to a semi-improved 
+grassland field grazed by horses. No wet ditches or 
+watercourses. 
+9a 
+0.0 
+On edge of a marshy grassland field, adjacent to 
+hedgerow. On same corridor as LP11. Ditch with 
+running water on opposite side of hedge.  
+9b 
+0.0 
+Within a marshy grassland field, adjacent to a wire 
+fence. No wet ditches or watercourses. 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+48 
+ 
+ 
+d) Bat Activity – Walked Transect - Temporal Distribution 
+1.10.31 Bat activity was recorded at the Project Site between June and October 2017.  Bat 
+surveys for April and May are due to be undertaken in 2018.  
+1.10.32 August had the highest BAI for both transects. The North Transect had a BAI of 8.5 
+and the South Transect had a BAI of 4.8 
+1.10.33 For the North Transect, the second highest BAI was in June and July, both with Bai 
+of 7.0. 
+1.10.34 For the South Transect, the second highest BAI was 3.0 in July and the third 
+highest was 2.8 in October.   
+1.10.35 Young bats are typically born in June and July and during August the young are 
+starting to leave the roosts to fly and feed. October is part of the bat mating period 
+and a time when bats are extensively foraging for food as they are looking to store 
+fat for the winter hibernation period. The general ecology of bat species is likely to 
+influence the temporal activity for the Project Site.  
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+49 
+ 
+ 
+Plate 1.2 North Transect – Examples of Habitat  
+ 
+Part of the north of the Project Site, within North Transect, near to the proposed cable route looking south. 
+um 
+Example of hedgerow with mature trees and improved grassland fields, within the North Transect, near to the 
+proposed cable route looking west towards Abergelli Farm 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+50 
+ 
+ 
+Plate 1.3: South Transect - Examples of Riparian Habitat  
+ 
+An area of riparian woodland with mature trees, near to the South Transect, near the Ancient Woodland. 
+ 
+An area of riparian woodland, within South Transect, running alongside the Gallops/ farm track in the south- of 
+the Project Site. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+51 
+ 
+ 
+1.11 
+Preliminary Potential Effects 
+1.11.1 A full assessment of effects at construction and operation has been undertaken for 
+the Ecological Impact Assessment (EcIA) and reported in the ES.  
+1.11.2 Figure 7 indicates the location of potential constraints / impacts.  At this stage the 
+following potential effects have been identified:  
+a) Bat Roosts 
+i. 
+Destruction and Loss of a Roost 
+1.11.3 Tree 19 was the only confirmed roost within the Project Site.  The proposed Project 
+will not require the removal of Tree 19.   
+ii. Killing and Injury 
+1.11.4 Based on the current known distribution of bat roosts within the Project Site, there 
+is no risk of killing or injuring bats during construction and operation.  
+iii. Disturbance 
+1.11.5 Without mitigation, there is potential for disturbance to bats due to noise and 
+vibration during construction and operation and external lighting during construction 
+and operation.  
+b) Bat Commuting and Foraging 
+i. 
+Habitat Loss 
+1.11.6 The Project Site is used by bats, particularly the vegetated watercourse/wet ditch 
+corridors, followed by woodland edges and hedgerows with mature trees.   
+1.11.7 A proportion of the broadleaved semi-natural woodland, semi-improved grassland 
+and marshy grassland will be removed as part of the proposed Project. Without 
+mitigation, hedgerows and mature trees lines will be removed for construction of 
+the cable route and access track. This will reduce the amount of habitat available to 
+foraging bats.  
+ii. Severance and Fragmentation 
+1.11.8 The removal of trees and woodland is required to facilitate the construction of the 
+proposed access track. Without mitigation, this will sever the connectivity to 
+habitats either side of the track, resulting in severance and fragmentation of 
+retained areas.  
+1.11.9 The removal of tree lines and hedgerows may be required in order to facilitate the 
+construction of the new gas route in the north of the Project Site. Removal or 
+severance of tree lines and hedgerow will sever the connectivity they provide and 
+create fragmentation of retained habitat. 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+52 
+ 
+ 
+1.11.10 During construction of the Project natural habitats including hedgerows and tree 
+lines will be removed and converted to new areas of hardstanding and buildings.  
+This will fragment and sever the connectivity of the habitats located to the north and 
+to the south of the Project. This will impact on bats using the existing features in the 
+landscape to commute and forage between these two areas.  
+1.11.11 There will be an increase in external lighting at the Project Site during construction 
+and operation. There is currently no external lighting within the majority of the 
+Project Site. Many species of bat are adverse to light, with different species having 
+different tolerances.  External lighting can make areas of previous foraging habitat 
+unsuitable and fragment commuting routes.  If external lighting for the proposed 
+Project is poorly designed there is potential for a light spill onto hedgerows, tree 
+lines, woodland edges and vegetated areas which will negatively impact on bats, 
+severing commuting routes and impeding access to foraging habitat.  Poorly 
+designed lighting also has the potential to affect areas outside the Project Site 
+boundary.  
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+53 
+ 
+ 
+1.12 
+Preliminary Recommendations for Further Surveys and Mitigation 
+a) Recommendations for Further Surveys 
+1.12.1 A full assessment of required further surveys has been made during EcIA and 
+reported in the ES.  At this stage it is anticipated that further surveys will be 
+required. The following recommendations have been made:  
+ 
+Walked bat activity transect surveys in April and May 2018 using the same 
+methodology for the walked bat activity surveys undertaken in 2017; 
+ 
+Static detector bat surveys and assessment to augment the walked transect 
+data.  
+ 
+Building assessments and further bat surveys on Buildings 6, 7 and 8  within 
+the Abergelli Farm;  
+ 
+In November 2011, a mine shaft and adit, adjacent to the Project Site was 
+identified. Underground sites can be of value to hibernating bats, including 
+horseshoe, long-eared and Myotis species.  The status of these sites is 
+currently unknown, in that it is not known if these features are completely 
+capped with no potential bat access points or if they a freely accessible to bats.  
+Consultation with National Grid and Abergelli Farm owner is ongoing as well as 
+the Coal Authority report on any remediation works which may have been 
+undertaken.  Should Health and Safety provisions allow, static bat detectors will 
+be placed as near as to the estimated location of the mine shaft and adit during 
+December 2017, and January and February 2018. This will be done with the 
+aim of any bat activity being recorded in these areas, suggesting a nearby 
+hibernation site; and, 
+ 
+Pre-construction checks on trees scheduled for removal for their current bat 
+roost potential with consideration of the seasonal survey timings. 
+1.12.2 Although further surveys are recommended it is considered that, utilising data from 
+2014 and 2017 surveys undertaken to date, an accurate assessment of bat activity 
+within the Project Site has been made. Further surveys are recommended to allow 
+the most appropriate and effective mitigation measures to be determined and will 
+be included in a subsequent CEMP or Ecological Mitigation Plan 
+b) Recommendations for Mitigation 
+1.12.3 A full series of recommendations for further surveys and mitigation at construction 
+and operation has been undertaken for the EcIA and reported in the ES.  At this 
+stage the following key recommendations have been made:  
+ 
+Based on the current Project proposals a European Protected Species Licence 
+(EPSL) is not a requirement. However, should the scope of the Project  change 
+and/or if further bat roosts are identified a EPSL may be required; 
+ 
+Compensate for loss of foraging habitat; 
+ 
+Maintain connectivity of foraging and commuting habitats by the retention of 
+trees and hedgerows wherever possible. Figure 7 shows areas of potential 
+conflict; 
+ 
+Utilising ‘brown hedgerows’ of brash, to maintain connectivity during 
+construction  
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+54 
+ 
+ 
+ 
+Create new green corridors to mitigate loss, provide alternative routes and 
+enhance the local landscape;  
+ 
+For construction of the cable route consider directional drilling under 
+hedgerows and mature tree lines to avoid felling and avoid severance; 
+ 
+If less important hedgerows need to be severed temporarily during construction 
+of the cable route the severed areas should be replanted with whips and 
+standards; 
+ 
+It is recommended that reasonable avoidance measures should be taken if any 
+trees with a Low bat roost potential need removing as part of the Project 
+(Hundt, 2012).  This is likely to include soft-felling of trees under ecological 
+supervision from a bat licenced ecologist; 
+ 
+Plant a mix of locally native species of standard trees and whips along both 
+sides of the access road to create a ‘hedgerow with trees’; and, 
+ 
+Avoid external lighting wherever possible. Only light areas which need to be lit 
+to meet minimum standard. Where external lighting is needed it should be 
+designed to avoid and reduce light spill following best practice guidelines for 
+lighting and bats (Gunnell 2012, BCT 2009), and should be reviewed by an 
+ecologist. Where external road lighting is needed the use of bollards with 
+louveres should be considered to keep lighting directional and below head 
+height, timer or motion sensors should be used. 
+c) Recommendations for Biodiversity Enhancement  
+1.12.4 A full series of recommendations for biodiversity enhancement has been made 
+during the EcIA and reported in the ES.  At this stage the following precautionary 
+recommendations have been made:  
+ 
+Woodcrete bat boxes on trees; 
+ 
+Improve existing hedgerows by infilling with locally native species standard 
+trees to maintain connectivity to key foraging areas; and, 
+ 
+Creation of new hedgerows and green corridors of locally native species. 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+55 
+ 
+ 
+2. 
+References 
+AECOM (2017).  Abergelli Power Station Preliminary Ecological Appraisal, Stag Energy, 
+May 2017.  
+Bat Conservation Trust (BCT) (2009).  Bats and Lighting in the UK.  Bat Conservation 
+Trust, 
+London 
+http://www. 
+bats. 
+org. 
+uk/data/files/bats_and_lighting_in_the_uk__final_version_version_3_may_09. Pdf. 
+BCT (2017).  NBMP Field Survey Tutorial [online].  Available at: http://www. bats. org. 
+uk/nbmp_tutorials/tutorial26. html.  
+CIEEM (2013).  Professional Code of Conduct.  Chartered Institute of Ecology and 
+Environmental Management (CIEEM) June 2013. 
+Collins, J. (ed. ) (2016).  Bat Surveys for Professional Ecologists: Good Practice Guidelines 
+(3rd edn).  The Bat Conservation Trust, London. 
+Forestry Commission (2005).  Woodland Management for Bats.  Forestry Commission, 
+West Yorkshire. 
+Gunnell, K., Grant, G. and Williams, C. (2012). Landscape and urban design for bats and 
+biodiversity. 
+Bat 
+Conservation 
+Trust. 
+Available 
+at: 
+http://www.bats.org.uk/pages/landscapedesign.html 
+Gunnell, K. , Murphy, B.  and Wiiliams, C.  (2013).  Designing for Biodiversity: A technical 
+guide for new and existing buildings.  London. 
+Hundt, L. (2012) Ed. Bat Surveys: Good Practice Guidelines. 2nd Edition. Bat Conservation 
+Trust, London. 
+Joint Nature Conservation Committee (2010 Ed. ).  Handbook for Phase 1 Habitat Survey – 
+A Technique for Environmental Audit.  JNCC.  Peterborough. 
+Mitchell-Jones, A. J, and McLeish, A. P.  Ed. , (2004).  3rd Edition Bat Workers' Manual, 
+178 pages b/w photos, softback, ISBN 1 86107 558 8. 
+Natural England (NE) (2017).  Multi Agency Geographic Information for the Countryside 
+(MAGIC).  Available at www. magic. gov. uk. 
+Russ, J.  (2012).  British Bat Calls A Guide to Species Identification.  
+Welsh Government (WG) and Natural Resources Wales (2017).  Lle A Geo-Portal for 
+Wales.  Available at: http://lle. gov. wales/home  
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+56 
+ 
+ 
+Figure 1 Phase 1 Habitat Map 
+ 
+ 
+!
+!
+!
+! !
+!
+!
+! ! !
+! ! ! !
+!
+D D D D D D
+D
+D
+!
+! !
+! ! !
+! !
+!
+!
+!
+|||||||||
+||||||
+||||||||||
+!
+!
+! !
+VIVIVI
+VIVI
+! !
+! !
+!
+!
+!
+! !! ! ! !
+!
+! !
+!
+!
+! ! !
+! ! !
+!
+!
+!
+! ! ! !
+! !
+!
+! !
+!
+!
+!
+! !
+! ! ! ! ! ! !
+!
+! ! ! !! ! !
+! !
+||||||||||
+! ! ! !
+! ! ! ! !
+|||
+|
+|
+|
+|||
+||
+! ! !
+! ! ! !
+! ! ! !
+!
+! ! !
+!
+!
+!
+! ! !
+!
+!
+! ! ! ! ! ! !
+! ! ! ! ! ! !
+!
+! ! ! ! ! !
+! ! !
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+|
+||||
+|
+||||
+||||||
+||
+|
+|
+|
+|
+|||
+|
+|
+|||
+|||||||||||
+|
+|||
+|
+|||
+|
+||
+|
+|||
+|||||||
+|||||||
+|||||
+||
+|||
+|||
+|
+|||||
+||
+||
+|||||||
+|||
+|||||||
+|
+|
+||||||||||
+||||
+||
+|||||
+||||||
+||||||||
+|||
+|||||||
+||||
+|
+||
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+||
+|
+|||
+|
+|
+||||||||||||||||
+|||||||||||||||||||||
+||||||||||
+||||||
+||||
+|
+|
+|||
+|||
+|
+|
+||
+|
+|||
+|
+|
+|||
+|||||||
+||
+||||||||||
+|
+||||
+||||||||||||||||||
+||
+|||||
+||
+||||
+|||
+|
+||
+|
+|
+|
+|||||||||
+||||
+|
+||||||||||
+|||||||||
+|
+|
+||||||
+|
+||
+||||||
+|||
+|||||||||
+|||||||||
+|
+||
+||
+|
+||||||||||||
+|
+|||||
+|||
+||
+|
+||
+|
+|
+|
+|
+||
+|
+|
+||||||||
+||
+||
+|
+|
+|
+!
+!
+!
+!
+!
+||||
+||
+||||
+|
+|
+|
+||
+|
+|||
+|
+|||||||||||||
+|
+||||
+|
+|
+|
+|||||
+||
+|
+|
+|||||||||||||
+|
+||||||||||
+|
+|
+|
+|
+||||||
+|||||||
+|
+|
+|||
+||||||||
+|||||
+|
+|||||||||||
+|||||||
+||||
+||||
+||||||||||
+||||||||
+||||||||||||
+|||||||
+|||||||||||
+|||||||||||||
+|
+|||
+||||
+||||||||||
+|||
+|||||||
+||
+||||||||
+|||||||||||
+||
+|
+|
+|
+|
+|
+||
+|
+|
+||
+||
+|
+|
+|
+|
+|
+|
+|
+||
+|
+|
+||
+||| |
+||
+|
+||
+||
+||
+||
+|
+|
+|||||||
+|
+||||||||||||||
+||||||||
+|
+||
+|||||||||||
+||
+|||||
+|
+|
+||||||||||||
+|
+||||
+||
+!
+! ! !
+!
+!
+! ! !
+! !
+!
+||||||||||||||||||||||||||
+|
+|||
+|||||
+|
+||
+|
+|
+|
+|
+|
+|
+||
+|
+|
+|||||||||||||||||||||||||||
+|||||||||||
+|||||||||
+||||
+|
+||
+|
+|
+|
+|
+|
+|||||||||
+|
+|
+|
+||
+|||
+||
+|||
+|
+|
+||||
+|||||||
+|||||
+|||||
+|||
+|
+|
+|||||||||||||
+||||||||||||
+||
+||||||||||||||||||
+|||
+|||||||
+||||||
+||
+|||
+||
+||||||
+|
+|
+||
+||
+||
+|
+|
+|
+||||
+|
+|
+||||||
+|
+|
+||
+|
+|
+|
+||
+|
+|
+||||
+|
+||
+|
+|
+|
+|
+||||||||
+||||||||
+|
+|
+|||
+|
+|
+|
+|
+|||
+|
+|
+||||
+||||
+|||
+||||||||||||
+|
+|
+|
+||||||||||||||||||
+|
+|||
+|||
+|||||||||||||||||||||
+||||
+|
+|
+||||
+|||
+|
+|||
+|
+||
+|
+|
+|
+|
+|
+|||
+|||
+|
+||
+||||||
+||
+||||||||
+||||
+! ! ! ! ! ! ! !
+|
+|
+||
+|
+||||
+|
+|
+|
+||||
+|||
+|||
+||||||||
+||||
+|||||
+|
+||||||||
+|
+|
+|
+||||||
+||||
+|
+||||||||||
+|
+||||||||
+|||||
+||||
+||||
+|||||||||||||||||||||
+|||||||||||||||||
+|||
+|
+|||||||||||
+||||||||||
+||
+||
+||||||
+!
+!
+!
+!
+! !
+! !
+!
+!
+|||||
+|||
+|||||||||||
+||
+|||||||
+||||
+||
+|
+|
+|
+|
+||
+|||||
+||||||||||||||||||||||||
+! !
+!
+! ! ! ! !
+!
+!
+!
+|||||||||
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\F1_Phase1Habitats_v6_WithoutPointFeatures.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+PHASE 1 HABITAT MAP
+005
+Scale at A3: 1:8,000
+FIGURE 1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+29/11/17
+Project Site Boundary
+Phase 1 Habitat Linear Features
+D D
+Scrub - Scattered
+! !
+Row of trees - broadleaved
+Running Water
+Intact Hedge - Species-Poor
+Defunct Hedge - Species-Poor
+VIVIVI
+Hedge with Trees - Native Species-Rich
+|||||| Hedge with Trees - Species-Poor
+|||||| Fence
+! ! ! Earth Bank
+Phase 1 Habitat Areas
+Broadleaved woodland - semi-natural
+Broadleaved woodland - plantation
+Dense/Continuous scrub
+D D D D
+D D D DScattered scrub
+SI
+SI
+Semi-improved - neutral grassland
+I
+I
+I
+I
+I
+I Improved grassland
+Marsh/marshy grassland
+Tall ruderal - herb and fern
+Dry heath/acid grassland mosaic
+Buildings
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+Bare ground
+Hard standing
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+57 
+ 
+ 
+Figure 2 Building Ground Level Roost Assessment Results and Tree 
+Potential Bat Roost Feature Climbed Inspection Results 
+ 
+ 
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_ ^_
+^_^_ ^_
+^_
+^_
+^_
+^_
+^_
+^_
+^_^_^_
+^_
+^_
+^_
+^_
+^_
+^_^_^_
+^_
+^_
+9
+8
+7
+6
+5
+4
+3
+2
+1
+45
+44
+43
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+27 26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+7
+5
+4
+3
+1
+6 
+8 
+2 
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F2_0_Roost_Assessment_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+PRELIMINARY GROUND 
+LEVEL ASSESSMENT 
+RESULTS FOR BUILDINGS 
+AND POTENTIAL ROOST 
+FEATURE CLIMBED 
+INSPECTION RESULTS
+001
+Scale at A3: 1:8,000
+FIGURE 2
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+Project Site Boundary
+Potential Tree Roost Feature Climbed
+Inspection Results
+^_
+Moderate
+^_
+Low
+^_
+Negligible
+Preliminary Ground Level Assessment
+Results for Buildings
+#*
+Confirmed
+#*
+High
+#*
+Moderate
+#*
+Low
+#*
+Negligible
+Note:
+Buildings 6,7, and 8 based on BSG 2014. 
+Not assessed in 2017.
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+58 
+ 
+ 
+Figure 3.1 Bat Activity Transects North and South with Listening 
+Points 
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+9
+9
+6
+9
+8
+7
+5
+4
+3
+2
+1
+8
+9
+7
+6
+5
+4
+3
+2
+1
+12
+12
+11
+10
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F3_1_Activity_Transect_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BAT ACTIVITY 
+TRANSECTS WITH 
+LISTENING POINTS
+001
+Scale at A3: 1:8,000
+FIGURE 3.1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+!(
+North Transect Listening Points
+!(
+South Transect ListeningPoints
+North Transect - 4.65km
+South Transect - 6.08km
+Project Site Boundary
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+59 
+ 
+ 
+Figure 4.2 Bat Activity Transect North with Listening Points 
+ 
+ 
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+^_
+^_
+^_
+^_
+^_
+3
+44
+36
+21
+19
+7
+5
+4
+3
+1
+6 
+8 
+2 
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F4_1_Roost_Assessment_Results_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BUILDING AND TREE 
+ROOST RESULTS
+001
+Scale at A3: 1:8,000
+FIGURE 4.1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+Project Site Boundary
+^_
+Trees - Confirmed roost
+^_
+Trees - No confirmed roost
+#*
+Buildings - No confirmed roost
+#*
+Not assessed in 2017
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+60 
+ 
+ 
+Figure 5.3 Bat Activity Transect South with Listening Points 
+ 
+ 
+ 
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+#*
+#*GF
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*#*#*
+#*#*
+#*#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*#* #*
+#*#*
+#*
+#*
+#*
+!(")
+#*
+GF
+#*
+#*
+")
+#*
+")
+#*#*#*
+#*
+!(#*#* #*
+#*
+#*
+#*
+#*
+#*#*
+#*#*#*#*
+#*
+!(
+#*#*!(#*
+#*
+#*
+^_
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+")
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+!(#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*
+!(
+#*#*
+#*
+#*
+#* ")
+#*
+#*
+#*#*
+#*
+#*
+#*#*
+#*#*#*
+#*
+#*!(
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*!(
+!(
+!(
+!(
+!(
+")
+#*
+!(
+#*#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*")!(")
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*XW
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*!(
+#*#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*
+#* #*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+^_
+#*
+#*
+#*
+#*
+#*
+#* #*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+!(
+#*
+!(#*
+#*#*#*
+#*#*
+#*
+#*!(
+!(#*
+#*
+#*
+#*
+!(
+#*
+!(
+#*#*
+#*!(
+#*!(
+#*#*!(
+#*
+#*!(#*
+#*!(
+#*
+#*#*!(
+#*
+!(!(
+!(
+!(
+!(
+!(#*
+#*
+!(
+#*
+#*
+#*
+#*
+")
+#*
+#*
+#*
+#*#*
+#*
+!(
+#*
+#*#*
+#*#*!(
+#*#*!(
+#*#*!(
+#*
+#*#*
+#*#*#*#*
+#*#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*#*
+#*
+#*#*
+#*
+GF
+#*#*
+#*
+GF
+#*
+#*
+#*
+#*
+#*
+^_
+GF
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+!(
+#*
+GF
+#*
+#*
+!(
+#*
+#*#*
+#*#*
+#*!(
+#*#*
+#*#*
+#*#*!(
+#*#*
+#*#*
+#*#*
+#*!(
+#* #*#*
+!(
+#*
+!(
+#*
+#*!(
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+#*
+#* #*!(
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+6
+9
+8
+7
+5
+4
+3
+2
+1
+9b
+9a
+12
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F5_3_Activity_Transect_Results_South_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BAT ACTIVITY 
+TRANSECT RESULTS 
+SOUTH
+001
+Scale at A3: 1:5,000
+FIGURE 5.3
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+#*
+Common pipistrelle
+#*
+Soprano pipistrelle
+#*
+Nathusius’ pipistrelle 
+!(
+Daubenton’s
+!(
+Myotis species 
+!(
+Natterer’s
+")
+Noctule
+")
+Serotine
+^_
+Possible long-eared 
+XW
+Lesser horseshoe 
+GF
+Indeterminate
+!(
+South Transect Listening Points
+South Transect - 6.08km
+Project Site Boundary
+Solar Parks
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+61 
+ 
+ 
+Figure 4.1 2017 Building and Tree Roost Results  
+ 
+ 
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+^_
+^_
+^_
+^_
+^_
+3
+44
+36
+21
+19
+7
+5
+4
+3
+1
+6 
+8 
+2 
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F4_1_Roost_Assessment_Results_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BUILDING AND TREE 
+ROOST RESULTS
+001
+Scale at A3: 1:8,000
+FIGURE 4.1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+Project Site Boundary
+^_
+Trees - Confirmed roost
+^_
+Trees - No confirmed roost
+#*
+Buildings - No confirmed roost
+#*
+Not assessed in 2017
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+62 
+ 
+ 
+Figure 4.2 BSG Building Results 2014  
+ 
+ 
+ 
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+8
+7
+4
+3
+5
+6
+9
+2
+1
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F4_2_BSG Building Results 2014_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BSG BUILDING 
+RESULTS 2014
+001
+Scale at A3: 1:8,000
+FIGURE 4.2
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+Project Site Boundary
+#*
+Confirmed
+#*
+Moderate
+#*
+Low
+#*
+Negligible
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+63 
+ 
+ 
+Figure 5.1 Bat Activity Transect Results 
+ 
+ 
+#*
+#*GF
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*#*#*
+#*#*
+#*#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*#*#*
+#*#*
+#*
+#*
+#*
+!(")
+#*
+#*
+#*#*
+#*#*#*
+#*#*
+#*
+#*
+")
+#*
+#*#*#*#*
+#*#*
+#*
+#*#*
+#*#*#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+!(#*
+#*
+#*
+GF
+#*#*
+#*#*
+#*!(
+#*
+#*
+#*
+#*#* #*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+")
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+GF
+#*
+#*
+")
+#*
+")
+#*#*#*
+#*
+!(#*#*#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*#*#*
+#*
+!(
+#*#*!(#*#*#*
+^_
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+")
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+!(#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+!(
+#*#*#*
+#*
+#* ")
+#*
+#*
+#*#*
+#*
+#*
+#*#*
+#*#*#*
+#*
+#*!(
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*!(
+!(
+!(
+!(
+!(
+")
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*!(
+#*
+#*
+#*#*#*
+#*#*
+#*#*#*#*
+#*
+#* #*
+#*
+#*#*#*#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+!(!(
+!(
+#*
+#*#*
+")
+#*
+!(#*#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*")!(")
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*XW
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*!(
+#*#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*^_#*
+#*#*
+#*
+#*#*#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*!(#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*#*#*
+#*
+#*#*
+#*
+#*
+#*")
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*#* #*
+!(
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+^_
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+#*
+!(
+#*
+!(#*
+#*#*#*
+#*#*
+#*
+#*!(
+!(#*
+#*
+#*
+#*
+!(
+#*
+!(
+#*#* #*!(
+#*!(
+#*#*!(
+#*
+#*!(#*
+#*!(
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(#*#*
+#*#*
+#*!(
+#*#*
+#*
+#*
+!(
+")
+!(
+#*#*
+!(
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*#*!(
+#*
+#*
+!(#*
+!(#*
+#*#*
+#*
+#*
+#*
+#*
+#*!(
+#*#*!(
+#*
+#*^_
+#*
+#*
+#*#*
+#*
+#*#*#*#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*#*
+!(!(
+!(
+!(
+!(
+!(#*
+#*
+!(
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+#*
+!(
+#*
+#*#*
+#*
+#*
+#*!(
+!(
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+")
+#*
+#*
+#*
+#*#*
+#*
+!(
+#*
+#*#*
+#*#*!(
+#*#*!(
+#*#*!(
+#*
+#*#*
+#*#*#*#* #*#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*#*
+#*
+#*#*
+#*
+GF
+#*#*
+#*
+GF
+#*
+#*
+#*
+#*
+#*
+^_ GF
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+!(
+#*
+GF
+#*
+#*
+!(
+#*
+#*
+#*#*
+#*
+!(
+GF
+#*")
+!(
+!(#*
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*#* #*#*
+#*!(
+#*#*
+#*#*
+#*#*!(
+#*#*
+#*#*
+#*#*
+#*!(
+#*#*#*
+!(
+#*
+!(
+#*
+#*!(
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*")#*
+#*
+#*#*
+#*
+#*
+#*!(
+#*!(
+#*!(
+#*
+#*
+#*
+!(
+!(#*
+#*
+#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*!( #*#*
+#*
+#*
+#*
+#*
+#*
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F5_1_Activity_Transect_Results_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+ BAT ACTIVITY 
+TRANSECT RESULTS
+001
+Scale at A3: 1:8,000
+FIGURE 5.1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+#*
+Common pipistrelle
+#*
+Soprano pipistrelle
+#*
+Nathusius’ pipistrelle 
+!(
+Daubenton’s
+!(
+Myotis species 
+!(
+Natterer’s
+")
+Noctule
+")
+Serotine
+^_
+Long-eared 
+^_
+Possible long-eared 
+XW
+Lesser horseshoe 
+GF
+Indeterminate
+North Transect - 4.65km
+South Transect - 6.08km
+Project Site Boundary
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+64 
+ 
+ 
+Figure 5.2 Bat Activity Transect Results - North 
+ 
+ 
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+#*
+#*#*
+#*#*#*
+#*#*
+#*
+#*
+")
+#*
+#*#*#*#*
+#*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+!(#*
+#*
+#*
+GF
+#*#*
+#*#*
+#*!(
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+")
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*!(
+#*
+#*#*#*
+#*#*
+#*#*#*#*
+#*
+#*
+#*
+#*
+#*#*#*#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+!(!(
+!(
+#*
+#*#*
+")
+#*
+#*
+#*^_#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*!(#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*#*#*
+#*
+#*#*
+#*
+#*
+#*")
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(#*#*
+#*#*
+#*!(
+#*#*
+#*
+#*
+!(
+")
+!(
+#*#*
+!(
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*#*!(
+#*
+#*
+!(#*
+!(#*
+#*#*
+#*
+#*
+#*
+#*
+#*!(
+#*#*!(
+#*
+#*^_
+#*
+#*
+#*#*
+#*
+#*#*#*#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+#*
+!(
+#*
+#*#*
+#*
+#*
+#*!(
+!(
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+!(
+GF
+#*")
+!(
+!(#*
+#*
+#* #*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*#*
+#*")#*
+#*
+#*#*
+#*
+#*
+#*!(
+#*!(
+#*!(
+#*
+#*
+#*
+!(
+!(#*
+#*
+#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*!(
+#*#*
+#*
+#*
+#*
+8
+9
+7
+6
+5
+4
+3
+2
+12
+11
+10
+1a
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F5_2_Activity_Transect_Results_North_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BAT ACTIVITY 
+TRANSECT RESULTS 
+NORTH
+001
+Scale at A3: 1:5,000
+FIGURE 5.2
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+#*
+Common pipistrelle
+#*
+Soprano pipistrelle
+#*
+Nathusius’ pipistrelle 
+!(
+Daubenton’s
+!(
+Myotis species 
+!(
+Natterer’s
+")
+Noctule
+")
+Serotine
+^_
+Long-eared 
+^_
+Possible long-eared 
+GF
+Indeterminate
+!(
+North Transect Listening Points
+North Transect - 4.65km
+Solar Parks
+Project Site Boundary
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+65 
+ 
+ 
+ 
+Figure 5.3 Bat Activity Transect Results – South 
+ 
+ 
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+#*
+#*GF
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*#*#*
+#*#*
+#*#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*#* #*
+#*#*
+#*
+#*
+#*
+!(")
+#*
+GF
+#*
+#*
+")
+#*
+")
+#*#*#*
+#*
+!(#*#* #*
+#*
+#*
+#*
+#*
+#*#*
+#*#*#*#*
+#*
+!(
+#*#*!(#*
+#*
+#*
+^_
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+")
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+!(#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*
+!(
+#*#*
+#*
+#*
+#* ")
+#*
+#*
+#*#*
+#*
+#*
+#*#*
+#*#*#*
+#*
+#*!(
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*!(
+!(
+!(
+!(
+!(
+")
+#*
+!(
+#*#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*")!(")
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*XW
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*!(
+#*#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*
+#* #*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+^_
+#*
+#*
+#*
+#*
+#*
+#* #*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+!(
+#*
+!(#*
+#*#*#*
+#*#*
+#*
+#*!(
+!(#*
+#*
+#*
+#*
+!(
+#*
+!(
+#*#*
+#*!(
+#*!(
+#*#*!(
+#*
+#*!(#*
+#*!(
+#*
+#*#*!(
+#*
+!(!(
+!(
+!(
+!(
+!(#*
+#*
+!(
+#*
+#*
+#*
+#*
+")
+#*
+#*
+#*
+#*#*
+#*
+!(
+#*
+#*#*
+#*#*!(
+#*#*!(
+#*#*!(
+#*
+#*#*
+#*#*#*#*
+#*#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*#*
+#*
+#*#*
+#*
+GF
+#*#*
+#*
+GF
+#*
+#*
+#*
+#*
+#*
+^_
+GF
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+!(
+#*
+GF
+#*
+#*
+!(
+#*
+#*#*
+#*#*
+#*!(
+#*#*
+#*#*
+#*#*!(
+#*#*
+#*#*
+#*#*
+#*!(
+#* #*#*
+!(
+#*
+!(
+#*
+#*!(
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+#*
+#* #*!(
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+6
+9
+8
+7
+5
+4
+3
+2
+1
+9b
+9a
+12
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F5_3_Activity_Transect_Results_South_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+BAT ACTIVITY 
+TRANSECT RESULTS 
+SOUTH
+001
+Scale at A3: 1:5,000
+FIGURE 5.3
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+#*
+Common pipistrelle
+#*
+Soprano pipistrelle
+#*
+Nathusius’ pipistrelle 
+!(
+Daubenton’s
+!(
+Myotis species 
+!(
+Natterer’s
+")
+Noctule
+")
+Serotine
+^_
+Possible long-eared 
+XW
+Lesser horseshoe 
+GF
+Indeterminate
+!(
+South Transect Listening Points
+South Transect - 6.08km
+Project Site Boundary
+Solar Parks
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+66 
+ 
+ 
+Figure 6 Mining Features - Hibernation Potential  
+ 
+ 
+A
+Ú
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F6_1_Mining_Hibernation_Potnetial_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+MINING FEATURES - 
+POTENTIAL 
+UNDERGROUND 
+HIBERNATION SITES
+001
+Scale at A3: 1:11,463
+FIGURE 7.0
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+Ú
+Disused adit
+A
+Disused mine shaft
+Project Site Boundary
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+67 
+ 
+ 
+Figure 7 Bat Activity - Areas of Potential Impact 
+ 
+ 
+#*
+#*GF
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*#*#*
+#*#*
+#*#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*#*#*
+#*#*
+#*
+#*
+#*
+!(")
+#*
+#*
+#*#*
+#*#*#*
+#*#*
+#*
+#*
+")
+#*
+#*#*#*#*
+#*#*
+#*
+#*#*
+#*#*#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+!(#*
+#*
+#*
+GF
+#*#*
+#*#*
+#*!(
+#*
+#*
+#*
+#*#* #*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+")
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+GF
+#*
+#*
+")
+#*
+")
+#*#*#*
+#*
+!(#*#*#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*#*#*
+#*
+!(
+#*#*!(#*#*#*
+^_
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+")
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+!(#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+!(
+#*#*#*
+#*
+#* ")
+#*
+#*
+#*#*
+#*
+#*
+#*#*
+#*#*#*
+#*
+#*!(
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*!(
+!(
+!(
+!(
+!(
+")
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*!(
+#*
+#*
+#*#*#*
+#*#*
+#*#*#*#*
+#*
+#* #*
+#*
+#*#*#*#*
+#*#*
+#*#*
+#*
+#*#*
+#*
+!(!(
+!(
+#*
+#*#*
+")
+#*
+!(#*#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*")!(")
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*XW
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*!(
+#*#*
+#*
+#*#*!(
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*^_#*
+#*#*
+#*
+#*#*#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*!(#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*
+#*#*#*
+#*
+#*#*
+#*
+#*
+#*")
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*#* #*
+!(
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+^_
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*#*
+#*
+#*
+#*
+#*
+!(
+#*
+!(#*
+#*#*#*
+#*#*
+#*
+#*!(
+!(#*
+#*
+#*
+#*
+!(
+#*
+!(
+#*#* #*!(
+#*!(
+#*#*!(
+#*
+#*!(#*
+#*!(
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*
+!(#*#*
+#*#*
+#*!(
+#*#*
+#*
+#*
+!(
+")
+!(
+#*#*
+!(
+#*
+#*
+#*#*
+#*#*
+#*
+#*#*#*!(
+#*
+#*
+!(#*
+!(#*
+#*#*
+#*
+#*
+#*
+#*
+#*!(
+#*#*!(
+#*
+#*^_
+#*
+#*
+#*#*
+#*
+#*#*#*#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*#*
+!(!(
+!(
+!(
+!(
+!(#*
+#*
+!(
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*#*
+#*#*
+#*
+#*#*
+#*#*
+#*#*
+#*
+#*
+!(
+#*
+#*#*
+#*
+#*
+#*!(
+!(
+#*
+#*
+#*
+!(
+#*
+#*
+#*
+#*
+#*
+#*
+")
+#*
+#*
+#*
+#*#*
+#*
+!(
+#*
+#*#*
+#*#*!(
+#*#*!(
+#*#*!(
+#*
+#*#*
+#*#*#*#* #*#*
+#*
+#*
+#*
+!(
+#*
+#*
+#*#*
+#*
+#*#*
+#*
+GF
+#*#*
+#*
+GF
+#*
+#*
+#*
+#*
+#*
+^_ GF
+#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*
+#*
+!(
+#*
+GF
+#*
+#*
+!(
+#*
+#*
+#*#*
+#*
+!(
+GF
+#*")
+!(
+!(#*
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*#*
+#*
+#*
+#*#*
+#*
+#*#* #*#*
+#*!(
+#*#*
+#*#*
+#*#*!(
+#*#*
+#*#*
+#*#*
+#*!(
+#*#*#*
+!(
+#*
+!(
+#*
+#*!(
+#*
+#*
+#*
+#*#*#*!(#*
+#*
+#*
+#*#*!(
+#*
+#*
+#*
+#*
+#*
+#*#*
+#*#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*
+#*
+#*#*
+#*")#*
+#*
+#*#*
+#*
+#*
+#*!(
+#*!(
+#*!(
+#*
+#*
+#*
+!(
+!(#*
+#*
+#*!(
+#*
+#*
+#*
+#*#*
+#*
+#*!( #*#*
+#*
+#*
+#*
+#*
+#*
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Bat Report\F7_1_Bat_Areas _of_Impact_and_Oppertunitiy_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+ BAT ACTIVITY -
+AREAS OF POTENTIAL 
+IMPACT
+001
+Scale at A3: 1:8,000
+FIGURE 7.0
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CM
+Date:
+App'd:
+CA
+29/11/17
+#*
+Common pipistrelle
+#*
+Soprano pipistrelle
+#*
+Nathusius’ pipistrelle
+!(
+Daubenton’s
+!(
+Myotis species
+!(
+Natterer’s
+")
+Noctule
+")
+Serotine
+^_
+Long-eared
+^_
+Possible long-eared
+XW
+Lesser horseshoe
+GF
+Indeterminate
+Generating Equipment Site
+Electrical Connection (400 kV)
+Gas Connection
+Laydown Areas
+Existing Access Road
+ Access Road
+Indicative Area of Potential Impacts from
+Lighting
+Indicative Area of Potential Impacts from
+Severance
+Indicative Area of Potential Impacts from
+Severance and Lighting
+Project Site Boundary
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+69 
+ 
+ 
+Appendix 1A Results of Preliminary Ground Level Roost Assessment – Buildings and Trees and 
+Results of Potential Roost Feature Climbed Inspection 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+Building 1 
+Approximately 120m outside of the 
+Project Site boundary to the north 
+east This was not fully assessed due 
+to time constraints of the PEA survey 
+(AECOM, 2017).  This is a modern 
+building with a tiled roof.  There were 
+no obvious gaps.  House sparrows 
+were observed using spaces in the 
+roof.  
+Low 
+Not climbed 
+N/A 
+No further survey 
+required – outside 
+of 
+Project 
+Site 
+boundary 
+Building 2 
+Approximately 75m outside of the 
+Project Site boundary to the west.  A 
+brick built building with a tower and 
+asbestos pitched roof.  There are fly-
+in access and crevice points.   
+High.  
+BSG confirmed this as a 
+roost in 2014 (PEIR 
+Appendix 8.8).  
+Not climbed 
+N/A 
+No further survey 
+required – outside 
+of 
+Project 
+Site 
+boundary 
+Building 3 
+Approximately 5m outside of the 
+Project Site boundary to the west.  A 
+brick built building with a pitched 
+asbestos roof.  There are gaps in the 
+mortar and brick work and behind 
+the wooden facia boards.  
+Moderate 
+Not climbed 
+N/A 
+One 
+dusk, 
+one 
+dawn; at least one 
+before 
+end 
+of 
+August 
+Building 4 
+Approximately 10m outside of the 
+Project Site boundary to the west.  A 
+single story brick built building with 
+gaps leading to a cavity wall.  Gaps 
+are present on the east and south 
+face of this building.  
+Moderate 
+Not climbed 
+N/A 
+One 
+dusk, 
+one 
+dawn; at least one 
+before 
+end 
+of 
+August 
+Building 5 
+Modern steel barn; industrial building 
+of steel frame construction with 
+asbestos corrugated roof and 
+asbestos and steel walls.  Within the 
+building there are a number of 
+transparent corrugated sheet 
+Negligible 
+Not climbed 
+N/A 
+No further survey 
+required 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+70 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+allowing light to enter.  High 
+disturbance as the building is used 
+regularly for farm maintenance and 
+horses are kept in the east section.  
+There is an opening  that would 
+allow bats to access the building 
+(open sections to the east and west, 
+small hole 20x20cm within wall on 
+southern aspect, door to the east 
+and west usually left open).  
+However, no evidence of bats 
+(droppings) was found around the 
+outside of the building.   
+Tree 1 
+Within the Project Site Boundary.  An 
+oak species, 14m in height with a 
+Diameter at Breast Height (BBH) of 
+0. 7m.  This tree has south facing 
+split at 6m.  
+Low 
+Unable to access fully to 
+inspect due to dense 
+bramble – same BRP.   
+Low 
+No further survey 
+required 
+Tree 2 
+Within the Project Site Boundary.  An 
+oak species, 12m in height with a 
+DBH of 0. 6m.  This tree had dense 
+ivy cover which could be obscuring 
+potential bat features.  The ivy itself 
+did not appear to be a suitable 
+feature for use by bats.  
+Low 
+Cannot climb on road 
+and ivy present – same 
+BRP.   
+N/A 
+No further survey 
+required 
+Tree 3 
+Within the Project Site Boundary.  An 
+oak species, 17m in height with a 
+DBH of 1. 1m.  There is a knothole at 
+3m facing north west and a crack in 
+the limb at 5m facing west.   
+Moderate 
+Unable to access - same 
+BRP.  
+Moderate 
+One dusk, one 
+dawn; at least one 
+before end of 
+August 
+Tree 4 
+Assessed as part of the PEA 
+(AECOM, 2017). Removed from this 
+report as approximately 55m outside 
+of the Project Site boundary.  
+Low 
+ N/A 
+N/A 
+N/A 
+Tree 5 
+Approximately 20m outside of the 
+Low 
+Not climbed – outside of 
+N/A 
+No further survey 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+71 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+Project Site boundary to the south.  
+An oak species, 14m in height with a 
+DBH of 0. 8m.  A hollow at 0. 5m 
+within the base of the tree.  
+Project Site boundary 
+required 
+Tree 6 
+Within the Project Site Boundary.  A 
+pedunculate oak, 12m in height with 
+a DBH of 0. 7m.  There is a spilt in 
+the stem facing south towards the 
+road and a woodpecker hole.   
+Moderate 
+Features not suitable, 
+open, exposed and does 
+not extend into cavity.  
+Negligible 
+No further survey 
+required 
+Tree 7 
+Within the Project Site Boundary.  A 
+pedunculate oak, 8m in height with a 
+DBH of 1m.  There are splits in the 
+stem facing west.  .  
+Low 
+Unable to access - same 
+BRP.  
+Low 
+No further survey 
+required 
+Tree 8 
+Within the Project Site Boundary.  An 
+oak species, 12m in height with a 
+DBH of 0. 6m.  There is a trunk 
+cavity at 1. 5m, viewed from the 
+road.  The tree is located within an 
+area of no access and the other side 
+could not be viewed.   
+Moderate  
+Feature checked with 
+endoscope, no cavity, 
+and open at top.  Kept in 
+as could not see/access 
+one side of tree.  
+Low 
+No further survey 
+required 
+Tree 9 
+Within the Project Site Boundary.  An 
+oak species 8m in height with a DBH 
+of 0. 5m.  There are thick stems of 
+ivy on the east face.   
+Moderate 
+Ivy not dense enough to 
+support roosting bats, no 
+other features present.   
+Negligible 
+No further survey 
+required 
+Tree 10 
+Approximately 25m outside of the 
+Project Site boundary to the east.  A 
+rowan 12m in height with a DBH of 
+0. 4m.  There is cavity approximately 
+1m from the ground which appears 
+to extend upwards.  There is 
+currently an active wasp nest in the 
+cavity which may deter bats from 
+using it (no nest as of 28/07/17).  
+Fallen branch in front of feature.   
+Moderate 
+Feature checked using 
+endoscope, no bats or 
+evidence of bats.  
+Chance it could be used 
+by individual/small 
+number of bats.   
+Low 
+No further survey 
+required 
+Tree 11 
+Within the Project Site Boundary.  A 
+Low 
+Features checked using 
+Low 
+No further survey 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+72 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+multi-stem oak species 14m in height 
+with a DBH of 0. 6m.  There is some 
+loose bark and a gap in the base.   
+endoscope, no bats or 
+evidence of bats.  Loose 
+bark not suitable as too 
+exposed.  Hole at base 
+may be suitable for 
+roosting bats.  No bats or 
+evidence of bats 
+recorded.   
+required 
+Tree 12 
+A willow; 12m tall, multi stem 0. 25m 
+average.  DBH.  Split on inside of 
+main stem opens into cavity at 1m 
+above ground.  In tree line along 
+fence.   
+Low 
+Checked with 
+endoscope, feature not 
+suitable, open and 
+exposed.   
+Negligible 
+No further survey 
+required 
+Tree 13 
+An oak; 15m tall; 0. 6m DBH; 
+Missing limbs at 5m could open up 
+into cavity; small gaps where stem 
+has broken.   
+Low 
+Unable to access.   
+Low  
+No further survey 
+required 
+Tree 14 
+An oak; 10m tall; 0. 6m DBH; 
+knothole at 2m; cannot see if it 
+opens up into cavity.  Check with 
+endoscope.  Outside of fence line in 
+southern field.   
+Low 
+Checked with 
+endoscope, no cavity 
+present, shallow does 
+not extend, not suitable 
+for roosting bats.  
+Negligible 
+No further survey 
+required 
+Tree 15 
+An oak; 15m tall; 0. 75m DBH; Thick 
+ivy stems; no features observed but 
+of suitable size/age to support BRP 
+features that may be hidden by ivy.  
+In treeline along fence.   
+Low 
+Unable to climb due to 
+ivy cover.   
+Low 
+No further survey 
+required 
+Tree 16 
+No ground level assessment 
+required. Tree approximately 30m 
+from the Project Site boundary/   
+N/A 
+N/A 
+ N/A 
+ N/A 
+Tree 17 
+A  birch; 10m tall; 0. 4m DBH; split 
+and cavity A0. 5m on south face.   
+Low 
+Checked with 
+endoscope, feature does 
+not extend, no cavity 
+present.   
+Negligible 
+No further survey 
+required 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+73 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+Tree 18 
+An oak; 10m tall; 0. 5m DBH; split in 
+branch on south face.   
+Low 
+Unable to climb, unsafe.  
+Low 
+No further survey 
+required 
+Tree 19 
+An ash; 20m tall; 1. 5m DBH; 
+Possible cavity inside main trunk, 
+viewable from south face, hollow on 
+the east face approx.  1m above 
+ground; thick ivy covering and 
+creating gaps for bats.   
+Moderate 
+Unable to access.  
+Moderate 
+One dusk, one 
+dawn; at least one 
+before end of 
+August 
+Tree 20 
+An oak; 12m tall; 1m DBH; Stems 
+removed leaving some gaps under 
+bark and holes approx.  6m above 
+ground.  Cannot enter field due to 
+horses.   
+Low 
+Unable to access.  
+Low 
+No further survey 
+required 
+Tree 21 
+An oak; 15m tall; 1m DBH; missing 
+limb with cracks and split in stem, 
+both facing south and approx. 1m 
+above ground.  Did not enter field in 
+which tree is rooted due to horses.   
+Moderate 
+Unable to access.  
+Moderate 
+One dusk, one 
+dawn; at least one 
+before end of 
+August 
+Tree 22 
+An oak; 8m tall; 0. 3m DBH; two 
+knotholes on east face.   
+Low 
+Holes do not extend, too 
+open and exposed, 
+features not suitable.  
+Negligible 
+No further survey 
+required 
+Tree 23 
+Edge of woodland adjacent to SI 
+grassland containing pylon.  Willows 
+not suitable; some alder may support 
+low BRP features; could not access 
+woodland to assess each tree.  
+Recommend any felling undertaken 
+under supervision as for Low BRP 
+trees for alder.   
+Negligible/Low 
+Woodland not accessed.  
+Negligible /Low  
+No further survey 
+required 
+Tree 24 
+An unknown dead species; 10m tall; 
+0. 25m DBH; loose bark covering an 
+area greater than an A4 page on 
+south face from ground level to 
+approx.  4m above ground level.  Ivy 
+covering trunk; only able to view 
+Low 
+Unable to access fully – 
+keep as Low.  
+Low 
+No further survey 
+required 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+74 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+south face, no access in woodland in 
+which it is rooted.   
+Tree 25 
+A birch; 15m tall; 0. 3m DBH; cavity 
+in trunk, no access to land to be able 
+to see if the cavity leads anywhere; 
+feature on east face  approx.  2. 5m 
+above ground.   
+Low 
+Unable to access fully – 
+keep as low.  
+Low 
+No further survey 
+required 
+Tree 26 
+An oak; 12m tall; 0. 3m DBH; loose 
+bark Approx.  2m up on west face of 
+rotten stem; located behind fence.   
+Low 
+Exposed from above, 
+feature not suitable.  
+Negligible 
+No further survey 
+required 
+Tree 27 
+A dead tree possibly oak; 8m tall; 
+0,25m DBH; large knothole on south 
+face approx. 2m above ground; 
+located behind fence.  
+Low 
+Not able to access fully – 
+keep as low.  
+Low 
+No further survey 
+required 
+Tree 28 
+An oak; 11m tall; 0. 4m DBH; rotten 
+and missing limbs at approx. 5m 
+above ground on south face; 
+adjacent to road, not climbable; 
+viewed from opposite side of road 
+only.  
+Low 
+No cavities present, 
+features not suitable, 
+open and exposed.   
+Negligible 
+No further survey 
+required 
+Tree 29 
+A birch; 12m tall; 0. 5m DBH; Two 
+downward facing holes on north face 
+approx. 1m above ground; located 
+between two fences.  First tree in 
+row from track.   
+Low 
+Holes do not extend, too 
+wet, not suitable.  
+Negligible 
+No further survey 
+required 
+Tree 30 
+An oak; 11m tall; 0. 6m DBH; Hole 
+where limb is missing at approx.  2. 
+5m above ground on west face; 
+access from north side of fence.   
+Low 
+Feature checked using 
+endoscope, no bats or 
+evidence of bats, 
+however feature may be 
+suitable for roosting bats. 
+Low 
+No further survey 
+required 
+Tree 31 
+An oak; 10m tall; 0. 5m DBH; 
+downward facing hole on main stem 
+approx.  1. 25m above ground on 
+east face.  In corner of field on own.   
+Low 
+Hole downward facing, 
+full of water, not suitable. 
+Negligible 
+No further survey 
+required 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+75 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+Tree 32 
+An ash (multi stemmed); 15m tall; 0. 
+3m DBH on average. ; knothole on 
+north face at 3m above ground; splits 
+on west and north faces at 1 – 2m 
+above ground; knothole on branch 
+overhanging woodland to south 
+facing west at4. 5m.  Located on 
+edge of woodland.   
+Moderate 
+Does not extend, open 
+and exposed.  One 
+upward feature may be 
+suitable, no bats or 
+evidence of bats.   
+Low 
+No further survey 
+required 
+Tree 33 
+A birch; 15 m tall; 0. 3m DBH; 
+knothole at 3m on west face.  Set 
+back into wood approx. 10m from 
+edge.   
+Low 
+Features checked using 
+endoscope, no bats or 
+evidence of bats, 
+however feature may be 
+suitable for roosting bats. 
+Low 
+No further survey 
+required 
+Tree 34 
+A birch (multi stemmed); 15m tall; 0. 
+4m DBH on average; cavity on 
+south-west  at 2m; set back in 
+woodland  approx.  5m from edge.   
+Moderate 
+Feature checked using 
+endoscope, no bats or 
+evidence of bats, 
+however feature may be 
+suitable for roosting bats. 
+Low 
+No further survey 
+required 
+Tree 35 
+An oak; 20m tall; 0. 5m DBH; 
+missing limb (part of ) on south-west 
+at 2. 5m.  On edge of woodland.   
+Low 
+Open from above, 
+exposed, feature not 
+suitable.   
+Negligible 
+No further survey 
+required 
+Tree 36 
+A birch; 30m tall; 0. 8m DBH.  Very 
+large cavity in trunk on west face at 
+2m.  Next to stream in woodland.   
+Moderate 
+Unable to find.   
+Moderate 
+One dusk, one 
+dawn; at least one 
+before end of 
+August 
+Tree 37 
+An oak; 20m tall; 0,4m DBH; 
+woodpecker hole on east face 
+viewed from a distance.  Access to 
+woodland not possible at the time of 
+survey.  Trees in woodland likely to 
+have BRP features.   
+Low 
+Unable to access.  
+Low  
+No further survey 
+required 
+Tree 38 
+An oak; 20m tall; 0. 3m DBH; 
+knothole at 8m on west face Access 
+to woodland not possible at the time 
+of survey.  Trees in woodland likely 
+Low 
+Unable to access.  
+Low  
+No further survey 
+required 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+76 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+to have BRP features.   
+Tree 39 
+A silver birch; 12m tall; 0. 5m DBH; 
+possible cavity at 3. 5m facing south-
+west and thick ivy stems; multi stem. 
+Low 
+No cavity present, no 
+other features present.   
+Negligible 
+No further survey 
+required 
+Tree 40 
+A rowan; 10m tall; 0. 25m DBH; 
+cavity at 1m from ground facing 
+south-west.   
+Low 
+Feature checked using 
+endoscope, no bats or 
+evidence of bats, 
+however feature may be 
+suitable for roosting bats. 
+Low 
+No further survey 
+required 
+Tree 41 
+SN 65445 01410 (+/-4m); rowan; 
+12m tall; 0. 3m DBH; split at 0. 5m 
+from ground extends up into tree, 
+facing west.  Set back from 
+woodland edge.  Photograph 55.   
+Moderate 
+Feature not suitable, 
+does not extend, open, 
+wet inside.  
+Negligible 
+No further survey 
+required 
+Tree 42 
+A silver birch; 10m tall; 0. 3m DBH; 
+cavity at 2m extends up into tree 
+facing west.  
+Moderate 
+Feature checked using 
+endoscope, no bats or 
+evidence of bats, 
+however feature may be 
+suitable for roosting bats. 
+Low 
+No further survey 
+required 
+Tree 43 
+A birch; 8m tall; 0. 2m DBH; cavity at 
+ground level extends up into tree; 
+facing south-west.   
+Low 
+Feature checked using 
+endoscope, no bats or 
+evidence of bats, 
+however feature may be 
+suitable for roosting bats. 
+Low 
+No further survey 
+required 
+Tree 44 
+An oak; 9m tall; 0. 3m DBH; cavity in 
+main trunk from ground facing south.  
+Endoscope.  In dense woodland juts 
+to the east of the stream.   
+Moderate 
+Unable to find.  
+Moderate 
+One dusk, one 
+dawn; at least one 
+before end of 
+August 
+Tree 45 
+An oak; 7m tall; 0. 3m DBH; loose 
+bark all the way up the main trunk 
+from ground level, Choked with ivy.   
+Moderate 
+Features checked using 
+endoscope, no bats or 
+evidence of bats, 
+however some features 
+may be suitable for 
+roosting bats.  Loose 
+bark not suitable – too 
+Low 
+No further survey 
+required 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+77 
+ 
+ 
+Feature 
+Description from Ground Based 
+Assessment 
+Initial BRP Category 
+from Ground Level 
+Description from Aerial 
+Assessment 
+BRP Category from 
+Climbed 
+Survey/Endoscope 
+Further Survey 
+open and exposed.   
+Tree 46 
+Beech. 23m tall. 1.2m DBH. Rot at 
+base of trunk on east face, fungal 
+growth blocking any access; block 
+knotholes on east, south and west 
+faces. Knotholes at 3 – 5m 
+Negligible  
+Not Required 
+Negligible 
+No further survey 
+required 
+Tree 47 
+Oak. 25m tall. 0.8m DBH. A few 
+missing small limbs, but no BRP 
+Negligible 
+Not Required 
+Negligible 
+No further survey 
+required 
+Tree 48 
+Oak. 20m tall. 0.8m DBH Viewed 
+north face only with binoculars; split 
+in large limb at 7m. Could not access 
+tree due to horses. 
+Low 
+Not climbed. No access 
+due to horses.  
+Low 
+No further survey 
+required 
+Tree 49 
+Oak. 20m tall. 1m DBH Missing limb 
+on SE face with small hole at 4m. 
+Low 
+Not climbed. No access 
+due to horses.  
+Low 
+No further survey 
+required 
+ 
+ 
+ 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+78 
+ 
+ 
+Appendix 2A BSG Report Buildings with Potential for Roosting Bats 
+Abergelli PEIR 2018 – BAT ACTIVITY TRANSECT AND ROOST SURVEY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+79 
+ 
+ 
+ 

@@ -1,0 +1,1510 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station 
+Order 
+ 
+6.2 Environmental Statement Appendices - Volume E 
+Noise 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+6.2 
+Regulation Number: 
+ 
+ 
+5(2)(a) & Infrastructure 
+Planning (Environmental Impact 
+Assessment) Regulations 2009 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018  
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 7.1
+Noise Survey Report
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Project 
+Noise Survey Report 
+ 
+ 
+Abergelli Power Limited 
+ 
+ 
+  
+  
+ 
+ 
+6 March 2018 
+ 
+   
+Abergelli Power Project 
+   
+Abergelli Power Limtied  
+  
+ 
+ 
+ 
+ 
+AECOM 
+ 
+ 
+Quality information 
+Prepared by 
+ 
+Checked by 
+ 
+Approved by 
+ 
+ 
+ 
+ 
+ 
+ 
+Sarah 
+Gilston 
+Graduate Acoustic Engineer 
+ 
+Mike Hewett 
+Regional Director 
+ 
+Natalie Williams 
+Principal EIA Consultant 
+ 
+ 
+Revision History 
+Revision 
+Revision date 
+Details 
+Authorized 
+Name 
+Position 
+1 
+07/03/18 
+Draft 
+ 
+Natalie Williams 
+Principal 
+EIA 
+Consultant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distribution List 
+# Hard Copies  
+PDF Required 
+Association / Company Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limtied  
+  
+ 
+ 
+ 
+ 
+AECOM 
+ 
+ 
+ 
+Prepared for: 
+Abergelli Power Limted 
+ 
+ 
+Prepared by: 
+Sarah 
+Gilston 
+Graduate 
+Acoustic 
+Engineer 
+T: 0161 
+601 
+1700 
+E: sarah.gilston@aecom.com 
+ 
+ AECOM Limited 
+1 New York Street 
+Manchester M1 4HD 
+United Kingdom 
+ 
+T: +44 161 601 1700 
+aecom.com 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+© 2018 AECOM Limited. All Rights Reserved.   
+This document has been prepared by AECOM Limited (“AECOM”) for sole use of our client (the “Client”) in 
+accordance with generally accepted consultancy principles, the budget for fees and the terms of reference 
+agreed between AECOM and the Client. Any information provided by third parties and referred to herein has not 
+been checked or verified by AECOM, unless otherwise expressly stated in the document. No third party may rely 
+upon this document without the prior and express written agreement of AECOM. 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limtied  
+  
+ 
+ 
+ 
+ 
+AECOM 
+ 
+ 
+Table of Contents 
+1. 
+Introduction .................................................................................................................................................. 5 
+2. 
+Baseline Survey ........................................................................................................................................... 6 
+2.1 
+Site Description ................................................................................................................................ 6 
+2.2 
+Noise Sensitive Receptors ................................................................................................................ 7 
+2.3 
+Subjective impressions of noise sources .......................................................................................... 7 
+2.4 
+Measurement Locations ................................................................................................................... 8 
+2.5 
+Sound Measuring System ............................................................................................................... 10 
+2.6 
+Operational Test.............................................................................................................................. 10 
+2.7 
+Weather conditions ......................................................................................................................... 10 
+2.8 
+Date and Time of Measurement ..................................................................................................... 11 
+2.9 
+Measurement time intervals ............................................................................................................ 12 
+2.10 
+Background sound level ................................................................................................................. 12 
+2.11 
+Comparison with Previous Survey Results ..................................................................................... 13 
+2.12 
+The potential impact of uncertainty ................................................................................................. 14 
+Appendix A Glossary of Acoustic Terminology....................................................................................................... 15 
+Appendix B Results ............................................................................................................................................... 18 
+ 
+Figures 
+Figure 1.  Map of the NSRs surrounding the Project Site ........................................................................................ 6 
+Figure 2.  Monitoring location at NSR 1 - Cefn Betingau Farm ............................................................................... 8 
+Figure 3.  Monitoring location at NSR 4 - The Old Barn, Maes Eglwys ................................................................... 9 
+Figure 4.  Monitoring location at NSR 5 - Lletty Morfil Farm .................................................................................... 9 
+Figure 5.  Monitoring location at NSR 6 - Abergelli Farm ...................................................................................... 10 
+Figure 6.  Results for the survey period at NSR 1 ................................................................................................. 18 
+Figure 7.  Results for the survey period at NSR 4 ................................................................................................. 19 
+Figure 8.  Results for the survey period at NSR 5 ................................................................................................. 20 
+Figure 9.  Results for the survey period at NSR 6 ................................................................................................. 21 
+ 
+Tables 
+Table 1.  Noise Sensitive Receptors ........................................................................................................................ 7 
+Table 2.  Noise sources ........................................................................................................................................... 7 
+Table 3.  Noise Sensitive Receptors, measurement locations and distance to Generating Equipment Site ............ 8 
+Table 4.  Noise measurement equipment .............................................................................................................. 10 
+Table 5.  Daytime wind conditions at each NSR .................................................................................................... 11 
+Table 6.  Night-time wind conditions at each NSR................................................................................................. 11 
+Table 7.  Daytime survey results ........................................................................................................................... 12 
+Table 8.  Night-time survey results ........................................................................................................................ 12 
+Table 9.  Assessment summary based on 2014 survey ........................................................................................ 13 
+Table 10.  Assessment summary based on February 2018 detailed survey .......................................................... 14 
+Table 11.  Sources of uncertainty .......................................................................................................................... 14 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+5 
+ 
+1. 
+Introduction 
+This report describes a sound survey undertaken at noise sensitive receptors around the Abergelli Power Project 
+site (hereafter referred to as the ‘Project Site’) on behalf of Abergelli Power Limited.  The purpose of the survey 
+was to provide baseline noise information, which will be used to inform an Environment Statement (ES) for the 
+proposed Abergelli Power Station. 
+The 2018 Preliminary Environmental Impact Report (PEIR) Noise Assessment was based on a noise survey 
+conducted by a previous consultant in 2014.  It was considered that the scope of the previous survey had been 
+too limited to provide fully representative data for the Project Site and that a more detailed, up to date survey 
+would be required for the ES.   
+The survey was conducted following the background sound levels determination requirements of BS 4142:2014 
+Measurement and assessment of industrial and commercial sound.  The following sections fulfil the reporting 
+requirements of that standard. 
+A glossary of acoustics terminology is provided in Appendix A. 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+6 
+ 
+2. 
+Baseline Survey 
+2.1 
+Site Description 
+The Project Site is situated in a rural area to the south east of Abergelli Farm. The Project Site is surrounded by 
+agricultural land and scattered farms in all directions, with small clusters of housing.  To the south is the M4 
+motorway corridor at a distance of approximately 1 km. Road traffic noise from the surrounding local roads and 
+M4 motorway, and noise from farming activities were the dominant sources in the area.  
+Figure 1 below locates the Noise Sensitive Receptors around the Project Site.  
+ 
+Figure 1.  Map of the NSRs surrounding the Project Site 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+7 
+ 
+2.2 
+Noise Sensitive Receptors 
+Six Noise Sensitive Receptors (NSRs) were identified for the project. On this occasion access was only possible 
+to use four of these for the detailed survey.  However the four locations monitored covered all compass directions 
+around the Project Site.  
+The NSRs are listed in Table 1 below. 
+Table 1.  Noise Sensitive Receptors 
+NSR 
+Name of NSR 
+1 
+Cefn Betingau Farm 
+4 
+Maes Eglwys 
+5 
+Lletty Morfil Farm 
+6 
+Abergelli Farm 
+ 
+2.3 
+Subjective impressions of noise sources 
+Descriptions of noise sources heard on site at the measurement locations are included in Table 2 below. As well 
+as noise sources being observed at the time of set-up and collection of the loggers, each of the sites was 
+attended around 01:00 on 21st February to determine the noise sources during the night-time period. 
+In general, during the daytime, the noise climate had audible contributions from the following sources: 
+M4 motorway traffic noise, low but audible, a distant rotary engine noise, possibly a drone (as advised by the 
+property owner of NSR 6), animal noises including wild birds, hens and far cattle, and wind through the trees. 
+ 
+Table 2.  Noise sources 
+NSR Location 
+Day / Night  
+1 – Cefn Betingau Farm 
+Day 
+Distant rotary engine noise. M4 motorway traffic noise, low but audible. Bird noise 
+and cattle noises heard from the nearby area. On collection there was additional 
+noise from farm activities as well as a low frequency plant hum which started up 
+around 10:00. 
+Night 
+Low level plant hum. Road traffic was audible to both the south and the east. Very 
+quiet site. 
+4 - Maes Eglwys 
+Day 
+M4 motorway traffic noise and rotary engine noise low but audible. On collection 
+dogs were barking at the nearby property. 
+Night 
+Low level plant hum, accompanied by a low level continuous tone. Very faint traffic 
+noise. Water could be heard flowing along the nearby Afon Llan river. Quiet site. 
+5 - Lletty Morfil Farm 
+Day 
+On site hen noise and dogs barking. Wind rustled through the trees. Distant M4 
+traffic and rotary engine noises heard, low but audible. On collection a low level 
+plant hum could be heard. 
+Night 
+Low level plant hum. Distant M4 traffic noise, low but audible. Very quiet site. 
+6 - Abergelli Farm 
+Day 
+Wind rustled through the trees. Birds heard in nearby trees. Dogs barking in the 
+distance. Distant M4 traffic and rotary engine noises heard, low but audible. Rotary 
+engine noise, advised to be a drone, low but audible. 
+Night 
+Low level plant hum. Distant road traffic noise heard. Very quiet site. 
+ 
+ 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+8 
+ 
+2.4 
+Measurement Locations 
+On this occasion access was only possible to monitor four of the NSRs. The four locations monitored covered all 
+directions around the Project Site. The measurement locations are listed in Table 3 below. 
+Table 3.  Noise Sensitive Receptors, measurement locations and distance to Generating Equipment Site 
+NSR Name of NSR 
+Measurement Location 
+Distance to Generating 
+Equipment Site 
+1 
+Cefn Betingau Farm 
+At the end of the back garden  
+410 
+4 
+Maes Eglwys 
+In the field adjacent to the front of The Old Barn at Maes Eglwys 
+560 
+5 
+Lletty Morfil Farm 
+In the back garden of the main building  
+680 
+6 
+Abergelli Farm 
+Secured to a tree near to the row of residences on the farm  
+420 
+ 
+The unattended logger measurement locations were chosen in agreement with the property owners. The 
+monitoring location setup for each NSR is shown is Figures 2 to 5 below. 
+ 
+Figure 2.  Monitoring location at NSR 1 - Cefn Betingau Farm 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+9 
+ 
+ 
+Figure 3.  Monitoring location at NSR 4 - The Old Barn, Maes Eglwys 
+ 
+ 
+ 
+Figure 4.  Monitoring location at NSR 5 - Lletty Morfil Farm 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+10 
+ 
+ 
+Figure 5.  Monitoring location at NSR 6 - Abergelli Farm 
+2.5 
+Sound Measuring System 
+The equipment used at each of the monitoring locations is listed below in Table 4. 
+ 
+Table 4.  Noise measurement equipment 
+NSR 
+Equipment 
+Equipment Type 
+Serial Number 
+1 
+Rion NL-52 
+Integrating Sound Level Meter – Unattended Logger 
+00620964 
+4 
+B&K 2250 
+Integrating Sound Level Meter – Unattended Logger 
+2827270 
+5 
+Rion NL-52 
+Integrating Sound Level Meter – Unattended Logger 
+00821105 
+6 
+Rion NL-52 
+Integrating Sound Level Meter – Unattended Logger 
+01143556 
+- 
+Norsonic 1251 
+Sound Calibrator 
+34393 
+ 
+These instruments are all within calibration and calibration certificates can be provided on request.  
+The sound level meters at NSRs 1, 5 and 6 were mounted on a stainless steel pole, and the sound level meter at 
+NSR 4 was mounted on a tripod. All were at a height of approximately 1.2 m from the ground and wind shields 
+were used. There were no vertical reflecting surfaces within 3.5 m of the measurement locations.  
+2.6 
+Operational Test 
+The sound level meters and associated microphones were field calibrated at the beginning and end of their 
+respective measurement periods in accordance with recommended practice.  No significant drift in calibration 
+was observed during the measurement periods.  The accuracy of the calibrator can be traced to the National 
+Physical Laboratory Standards. 
+2.7 
+Weather conditions 
+Weather conditions during the survey were within the parameters set out in BS 4142 and had no adverse effect 
+on the levels measured.  
+Weather data for local weather stations was obtained from public sources for the duration of the survey.  Wind 
+speeds were generally below 5 m/s throughout the survey. During the day, the temperature ranged between 1 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+11 
+ 
+and 11 degrees with an average of 7 degrees Celsius, and during the night it ranged between 1 and 7 with an 
+average of 5 degrees Celsius. There were no significant periods of rain. 
+The favourable wind conditions for gathering suitable data at each NSR are stated in the first half of Tables 5 and 
+6 below which details the downwind direction and range necessary for use in the assessment for both the day 
+and night-time periods.  Periods with downwind conditions for each receptor are shown in green. 
+Table 5.  Daytime wind conditions at each NSR 
+Session 
+ 
+Wind 
+NSR Location 
+Average 
+Direction (°) 
+Speed Range 
+(m/s) 
+1 
+4 
+5 
+6 
+Downwind direction (°)  
+ 
+ 
+225 
+45 
+90 
+135 
+Wind direction range 
+ 
+165 
+345 
+30 
+75 
+285 
+105 
+150 
+195 
+Date and Session Average weather 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16/02/2018 
+Friday 
+180 
+<5 
+ 
+ 
+ 
+ 
+17/02/2018 
+Saturday 
+240 
+<5 
+ 
+ 
+ 
+ 
+18/02/2018 
+Sunday 
+130 
+<5 
+ 
+ 
+ 
+ 
+19/02/2018 
+Monday 
+300 
+<5 
+ 
+ 
+ 
+ 
+20/02/2018 
+Tuesday 
+360 
+5+ 
+ 
+ 
+ 
+ 
+ 
+Table 6.  Night-time wind conditions at each NSR 
+Session 
+ 
+Wind 
+NSR Location 
+Average 
+Direction (°) 
+Speed Range 
+(m/s) 
+1 
+4 
+5 
+6 
+Downwind direction (°) 
+  
+ 
+225 
+45 
+90 
+135 
+Wind direction range 
+ 
+ 
+ 
+165 
+345 
+30 
+75 
+ 
+ 
+ 
+285 
+105 
+150 
+195 
+Date and Session Average weather (for following morning) 
+ 
+ 
+ 
+ 
+16/02/2018 
+Friday 
+270 
+<5 
+ 
+ 
+ 
+ 
+17/02/2018 
+Saturday 
+170 
+<5 
+ 
+ 
+ 
+ 
+18/02/2018 
+Sunday 
+115 
+<5 
+ 
+ 
+ 
+ 
+19/02/2018 
+Monday 
+240 
+~0 
+ 
+ 
+ 
+ 
+20/02/2018 
+Tuesday 
+300 
+<5 
+ 
+ 
+ 
+ 
+21/02/2018 
+Wednesday 
+360 
+<5 
+ 
+ 
+ 
+ 
+ 
+2.8 
+Date and Time of Measurement 
+Unattended logged measurements were made between the afternoon of Thursday 15th February and the morning 
+of Wednesday 21st February 2018 at each of the NSR locations. They were chosen as being representative of 
+the background levels at that NSR. 
+The background sound levels were measured in general accordance with the methodology set out in BS 
+4142:2014 ‘Methods for rating and assessing industrial and commercial sound’ (BS 4142). In addition, 
+measurements were in general accordance with BS 7445-2:1991 ‘Description and measurement of 
+environmental noise, Part 2: Guide to the acquisition of data pertinent to land use’ which defines parameters, 
+procedures and instrumentation required for noise measurement and analysis. 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+12 
+ 
+2.9 
+Measurement time intervals 
+All measurements were made over 5 minute logging periods.   
+2.10 
+Background sound level  
+BS 4142 states gives guidance on how a representative background sound level can be derived from a sound 
+measurement data set.   
+ 
+Section 8.1.1 states that background sound level should be determined in “weather conditions that are 
+representative or comparable to the weather conditions when the specific sound occurs”.  The propagation of 
+sound from outdoor sources is significantly influenced by the weather.  In particular the propagation down wind of 
+a source can be 10 to 15 dB greater than that upwind.  The prediction methodology used to derive the specific 
+sound level for the proposed power station (based on ISO 9613) assumed downwind conditions for each 
+receptor.  Therefore the predicted specific sound levels will only occur at each receptor when that receptor is 
+downwind of the source.  Representative background sound levels must therefore by measured in similar 
+conditions.  Therefore, for each receptor the data set was filtered so that only measurements sessions were the 
+average wind direction was within a 120° arc (60°s each side) of the downwind condition.  
+ 
+Section 8.1.4 states that the data set should be analysed statistically to obtain a representative value.  It clearly 
+states that the lowest measured level should not be taken as representative.  Therefore, after filtering for wind 
+direction as described above the mean and modal values of the remaining results for each receptor were 
+obtained.  Both of these are presented in the results section of this report.  They were generally with one or two 
+dB of each other. 
+ 
+The modal value was selected as representative for each receptor. 
+ 
+The full survey results for the day and night-time periods are given below in Tables 7 and 8. 
+ 
+Table 7.  Daytime survey results 
+Data 
+Type 
+NSR Location 
+1 
+4 
+5 
+6 
+LAF90 
+Filtered data mean 
+42 
+35 
+41 
+41 
+Filtered data mode 
+40 
+36 
+43 
+40 
+Value in previous report (ex PB) 
+41 
+40 
+39 
+40 
+Representative value in site context 
+40 
+36 
+43 
+40 
+Change 
+-1 
+-4 
+4 
+0 
+LAeq 
+Filtered overall 
+46 
+43 
+54 
+47 
+Value in previous report (ex PB) 
+49 
+51 
+42 
+41 
+Representative value in site context 
+46 
+43 
+54 
+47 
+Change 
+-3 
+-8 
+12 
+6 
+ 
+ 
+Table 8.  Night-time survey results 
+Data 
+Type 
+NSR Location 
+1 
+4 
+5 
+6 
+LAF90 
+Filtered data mean 
+34 
+33 
+37 
+36 
+Filtered data mode 
+34 
+35 
+38 
+36 
+Value in previous report (ex PB) 
+25 
+37 
+40 
+28 
+Representative value in site context 
+34 
+35 
+38 
+36 
+Change 
+9 
+-2 
+-2 
+8 
+LAeq 
+Filtered overall 
+40 
+38 
+40 
+39 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+13 
+ 
+Data 
+Type 
+NSR Location 
+1 
+4 
+5 
+6 
+Value in previous report (ex PB) 
+28 
+47 
+40 
+28 
+Representative value in site context 
+40 
+38 
+40 
+39 
+Change 
+12 
+-9 
+0 
+11 
+ 
+Graphs of the full set of data results for each NSR are provided in Appendix B. 
+2.11 
+Comparison with Previous Survey Results 
+ 
+The assessments in the 2018 PEIR were based upon the results of a brief survey undertaken in 2014.  The 2014 
+survey was so brief that the number of measurements for each location was small and it was not possible to 
+undertake any statistical analysis to derive representative values for the background and residual sound levels.  
+As a result, the levels used in the 2018 PEIR were subject to specific conditions and noise sources present 
+during the brief measurement period and did not give a representation of the full range of appropriate conditions 
+and sources. 
+The assessment made using that data are summarised in Table 9 below.   
+Table 9.  Assessment summary based on 2014 survey 
+ 
+Location 
+1 
+4 
+5 
+6 
+Daytime background sound level (LAF90) 
+41 
+40 
+39 
+40 
+Daytime residual sound level (LAeq) 
+49 
+51 
+42 
+41 
+Night time background sound level (LAF90) 
+25 
+37 
+40 
+28 
+Night time residual sound level (LAeq) 
+28 
+47 
+40 
+28 
+Predicted power station specific sound level (LAeq) 
+35 
+32 
+29 
+34 
+Rating level (+3 dB character correction) 
+38 
+35 
+32 
+36 
+Daytime BS 4142 comparison 
+-3 
+-5 
+-7 
+-4 
+Compliance with daytime BS4124 criterion (+5 dB) 
+Y 
+Y 
+Y 
+Y 
+Night time BS 4142 comparison 
+13 
+-2 
+-8 
+8 
+Compliance with night time BS4124 criterion (+5 dB) 
+N 
+Y 
+Y 
+N 
+Daytime ambient sound level (LAeq with power station) 
+49 
+51 
+42 
+42 
+Daytime residual to ambient change 
+0 
+0 
+0 
+1 
+Night time ambient sound level (LAeq with power station) 
+36 
+47 
+40 
+35 
+Night time residual to ambient change 
+8 
+0 
+0 
+7 
+Compliance with night time WHO ambient sound criterion (45 dB LAeq outdoors) 
+Y 
+N* 
+Y 
+Y 
+* Non compliance due to residual sound sources not power station operation – power station non contributory 
+ 
+The completion of the detailed survey and the resulting statistically derived representative levels allow a more 
+robust assessment to be made.  The results are show in Table 10. 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+14 
+ 
+Table 10.  Assessment summary based on February 2018 detailed survey 
+ 
+Location 
+1 
+4 
+5 
+6 
+Daytime background sound level (LAF90) 
+40 
+36 
+43 
+40 
+Daytime residual sound level (LAeq) 
+46 
+43 
+54 
+47 
+Night time background sound level (LAF90) 
+34 
+35 
+38 
+36 
+Night time residual sound level (LAeq) 
+40 
+38 
+40 
+39 
+Predicted power station specific sound level (LAeq) 
+35 
+32 
+29 
+34 
+Rating level (+3 dB character correction) 
+38 
+35 
+32 
+36 
+Daytime BS 4142 comparison 
+-2 
+-1 
+-11 
+-4 
+Compliance with daytime BS4124 criterion (+5 dB) 
+Y 
+Y 
+Y 
+Y 
+Night time BS 4142 comparison 
+4 
+0 
+-6 
+0 
+Compliance with night time BS4124 criterion (+5 dB) 
+Y 
+Y 
+Y 
+Y 
+Daytime ambient sound level (LAeq with power station) 
+46 
+43 
+54 
+47 
+Daytime residual to ambient change 
+0 
+0 
+0 
+0 
+Night time ambient sound level (LAeq with power station) 
+41 
+39 
+40 
+40 
+Night time residual to ambient change 
+1 
+1 
+0 
+1 
+Compliance with night time WHO ambient sound criterion (45 dB LAeq outdoors) 
+Y 
+Y 
+Y 
+Y 
+* Non compliance due to residual sound sources not power station operation – power station non contributory 
+ 
+The tables show that the predicted plant levels noise comply with the limits derived from both B 4142 and WHO. 
+2.12 
+The potential impact of uncertainty  
+There are several potential sources of uncertainty in the result obtained.  These are listed in Table 11 along with 
+the measures taken to mitigate them. 
+ 
+Table 11.  Sources of uncertainty 
+Source 
+Mitigation 
+Effects of wind due to wind 
+generated noise 
+The survey period was selected with low predicted windspeeds.  Weather information was 
+noted at the time of set-up and collection, and public weather sources were used so that 
+measurements affected by unsuitable wind conditions could therefore be excluded. 
+Effects of wind on propagation 
+of background sound sources 
+Survey period chosen at a time of low wind speed (<5 m/s). Weather information was noted at 
+the time of set-up and collection, and historic weather data was obtained so that 
+measurements affected by unsuitable wind conditions could therefore be excluded. 
+Attendance at site for the setup and collection of the noise monitors, and during the night-time 
+period allowed observations of noise sources in the area. 
+Possibility of unrepresentative 
+activities 
+contributing 
+to 
+background sound 
+Study of site prior to survey and drive-around inspection before and after survey indicated no 
+major road or rail disruption or major construction projects in the area.  Undertaking survey 
+over a longer and continuous period gave a fuller picture of the general levels of activity. 
+Uncertainties in measurement 
+procedure 
+Minimised by following standard procedure (BS 4142). 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+15 
+ 
+Appendix A Glossary of Acoustic Terminology 
+This document provides a layperson’s explanation of the acoustics terms that commonly appear in reports.  It is 
+not intended to give full scientific definitions and explanations or go into detail on how and why things are as they 
+are.  Some obsolete terms and abbreviations have been included as they still appear in documents from time to 
+time. 
+ 
+Many words have more specific meanings when used in acoustics than in every-day language.   
+sound 
+is used to describe the physical phenomenon of the transmission of energy 
+through gaseous or liquid media via rapid fluctuations in pressure. 
+level 
+used solely to describe values measured in decibels 
+loudness 
+is the human perception of the level of sound 
+noise 
+has no strict definition and is often used interchangeably with sound however it 
+is usually taken to mean unwanted sound 
+index 
+a value based on the mathematical processing of raw data 
+indicator 
+a value used to indicate the likelihood of a particular response of effect 
+eg. L10,18hr is an index based on statistical processing of sound pressure data 
+that is used as an indicator for road traffic noise response. 
+weighted 
+values modified to reflect sensitivities at particular frequencies. 
+directivity 
+the amount by which a source radiates more sound in one direction than 
+another. 
+decibels 
+dB 
+ 
+The decibel is not a true measurement unit nor is it exclusive to acoustics. 
+The decibel is a logarithmic ratio of two values of a variable.  Decibels are used 
+because they can represent very wide ranges of ratios (from trillionths and 
+billionths to billions and trillions) with a small range of decibel values.  Decibels 
+can be used to represent measured values by using a known reference value in 
+the ratio.  When using decibels to measure something it is therefore important to 
+specify what variable is actually being measured and what reference level has 
+been used.  This is done by adding a reference value statement in the form “dB 
+re x units”, where the units indicate the variable being measured and x is the 
+reference value. 
+Decibels are used in acoustics because the human ear responds to sound in a 
+logarithmic way and the quantities measured in acoustics vary over wide ranges.  
+However, decibels are used in acoustics to measure several different things 
+which it is important not to confuse with each other. 
+To avoid confusion there is a notation system that identifies what a decibel value 
+is for.  The notations take the form of an italic capital letter and some subscript 
+characters.  The capital identifies the general type of value and the subscripts 
+give specific details of what is being represented. 
+Lxxx  
+denotes a level (ie a value measured in dB by comparison with a 
+reference value);  
+Dxxx  
+denotes a difference between two levels; 
+Rxxx  
+denotes a rating (or index), which is measure of the generalised 
+acoustic performance of a material or construction based on a 
+difference between two levels;  
+Cxxx  
+denotes a correction (or constant) 
+Of these only those with L notations require a reference value statement.  Those 
+with D or R notations are effectively ratios of two measured values not one 
+measured value and a reference value and those with C notations are not based 
+on reference values at all.  A reference value statement therefore has no 
+meaning when describing D, R and C decibels. 
+Because decibels are logarithmic they have to be added, subtracted, multiplied, 
+divided and averaged using different techniques from normal numbers. 
+Sound Pressure Level 
+Lp  
+ 
+obsolete – SPL 
+This is the basic measure of how much sound there is at a given location.  It is a 
+measure of the size of the pressure fluctuations in the air that we perceive as 
+sound.   
+Sound Pressure Level is expressed in decibels with a reference level of 20 Pa 
+(Lp in dB re 20 Pa) 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+16 
+ 
+Sound Power Level 
+LW 
+obsolete – SWL 
+This is the total amount of sound produced by a source.  It cannot be measured 
+directly but it can be calculated from Sound Pressure Level measurements in 
+known conditions.  It can be used to predict the Sound Pressure Level at any 
+point.  
+Sound Power Level is expressed in decibels with a reference level of 1 pW (LW 
+in dB re 1 pW).  In the US a reference of 100 fW is sometimes used 
+Pitch, frequency 
+ 
+ 
+ 
+ 
+tonal sound 
+broadband sound 
+impulsive sound 
+ 
+frequency analysis 
+ 
+The sound we perceive can have different characteristics.  These can range 
+from low-pitched hums to high-pitched squeals and impulsive sounds.   
+In engineering acoustics the word frequency rather than pitch tends to be used 
+when describing the characteristics of a sound.  The unit of frequency is the 
+Hertz (Hz), which is the number of pressure fluctuations per second.  
+Any sound can be defined by its frequency content.  Some sounds comprise just 
+one discrete frequency (tonal sounds).  Others are distributed over wide 
+frequency ranges (broad band sound).  Impulsive sounds are made up short 
+pulses of high frequency components.  Sources often produce all of these types 
+of sound at the same time.   
+There are different ways of analysing and displaying the frequency content of a 
+sound: 
+Octave Band Analysis  
+is the simplest method. The audible range of 
+frequencies is divided into 10 bands.   
+Third-Octave Band Analysis 
+more detailed with 30 bands  
+Narrow Band Analysis 
+12th Octave (120 bands), 24th Octave (240),  
+Fast Fourier (FFT) Analysis 
+a high resolution technique that can give 
+extremely detailed information on frequency 
+content 
+ 
+ 
+ 
+A-weighting 
+LA or LpA, LWA, 
+ 
+ 
+ 
+obsolete – dBA, dB(A) 
+ 
+similar – C-weighting 
+LC or LpC, LWC 
+The human ear does not sense all frequencies of sound equally.  Our sensitivity 
+is at a maximum at around 2 kHz and steadily decreases above and below.  
+Below 20 Hz and above about 20 kHz we can’t hear at all.   
+Within its operating limits a precision measurement microphone measures all 
+frequencies the same so the output it produces does not reflect what we would 
+actually hear.  The A-weighting is an electronic filter that matches the response 
+of a sound level meter to that of the human ear.  When A-weighted the Sound 
+Pressure Level Lp becomes LpA (or LA) and the Sound Power Level LW becomes 
+LWA. 
+It used to be common to identify that a level was A-weighted by writing dB(A) or 
+dBA instead of dB.  These terms are now obsolete and should not be used as 
+they conflict with other, non-acoustic, uses of decibels 
+The response of the human ear varies depending on how loud the sound is.  A-
+weighting matches the response of a sound level meter to human hearing at low 
+levels (~ 40-90 dB).  For higher levels there are other weightings the most 
+common of which is the C-weighting. 
+Different types of decibels commonly used in acoustics 
+Lp  
+LpA (or LA) 
+ 
+ 
+ 
+ 
+LAF, LAS 
+The instantaneous sound pressure level (Lp) 
+The A-weighted instantaneous sound pressure level (LpA or LA)   
+This is the root mean square size of the pressure fluctuations in the air.  This level 
+can fluctuate wildly even for seemingly steady sounds.  To make sound level 
+meters easier to read the values on the display are smoothed or damped out.  This 
+is effectively done by taking a rolling average of the previous 0.125 s (FAST time 
+constant) or the previous 1 s (SLOW time constant). 
+The letters F or S are added to the subscripts in the notation to indicate when the 
+FAST or SLOW time constant has been used.  These are often omitted but it is 
+good practice to include them. 
+Lmax  
+LAmax  
+LAFmax  
+ 
+ 
+ 
+Lmin , LFmin 
+The maximum instantaneous sound pressure level (Lmax),  
+The A-weighted maximum instantaneous sound pressure level (LAmax) 
+The A-weighted maximum instantaneous sound pressure level with a FAST time 
+constant (LAFmax).   
+This is the highest instantaneous sound pressure level reached during a 
+measurement period.   
+The opposite of the Lmax is the minimum instantaneous sound pressure level or 
+Lmin etc. 
+It is good practice to include the letter which identifies the time constant used as 
+this can make a significant difference to the value. 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+17 
+ 
+LN,T 
+LAN,T LAFN,T 
+N = %age value, 0-100 
+T = measurement time 
+eg. LA90, LA10, LAF90, 5 min 
+The percentage exceedence sound pressure level (LN,T), 
+The A-weighted percentage exceedence sound pressure level (LAN,T), the A-
+weighted percentage exceedence sound pressure level with a FAST time constant 
+(LAFN,T).  
+This is the sound pressure level exceeded for N% of time period T.  eg. If an A-
+weighted level of x dB is exceeded for a total of 6 minutes within one hour, the 
+level will have been above x dB for 10% of the measurement period.  This is 
+written as LA10,1hr = x dB. 
+LA0 (the level exceeded for 0 % of the time) is equivalent to the LAmax and LA100 (the 
+level exceeded for 100 % of the time) is equivalent to the LAmin. 
+It is good practice to include the letter which identifies the time constant used as 
+this can make a significant difference to the value. 
+Leq,T 
+LAeq,T 
+T = measurement time 
+eg. LAeq,5min 
+The equivalent continuous sound pressure level over period T (Leq,T),  
+The A-weighted equivalent continuous sound pressure level over period T (LAeq,T). 
+This is effectively the average sound pressure level over a given period.  As the 
+decibel is a logarithmic quantity the Leq is not a simple arithmetic mean value. 
+The Leq is calculated from the raw sound pressure data.  It is not appropriate to 
+include a reference to the FAST and SLOW time constants in the notation 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+18 
+ 
+Appendix B Results 
+ 
+Figure 6.  Results for the survey period at NSR 1 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+19 
+ 
+ 
+Figure 7.  Results for the survey period at NSR 4 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+20 
+ 
+ 
+Figure 8.  Results for the survey period at NSR 5 
+ 
+ 
+Abergelli Power Project 
+   
+Abergelli Power Limited 
+  
+  
+ 
+ 
+ 
+ 
+AECOM 
+21 
+ 
+ 
+Figure 9.  Results for the survey period at NSR 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Project 
+   
+Drax Energy 
+  
+  
+ 
+ 
+Prepared for:  Drax Energy   
+ 
+AECOM 
+22 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+aecom.com   
+ 
+ 
+ 
+ 

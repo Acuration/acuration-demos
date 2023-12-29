@@ -1,0 +1,6762 @@
+  
+ 
+Hood Consulting 
+ 
+Drax – April 2019 
+ 
+ 
+Catchment Area Analysis of Forest  
+Management and Market Trends: 
+Amite BioEnergy 
+(UK metric version) 
+ 
+ 
+Prepared for: 
+ 
+Drax Group plc 
+ 
+ 
+By: 
+Hood Consulting 
+3100 Old Canton Road, Suite 200 
+Jackson, MS 39216 
+1-601-540-8602 
+hbhood@hoodconsultingllc.com 
+ 
+Report date:  30 August 2019 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+2 
+Drax – August 2019 
+Contents 
+Executive Summary ....................................................................................................................................... 6 
+1.  Report Background ................................................................................................................................. 10 
+1.1  About Hood Consulting .................................................................................................................... 10 
+2. Market Profile & Resource Assessment................................................................................................... 11 
+2.1  Land Area .......................................................................................................................................... 12 
+2.1.1  Timberland ................................................................................................................................ 13 
+2.2  Timber Inventory .............................................................................................................................. 16 
+2.2.1  By Ownership Group.................................................................................................................. 16 
+2.2.2  By Diameter Class Distribution .................................................................................................. 18 
+2.2.3  By Age Class Distribution ........................................................................................................... 19 
+2.2.4  By Stand Origin .......................................................................................................................... 21 
+2.2.5  Commercially Available Timber Inventory ................................................................................. 23 
+2.3  Timber Growth & Removals ............................................................................................................. 24 
+2.3.1  Timber Growth .......................................................................................................................... 24 
+2.3.2  Harvest Removals ...................................................................................................................... 24 
+2.3.3  Growth-to-Removal Ratios ........................................................................................................ 25 
+3. Wood Demand & Raw Material Cost Assessment ................................................................................... 26 
+3.1  Mill Capacity & Wood Demand ........................................................................................................ 26 
+3.2  Raw Material Costs ........................................................................................................................... 31 
+3.2.1  Standing Timber (Stumpage) Prices ........................................................................................... 32 
+3.2.2  Delivered Timber Prices ............................................................................................................. 33 
+3.2.3  Sawmill Residuals & Pulp Quality Chip Prices ............................................................................ 34 
+3.2.4  Timber Price Drivers .................................................................................................................. 35 
+4. Forest Management Practices Assessment ............................................................................................. 38 
+4.1  TimberMart-South Harvest Trends ................................................................................................... 38 
+4.1.1  Total Sale Area ........................................................................................................................... 39 
+4.1.2  Total Sale Volume ...................................................................................................................... 40 
+4.1.3  Average Sale Size ....................................................................................................................... 41 
+4.2  Logger Interviews/Survey ................................................................................................................. 42 
+5. Market Trends, Analysis, & Outlook ........................................................................................................ 44 
+5.1  Market Trends & Analysis ................................................................................................................. 44 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+3 
+Drax – August 2019 
+5.1.1  Wood Demand .......................................................................................................................... 44 
+5.1.2  Changes in Forest Area .............................................................................................................. 47 
+5.1.3  Changes in Timber Inventory ..................................................................................................... 51 
+5.1.4  Changes in Annual Timber Growth ............................................................................................ 54 
+5.1.5  Changes in Annual Removals ..................................................................................................... 59 
+5.1.6  Changes in Raw Material Costs .................................................................................................. 63 
+5.2  Market Outlook: 2019-2022 ............................................................................................................. 69 
+5.2.1  Wood Demand Outlook ............................................................................................................. 70 
+5.2.2  Raw Material Price Outlook ....................................................................................................... 72 
+6. Analysis Summary & Findings .................................................................................................................. 75 
+7.  Annex 1 – Project Scaling Procedures, Methodology, & Costs ............................................................... 78 
+7.1  Project Scaling Procedures & Methodology ..................................................................................... 78 
+7.2  Projected Costs & Timeline............................................................................................................... 79 
+Appendix A. Quarterly Stumpage Prices, Delivered Timber Prices, Sawmill Residual Prices, & Pulp Quality 
+Chip Prices (1Q 2010 – 1Q 2019)................................................................................................................. 80 
+Appendix B. Log Rules, Weight Equivalents, & Conversion Rates ............................................................... 83 
+Glossary of Terms ........................................................................................................................................ 84 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+4 
+Drax – August 2019 
+Table of Tables 
+Table 1. County List & Catchment Area Allocation ........................................................................................................... 11 
+Table 2. Land Area by Land Classification & Use ............................................................................................................... 12 
+Table 3. Timberland Area by Ownership Group ................................................................................................................ 13 
+Table 4. Growing Stock Volume on Timberland by Ownership Group and Major Species ............................................. 16 
+Table 5. Distribution of Total Growing Stock Volume by Major Timber Product ............................................................ 18 
+Table 6. Distribution of Growing Stock Volume by Age Class & Major Species ............................................................... 20 
+Table 7. Growing Stock Volume on Timberland by Stand Origin & Major Species ......................................................... 22 
+Table 8. Commercially Available Inventory by Major Timber Product ............................................................................. 23 
+Table 9. Net Growth of Growing Stock Timber by Major Timber Product ...................................................................... 24 
+Table 10. Harvest Removals by Major Timber Product..................................................................................................... 24 
+Table 11. Annual Growth, Removals, & Growth-to-Removal Ratios by Major Timber Product ..................................... 25 
+Table 12. Number of Mills, Total Mill Capacity, & Catchment Area Allocated Mill Capacity .......................................... 26 
+Table 13. Amite BioEnergy Catchment Area - Mill List ..................................................................................................... 27 
+Table 14. Logger Interview Questions & Reponses ........................................................................................................... 43 
+Table 15. Annual Wood Demand: 2010-2018 ................................................................................................................... 44 
+Table 16. Biomass Demand & Total Softwood Pulpwood Demand: 2010-2018 ............................................................. 45 
+Table 17. Timberland Area by Stand Origin ....................................................................................................................... 47 
+Table 18. Timberland Area by Ownership Group (2010 vs. 2017) ................................................................................... 49 
+Table 19. Correlation Analysis - Timberland Area, Biomass Demand, & Total Softwood Pulpwood Demand .............. 50 
+Table 20. Timber Inventory by Major Timber Product: 2010-2018 ................................................................................. 51 
+Table 21. Correlation Analysis – Pine Pulpwood Inventory, Total Timber Inventory, Biomass Demand, & Total 
+Softwood Pulpwood Demand ............................................................................................................................................. 53 
+Table 22. Annual Volume Growth by Major Timber Product: 2010-2017 ....................................................................... 54 
+Table 23. Average Annual Growth Rate by Major Timber Product (2010-2017) ............................................................ 56 
+Table 24. Average Per Hectare Volume Growth by Major Timber Product: 2010-2017 ................................................ 57 
+Table 25. Correlation Analysis – Pine Pulpwood Annual Growth, Pine Chip-n-saw Annual Growth, Total Annual 
+Growth, Biomass Demand, & Total Softwood Pulpwood Demand .................................................................................. 58 
+Table 26. Annual Removals by Major Timber Product: 2010-2017 ................................................................................. 59 
+Table 27. Correlation Analysis – Pine Pulpwood Removals, Total Removals, Biomass Demand, & Total Softwood 
+Pulpwood Demand .............................................................................................................................................................. 61 
+Table 28. Timber Inventory, Growth, Removals, & Mortality (2010-2017) ..................................................................... 62 
+Table 29. Correlation Analysis – Delivered Pine Pulpwood Prices, Pine Sawmill Chip Prices, In-Woods Debarked Pine 
+Chip Prices, Biomass Demand, & Total Softwood Pulpwood Demand ............................................................................ 65 
+Table 30. Correlation Analysis – Delivered Pine Sawtimber Prices, Delivered Pine Chip-n-saw Prices, Biomass 
+Demand, & Softwood Sawlog Demand .............................................................................................................................. 67 
+Table 31. Correlation Analysis – Delivered Hardwood Sawtimber Prices, Biomass Demand, & Hardwood Sawlog 
+Demand ............................................................................................................................................................................... 68 
+Table 32. Projected Wood Demand (2019-2022) ............................................................................................................. 70 
+Table 33. Projected Biomass & Total Softwood Pulpwood Demand (2019-2022) .......................................................... 71 
+Table 34. Forecasted Pine Pulpwood, Pine Sawmill Chip & In-Woods Debarked Pine Chip Prices (2019-2022) .......... 72 
+Table 35. Amite BioEnergy Raw Material Price Projections ............................................................................................. 74 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+5 
+Drax – August 2019 
+Table of Figures 
+Figure 1. Amite BioEnergy Catchment Area Boundary ..................................................................................................... 11 
+Figure 2. Area Distribution by Land Classification & Use .................................................................................................. 12 
+Figure 3. Distribution of Timberland Area by Ownership Group ...................................................................................... 13 
+Figure 4. Distribution of Timberland Area by Age Class .................................................................................................... 14 
+Figure 5. Distribution of Timberland Area by Age Class & Forest Type ........................................................................... 15 
+Figure 6. Distribution of Growing Stock Volume on Timberland by Ownership Group .................................................. 17 
+Figure 7. Distribution of Growing Stock Volume on Timberland by Diameter Class ....................................................... 19 
+Figure 8. Distribution of Growing Stock Volume on Timberland by Age Class ................................................................ 21 
+Figure 9. Distribution of Growing Stock Volume on Timberland by Stand Origin ........................................................... 22 
+Figure 10. Amite BioEnergy Catchment Area - Mill Map .................................................................................................. 28 
+Figure 11. Amite BioEnergy Catchment Area - Lumber Mills ........................................................................................... 29 
+Figure 12. Amite BioEnergy Catchment Area - Pulp, Pellet, Chip, & Panel Mills ............................................................. 30 
+Figure 13. Amite BioEnergy Catchment Area – Pine Stumpage Prices ............................................................................ 32 
+Figure 14. Amite BioEnergy Catchment Area – Hardwood Stumpage Prices .................................................................. 32 
+Figure 15. Amite BioEnergy Catchment Area – Delivered Pine Prices ............................................................................. 33 
+Figure 16. Amite BioEnergy Catchment Area – Delivered Hardwood Prices ................................................................... 33 
+Figure 17. Amite BioEnergy Catchment Area - Quarterly Pine Pulp Quality Chip Prices ................................................ 34 
+Figure 18. Amite BioEnergy Catchment Area - Quarterly Hardwood Chip Prices ........................................................... 34 
+Figure 19. TimberMart-South Region Map ........................................................................................................................ 38 
+Figure 20. Total Reported Sale Area by Harvest Type (2010-2018) ................................................................................. 39 
+Figure 21. Total Reported Sale Volume by Harvest Type (2010-2018) ............................................................................ 40 
+Figure 22. Average Reported Sale Size by Harvest Type (2010-2018) ............................................................................. 41 
+Figure 23. Annual Wood Demand (2010-2018) ................................................................................................................ 46 
+Figure 24. Biomass & Other Softwood Pulpwood Demand (2010-2018) ........................................................................ 46 
+Figure 25. Timberland Area by Year (2010-2018) ............................................................................................................. 47 
+Figure 26. Timberland Area by Stand Origin (2010-2018) ................................................................................................ 48 
+Figure 27. Timberland Area vs. Biomass Demand & Total Softwood Pulpwood Demand (2010-2018) ........................ 50 
+Figure 28. Timber Inventory by Major Timber Product (2010-2017) ............................................................................... 51 
+Figure 29. Pine Pulpwood Inventory vs. Biomass Demand & Total Softwood Pulpwood Demand (2010-2018) .......... 53 
+Figure 30. Net Annual Growth of Total Growing Stock Timber on Timberland (2010-2017) ......................................... 54 
+Figure 31. Net Annual Growth of Growing Stock Timber by Major Timber Product (2010-2017) ................................. 55 
+Figure 32. Net Growth of Pine Pulpwood & Chip-n-saw vs. Biomass Demand & Softwood Pulpwood Demand .......... 58 
+Figure 33. Annual Removals by Year (2010-2017) ............................................................................................................ 59 
+Figure 34. Annual Removals by Major Timber Product (2010-2017) ............................................................................... 60 
+Figure 35. Annual Removals of Pine Pulpwood vs. Biomass Demand & Total Softwood Pulpwood Demand ............... 61 
+Figure 36. Delivered Pine & Hardwood Pulpwood Prices ................................................................................................. 64 
+Figure 37. Pine Sawmill Chip & In-Woods Debarked Pine Chip Prices ............................................................................. 64 
+Figure 38. Delivered Pine Pulpwood, Pine Sawmill Chip, & In-Woods Debarked Pine Chip Prices vs. Biomass Demand 
+& Total Softwood Pulpwood Demand (2010-2018) .......................................................................................................... 65 
+Figure 39. Historic Delivered Sawtimber Prices ................................................................................................................ 66 
+Figure 40. Delivered Pine Sawtimber & Pine Chip-n-saw Prices vs. Softwood Sawlog Demand (2010-2018) .............. 67 
+Figure 41. Delivered Hardwood Sawtimber Prices vs. Hardwood Sawlog Demand (2010-2018) .................................. 68 
+Figure 42. Projected Wood Demand (2019 – 2022) ......................................................................................................... 70 
+Figure 43. Price Forecast: Delivered Pine Pulpwood (2019-2022) ................................................................................... 73 
+Figure 44. Price Forecast: Pine Sawmill Chips (2019-2022) .............................................................................................. 73 
+Figure 45. Price Forecast: In-Woods Debarked Pine Chips (2019-2022) ......................................................................... 73 
+Figure 46. Historic & Projected Raw Material Per Unit Weighted Average Cost ............................................................ 74 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+6 
+Drax – August 2019 
+Executive Summary 
+A mill’s catchment area is the area in which a single pellet mill (“nucleus mill”) has directly acquired fiber 
+since the mill started operations, including any additional forest areas where future purchase contracts 
+exist. In accordance with Drax’s initiative to monitor its sourcing regions and the catchment areas in 
+which its mills operate, this report, specifically, examines the fiber catchment area for Drax’s Amite 
+BioEnergy pellet mill located in Gloster, Mississippi. 
+The Amite BioEnergy catchment area analysis is broken down into five sections:  
+1. Market Profile & Resource Assessment – includes catchment area-specific details regarding land 
+and forest area, timber inventory, timber growth, and timber removals. 
+2. Wood Demand & Raw Material Cost Assessment – identifies all mills (sources of wood demand) 
+that procure wood from within the Amite BioEnergy fiber catchment area; provides details 
+regarding annual wood demand and current raw material costs (timber prices) within the 
+catchment area. 
+3. Forest Management Practices Assessment – includes a market study and logger survey that 
+examines how forest management practices have changed in the catchment area since Amite 
+BioEnergy commenced production.  
+4. Market Trends, Analysis, & Outlook – identifies trends and changes in land and forest area, 
+timber inventory, growth, harvest removals, wood demand, and raw material prices since 2010; 
+identifies and details any links between bioenergy-related wood demand and the 
+aforementioned items. This section also includes a market outlook that details anticipated 
+changes in wood demand and raw material costs for the Amite BioEnergy pellet mill through the 
+year 2022. 
+5. Analysis Summary & Findings – provides a summary of the Amite BioEnergy catchment area 
+analysis and details the report’s findings.  
+Ultimately, the focus of this report is to assess and identify the impact the Drax pellet mill and bioenergy-
+related wood demand has had on this market since the Amite BioEnergy pellet mill commenced 
+production in late 2014. A summary of the report’s key findings has been provided on the following 
+pages.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+7 
+Drax – August 2019 
+Is there any evidence that bioenergy 
+demand has caused the following:  
+Analysis Findings 
+Deforestation? 
+No. US Forest Service data shows the opposite. Total timberland acreage has 
+increased 1% since Amite BioEnergy commenced production in late 2014.  
+A change in management practices 
+(rotation lengths, thinnings, 
+conversion from hardwood to pine)? 
+No / Inconclusive. Changes in management practices have occurred in the 
+catchment area over the last 5-10 years, but there is little evidence to 
+suggest bioenergy demand has caused these changes. Market research 
+shows thinnings have declined in this catchment area since 2014 (when 
+Amite BioEnergy commenced production). However, local loggers identify 
+poor markets conditions for the decrease in thinnings, not increased 
+bioenergy demand.   
+The primary focus of timber management in this area is the production of 
+sawtimber grade timber, and rotation lengths of managed forests have 
+remained unchanged (between 25-35 years of age) despite increases in 
+bioenergy demand. Increased bioenergy demand, however, has benefited 
+landowners in this catchment area, providing additional outlets for 
+pulpwood removed from thinnings – a management activity necessary for 
+sawtimber production. 
+Conversion from naturally regenerated hardwood to planted pine has 
+occurred in the catchment area. From 2014 through 2017, the latest 
+available, planted pine acreage increased 7% while naturally generated 
+hardwood timberland acreage decreased 5%. However, it is inconclusive as 
+to whether bioenergy demand caused this change. Conversion from 
+naturally regenerated timber to planted pine is typical in this market. As 
+less productive naturally regenerated timber stands are harvested, these 
+stands are replaced with more productive planted pine (improved genetics 
+that offer better growth, improved form, reduced susceptibility to disease, 
+and improved financial returns) to be managed for sawtimber production.   
+Diversion from other markets? 
+No. Since 2014, softwood pulpwood demand not attributed to bioenergy has 
+increased 8% while demand for softwood sawlogs and hardwood 
+pulpwood has increased 53% and 5%, respectively. Demand for hardwood 
+sawlogs is down an estimated 24% since 2014; however, hardwood sawlog 
+demand has been increasing since 2017. 
+An abnormal increase in wood 
+prices? 
+No. Prices for delivered pine pulpwood (the primary raw material consumed by 
+Amite BioEnergy) have rather decreased 12% since the pellet mill 
+commenced production in 2014. And while prices for pine sawmill 
+residuals and in-woods chips (the other two raw materials consumed by 
+Amite BioEnergy) are both up 3% compared to 2014 levels, prices have 
+declined each of the last two years for pine sawmill residuals and each of 
+the last three years for in-woods chips.  
+A reduction in growing stock timber? 
+No / Inconclusive. Total growing stock inventory in the catchment area 
+increased 5% from 2014 through 2017, the latest available. Specifically, 
+pine sawtimber inventory increased 13%, pine chip-n-saw inventory 
+increased 24%, and pine pulpwood inventory decreased 12% over this 
+period. There is little evidence to suggest that increased bioenergy 
+demand has caused this reduction in pine pulpwood inventory. Rather, the 
+increase in total in timber inventory (including both pine sawtimber and 
+chip-n-saw inventory) along with the decrease in pine pulpwood inventory 
+is indicative of an aging forest. It also suggests the forest is in a state of 
+transition, with pine pulpwood moving up in product class (to chip-n-saw). 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+8 
+Drax – August 2019 
+Is there any evidence that bioenergy 
+demand has caused the following:  
+Analysis Findings 
+A reduction in the sequestration rate 
+of carbon? 
+No. US Forest Service data shows the average annual growth rate of growing 
+stock timber has decreased slightly since 2014, and a slower timber growth 
+rate essentially represents a reduction in the sequestration rate of carbon. 
+However, the reduced growth rate and subsequent reduction in the 
+sequestration rate of carbon is due to the aging of the forest (changes in 
+timber age class distribution), not to increases in bioenergy demand.  
+An increase in harvesting above the 
+sustainable yield capacity of the 
+forest area? 
+No. Growth-to-removals ratios, which compare annual timber growth to annual 
+harvests, provides a measure of market demand relative to supply as well 
+as a gauge of market sustainability. In 2017, the latest available, the 
+growth-to-removals ratio for pine pulpwood equaled 1.80 (a value greater 
+than 1.0 indicates sustainable harvest levels). Even with the increased 
+harvesting required to satisfy bioenergy demand, harvest levels remain 
+well below the sustainable yield capacity of the catchment forest area. 
+ 
+Impact of bioenergy demand on:  
+Analysis Findings 
+Timber growing stock inventory 
+Neutral. Total wood demand (from biomass and other solid wood products) is 
+up more than 35% compared to 2014 levels. Intuitively, increased demand 
+means more timber is harvested, which reduces total growing stock 
+inventory. However, in this catchment area, inventories are so substantial 
+that increases in demand from bioenergy, as well as from other sources, 
+have not been great enough to offset annual timber growth, and, as such, 
+total growing stock inventory has continued to increase – an average of 2% 
+per year since 2014 (when Amite BioEnergy commenced production).  
+Timber growth rates 
+Neutral. Timber growth rates have declined since 2014; however, evidence 
+suggests the reduction in growth rates is more a product of an aging forest 
+and not due to changes in bioenergy demand.  
+Additionally, young planted pine stands are actually growing at a faster rate 
+than ever before – due to the continued improvement of seedling genetics. 
+And, as timber is harvested and these stands are replanted in pine (as has 
+historically occurred in the catchment area), over the long term, the 
+average timber growth rate is likely to increase. 
+Forest area 
+Positive / Neutral. Total forest (timberland) area in the catchment area 
+increased more than 5,200 hectares from 2014 through 2017, the latest 
+available. And while our analysis of biomass demand and forest area found 
+a moderately strong relationship between the two, findings are inconclusive 
+as to whether the increase in timberland acreage can be attributed to 
+increases in biomass demand. 
+Wood prices 
+Neutral. Despite the additional wood demand placed on this market by Amite 
+BioEnergy, since 2014, prices for delivered pine pulpwood (the primary raw 
+material consumed by Amite BioEnergy) have decreased 12% in the 
+catchment area. Prices for pine sawmill residuals and in-woods chips (the 
+other two raw materials consumed by Amite BioEnergy) have also declined 
+over the last several years – down 3% since 2016 for pine sawmill residuals 
+and down 3% since 2015 for in-woods chips.  
+According to the laws of supply and demand, for price to decrease despite 
+an increase in demand, an even larger increase in supply must occur. And 
+that’s what we’ve seen in this catchment area. Increases in bioenergy 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+9 
+Drax – August 2019 
+Impact of bioenergy demand on:  
+Analysis Findings 
+demand have been matched with decreases in raw material prices, and it’s 
+the increase in wood supply that’s driven prices downward, not increases in 
+bioenergy demand.    
+Markets for solid wood products 
+Positive / Neutral. In the Amite BioEnergy catchment area, demand for 
+softwood sawlogs to produce lumber has increased more than 50% since 
+2014. A by-product of the sawmilling process is sawmill residuals – a 
+material utilized by Amite BioEnergy to produce wood pellets. With the 
+increase in softwood lumber production has come an increase in sawmill 
+residuals, some of which has been consumed by Amite BioEnergy. Not only 
+has Amite BioEnergy benefited from the greater availability of this by-
+product, but lumber producers have also benefited, as Amite BioEnergy has 
+provided an additional outlet for these producers and their by-products. 
+The impact of bioenergy demand on hardwood markets, however, has been 
+neutral. Amite BioEnergy utilizes no hardwood in its production of wood 
+pellets, and there is no strong evidence to suggest bioenergy demand has 
+had any significant impact on hardwood markets in the catchment area.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+10 
+Drax – August 2019 
+1.  Report Background 
+Drax Group is a British electrical power generation and supply company that runs Europe’s biggest 
+biomass-fueled power station – the UK’s largest decarbonization project - supplying between 7-8% of the 
+country’s electricity needs. Drax is also among the world’s largest single-point consumers of wood and is 
+committed to sourcing that wood responsibly. 
+In accordance with Drax’s initiative to monitor forest management and timber market trends in the 
+markets in which its pellet mills operate, this report focuses specifically on the Amite BioEnergy pellet mill 
+in Gloster, Mississippi, and its fiber catchment area. 
+This catchment area analysis examines and identifies trends with timber inventory, growth, removals, 
+wood demand, raw material prices, and harvest activities and practices in the Amite BioEnergy catchment 
+area since 2010. It also includes an assessment of long-term market sustainability and provides a market 
+outlook through 2022.  
+ 
+1.1  About Hood Consulting 
+The following catchment area analysis was conducted by Hood Consulting and in partnership with 
+TimberMart-South, an industry-leading reporting service that has provided high quality price and market 
+information on Southern timber markets since 1976. 
+Hood Consulting provides professional forest industry advisory and consulting services to both private 
+and corporate landowners and investors, as well as to forest product companies, manufacturers, natural 
+resource firms, and state and local economic development authorities. We incorporate advanced 
+analytical techniques and applications, in-depth market research, and nearly 50 years of combined 
+experience to provide innovative and strategic solutions for our clients and their specific needs. 
+Dr. Harrison Hood is a Forest Economist and Principal of Hood Consulting. His experience also includes 
+the furniture import and export business, real estate development, and land management. Dr. Hood 
+received a B.B.A. in Finance from the University of Mississippi as well as a Masters of Forest Resources in 
+Forest Business and a Ph.D. in Forest Economics from the University of Georgia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+11 
+Drax – August 2019 
+2. Market Profile & Resource Assessment 
+A mill’s catchment area is the area in which a single pellet mill (“nucleus mill”) has directly acquired fiber 
+since the mill started operations, including any additional forest areas where future purchase contracts 
+exist. Amite BioEnergy’s catchment area, whose shape was derived by georeferencing site-specific data 
+from Drax’s primary feedstock supplies to the mill, extends as far out as 80 kilometers from the mill’s 
+location in Gloster, Mississippi, and includes areas located within nine different counties in southwest 
+Mississippi and two different parishes in Louisiana (see Figure 1). 
+Since information and data pertaining to land classification, timber inventory, growth, and removals is 
+provided at the individual county level, geospatial analysis software (Esri ArcGIS) was used to identify the 
+proportion of each county located within the catchment area (see Table 1).  
+Figure 1. Amite BioEnergy Catchment Area Boundary (as defined by Drax Biomass) 
+ 
+ 
+Table 1. County List & Catchment Area Allocation (%) 
+County / Parish 
+State 
+Catchment Area 
+Allocation (%) 
+Adams 
+MS 
+17% 
+Amite 
+MS 
+99% 
+Claiborne 
+MS 
+15% 
+Copiah 
+MS 
+13% 
+Franklin 
+MS 
+100% 
+Jefferson 
+MS 
+55% 
+Lincoln 
+MS 
+34% 
+Pike 
+MS 
+7% 
+Wilkinson 
+MS 
+65% 
+East Feliciana 
+LA 
+5% 
+St. Helena 
+LA 
+7% 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+12 
+Drax – August 2019 
+2.1  Land Area 
+Geospatial analysis of the Amite BioEnergy catchment area calculates total land area at approximately 
+659,979 hectares. According to most current estimates published by the US Department of Agriculture 
+(USDA), approximately 84% (557,206 hectares) of the total land area is classified as forestland, 4% 
+(23,356 hectares) is cropland, 6% (39,377 hectares) is pastureland, and 6% (40,040 hectares) is urban 
+areas or land that is classified as having other land uses. 
+ 
+Table 2. Amite BioEnergy Catchment Area - Land Area by Land 
+Classification & Use (2017) 
+Land Classification 
+Hectares 
+% of Total 
+Forestland 
+557,206 
+84% 
+Cropland 
+ 23,356 
+4% 
+Pastureland 
+ 39,377 
+6% 
+Urban & Other Land Uses 
+  40,040 
+6% 
+Total Land Area 
+659,979 
+100% 
+Source: USDA – US Forest Service; USDA Census of Agriculture (2017) 
+ 
+ 
+Figure 2. Amite BioEnergy Catchment Area – Land Area Distribution by Land Classification & Use (2017) 
+ 
+ 
+ 
+ 
+ 
+Forestland
+84%
+Cropland
+4%
+Pastureland
+6%
+Urban & Other 
+Land Uses
+6%
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+13 
+Drax – August 2019 
+2.1.1  Timberland 
+Forestland, defined by the USDA as land at least 10% stock with trees of any kind, totals approximately 
+557,206 hectares and constitutes 84% of the catchment area’s total land area.  
+Timberland, or forestland that is capable of producing at least 0.5 m3 of industrial wood per year, 
+constitutes over 99% of total forestland in the catchment area and totals approximately 554,176 
+hectares. (Note that not all forestland is capable of commercial timber production, but in this catchment 
+area, 99% of all forestland is considered commercially productive. Also note that the following analysis 
+will focus on and include timber inventory, growth, and removals data from timberland only). 
+ 
+2.1.1.1  By Ownership Group 
+Ownership of timberland in the Amite BioEnergy catchment area is predominantly privately owned. 
+According to US Forest Service - Forest Inventory and Analysis (FIA) data from 2017, the latest available, 
+privately-owned timberland totaled approximately 472,305 hectares (85%), compared to 57,081 hectares 
+(10%) of National Forest, 24,776 hectares (5%) owned by state and local authorities, and 15 hectares 
+(<1%) owned by other federal authorities. 
+ 
+Table 3. Amite BioEnergy Catchment Area - Timberland Area by 
+Ownership Group (2017) 
+Ownership Group 
+Hectares 
+% of Total 
+National Forest 
+   57,081 
+10% 
+Other Federal 
+         15 
+  0% 
+State and Local 
+  24,776 
+  5% 
+Private 
+472,305 
+85% 
+Total 
+554,176 
+100% 
+Source: USDA – US Forest Service 
+ 
+ 
+Figure 3. Amite BioEnergy Catchment Area - Distribution of Timberland Area by Ownership Group (2017) 
+ 
+National Forest
+10%
+Other Federal
+0%
+State and Local
+5%
+Private
+85%
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+14 
+Drax – August 2019 
+2.1.1.2  By Forest Type and Age Class 
+According to US Forest Service data, of the 554,176 hectares of timberland in the catchment area, 
+approximately 53% (296,757 hectares) is pine, 37% (211,485 hectares) is hardwood, and 9% (45,933 
+hectares) is mixed pine-hardwood. 
+Distribution of timberland area by age class varies by forest type. Approximately 76% of pine timberland 
+is 30 years of age or younger, with 50% 16-30 years of age. In contrast, approximately 65% of hardwood 
+timberland area is 36-75 years of age, with 44% 51-75 years of age. Distribution of mixed pine-hardwood 
+timberland by age class is a bit more wide-spread than that of both pine and hardwood timberland, with 
+approximately 73% of mixed pine-hardwood timberland 26-80 years of age, with 53% 31-65 years of age. 
+Note that the age class distributions of both pine and hardwood timberland are in line with typical 
+management regimes for these two species. In this market, timber management is focused on sawtimber 
+production, and in general, pine reaches sawtimber grade in 25-30 years whereas hardwoods grow 
+slower and typically don’t reach sawtimber grade until around age 40-50. 
+ 
+Figure 4. Amite BioEnergy Catchment Area - Distribution of Timberland Area by Age Class (2017) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+ 60,000
+ 70,000
+ 80,000
+Hectares
+Age Class (years)
+Pine
+Hardwood
+Mixed Pine/Hardwood
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+15 
+Drax – August 2019 
+Figure 5. Amite BioEnergy Catchment Area - Distribution of Timberland Area by Age Class & Forest Type (2017) 
+ 
+(a) Pine Timberland 
+ 
+(b) Hardwood Timberland 
+ 
+(c) Mixed Pine-Hardwood Timberland 
+ 
+ -
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+ 60,000
+Hectares
+Age Class (years)
+ -
+ 5,000
+ 10,000
+ 15,000
+ 20,000
+ 25,000
+Hectares
+Age Class (years)
+ -
+ 1,000
+ 2,000
+ 3,000
+ 4,000
+ 5,000
+ 6,000
+ 7,000
+ 8,000
+Hectares
+Age Class (years)
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+16 
+Drax – August 2019 
+2.2  Timber Inventory 
+Timber inventory data for the Amite BioEnergy catchment area is provided by the US Forest Service - 
+Forest Inventory & Analysis (FIA) program. FIA data utilizes approximately 50-60 sample plots per county 
+to calculate inventory estimates, with sampling errors of 10-25%.  
+Note that this section provides timber inventory details as of 20171, the most current available. Further 
+analysis, including inventory projections through 2022, is provided in the Market Analysis, Trends, & 
+Outlook section beginning on page 44. 
+ 
+2.2.1  By Ownership Group 
+Growing stock inventory on timberland in the Amite BioEnergy catchment area totals an estimated 89.6 
+million m3, of which approximately 80% (71.9 million m3) is privately owned, 17% (14.9 million m3) is 
+National Forest, 3% (2.7 million m3) is owned by state and local authorities, and <1% (22,315 m3) is owned 
+by other federal authorities.  
+Distribution of total growing stock inventory by ownership group varies slightly by major species group 
+(softwood vs. hardwood). According to the US Forest Service, inventory of softwood growing stock on 
+timberland totals approximately 53.1 million m3 (59% of total inventory), of which 77% (40.9 million m3) is 
+privately owned, 20% (10.8 million m3) is National Forest, and 3% (1.4 million m3) is owned by state and 
+local authorities. 
+Hardwood growing stock inventory in the catchment area totals an estimated 36.6 million m3 (41% of 
+total inventory), with approximately 85% (31.1 million m3) privately owned, 11% (4.2 million m3) National 
+Forest, 4% (1.3 million m3) owned by state and local authorities, and <1% (22,315 m3) owned by other 
+federal authorities. 
+ 
+Table 4. Amite BioEnergy Catchment Area - Growing Stock Volume on Timberland by Ownership Group 
+and Major Species (2017) 
+Ownership Group 
+Softwoods 
+Hardwoods 
+Total 
+(million m3) 
+% 
+(million m3) 
+% 
+(million m3) 
+% 
+National Forest 
+ 10.8 
+20% 
+  4.2 
+11% 
+ 14.9 
+17% 
+Other Federal 
+     0 
+0% 
+     0 
+0% 
+      0 
+0% 
+State and Local 
+  1.4 
+3% 
+  1.3 
+4% 
+  2.7 
+3% 
+Private 
+40.9 
+77% 
+31.1 
+85% 
+71.9 
+80% 
+Total 
+53.1 
+100% 
+36.6 
+100% 
+89.6 
+100% 
+Source: USDA - US Forest Service 
+ 
+ 
+ 
+1 US Forest Service FIA data for those areas located in Louisiana were only available through 2016. Estimates for 2017 have been included and 
+are based on historical trends and a local area inventory model.  
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+17 
+Drax – August 2019 
+ 
+Figure 6. Amite BioEnergy Catchment Area - Distribution of Growing Stock Volume on Timberland by Ownership Group (2017) 
+ 
+(a) Total Growing Stock 
+ 
+(b) Softwood Growing Stock 
+ 
+(c) Hardwood Growing Stock 
+ 
+National 
+Forest
+17%
+Other Federal
+0%
+State and Local
+3%
+Private
+80%
+National 
+Forest
+20%
+Other Federal
+0%
+State and Local
+3%
+Private
+77%
+National Forest
+11%
+Other Federal
+0%
+State and Local
+4%
+Private
+85%
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+18 
+Drax – August 2019 
+2.2.2  By Diameter Class Distribution 
+Distribution of total growing stock inventory on timberland by diameter class varies by major species 
+group. Based on the most current US Forest Service data, the distribution of softwood growing stock 
+inventory shows that approximately 73% (38.9 million m3) is less than 17 inches in diameter, with 59% 
+(31.1 million m3) of softwood inventory 7-15 inches in diameter. 
+In contrast, distribution of hardwood growing stock in the catchment area shows that 83% (30.3 million 
+m3) is 7-25 inches in diameter, with approximately 54% (19.6 million m3) of hardwood inventory 11-21 
+inches in diameter. 
+In addition, FIA estimates of diameter class distribution by major species group allow us to break down 
+volume estimates according to major timber product. Since pine constitutes greater than 98% of total 
+softwood inventory in the catchment area (according to FIA data), for these calculations, all softwood 
+inventory is considered pine. Individual product specifications are defined as follows: 
+Major Product  
+DBH (inches) 
+Pine Pulpwood  
+5.0 – 8.9 
+Pine Chip-n-saw 
+9.0 – 11.9 
+Pine Sawtimber  
+12.0+ 
+Hardwood Pulpwood 
+5.0 – 11.9 
+Hardwood Sawtimber  12.0+ 
+ 
+Based on these product specifications, approximately 28.3 million m3 of total growing stock inventory is 
+classified as pine sawtimber (32%), compared to 13.7 million m3 of pine chip-n-saw (15%), 11.1 million m3 
+of pine pulpwood (12%), 27.1 million m3 of hardwood sawtimber (30%), and 9.5 million m3 of hardwood 
+pulpwood (11%). 
+ 
+Table 5. Amite BioEnergy Catchment Area - Distribution of Total 
+Growing Stock Volume by Major Timber Product (2017) 
+Product 
+Volume 
+(Million m3) 
+Distribution 
+Pine Sawtimber 
+28.3 
+32% 
+Pine Chip-n-saw 
+13.7 
+15% 
+Pine Pulpwood 
+11.1 
+12% 
+Hardwood Sawtimber 
+27.1 
+30% 
+Hardwood Pulpwood 
+ 9.5 
+11% 
+Total 
+89.6 
+100% 
+Source: USDA - US Forest Service 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+19 
+Drax – August 2019 
+Figure 7. Amite BioEnergy Catchment Area - Distribution of Growing Stock Volume on Timberland by Diameter Class (2017) 
+ 
+(a) Total Growing Stock 
+ 
+(b) Softwood Growing Stock 
+ 
+(c) Hardwood Growing Stock 
+0
+2,000,000
+4,000,000
+6,000,000
+8,000,000
+10,000,000
+12,000,000
+14,000,000
+Cubic Meters
+Diameter Class (inches DBH)
+Softwoods
+Hardwoods
+0
+2,000,000
+4,000,000
+6,000,000
+8,000,000
+10,000,000
+12,000,000
+Cubic Meters
+Diameter Class (inches DBH)
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+Cubic Meters
+Diameter Class (inches DBH)
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+20 
+Drax – August 2019 
+2.2.3  By Age Class Distribution 
+Distribution of total growing stock volume on timberland by age class is bimodal, with approximately 34% 
+of total inventory 16-30 years of age and 28% of total inventory 51-70 years of age (see Figure 8). This is 
+explained by major species composition, as softwood growing stock averages roughly 36 years of age 
+compared to 56 years of age for hardwood growing stock. 
+According to US Forest Service data, the distribution of softwood growing stock volume by age class 
+shows that 66% (35.2 million m3) is 11-40 years of age, with approximately 49% (26.1 million m3) 16-30 
+years of age. 
+Distribution of hardwood growing stock in the catchment area by age class shows approximately 76% 
+(27.7 million m3) is 36-80 years of age, with 51% (18.8 million m3) of hardwood growing stock volume 51-
+75 years of age. 
+ 
+Table 6. Distribution of Growing Stock Volume by Age Class & Major Species (2017) 
+ 
+Softwood 
+Hardwood 
+Total 
+Age Class 
+(Years) 
+Volume 
+(m3) 
+Distribution 
+Volume 
+(m3) 
+Distribution 
+Volume 
+(m3) 
+Distribution 
+0-5 
+148,214 
+0% 
+48,040 
+0% 
+196,254 
+0% 
+6-10 
+638,025 
+1% 
+141,343 
+0% 
+779,368 
+1% 
+11-15 
+3,024,338 
+6% 
+405,302 
+1% 
+3,429,639 
+4% 
+16-20 
+7,643,562 
+14% 
+496,624 
+1% 
+8,140,186 
+9% 
+21-25 
+9,977,814 
+19% 
+1,569,437 
+4% 
+11,547,250 
+13% 
+26-30 
+8,430,079 
+16% 
+2,008,349 
+5% 
+10,438,428 
+12% 
+31-35 
+2,741,945 
+5% 
+807,076 
+2% 
+3,549,021 
+4% 
+36-40 
+3,389,620 
+6% 
+2,524,016 
+7% 
+5,913,636 
+7% 
+41-45 
+1,615,724 
+3% 
+2,299,918 
+6% 
+3,915,642 
+4% 
+46-50 
+798,242 
+2% 
+2,125,037 
+6% 
+2,923,278 
+3% 
+51-55 
+2,389,068 
+5% 
+3,343,261 
+9% 
+5,732,329 
+6% 
+56-60 
+2,913,527 
+5% 
+3,387,794 
+9% 
+6,301,320 
+7% 
+61-65 
+3,234,253 
+6% 
+5,258,002 
+14% 
+8,492,254 
+9% 
+66-70 
+1,407,489 
+3% 
+3,549,504 
+10% 
+4,956,994 
+6% 
+71-75 
+1,337,691 
+3% 
+3,248,405 
+9% 
+4,586,096 
+5% 
+76-80 
+1,456,266 
+3% 
+1,999,756 
+5% 
+3,456,022 
+4% 
+81-85 
+502,385 
+1% 
+1,503,872 
+4% 
+2,006,257 
+2% 
+86-90 
+963,351 
+2% 
+1,034,090 
+3% 
+1,997,440 
+2% 
+91-95 
+203,215 
+0% 
+393,324 
+1% 
+596,538 
+1% 
+96-100 
+242,191 
+0% 
+254,688 
+1% 
+496,878 
+1% 
+100+ 
+0 
+0% 
+159,458 
+0% 
+159,458 
+0% 
+Total 
+53,056,996 
+100% 
+36,557,295 
+100% 
+89,614,290 
+100% 
+Source: USDA - US Forest Service 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+21 
+Drax – August 2019 
+Figure 8. Amite BioEnergy Catchment Area - Distribution of Growing Stock Volume on Timberland by Age Class (2017) 
+ 
+(a) Total Growing Stock 
+ 
+(b) Softwood Growing Stock 
+ 
+(c) Hardwood Growing Stock 
+0
+2,000,000
+4,000,000
+6,000,000
+8,000,000
+10,000,000
+12,000,000
+14,000,000
+Cubic Meters
+Age Class (years)
+Softwood
+Hardwood
+0
+2,000,000
+4,000,000
+6,000,000
+8,000,000
+10,000,000
+12,000,000
+Cubic Meters
+Age Class (years)
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+Cubic Meters
+Age Class (years)
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+22 
+Drax – August 2019 
+2.2.4  By Stand Origin 
+US Forest Service data includes two classifications for stand origin: 1) naturally regenerated timber stands 
+and 2) planted timber stands. Based on the most current US Forest Service FIA estimates, approximately 
+68% of total growing stock volume in the catchment area, or 61.0 million m3, is of natural origin, 
+compared to 32% (28.6 million m3) that was planted. However, note that stand origin distribution varies 
+widely by major species group. 
+According to US Forest Service data, approximately 49% (26.1 million m3) of softwood growing stock is 
+naturally regenerated, whereas 51% (26.9 million m3) is planted. In contrast, approximately 95% (34.8 
+million m3) of hardwood inventory is naturally regenerated, compared to 5% (1.7 million m3) planted. 
+ 
+Table 7. Amite BioEnergy Catchment Area - Growing Stock Volume on Timberland by Stand Origin & Major 
+Species (2017) 
+ 
+Softwood 
+Hardwood 
+Total 
+Stand Origin 
+Volume 
+(million m3) 
+Distribution 
+Volume 
+(million m3) 
+Distribution 
+Volume 
+(million m3) 
+Distribution 
+Naturally Regenerated 
+26.1 
+49% 
+34.8 
+95% 
+61.0 
+68% 
+Planted 
+26.9 
+51% 
+1.7 
+5% 
+28.6 
+32% 
+Total 
+53.1 
+100% 
+36.6 
+100% 
+89.6 
+100% 
+Source: USDA - US Forest Service 
+ 
+Figure 9. Amite BioEnergy Catchment Area - Distribution of Growing Stock Volume on Timberland by Stand Origin (2017) 
+ 
+                       (a) Total 
+ 
+ 
+                 (b) Softwood 
+ 
+                   (c) Hardwood 
+ 
+ 
+ 
+ 
+ 
+Natural
+68%
+Planted
+32%
+Natural
+49%
+Planted
+51%
+Natural
+95%
+Planted
+5%
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+23 
+Drax – August 2019 
+2.2.5  Commercially Available Timber Inventory 
+Private landowners have the ability to sell their timber whenever and to whomever they decide, as such, 
+all privately-owned timber inventory is considered commercially available. In the Amite BioEnergy 
+catchment area, this totals an estimated 71.9 million m3, or 80% of total growing stock volume. While 
+only privately-owned timber is considered commercially available, note that a significant portion of 
+National Forest and state and locally owned timberland is actively managed for timber production. 
+The US Forest Service (USFS) manages all National Forests and the overriding objective of the USFS’s 
+forest management program is to ensure that National Forests are managed in an ecologically sustainable 
+manner. Other objectives include maintaining vegetation, restoring ecosystems, reducing hazards, and 
+maintaining forest health. Timber harvests are a management tool the USFS utilizes to help meet these 
+objectives. However, in accordance with the National Forest Management Act of 1976, the USFS must 
+manage national forests on a maximum sustained yield basis. Ultimately, this translates to longer rotation 
+lengths and a smaller percentage of National Forest timber that is harvested annually. 
+In Mississippi, much of the timberland owned by state and local authorities is 16th section land2 that is 
+managed by the Mississippi Forestry Commission under the direction of the Mississippi Secretary of State 
+and in cooperation with local school districts. Like National Forests, state timberlands are also managed 
+on a maximum sustained yield basis.  
+Conservatively, 40-60% of this timberland, or an additional 7-10 million m3 of timber, is likely available. 
+However, for this analysis, National Forests and state and locally owned timber is not considered 
+commercially available. 
+ 
+Table 8. Amite BioEnergy Catchment Area - Commercially 
+Available Inventory by Major Timber Product (2017) 
+Product 
+Commercially Available Volume 
+(Million m3) 
+Pine Sawtimber 
+ 21.8 
+Pine Chip-n-saw 
+ 10.5 
+Pine Pulpwood 
+  8.5 
+Hardwood Sawtimber 
+23.0 
+Hardwood Pulpwood 
+  8.0 
+Total 
+71.9 
+ 
+ 
+ 
+ 
+ 
+ 
+2 16th section land is public school trust lands that leased by individual school districts to fund education in the State of Mississippi.  
+(Source: Mississippi Secretary of State Office) 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+24 
+Drax – August 2019 
+2.3  Timber Growth & Removals 
+2.3.1  Timber Growth 
+According to US Forest Service data, net annual growth of growing stock timber in the Amite BioEnergy 
+catchment area totaled an estimated 5,109,497 m3 in 2017, the latest available. Specifically, 79% 
+(4,055,883 m3) of total growth was attributed to softwood species, compared to 21% (1,053,614 m3) 
+hardwood species. Net annual growth by major timber product is provided below in Table 9. 
+ 
+Table 9. Amite Bioenergy Catchment Area - Net Growth of Growing 
+Stock Timber by Major Timber Product (2017) 
+Product 
+Volume Growth 
+(m3 / year) 
+% of Total 
+Growth 
+Pine Sawtimber 
+1,300,327 
+25% 
+Pine Chip-n-saw 
+1,234,305 
+24% 
+Pine Pulpwood 
+1,521,250 
+30% 
+Hardwood Sawtimber 
+   543,521 
+11% 
+Hardwood Pulpwood 
+   510,093 
+10% 
+Total 
+5,109,497 
+100% 
+Source: USDA - US Forest Service 
+ 
+2.3.2  Harvest Removals 
+According to US Forest Service data, harvest removals in the catchment area totaled 2,410,970 m3 in 
+2017, of which approximately 83% (2,003,171 m3) was softwood timber and 17% (407,798 m3) was 
+hardwood timber. Of the five major timber products, harvest removals were highest for pine pulpwood, 
+totaling 846,472 m3 and accounting for 35% of total removals, followed by 663,956 m3 of pine sawtimber 
+(28% of total harvest removals), 492,744 m3 of pine chip-n-saw (20%), 311,916 m3 of hardwood 
+sawtimber (13%), and 95,882 m3 of hardwood pulpwood (4%).  
+ 
+Table 10. Amite BioEnergy Catchment Area - Harvest Removals by Major 
+Timber Product (2017) 
+Product 
+Harvest Removals 
+(Cubic Meters) 
+% of Total  
+Harvest Removals 
+Pine Sawtimber 
+   663,956 
+28% 
+Pine Chip-n-saw 
+   492,744 
+20% 
+Pine Pulpwood 
+   846,472 
+35% 
+Hardwood Sawtimber 
+   311,916 
+13% 
+Hardwood Pulpwood 
+     95,882 
+4% 
+Total 
+2,410,970 
+100% 
+Source: USDA - US Forest Service 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+25 
+Drax – August 2019 
+2.3.3  Growth-to-Removal Ratios 
+Growth-to-removals analysis compares annual timber growth to annual harvests and provides a measure 
+of market demand relative to supply. A growth-to-removals ratio of 1.0 indicates a balanced market 
+where growth equals removals. A value of >1 indicates growth exceeds removals, signifying sustainable 
+harvest levels (as well as oversupply). A value of <1 indicates removals (or harvest levels) exceed growth, 
+signifying more highly competitive market conditions and harvest levels that are unsustainable over the 
+long term. 
+According to US Forest Service data from 2017, the latest available, overall inventory growth totaled 5.1 
+million m3, compared to total harvest removals of 2.4 million m3, or a growth-to-removals ratio of 2.12. 
+The growth-to-removal ratio for softwood species was 2.02, compared to 2.58 for hardwood species. 
+Growth-to-removals ratios by species and individual timber product are as follows: pine sawtimber=1.96, 
+pine chip-n-saw=2.50, pine pulpwood=1.80, hardwood sawtimber=1.74, and hardwood pulpwood=5.32. 
+Note that growth-to-removal ratios for all five major timber products are well above 1.0, indicating 
+sustainable market conditions as well as oversupply. 
+ 
+Table 11. Amite BioEnergy Catchment Area - Annual Growth, Removals, & Growth-
+to-Removal Ratios by Major Timber Product (2017) 
+Softwood (Pine) 
+Growth  
+Removals  
+G:R  
+(million m3) 
+(million m3) 
+Ratio 
+Pine Pulpwood 
+1.52 
+0.85 
+1.80 
+Pine Chip-n-saw 
+1.23 
+0.59 
+2.50 
+Pine Sawtimber 
+1.30 
+0.66 
+1.96 
+Softwood (Pine) Total 
+4.06 
+2.00 
+2.02 
+  
+  
+  
+  
+Hardwood 
+Growth  
+Removals  
+G:R  
+(million m3) 
+(million m3) 
+Ratio 
+Hardwood Pulpwood 
+0.51 
+0.10 
+5.32 
+Hardwood Sawtimber 
+0.54 
+0.31 
+1.74 
+Hardwood Total 
+1.05 
+0.41 
+2.58 
+  
+  
+  
+  
+Product 
+Growth  
+Removals  
+G:R  
+(million m3) 
+(million m3) 
+Ratio 
+Pulpwood 
+2.03 
+0.94 
+2.16 
+Sawtimber 
+3.08 
+1.47 
+2.10 
+Total 
+5.11 
+2.41 
+2.12 
+Source: USDA - US Forest Service 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+26 
+Drax – August 2019 
+3. Wood Demand & Raw Material Cost Assessment 
+3.1  Mill Capacity & Wood Demand  
+According to TimberMart-South’s mill database, as of June 2019, there were 44 major mills operating in 
+and around the Amite BioEnergy catchment area (within a 160-kilometer radius of Drax’s pellet mill in 
+Gloster, Mississippi). This includes 26 lumber mills (14 softwood mills and 12 hardwood mills), five 
+pulp/paper mills, five panel (plywood/OSB) mills, six chip mills, and two pellet mills (including Amite 
+BioEnergy).  
+Total production capacity associated with these 44 mills translates to approximately 21.6 million tonnes 
+of wood per year. However, not all wood procurement for these mills occurs within Amite BioEnergy’s 
+catchment area. Based on the relative location of these mills to Amite BioEnergy and its catchment area, 
+we estimate the total allocated capacity of these mills to the BioEnergy catchment area at approximately 
+5,296,598 tonnes (Table 12).  
+Note that total capacity is not the same as actual demand, but rather the maximum potential demand 
+associated with mills running at full production capacity. Details regarding historic wood demand in the 
+catchment area are provided in the Market Trends, Analysis, & Outlook section beginning on page 44. 
+ 
+Table 12. Number of Mills, Total Mill Capacity, & Catchment Area 
+Allocated Mill Capacity (2019) 
+Mill Type 
+No. 
+Mills 
+Total Capacity 
+(Tonnes*) 
+Catchment Area  
+Allocation (Tonnes*) 
+Lumber 
+26 
+  7,454,183 
+3,130,945 
+Pulp / Paper 
+5 
+  8,539,322 
+   716,663 
+Plywood / OSB 
+5 
+  2,500,176 
+   182,705 
+Chip 
+6 
+     671,544 
+   268,380 
+Pellet 
+2 
+  2,449,402 
+   997,904 
+Total 
+44 
+21,614,627 
+5,296,598 
+*Roundwood equivalent volume 
+Source: TimberMart-South; Hood Consulting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+27 
+Drax – August 2019 
+Table 13. Amite BioEnergy Catchment Area - Mill List (2019) 
+Mill Name / Company 
+City 
+County 
+State 
+Capacity 
+Units 
+Demand† 
+Softwood Sawmill 
+Lincoln Lumber Co 
+Brookhaven 
+Lincoln 
+MS 
+    8 
+MM Bf 
+62,960 
+Paul Davis Lumber Inc 
+Amite 
+Tangipahoa 
+LA 
+    8 
+MM Bf 
+62,960 
+Bayou State Lumber 
+Jackson 
+East Feliciana 
+LA 
+  10 
+MM Bf 
+78,700 
+J.M. Jones Lumber  
+Natchez 
+Adams 
+MS 
+  16 
+MM Bf 
+125,920 
+Byrd Lumber  
+Fernwood 
+Pike 
+MS 
+  21 
+MM Bf 
+165,270 
+Amite Lumber  
+Liberty 
+Amite 
+MS 
+  28 
+MM Bf 
+220,360 
+Seago Lumber 
+McComb 
+Pike 
+MS 
+  51 
+MM Bf 
+235,110 
+Canfor - Southern Lumber Co 
+Hermanville 
+Claiborne 
+MS 
+  81 
+MM Bf 
+373,410 
+Rex Lumber  
+Brookhaven 
+Lincoln 
+MS 
+  89 
+MM Bf 
+449,410 
+Vicksburg Forest Products 
+Vicksburg 
+Warren 
+MS 
+100 
+MM Bf 
+787,000 
+Hood Industries 
+Bogalusa 
+Washington 
+LA 
+150 
+MM Bf 
+646,500 
+Hood Industries 
+Silver Creek 
+Lawrence 
+MS 
+160 
+MM Bf 
+689,600 
+Weyerhaeuser Co - Holden Lumber 
+Holden 
+Livingston 
+LA 
+170 
+MM Bf 
+732,700 
+Weyerhaeuser Co - McComb 
+Magnolia 
+Pike 
+MS 
+240 
+MM Bf 
+1,034,400 
+Hardwood Sawmill 
+Wallace Lumber Co. 
+Summit 
+Amite 
+MS 
+10 
+MM Bf 
+71,700 
+Kitchens Bros. Manufacturing Co 
+Utica 
+Hinds 
+MS 
+15 
+MM Bf 
+107,550 
+Rutland Lumber Co 
+Collins 
+Covington 
+MS 
+18 
+MM Bf 
+129,060 
+Rives & Reynolds Lumber Co. 
+Natchez 
+Adams 
+MS 
+19 
+MM Bf 
+136,230 
+Monticello Tie & Timber 
+Monticello 
+Lawrence 
+MS 
+22 
+MM Bf 
+157,740 
+Kitchens Bros. Manufacturing Co 
+Hazlehurst 
+Copiah 
+MS 
+26 
+MM Bf 
+186,420 
+Jones Lumber Co 
+Hazlehurst 
+Copiah 
+MS 
+30 
+MM Bf 
+215,100 
+Netterville Lumber Co 
+Woodville 
+Wilkinson 
+MS 
+30 
+MM Bf 
+215,100 
+Jones Lumber Co 
+Sandy Hook 
+Walthall 
+MS 
+40 
+MM Bf 
+286,800 
+Jones Lumber Co 
+Gloster 
+Amite 
+MS 
+40 
+MM Bf 
+286,800 
+LeMoyen Mill & Timber 
+Le Moyen 
+Saint Landry 
+LA 
+46 
+MM Bf 
+329,820 
+Jones Lumber Co 
+Natchez 
+Adams 
+MS 
+60 
+MM Bf 
+430,200 
+Pulp/Paper Mill 
+Georgia-Pacific – Port Hudson* 
+Zachary 
+East Baton Rouge 
+LA 
+- 
+M tons 
+        - 
+Hood Container Corporation 
+St Francisville 
+West Feliciana 
+LA 
+300 
+M tons 
+1,077,000 
+International Paper 
+Vicksburg 
+Warren 
+MS 
+571 
+M tons 
+2,049,890 
+International Paper 
+Bogalusa 
+Washington 
+LA 
+856 
+M tons 
+3,073,040 
+Georgia-Pacific - Monticello 
+Monticello 
+Lawrence 
+MS 
+895 
+M tons 
+3,213,050 
+Panel Mill 
+D & L Veneers Inc. 
+Collins 
+Covington 
+MS 
+  25 
+MM SqFt 
+48,750 
+Hunt Forest Products 
+Pollock 
+Grant 
+LA 
+156 
+MM SqFt 
+304,688 
+Hunt Forest Products 
+Natalbany 
+Tangipahoa 
+LA 
+184 
+MM SqFt 
+359,531 
+Armstrong Hardwood Veneer 
+Vicksburg 
+Warren 
+MS 
+250 
+MM SqFt 
+487,500 
+Martco LP - OSB 
+Oakdale 
+Allen 
+LA 
+850 
+MM SqFt 
+1,555,500 
+Chip Mill 
+Gloster Chips 
+Gloster 
+Amite 
+MS 
+- 
+M tons 
+        - 
+International Paper 
+Sandy Hook 
+Walthall 
+MS 
+- 
+M tons 
+        - 
+International Paper 
+Columbia 
+Marion 
+MS 
+- 
+M tons 
+        - 
+International Paper 
+Kentwood 
+Tangipahoa 
+LA 
+- 
+M tons 
+        - 
+Jones Lumber 
+Sandy Hook 
+Walthall 
+MS 
+    5 
+M tons 
+5,250 
+Georgia-Pacific 
+Bague Chitto 
+Lincoln 
+MS 
+700 
+M tons 
+735,000 
+Pellet Mill 
+Drax - Amite BioEnergy 
+Gloster 
+Amite 
+MS 
+450 
+M tons 
+1,100,000 
+Drax - LaSalle BioEnergy 
+Urania 
+LaSalle 
+LA 
+650 
+M tons 
+1,600,000 
+*GP continues to operate the consumer tissue and towel business operations at its Port Hudson mill; however, no roundwood is consumed at 
+this facility. 
+†US green tons 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+28 
+Drax – August 2019 
+Figure 10. Amite BioEnergy Catchment Area - Mill Map (2019)  
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+29 
+Drax – August 2019 
+Figure 11. Lumber Mills (2019)  
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+30 
+Drax – August 2019 
+Figure 12. Pulp, Pellet, Chip, & Panel Mills (2019) 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+31 
+Drax – August 2019 
+3.2  Raw Material Costs 
+Current and historic prices for both stumpage and delivered timber as well as pulp quality chips and 
+sawmill residuals have been provided by TimberMart-South (TMS). Note that these prices are specific to 
+the Amite BioEnergy catchment area and are average market prices calculated from actual timber sales 
+reported to TMS and occurring in the following Mississippi counties and Louisiana parishes: Adams, 
+Amite, Claiborne, Copiah, Franklin, Jefferson, Lincoln, Pike, and Wilkinson (all in Mississippi), as well as 
+East Feliciana, St. Helena, and West Feliciana (in Louisiana). 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+32 
+Drax – August 2019 
+3.2.1  Standing Timber (Stumpage) Prices 
+Stumpage price is the value of timber as it stands uncut on the stump and is what landowners are paid by 
+loggers and other wood buyers for their standing timber. In the 1st Quarter of 2019 in the Amite 
+BioEnergy catchment area, stumpage prices for the five major timber products averaged as follows: 
+Timber Product  
+Stumpage $/Tonne 
+Pine Sawtimber         
+        $27.70 
+Pine Chip-n-saw          
+        $19.49 
+Pine Pulpwood  
+        $8.17 
+Hardwood Sawtimber 
+        $51.59 
+Hardwood Pulpwood 
+        $15.81 
+Historic quarterly stumpage prices for the five major timber products from 1st Quarter 2010 through 1st 
+Quarter 2019 are provided in Appendix A. See the Market Trends, Analysis, & Outlook section beginning 
+on page 44 for a detailed assessment of raw material prices and price trends. 
+ 
+Figure 13. Amite BioEnergy Catchment Area – Pine Stumpage Prices (1Q 2010 – 1Q 2019) 
+ 
+ 
+Figure 14. Amite BioEnergy Catchment Area – Hardwood Stumpage Prices (1Q 2010 – 1Q 2019) 
+ 
+$0
+$10
+$20
+$30
+$40
+$50
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Pine Sawtimber
+Pine Chip-n-saw
+Pine Pulpwood
+$0
+$10
+$20
+$30
+$40
+$50
+$60
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Hardwood Sawtimber
+Hardwood Pulpwood
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+33 
+Drax – August 2019 
+3.2.2  Delivered Timber Prices 
+Delivered prices are those paid for timber delivered to the mill. These prices include stumpage price plus 
+any costs associated with cutting, loading, and hauling timber to the mill. In the 1st Quarter of 2019 in the 
+Amite BioEnergy catchment area, delivered prices for the five major timber products averaged as follows: 
+Timber Product  
+Delivered $/Tonne 
+Pine Sawtimber          
+        $47.44 
+Pine Chip-n-saw          
+        $40.50 
+Pine Pulpwood  
+        $30.36 
+Hardwood Sawtimber 
+        $72.39 
+Hardwood Pulpwood 
+        $35.77 
+Historic quarterly delivered prices for the five major timber products from 1st Quarter 2010 through 1st 
+Quarter 2019 are provided in Appendix A. See the Market Trends, Analysis, & Outlook section beginning 
+on page 44 for a detailed assessment of raw material prices and price trends. 
+ 
+Figure 15. Amite BioEnergy Catchment Area – Delivered Pine Prices (1Q 2010 – 1Q 2019) 
+ 
+ 
+Figure 16. Amite BioEnergy Catchment Area – Delivered Hardwood Prices (1Q 2010 – 1Q 2019) 
+ 
+$25
+$30
+$35
+$40
+$45
+$50
+$55
+$60
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Delivered Pine Sawtimber
+Delivered Pine Chip-n-saw
+Delivered Pine Pulpwood
+$20
+$30
+$40
+$50
+$60
+$70
+$80
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Delivered Hardwood Sawtimber
+Delivered Hardwood Pulpwood
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+34 
+Drax – August 2019 
+3.2.3  Sawmill Residuals & Pulp Quality Chip Prices 
+In the 1st Quarter of 2019, pine and hardwood pulp quality chip prices (FOB point of production) averaged 
+as follows in the Amite BioEnergy catchment area: 
+Product  
+ 
+       Average $/Tonne 
+Pine Sawmill Chips 
+            $31.36 
+Pine Chip Mill Chips 
+            $37.00 
+In-Wood Debarked Pine Chips 
+$35.92 
+Hardwood Sawmill Chips             $31.68 
+Hardwood Chip Mill Chips           
+$46.50 
+ 
+Historic quarterly sawmill residual and chip prices from 1st Quarter 2010 through 1st Quarter 2019 are 
+provided in Appendix A. See the Market Trends, Analysis, & Outlook section beginning on page 44 for a 
+detailed assessment of raw material prices and price trends. 
+ 
+Figure 17. Amite BioEnergy Catchment Area - Quarterly Pine Pulp Quality Chip Prices (1Q 2010 – 1Q 2019) 
+ 
+ 
+Figure 18. Amite BioEnergy Catchment Area - Quarterly Hardwood Chip Prices (1Q 2010 – 1Q 2019) 
+ 
+$25
+$30
+$35
+$40
+$45
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Pine Sawmill Chips
+Pine Chip Mill Chips
+In-Woods Debarked Pine Chips
+$20
+$25
+$30
+$35
+$40
+$45
+$50
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Hardwood Sawmill Chips
+Hardwood Chip Mill Chips
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+35 
+Drax – August 2019 
+3.2.4  Timber Price Drivers 
+A detailed assessment of raw material prices and price trends is provided in the Market Trends, Analysis, 
+& Outlook section beginning on page 44. However, we would like to point out and highlight some of the 
+major price drivers and indicators. 
+ Production.  Production levels for forest products are representative of wood demand and have 
+historically been a strong indicator of timber price. The figure below (left) shows annual Southern 
+pine lumber production and annual average delivered pine sawtimber prices in the Amite 
+BioEnergy catchment area from 2010-2018. Looking at this figure, pine sawtimber price has 
+generally tracked lumber production, particularly from 2011-2015. Over this period, production 
+increased 24% and pine sawtimber price increased 12%. However, we’d like to note that the 
+recent divergence of lumber production and pine sawtimber price (since 2015) is largely due to 
+increases in wood supply, which is documented in detail in subsequent sections of this report.  
+Similarly, US paper and paperboard production has historically been a strong indicator of pine 
+pulpwood price (see figure below (right) of annual US paper and paperboard production and 
+catchment area delivered pine pulpwood prices from 2010-2018).  
+ 
+ 
+Source: Southern Forest Products Association, American Forest & Paper Association, TimberMart-South 
+ Domestic Economy.  The state of the domestic economy drives changes in timber prices both 
+locally and across the Southern region. Specifically, financial markets have historically been a 
+strong indicator of price. Over the long term, timber prices, specifically pine sawtimber price, 
+have generally tracked both the Dow Jones Industrial Average (DJIA) and S&P 500 (see figure 
+below of the DJIA and catchment area delivered pine sawtimber prices from 2010-2018).   
+ 
+Source: US Federal Reserve Bank, TimberMart-South 
+$35
+$40
+$45
+$50
+$55
+0
+5
+10
+15
+20
+2010
+2012
+2014
+2016
+2018
+$/Tonne
+Production (billion bf)
+Southern Pine Lumber Production vs. Amite BioEnergy 
+Catchment Area Delivered Pine Sawtimber Price
+Southern Lumber Production
+Delivered Pine Sawtimber
+$26
+$28
+$30
+$32
+$34
+68
+70
+72
+74
+76
+2010
+2012
+2014
+2016
+2018
+$/Tonne
+Production (million tonnes)
+US Paper & Paperboard Production vs. Amite BioEnergy 
+Catchment Area Delivered Pine Pulpwood Price
+Paper & Paperboard Production
+Delivered Pine Pulpwood
+$40
+$45
+$50
+$55
+0
+10,000
+20,000
+30,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+$/Tonne
+Production (billion bf)
+Dow Jones Industrial Average vs. Amite BioEnergy Catchment Area Delivered Pine Sawtimber Price
+DJIA
+Delivered Pine Sawtimber
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+36 
+Drax – August 2019 
+ Housing Starts. US residential building construction is a principal driver of the wood products 
+industry and, historically, domestic housing starts have been a major indicator of sawtimber 
+price. For instance, US housing starts totaled just over 600,000 units in 2011, increasing to over 
+1.1 million units in 2015. Delivered pine sawtimber prices closely tracked housing starts over this 
+period, increasing 12% from 2011-2015 (see figure below). But while housing starts have 
+continued to increase since 2015 (to nearly 1.3 million units in 2018), delivered pine sawtimber 
+prices have remained relatively flat. As we saw with pine sawtimber price and lumber production, 
+pine sawtimber price and housing starts have also diverged since 2015 – largely due to wood 
+oversupply. 
+ 
+Source: US Census Bureau, TimberMart-South 
+ International Trade. International trade and foreign trade policy also drives changes in timber 
+prices, particularly changes in hardwood sawtimber price. Hardwood log and lumber exports, 
+specifically, constitute around 65-75% of total US log and lumber exports, and these exports are 
+driven largely by exchange rates. For instance, the US trade weighted exchange rate (TWEX) 
+increased from 97 in 2011 to 122 in 2016 (a value greater than 100 is indicative of a strong US 
+dollar), and, over this same period, delivered hardwood sawtimber prices in the catchment area 
+increased nearly 30% (see figure below (left)). However, trade policies enacted by the current US 
+President since then have slowed growth in US exports and consequently hardwood sawtimber 
+prices have held relatively flat since 2016. 
+ 
+Source: US Federal Reserve Bank, US Department of Agriculture, TimberMart-South 
+ 
+ 
+$40
+$45
+$50
+$55
+0
+500
+1,000
+1,500
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+$/Tonne
+Housing Starts (000 units)
+US Housing Starts vs. Amite BioEnergy Catchment Area Delivered Pine Sawtimber Price
+US Housing Starts
+Delivered Pine Sawtimber
+$35
+$45
+$55
+$65
+$75
+70
+85
+100
+115
+130
+2010
+2012
+2014
+2016
+2018
+$/Tonne
+Exchange Rate
+US Trade Weighted Exchange Rate vs. Amite BioEnergy 
+Catchment Area Delivered Hardwood Sawtimber Price
+TWEX
+Delivered Hardwood Sawtimber
+$35
+$45
+$55
+$65
+$75
+0
+2
+4
+6
+8
+2010
+2012
+2014
+2016
+2018
+$/Tonne
+Exports (million m3)
+Hardwood Log & Lumber Exports vs. Amite BioEnergy 
+Catchment Area Delivered Hardwood Sawtimber Price
+Hardwood Log & Lumber Exports
+Delivered Hardwood Sawtimber
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+37 
+Drax – August 2019 
+ Weather. Weather trends also impact timber prices; however, these trends are much more 
+seasonal in nature and affect short-term price movements. In this region, wet conditions typically 
+persist throughout the winter (in the 1st and 4th quarters of the year), creating wood accessibility 
+issues and constraining supply. And as a result, timber prices increase over the short term. 
+However, wet winters are followed by hot summers, which alleviate supply constraints and 
+provide greater access to wood. In turn, with supply no longer an issue, timber prices decline in 
+the short term (typically during the 2nd or 3rd quarter of the year). 
+The figure below shows quarterly average delivered pine pulpwood prices in the Amite BioEnergy 
+catchment area since 2010. Looking at this figure you can see the seasonality in price movements 
+(seasonal weather-related price spikes highlighted in light red). An example of a short-term, 
+weather-driven price spike occurred in 1Q 2019, with delivered pine pulpwood price increasing 
+11% quarter-over-quarter due largely to wet conditions that persisted in this market from 
+September 2018 through March 2019.  
+ 
+Source: TimberMart-South 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$26
+$28
+$30
+$32
+$34
+$36
+$38
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+$/Tonne
+Amite BioEnergy Catchment Area - Quarterly Average Delivered Pine Pulpwood Price
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+38 
+Drax – August 2019 
+4. Forest Management Practices Assessment 
+To assess how forest management practices in both the catchment area and other similar areas across 
+the US South have changed since 2010, we examined historical timber sales reported to TimberMart-
+South as well as conducted interviews with multiple loggers who operate in and around the Amite 
+BioEnergy catchment area. 
+ 
+4.1  TimberMart-South Harvest Trends 
+The TimberMart-South (TMS) sales database includes over 46,000 unique timber sales that have occurred 
+throughout the TMS 11-state region since 2010. In addition to providing details regarding timber prices 
+(by product), these reported sales include information regarding date of sale, location, sale volume, sale 
+size (hectares), sale type (final harvest/clearcut vs. thinning), and other unique sale characteristics. The 
+data provided in the following section contains some of these stumpage characteristic details, particularly 
+those related to trends in sale type and harvesting activities. 
+The Amite BioEnergy catchment area is located in two different TMS regions: Mississippi Region 2 and 
+Louisiana Region 2 (see highlighted portion Figure 19). So, in addition to providing region-wide 
+information, data and trends for this 2-region area (denoted ‘Amite BioEnergy market’ hereafter) have 
+been provided and are intended to be representative of the catchment area.   
+Note that TMS database sales utilized for this portion of the assessment only includes those reported 
+sales with total sale volumes between 500 and 50,000 tonnes. Sales that fell outside these parameters 
+were excluded to ensure consistency and to mitigate potential bias from major outliers.   
+ 
+Figure 19. TimberMart-South Region Map 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+39 
+Drax – August 2019 
+4.1.1  Total Sale Area 
+In the Amite BioEnergy market, total sale area that fell within the study’s parameters averaged 3,435 
+hectares per year from 2010 through 2014, doubling and averaging 6,840 hectares per year since 2015. 
+Note there is no evidence connecting this increase in sale area to increases in biomass demand, but 
+rather this increase in total sale area is due to new reporters participating in TMS’s market survey and an 
+increase in the total number of reported sales that fell within the study’s parameters. 
+More importantly, we want to focus on distribution of reported sale area by harvest type (clearcut vs. 
+thinning). In the Amite BioEnergy market, thinned hectares as a percentage of total reported sale area 
+peaked in 2013 at 79% but steadily declined over the three years that followed to 29% in 2016. However, 
+that percentage has increased the last several years and in 2018 equaled 45%. 
+Comparing trends in the Amite BioEnergy market to South-wide market trends, thinned hectares as a 
+percentage of total reported sale area for the TMS 11-state Southern region peaked in 2011 at 69%. 
+However, the proportion of area thinned steadily declined over the five years that followed, falling to 33% 
+in 2016. The distribution of thinned area has slowly increased since that time and in 2018 equaled 41%. 
+Ultimately, this study identified a decreasing trend in the percentage of area thinned in both the Amite 
+BioEnergy market and across the Southern region as a whole, suggesting that thinnings decrease when 
+markets are weak. Specifically, thinned area as a percentage of total reported sale area in the Amite 
+BioEnergy market averaged 62% from 2010-2013 but 45% from 2014-2018. Similarly, the distribution of 
+thinned area across the South averaged 59% from 2010-2013 and 41% from 2014-2018.  
+ 
+Figure 20. Total Reported Sale Area by Harvest Type (2010 - 2018) 
+ 
+(a) Amite BioEnergy Market 
+ 
+(b) TMS South-wide Total 
+0%
+25%
+50%
+75%
+100%
+0
+2,000
+4,000
+6,000
+8,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+% Thin
+Hectares
+Clearcut Hectares
+Thin Hectares
+% Thin
+0%
+20%
+40%
+60%
+80%
+100%
+0
+30,000
+60,000
+90,000
+120,000
+150,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+% Thin
+Hectares
+Clearcut Hectares
+Thin Hectares
+% Thin
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+40 
+Drax – August 2019 
+4.1.2  Total Sale Volume 
+In the Amite BioEnergy market, total reported sale volume has changed very little since 2010. However, 
+as with total sale area, the distribution of total sale volume by harvest type shows the proportion of total 
+volume attributed to thinnings decreasing since 2010. In the Amite BioEnergy market, volume thinned as 
+a percentage of total reported sale volume trended downwards from 43% in 2010 to 26% in 2016 (and 
+increasing slightly to 30% in 2018).  
+Similarly, the distribution of total sale volume by harvest type for the entire TMS 11-state region also 
+shows the proportion of total volume attributed to thinnings declining over this period. Across the TMS 
+11-state region, volume thinned as a percentage of total reported sale volume decreased from 41% in 
+2010 to 23% in 2017 (and increasing slightly to 24% in 2018). 
+Note that the overall decreasing trend in thinning volume (as a percentage of total sale volume) is in line 
+with what typically occurs when markets are weak. That is, when timber markets are weak, loggers tend 
+to reduce the amount of thinnings they conduct because the profitability associated with thinnings is 
+lower than that associated with clearcut harvests.  
+ 
+Figure 21. Total Reported Sale Volume by Harvest Type (2010 - 2018) 
+ 
+(a) Amite BioEnergy Market 
+ 
+(b) TMS South-wide Total 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+% Thin
+Volume (million metric tonnes)
+Volume Clearcut
+Volume Thinned
+% Thin Volume
+0%
+10%
+20%
+30%
+40%
+50%
+0
+5
+10
+15
+20
+25
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+% Thin
+Volume (million metric tons)
+Volume Clearcut
+Volume Thinned
+% Thin Volume
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+41 
+Drax – August 2019 
+4.1.3  Average Sale Size 
+Average sale size in the Amite BioEnergy market has averaged 41 hectares in size since 2010. However, 
+reported sales data shows that thinnings have averaged 28% larger (+10 hectares) than clearcuts, with 
+thinnings averaging 46 hectares in size compared to 36 hectares for clearcuts.  
+The average sale size has been slightly larger across the TMS 11-state region as a whole, averaging 49 
+hectares in size since 2010. However, average sale size by harvest type shows a similar relationship to 
+what was observed between clearcuts and thinnings in the Amite BioEnergy market. Across the US South 
+since 2010, thinnings have averaged 31% larger (+14 hectares) than clearcuts, with thinnings averaging 57 
+hectares in size compared to 43 hectares for clearcuts.  
+We’d like to note that clearcuts are typically smaller in size compared to thinnings due to capital 
+requirements, as clearcuts generally remove more timber volume per acre than do thinnings. For 
+example, given the same amount of capital, a wood buyer/logger can purchase a 35-hectare tract to be 
+clear cut or a 50-hectare tract to be thinned. Also, loggers typically prefer larger tracts for thinning 
+because it allows them to take advantage of economies of scale. 
+ 
+Figure 22. Average Reported Sale Size by Harvest Type (2010 - 2018) 
+ 
+(a) Amite BioEnergy Market 
+ 
+(b) TMS South-wide Total 
+ 
+25
+30
+35
+40
+45
+50
+55
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Hectares
+Avg Sale Size
+Clearcut
+Thin
+30
+35
+40
+45
+50
+55
+60
+65
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Hectares
+Avg Sale Size
+Clearcut
+Thin
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+42 
+Drax – August 2019 
+4.2  Logger Interviews/Survey 
+For this assessment, Hood Consulting also interviewed multiple loggers to provide first-hand accounts of 
+how forest management practices, specifically harvest activities, have changed since 2010. Note that all 
+professionals interviewed operate in and around the Amite BioEnergy catchment area. 
+The individuals interviewed include Dale Stephens, the southwest Mississippi regional forester for Charles 
+Donald Pulpwood, Inc., John Coates, region manager of Good Hope Inc., and Lance Smith, owner of Lance 
+Smith Logging Inc. Together, the three companies represented operate over 50 crews, deliver more than 
+85,000 loads per year, and have over 125 years of combined logging experience. 
+ Charles Donald Pulpwood, Inc.  
+1024 Noble Road 
+Port Gibson, MS 39150 
+ 
+ Good Hope Inc.  
+209 State Street 
+Natchez, MS 39120 
+ 
+ Lance Smith Logging Inc.  
+1562 Zetus Road NW 
+Brookhaven, MS 39601 
+ 
+ 
+ 
+Each of the individuals interviewed were asked the following questions pertaining to the logging industry 
+and harvesting practices. A summary of the interviewees’ answers is provided on the following page. 
+1. How have forest management practices, specifically thinning practices, changed since 2010? 
+2. Have thinnings become more/less prevalent over the last 8-10 years? 
+3. Based on your experience, do thinnings decline (or pick up) when timber markets weaken? 
+4. How has forest certification and carbon sequestration affected logging and logging practices? 
+5. Based on your experience, what drives (or has driven) changes in logging and logging practices? 
+6. What are your expectations regarding changes in timber prices over the next 3-5 years? 
+ 
+ 
+ 
+ 
+Charles Donald Pulpwood, Inc. was originally founded in 1946 
+and is based out of Port Gibson, Mississippi. Charles Donald 
+Pulpwood operates four logging crews throughout central and 
+south Mississippi, delivering an average of 1,200-1,300 loads 
+per year.  
+Good Hope Inc. was founded in 1982 and is based out of 
+Natchez, Mississippi. Good Hope operated 40-50 logging crews 
+and works throughout Mississippi, Louisiana, and in eastern 
+Arkansas, delivering 75,000-80,000 loads per year.  
+Lance Smith Logging Inc. was founded in 2002 and is based out 
+of Brookhaven, Mississippi. Lance operates predominantly in 
+southwest and south-central Mississippi, operating two logging 
+crews and delivering 4,500-5,000 loads per year.  
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+43 
+Drax – August 2019 
+Table 14. Logger Interview Questions & Reponses 
+Question 
+Interviewee Responses 
+How have forest 
+management practices, 
+particularly thinning 
+practices, changed since 
+2010? 
+All individuals interviewed stated that actual logging and thinning practices have not 
+changed since 2010. 
+  
+Have thinnings become 
+more/less prevalent over 
+the last 8-10 years? 
+Two of the interviewees stated that the proportion of their respective company’s 
+logging activities attributed to thinnings has decline since 2010, but even more so 
+the last several years. Both pointed to weak market conditions for pine pulpwood, 
+which is the predominant timber product removed (harvested) with 1st thinnings. 
+The same two individuals also stated the reduction in thinnings was an internal 
+company decision – to focus primarily on clearcut harvests, which provide improved 
+profit margins over thinnings.  
+One interviewee stated that his company focuses primarily on pulpwood production 
+and logging, and that that proportion of his company’s logging activites attributed to 
+thinnings has essentially remained the same every year since 2010, despite changes 
+in market conditions.  
+Based on your 
+experience, do thinnings 
+decline (or pick up) when 
+timber markets weaken? 
+All three interviewees stated that thinnings typically decline when markets weaken, 
+due in part to landowners’ unwillingness to sell timber and because loggers 
+intentionally reduce the amount of thinnings they perform (it becomes unprofitable 
+for loggers when markets weaken and prices fall below a certain level).  
+How has forest 
+certification and carbon 
+sequestration affected 
+logging and logging 
+practices? 
+All three individuals interviewed stated that their companies’ loggers are trained 
+through Sustainable Forestry Initiative (SFI) programs. However, certification has not 
+affected actual logging practices, noting just the additional time required to 
+complete certification training programs. 
+All three stated that carbon sequestration has had no effect on logging and logging 
+practices. 
+Based on your 
+experience, what drives 
+(or has driven) changes in 
+logging and logging 
+practices? 
+Multiple drivers of change were identified by the interviewed individuals, including: 
+­ 
+Efficiency of new machines/logging equipment (a single logging crew’s 
+production capabilities has doubled over the last 10 years, from 7-8 
+loads/day to 15-16 loads/day) 
+­ 
+Mill closures (leads to farther haul distances and reduced logger margins) 
+­ 
+Logger workforce (one individual stated that his company has started 
+focusing on buying winter-accessible tracts (often paying premium prices) 
+to ensure continued work for their loggers  so they don’t lose 
+experienced loggers due to downtime and lack of work)  
+What are your 
+expectations regarding 
+changes in timber prices 
+over the next 3-5 years? 
+All three interviewees expressed concern, particularly regarding pine pulpwood 
+markets with the recent shutdown that occurred at Georgia-Pacific’s Port Hudson 
+mill. Each of these individuals anticipate pine pulpwood prices holding flat (or even 
+declining a bit) over the next several years. 
+A common thought amongst these individuals is that conditions need to change, or 
+more and more logger attrition will occur in this area. Increased equipment and 
+insurance costs already make logging profitability difficult, and if timber prices 
+remain at such low levels (and margins remained squeezed), they believe the 
+logging industry will shrink further.     
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+44 
+Drax – August 2019 
+5. Market Trends, Analysis, & Outlook 
+The following section provides an examination and assessment of market trends in the Amite BioEnergy 
+catchment area since 2010, including changes in forest area, timber inventory, growth, removals, wood 
+demand, and raw material costs. This section also identifies and details any links between these variables 
+and both biomass demand and total wood demand. 
+In addition, we have provided a market outlook through 2022. This outlook details anticipated changes in 
+wood demand and how these anticipated changes are likely to impact raw material costs in the 
+catchment area over the next several years. 
+ 
+5.1  Market Trends & Analysis 
+A key aspect of this analysis includes assessing and identifying any links or relationships between wood 
+demand and other market changes (i.e. forest area, inventory, raw material prices, etc.) in the catchment 
+area since 2010. As such, this section will begin with our analysis of wood demand.  
+ 
+5.1.1  Wood Demand 
+Total wood demand3 in the Amite Bioenergy catchment area doubled from an estimated 2,502,954 
+tonnes in 2010 to 5,001,021 tonnes in 2018, or an average increase of 9.0% over this period. Softwood 
+pulpwood demand, specifically, increased an estimated 1,027,178 tonnes over this same period, from 
+1,110,677 tonnes in 2010 to 2,137,855 tonnes in 2018 (+93% total; +8.5% per year average).  
+ 
+Table 15. Amite BioEnergy Catchment Area - Annual Wood Demand (Metric Tonnes): 2010-2018 
+Year 
+Softwood 
+Sawlogs 
+Hardwood 
+Sawlogs 
+Softwood 
+Pulpwood 
+Hardwood 
+Pulpwood 
+Total Wood  
+Demand 
+2010 
+   662,110 
+369,754 
+1,110,677 
+360,414 
+2,502,954 
+2011 
+   833,631 
+538,334 
+1,455,188 
+344,918 
+3,172,071 
+2012 
+   942,892 
+495,021 
+1,387,456 
+461,697 
+3,287,066 
+2013 
+1,104,618 
+465,516 
+1,366,488 
+612,800 
+3,549,422 
+2014 
+1,290,903 
+392,157 
+1,382,752 
+555,282 
+3,621,095 
+2015 
+1,530,126 
+327,568 
+1,652,829 
+512,791 
+4,023,315 
+2016 
+1,639,985 
+300,112 
+1,858,210 
+546,131 
+4,344,438 
+2017 
+1,886,359 
+292,026 
+2,080,729 
+571,729 
+4,830,842 
+2018 
+1,980,676 
+299,326 
+2,137,855 
+583,164 
+5,001,021 
+*Projected 
+Source: USDA US Forest Service-TPO; TimberMart-South; Drax Group 
+ 
+ 
+ 
+3 Wood demand estimates for the Amite BioEnergy catchment area are based on USDA Forest Service – Timber Products Output (TPO) data, 
+which estimates industrial uses of roundwood via survey of all primary wood-using mills within each state, as well as TimberMart-South wood 
+demand estimates and consumption data provided by Drax Group. 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+45 
+Drax – August 2019 
+Specifically, for this analysis, biomass demand is defined as softwood pulpwood (roundwood) consumed 
+by pellet or other bioenergy facilities. See Table 16 for annual estimates of biomass demand in the Amite 
+BioEnergy catchment area from 2010-2018. 
+Note, however, that not all wood consumed by a pellet mill or other bioenergy facility is classified as 
+biomass demand. Like with Amite BioEnergy, wood consumption (demand) at pellet and other bioenergy 
+facilities generally includes a combination of wood chips and sawmill residuals. Keep in mind that sawmill 
+residuals are a by-product of the sawmilling process – from the processing of sawlogs, not pulpwood. As 
+such, sawmill residuals consumed by biomass facilities are not included in our determination of biomass 
+demand. 
+ 
+Table 16. Amite BioEnergy Catchment Area - Biomass Demand & Total Softwood 
+Pulpwood Demand (Tons): 2010-2018 
+Year 
+Biomass  
+Demand 
+Other Softwood  
+Pulpwood Demand 
+Total Softwood  
+Pulpwood Demand 
+2010 
+           0 
+1,110,677 
+1,110,677 
+2011 
+           0 
+1,455,188 
+1,455,188 
+2012 
+           0 
+1,387,456 
+1,387,456 
+2013 
+           0 
+1,366,488 
+1,366,488 
+2014 
+  41,927 
+1,340,825 
+1,382,752 
+2015 
+361,130 
+1,291,699 
+1,652,829 
+2016 
+600,465 
+1,257,744 
+1,858,210 
+2017 
+709,705 
+1,371,024 
+2,080,729 
+2018 
+685,802 
+1,452,053 
+2,137,855 
+Source: USDA US Forest Service–TPO; TimberMart-South; Drax 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+46 
+Drax – August 2019 
+ 
+Figure 23. Amite BioEnergy Catchment Area - Annual Wood Demand (2010-2018) 
+ 
+ 
+Figure 24. Amite BioEnergy Catchment Area - Biomass & Other Softwood Pulpwood Demand (2010-2018) 
+ 
+ 
+ 
+ 
+ 
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Metric Tonnes
+Softwood Sawlogs
+Softwood Pulpwood
+Hardwood Sawlogs
+Hardwood Pulpwood
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Metric Tonnes
+Biomass Demand
+Other Softwood Pulpwood Demand
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+47 
+Drax – August 2019 
+5.1.2  Changes in Forest Area 
+According to US Forest Service data, timberland area in the Amite BioEnergy catchment area experienced 
+a net increase of 3,992 hectares (+0.7%) from 2010 to 2017, the latest available, increasing from 550,184 
+to 554,176 hectares over this 7-year period.  
+The composition of timberland in the catchment area has also undergone changes since 2010, as the 
+trend has been for naturally regenerated pine and hardwood timber stands to be converted to planted 
+pine. Specifically, planted pine area increased an estimated 15,305 hectares (+9%) from 2010-2017, while 
+naturally regenerated pine and hardwood timberland decreased a combined 12,003 hectares (-4% 
+combined). See Table 17 for details. 
+ 
+Table 17. Amite BioEnergy Catchment Area - Timberland Area, in Hectares, by Stand Origin (2010-2018*) 
+ 
+Planted 
+ 
+Naturally Regenerated 
+ 
+Year 
+Pine 
+Hardwood 
+ 
+Pine 
+Hardwood 
+Pine-Hardwood 
+Total 
+2010 
+174,630 
+9,040 
+ 
+111,344 
+210,736 
+44,435 
+550,184 
+2011 
+173,581 
+9,114 
+  
+107,018 
+212,839 
+45,868 
+548,420 
+2012 
+174,161 
+9,272 
+ 
+103,751 
+216,887 
+47,706 
+551,776 
+2013 
+176,383 
+9,936 
+  
+103,825 
+215,785 
+45,156 
+551,086 
+2014 
+178,142 
+    10,576 
+ 
+103,625 
+214,112 
+42,483 
+548,937 
+2015 
+180,099 
+9,920 
+  
+105,369 
+210,260 
+42,800 
+548,448 
+2016 
+183,042 
+9,316 
+ 
+107,692 
+207,543 
+43,352 
+550,944 
+2017 
+189,935 
+8,231 
+  
+106,823 
+203,255 
+45,933 
+554,176 
+2018 
+191,911 
+7,211 
+  
+107,049 
+202,450 
+46,037 
+554,657 
+*Projected 
+Source: USDA US Forest Service 
+ 
+ 
+Figure 25. Amite BioEnergy Catchment Area - Timberland Area by Year (2010 – 2018) 
+ 
+ 
+ 
+ 520,000
+ 525,000
+ 530,000
+ 535,000
+ 540,000
+ 545,000
+ 550,000
+ 555,000
+ 560,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Hectares
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+48 
+Drax – August 2019 
+Figure 26. Amite BioEnergy Catchment Area – Timberland Area by Stand Origin (2010-2018) 
+ 
+ 
+        (a) Planted Pine 
+ 
+ 
+ 
+                     (b) Planted Hardwood 
+ 
+ 
+        (c) Naturally Regenerated Pine 
+ 
+       
+         (d) Naturally Regenerated Hardwood 
+ 
+         (e) Naturally Regenerated Mixed Pine-Hardwood 
+ 
+ 100,000
+ 120,000
+ 140,000
+ 160,000
+ 180,000
+ 200,000
+Hectares
+ -
+ 2,000
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+Hectares
+ 50,000
+ 60,000
+ 70,000
+ 80,000
+ 90,000
+ 100,000
+ 110,000
+ 120,000
+Hectares
+ 150,000
+ 160,000
+ 170,000
+ 180,000
+ 190,000
+ 200,000
+ 210,000
+ 220,000
+ 230,000
+Hectares
+ -
+ 10,000
+ 20,000
+ 30,000
+ 40,000
+ 50,000
+ 60,000
+Hectares
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+49 
+Drax – August 2019 
+Comparing changes in timberland area amongst major ownership group, privately-owned timberland 
+experienced the largest gain, increasing from 462,426 hectares in 2010 to 472,305 hectares in 2017, or a 
+net increase of 9,879 hectares (+2.1%). Timberland owned by state and locally authorities increased 
+4,971 hectares (+25.1%) from 2010 to 2017, while National Forest timberland decreased 10,453 hectares 
+(-15.5%). Other federal timberland also declined, decreasing 405 hectares (-96.5%) from 2010 to 2017.  
+ 
+Table 18. Amite BioEnergy Catchment Area - Timberland Area by Ownership Group (2010 vs. 2017) 
+Ownership Group 
+Timberland Hectares 
+Net Change 
+2010 
+2017 
+Acres 
+% 
+National Forest 
+  67,534 
+   57,081 
+-10,453 
+-15.5% 
+Other Federal 
+       420 
+         15 
+    -405 
+-96.5% 
+State and Local 
+  19,805 
+  24,776 
++4,971 
++25.1% 
+Private 
+462,426 
+472,305 
++9,879 
+ +2.1% 
+Total 
+550,184 
+554,176 
++3,992 
+ +0.7% 
+Source: USDA - US Forest Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+50 
+Drax – August 2019 
+Figure 27 provides a side-by-side comparison of biomass demand and total softwood pulpwood demand 
+versus timberland area (hectares) in the catchment area from 2010-2018. Looking at this figure, no 
+relationship appears evident between timberland area and demand from 2010-2014. However, 
+timberland area has closely tracked both biomass demand and total softwood pulpwood demand since 
+2015.  
+A correlation analysis of timberland area, biomass demand, and total softwood pulpwood demand 
+identified a moderately strong positive correlation between timberland area and both biomass demand 
+(correlation coefficient = 0.65) and total softwood pulpwood demand (correlation coefficient = 0.68) from 
+2010 to 2018. However, we’d like to note that correlation and causation are not the same and that there 
+is insufficient evidence to suggest that increases in demand are responsible or have caused increases in 
+timberland area.  
+ 
+Figure 27. Timberland Area vs. Biomass Demand & Total Softwood Pulpwood Demand (2010-2018) 
+ 
+*Timberland area projected at 554,657 hectares in 2018. Note that this projected value is based on 
+historical changes in forest area and local market trends. 
+ 
+ 
+Table 19. Correlation Analysis - Timberland Area, Biomass Demand, & Total Softwood 
+Pulpwood Demand (2010-2018) 
+  
+Biomass 
+Demand 
+Total Softwood 
+Pulpwood Demand 
+Timberland 
+Area 
+Biomass Demand 
+      1 
+ 
+ 
+Total Softwood Pulpwood Demand 
+0.95 
+      1 
+ 
+Timberland Area 
+0.65 
+0.68 
+1 
+ 
+ 
+ 
+510,000
+520,000
+530,000
+540,000
+550,000
+560,000
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Hectares
+Demand (Tonnes)
+Biomass Demand
+Softwood Pulpwood Demand
+Timberland Hectares
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+51 
+Drax – August 2019 
+5.1.3  Changes in Timber Inventory 
+According to US Forest Service data, total growing stock inventory on timberland in the Amite BioEnergy 
+catchment area increased from 78.5 million m3 in 2010 to 89.6 million m3 in 2017, or a net increase of 
+11.1 million m3 (+14% total; +1.9% per year average). 
+Table 20 provides timber inventory estimates from 2010 through 2017, the latest available, by major 
+timber product. Of the five major timber products, pine sawtimber inventory increased the largest 
+amount, increasing 5.1 million m3 (+22% total; +2.9% per year average) from 23.2 million m3 in 2010 to 
+28.3 million m3 in 2017. Over this same period, pine chip-n-saw inventory increased 4.7 million m3 (+52% 
+total; +6.1% per year average) while hardwood sawtimber inventory increased 1.6 million m3 (+6% total; 
++0.9% per year average). Pine pulpwood inventory decreased 0.3 million m3 (-3% total; -0.4% per year 
+average) from 2010-2017; hardwood pulpwood inventory decreased only marginally (<1%). 
+ 
+Table 20. Amite BioEnergy Catchment Area - Timber Inventory by Major Timber Product (m3): 2010-2018* 
+ 
+ 
+Year 
+Softwood 
+ 
+Hardwood 
+ 
+Total 
+Pine 
+Sawtimber 
+Pine 
+Chip-n-saw 
+Pine 
+Pulpwood 
+ 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+2010 
+23,191,373 
+8,996,752 
+11,375,507 
+ 
+25,455,306 
+9,488,403 
+78,507,341 
+2011 
+23,636,265 
+9,051,844 
+11,928,328 
+ 
+25,234,709 
+9,621,159 
+79,472,305 
+2012 
+24,104,384 
+9,346,273 
+12,576,083 
+ 
+26,156,670 
+9,585,029 
+81,768,438 
+2013 
+24,687,992 
+10,291,080 
+12,544,173 
+ 
+26,385,265 
+9,756,209 
+83,664,718 
+2014 
+25,058,467 
+10,999,404 
+12,652,394 
+ 
+26,826,115 
+9,715,839 
+85,252,219 
+2015 
+27,274,561 
+11,652,206 
+12,034,500 
+ 
+27,180,042 
+9,681,454 
+87,822,762 
+2016 
+27,935,556 
+12,507,147 
+11,885,873 
+ 
+26,842,883 
+9,450,701 
+88,622,160 
+2017 
+28,321,102 
+13,655,272 
+11,080,622 
+ 
+27,097,259 
+9,460,035 
+89,614,290 
+2018 
+28,547,670 
+14,051,899 
+10,882,247 
+ 
+27,068,944 
+9,403,389 
+89,954,149 
+Source: USDA - US Forest Service 
+*projected values  
+ 
+Figure 28. Timber Inventory by Major Timber Product (2010-2018) 
+ 
+0
+10,000,000
+20,000,000
+30,000,000
+40,000,000
+50,000,000
+60,000,000
+70,000,000
+80,000,000
+90,000,000
+100,000,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Volume (cubic meters)
+Pine Sawtimber
+Pine Chip-n-saw
+Pine Pulpwood
+Hardwood Sawtimber
+Hardwood Pulpwood
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+52 
+Drax – August 2019 
+We’d like to note that the significant increases in both pine sawtimber and pine chip-n-saw inventories, as 
+well as the decrease in pine pulpwood inventory, are in line with trends in timber production and 
+reforestation through the 2000s, considering the natural progression (development) of planted forests. 
+Strong economic growth in the US through the 1990s and mid-2000s brought growth in the forest 
+products industry and increased demand for forest products. Through the early and mid-2000s, 
+investment in the timber industry grew in anticipation of sustained market conditions moving forward, 
+particularly given the above-average (financial) returns that timber management and investment had 
+provided up to that point. So, in part, the growth of both pine sawtimber and pine chip-n-saw inventories 
+since 2010 can be linked to investment in the timber industry back in the 1990s and 2000s (considering 
+planted pine can reach sawtimber grade in as little as 25 years and chip-n-saw grade in less than 20 
+years). 
+However, the bursting of the US housing bubble and Great Recession that followed saw Southern pine 
+lumber production decline 37% and US paper and paperboard production decline a combined 14% from 
+2006-20094. The decline in both production and overall wood demand ultimately drove timber prices 
+downwards, and the effects of reduced harvest levels in combination with declining investment in the 
+timber industry help explain the reduction on pine pulpwood inventory since 2010 (considering planted 
+pine can reach pulpwood grade in as quickly as 12 years).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Source: Southern Forest Products Association (SFPA); American Forest & Paper Association (AF&PA) 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+53 
+Drax – August 2019 
+Figure 29 provides a side-by-side comparison of biomass demand and total softwood pulpwood demand 
+versus pine pulpwood inventory in the catchment area from 2010-2018. Looking at this figure, an inverse 
+relationship appears to exist between pine pulpwood inventory and both biomass demand and total 
+softwood pulpwood demand, particularly since 2014.  
+A correlation analysis identified a moderately strong negative correlation between pine pulpwood 
+inventory and both biomass demand (correlation coefficient = -0.69) and total softwood pulpwood 
+demand (correlation coefficient = -0.61) from 2010 to 2018. However, total inventory has increased since 
+2010, and there is more evidence to suggest that the decline in pine pulpwood inventory is linked to age 
+class and the natural cycle of forest development and management, not to increased biomass demand. 
+In this catchment area, timber management is primarily focused on the production of sawtimber grade 
+timber, and with this type of management regime, pulpwood is removed (via thinning) as a stand ages to 
+allow for increased growth and timber to move up in product class. And this is exactly what we see in the 
+Amite BioEnergy catchment area. Pine pulpwood inventory declined 12% from 2014-2017; however, over 
+this same period, the proportion of sawtimber (i.e. pine chip-n-saw or pine sawtimber) increased, with 
+pine chip-n-saw inventory increasing 24%. 
+ 
+Figure 29. Pine Pulpwood Inventory vs. Biomass Demand & Total Softwood Pulpwood Demand 
+(2010-2018) 
+ 
+ 
+Table 21. Correlation Analysis – Pine Pulpwood Inventory, Total Timber Inventory, Biomass Demand, & 
+Total Softwood Pulpwood Demand (2010-2018) 
+  
+Biomass 
+Demand 
+Total Softwood 
+Pulpwood Demand 
+Pine Pulpwood 
+Inventory 
+Total 
+Inventory 
+Biomass Demand 
+      1 
+ 
+ 
+ 
+Total Softwood Pulpwood Demand 
+ 0.95 
+      1 
+ 
+ 
+Pine Pulpwood Inventory 
+-0.69 
+-0.61 
+      1 
+ 
+Total Inventory 
+ 0.89 
+ 0.89 
+-0.36 
+1 
+ 
+9
+10
+11
+12
+13
+14
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Inventory (million cubic meters)
+Demand (Tonnes)
+Biomass Demand
+Softwood Pulpwood Demand
+Pine Pulpwood Inventory
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+54 
+Drax – August 2019 
+5.1.4  Changes in Annual Timber Growth 
+Average annual growth of total growing stock Inventory in the catchment area has declined since 2010. 
+According to US Forest Service data, net growth in timber volume totaled 6.0 million m3 in 2010, 
+decreasing to 5.1 million m3 in 2017, the latest available, or an overall decrease of 15% over this period.  
+Table 22 breaks down annual growth estimates from 2010-2017 by major timber product. Of the five 
+major timber products, annual growth of pine pulpwood decreased the greatest over this period, 
+decreasing from 2.0 million m3 in 2010 to 1.2 million m3 in 2017 (-23% total). However, note that this 
+decrease in annual growth is linked to both changes in pine pulpwood inventory as well as to changes in 
+age and diameter class structure of the forest. Recall that pine pulpwood inventory has declined while 
+pine chip-n-saw inventory has increased. This indicates or suggests the forest is in a state of transition, 
+with pine pulpwood moving up in product class (to pine chip-n-saw). So, with pine pulpwood moving up 
+in product class, pine pulpwood inventory and therefore annual growth of pine pulpwood has declined.   
+Annual growth of pine sawtimber also declined, falling from 1.5 million m3 in 2010 to 1.3 million m3 in 
+2017 (-12% total). However, annual growth of pine chip-n-saw increased from 1.1 million m3 in 2010 to 
+1.2 million m3 in 2017 (+16% total). 
+ 
+Table 22. Annual Volume Growth by Major Timber Product (m3): 2010-2017 
+ 
+ 
+Year 
+Softwood 
+ 
+Hardwood 
+ 
+Total 
+Pine 
+Sawtimber 
+Pine 
+Chip-n-saw 
+Pine 
+Pulpwood 
+ 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+2010 
+1,474,594 
+1,060,055 
+1,969,384 
+ 
+724,150 
+741,555 
+5,969,737 
+2011 
+1,364,737 
+972,519 
+1,851,437 
+ 
+641,645 
+695,050 
+5,525,388 
+2012 
+1,206,404 
+933,146 
+1,995,955 
+ 
+748,194 
+600,362 
+5,484,060 
+2013 
+1,200,526 
+998,339 
+1,955,422 
+ 
+704,172 
+601,793 
+5,460,252 
+2014 
+1,191,308 
+1,060,492 
+1,952,166 
+ 
+702,363 
+598,363 
+5,504,691 
+2015 
+1,322,215 
+1,134,810 
+1,884,568 
+ 
+682,981 
+569,091 
+5,593,666 
+2016 
+1,282,597 
+1,183,596 
+1,770,162 
+ 
+615,858 
+522,803 
+5,375,016 
+2017 
+1,300,327 
+1,234,305 
+1,521,250 
+ 
+543,521 
+510,093 
+5,109,497 
+2018 
+1,320,158 
+1,271,108 
+1,473,092 
+ 
+560,506 
+507,259 
+5,132,122 
+Source: USDA US Forest Service 
+*projected values  
+ 
+Figure 30. Net Annual Growth of Total Growing Stock Timber on Timberland (2010-2017) 
+ 
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+7,000,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Cubic Meters
+Pine Sawtimber
+Pine Chip-n-saw
+Pine Pulpwood
+Hardwood Sawtimber
+Hardwood Pulpwood
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+55 
+Drax – August 2019 
+Figure 31. Net Annual Growth of Growing Stock Timber by Major Timber Product (2010-2017) 
+ 
+ 
+(a) Pine Sawtimber 
+ 
+ 
+ 
+               (b) Pine Chip-n-saw 
+ 
+ 
+(c) Pine Pulpwood 
+ 
+ 
+ 
+           (d) Hardwood Sawtimber 
+ 
+(e) Hardwood Pulpwood 
+ 
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+1,400,000
+1,600,000
+Annual Growth (%)
+Cubic Meters
+Annual Growth
+Growth Rate
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+1,400,000
+Annual Growth (%)
+Cubic Meters
+Annual Growth
+Growth Rate
+0%
+4%
+8%
+12%
+16%
+20%
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+Annual Growth (%)
+Cubic Meters
+Annual Growth
+Growth Rate
+0%
+1%
+2%
+3%
+4%
+0
+250,000
+500,000
+750,000
+1,000,000
+Annual Growth (%)
+Cubic Meters
+Annual Growth
+Growth Rate
+0%
+2%
+4%
+6%
+8%
+0
+200,000
+400,000
+600,000
+800,000
+Annual Growth (%)
+Cubic Meters
+Annual Growth
+Growth Rate
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+56 
+Drax – August 2019 
+The figures on the preceding page show net annual volume growth (growth less any mortality) from 
+2010-2017 for each of the five major timber products. But we’d like to draw your attention to the major 
+pine products, specifically. 
+Figure 31(c) shows annual growth of pine pulpwood from 2010-2017, and what you’ll observe is a 
+downward trend, specifically since 2012. From 2012-2017, annual growth of pine pulpwood decreased 
+24%. However, over this same period, annual growth of pine chip-n-saw (see Figure 29(b)) trended 
+upward, increasing 32% from 2012-2017. We’ve documented that total timber inventory has increased in 
+the catchment area since 2010, and this increase in combination with these annual growth trends provide 
+indication of two thing. First, that the forest is aging. And second, that the forest is also in a state of 
+transition – pine pulpwood is moving up in product class to pine chip-n-saw. 
+ 
+Growth Rates 
+Table 23 provides average annual growth rates by major product from 2010-2017. These rates are also 
+shown in Figure 31 on the following page. What you’ll notice is that these rates have declined for all five 
+major products since 2010. 
+Note that declining growth rates are representative of an aging forest. To elaborate, if we consider just 
+the three major pine products, US Forest Service data indicates that the average age of pine sawtimber 
+inventory has increased, that pine chip-n-saw has moved closer to the transition point where it moves up 
+in product class to pine sawtimber, and that pine pulpwood has moved closer to the transition point 
+where it moves up in product class to pine chip-n-saw. In general, timber growth rates decline with age, 
+and this is what the data suggests has happened in the catchment area. Not that overall productivity has 
+declined, but that the average age of the forest has increased and, as such, average growth rates have 
+declined.   
+ 
+Table 23. Average Annual Growth Rate by Major Timber Product (2010-2017) 
+Year 
+Pine 
+Sawtimber 
+Pine  
+Chip-n-saw 
+Pine 
+Pulpwood 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+Total 
+2010 
+6.4% 
+11.8% 
+17.3% 
+2.8% 
+7.8% 
+7.6% 
+2011 
+5.8% 
+10.7% 
+15.5% 
+2.5% 
+7.2% 
+7.0% 
+2012 
+5.0% 
+10.0% 
+15.9% 
+2.9% 
+6.3% 
+6.7% 
+2013 
+4.9% 
+9.7% 
+15.6% 
+2.7% 
+6.2% 
+6.5% 
+2014 
+4.8% 
+9.6% 
+15.4% 
+2.6% 
+6.2% 
+6.5% 
+2015 
+4.8% 
+9.7% 
+15.7% 
+2.5% 
+5.9% 
+6.4% 
+2016 
+4.6% 
+9.5% 
+14.9% 
+2.3% 
+5.5% 
+6.1% 
+2017 
+4.6% 
+9.0% 
+13.7% 
+2.0% 
+5.4% 
+5.7% 
+Source: USDA - US Forest Service 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+57 
+Drax – August 2019 
+Per Acre Growth 
+Table 24 provides average annual per hectare volume growth estimates in the catchment area from 
+2010-2017. Over this period, total annual per hectare growth decreased from 10.9 m3 to 9.2 m3 per year, 
+with average per hectare growth decreasing for four of the five major timber products. However, per 
+hectare growth increased for pine chip-n-saw, from an average of 1.9 m3 per year in 2010 to 2.2 m3 per 
+year in 2017. 
+The increase in per hectare growth for pine chip-n-saw in combination with the decrease in growth per 
+hectare for pine pulpwood provides further evidence of not only an aging forest, but also of pine 
+pulpwood transitioning and moving up in product class to pine chip-n-saw.  
+ 
+Table 24. Average Per Hectare Volume Growth by Major Timber Product (Cubic Meters/Hectare/Year): 2010-2017 
+Year 
+Pine 
+Sawtimber 
+Pine  
+Chip-n-saw 
+Pine 
+Pulpwood 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+Total 
+2010 
+2.68 
+1.93 
+3.58 
+1.32 
+1.35 
+10.85 
+2011 
+2.49 
+1.77 
+3.38 
+1.17 
+1.27 
+10.08 
+2012 
+2.19 
+1.69 
+3.62 
+1.36 
+1.09 
+  9.94 
+2013 
+2.18 
+1.81 
+3.55 
+1.28 
+1.09 
+  9.91 
+2014 
+2.17 
+1.93 
+3.56 
+1.28 
+1.09 
+10.03 
+2015 
+2.41 
+2.07 
+3.44 
+1.25 
+1.04 
+10.20 
+2016 
+2.33 
+2.15 
+3.21 
+1.12 
+0.95 
+9.76 
+2017 
+2.35 
+2.23 
+2.75 
+0.98 
+0.92 
+9.22 
+Source: USDA - US Forest Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+58 
+Drax – August 2019 
+Figure 32 provides a side-by-side comparison of biomass demand and total softwood pulpwood demand 
+versus annual growth of both pine pulpwood and pine chip-n-saw in the catchment area from 2010-2018. 
+Similar to the relationship that was found with pine pulpwood inventory, an inverse relationship also 
+appears to exist between pine pulpwood growth and both biomass demand and total softwood pulpwood 
+demand, particularly since 2014. 
+Correlation analysis confirms this inverse relationship, identifying a strong negative correlation between 
+annual growth of pine pulpwood and both biomass demand (correlation coefficient = -0.89) and total 
+softwood pulpwood demand (correlation coefficient = -0.93) from 2010 to 2018. However, analysis also 
+identifies a strong positive correlation between annual growth of pine chip-n-saw and both biomass 
+demand (correlation coefficient = 0.94) and total softwood pulpwood demand (correlation coefficient = 
+0.85) over this same period. See Table 25.   
+These strong (positive and negative) correlation coefficients do not suggest that increases in biomass 
+demand have caused decreases in annual growth of pine pulpwood and increases in annual growth of 
+pine chip-n-saw. Rather, they provide indication of a forest where pine pulpwood is transitioning to pine 
+chip-n-saw. As timber ages and moves from pine pulpwood to pine chip-n-saw, growth rates and marginal 
+annual growth start to decline. And on the other side of the transition, pine chip-n-saw growth rates and 
+marginal annual growth increase as the relative age of pine chip-n-saw declines with the entry of younger 
+timber into this product class.  
+ 
+Figure 32. Annual Net Growth of Pine Pulpwood & Pine Chip-n-saw vs. Biomass Demand & 
+Total Softwood Pulpwood Demand (2010-2018) 
+ 
+ 
+Table 25. Correlation Analysis – Pine Pulpwood Annual Growth, Pine Chip-n-saw Annual Growth, Total Annual Growth, 
+Biomass Demand, & Total Softwood Pulpwood Demand (2010-2018)  
+  
+Biomass  
+Demand 
+Total Softwood 
+ Pulpwood Demand 
+Pine Pulpwood 
+Annual Growth 
+Pine Chip-n-saw 
+Annual Growth 
+Total Annual 
+Growth 
+Biomass Demand 
+      1 
+ 
+ 
+ 
+ 
+Total Softwood Pulpwood Demand 
+ 0.95 
+      1 
+ 
+ 
+ 
+Pine Pulpwood Annual Growth 
+-0.89 
+-0.93 
+      1 
+ 
+ 
+Pine Chip-n-saw Annual Growth 
+ 0.94 
+ 0.85 
+-0.86 
+      1 
+ 
+Total Annual Growth 
+-0.73 
+-0.88 
+ 0.81 
+-0.59 
+1 
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Growth (cubic meters)
+Demand (Tonnes)
+Biomass Demand
+Softwood Pulpwood Demand
+Pine Pulpwood Growth
+Pine Chip-n-saw Growth
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+59 
+Drax – August 2019 
+5.1.5  Changes in Annual Removals 
+Annual removals of total growing stock timber in the catchment area increased each year from 2010-
+2017. According to US Forest Service data, annual removals of growing stock timber in the catchment 
+area increased 71% (+997,699 m3) from 1,413,271 m3 in 2010 to 2,410,970 m3 in 2017, the latest 
+available, or an average increase of 7.9% per year over this period.  
+In terms of historical context, total annual removals averaged approximately 3.1 million m3 per year 
+through the 1990s, and just under 2.3 million m3 per year through the 2000s. Total annual removals 
+averaged just under 2. million m3 per year from 2010-2017, which was down approximately 14% 
+compared to the 2000s average and down 36% compared to the 1990s average.  
+Table 26 breaks down annual removal estimates from 2010 through 2017 by major timber product. Of 
+the five major timber products, annual removals of pine chip-n-saw increased the greatest over this 
+period, more than tripling from 150,998 m3 in 2010 to 492,744 m3 in 2017. Over this same period, annual 
+removals of pine sawtimber increased 68% (+7.7% per year average) from 395,577 m3 in 2010 to 663,956 
+m3 in 2017. Annual removals of pine pulpwood increased 65% (+7.4% per year average) from 511,985 m3 
+in 2010 to 846,472 m3 in 2017. 
+Table 26. Annual Removals by Major Timber Product (m3): 2010-2017 
+ 
+ 
+Year 
+Softwood 
+ 
+Hardwood 
+ 
+Total 
+Pine 
+Sawtimber 
+Pine 
+Chip-n-saw 
+Pine 
+Pulpwood 
+ 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+2010 
+395,577 
+150,998 
+511,985 
+ 
+341,889 
+12,822 
+1,413,271 
+2011 
+596,292 
+331,942 
+456,282 
+ 
+364,100 
+41,336 
+1,789,952 
+2012 
+553,992 
+355,855 
+571,789 
+ 
+293,328 
+80,510 
+1,855,473 
+2013 
+612,449 
+350,459 
+628,536 
+ 
+311,189 
+101,434 
+2,004,067 
+2014 
+601,453 
+389,864 
+676,420 
+ 
+270,457 
+98,350 
+2,036,545 
+2015 
+641,408 
+431,912 
+722,953 
+ 
+251,353 
+90,308 
+2,137,934 
+2016 
+629,931 
+415,601 
+751,908 
+ 
+292,577 
+97,855 
+2,187,873 
+2017 
+663,956 
+492,744 
+846,472 
+ 
+311,916 
+95,882 
+2,410,970 
+2018 
+692,330 
+518,231 
+869,120 
+ 
+317,588 
+95,882 
+2,493,150 
+Source: USDA - US Forest Service 
+*Hood Consulting projected values  
+ 
+Figure 33. Annual Removals by Year (2010-2017) 
+ 
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+3,000,000
+3,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Cubic Meters
+Pine Sawtimber
+Pine Chip-n-saw
+Pine Pulpwood
+Hardwood Sawtimber
+Hardwood Pulpwood
+Avg. Annual Removals (Total): 2000s 
+Avg. Annual Removals (Total): 1990s 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+60 
+Drax – August 2019 
+Figure 34. Annual Removals by Major Timber Product (2010-2017) 
+ 
+ 
+(a) Pine Sawtimber 
+ 
+ 
+ 
+ 
+ (b) Pine Chip-n-saw 
+ 
+ 
+(c) Pine Pulpwood 
+ 
+ 
+ 
+ 
+(d) Hardwood Sawtimber 
+ 
+(e) Hardwood Pulpwood 
+ 
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+700,000
+Cubic Meters
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+Cubic Meters
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+700,000
+800,000
+900,000
+Cubic Meters
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+300,000
+350,000
+400,000
+Cubic Meters
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+Cubic Meters
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+61 
+Drax – August 2019 
+Figure 35 provides a side-by-side comparison of biomass demand and total softwood pulpwood demand 
+versus pine pulpwood removals in the catchment area from 2010-2018. Since pine pulpwood removals 
+should be representative of softwood pulpwood demand, we’d expected these two to be very strongly 
+(positively) correlated, and that’s exactly what this figure shows. A correlation analysis confirmed the 
+relationship, identifying a strong positive correlation (correlation coefficient = 0.88) between pine 
+pulpwood removals and total softwood pulpwood.   
+Correlation analysis also identified a strong positive correlation between pine pulpwood removals and 
+biomass demand (correlation coefficient = 0.90). See Table 27 for correlation analysis details.   
+ 
+Figure 35. Annual Removals of Pine Pulpwood vs. Biomass Demand & Total Softwood Pulpwood 
+Demand (2010-2018) 
+ 
+ 
+ 
+Table 27. Correlation Analysis – Pine Pulpwood Removals, Total Removals, Biomass Demand, & Total 
+Softwood Pulpwood Demand (2010-2018) 
+  
+Biomass 
+Demand 
+Total Softwood 
+Pulpwood Demand 
+Pine Pulpwood 
+Removals 
+Total  
+Removals 
+Biomass Demand 
+     1 
+ 
+ 
+ 
+Total Softwood Pulpwood Demand 
+0.95 
+     1 
+ 
+ 
+Pine Pulpwood Removals 
+0.90 
+0.88 
+     1 
+ 
+Total Removals 
+0.83 
+0.92 
+0.92 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Removals (cubic meters)
+Demand (Tonnes)
+Biomass Demand
+Softwood Pulpwood Demand
+Pine Pulpwood Removals
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+62 
+Drax – August 2019 
+Table 28. Amite BioEnergy Catchment Area - Timber Inventory, Growth, Removals, & Mortality (2010-2018) 
+Volume  
+Category 
+Year 
+Pine 
+Sawtimber 
+Pine 
+Chip-n-saw 
+Pine 
+Pulpwood 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+Total 
+ 
+ 
+Cubic Meters 
+Inventory 
+2018 
+28,547,670 
+14,051,899 
+10,882,247 
+27,068,944 
+9,403,389 
+89,954,149 
+ 
+2017 
+28,321,102 
+13,655,272 
+11,080,622 
+27,097,259 
+9,460,035 
+89,614,290 
+ 
+2016 
+27,935,556 
+12,507,147 
+11,885,873 
+26,842,883 
+9,450,701 
+88,622,160 
+ 
+2015 
+27,274,561 
+11,652,206 
+12,034,500 
+27,180,042 
+9,681,454 
+87,822,762 
+ 
+2014 
+25,058,467 
+10,999,404 
+12,652,394 
+26,826,115 
+9,715,839 
+85,252,219 
+ 
+2013 
+24,687,992 
+10,291,080 
+12,544,173 
+26,385,265 
+9,756,209 
+83,664,718 
+ 
+2012 
+24,104,384 
+9,346,273 
+12,576,083 
+26,156,670 
+9,585,029 
+81,768,438 
+ 
+2011 
+23,636,265 
+9,051,844 
+11,928,328 
+25,234,709 
+9,621,159 
+79,472,305 
+ 
+2010 
+23,191,373 
+8,996,752 
+11,375,507 
+25,455,306 
+9,488,403 
+78,507,341 
+Growth 
+2018 
+1,320,158 
+1,271,108 
+1,473,092 
+560,506 
+507,259 
+5,132,122 
+ 
+2017 
+1,300,327 
+1,234,305 
+1,521,250 
+543,521 
+510,093 
+5,109,497 
+ 
+2016 
+1,282,597 
+1,183,596 
+1,770,162 
+615,858 
+522,803 
+5,375,016 
+ 
+2015 
+1,322,215 
+1,134,810 
+1,884,568 
+682,981 
+569,091 
+5,593,666 
+ 
+2014 
+1,191,308 
+1,060,492 
+1,952,166 
+702,363 
+598,363 
+5,504,691 
+ 
+2013 
+1,200,526 
+998,339 
+1,955,422 
+704,172 
+601,793 
+5,460,252 
+ 
+2012 
+1,206,404 
+933,146 
+1,995,955 
+748,194 
+600,362 
+5,484,060 
+ 
+2011 
+1,364,737 
+972,519 
+1,851,437 
+641,645 
+695,050 
+5,525,388 
+ 
+2010 
+1,474,594 
+1,060,055 
+1,969,384 
+724,150 
+741,555 
+5,969,737 
+Removals 
+2018 
+692,330 
+518,231 
+869,120 
+317,588 
+95,882 
+2,493,150 
+ 
+2017 
+663,956 
+492,744 
+846,472 
+311,916 
+95,882 
+2,410,970 
+ 
+2016 
+629,931 
+415,601 
+751,908 
+292,577 
+97,855 
+2,187,873 
+ 
+2015 
+641,408 
+431,912 
+722,953 
+251,353 
+90,308 
+2,137,934 
+ 
+2014 
+601,453 
+389,864 
+676,420 
+270,457 
+98,350 
+2,036,545 
+ 
+2013 
+612,449 
+350,459 
+628,536 
+311,189 
+101,434 
+2,004,067 
+ 
+2012 
+553,992 
+355,855 
+571,789 
+293,328 
+80,510 
+1,855,473 
+ 
+2011 
+596,292 
+331,942 
+456,282 
+364,100 
+41,336 
+1,789,952 
+ 
+2010 
+395,577 
+150,998 
+511,985 
+341,889 
+12,822 
+1,413,271 
+Mortality 
+2018 
+115,505 
+46,666 
+120,821 
+369,998 
+92,893 
+745,883 
+ 
+2017 
+114,636 
+50,446 
+133,273 
+344,002 
+94,890 
+737,247 
+ 
+2016 
+112,981 
+36,868 
+120,970 
+393,043 
+91,925 
+755,785 
+ 
+2015 
+104,212 
+35,631 
+91,645 
+364,435 
+88,164 
+684,087 
+ 
+2014 
+111,830 
+37,016 
+73,045 
+390,519 
+85,634 
+698,044 
+ 
+2013 
+116,680 
+40,122 
+75,012 
+422,885 
+89,307 
+744,005 
+ 
+2012 
+121,713 
+49,547 
+85,530 
+474,668 
+84,699 
+816,156 
+ 
+2011 
+78,014 
+22,175 
+62,980 
+470,505 
+80,360 
+714,034 
+ 
+2010 
+56,070 
+15,982 
+68,255 
+550,591 
+91,855 
+782,754 
+Source: USDA - US Forest Service 
+*projected values 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+63 
+Drax – August 2019 
+5.1.6  Changes in Raw Material Costs 
+Historically, Amite BioEnergy raw material purchases have included three different products: pine 
+pulpwood (roundwood), pine sawmill chips (sawmill residuals), and pine in-woods chips. As such, our 
+examination of raw material costs will focus on how prices for these specific timber products have 
+changed in the catchment area since 2010. However, in this section, we also include hardwood pulpwood 
+as well as both pine and hardwood sawtimber to see how prices of all the different major timber products 
+have changed and trended in the catchment area since 2010.  
+Note that only delivered timber prices (including chip and residual prices) are included and examined in 
+this section.   
+ 
+Delivered Pulpwood, Chip & Sawmill Residual Prices 
+Prices for delivered pine and hardwood pulpwood as well as pine sawmill chips and in-woods debarked 
+pine chips all spiked in 1Q 2010 due largely to near-record levels of rainfall in this region in 4Q 2009 (wet 
+conditions limited accessibility to wood, resulting in a short-term supply shortage that drove prices 
+upward). However, markets readjusted over the months that followed and prices of each of these 
+products fell back in line with respective pre-weather-related shortage trends by the end of 2010.  
+Trends/changes with delivered pulpwood, chips, and sawmill residual prices: 
+ Delivered Pine Pulpwood. Prices increased 4.7% (+1.5% per year average) from $29.92 per tonne 
+in 2011 to $31.31 per tonne in 2014. However, delivered pine pulpwood prices have declined 
+since 2014, decreasing an average of 3.1% per year (-11.9% overall) to $27.58 per tonne in 2018.  
+ Delivered Hardwood Pulpwood. Prices increased 19.1% from $27.50 per tonne in 2011 to $32.74 
+per tonne in 2013, leveling out and averaging $32.91 per tonne from 2013 through 2015. 
+Delivered hardwood pulpwood priced dipped in 2016 and 2017 but rebounded and averaged 
+$33.20 per tonne in 2018.  
+ Pine Sawmill Chips (Sawmill Residuals). Prices averaged $29.16 per tonne in 2011, falling to $28.14 
+per tonne in 2012. However, prices have trended upwards since, increasing an average of 1.5% 
+per year over the last six years and to $29.88 per tonne in 2018.  
+ In-Woods Debarked Pine Chips. As with pine sawmill chips, in-woods debarked pine chip prices 
+also fell from 2010 to 2012 (to $34.89 per tonne). However, since that time, prices have 
+remained relatively flat, increasing only marginally to $35.15 per tonne in 2018 and averaging 
+$35.28 per tonne over the last six years.  
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+64 
+Drax – August 2019 
+Figure 36. Amite BioEnergy Catchment Area - Delivered Pine & Hardwood Pulpwood Prices ($/Tonne) 
+ 
+(a) Quarterly Average (1Q 2010 – 1Q 2019) 
+ 
+ 
+(b) Annual Average (2010 – 2018) 
+ 
+Figure 37. Amite BioEnergy Catchment Area - Pine Sawmill Chip & In-Woods Debarked Pine Chip Prices ($/Tonne) 
+ 
+(a) Quarterly Average (1Q 2010 – 1Q 2019) 
+ 
+ 
+(b) Annual Average (2010 – 2018) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+$20
+$25
+$30
+$35
+$40
+$/Tonne
+Delivered Pine Pulpwood
+Delivered Hardwood Pulpwood
+$20
+$25
+$30
+$35
+$40
+$/Tonne
+$20
+$25
+$30
+$35
+$40
+$45
+$/Tonne
+Pine Sawmill Chips
+In-Woods Debarked Pine Chips
+$20
+$25
+$30
+$35
+$40
+$45
+$/Tonne
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+65 
+Drax – August 2019 
+Figure 38 provides a side-by-side comparison of biomass demand and total softwood pulpwood demand 
+versus delivered pine pulpwood, pine sawmill chip, and in-woods debarked pine chip prices in the 
+catchment area from 2010-2018. Intuitively, what we might expect to see is prices and demand moving in 
+the same direction, and that generally appears to be the case with pine sawmill chip (sawmill residual) 
+prices and biomass demand; however, both delivered pine pulpwood and in-woods debarked pine chip 
+prices have actually declined in recent years (despite the increase in biomass demand). 
+A correlation analysis of biomass demand and these raw material prices in the Amite BioEnergy 
+catchment area identifies a moderately strong negative correlation between biomass demand and 
+delivered pine pulpwood prices (correlation coefficient = -0.65), a very weak negative correlation 
+between biomass demand and in-woods debarked pine chip prices (correlation coefficient = -0.19), and a 
+moderately strong positive correlation between biomass demand and pine sawmill chip prices 
+(correlation coefficient = 0.70).  
+ 
+Figure 38. Delivered Pine Pulpwood, Pine Sawmill Chip, & In-Woods Debarked Pine Chip Prices vs. Biomass Demand & Total 
+Softwood Pulpwood Demand (2010-2018) 
+ 
+ 
+Table 29. Correlation Analysis – Delivered Pine Pulpwood Prices, Pine Sawmill Chip Prices, In-Woods Debarked Pine Chip Prices, 
+Biomass Demand, & Total Softwood Pulpwood Demand (2010-2018)  
+  
+Biomass  
+Demand 
+Total Softwood 
+ Pulpwood Demand 
+Delivered Pine 
+Pulpwood Prices 
+Pine Sawmill  
+Chip Prices 
+In-Woods Debarked 
+Pine Chip Prices 
+Biomass Demand 
+      1 
+ 
+ 
+ 
+ 
+Total Softwood Pulpwood Demand 
+  0.95 
+      1 
+ 
+ 
+ 
+Delivered Pine Pulpwood Prices 
+-0.65 
+-0.83 
+      1 
+ 
+ 
+Pine Sawmill Chip Prices 
+ 0.70 
+ 0.51 
+-0.05 
+     1 
+ 
+In-Woods Debarked Pine Chip Prices 
+-0.19 
+-0.38 
+ 0.52 
+0.34 
+1 
+ 
+ 
+ 
+ 
+$20
+$25
+$30
+$35
+$40
+$45
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+$/Tonne
+Demand (Tonnes)
+Biomass Demand
+Softwood Pulpwood Demand
+Delivered Pine Pulpwood
+Pine Sawmill Chips
+In-Woods Debarked Pine Chips
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+66 
+Drax – August 2019 
+Delivered Sawtimber Prices 
+Figure 39 provides historical prices for both delivered pine and hardwood sawtimber as well as delivered 
+pine chip-n-saw. We’d like to first point out the decline of delivered pine sawtimber prices through 2010 
+and into 2011, which was connected to the downward market shift resulting from the bursting of the US 
+housing bubble in 2006-2007 and the subsequent Great Recession that followed. Since this shift in price 
+level finally concluded in 2011, it’s from this point forward that we focus our assessment of delivered pine 
+sawtimber price trends.   
+Trends/changes with delivered sawtimber prices: 
+ Delivered Pine Sawtimber. Prices bottomed out in 2011 at $44.87 per tonne, down 15.9% from 
+$53.37 per tonne in 2010. Delivered pine sawtimber prices rebounded a bit over the four years 
+that followed, increasing 11.9% (+2.8% per year average) to $50.21 per tonne in 2015. However, 
+prices have been declining slowly since, decrease an average of 1.4% per year since to $48.10 per 
+tonne in 2018.  
+ Delivered Pine Chip-n-saw. Prices remained nearly unchanged from 2010 through 2012, averaging 
+$38.28 per tonne over this 3-year period before increasing more than 10% to $42.34 per tonne in 
+2014. However, delivered pine chip-n-saw prices have been on a downward slide since, 
+decreasing an average of 1.6% per year to $39.71 per tonne in 2018.  
+ Delivered Hardwood Sawtimber. Prices averaged $52.51 per tonne in 2010, increasing an average 
+of 4.9% per year (+33.2% overall) to $69.96 per tonne in 2016. However, delivered hardwood 
+sawtimber prices have held steady (decreased only slightly), averaging $68.74 per tonne from 
+2016 through 2018.  
+ 
+ 
+Figure 39. Amite BioEnergy Catchment Area - Historic Delivered Sawtimber Prices ($/Tonne) 
+ 
+(a) Quarterly Average (1Q 2010 – 1Q 2019) 
+ 
+               (b) Annual Average (2010 – 2018) 
+ 
+$30
+$40
+$50
+$60
+$70
+$80
+$/Tonne
+Delivered Pine Sawtimber
+Delivered Pine Chip-n-saw
+Delivered Hardwood Sawtimber
+$30
+$40
+$50
+$60
+$70
+$80
+$/Tonne
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+67 
+Drax – August 2019 
+Figure 40 provides a side-by-side comparison of delivered pine sawtimber and chip-n-saw prices versus 
+softwood sawlog demand in the catchment area from 2010-2018. Looking at this figure, both delivered 
+pine sawtimber and chip-n-saw prices appeared to generally track softwood sawlog demand from 2010 
+through around 2014; however, that relationship has disappeared since then and prices have held flat 
+(decreased slightly) while softwood sawlog demand has continued to increase.  
+A correlation analysis of delivered pine sawtimber prices, delivered pine chip-n-saw prices, and softwood 
+sawlog demand confirms these relationships, or lack thereof. No correlation was found between 
+delivered pine sawtimber price and softwood sawlog demand (correlation coefficient = 0.04) while only a 
+moderate positive correlation was found between delivered pine chip-n-saw price and softwood sawlog 
+demand.  
+Note that no correlation (or only a very weak positive correlation) was found between biomass demand 
+and both delivered pine sawtimber and chip-n-saw prices in the catchment area. See Table 30 for 
+correlation analysis details. 
+ 
+Figure 40. Delivered Pine Sawtimber & Pine Chip-n-saw Prices vs. Softwood Sawlog Demand (2010-
+2018) 
+ 
+ 
+ 
+Table 30. Correlation Analysis – Delivered Pine Sawtimber Prices, Delivered Pine Chip-n-saw Prices, 
+Biomass Demand, & Softwood Sawlog Demand (2010-2018)  
+  
+Biomass 
+Demand 
+Softwood 
+Sawlog Demand 
+Delivered Pine 
+Sawtimber Price 
+Delivered Pine 
+Chip-n-saw Price 
+Biomass Demand 
+     1 
+ 
+ 
+ 
+Softwood Sawlog Demand 
+0.93 
+     1 
+ 
+ 
+Delivered Pine Sawtimber Price 
+0.10 
+0.04 
+     1 
+ 
+Delivered Pine Chip-n-saw Price 
+0.33 
+0.55 
+0.34 
+1 
+ 
+ 
+$30
+$35
+$40
+$45
+$50
+$55
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2,500,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+$/Tonne
+Demand (Tonnes)
+Softwood Sawlog Demand
+Delivered Pine Sawtimber
+Delivered Pine Chip-n-saw
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+68 
+Drax – August 2019 
+Figure 41 provides a side-by-side comparison of delivered hardwood sawtimber price and hardwood 
+sawlog demand in the catchment area from 2010-2018. Looking at this figure, delivered hardwood 
+sawtimber price has generally increased while hardwood sawlog demand has ultimately decreased, 
+indicating an inverse relationship. A correlation analysis confirmed this relationship, identifying a 
+moderately strong negative correlation between delivered hardwood sawtimber price and hardwood 
+sawlog demand (correlation coefficient = -0.59). 
+However, keep in mind there are numerous hardwood species and that wood quality is an important 
+factor, especially depending on hardwood product end-use. And in this market, demand for high-quality 
+hardwood sawlogs remains relatively high and has held hardwood sawtimber prices near record highs for 
+the last several years.  
+ 
+Figure 41. Delivered Hardwood Sawtimber Prices vs. Hardwood Sawlog Demand (2010-2018) 
+ 
+ 
+ 
+Table 31. Correlation Analysis – Delivered Hardwood Sawtimber Prices, Biomass Demand, 
+& Hardwood Sawlog Demand (2010-2018)  
+  
+Biomass 
+Demand 
+Hardwood 
+Sawlog Demand 
+Delivered Hardwood 
+Sawtimber Price 
+Biomass Demand 
+      1 
+ 
+ 
+Hardwood Sawlog Demand 
+-0.84 
+      1 
+ 
+Delivered Hardwood Sawtimber Price 
+ 0.71 
+-0.59 
+     1 
+ 
+ 
+ 
+ 
+ 
+$20
+$30
+$40
+$50
+$60
+$70
+$80
+0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+$/Tonne
+Demand (Tonnes)
+Hardwood Sawlog Demand
+Delivered Hardwood Sawtimber
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+69 
+Drax – August 2019 
+5.2  Market Outlook: 2019-2022 
+There have been four major announcements related to mill openings and closings in the Amite BioEnergy 
+catchment area that stand to impact this market moving forward. These include: 
+ Georgia-Pacific (GP) announced in January of 2019 that the company would be exiting the communication 
+papers business, and, as a result, it would permanently shut down the communication papers machines, 
+related converting assets, as well as the woodyard, pulp mill, and a significant portion of the energy 
+complex at its Port Hudson, Louisiana, facility. Final shutdown occurred in March of 2019; however, GP 
+continues to operate the consumer tissue and towel business operations at the facility. 
+The Port Hudson mill is located approximately 65 kilometers southwest of the Amite BioEnergy pellet mill 
+in East Baton Rouge Parish, Louisiana. The shuttering of the communication papers business eliminates an 
+estimated 725,000 tonnes per year of roundwood demand that had previously been sourced from within 
+Amite BioEnergy’s catchment area.  
+ Alternative Energy Development (AED) announced in October 2018 that the company had commenced 
+construction on a new wood pellet mill in Gallman, Mississippi. Construction is expected to take 14 months, 
+with the plant scheduled to begin operating in early 2020. At full capacity, the plant will be capable of 
+producing 500,000 metric tons of wood pellets per year.  
+The AED plant is located approximately 120 kilometers northeast of the Amite BioEnergy pellet mill in 
+Copiah County, Mississippi. Once fully operational, an estimated 275,000-375,000 tonnes of roundwood 
+per year, or 30-40% of the mill’s annual wood demand, is expected to be sourced from within Amite 
+BioEnergy’s catchment area.   
+ Velocys plc announced in October of 2017 plans to build its first US biorefinery in Natchez, Mississippi. At 
+full production, the facility will produce an estimated 1,400 barrels per day of low sulfur diesel, or 
+approximately 19 million gallons per year. To meet production needs, the facility will require approximately 
+2,000 green tons per day of pine, or more than 635,000 tonnes annually. The company is currently in the 
+planning stages; however, Velocys expects to complete construction of the new facilityand commence 
+operations in 2024.   
+The Velocys biorefinery is to be located approximately 65 kilometers northwest of the Amite BioEnergy 
+pellet mill in Adams County, Mississippi, at the former International Paper pulp/paper mill site. Although 
+this facility is not expected to be operational until 2024, once open, an estimated 400,000-500,000 tonnes, 
+or 65-80% of the mill’s annual wood demand, is expected to be sourced from within Amite BioEnergy’s 
+catchment area. 
+ Rex Lumber announced in June 2019 that the company has decided to curtail production at its southern 
+yellow pine sawmill in Brookhaven, Mississippi, reducing lumber production by 20%. The company cites 
+current market conditions as the reason for the curtailment.  
+The Rex Lumber sawmill is located approximately 80 kilometers northeast of the Amite BioEnergy pellet 
+mill in Lincoln County, Mississippi. The curtailment eliminates an estimated 45,000 tonnes of annual wood 
+demand from within Amite BioEnergy’s catchment area.   
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+70 
+Drax – August 2019 
+5.2.1  Wood Demand Outlook 
+In the Amite BioEnergy catchment area, based on these announcements and other expected production 
+changes, we anticipate total wood demand to decline an estimated 8% in 2019, due in large part to the 
+shutdown that occurred at Georgia-Pacific’s Port Hudson mill as well as to the production curtailment at 
+Rex Lumber in Brookhaven, Mississippi.  
+However, with the construction of Alternative Energy Development’s pellet mill in Gallman, Mississippi, 
+and anticipated increases in softwood sawlog demand over the next several years, we project a majority 
+of the lost demand to be regained and for total wood demand in the catchment area to increase to nearly 
+5.0 million tonnes in 2022, which is down marginally (<1%) compared to 2018 levels. 
+ 
+Table 32. Amite BioEnergy Catchment Area - Projected Wood Demand (2019-2022) 
+ 
+2018 
+2019 
+2020 
+2021 
+2022 
+Product 
+Catchment Area – Annual Wood Demand (Tons) 
+Sawlogs: 
+ 
+ 
+ 
+ 
+  
+   Softwood 
+1,980,676 
+2,014,544 
+2,119,620 
+2,162,013 
+2,205,253 
+   Hardwood 
+   299,326 
+   302,320 
+   305,342 
+   308,396 
+   311,480 
+   Total Sawlogs 
+2,280,002 
+2,316,864 
+2,424,962 
+2,470,409 
+2,516,733 
+Pulpwood: 
+ 
+ 
+ 
+ 
+ 
+   Softwood 
+2,137,855 
+1,923,169 
+1,898,747 
+2,015,949 
+2,092,766 
+   Hardwood 
+   583,164 
+   380,686 
+   376,879 
+   373,110 
+   369,379 
+   Total Pulpwood 
+2,721,019 
+2,303,855 
+2,275,627 
+2,389,059 
+2,462,146 
+Total 
+5,001,021 
+4,620,718 
+4,700,590 
+4,859,468 
+4,978,878 
+*Hood Consulting projected values 
+ 
+ 
+Figure 42. Projected Wood Demand (2019 – 2022) 
+ 
+ 
+0
+1,000,000
+2,000,000
+3,000,000
+4,000,000
+5,000,000
+6,000,000
+2018
+2019
+2020
+2021
+2022
+Metric Tonnes
+Softwood Sawlogs
+Softwood Pulpwood
+Hardwood Sawlogs
+Hardwood Pulpwood
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+71 
+Drax – August 2019 
+Amite BioEnergy pellet mill wood purchases (and total pellet production) are assumed to increase 
+modestly (4-5%) over the next several years. And with the anticipated startup and ramp-up of the AED 
+pellet mill in Gallman, we project total biomass-related wood demand in the catchment area to increase 
+nearly 15% from 2018-2022 (see Table 33). 
+We’d like to note, however, that due to the shutdown at Georgia-Pacific’s Port Hudson pulp mill, total 
+softwood pulpwood demand in the catchment area is projected to decrease approximately 10% in 2019. 
+The anticipated increases in biomass demand will help recapture some of the lost demand, increasing 
+total softwood pulpwood demand to a just over 2.1 million tonnes in 2022, which is still down roughly 2% 
+compared to 2018 levels.  
+ 
+ 
+Table 33. Amite BioEnergy Catchment Area - Projected Biomass & Total Softwood Pulpwood Demand (2019-2022) 
+ 
+2018 
+2019 
+2020 
+2021 
+2022 
+Wood Demand 
+Projected Wood Demand (Tonnes) 
+Biomass Demand 
+   685,802 
+   623,237 
+   597,334 
+   713,002 
+   788,232 
+Other Softwood Pulpwood Demand 
+1,452,053 
+1,299,932 
+1,301,414 
+1,302,947 
+1,304,535 
+Total Softwood Pulpwood Demand 
+2,137,855 
+1,923,169 
+1,898,747 
+2,015,949 
+2,092,766 
+*projected values 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+72 
+Drax – August 2019 
+5.2.2  Raw Material Price Outlook 
+Raw material purchases for the Amite BioEnergy pellet mill have historically included three different 
+materials: pine pulpwood (roundwood), pine sawmill chips (sawmill residuals), and pine in-woods chips. 
+Since these specific raw materials are expected to constitute total wood purchases moving forward, our 
+price forecasts focus specifically on these three products. 
+ Delivered Pine Pulpwood. Based on our analysis of raw material prices in the catchment area, 
+including anticipated changes in biomass demand and total softwood pulpwood demand moving 
+forward, we forecast only marginal changes in delivered pine pulpwood prices from 2019 through 
+2022. Delivered pine pulpwood prices are forecasted to increase in 2019 (primarily due to the 
+extreme wet conditions that drove prices upwards early in the year) but decline in 2020 and 2021 
+before increasing again in 2022 with the increased demand attributed to the new AED pellet mill. 
+Overall, delivered pine pulpwood prices are forecasted to average $27.64 per tonne from 2019-2022, 
+up less than 1% from the 2018 average of $27.58 per tonne. 
+ Pine Sawmill Chips. Pine sawmill chip prices are forecasted to increase more than 2% in 2019 and 
+continue to increase, albeit at a decreasing rate, over the three years that follow – to $31.10 per 
+tonne in 2022. Overall, pine sawmill chip prices are forecasted to average $30.88 per tonne from 
+2019-2022, up a little more than 3% from the 2018 average of $29.87 per tonne. 
+ In-Woods Debarked Pine Chips. In-woods debarked pine chip prices are forecasted to increase each of 
+the next four years and to $36.55 per tonne in 2022. This represents an approximately 4% increase over 
+the 2018 average of $35.15 per tonne. Overall, in-woods debarked pine chip prices are forecasted to 
+average $36.31 per tonne from 2019-2022, up a little more than 3% from the 2018 average. 
+ 
+Table 34. Forecasted Delivered Pine Pulpwood, Pine Sawmill Chip & In-Woods Debarked 
+Pine Chip Prices ($/Tonne): 2019-2022 
+Year 
+Delivered Pine 
+Pulpwood 
+Pine Sawmill 
+Chips 
+In-Woods Debarked 
+Pine Chips 
+2010 
+33.03 
+30.14 
+39.51 
+2011 
+29.92 
+29.16 
+36.70 
+2012 
+30.22 
+28.14 
+34.89 
+2013 
+31.01 
+29.23 
+34.98 
+2014 
+31.32 
+28.99 
+34.03 
+2015 
+30.64 
+29.35 
+36.35 
+2016 
+30.47 
+30.84 
+35.73 
+2017 
+29.45 
+30.49 
+35.44 
+2018 
+27.58 
+29.87 
+35.15 
+2019 
+28.21 
+30.56 
+35.92 
+2020 
+27.50 
+30.86 
+36.29 
+2021 
+27.16 
+31.02 
+36.46 
+2022 
+27.70 
+31.10 
+36.55 
+*projected values 
+Note that forecasted values are based on Hood Consulting’s assessment of historical prices as well 
+as assumptions regarding future wood demand in the Amite BioEnergy catchment area. 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+73 
+Drax – August 2019 
+Figure 43. Price Forecast: Delivered Pine Pulpwood (2019-2022) 
+ 
+Figure 44. Price Forecast: Pine Sawmill Chips (2019-2022) 
+ 
+Figure 45. Price Forecast: In-Woods Debarked Pine Chips (2019-2022) 
+ 
+$24
+$26
+$28
+$30
+$32
+$34
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+$/Tonne
+Delivered Pine Pulpwood
+Forecast
+$26
+$27
+$28
+$29
+$30
+$31
+$32
+$33
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+$/Tonne
+Pine Sawmill Chips
+Forecast
+$32
+$33
+$34
+$35
+$36
+$37
+$38
+$39
+$40
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+$/Tonne
+In-Woods Debarked Pine Chips
+Forecast
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+74 
+Drax – August 2019 
+Table 35 provides a breakdown of historic and projected prices from 2014 through 2022 for the three 
+specific raw material products consumed by Amite BioEnergy. Note that these raw material prices are not 
+actual per unit costs incurred by the mill, but rather average market prices for the catchment area.  
+Also included in this table is the calculated weighted average per unit raw material cost based on the 
+actual distributions of Amite BioEnergy raw material purchases. This weighted average price is intended 
+to show how Amite BioEnergy’s raw material costs are forecasted to change given the anticipated 
+changes in wood demand and timber (raw material) prices in the catchment area over the next four 
+years.  
+This weighted average per unit cost of raw materials for the Amite BioEnergy pellet mill averaged $26.74 
+per ton in 2018. Based on our price forecasts and anticipated changes in raw material purchases, the 
+average per unit raw material cost is projected to increase 2.0% in 2019 but decline slightly in both 2020 
+and 2021 before increasing (modestly) in 2022. Overall, the average per unit cost of raw materials at the 
+Amite BioEnergy pellet mill is forecasted to average $27.08 per ton from 2019-2022, up 1.2% compared 
+to the 2018 weighted average per unit cost.  
+ 
+Table 35. Amite BioEnergy Raw Material Per Unit Price Projections 
+ 
+Price Per Tonne 
+Year 
+Pine 
+Pulpwood 
+Sawmill 
+Residuals 
+In-Woods 
+Chips 
+Weighted 
+Average 
+2014 
+31.32 
+28.99 
+34.03 
+31.54 
+2015 
+30.64 
+29.35 
+36.35 
+30.63 
+2016 
+30.47 
+30.84 
+35.73 
+30.49 
+2017 
+29.45 
+30.49 
+35.44 
+29.72 
+2018 
+27.58 
+29.87 
+35.15 
+29.48 
+2019 
+28.21 
+30.56 
+35.92 
+30.08 
+2020 
+27.50 
+30.86 
+36.29 
+29.73 
+2021 
+27.16 
+31.02 
+36.46 
+29.63 
+2022 
+27.70 
+31.10 
+36.55 
+29.94 
+*projected/forecasted 
+ 
+Figure 46. Historic & Projected Raw Material Per Unit Weighted Average Cost ($/Tonne) 
+ 
+$28.00
+$28.50
+$29.00
+$29.50
+$30.00
+$30.50
+$31.00
+$31.50
+$32.00
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Weighted Average $/Tonne
+Historic
+Forecasted
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+75 
+Drax – August 2019 
+6. Analysis Summary & Findings 
+Provided below and on the following pages is Hood Consulting’s overall analysis summary, including a 
+synopsis of key report elements and analysis findings. Please note that any conclusions drawn by Hood 
+Consulting are based on a thorough assessment of the Amite BioEnergy catchment area and on our 
+professional expertise and market knowledge. 
+ 
+ Changes in Forest Area 
+Despite relatively poor market conditions (particularly for forest landowners) since 2010, US 
+Forest Service data shows that overall timberland hectares increased (<1%) in the Amite 
+BioEnergy catchment area from 2010-2017. Also, important to note is that total planted pine 
+acres increased 15,305 hectares (+9%) over this period. To us, this indicates two things. First, land 
+not formerly classified as timberland has been converted to timberland, and second, that 
+harvested timberland continues to be replanted (predominantly in pine). 
+As this relates to Amite BioEnergy specifically, the increase in timberland provides great 
+indication that more than adequate supply will be available for future consumption (at least over 
+the short to mid-term). 
+ 
+ Changes in Timber Inventory, Growth, & Removals 
+Total removals in the catchment area increased 71% from 2010-2017, and while total annual 
+growth declined 14% over this period, growth still exceeded removals by a wide margin and total 
+growing stock inventory increased 14% from 2010-2017. 
+Another way to gauge long-term resource availability and market sustainability is to examine 
+growth-to-removal ratios. In this catchment area, total softwood growth-to-removals declined 
+from 4.25 in 2010 to 2.02 in 2017. More specifically, softwood pulpwood (i.e. pine pulpwood) 
+growth-to-removals declined from 3.85 in 2010 to 1.80 in 2017. (Recall that a value of >1 
+indicates growth exceeds removals, signifying oversupply). So, while this ratio has come down 
+since 2010, a value of 1.80 still indicates that annual growth of softwood pulpwood is nearly 2x 
+that of annual removals. 
+For Amite BioEnergy, this indicates, firstly, that current harvest levels (demand) are sustainable, 
+and secondly, that softwood pulpwood demand (including biomass-related wood demand) can 
+increase much further without jeopardizing the long-term sustainability of this market. However, 
+we anticipate a decline in softwood pulpwood demand in the Amite BioEnergy catchment area in 
+2019 due to the recent shutdown at Georgia-Pacific’s Port Hudson pulp mill, and this decrease in 
+demand means greater wood availability for Amite BioEnergy and likely a reduction in overall raw 
+material costs.  
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+76 
+Drax – August 2019 
+ Changes in Wood Demand 
+Total wood demand in the Amite BioEnergy catchment area doubled from 2010-2018. Over this 
+same period, softwood pulpwood demand increased an estimated 92% - largely attributed to 
+construction and startup of the Amite BioEnergy pellet mill. However, the previously mentioned 
+shutdown at Georgia-Pacific’s Port Hudson pulp mill is expected to reduce total softwood 
+pulpwood demand by approximately 10% in this catchment area in 2019. 
+But with the anticipated startup of the Alternative Energy Development (AED) pellet mill in 
+Gallman, Mississippi, which is presently expected to occur sometime late in 2020, some of the 
+lost softwood pulpwood demand will be regained. But ultimately, total softwood pulpwood 
+demand in the catchment area is projected to be 2% lower in 2022 than it was in 2018. 
+For the Amite BioEnergy pellet mill, decreased demand (reduced competition) for softwood 
+pulpwood should translate to lower raw material costs.  
+ 
+ Changes in Raw Material Prices 
+Amite BioEnergy raw material purchases included three different products: pine pulpwood 
+(roundwood), pine sawmill chips (sawmill residuals), and pine in-woods chips. Delivered pine 
+pulpwood prices in the catchment area have trended downward since 2010, decreasing an 
+average of 2.2% per year from 2010 through 2018. Pine sawmill chip prices, which trended 
+upwards from 2012 through 2016, have retreated a bit the last several years, decreasing 3.1% 
+from 2016 through 2018. And in-woods debarked pine chip prices have remained relatively flat, 
+increasing <1% overall from 2012 through 2018. 
+The outlook for Amite BioEnergy in terms of raw material costs is positive. Prices for all three of 
+these products did increase in 1Q 2019; however, these increases were largely due to extreme 
+wet conditions that constrained supply in the short term. But given the expected decline in 
+softwood pulpwood demand over the next several years, we expect overall raw material costs to 
+decline as well. 
+ 
+ Changes in Management/Harvesting Practices 
+As part of this market analysis, Hood Consulting examined management practices to see how 
+harvesting activities have changed since 2010. We also interviewed multiple loggers to get their 
+perspective and account of how logging and logging practices have changed since 2010.  
+The general notion is that thinnings (which provide a majority of the raw material that Amite 
+BioEnergy purchases and utilizes) decline when timber markets are weak, and both the research 
+and logger interviews conducted provided evidence to support this. In this market, delivered pine 
+pulpwood prices declined 12% from 2014-2018, and over this same period, TimberMart-South 
+data shows that the total number of acres thinned as a percentage of total acres harvested 
+declined from roughly 60% to 45%. The loggers interviewed also provided confirmation of this, 
+with two of the individuals noting specifically that their logging companies have reduced the 
+amount of thinnings they conduct as pine pulpwood prices have declined. 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+77 
+Drax – August 2019 
+But one of the other major takeaways we got from our logger interviews, and something Drax 
+and Amite BioEnergy will likely find important, is the concern these loggers expressed. More than 
+one of the loggers interviewed said they expect some logger attrition to occur due to the 
+shutdown at G-P Port Hudson and the production curtailment at Rex Lumber, and that more and 
+more attrition will likely occur if delivered timber prices move any lower (it will be too difficult for 
+loggers to be profitable, and as a result they will decide to exit the industry). So, while reduced 
+wood demand in this catchment area may be good for Amite BioEnergy (in terms of reduced 
+buyer competition), if timber prices fall much further and the snowball effect includes a reduced 
+logger workforce, then this could impact Amite BioEnergy wood procurement. 
+ 
+ Impact of Biomass Demand on Raw Material Prices 
+One of the important components of this analysis was to identify any relationships or linkages 
+between changes in biomass demand and changes in raw material prices, and our correlation 
+analysis identified an inverse relationship between these two in the catchment area. In other 
+words, an increase in biomass demand corresponded to a decrease in raw material prices. This 
+opposes intuitive thought – that prices and demand should move in the same direction. However, 
+the supply side of supply and demand provides the explanation.  
+When demand increases (as has happened in the catchment area), the only way for prices to 
+decrease is for an even larger increase in supply to occur – and that’s what has happened in this 
+catchment area (and in most timber markets across the US South). Timber production decreased 
+substantially with the bursting of the US housing bubble in the mid-2000s and the Great 
+Recession that followed; however; timber inventories continued to grow. Specifically, pine 
+pulpwood inventory in the catchment area increased more than 11% from 2010-2014. And even 
+though pine pulpwood inventory has declined in this market since that time, oversupply still 
+persists, and this is the primary reason pine pulpwood prices have decreased despite an increase 
+in demand.  
+Our summation is that the inverse relationship found between biomass demand and raw material 
+prices points more towards unrelation than causation. The evidence we gathered suggests 
+(over)supply, not demand, is currently the greatest factor driving changes in raw material prices.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+78 
+Drax – August 2019 
+7.  Annex 1 – Project Scaling Procedures, Methodology, & Costs 
+The Amite BioEnergy catchment area analysis represents a ‘pilot project/proof of concept’ to be 
+replicated throughout Drax’s supply chain in accordance with Drax’s initiative to roll out and implement a 
+more extensive monitoring program. In addition to Amite BioEnergy, Drax has two additional wood pellet 
+facilities in the US South:  
+ Morehouse BioEnergy in Bastrop, Louisiana  
+ LaSalle BioEnergy in Urania, Louisiana 
+Drax Power Station biomass pellet feedstock is also sourced from other regions and countries, including:  
+ Canada 
+ Baltic States (Estonia, Latvia, and Lithuania) 
+ Portugal 
+ 
+7.1  Project Scaling Procedures & Methodology 
+Replication of the Amite BioEnergy catchment area analysis for both the Morehouse BioEnergy and 
+LaSalle BioEnergy pellet mills can be done with relative ease, as US Forest Service inventory data, wood 
+demand data, and TimberMart-South pricing data is readily available and attainable for each respective 
+mill’s fiber catchment area. Also, Hood Consulting’s network of loggers provides access to industry 
+professionals in these markets, allowing us to gather area-specific information regarding trends and 
+changes in management and harvest practices.  
+Regarding Drax’s sourcing regions in Canada, the Baltic States, and Portugal, the data and information 
+required to monitor these sourcing regions can be attained from each respective country’s ministry of 
+forestry and well as from the Food and Agriculture Organization of the United Nations (FAO) and other 
+sources.  
+The methodology behind subsequent catchment area or sourcing region analyses would follow that of 
+the Amite BioEnergy catchment area analysis. This includes data collection and analysis that details or 
+provides the following: 
+ Changes in forest area and forest composition 
+ Changes in timber inventory, growth, and removals 
+ Changes in wood demand (including biomass-related wood demand) 
+ Changes in raw material prices 
+ Changes in management and harvesting practices 
+ Long-term market sustainability 
+ Relationships or linkages between changes in wood demand (biomass demand) and changes in 
+forest area 
+ Relationships or linkages between changes in wood demand (biomass demand) and changes in 
+raw material prices 
+ Identification of anticipated changes in wood demand, including the impact these anticipated 
+changes will have on Drax’s future raw material costs 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+79 
+Drax – August 2019 
+Due to the US Forest Service’s data collection and release schedule, updated inventory, growth, and 
+removal estimates are not typically provided every year. However, Hood Consulting continuously tracks 
+changes in wood demand. In addition, TimberMart-South provides updated market price reports every 
+quarter. An important part of the monitoring process includes tracking changes in both wood demand 
+and raw material prices, so we would recommend updating these portions of the catchment area analysis 
+every year. However, complete updates (including updated inventory data) are likely limited to every 
+other year. 
+ 
+7.2  Projected Costs & Timeline 
+The cost to conduct catchment area analyses for Morehouse BioEnergy and LaSalle BioEnergy would be in 
+line with that of the Amite BioEnergy catchment area analysis. However, since a template for this type of 
+report has been established with the Amite BioEnergy catchment area analysis, there are likely some 
+related cost savings to be had. Turnaround time on this type of market or catchment area analysis is 6-8 
+weeks for each report. 
+Regarding annual updates to the wood demand and raw material price portions of one of these analyses 
+(including an updated market outlook with 3-5-year forecasts), we anticipate a turnaround time of only 1-
+2 weeks for a given catchment area. More importantly, our estimated cost to provide such an update is 
+25-35% that of a full report or a complete report update. 
+For additional cost details or questions regarding project scaling and timeline, please contact Harrison 
+Hood at 601-540-8602 or by email at hbhood@hoodconsultingllc.com. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+80 
+Drax – August 2019 
+Appendix A. Quarterly Stumpage Prices, Delivered Timber Prices, Sawmill Residual 
+Prices, & Pulp Quality Chip Prices (1Q 2010 – 1Q 2019) 
+ 
+Amite BioEnergy Catchment Area - Historic Quarterly Stumpage Prices ($/Tonne) 
+Year 
+Quarter 
+Pine 
+Sawtimber 
+Pine  
+Chip-n-saw 
+Pine 
+Pulpwood 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+2010 
+1 
+33.92 
+18.53 
+14.83 
+32.53 
+17.19 
+2010 
+2 
+43.61 
+19.50 
+12.59 
+32.90 
+15.13 
+2010 
+3 
+32.87 
+17.59 
+9.65 
+33.05 
+6.66 
+2010 
+4 
+29.87 
+16.68 
+10.36 
+31.74 
+7.20 
+2011 
+1 
+26.85 
+17.11 
+9.73 
+26.31 
+7.00 
+2011 
+2 
+24.01 
+15.74 
+8.50 
+31.81 
+5.52 
+2011 
+3 
+22.13 
+15.71 
+8.79 
+36.10 
+4.57 
+2011 
+4 
+25.13 
+16.57 
+10.25 
+36.78 
+5.57 
+2012 
+1 
+26.29 
+17.10 
+9.70 
+30.35 
+6.79 
+2012 
+2 
+25.42 
+15.76 
+9.44 
+33.01 
+7.46 
+2012 
+3 
+25.44 
+15.77 
+9.55 
+37.27 
+9.02 
+2012 
+4 
+26.05 
+16.81 
+10.34 
+42.03 
+10.00 
+2013 
+1 
+27.76 
+19.38 
+11.60 
+45.00 
+11.20 
+2013 
+2 
+26.60 
+18.58 
+10.65 
+42.46 
+10.54 
+2013 
+3 
+26.79 
+17.28 
+9.66 
+47.40 
+11.89 
+2013 
+4 
+26.52 
+18.10 
+8.91 
+46.43 
+11.88 
+2014 
+1 
+29.00 
+19.39 
+9.98 
+43.66 
+11.67 
+2014 
+2 
+27.18 
+19.24 
+10.00 
+46.30 
+10.73 
+2014 
+3 
+28.18 
+18.88 
+9.58 
+43.05 
+10.03 
+2014 
+4 
+28.98 
+19.68 
+9.90 
+42.91 
+9.60 
+2015 
+1 
+29.75 
+19.16 
+10.59 
+39.67 
+9.73 
+2015 
+2 
+27.29 
+18.65 
+9.59 
+36.44 
+9.87 
+2015 
+3 
+27.95 
+18.03 
+8.93 
+38.62 
+8.98 
+2015 
+4 
+25.98 
+18.51 
+8.95 
+37.27 
+9.57 
+2016 
+1 
+26.83 
+19.33 
+9.61 
+52.82 
+9.76 
+2016 
+2 
+27.88 
+18.78 
+9.50 
+53.54 
+8.60 
+2016 
+3 
+26.37 
+19.53 
+8.64 
+52.29 
+7.23 
+2016 
+4 
+28.22 
+18.55 
+8.21 
+47.93 
+6.96 
+2017 
+1 
+28.76 
+20.48 
+8.94 
+43.83 
+8.39 
+2017 
+2 
+28.06 
+20.32 
+8.59 
+44.86 
+6.64 
+2017 
+3 
+28.52 
+20.55 
+7.64 
+43.49 
+6.75 
+2017 
+4 
+30.53 
+19.27 
+8.26 
+44.93 
+8.27 
+2018 
+1 
+29.45 
+19.15 
+7.96 
+47.92 
+12.87 
+2018 
+2 
+28.65 
+19.36 
+7.71 
+45.55 
+12.25 
+2018 
+3 
+27.51 
+18.71 
+6.71 
+44.42 
+11.83 
+2018 
+4 
+27.94 
+17.46 
+6.64 
+48.51 
+12.81 
+2019 
+1 
+27.70 
+19.49 
+8.17 
+51.59 
+15.81 
+Source: TimberMart-South 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+81 
+Drax – August 2019 
+Amite BioEnergy Catchment Area - Historic Quarterly Delivered Timber Prices ($/Tonne) 
+Year 
+Quarter 
+Pine 
+Sawtimber 
+Pine  
+Chip-n-saw 
+Pine 
+Pulpwood 
+Hardwood 
+Sawtimber 
+Hardwood 
+Pulpwood 
+2010 
+1 
+52.99 
+38.04 
+35.51 
+49.60 
+36.16 
+2010 
+2 
+55.84 
+39.86 
+32.96 
+54.81 
+36.64 
+2010 
+3 
+55.03 
+38.34 
+32.92 
+52.11 
+29.54 
+2010 
+4 
+49.60 
+37.65 
+30.74 
+53.53 
+28.26 
+2011 
+1 
+47.64 
+38.15 
+30.08 
+52.10 
+28.13 
+2011 
+2 
+43.97 
+37.23 
+29.59 
+54.39 
+27.76 
+2011 
+3 
+43.22 
+37.78 
+29.44 
+55.40 
+27.38 
+2011 
+4 
+44.65 
+38.50 
+30.57 
+56.46 
+26.72 
+2012 
+1 
+44.43 
+38.36 
+30.05 
+53.46 
+29.02 
+2012 
+2 
+45.58 
+38.16 
+30.10 
+57.03 
+29.20 
+2012 
+3 
+46.25 
+38.23 
+29.66 
+57.88 
+30.29 
+2012 
+4 
+45.87 
+39.11 
+31.07 
+66.16 
+31.77 
+2013 
+1 
+47.50 
+39.97 
+31.60 
+64.54 
+32.35 
+2013 
+2 
+48.48 
+42.25 
+31.46 
+61.83 
+31.80 
+2013 
+3 
+48.88 
+41.29 
+30.50 
+65.98 
+33.25 
+2013 
+4 
+49.25 
+41.62 
+30.47 
+65.09 
+33.58 
+2014 
+1 
+49.45 
+42.09 
+30.95 
+64.26 
+33.71 
+2014 
+2 
+51.26 
+43.43 
+31.26 
+69.63 
+32.44 
+2014 
+3 
+48.10 
+41.76 
+31.78 
+64.71 
+32.56 
+2014 
+4 
+49.68 
+42.08 
+31.25 
+65.52 
+32.74 
+2015 
+1 
+48.93 
+42.11 
+30.80 
+59.00 
+34.72 
+2015 
+2 
+49.04 
+42.21 
+30.78 
+58.64 
+32.51 
+2015 
+3 
+54.72 
+42.16 
+30.45 
+60.78 
+33.08 
+2015 
+4 
+48.14 
+41.73 
+30.56 
+58.57 
+32.18 
+2016 
+1 
+47.73 
+42.48 
+31.09 
+66.54 
+32.92 
+2016 
+2 
+46.80 
+41.17 
+31.55 
+70.11 
+32.17 
+2016 
+3 
+48.16 
+41.33 
+30.42 
+74.09 
+29.02 
+2016 
+4 
+49.03 
+39.25 
+28.79 
+69.11 
+27.39 
+2017 
+1 
+50.83 
+40.95 
+29.18 
+66.55 
+26.57 
+2017 
+2 
+47.87 
+39.86 
+28.02 
+69.29 
+25.86 
+2017 
+3 
+50.08 
+42.24 
+30.59 
+71.40 
+28.22 
+2017 
+4 
+50.87 
+41.11 
+30.02 
+66.93 
+27.30 
+2018 
+1 
+49.87 
+40.68 
+28.21 
+69.71 
+32.99 
+2018 
+2 
+46.84 
+38.89 
+27.16 
+63.37 
+32.04 
+2018 
+3 
+47.42 
+39.39 
+27.54 
+64.58 
+32.77 
+2018 
+4 
+48.29 
+39.89 
+27.40 
+73.18 
+34.99 
+2019 
+1 
+47.44 
+40.50 
+30.36 
+72.39 
+35.77 
+Source: TimberMart-South 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+82 
+Drax – August 2019 
+Amite BioEnergy Catchment Area - Sawmill Residuals & Pulp Quality Chip Prices ($/Tonne - FOB Point of Production) 
+Year 
+Quarter 
+Pine  
+Sawmill Chips 
+Pine Chip Mill 
+Chips 
+In-Woods Debarked 
+Pine Chips 
+Hardwood 
+Sawmill Chips 
+Hardwood Chip 
+Mill Chips 
+2010 
+1 
+32.83 
+41.54 
+42.51 
+25.58 
+42.96 
+2010 
+2 
+28.26 
+41.30 
+41.96 
+25.17 
+43.99 
+2010 
+3 
+29.20 
+38.64 
+38.07 
+27.50 
+39.75 
+2010 
+4 
+30.28 
+39.25 
+35.48 
+27.52 
+41.60 
+2011 
+1 
+30.25 
+38.23 
+36.53 
+27.97 
+41.61 
+2011 
+2 
+30.08 
+37.70 
+36.20 
+27.54 
+39.53 
+2011 
+3 
+28.64 
+39.57 
+37.46 
+26.35 
+37.49 
+2011 
+4 
+27.66 
+38.70 
+36.60 
+25.95 
+38.12 
+2012 
+1 
+28.19 
+39.62 
+35.85 
+26.26 
+37.40 
+2012 
+2 
+27.73 
+38.87 
+32.84 
+26.96 
+39.02 
+2012 
+3 
+27.83 
+39.31 
+35.41 
+28.94 
+38.64 
+2012 
+4 
+28.79 
+41.26 
+35.48 
+29.61 
+40.17 
+2013 
+1 
+28.38 
+41.15 
+34.26 
+29.49 
+39.87 
+2013 
+2 
+30.18 
+39.22 
+33.29 
+30.78 
+39.88 
+2013 
+3 
+28.74 
+38.71 
+36.23 
+28.20 
+38.05 
+2013 
+4 
+29.60 
+38.40 
+36.16 
+30.08 
+40.68 
+2014 
+1 
+28.34 
+39.14 
+33.91 
+28.23 
+41.07 
+2014 
+2 
+30.20 
+39.32 
+34.16 
+28.16 
+41.17 
+2014 
+3 
+28.80 
+38.97 
+33.58 
+28.38 
+41.95 
+2014 
+4 
+28.60 
+38.56 
+34.46 
+27.39 
+41.14 
+2015 
+1 
+28.64 
+37.99 
+34.69 
+28.11 
+41.15 
+2015 
+2 
+29.53 
+37.61 
+35.78 
+29.99 
+39.08 
+2015 
+3 
+28.98 
+38.25 
+37.13 
+28.52 
+40.79 
+2015 
+4 
+30.27 
+37.13 
+37.81 
+29.99 
+39.28 
+2016 
+1 
+29.99 
+37.73 
+36.02 
+30.63 
+39.94 
+2016 
+2 
+31.80 
+37.69 
+35.11 
+33.80 
+40.44 
+2016 
+3 
+30.58 
+36.94 
+35.47 
+30.99 
+39.44 
+2016 
+4 
+31.01 
+36.03 
+36.31 
+31.68 
+37.92 
+2017 
+1 
+31.35 
+35.24 
+34.72 
+30.18 
+37.30 
+2017 
+2 
+30.20 
+35.37 
+35.44 
+31.80 
+38.15 
+2017 
+3 
+30.86 
+36.11 
+36.23 
+31.40 
+36.86 
+2017 
+4 
+29.52 
+36.88 
+35.36 
+31.66 
+36.75 
+2018 
+1 
+28.65 
+36.34 
+35.14 
+31.88 
+37.79 
+2018 
+2 
+29.21 
+35.62 
+34.79 
+31.83 
+40.55 
+2018 
+3 
+30.64 
+35.42 
+35.43 
+30.02 
+41.79 
+2018 
+4 
+31.00 
+36.00 
+35.25 
+29.96 
+44.19 
+2019 
+1 
+31.36 
+37.00 
+35.92 
+31.68 
+46.50 
+Source: TimberMart-South 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+83 
+Drax – August 2019 
+Appendix B. Log Rules, Weight Equivalents, & Conversion Rates 
+ 
+Log Rule and Weight Equivalents 
+Pine: 
+Sawtimber and large logs 15,000 lbs. (Range 13,000-17,000 lbs.) or 7.50 Tons per MBF 
+Scribner; 16,000 lbs. or 8.0 Tons per MBF Doyle; 12,450 lbs. or 6.225 Tons per MBF 
+International. 
+Chip-n-saw 15,000 lbs. (Range 13,000-17,000 lbs.) or 7.50 Tons per MBF Scribner; 19,950 
+lbs. or 9.975 Tons per MBF Doyle; 12,450 lbs. or 6.225 Tons per MBF International. 
+Pulpwood and Chip-n-saw 5,350 lbs. (Range 5,000-5,620 lbs.) or 2.68 Tons per Std.Cord. 
+Ratio of weights between sawtimber & pulpwood is 2.80 cds. to MBF (Scribner). 
+Hardwood: 
+Sawtimber 17,500 lbs. (Range 15,000-19,000 lbs.) or 8.75 Tons per MBF Doyle; 13,125 lbs. 
+or 6.563 Tons per MBF Scribner; 10,850 lbs. or 5.425 Tons per MBF International. 
+Pulpwood 5,800 lbs./Std.Cord or 2.90 Tons (Range 5,400-6,075 lbs.) Ratio of weights 
+between sawtimber & pulpwood 3.02 cds. to MBF (Doyle). 
+ 
+ 
+English & Metric Conversions 
+1 Std. Cord has 128 ft3 of stacked logs: bark, air and solid wood. 
+1 Std. Cord has 90 ft3 of solid wood and bark. 
+1 Std. Cord of pine has about 75 ft3 or 2.124 m3 of solid wood. 
+1 Std. Cord of mixed hardwood has about 80 ft3 or 2.265 m3 of solid wood. 
+1 cubic meter (m3) = 35.315 cubic feet (ft3) 
+1 short ton (2,000 lb.) of green southern pine, wood & bark, has about 0.822 m3 of solid wood. 
+1 short ton (2,000 lb.) of green mixed hardwood, wood & bark, has about 0.787 m3 of solid wood. 
+1 metric tonne = 1.102 short tons = 2,204 pounds 
+1 acre = 0.405 hectares 
+1 mile = 1.609 kilometers 
+ 
+ 
+These are “general product guides.” Specific requirements may vary by area and buyer. 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+84 
+Drax – August 2019 
+Glossary of Terms 
+Average annual mortality of growing stock: The average cubic foot volume of sound wood in growing-stock trees 
+that died in one year. 
+Average annual net growth of growing stock: The annual change in cubic foot volume of sound wood in live 
+sawtimber and poletimber trees, and the total volume of trees entering these classes through ingrowth, less volume 
+losses resulting from natural causes, between 1999 and 2003.  
+Average annual removals from growing stock: The average net growing-stock volume in growing-stock trees 
+removed annually for roundwood forest products, in addition to the volume of logging residues and the volume of 
+other removals.  
+Basal area: Tree area in square feet of the cross section at breast height of a single tree.  When the basal areas of all 
+trees in a stand are summed, the result is usually expressed as square feet of basal area per acre. 
+Commercial species: Tree species suitable for industrial wood products. 
+County and municipal: An ownership class of public lands owned by counties or local public agencies, or lands leased 
+by these governmental units for more than 50 years.  
+Cropland: Land under cultivation within the last 24 months, including cropland harvested, crop failures, cultivated 
+summer fallow, idle cropland used only for pasture, orchards, active Christmas tree plantations indicated by annual 
+shearing, nurseries, and land in soil improvement crops, but excluding land cultivated in developing improved 
+pasture. 
+Diameter class: A classification of trees based on diameter outside bark, measured at breast height 4.5 feet (DBH) 
+(1.37m) above the ground or at root collar (DRC). Note: Diameter classes are commonly in 2-inch (5cm) increments, 
+beginning with 2-inches (5cm). Each class provides a range of values with the class name being the approximate 
+mid-point. For example, the 6-inch class (15-cm class) includes trees 5.0 through 6.9 inches (12.7 cm through 17.5 
+cm) DBH, inclusive. 
+Federal Land: An ownership class of public lands owned by the U.S. Government.  
+Forest land: Land that has at least 10 percent crown cover by live tally trees of any size or has had at least 10 
+percent canopy cover of live tally species in the past, based on the presence of stumps, snags, or other evidence. To 
+qualify, the area must be at least 1.0 acre in size and 120.0 feet wide. Forest land includes transition zones, such as 
+areas between forest and nonforest lands that meet the minimal tree stocking/cover and forest areas adjacent to 
+urban and built—up lands. Roadside, streamside, and shelterbelt strips of trees must have a width of at least 120 
+feet and continuous length of at least 363 feet to qualify as forest land. Unimproved roads and trails, streams, and 
+clearings in forest areas are classified as forest if they are less than 120 feet wide or less than an acre in size. Tree-
+covered areas in agricultural production settings, such as fruit orchards, or tree—covered areas in urban settings, 
+such as city parks, are not considered forest land.  
+Forest type: A classification of forest land based upon and named for the tree species that forms the plurality of live-
+tree stocking. A forest type classification for a field location indicates the predominant live-tree species cover for the 
+field location; hardwoods and softwoods are the first group to be determine predominant group, and Forest Type is 
+selected from the predominant group. 
+Growing stock tree: All live trees 5.0 inches (12.7) cm) DBH or larger that meet (now or prospectively) regional 
+merchantability requirements in terms of saw-log length, grade, and cull deductions. Excludes rough and rotten cull 
+trees. 
+Hardwood: Tree species belonging to the botanical subdivision Angiospermae, class Dicotyledonous, usually broad-
+leaved and deciduous.  
+Land: The area of dry land and land temporarily or partly covered by water, such as marshes, swamps, and river 
+flood plains. 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+85 
+Drax – August 2019 
+Logging residues: The unused portions of trees cut or destroyed during harvest and left in the woods.  
+Merchantable: Refers to a pulpwood or sawlog section that meets pulpwood or sawlog specifications, respectively. 
+National forest: An ownership class of Federal lands, designated by Executive order or statute as National Forests or 
+purchase units, and other lands under the administration of the Forest Service including experimental areas. 
+Net annual growth: The average annual net increase in the volume of trees during the period between 
+inventories.  Components include the increment in net volume of trees at the beginning of the specific year 
+surviving to its end, plus the net volume of trees reaching the minimum size class during the year, minus the volume 
+of trees that died during the year, and minus the net volume of trees that became cull trees during the year.  
+Net volume in cubic feet: The gross volume in cubic feet less deductions for rot, roughness, and poor form.  Volume 
+is computed for the central stem from a 1-foot stump to a minimum 4.0-inch top diameter outside bark, or to the 
+point where the central stem breaks into limbs. 
+Nonforest land: Land that does not support or has never supported, forests and lands formerly forested where use 
+of timber management is precluded by development for other uses. Includes area used for crops, improved pasture, 
+residential areas, city parks, improved roads of any width and adjoining rights-of-way, powerline clearings of any 
+width, and noncensus water.  If intermingled in forest areas, unimproved roads and nonforest strips must be more 
+than 120 feet (36.6m) wide, and clearings, etc., more than one acre (0.4ha) in size, to qualify as nonforest land. 
+Ownership: A legal entity having an ownership interest in land regardless of the number of people involved. An 
+ownership may be an individual; a combination of persons; a legal entity such as corporation, partnership, club, or 
+trust; or a public agency. An ownership has control of a parcel or group of parcels of land. 
+Pulpwood: Roundwood, whole-tree chips, or wood residues used for the production of wood pulp.  
+Roundwood products: Logs, bolts, or other round timber generated from harvesting trees for industrial or consumer 
+uses. Includes sawlogs; veneer and cooperage logs and bolts; pulpwood; fuelwood; pilings; poles; posts; hewn ties; 
+mine timbers; and various other round, split or hewn products. 
+Saw log: A log meeting minimum standards of diameter, length, and defect, including logs at least 8 feet long, sound 
+and straight, and with a minimum diameter inside bark of 6 inches for softwoods and 8 inches for hardwoods, or 
+meeting other combinations of size and defect specified by regional standards.   
+Sawtimber tree: A live tree of commercial species containing at least a 12-foot sawlog or two noncontiguous saw 
+logs 8 feet or longer and meeting regional specifications for freedom from defect.  Softwoods must be at least 9.0 
+inches d.b.h.  Hardwoods must be at least 11.0 inches diameter outside bark (d.o.b.). 
+Softwood: A coniferous tree, usually evergreen, having needles or scale-like leaves.  
+Stand: A group of trees on a minimum of 1 acre of forest land that is stocked by forest trees of any size.  
+State land: An ownership class of public lands owned by States or lands leased by States for more than 50 years.  
+Timberland: Forest land that is producing or is capable of producing crops of industrial wood and not withdrawn 
+from timber utilization by statute or administrative regulation.  (Note: Areas qualifying as timberland are capable of 
+producing in excess of 20 cubic feet per acre per year of industrial wood in natural stands.  Currently inaccessible 
+and inoperable areas are included.)   
+Timber products output (TPO): All timber products cut from roundwood and byproducts of wood manufacturing 
+plants.  Roundwood products include logs, bolts, or other round sections cut from growing-stock trees, cull trees, 
+salvable dead trees, trees on nonforest land, noncommercial species, sapling-size trees, and limbwood.  Byproducts 
+from primary manufacturing plants include slabs, edging, trimmings, miscuts, sawdust, shavings, veneer cores and 
+clippings, and screenings of pulpmills that are used as pulpwood chips or other products. 
+Tree: A woody perennial plant, typically large, with a single well-defined stem carrying a more or less definite crown; 
+sometimes defined as attaining a minimum diameter of 3 inches (7.6) and a minimum height of 15 ft (4.6 m) at 
+maturity. For FIA, any plant on the tree list in the current field manual is measured as a tree. 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+86 
+Drax – August 2019 
+Tree size class: A classification of trees based on diameter at breast height, including sawtimber trees, poletimber 
+trees, saplings, and seedlings. 
+Urban forest land: Land that would otherwise meet the criteria for timberland but is in an urban-suburban area 
+surrounded by commercial, industrial, or residential development and not likely to be managed for the production 
+of industrial wood products on a continuing basis.  Wood removed would be for land clearing, fuelwood, or esthetic 
+purposes.  Such forest land may be associated with industrial, commercial, residential subdivision, industrial parks, 
+golf course perimeters, airport buffer strips, and public urban parks that qualify as forest land.  
+Veneer log: A roundwood product from which veneer is sliced or sawn and that usually meets certain standards of 
+minimum diameter and length and maximum defect.  
+Weight: The weight of wood and bark, oven-dry basis (approximately 12 percent moisture content).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  M  I  T  E     B  I  O  E  N  E  R  G  Y     C  A  T  C  H  M  E  N  T     A  R  E  A     A  N  A  L  Y  S  I  S 
+Hood Consulting 
+87 
+Drax – August 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hood Consulting 
+3100 Old Canton Road, Suite 200 
+Jackson, MS 39216 
+1-601-540-8602 
+hbhood@hoodconsultingllc.com 
+ 
+ 

@@ -1,0 +1,3267 @@
+Chapter 9
+Water Quality and Resources
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-1 
+ 
+CONTENTS 
+9. 
+Water Quality and Resources ............................................................................ 3 
+9.1 Introduction ............................................................................................... 3 
+9.2 Changes since the 2014 PEIR .................................................................. 3 
+9.3 Legislation, policy and guidance................................................................ 4 
+9.4 Methodology .............................................................................................. 9 
+9.5 Baseline Environment ............................................................................. 23 
+9.6 Embedded Mitigation ............................................................................... 35 
+9.7 Assessment of Effects ............................................................................. 35 
+9.8 Water Framework Directive Assessment ................................................. 47 
+9.9 Mitigation and Monitoring ........................................................................ 48 
+9.10 Residual Effects ...................................................................................... 48 
+9.11 Cumulative Effects .................................................................................. 54 
+9.12 References .............................................................................................. 54 
+ 
+TABLES 
+Table 9-1: Summary of changes since the 2014 PEIR to the water quality and resources 
+assessment ................................................................................................................ 4 
+Table 9-2: Summary of consultation responses that have informed the scope and 
+methodology of the water quality and resources assessment ................................... 11 
+Table 9-3: Determining Water Receptor Sensitivity and Value ................................. 19 
+Table 9-4: Determining the Magnitude of Impact on Water Receptors within the Study Area
+ ................................................................................................................................. 22 
+Table 9-5: Classification of Effects ........................................................................... 23 
+Table 9-6: Surface water bodies WFD Cycle 2 status WFD status of Afon Llan, Afon Lliw 
+and Loughor Estuary ................................................................................................ 27 
+Table 9-7: Groundwater body WFD Cycle 2 status .................................................. 28 
+Table 9-8: Summary of Relevant Water Quality and Resources and Flood 
+Receptors/Features .................................................................................................. 32 
+Table 9-9: Water Quality and Resources – Overall Summary of Water Quality Effects and 
+Flooding Arising During Construction Phase ............................................................ 49 
+Table 9-10: Water Quality and Resources - Summary of Water Quality Effects and Flooding 
+Arising During Operation Phase ............................................................................... 52 
+ 
+FIGURES 
+Figure 9.1: Surface Water Bodies 
+Figure  9.2: Environmental Receptors 
+Figure  9.3: Bedrock Geology 
+Figure  9.4: Superficial Geology 
+Figure 9.5: Groundwater Bodies 
+Figure 9.6: Potential Pollution Sources 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-2 
+ 
+APPENDICES 
+Appendix 9.1: Flood Consequence Assessment  
+Appendix 9.2: Water Framework Directive Screening Assessment  
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-3 
+ 
+9. 
+Water Quality and Resources 
+9.1 
+Introduction 
+9.1.1 
+This chapter provides an assessment of the likely significant effects on water 
+quality, water resources and flood risk arising from construction, operation and 
+decommissioning of the Project. 
+9.1.2 
+A detailed description of the Project Site and the Project is provided in Chapter 3: 
+Project and Site Description.  A glossary of terms and list of abbreviations used in 
+this chapter is provided at the start of this PEIR.  This chapter is supported by the 
+assessment demonstrated in Appendix 9.1: Flood Consequence Assessment 
+(FCA), and a Water Framework Directive (WFD) Screening Assessment provided in 
+Appendix 9.2. Both the FCA and WFD Screening Assessment should be read 
+alongside this chapter. Assessments of likely significant effects on hydrogeology 
+are presented in Chapter 10: Geology, Ground Conditions and Hydrogeology.  
+a) Objectives of the assessment 
+9.1.3 
+The objectives of the assessment were to: 
+ Assess the activities to be carried out and their associated potential impacts 
+likely to arise throughout the different phases of the Project which pose a risk to 
+all water environmental receptors within the Project Site and surroundings; 
+ To provide any additional mitigation as required to prevent, reduce and offset 
+any significant adverse effects to water quality and resources likely to be 
+affected by the Project;  
+ Detail the residual effects after implementation of the mitigation; 
+ Detail cumulative effects of the Project and nearby projects. 
+ To ensure the Project complies with all local, national and international 
+regulatory and legislative requirements. 
+ To address the issues and concerns raised in the Scoping Opinion (Appendix 
+4.2) by the SoS in relation to Water Quality and Resources following an initial 
+consultation in 2014. 
+9.2 
+Changes since the 2014 PEIR 
+9.2.1 
+There have been changes to the Project design as a result of design evolution and 
+consultation as detailed in Chapter 3: Project and Site Description. To aid the 
+reader, Table 9-1 below outlines the changes to this assessment compared with the 
+2014 PEIR. 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-4 
+ 
+Table 9-1: Summary of changes since the 2014 PEIR to the water quality and resources assessment 
+Section 
+Changes since the 2014 PEIR 
+Section Reference 
+Legislation 
+and Policy 
+ 
+Regulation 
+amendment 
+- 
+The 
+Water 
+Environment (Water Framework Directive) 
+(England 
+and 
+Wales) 
+(Amendment) 
+Regulations 2016 which came into force from 3 
+March 2016. 
+Section 9.3.6 
+ 
+Introduction of new regulation - The Water 
+Pollution Prevention - Oil Storage Standards 
+(Water Resources (Control of Pollution) (Oil 
+Storage) (Wales) Regulations 2016 
+Section 9.3.27 
+Baseline 
+Additional baseline data has become available 
+since the 2014 PEIR was prepared. 
+Updated baseline data for 
+2014, 2015 and 2016 are 
+presented in Section 9.5 
+Updated baseline data for private groundwater 
+supply boreholes 
+WFD 
+Screening 
+Assessment (Appendix 9.2) 
+Project 
+Design 
+Water supply option to the Project has been 
+revised. Water will be delivered via tanker. 
+Chapter 3: Project Site 
+and Description 
+Drainage strategy has been revised to suit the 
+new design 
+Chapter 3: Project Site 
+and 
+Description 
+& 
+Appendix E in Appendix 9.1  
+- Outline Drainage Strategy 
+Embedded designs to mitigate potential, water 
+quality and flood risk impacts 
+Chapter 3: Project and 
+Site 
+Description 
+& 
+Appendix E in Appendix 9.1  
+- Outline Drainage Strategy 
+Removal of all operational waste water from 
+the Project Site 
+Chapter 3: Project Site 
+and 
+Description 
+& 
+Appendix E in Appendix 9.1  
+- Outline Drainage Strategy 
+Following new Climate Change Allowances in 
+2016 - climate change allowances agreed to 
+be 1% AEP + 20% for the attenuation volume 
+calculations  
+Section 9.7 
+Significance 
+of Effect 
+Update of new receptors, update to existing 
+operational  / planned  / approved projects for 
+the potential cumulative impact in Section 9.11 
+Summary of Receptors in 
+Table 9-8 and Cumulative 
+Effects are Section 9-11  
+9.3 
+Legislation, policy and guidance 
+9.3.1 
+This section identifies and describes legislation, policy and guidance of relevance 
+to the assessment of the potential water quality, water resources and flood risk 
+impacts associated with the Project. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-5 
+ 
+9.3.2 
+Legislation and policy has been considered on an international, national, regional 
+and local level. The following is considered to be relevant to the water quality, water 
+resources and flood risk assessment as it has influenced the sensitivity of receptors 
+and requirements for mitigation or the scope and/or methodology of the 
+Environmental Impact Assessment (EIA). 
+a) International 
+i. 
+Water Framework Directive (WFD) (2000/60/EC) (European Union, 2000) 
+9.3.3 
+The Water Framework Directive (WFD) (2000/60/EC) together with its two daughter 
+directives, being the Groundwater Directive (GWD) (2006/118/EC) and the Priority 
+Substances Directive (2008/105/EC), and the EC Floods Directive (2007/60/EC) 
+set out by the European Union are key international legislations that affect the 
+Project within the context of water quality and resources. These directives together 
+provide consensus measures on which surface water and groundwater bodies are 
+protected. 
+9.3.4 
+The WFD also establishes a legal framework to protect and restore clean water 
+status (i.e. “good” in terms of ecological and chemical quality and water quantity, as 
+appropriate) across Europe and to ensure its long-term, sustainable use. The WFD 
+(Directive 2000/60/EC) is a significant piece of EU water legislation, with the 
+overarching objective of enabling all water bodies in Europe to attain ‘Good’ or 
+‘High’ ecological status by 2015.   
+9.3.5 
+The WFD directive establishes an innovative approach for water management 
+based on river basins, the natural geographical and hydrological units and sets 
+specific deadlines for Member States to protect aquatic ecosystems. The Directive 
+addresses inland surface waters, transitional waters, coastal waters and 
+groundwater. It establishes several principles for water management, including 
+public participation in planning and the integration of economic approaches, 
+including the recovery of the cost of water services. 
+9.3.6 
+The WFD is implemented in England and Wales by “The Water Environment (Water 
+Framework Directive) (England and Wales) Regulations 2017”. The Natural 
+Resources Wales (NRW) is the competent authority in Wales responsible for 
+delivering the objectives of the WFD. River Basin Management Plans (RBMP) 
+specifically set out measures to ensure that water bodies in Wales achieve ‘Good’ 
+ecological status. 
+b) National 
+9.3.7 
+The national legislations relevant to the Project in terms of water quality and water 
+resources are summarised below: 
+i. 
+The Water Environment (Water Framework Directive) (England and Wales)  
+Regulations 2017 
+9.3.8 
+The Water Framework Directive requires that Member States continue to provide 
+shellfish water protected areas with at least the same protection as under the 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-6 
+ 
+repealed Shellfish Waters Directive. The Water Environment (Water Framework 
+Directive) (England and Wales) Regulations 2017 were laid before the National 
+Assembly for Wales on 16 March 2017. The regulations came into force from 10 
+April 2017. 
+9.3.9 
+The Regulations ensure that objectives are set for improving or protecting the water 
+quality of shellfish waters and that these are monitored. Information about these 
+areas must also be included in the river basin management plans. 
+9.3.10 The content of the list of shellfish water protected areas in Wales has not changed 
+since 2013. 
+ii. Flood and Water Management Act 2010 
+9.3.11 The Act designates CCS as the Lead Local Flood Authority (LLFA), with the 
+responsibility to lead and co-ordinate local flood risk management in the area. It 
+also requires a Sustainable Urban Drainage System (SuDS) Approving Body (SAB) 
+to be established within the LLFA. This responsibility to promote, approve and 
+adopt sustainable drainage systems in new and re-developments can be delegated 
+but the legal responsibility for drainage remains with CCS as the LLFA. SAB must 
+approve drainage systems for the new and re-developed site in their area before 
+construction can begin. The proposed drainage system must also meet National 
+Standards for Sustainable Drainage (Ref. 9-7).  
+iii. Flood Risk Regulations 2009 
+9.3.12 The Flood Risk Regulations require NRW and LLFA to produce a Preliminary Flood 
+Risk Assessment, Flood Hazard Maps, Flood Risk Maps and Flood Risk 
+Management Plans for any areas at significant risk.  
+iv. Environmental Permitting (England and Wales) Regulations 2016 
+9.3.13 The Permitting regulations require operators to obtain permits for some facilities 
+regarding water resources.  The permits are granted by NRW, who control 
+permitting water discharge and groundwater activities.  The 2016 update requires 
+permits to be obtained for flood risk activities, including work on or near a main river 
+and in a flood plain. 
+v. Well-being of Future Generations (Wales) Act 2015 ) 
+9.3.14 The Act requires public bodies to undertake their duties and decision making in a 
+sustainable way to help secure Wales’ long term well-being, so that it benefits from 
+a prosperous economy, a healthy and resilient environment and vibrant, cohesive 
+communities.  The Act includes the requirement for decision making to take 
+account of long term implications, such as climate change.  
+vi. Environment (Wales) Act 2016 
+9.3.15 The Act aims to enable Wales’ natural resources to be managed in a more 
+proactive, sustainable and joined up way and to help tackle climate change. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-7 
+ 
+c) National Policy 
+i. 
+Overarching National Policy Statement for Energy (NPS EN – 1) 
+9.3.16 According to the policy, an assessment of the existing baseline conditions 
+regarding water quality, water resources and physical characteristics of the water 
+environment is required where a proposed project is likely to have effects on the 
+water environment. 
+9.3.17 The NPS EN – 1 also sets the requirement for additional pollution control measures 
+that must be considered for all activities that discharge to the water environment 
+and recommends that the SoS gives increased weight in its decision making to 
+impacts on the water environment that would have an adverse effect on the 
+achievement of the objectives of the WFD. 
+ii. National Policy Statement for Gas Supply Infrastructure and Gas and Oil 
+Pipelines (NPS EN – 4)  
+9.3.18 The NPS EN-4 Part 2 Section 2.22.2 recognises that “constructing pipelines 
+creates corridors of surface clearance and excavation that can potentially affect 
+watercourses, aquifers, water abstraction and discharge points, areas prone to 
+flooding and ecological receptors. Pipeline impacts could include inadequate or 
+excessive drainage, interference with groundwater flow pathways, mobilisation of 
+contaminants already in the ground, the introduction of new pollutants, flooding, 
+disturbance to water ecology, pollution due to silt from construction / demolition and 
+disturbance to species and their habitats”. 
+9.3.19 The NPS EN-4 states that where the project is likely to have effects on water 
+resources or water quality, an assessment of the impacts should be provided in line 
+with Section 5.15 of EN-1. The SoS should be satisfied that the impacts on water 
+quality and resources are acceptable in accordance with Section 5.15 of EN-1. 
+iii. National Policy Statement for Electricity Networks Infrastructure (NPS EN-5)  
+9.3.20 NPS EN-5 requires consideration of adaption to climate change particularly from 
+the increased risk of flooding to the resilience of some of the sites infrastructure 
+and should be covered in the FCA.  
+iv. Planning Policy Wales (Welsh Government, 2016) 
+9.3.21 This is supplemented by TAN15 and incorporates sustainable development into the 
+planning system which can be adhered to.  It requires every local planning authority 
+to have produced a Local Development Plan (LDP) superseding the Unitary 
+Development Plan (UDP). 
+v. TAN15: Development and Flood Risk (Welsh Government, 2004)  
+9.3.22 Technical Advice Note 15 (TAN15) provides the framework for guiding planning 
+decisions to assess and manage flood risk impacts for new developments.  The 
+aim is to, for preference, direct new developments away from high risk of flooding 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-8 
+ 
+areas.  If using a high risk area is unavoidable, the development must be justified 
+on sustainability grounds and that the consequences of the flooding are acceptable.  
+9.3.23 The development advice maps (DAM) are the information considered most suitable 
+to determine flood risk zones and when flood risk issues must be taken into 
+consideration in planning future development in that area.  
+vi. Recommended non-statutory standards for sustainable drainage (SuDS) in 
+Wales (Welsh Government, 2017) 
+9.3.24 This SuDS approach aims at reducing the volume of water contaminated by 
+sewerage and needing to be pumped for treatment.  This would allow new 
+development to use the free capacity in the sewerage network to remove the need 
+to install new infrastructure and reducing the risk of flooding.  
+vii. Water Strategy for Wales (Welsh Government, 2015) 
+9.3.25 The Water Strategy aims to improve natural resource management of water 
+systems.  It aims to improve the resilience of the whole water systems and 
+therefore reduce costs to consumers and businesses, including water companies.  
+d) Regional 
+i. 
+Western Wales River Basin Management Plan (RBMP) (NRW, 2015) 
+9.3.26 The purpose of RBMP is to protect and improve the water environment in the 
+Western Wales River Basin District (RBD).  The plan includes; classification of 
+water bodies; summary of Programme of Measures to achieve statutory objectives 
+and statutory objectives for water bodies. 
+e) Local 
+i. 
+City and County of Swansea Council Local Development Plan (2017) 
+9.3.27 This adopts a sustainable approach to flood risk by avoiding vulnerable 
+development occurring within flood hazard areas.  Policy RP4 Avoidance of Flood 
+Risk states that development will not be permitted if it causes an increase to 
+flooding on or off site. 
+ii. City and County of Swansea Council Unitary Development Plan (2008) 
+9.3.28 Policy EV35: Surface water run-off, and Policy EV36: Development and Flood Risk, 
+are the relevant policies in CCS Unitary Development Plan. Policy EV35 affects 
+developments that will lead to additional surface water run-off or cause a reduction 
+of the quality of surface water run-off, and encourages SuDS implementation 
+wherever practical to counteract this. Policy EV36 only allows new development 
+within flood risk areas if developers can justify the location by proving the flooding 
+consequences associated with the development are acceptable. 
+ 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-9 
+ 
+iii. The City and County of Swansea Council Strategic Flood Consequence 
+Assessment (SFCA) Stage 2 (2012) 
+9.3.29 Stage 1 SFCA is a desk based study of flood risk, and Stage 2 is a more detailed 
+assessment of flood risks.  This determined that the main flood risk to the area is 
+from fluvial and tidal water sources, with surface water also occurring and 
+groundwater risk considered minimal. A Stage 3 SFCA was not required as Stage 1 
+and 2 satisfied the requirements of TAN15 for the potential development.  
+iv. The City and County of Swansea Flood Risk Management Plan (FRMP) (2015) 
+9.3.30 The FRMP contains the overview of the flood risk within the CCS area and the 
+objective to reduce flood risk in significant flood risk areas for six years to 2021.  
+The plan covers flooding from surface water, groundwater and ordinary 
+watercourse.  NRW are responsible for flooding from main rivers and reservoirs.  
+v. The City and County of Swansea Site Waste Management Plan (SWMP) 
+(2015) 
+9.3.31 The SWMP details how resources will be managed and how waste will be 
+minimised and reduced, re-used and recycled wherever possible.  This will include 
+guidelines such as to keep waste segregated as it’s generated to save time and 
+money. 
+vi. The City and County of Swansea Local Flood Risk Management Strategy 
+(LFRMS) (2013) 
+9.3.32 Under the LFRMS, flood risk from surface run-off, groundwater and ordinary 
+watercourses have been considered.  The LFRMS is the method through which the 
+LLFA leads and co-ordinates flood risk management on a day to day basis.  Local 
+strategies must include objectives and methods for managing local flood risk, as 
+well as timescales and cost of implementation.  
+9.4 
+Methodology 
+a) Scope of the assessment 
+9.4.1 
+The scope of this assessment has been determined through a formal EIA scoping 
+process undertaken with the SoS and subsequent consultation with key consultees, 
+including NRW and CCS. Comments raised on the EIA Scoping Report by NRW in 
+their letter dated 14 November 2014 have been taken into account in the 
+development of the assessment methodology and these are detailed where 
+relevant in this chapter. Responses to the comments raised in the EIA Scoping 
+Opinion, NRW and CCS can be found in Table 9-2. 
+i. 
+Water Quality 
+9.4.2 
+The scope of the water quality assessment has been undertaken in accordance 
+with the relevant applicable regulations as outlined in Section 9.3 above. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-10 
+ 
+9.4.3 
+The assessment consisted of a desk-based study to establish the baseline 
+conditions of the water environment within the Project Site and surroundings, 
+informed by the literature and 
+internet-based information sources and 
+supplemented by responses received via direct consultation with relevant 
+regulatory authorities and stakeholders. 
+9.4.4 
+The potential impacts on the water environment during the construction, operational 
+and decommissioning phases of the Project have been identified and assessed, 
+taking into account the embedded design mitigations as contained in Chapter 3: 
+Project and Site Description and the comments raised in the Scoping Opinion 
+Report by the SoS (Appendix 4.2). 
+ii. Flooding 
+9.4.5 
+Potential effects from the development have been assessed with reference to the 
+Highway Agency’s Design Manual for Roads and Bridges (DMRB, HD/45/09) in 
+relation to the water environment. Although primarily developed for the assessment 
+of water quality effects, the method can also be applied to drainage and flooding 
+effects and provides a robust and accepted method for assessing the significance 
+of effects 
+9.4.6 
+This chapter has also followed guidance set out in NPS EN-1 and TAN15: 
+Development and Flood Risk. Consultation with NRW, and with the LLFA has also 
+been undertaken for the preparation of the FCA, which has informed this 
+assessment, as noted in Section 9.4b.  The FCA (Appendix 9.1) supporting this 
+PEIR, considers the impact of the Project on flooding and drainage. 
+9.4.7 
+Sustainable disposal of surface water through SuDS design has been proposed 
+wherever possible. 
+9.4.8 
+Appropriate methods for the construction of the Gas Connection and Electrical 
+Connection at water crossings to prevent adverse effects on drainage and flooding 
+have been considered.  
+b) Consultation 
+9.4.9 
+The scope of the assessment has also been informed by ongoing consultation with 
+statutory consultees throughout the design and assessment process, including past 
+and recent email communications with the SoS, and a meeting with NRW and 
+CCS. A summary of the comments raised and responses are detailed in Table 9-2. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-11 
+ 
+Table 9-2: Summary of consultation responses that have informed the scope and methodology of the water quality and resources assessment 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+Secretary of 
+State (SoS) 
+(Scoping 
+Opinion, 
+para 2.45) 
+August 
+2014 
+The Scoping Report did not detail whether any areas of 
+the site are at risk from flooding. EA data indicates that 
+an area to the south west of the application site is 
+within EA Flood Zones 2/3. The SoS notes that the ES 
+is to contain an FCA. This document should include a 
+description of which areas of the site are at risk from 
+flooding and the exact locations of all watercourses on 
+site, including springs, streams and drainage ditches.  
+The sites at risk from flooding and the locations 
+of watercourses on site are addressed in full 
+within Section 6 and Appendix D of the FCA 
+(Appendix 9.1)  
+SoS 
+(Scoping 
+Opinion, 
+para 3.11) 
+August 
+2014 
+The SoS agrees to the proposal to scope out WFD 
+Screening Assessment subject to the agreement of 
+NRW  
+WFD 
+Screening 
+Assessment 
+has 
+been 
+completed (Appendix 9.2) 
+SoS 
+(Scoping 
+Opinion, 
+para 3.45) 
+August 
+2014 
+The SoS notes the comments of NRW that the 
+assessment should include consideration of surface 
+water drainage impacts and options for improving site 
+surface water drainage to prevent localised flooding 
+during extreme rainfall events.  
+The prevention of localised flooding during 
+extreme rainfall events is addressed in full within 
+the FCA (Appendix 9.1) which also considers the 
+Outline Drainage strategy (Appendix E of FCA). 
+SoS 
+(Scoping 
+Opinion, 
+para 3.46) 
+August 
+2014 
+The SoS recommends that the applicant considers 
+temporary attenuation ponds to allow adequate 
+settlement of site generated run-off during the 
+construction and decommissioning phases of the 
+development. 
+The SoS draws the attention of the applicant to NRW’s 
+comments that silt fencing, scour protection and 
+sediments alone have been proven ineffective in this 
+catchment due to its flashy nature.  
+The settlement of site generated run-off is 
+addressed in the Outline Drainage Strategy 
+(Appendix E of FCA provided in Appendix 9.1) 
+and within Sections 9.6 and 9.7 of this chapter 
+and included in the construction environmental 
+management plan (Outline CEMP) in Appendix 
+3.1. 
+SoS  
+(Scoping 
+August 
+2014 
+The SoS recommends that the applicant ensures that it 
+can be demonstrated that the surface water disposal 
+scheme would cause no harm to local watercourses 
+Assessment in the FCA (Appendix 9.1) and 
+Sections 9.6 and 9.7 of this report confirms there 
+will be no temporary or permanent significant 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-12 
+ 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+Opinion, 
+para 3.47) 
+upon discharge. 
+effects on local watercourses. The attenuation 
+ponds would allow for sampling to prove quality. 
+SoS 
+(Scoping 
+Opinion, 
+para 3.49) 
+August 
+2014 
+The SoS notes the concerns of NRW regarding how 
+sewage and waste waters would be managed at the 
+site, the SoS recommends that details of proposed 
+discharges are provided within the ES. 
+Included in Sections 9.7 and 9.8 of this chapter 
+and the Outline Drainage Strategy (Appendix E 
+of FCA provided in Appendix 9.1). The sewage 
+and waste waters will be discharged on site to 
+either a package sewage treatment plant or 
+septic tank.  
+SoS 
+(Scoping 
+Opinion, 
+para 3.53) 
+August 
+2014 
+The SoS notes that NRW would set limits on the 
+quantity of water that is discharged from the Power 
+Generation Plant under an Environmental Permit.  
+The limits on the quantity of water that is 
+discharged is discussed in the FCA in Appendix 
+9.1 and Sections 9.6 and 9.7 of this chapter. 
+SoS 
+(Scoping 
+Opinion, 
+para 3.54) 
+August 
+2014 
+The SoS notes the concerns of NRW regarding cooling 
+water, it should be stated within the ES whether any 
+cooling water would be required and if so where it 
+would be derived from and discharged to.  
+Based on the Project’s Design Concept (Ref. 9 – 
+22), water cooling is not required. Domestic and 
+demineralised water will be delivered to site via 
+tanker. No discharge of process water to nearby 
+water receptors is envisaged as all process 
+water will be taken off-site via tanker to 
+appropriate wastewater treatment facility by 
+specialist contractors. 
+SoS 
+(Scoping 
+Opinion, 
+para 3.55) 
+August 
+2014 
+The SoS notes the concern of Dwr Cymru (Welsh 
+Water) 
+regarding 
+the 
+potential 
+impact 
+of 
+the 
+development on water quality within the Lower Lliw 
+Reservoir. It is recommended that the applicant 
+assesses potential impacts on the reservoir including 
+potential impacts from deposition and affected rainfall.  
+The potential impacts on the reservoir has been 
+assessed in Section 9.6 of this chapter.  
+SoS 
+(Scoping 
+Opinion, 
+August 
+2014 
+The SoS recommends that the applicant consults Dwr 
+Cymru (Welsh Water) regarding the 48” strategic water 
+main that crosses the application site.  
+The Water Main has been considered in the 
+indicative site layout plans (Figure, C1, Appendix 
+C of FCA provided in Appendix 9.1) and through 
+ongoing consultation with Dwr Cymru (Welsh 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-13 
+ 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+para 3.56) 
+Water).  
+SoS 
+(Scoping 
+Opinion, 
+para 3.56) 
+August 
+2014 
+The SoS comments regarding a potential Landfill at the 
+Project Site which may lead to re-mobilisation of 
+contaminated material 
+Landfill leading to remobilisation of contaminated 
+material has been considered in the embedded 
+mitigation (Section 9.6) and will be considered 
+further in the Outline CEMP (Appendix 3.1) for 
+the Project. 
+SoS 
+(Scoping 
+Opinion, 
+para 3.45) 
+August 
+2014 
+The SoS comments regarding localised flooding of the 
+Project Site. 
+Localised flooding has been considered in the 
+embedded mitigation (Chapter 3: Project and 
+Site Description), the revised Outline Drainage 
+Strategy and discussed in the FCA in Appendix 
+9.1 
+NRW 
+(Annex 1 
+Para E1.7) 
+14 
+November 
+2014 
+NRW 
+raised 
+comments 
+regarding 
+any 
+process 
+wastewater composition (i.e. including the chemical 
+composition and temperature) to be generated at the 
+Project Site and the potential impacts on receiving 
+water receptor(s) 
+Wastewater to be generated from the Project 
+Site has been considered in the embedded 
+mitigation 
+(Chapter 
+3: 
+Project 
+and 
+Site 
+Description). No discharge of process water to 
+nearby water receptors is planned as all process 
+wastewater will be taken off-site via tanker to an 
+appropriate wastewater treatment facility by 
+specialist contractors. 
+NRW 
+(para 6 page 
+6 
+14 
+November 
+2014 
+NRW requested that the exact location of ordinary 
+water courses within the Project Site be identified and 
+assessed for any potential impacts. 
+The location of ordinary water courses and any 
+potential impacts has been considered in the in 
+the embedded mitigation (Chapter 3: Project 
+and Site Description) the revised Outline 
+Drainage Strategy (Appendix E of FCA provided 
+in Appendix 9.1) and discussed in the FCA in 
+Appendix 9.1 and the WFD assessment 
+NRW 
+14 
+November 
+2014 
+NRW 
+raised 
+concerns 
+regarding 
+contaminated 
+excavation 
+material 
+and 
+hazardous 
+wastes 
+management 
+Contaminated material and hazardous wastes 
+management has been considered in the 
+embedded mitigation (Chapter 3: Project and 
+Site Description) and will be considered further 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-14 
+ 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+in the Outline CEMP for the Project. 
+NRW 
+14 
+November 
+2014 
+NRW concerns regarding the Peat Management Plan 
+The Peat Management Plan has been proposed 
+in the embedded mitigation (Chapter 3: Project 
+and Site Description) and will be considered 
+further in the Outline CEMP for the Project 
+NRW  
+14 
+November 
+2014 
+NRW concerns regarding flood risk, water quality and 
+resources – potential impacts on ordinary water 
+courses crossing the Project Site and running adjacent 
+to the Main River Llan  
+The impact on ordinary water courses has been 
+considered in the in the embedded mitigation 
+(Chapter 3: Project and Site Description), the 
+revised Outline Drainage Strategy (Appendix E 
+of FCA provided in Appendix 9.1) and discussed 
+in the FCA in Appendix 9.1 and the WFD 
+Screening Assessment (Appendix 9.2) 
+Prior consent will be sort from NRW for any 
+works likely to affect the Main River (i.e. within 7 
+m from the Main River Llan) 
+NRW  
+14 
+November 
+2014 
+NRW concerns regarding water quality and sediment 
+loading on the Llan and other watercourses in proximity 
+with the Project site 
+Water quality and sediment loading has been 
+considered in the embedded mitigation (Chapter 
+3: Project and Site Description). 
+NRW  
+14 
+November 
+2014 
+NRW concerns regarding temperature and chemical 
+composition of cooling/process waters to be discharge 
+to watercourses 
+Concerns regarding temperature has been 
+considered in the embedded mitigation (Chapter 
+3: Project and Site Description). 
+NRW 
+14 
+November 
+2014 
+NRW request for a WFD Screening Assessment be 
+undertaken 
+This has been addressed by the completion of a 
+WFD Screening Assessment as provided in 
+Appendix 9.2 
+NRW 
+14 
+November 
+2014 
+NRW 
+concerns 
+regarding 
+potential 
+impacts 
+on 
+groundwater from past mineworks/mine adit as a result 
+of construction activities 
+The 
+impacts 
+on 
+groundwater 
+from 
+past 
+mineworks 
+has 
+been 
+considered 
+in 
+the 
+embedded mitigation (Chapter 3: Project and 
+Site Description) and will be considered further 
+in the Outline CEMP for the Project 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-15 
+ 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+NRW 
+14 
+November 
+2014 
+NRW concerns regarding the sediment filled effluent 
+water discharge to surface and groundwater 
+The concerns regarding sediment filled effluent 
+water discharge has been considered in in the 
+embedded mitigation (Chapter 3: Project and 
+Site Description) and will be considered further 
+in the Outline CEMP for the Project 
+NRW 
+14 
+November 
+2014 
+NRW 
+concerns 
+regarding 
+potential 
+Groundwater/Surface water abstraction – requirement 
+for EPR Permit if water used for dust control is to be 
+sourced from the Project Site 
+The 
+potential 
+Groundwater/Surface 
+water 
+abstraction has been considered in the in the 
+embedded mitigation (Chapter 3: Project and 
+Site Description) and will be considered further 
+in the Outline CEMP for the Project 
+NRW 
+14 
+November 
+2014 
+NRW 
+concerns 
+regarding 
+dewatering 
+during 
+construction and the associated potential impacts on 
+the water environment – required for EPR permit 
+Dewatering has been considered in the in the 
+embedded mitigation (Chapter 3: Project and 
+Site Description) and will be considered further 
+in the Outline CEMP for the Project 
+NRW 
+14 
+November 
+2014 
+NRW concerns regarding the potential landfill at the 
+Project Site – requirement for the Scope of a 
+Contaminated Land Risk Assessment be discussed 
+with the Local Authority. 
+The potential landfill has been considered in the 
+in the embedded mitigation (Chapter 3: Project 
+and Site Description) and will be considered 
+further in the Outline CEMP for the Project 
+NRW 
+14 
+November 
+2014 
+NRW concerns regarding the need for a cumulative 
+assessment be done in relation to other planned and 
+existing projects 
+The need for cumulative assessment has been 
+considered in the in the embedded mitigation 
+(Chapter 3: Project and Site Description) and 
+will be considered further in the Outline CEMP 
+for the Project 
+CCS  
+12 October 
+2017 
+Identified approach for analysing flood risk from 
+ordinary watercourses on site based upon a desk 
+based study rather than a modelling approach. 
+Volumes and flows at key locations can be calculated 
+based upon the latest hydrological methods. Climate 
+Change Allowances were agreed to be 1% AEP +20% 
+for the attenuation volume calculations on site. Short 
+This comment regarding analysing flood risk is 
+addressed in full within the FCA (Appendix 9.1) 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-16 
+ 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+length 
+culvert 
+beneath 
+the 
+proposed 
+road 
+is 
+acceptable. 7 m easement should be adhered to for 
+ordinary watercourses.    
+NRW 
+18 October 
+2017 
+Flood data provided 
+Information regarding flood data is used to 
+complete the FCA (Appendix 9.1) 
+NRW 
+19 October 
+2017 
+Confirmation that NRW have a 1D HEC-RAS model for 
+Afon Llan to the south of the Project Site.  
+NRW have advised that this model is not suitable 
+for use within an FCA so has not been included 
+NRW 
+7 
+November 
+2017 
+NRW will only comment on development within Flood 
+Zone C, and are happy with the assessment approach 
+providing there is no land raising or development within 
+the C2 Flood Outline.  
+NRW do not consider an FCA required for their 
+remit as the development proposal does not fall 
+within flood zones C1 and C2. Blockage 
+scenarios will fall under the CCS remit. 
+NRW 
+7 
+November 
+2017 
+Response by NRW to proposed methodology/approach 
+to be adopted for the WFD assessment. 
+Provision of baseline data for WFD water bodies  
+In accordance with the methodology agreed with 
+NRW, a preliminary WFD assessment has been 
+prepared to assess compliance. 
+NRW 
+09 October 
+2017 
+Data provided by the NRW data distribution team 
+Data has been used to inform the WFD 
+assessment 
+CCS 
+09 October 
+2017 
+Data provided by the CCS Environment team  
+Data has been used to inform the WFD 
+assessment 
+CCS 
+13 
+November 
+2017 
+Provided and confirmed opinions on findings from site 
+visit. Key points include given the size of the local 
+watercourses and steep catchment, there is low risk of 
+flooding from ordinary watercourses. Diversion of the 
+ordinary watercourse through Generating Equipment 
+Site is acceptable because the size of the water course 
+is small. CCS agrees with views in principle. 
+Agreed points from site visit. Land Drainage 
+Consent is required for any field drains diversion. 
+CCS 
+27 
+November 
+2017 
+Discussion and agreement of approach to assessing 
+the flood risk from ordinary watercourse. CCS 
+understands the limitations of the UFMfSW and 
+accepts that the flood risk to the site is likely to be more 
+This comment is included for information within 
+the FCA (Appendix 9.1) 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-17 
+ 
+Consultee 
+Date 
+Comment 
+AECOM Response 
+from overland flow than fluvial sources. Therefore 
+maintenance of flow routes is important to reduce this 
+flood risk and any downstream impacts. The overland 
+flow path on the eastern boundary of the Generating 
+Equipment Site should be kept clear and formalised to 
+encourage water to flow downslope, away from the 
+development and nearby Solar Farm and towards the 
+ecological mitigation area to the south.  The 7 m 
+easement could be relaxed provided some access is 
+maintained. Overland flow routes should be formalised 
+along the eastern edge of the site and kept clear. 
+Easement of these routes is not necessary. 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-18 
+ 
+c) Study area 
+9.4.10 The study area adopted with respect to the water quality and water resources 
+extends beyond the Project Site boundary as provided in Figure 9.1. The study 
+area therefore includes the area within the Project Site boundary and a potential 
+zone of influence (ZoI) which is defined as a distance over which significant effects 
+on important water receptors/features can reasonably have the potential to occur. 
+In this case, from the perspective of water receptors/features, this is defined as a 
+1 km buffer zone of influence (ZoI) around the Project Site boundary (Figure 1.1 of 
+Appendix 9.2). 
+9.4.11 The 1 km buffer ZoI has been determined considering a number of factors, 
+including the number of water receptors likely to be affected by the Project, taking 
+into account the nature of the Project, adopted assessment methodology as 
+described in Chapter 4: Approach to Environmental Impact Assessment, the 
+embedded design mitigation measures, the Outline CEMP, outline drainage 
+strategy (Appendix E in Appendix 9.1) and the proximity of each identified receptor 
+to the Project Site.  
+d) Sensitivity and value of resources 
+9.4.12 The sensitivity of each water feature/receptor identified with respect to the water 
+quality and water resources within the study area has been determined by the 
+importance of the affected features/receptors in the study area. 
+9.4.13 A list of the main water features/receptors identified and considered within the study 
+area is given below. The list takes into account the site’s characteristics, 
+background project documents, relevant reference documents and professional 
+judgement. 
+ WFD classified water bodies ('Main Rivers'); 
+ Ordinary water bodies including springs, ponds, reservoirs, lakes and rivulets; 
+ Groundwater bodies and aquifer(s); 
+ Licensed groundwater and surface water abstractions; 
+ Flood risk zones; and 
+ Water dependent conservation areas and other key environmental receptors 
+such as sites of importance for nature conservation (SINC), ancient 
+Woodlands, SSSI (Figure 9.2). 
+9.4.14 The criteria used in assessing the value and sensitivity of key water 
+features/receptors within the study area are set out in Table 9-3. 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-19 
+ 
+ 
+Table 9-3: Determining Water Receptor Sensitivity and Value 
+Value/ 
+sensitivity 
+Guidelines 
+ Relevant Examples Used to Assess Sensitivity 
+Very High 
+The receptor has little or no 
+ability 
+to 
+absorb 
+change 
+without fundamentally altering 
+its present character, is of very 
+high environmental value, or of 
+international importance. 
+Attribute has high quality and 
+rarity on regional or national 
+scale. 
+Water body of very good chemical or biological quality, i.e. Water Framework 
+Directive (WFD) Class ‘High’. Site protected/designed under EU or UK habitat 
+legislation (Special Areas of Conservation (SAC), Special Protection Area (SPA), 
+Site of Special Scientific Interests (SSSI), Water Protection Zone (WPZ), Ramsar 
+site, species protected by EU legislation.). EC designated Salmonid fishery. 
+Principal aquifer providing a regionally important groundwater resource or 
+supporting a site protected under EC and UK habitat legislation. Source Protection 
+Zone (SPZ) 1. A source used for public or local potable water supply. 
+Water body of high amenity value, including areas of bathing and where water 
+immersion sports are regularly practised.  
+Floodplain or defence protecting >100 residential properties from flooding. 
+Areas which include essential infrastructure or must be operational during a flood, 
+including emergency services. 
+Development Advice Map Zone C2 (Areas of the floodplain without significant flood 
+defence infrastructure.) 
+High 
+The receptor has low ability to 
+absorb 
+change 
+without 
+fundamentally 
+altering 
+its 
+present character, is of high 
+environmental value, or of 
+national importance. 
+Attribute has a high quality and 
+rarity on local scale. 
+Water body of good chemical and biological quality, i.e. WFD Class ‘Good’. 
+Species protected under UK legislation. EC designated Cyprinid fishery. Principal 
+aquifer providing locally important resource or supporting river ecosystem. SPZ 2 
+or 3. A source used for non-potable water supply. Water body of a moderate 
+amenity value including public parks, boating, non-contact water sports, popular 
+footpaths adjacent to watercourses, or watercourses running through housing 
+developments/town centres.  
+Floodplain or defence protecting between 1 and 100 properties or industrial 
+premises from flooding. 
+Areas which are highly vulnerable to flooding, including power stations, residential 
+units, educational facilities and waste management sites. 
+Development Advice Map Zone C1 (Areas of the floodplain which are developed 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-20 
+ 
+Value/ 
+sensitivity 
+Guidelines 
+ Relevant Examples Used to Assess Sensitivity 
+and served by significant infrastructure, including flood defences). 
+High risk of surface water flooding (chance of flooding of greater than 1 in 30 (3.3% 
+AEP)). 
+Medium 
+The receptor has moderate 
+capacity to absorb change 
+without significantly altering its 
+present character, has some 
+environmental value, or is of 
+regional importance. 
+Attribute has a medium quality 
+and rarity on local scale. 
+Water body of fair chemical or biological quality, i.e. WFD Class ‘Moderate’. Aquifer 
+providing water for agricultural or industrial use with limited connection to surface 
+water. Water body of particular local social/cultural/educational interest. Water 
+body of low amenity value with only casual access, e.g. along a road or bridge in a 
+rural area. 
+Floodplain or defences protecting <10 industrial properties from flooding. 
+Areas which are less vulnerable to flooding, including retail, commercial, general 
+industry, transport and utilities infrastructure. 
+Development Advice Map Zone C (Based on Environment Agency extreme flood 
+outline, equal to or greater than 0.1% AEP (river, tidal or coastal). 
+Medium risk of surface water flooding (chance of flooding between 1 in 100 (1% 
+AEP) and 1 in 30 (3.3% AEP)). 
+Low 
+The receptor is tolerant of 
+change without detriment to its 
+character, 
+is 
+of 
+low 
+environmental value, or local 
+importance. 
+Attribute has a low quality and 
+rarity on local scale. 
+ 
+Water of poor or bad chemical or biological quality, i.e. WFD Class ‘Poor’. Low 
+sensitivity aquatic ecosystem. Non-Aquifer. Water body of no amenity value, 
+seldom used for amenity purposes, in a remote or inaccessible area. 
+Floodplains with low probability of flooding residential and industrial properties 
+Areas that are water tolerant, including flood control infrastructure, boatyards and 
+marinas. 
+Development Advice Map Zone B (Areas known to have been flooded in the past 
+evidenced by sedimentary deposits). 
+Low risk of surface water flooding (chance of flooding is between 1 in 1000 (0.1% 
+AEP) and 1 in 100 (1% AEP)). 
+Negligible 
+The receptor is resistant to 
+change 
+and 
+is 
+of 
+little 
+The receptor is resistant to change and is of little environmental value.  
+Very low risk of surface water flooding (chance of flooding is less than 1 in 1000 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-21 
+ 
+Value/ 
+sensitivity 
+Guidelines 
+ Relevant Examples Used to Assess Sensitivity 
+environmental value. 
+Attribute is of negligible quality 
+and rarity 
+(0.1% AEP). 
+Outside Development Advice Map flood risk zones. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-22 
+ 
+e) Magnitude of impact 
+9.4.15 The definitions of the magnitude of potential impact and examples are set out in 
+Table 9-4, based on HD/45/09 Table A4.4 (DMRB) and professional judgement 
+based on the vulnerability of the affected area. 
+Table 9-4: Determining the Magnitude of Impact on Water Receptors within the Study Area 
+Magnitude Guidelines 
+Relevant Examples Used to Assess 
+Magnitude 
+High 
+Total loss or major alteration to 
+key 
+elements/features 
+of 
+the 
+baseline conditions such that post 
+development 
+of 
+the 
+character/composition 
+of 
+the 
+baseline 
+conditions 
+will 
+be 
+fundamentally changed. 
+ 
+Results in loss of attribute and/or quality 
+and integrity of the attribute 
+Deterioration in element of WFD. 
+Increase in peak flood level (1% AEP) 
+>100 mm (Hydrological Assessment of 
+Design 
+Floods 
+and 
+Hydraulic 
+Assessment, Methods E and F, Annex I) 
+Increased 
+flood 
+risk 
+to 
+essential 
+infrastructure, 
+highly 
+vulnerable 
+developments 
+Medium 
+Loss or alteration to one or more 
+key 
+elements/features 
+of 
+the 
+baseline conditions such that post 
+development 
+of 
+the 
+character/composition 
+of 
+the 
+baseline 
+conditions 
+will 
+be 
+materially changed. 
+ 
+Results in effect on integrity of attribute, 
+or loss of part of attribute 
+Increase in peak flood level (1% AEP) 
+>50 mm. 
+Loss of flood storage and increased 
+flood 
+risk 
+to 
+less 
+vulnerable 
+developments 
+Low 
+Minor shift away from baseline 
+conditions. Changes arising from 
+the alteration will be detectable 
+but not material; the underlying 
+character/composition 
+of 
+the 
+baseline conditions will be similar 
+to the pre-development situation. 
+Results in some measurable change in 
+attributes quality of vulnerability 
+Loss of flood storage and increased 
+flood risk to water tolerant development 
+or impact which does not affect existing 
+or any possible future developments 
+Negligible 
+Very little change from baseline 
+conditions. 
+Change 
+is 
+barely 
+distinguishable, approximating to 
+a “no change” situation. 
+Results in effect on attribute, but of 
+insufficient magnitude to affect the use or 
+integrity 
+Negligible change in peak flood level 
+(1% AEP) <10 mm  
+Negligible change to flood risk / storage 
+ 
+ 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-23 
+ 
+f) 
+Significance of effect and definitions 
+9.4.16 The significance of the potential effects of the Project on the water environment is 
+defined by the sensitivity of and the magnitude of the impact on the 
+receptors/features within the study area. 
+9.4.17 Based on the receptor sensitivity and the magnitude of impact on the water 
+environment, the definition of the significance of effect on the water features 
+receptors are set out in Table 9-5. 
+Table 9-5: Classification of Effects 
+Magnitude 
+Value and Sensitivity of Receptor 
+Very High 
+High 
+Medium  
+Low 
+Negligible 
+High 
+Major 
+Major 
+Moderate 
+Moderate 
+Minor 
+Medium 
+Major 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Low 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Negligible 
+Negligible 
+Minor 
+Minor 
+Negligible 
+Negligible 
+Negligible 
+ 
+9.4.18 Following the classification of an effect as detailed in Table 9-5, a clear statement is 
+made as to whether the effect is ‘significant’ or ‘not significant’.  
+9.4.19 Effects predicted to be Minor or Negligible are considered to be manageable and 
+are therefore ‘Not Significant’ and effects assessed as Moderate or Major are 
+considered to be 'Significant'. 
+9.5 
+Baseline Environment 
+9.5.1 
+This section describes the baseline environmental characteristics for the Project 
+Site and surroundings with specific reference to the water quality and water 
+resources within the study area. 
+9.5.2 
+In order to assess the potential impacts and effects of the Project, the baseline 
+environmental conditions and relevant water features/receptors that currently exist 
+in the study area have been determined from a number of sources including the 
+following: 
+ Reports of the 2014 PEIR baseline study;  
+ British Geological Survey (BGS) 1:50,000 Series Geological Maps Sheet 247 
+Swansea (England and Wales); 
+ Information from Natural Resources Wales (NRW) website and consultation; 
+ Information from City Council of Swansea (CCS) website and consultation; 
+ Information from Ordnance Survey Map covering the study area; 
+ Report of the Western Wales River Basin Management Plan (RBMP) 
+ Relevant European Union (EU) legislation – Status report of WFD designated 
+water bodies identified within the study area;  
+ Observations made during a site visit on 8 November 2017; and 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-24 
+ 
+ Envirocheck report, Landmark (2017) (Appendix 10.1). 
+9.5.3 
+Taking into account the defined study area as described in Section 9.4(c), the value 
+and sensitivity of the main environmental receptors and resources identified within 
+the study area is summarised in Table 9-11 (water quality) and Table 9-12 (flood 
+risk and surface water drainage). 
+9.5.4 
+The criteria used in determining the sensitivity and value, significance of the 
+magnitude and effects impact on the water environment baseline conditions are set 
+out in Section 9.4 of this PEIR. 
+a) 
+Topography and land use 
+9.5.5 
+The topography of the study area is reasonably elevated and steeply sloping. 
+Ground levels across the Project Site vary from approximately 146 m AOD in the 
+north with ground levels at the Generating Equipment Site reaching an elevation of 
+about 90 m AOD before generally falling in a southerly and south easterly direction 
+to an elevation of approximately 80 m AOD along the Afon Llan River and its 
+tributaries.  Felindre Gas Compressor Station located immediately to the north of 
+the Access Road is constructed on raised ground at a level of approximately 87 m 
+AOD. This is approximately 5-8 m above the flood plain of the field drainage and 
+ordinary watercourse to the south of the Access Road, which drains to the Afon 
+Llan. 
+9.5.6 
+The land within the Project Site is currently used for sheep and horse grazing with 
+existing development consisting of farm buildings and access roads. The area 
+surrounding the Project Site is, at present, predominantly rural, although there is a 
+Felindre Park and Share to the south and a substantial amount of utility 
+infrastructure in the area, some of which cross the Project Site. There are a number 
+of solar farms in fields neighbouring the Site. Some springs and drainage 
+channels/ditches within the Project Site drain the land and discharge into the Afon 
+Llan River. The current land uses are considered “Less vulnerable” to flooding 
+according to the TAN15 classifications. 
+b) Ground conditions and hydrogeology 
+9.5.7 
+A full description of ground conditions and hydrogeology of the Project Site is 
+provided in Chapter 10: Geology, Ground Conditions and Hydrogeology. A 
+summary is provided here to understand the possible linkages with surface water 
+features and groundwater resources explicitly used for private groundwater supply 
+within the study area. 
+9.5.8 
+The British Geological Survey (BGS), online mapping data, provides details of both 
+the regional and local geology of the study area. The data indicates that the Project 
+Site is underlain by bedrock of the Grovesend Formation, comprising mudstone, 
+siltstone and sandstone (Figure 9.3). Superficial deposits across the Project Site 
+are quite variable. However, they primarily comprise till and glaciofluvial deposits 
+(sands and gravels) with a smaller area of peat, to the west of the north-western 
+corner of the Project Site (Figure 9.4). The thickness of the superficial deposits 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-25 
+ 
+beneath the Project Site is currently unknown. Groundwater occurs in both the 
+superficial and bedrock beneath the study area. 
+9.5.9 
+NRW has designated the bedrock geology beneath the Project Site and the study 
+area as a Secondary A aquifer with the superficial deposits designated a mixture of 
+Secondary A aquifer and unproductive strata. Secondary A aquifers are permeable 
+layers capable of supporting water supplies at a local rather than strategic scale 
+and, in some cases, can form a vital source of base flow to rivers. Unproductive 
+strata are rock layers or drift deposits with low permeability that have negligible 
+significance for water supply or river base flow. Soils in the study area are variable, 
+designated to have high, intermediate and low leachate potential. 
+9.5.10 Groundwater movement within the underlying geology is likely to be limited 
+considering the aquifer designations as discussed above. Although the Project Site 
+is elevated, shallow or perched groundwater within the superficial deposits is 
+expected to be reasonably close to the surface and in hydraulic connectivity with 
+the surface watercourses present within the Project Site and immediate 
+surroundings.  From the site visit in November 2017, it was noted that infiltration is 
+likely to be limited on the Generating Equipment Site where collections of surface 
+water and saturated ground were observed throughout the locality. The timing of 
+the visit did not follow a particularly wet period of weather. 
+9.5.11 The objectives of the WFD have been used to assess the groundwater quality in 
+the study area. The Carmarthen Carboniferous Coal Measures (Waterbody ID 
+GB41002G200600) and Swansea Carboniferous Coal Measures (Waterbody ID 
+GB410002G201000) are two WFD groundwater bodies within the study area 
+(Figure 9.5). Information on their status regarding water quality is available from 
+NRW Rivers and Waterbodies website (accessed October 2017). According to 
+NRW website, the current quantitative water quality for both the Carmarthen and 
+Swansea water bodies is good and predicted to remain so beyond 2015, based on 
+the most recent available data from 2015.  
+9.5.12 However, the overall 2015 Cycle 2 Status and current chemical quality for both 
+Carmarthen Carboniferous Coal Measures and Swansea Carboniferous Coal 
+Measures groundwater bodies are reported to be poor and are expected to remain 
+so beyond 2015. There are no identified designated groundwater SPZs or drinking 
+water Safeguard Zones with regards to agricultural activities within 1 km of the 
+Project Site. Furthermore, information on the status of the Carmarthen and 
+Swansea Carboniferous WFD groundwater bodies shows that they are not targeted 
+for improvement within the Western Wales River Basin Management Plan (RBMP). 
+9.5.13 The Landmark Envirocheck report (Appendix 10.1) has identified no groundwater 
+abstraction licences associated with the Project Site. The Landmark report 
+identified only one licence located within 100 m of the Project Site, recorded 56 m 
+to the north-east for a well at Abergelli Farm, licence number 22/59/4/0027 dated 
+February 1993, for general farming and domestic use. Recent (received on 9 
+October 2017) data on private groundwater and abstraction licences received from 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-26 
+ 
+CCS and NRW respectively did not identify this licence or any other licences within 
+the 4 km of the Project Site. . 
+c) Contaminated land 
+9.5.14 A detailed assessment of the potential for contaminated land is included in Chapter 
+10: Geology, Ground Conditions and Hydrogeology. A summary of the possible 
+risks to surface water features and the groundwater bodies and aquifer is provided 
+below. 
+9.5.15 No intrusive site investigation has been completed to inform this assessment. 
+However, as the majority of the Project Site is undeveloped, it is unlikely to have 
+experienced significant potentially contaminative activities. Figure 9.6 shows 
+current or historical potential pollution point/aerial sources within 1 km of the Project 
+Site. It also includes historic landfill and industrial land use activities that have a 
+higher potential for ground contamination such as the disused (inert) landfill site 
+located approximately 100 m west of the Gas Connection, a coal mine north of 
+Abergelli Farm and the Substation towards the south west of the Project Site. 
+9.5.16 The Project Site is overlying mine workings. An assessment of the workings, adits 
+and mine entries is discussed in Chapter 10: Geology, Ground Conditions and 
+Hydrogeology. A comprehensive ground investigation will be undertaken as part of 
+embedded mitigation, prior to construction, and will provide more detail of ground 
+conditions. 
+9.5.17 A mine spoil dump covered approximately three-quarters of the landfill area from 
+the former Abergelli Colliery (Figure 9.6). This mine waste largely was removed 
+leaving a layer of well compacted mine waste over the majority of the landfill area. 
+Part of the ground that was covered by mine spoil was formerly used for drying out 
+of water treatment sludge (aluminium sulphate) though this ceased when the landfill 
+became operational. No further information regarding potential impacts to the water 
+environment from this operation is known. 
+d) Surface water and groundwater features 
+9.5.18 There are both designated "ordinary" and "main" surface water bodies within the 
+study area (Figures B2 and B3, Appendix B of FCA provided in Appendix 9.1). 
+Within the Project Site, there are springs and spring-drainage rivulets and drainage 
+ditches that drain the Project Site into the Afon Llan River. The Afon Llan River and 
+its tributaries are the closest surface water features in the vicinity of the Project Site 
+considered in the assessment. The Afon Llan River catchment includes all of the 
+Project Site. The Loughor Estuary, alongside other ecological statutory designated 
+sites more distant from the Project Site downstream of the Project Site, are also 
+discussed. 
+9.5.19 There are three WFD classified surface water bodies (Figure 9.1) within the study 
+area: the Afon Llan (Water body ID GB110058032070 to the south of the Project 
+Site), the Afon Lliw (Water body ID GB110059032100 to the north of the Project 
+Site) and the Loughor Estuary (Burry Inlet Inner) (Water body ID GB531005913500 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-27 
+ 
+located approximately 7 km south of the Project Site) into which these water bodies 
+discharges.  
+9.5.20 The Afon Llan River is the closest WFD designated surface watercourse that 
+traverses the immediate vicinity of the Project Site. It flows in a south-westerly 
+direction and is designated as a Main River by Natural Resources Wales (NRW).  
+The Afon Llan borders the southern boundary of the Project Site.  The Afon Llan 
+links with the Afon Lliw and the River Loughor, which discharges into Carmarthen 
+Bay.  The Power Generation Plant is located approximately 400 m from the Afon 
+Llan watercourse.  The rivers will not be directly altered by the Project. 
+9.5.21 There is one WFD groundwater body (Table 9-10) (i.e. the Carmarthen 
+Carboniferous Coal Measures Water body ID GB41002G200600) in the vicinity of 
+the Project Site. This WFD water body is not targeted for improvements within the 
+Western Wales RBMP. 
+9.5.22 Information about the current and predicted status of the Afon Llan River and the 
+other designated WFD water bodies within the study area are available from  NRW 
+Cycle 2 River and Waterbodies websites1 (accessed May 2017) and is summarised 
+in Table 9-8. Details of groundwater bodies are provided in Table 9-10. 
+Table 9-6: Surface water bodies WFD Cycle 2 status WFD status of Afon Llan, Afon Lliw and Loughor 
+Estuary 
+Status 
+Water Body 
+Afon Llan 
+Afon Lliw 
+Loughor Estuary 
+(Burry Inlet Inner) 
+Overall Status 
+Good 
+Moderate 
+Poor 
+Chemical Status 
+Good 
+Fail 
+Good 
+Ecological Status 
+Good 
+Good 
+Poor 
+Driving Ecological 
+Quality Elements 
+Fish, Invertebrates, 
+Macrophytes and 
+Phytobenthos Combined 
+Fish, 
+invertebrates 
+Phytoplankton 
+blooms 
+Mitigation 
+Measures 
+by 
+NRW 
+Not yet applied 
+Not yet applied Not yet applied 
+Typology 
+Low, Small, Siliceous 
+Low, Small, 
+Siliceous 
+Mixed, Macro, 
+Extensive 
+ 
+ 
+ 
+ 
+                                                                                                                     
+1 https://nrw.maps.arcgis.com/apps/wegappviewer/index.html?id=2176397a06d64731af8b21fd69a143f6 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-28 
+ 
+Table 9-7: Groundwater body WFD Cycle 2 status  
+Status 
+Water Body 
+Carmarthen Carboniferous Coal 
+Measures 
+Overall 2015 Cycle 2 Status 
+Poor 
+2015 Cycle 2 Quantitative Status 
+Good 
+2015 Cycle 2 Chemical Status 
+Poor 
+9.5.23 The Afon Lliw is located approximately 1.3 km north of the Project Site and has 
+been assessed under the WFD as shown in Table 9-9.  
+9.5.24 There are other smaller watercourses in the vicinity of the Project Site that drain to 
+the Afon Llan, along with some springs and small ponds. These have not been 
+individually assessed previously under the WFD. The selection of waterbodies to 
+be evaluated in 2015 was based on the judgment of NRW considering the 
+catchment size, available data and overall significance. It is thought that these 
+waterbodies were not previously assessed partly due to lack of data and because 
+their small size means their overall importance to the river basin district is reduced. 
+9.5.25 The largest ordinary watercourse traversing the eastern perimeter of the Project 
+Site has been observed to be 2.0-2.5 m wide at the bank and 1 m deep.  Some 
+ordinary watercourses will be directly altered by the Project (Figures 2.4-2.6, 
+Appendix E (Outline Drainage Strategy) provided in FCA in Appendix 9.1)..  
+9.5.26 Both the Afon Llan and Afon Lliw discharge to the Loughor Estuary west of 
+Swansea, approximately 7 km from the Project Site. The Project Site lies outside of 
+the Afon Lliw topographic catchment and therefore it is expected that any direct 
+hydraulic connectivity will be limited. The Afon Llan does, however, join with the 
+Afon Lliw approximately 9 km downstream of the Project Site. There may also be 
+some potential for the cross-transfer of shallow groundwater flows between the two 
+catchments. The Loughor Estuary has been assessed under the WFD as shown in 
+Table 9-9. NRW has identified that the Loughor Estuary contains designated 
+Shellfisheries. 
+9.5.27 No surface water abstraction points have been identified within the Project Site. 
+The closest surface water abstractions, assumed to be from a tributary of the Afon 
+Llan, have been identified approximately 1.6 km northeast and upstream of the 
+Project Site.  Accordingly, no impact to this receptor is envisaged and it is not 
+considered further in this assessment. 
+9.5.28 There are a number of small drainage ditches and land drains which cross the 
+Project Site and output into the ordinary watercourses and then the Afon Llan.  
+There are also springs with associated streams which discharge into the Afon Llan 
+throughout the Project Site.   
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-29 
+ 
+9.5.29 There are two heavily vegetated ponds located within the Generating Equipment 
+Site. These are of unverified extent owing to vegetation cover but are thought to 
+have a radius of approximately 5 m. 
+e) Flood risk 
+9.5.30 There are no flood defence structures in the study area. 
+9.5.31 The Lle Geo-Portal  Development Advice Map (DAM) (Ref 9-25) determines that a 
+relatively small area in the Project Site, south of the Generating Equipment lie 
+within DAM Zone C2 (areas of the floodplain without significant defence 
+infrastructure).  Small areas along the eastern edge of the Project Site 
+boundary, east and south of the Generating Equipment Site lie within DAM Zone B 
+(areas known to have flooded in the past).  The remainder of the Project Site is 
+outside the DAM Zones and considered to be at very low risk of flooding i.e. DAM 
+Zone A. Figure D1 in Appendix 9.1 displays the flood zones and Project Site 
+boundary.   
+9.5.32 During the site visit, the area between the Felindre Gas Compressor Station and 
+the Generating Equipment Site was notably saturated.  It is assumed that this area 
+and the lower lying area to the south may be susceptible to groundwater or surface 
+water flooding.  This is consistent with BGS groundwater flooding susceptibility 
+mapping showing the south area of Project Site as potential groundwater flooding 
+at surface, while the rest of the Project Site lies in limited potential or potential for 
+flooding properties below ground level.  Chapter 10: Geology, Ground 
+Conditions and  Hydrogeology 
+describes 
+additional 
+information 
+on 
+the 
+Landmark Envirocheck Report (2017).  
+9.5.33 The literature review has not identified any historic incidents of flooding affecting 
+the Project Site from any source.  The references considered are in the References 
+section (Section 9.12). 
+9.5.34 The CCS PFRA (2011), Level 1 (2010) and Level 2 (2012) SFCA’s do not report 
+any recorded flood events from groundwater sources within the CCS region.  The 
+FRMP (2015) indicates that there is a low risk of groundwater flooding across the 
+CCS region. 
+9.5.35 NRW online maps show that reservoir flooding is not predicted to affect the Project 
+Site.  This is relevant with respect to the upstream Lliw Reservoir. 
+9.5.36 The existing Water Main that crosses the Project Site in a northwest to southeast 
+orientation could present a flood risk if inadvertently damaged or leaking.  Previous 
+consultation on the Project with Welsh Water ascertained that flow rates in the pipe 
+are approximately 1.2.-1.7 m3/s. The flood risk from this source if it were to leak is 
+considered to be very low.   
+f) 
+Artificial water features 
+9.5.37 Situated north of the Project Site is Felindre Water Treatment Works with a covered 
+reservoir.  There is a Water Main connected to Felindre water treatment works via a 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-30 
+ 
+1.68 m diameter pipe which follows a south-east to north-west direction across the 
+Generating Equipment Site and along the line of an existing access track.  The 
+treated water is supplied to Swansea, Llanelli and Bridgend areas. 
+9.5.38 The Lower Lliw Reservoir is also situated north and upstream of the Site, 
+approximately 1.1 km away.  It is part of the water supply infrastructure in the 
+adjacent Lliw catchment.  
+g) Ecological designations 
+9.5.39 A detailed description of ecological designations within the study area is provided in 
+Chapter 8: Ecology and illustrated in Figures 8.1 and Figure 8.2. A summary of 
+features relevant to the assessment of impacts on the water environment is 
+provided below. 
+9.5.40 The Loughor Estuary is located approximately 7 km west of the Project Site and 
+receives water from the Afon Llan and Afon Lliw. It is designated as an SSSI with 
+the Burry Inlet further downstream also a designated Ramsar site. Both form part of 
+the Carmarthen Bay SAC. 
+9.5.41 Two SSSI sites (Figure 9.2) located closer to and potentially in hydraulic 
+connectivity with the Project Site are: 
+ Nant y Crimp SSSI, located approximately 2.2 km west which is designated for 
+its wet pastures, grassland/woodland habitat and marsh fritillary butterfly. The 
+Project Site is not located within the catchment of the Nant y Crimp and 
+therefore any hydraulic connectivity with the Project Site would be limited to 
+potential groundwater flows; and 
+ Penllergaer railway cutting SSSI, approximately 3 km to the south-west which 
+is designated for geological interest. An unnamed tributary of the Afon Llan 
+flows through the Penllergaer SSSI. Geological designations are not relevant to 
+this assessment as there will not be any effects of the Project on the geological 
+conditions from the perspective of water quality and resources. 
+9.5.42 Effects on the SSSIs are addressed in Chapter 8: Ecology. 
+9.5.43 There are SINCs situated within and surrounding the Project Site (Figure 9.2). 
+Three are considered relevant to this assessment: the Lletty Morfil SINC, which is 
+partly within the Project Site and is designated for purple moor grass and rush 
+pasture and scrub habitats; and the Waun Garn Wen and Rhos Fawr SINCs 
+adjacent to the Project Site, which are also designated for purple moor grass and 
+rush pasture, wet woodland, scrub and watercourse habitats. The SINCs may, 
+therefore, have some sensitivity to changes in water table and water quality. The 
+area of peat adjacent to the north-west corner of the Project Site extends into the 
+Waun Garn Wen SINC. 
+h) Drainage 
+9.5.44 Most of the Project Site is undeveloped and surface water run-off flows overland 
+and through field drains discharging into the Afon Llan. These field drains and 
+drainage ditches can be seen to cross the Project Site and flow to the ordinary 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-31 
+ 
+watercourses. The largest ordinary watercourse flows south along the east 
+perimeter of the Project Site before discharging to the Afon Llan.   
+9.5.45 It has been identified that there are no foul sewers within the Project Site, and 
+therefore assumed that the foul effluent from the nearby farm and residential 
+properties discharge to cess pits and septic tanks.  
+i) 
+Summary of Receptors 
+9.5.46 Based on the information reviewed for this PEIR, the water quality and resources 
+and flood receptors/features with the potential to be affected by the Project have 
+been identified.  
+9.5.47 Table 9-8 summarises the key receptors and classifies their importance.  This has 
+been undertaken using professional judgement and with reference to the baseline 
+information and the policy guidance noted in Section 9.2. The identified receptors 
+are assessed to have a hydrological or hydraulic connection to the Project Site. The 
+Lower Lliw reservoir and Afon Lliw are upgradient and not in direct hydraulic 
+continuity so are excluded from further assessment. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-32 
+ 
+ 
+Table 9-8: Summary of Relevant Water Quality and Resources and Flood Receptors/Features 
+Receptor 
+Key Attributes Defining Importance 
+Sensitivity 
+Afon Llan  
+Water Quality and Resources - WFD Class Moderate. 
+Flood Risk - DAM Zone C2.  However,  the floodplain protects between 1 and 
+100 properties from flooding, so sensitivity lowered from Very High. 
+Medium 
+ 
+ 
+High 
+Overland flow routes 
+Water Quality and Resources – n/a 
+ 
+Flood Risk - Proximity of Generating Equipment Site to flow route and high risk 
+of surface water flooding (greater than 1 in 30 (3.3% AEP). 
+n/a 
+ 
+High 
+Water Main 
+Water Quality and Resources – n/a 
+ 
+Flood Risk - Supply of potable water from Lower Lliw Reservoir and passes 
+through Project Site.  Despite being at very low risk of fluvial and/or surface 
+water flooding, asset importance is defined as floodplains with low probability of 
+flooding residential and industrial properties. 
+n/a 
+ 
+ 
+ 
+Low 
+ 
+Tributary 
+of 
+the Afon 
+Llan 
+crossing 
+the 
+Generating 
+Equipment 
+Site, 
+(Ordinary 
+Watercourses 
+and 
+Drainage 
+Channels) 
+Water Quality and Resources Assessed to be of fair ecological quality. 
+ 
+Flood Risk - DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+ 
+Low 
+Tributary 
+of 
+the Afon 
+Llan 
+immediately east of Generating 
+Equipment Site 
+Water Quality and Resources Assessed to be of fair ecological quality. 
+ 
+Flood Risk - DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+ 
+Low 
+Tributaries of the Afon Llan 
+crossing/adjacent to the Access 
+Road west of the Project Site 
+Water Quality and Resources Assessed to be of fair ecological quality. 
+ 
+Flood Risk - DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+ 
+Low 
+Ponds within the Generating 
+Equipment Site 
+Water Quality and Resources Assessed to be of fair ecological quality. 
+ 
+Medium 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-33 
+ 
+Receptor 
+Key Attributes Defining Importance 
+Sensitivity 
+Flood Risk - DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Low 
+Groundwater bodies and 
+aquifers 
+Water Quality and Resources - Secondary A aquifer providing water for 
+agricultural and domestic use.  
+Flood Risk – n/a 
+Medium 
+ 
+n/a 
+Loughor Estuary/Burry Inlet 
+Water Quality and Resources - SAC, SSSI designations. 
+ 
+Flood Risk – DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk 
+Medium 
+ 
+Low 
+Nant y Crimp SSSI 
+Water Quality and Resources – SSSI designations. 
+ 
+Flood Risk – DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+ 
+Low 
+Lletty Morfil SINC 
+Water Quality and Resources – SINC designations.  
+ 
+Flood Risk – DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+Low 
+Waun Garn Wen SINC 
+Water Quality and Resources – SINC designations.  
+ 
+Flood Risk – DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+ 
+Low 
+Rhos Fawr SINC 
+Water Quality and Resources – SINC designations.  
+ 
+Flood Risk – DAM Zone B, despite some ordinary watercourses and drainage 
+channels considered to be very low risk. 
+Medium 
+ 
+ 
+Low 
+Other non-specific locations 
+within study area 
+Water Quality and Resources – no environmental designation. 
+ 
+Flood Risk - Very low risk of surface water flooding (chance of flooding is less 
+Negligible 
+ 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-34 
+ 
+Receptor 
+Key Attributes Defining Importance 
+Sensitivity 
+than 1 in 1000 (0.1% AEP). 
+Outside Development Advice Map flood risk zones. 
+Negligible 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-35 
+ 
+9.6 
+Embedded Mitigation 
+9.6.1 
+As detailed in Chapter 3: Project Site and Description, a number of embedded 
+mitigation measures have been identified through the iterative EIA process and 
+have been incorporated into the design and construction planning of the Project. 
+9.6.2 
+As these mitigation measures have been embedded into the design, are legal 
+requirements or are standard practices that will be implemented, the assessment of 
+likely significant effects assumes that they are in place. 
+9.7 
+Assessment of Effects 
+9.7.1 
+This section presents the findings of the water quality and resources impact 
+assessment and flood risk impact assessment during the construction, operation 
+and decommissioning phases of the Project. 
+9.7.2 
+This section identifies any likely significant effects that are likely to occur and the 
+additional mitigation and monitoring measures that are proposed to reduce or 
+eliminate the identified significant effects. 
+j) 
+Construction effects – Power Generation Plant 
+i. 
+Water Quality and Resources 
+9.7.3 
+This section considers the potential impacts and effects that construction works for 
+the Project pose to water quality and resources.  A description of the anticipated 
+scope of the construction works required is included in Chapter 3: Project Site 
+and Description. 
+9.7.4 
+The principal risks of the construction works to water quality and resources 
+therefore comprise: 
+ Pollution impacts on surface watercourses and groundwater associated with: 
+o increased sediment loads in site runoff containing elevated suspended 
+sediment levels disturbed during site clearance; 
+o the release of hydrocarbons and oils due to a large number of vehicles 
+accessing the site, leakages from temporary oil/fuel storage tanks and 
+accidental spillages; and 
+o accidental leaks of hazardous materials, such as concrete and cement 
+products, which can be contained in uncontrolled wash-down water and 
+surface water runoff;  
+o dewatering of excavations and the discharge of potentially polluted/high 
+sediment loading water to the water receptors;and 
+o pollution from dust and debris. 
+9.7.5 
+Measures to address the above have been identified and, where appropriate, are 
+included in the embedded mitigation given in Chapter 3: Project and Site 
+Description and in the Outline CEMP (Appendix 3.1). 
+ 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-36 
+ 
+Increased pollution and sediment load 
+9.7.6 
+The magnitude of potential impacts to surface water receptors will be most 
+significant when working in areas adjacent to a water body or drainage channel. If 
+they occur, the impacts will be direct and temporary - water quality within the 
+affected water body is expected to improve over time as sediments settle or are 
+trapped by vegetation and pollutants such as hydrocarbons, oils and other 
+hazardous products are dispersed, diluted and treated by natural processes.  
+9.7.7 
+Surface water runoff from the Project Site will be conveyed to the tributaries of the 
+Afon Llan River, east of the Project Site. This tributary to the Afon Llan is a 
+designated ordinary watercourse with a Medium sensitivity. Consequently, the 
+magnitude of any potential impacts to this water receptor during the construction 
+phase of the Project will be Negligible. Accordingly, the significance of effects is 
+assessed to be Negligible and no additional mitigation is required. 
+9.7.8 
+There is potential for hydraulic connectivity (most likely through shallow 
+groundwater) and therefore for runoff to migrate to the Lletty Morfil, Waun Garn 
+Wen and Rhos Fawr SINCs located within the  Project Site at approximately 200 m 
+and 300 m from the Power Generation Plant (Figure 9.2). Given the approximate 
+distances and locations of these features, their Medium sensitivity and the inferred 
+groundwater flow direction (Figure 9.2), the magnitude of potential impacts on 
+these receptors is assessed as Negligible. Hence the significance of any effects 
+will be Negligible and no additional mitigation is required. 
+9.7.9 
+Surface water runoff from the Project Site may infiltrate and migrate further afield 
+via groundwater. The primary groundwater flow direction is assessed to be towards 
+the Afon Llan (Figure 9.3) but will be confirmed through future geotechnical/ground 
+investigations at the Project Site post DCO Application. The groundwater aquifer 
+beneath the Project Site is a WFD designated water body (i.e. Carmarthen 
+Carboniferous Coal Measures groundwater body) (Figure 9.5) of medium 
+sensititivity. Taking into account its current and forecasted WFD water quality status 
+which is expected to remain poor, its dilution and dispersion potential, it is 
+envisaged that infiltration of surface runoff will not significantly impact the flow or 
+quality of groundwater. The receptor sensitivity is Medium, the magnitude of 
+potential impact on groundwater arising from pollution by surface water runoff is 
+considered to be Negligible so the significance of effects is assessed to be 
+Negligible and no mitigation is required. Potential impacts to groundwater 
+resources are discussed in Chapter 10: Geology, Ground Conditions and 
+Hydrogeology. 
+9.7.10 Runoff from the Generating Equipment Site will contribute only a small proportion of 
+flow in the Afon Llan. The Afon Llan is hydrologically connected with the Loughor 
+Estuary which is also a WFD designated surface water body of High sensitivity 
+located about 7 km south of the Project Site. In the event that surface water runoff 
+is accidentally polluted, before it is discharged from the Project Site into the Afon 
+Llan River, it will have to travel several kilometres before reaching the Loughor 
+Estuary (SAC, SSSI). As such, any pollutants would have settled, dispersed, diluted 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-37 
+ 
+and be treated by natural processes thereby limiting any subsequent impact to the 
+Loughor Estuary.  The sensitivity of the Loughor Estuary is High, the magnitude of 
+potential pollution impacts will be Negligible, hence the significance of effect has 
+been assessed as Minor and no additional mitigation is required. 
+9.7.11 The two existing ponds within the Power Generation Plant area will be lost as a 
+result of the Project. Based on this, from a water quality and resources perspective, 
+the potential pollution and sediment loading impacts on these ponds is scoped out 
+of the assessment. 
+9.7.12 Potential impacts and effects associated with ground instability and piling works are 
+discussed in Chapter 10: Geology, Ground Conditions and Hydrogeology. 
+Dewatering discharges 
+9.7.13 Dewatering of site excavations may be required for piling or construction of 
+foundations within the Generating Equipment Site. As described previously, given 
+the current and historic land uses, ground contamination is unlikely to pose a 
+significant groundwater quality risk as a result of mobilisation of existing 
+contaminants. Therefore dewatering of excavations is unlikely to introduce polluted 
+water to the water environment. Water removed during dewatering activities may 
+contain elevated suspended solids and will be subject to appropriate mitigation 
+(e.g. settlement ponds) before discharge to the water environment off-site.  
+9.7.14 As noted above, water from dewatering activities will be discharged a treatment 
+process (e.g. settlement ponds/oil removal system) and this will likely be 
+discharged directly into the tributary to the Afon Llan east of the Project Site. This 
+tributary is not a WFD designated water body but an ordinary water body of 
+Medium sensitivity. The magnitude of potential impacts from dewatering 
+discharges on this tributary to the Afon Llan during construction is considered to be 
+Low. Accordingly, the significance of potential effects is assessed as Minor and no 
+additional mitigation is required. 
+Sediment filled and turbid surface water resulting from dust and debris 
+9.7.15 Construction activities have the potential to release debris and dust that may be 
+blown into adjacent surface water features. Increased dust levels in surface water 
+bodies may reduce the levels of light reaching aquatic plant and animal species 
+and cover sensitive habitats on the floor of the streams and ponds. Debris blown 
+into water bodies can decrease the aesthetic quality of the water body. Impacts will 
+be direct and temporary. 
+9.7.16 The Project does not involve any demolition activities therefore high levels of dust 
+and debris are unlikely particularly with the implementation of the dust control 
+measures incorporated into the Outline CEMP (Appendix 3.1). 
+9.7.17 The ordinary surface water bodies (i.e the watercourses close to and within the 
+Generating Equipment Site) including the tributary to the Afon Llan east of the the 
+Project Site are potential surface water receptors that could be impacted by dust 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-38 
+ 
+and debris during construction. These will be directly affected by physical works 
+however the embedded mitigation measures in the Outline CEMP will control 
+potential pollution impacts. The sensitivity of the receptors is Medium, the 
+magnitude of impacts associated with dust generation and debris has been 
+assessed as Negligible. Accordingly, the significance of effects is assessed to be 
+Negligible no additional mitigation is required. 
+9.7.18 It is envisaged that the embedded mitigation measures will help control dust and 
+debris related impacts such that they do not affect waterbodies and SINCs at a 
+distance from the Power Generation Plant. The sensitivity of the ordinary 
+waterbodies and SINCs within the Project Site is Medium. In the event of any 
+accidental escape of dust and debris into any of the ordinary surface water 
+receptors (e.g. ponds, rivulets and ditches) within and nearby watercourses (e.g. 
+the tributary to the Afon Llan) to the Project Site the magnitude of impact will be 
+Negligible. Accordingly, the significance of effect at any of these ordinary water 
+receptors (i.e. the tributary to the Afon Llan, ponds, rivulets and ditches) is 
+assessed as Negligible and no additional mitigation is required. 
+9.7.19 The magnitude of the potential impacts likely to arise during the construction works 
+on the identified water receptors at the Power Generation Plant are considered to 
+be negligible. Accordingly the effect significance on the water receptors within the 
+Project Site and study area is assessed as minor or negligible and Not significant. 
+ii. Flooding 
+9.7.20 This section considers the potential impacts and effect that construction works for 
+the Power Generation Plant may have on flood risk and drainage. A description of 
+the anticipated scope of construction works required is included in Chapter 3: 
+Project and Site Description.  The construction phase is expected to take 
+approximately 22 months. 
+9.7.21 The potential flood risks include: 
+ Damage to Water main;  
+ Water Main Temporary Bridge; and  
+ Maintenance Compound and construction car parking within temporary 
+Laydown Area. 
+Damage to Water main 
+9.7.22 A 1.68 m diameter Water Main, the Felindre-Margam trunk main, traverses the 
+Generating Equipment Site, and is a key part of the main water supply 
+infrastructure in the area.  The exact location and depth of the Water Main will be 
+determined during site investigations (currently scheduled to be completed in 
+January 2018), liaison with Dwr Cymru Welsh Water and a precautionary 
+safeguarded area of 30 m will be in place either side during construction to avoid 
+the chance of striking the Water Main.   
+9.7.23 Within the Water Main easement area, the existing ground level has been retained.  
+In the very unlikely event of an accidental rupture, any resultant outflow is likely to 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-39 
+ 
+pass through the Project Site but is unlikely to impact the elevated Generating 
+Equipment Site.  The predicted flow volumes and land levels are such that the 
+adjacent ordinary watercourses, either side of the main, and the receiving Afon Llan 
+should accommodate the temporary increase in overland flow until the fracture is 
+repaired or flow is halted, avoiding an effect on third parties. Therefore, based on 
+the sensitivity of the receptor being Low, and a Low magnitude impact as a result 
+of embedded mitigation and accounting for the unlikely event of an accident, the 
+significance of effect via safeguarding is predicted to be Negligible, and therefore 
+not significant.  
+Water Main Temporary Bridge 
+9.7.24 The Water Main will be crossed by a temporary bridge designed for construction 
+loads from the Access Road to Generating Equipment Site.  Welsh Water will be 
+consulted during detailed design to include the required protective measures to the 
+crossing to preserve the Water Main’s integrity.  There will also be a specialist 
+engineering consultant on site during the bridge’s construction to ensure the safe 
+crossing of heavy loads in the construction period, some in excess of 300 tons, 
+over the Water Main.  Historic Welsh Water consultation has preferred a Bailey 
+bridge solution, previously used to cross the same Water Main, which will be 
+discussed further. Any crossing solution will be subject to Welsh Water agreement. 
+With a receptor sensitivity of Low and a predicted impact magnitude of Negligible 
+owing to appropriate loading mitigation, the effect significance predicted to be 
+Negligible, and therefore not significant. 
+Maintenance Compound and construction car parking within the temporary 
+Laydown Area 
+9.7.25 The temporary Laydown Area will provide storage space for materials, plant and 
+equipment.  It will also comprise accommodation and welfare facilities for 
+construction staff as well as parking.  The location of the Laydown Area is currently 
+greenfield.  The construction of the Laydown Area will involve vegetation clearance 
+and laying down of granular material which, subject to infiltration tests, should 
+permit surface water to drain to ground at a rate close to the existing conditions.  
+The granular area amounts to 2.8 ha.  The footprints of the construction compound 
+building facilities will result in some, temporary, loss of surface draining area; 
+however, this amounts to a negligible portion of the Laydown Area.   
+9.7.26 The temporary, low permeability of the surface during construction from building 
+facilities and changes in runoff have not been considered in calculations for 
+permanent construction runoff.  Therefore, this has not been allowed for in the 
+compensatory attenuation pond, proposed for the south eastern corner of the 
+Generating Equipment Site.  However, there is provision for consideration of 
+temporary runoff in the Outline CEMP.  The temporary Laydown Area will be 
+returned to its original pre-construction composition (grassland) following 
+construction, Based on the sensitivity of the receptor (other non-specific locations 
+within study area) being Negligible because of the very low flood risk, and the 
+Negligible magnitude of the impact through embedded mitigation of predominantly 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-40 
+ 
+gravel surfacing. The significance of the temporary effect is considered to be 
+Negligible. 
+9.7.27 The size of the temporary Laydown Area car park is 0.3 ha and is additional to the 
+2.8 ha referred to above for the remainder of the Laydown Area i.e. it is 
+approximately 10% of the total Laydown Area.  The surface of the car parking area 
+is assumed to be constructed using a gravel / granular surface finish, under the 
+‘General Site Area’ runoff designation of the Outline Drainage Strategy (Appendix E 
+of FCA provided in Appendix 9.1).  This should, subject to infiltration tests, permit 
+surface water to drain to ground at a rate close to existing conditions. Based on the 
+sensitivity of the receptor (other non-specific locations within study area) being 
+Negligible because of the very low flood risk, and the Negligible magnitude of the 
+impact through embedded mitigation, the significance of the permanent effect is 
+considered to be Negligible. 
+k) Construction effects - Gas Connection  
+i. 
+Water Quality and Resources 
+9.7.28 The potential impacts associated with the activities and the water receptors likely to 
+be impacted during the construction phase are the same as those identified for the 
+Power Generation Plant. From water quality and resources perspective, it is 
+envisaged that the Gas Pipeline will not give rise to an increase in impermeable 
+area within the Project Site and impact upon the surface water run-off regime for 
+the Gas Connection. Consequently, given the nature of the works and the size of 
+the area required for the Gas Connection construction works, the overall effects of 
+the potential impacts associated with the construction activities at the Gas 
+Connection areas are considered to be similar or less than the impacts determined 
+at the Power Generation Plant and as detailed above. 
+9.7.29 Accordingly, given that the water receptors and their sensitivities remains the same, 
+the Nagnitude of the potential water quality impacts likely to arise during the 
+construction works at the Gas Connection point is considered to be Negligible and 
+the overall significance of effects on the range of sensitivity water receptors as a 
+result of the construction activities is therefore considered to range from minor to 
+Negligible and therefore Not significant with no further mitigation required. 
+ii. Flooding 
+9.7.30 No Gas Connection effects for flooding have been identified during the construction 
+phase. 
+l) 
+Construction effects – Electrical Connection 
+i. 
+Water Quality and Resources 
+9.7.31 A detailed description of the construction activities for the Electrical Connection is 
+provided in Chapter 3: Project and Site Description. In summary, the Electrical 
+Connection will run along side the Access Road for the majority of the route. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-41 
+ 
+9.7.32 The potential impacts associated with the activities and the water receptors likely to 
+be impacted during this construction phase are likely to be similar to those 
+identified for the Power Generation Plant. Consequently, given the nature of the 
+works and the size of the area required for the Electrical Connection construction 
+works, the overall effects of the potential impacts associated with the construction 
+activities at the Electrical Connection are considered to be similar, but slightly less 
+than the impacts determined at the Power Generation Plant as detailed above. 
+9.7.33 Taking into account the medium sensitivity of the groundwater body beneath the 
+Project Site and the current and forecasted WFD status (i.e. poor water quality) for 
+the groundwater body, the Magnitude of potential impacts likely to arise from  the 
+installation of the Electrical Connection is considered to be Negligible. Hence the 
+significance of effect is assessed as Negligible. 
+9.7.34 Additionally, given that the water receptors and their sensitivities remains the same, 
+the overall Magnitude of the potential water quality impacts likely to arise during 
+the construction of the Electrical Connection is considered to be Negligible and the 
+overall significance of effects on the range of sensitivity water receptors as a result 
+of the construction activities is therefore considered to range from Minor to 
+Negligible and therefore Not significant with no further mitigation required. 
+ii. Flooding 
+9.7.35 No Electrical Connection effects for flooding have been identified during the 
+construction phase. 
+m) Operational Effects – Power Generation Plant 
+9.7.36 A full description of the operational phase of the Project is included in Chapter 3: 
+Project and Site Description.  
+i. 
+Water Quality and Resources 
+9.7.37 The main activities with the potential to affect the water environment have been 
+identified as follows: 
+ Potable water use for staff welfare and discharge of grey water/sewage (i.e. 
+treated foul wastewater discharges); 
+ Water for emergency use (e.g. fire control) (water discharges); 
+ Storage and use of fuels or other chemicals on-site; and 
+ Vehicle movement to and around the Project Site. 
+9.7.38 The key risks to the water environment during the operational phase include: 
+ Pollution from oil (lubrication etc.) and fuels leakage from storage facilities or 
+resulting from accidental spillages during delivery which may be carried by 
+surface water runoff discharging to the water environment through the 
+proposed surface water drainage system; and 
+ Water quality impacts associated with treated wastewater discharges. 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-42 
+ 
+Pollution  
+9.7.39 Within the drainage strategy (Appendix E of Appendix 9.1) it is proposed that 
+surface water runoff from the Power Generation Plant will be discharged either via 
+infiltration (where ground conditions allow) or to the local watercourses on and 
+around the Power Generation Plant which eventually drain to the Afon Llan. It is 
+expected that the Power Generation Plant drainage will include a combination of 
+piped and SuDS systems, including oil interceptors, trapped gullies/filter drains, 
+attenuation ponds and swales providing appropriate water quality treatment stages 
+in line with current guidance to reduce the risk of surface water and groundwater 
+contamination. 
+9.7.40 The tributary to the Afon Llan east of the Project Site will be the receiving surface 
+water body for discharges from the Project Site. The sensitivity of this water body is 
+Medium. Taking into account the embedded mitigation measures, the Magnitude 
+of potential impacts from pollution during the operational phase is considered to be 
+Negligible. Accordingly, the significance of effects is therefore assessed to be 
+Negligible. 
+9.7.41 The potential water quality related pollutants likely to arise from the Project Site 
+during operation are expected to be hydrocarbon-related, mainly from fuel, oil and 
+lubricant stored at the Project Site. Where pollution occurs due to a breach of the 
+embedded mitigation measures, impacts arising from leachate from the attenuation 
+pond or accidental hydrocarbon spillage, for example, there is the potential for 
+infiltration to groundwater to occur. However, the impacts will likely be localised. 
+The sensitivity of the groundwater beneath the Project Site is Medium. Taking into 
+account natural attenuation, the quantity of hydrocarbon likely to be stored at the 
+Project Site at a given time as well as the dilution potential of the groundwater, the 
+magnitude of potential impacts arising from pollution is Negligible. Accordingly, the 
+significance of effects is assessed to be Negligible and no additional mitigation is 
+required. 
+Water quality impacts associated with treated wastewater discharges  
+9.7.42 The quantity of foul effluent generated on site is expected to be small due to the 
+limited number of workers on site at any one time during regular operational hours. 
+Connection to a public sewer is not deemed feasible. The drainage strategy has 
+considered the use of either septic tanks within the site or a package sewage 
+treatment plants for foul effluent. However, package treatment plants are the 
+preferred option, subject to detailed design following completion of ground 
+investigations. The choice of one or other of these disposal methods is not 
+considered to have a material effect on the impact assessment. Due to the small 
+quantity of foul water generated during operations, it is anticipated that treated 
+water can be discharged via infiltration (soakaway) on site. The foul water drainage 
+system will be positioned to minimise the risk of inundation by floodwaters. Where 
+there is an inadequate unsaturated zone beneath the site, the option of discharging 
+to local watercourses will be adopted. Any discharges will be subject to the 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-43 
+ 
+Environmental Permitting Regulations and will need to meet quality criteria set by 
+NRW.  
+9.7.43 The sensitivity of the surface water and/or groundwater receptors (i.e. the tributary 
+to the east of the Afon Llan and/or Carmarthen Carboniferous Coal Measures 
+groundwater body beneath the Project Site) likely to receive foul effluent from the 
+Project Site is Medium. Taking into account the quantity of treated foul 
+waste/watstewater likely to be generated from the packaged sewage treatment 
+plant and dilution properties of these receiving receptors, the magnitude of pollution 
+impacts from discharges is considered to be Negligible. Hence, the significance of 
+effect is considered to be Negligible and not significant. 
+9.7.44 It envisaged that temporary toilets with appropriate foul waste facility will be in 
+place during maintenance operation and all foul waste generated during this period 
+will be taken off-site for disposal at appropriate facilities by specialist contractors. 
+Accordingly, no impact on water receptors is expected and no further mitigation is 
+required. 
+ii. Flooding 
+9.7.45 Potential impacts and effects on flood risk and surface water drainage during 
+operation are detailed in this section. 
+Surface water runoff from impermeable areas  
+9.7.46 There will be a change in the existing surface water drainage behaviour and 
+storage capacity as a result of the development.  This will result in a reduction in 
+infiltration rates compared to existing conditions.  To compensate for this impact, an 
+attenuation pond is proposed for the south eastern corner of the Generating 
+Equipment Site.  The purpose of the attenuation pond is to attenuate surface water 
+runoff in order to maintain the equivalent greenfield runoff. Additional information 
+regarding the attenuation pond is in FCA Section 8.4. The discharge will enter the 
+ordinary watercourse immediately to the east of the Generating Equipment Site via 
+a drainage swale, subject to the agreement of CCS.  An emergency overflow will be 
+provided to the attenuation pond to prevent the site becoming inundated in the 
+event of an extreme rainfall event. 
+9.7.47 The sensitivity of the receptor (Generating Equipment Site) is considered to be 
+High as a result of the Generating Equipment Site coinciding with an area of high 
+risk of surface water, and historic (Dam Zone B), flooding.  The magnitude of the 
+impact is considered to be Negligible through the embedded attenuation 
+mitigation.  The significance of the permanent effect is therefore considered to be 
+Minor and Not significant. 
+9.7.48 For the Access Road, and internal roads, it is proposed that roadside swales or 
+infiltration drains will be used to remove and convey surface water from the road 
+surface. Alternatively, where there are space constraints, the new site roads will be 
+kerbed and drain via road gullies with pollution control measures. It is proposed that 
+roadside swales will discharge to the nearest local watercourse, attenuated the 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-44 
+ 
+existing greenfield runoff rate.  The sensitivity of the Access Road as a flood risk 
+receptor is considered to be Negligible since the Access Road is in a very low 
+flood risk area.  The magnitude of the impact is considered to be Low through 
+embedded mitigation.  The significance of the permanent effect is therefore 
+considered to be Negligible, and Not significant. 
+ 
+Drainage System Modifications (diversions of ditches for cut offs including Gas 
+Connection diversion, swales) 
+9.7.49 The existing site benefits from a combination of ordinary watercourses and 
+drainage ditches that drain surface water towards the Afon Llan main river.  The 
+presence of the development may impede existing surface water flow paths.  Cut 
+off drainage ditches will be placed around the uphill site perimeter of the 
+Generating Equipment Site.  The new drainage ditches will be designed to divert 
+existing surface water runoff around the Project Site and downstream to rejoin the 
+existing drainage ditches and local watercourses.  They will also be designed to 
+avoid any loss of existing conveyance capacity.  The sensitivity of the Generating 
+Equipment Site as a flood risk receptor is considered to be High as a result of the 
+Generating Equipment Site coinciding with an area of high risk of surface water and 
+historic (Dam Zone B), flooding.  The magnitude of the impact is considered to be 
+Negligible through the embedded drainage diversion mitigation.  The significance 
+of the permanent effect is therefore considered to be Minor and Not significant. 
+9.7.50 The new Access Road may also impede existing surface water drainage channels 
+and overland flow routes.  Therefore, existing field drainage that coincides with the 
+new Access Road will be culverted or bridged for a short length to allow flow up to 
+the 1 in 100 year return period.   This is required in the area to the south of the 
+Felindre Gas Compressor Station, where the new Access Road extends from the 
+existing access road, and swings east and northeast towards the Generating 
+Equipment Site.  The sensitivity of the Access Road as a flood risk receptor is 
+considered to be Negligible since the Access Road is in a very low flood risk area.  
+The magnitude of the impact is considered to be Low.  The significance of the 
+permanent effect is therefore considered to be Negligible, and Not significant. 
+Water Main Permanent Bridge 
+9.7.51 The Water Main will be crossed by a single, permanent access bridge replacing the 
+temporary one for construction to allow access from the new Access Road and 
+Laydown Area.  This section of road will be built on an embankment above the 
+easement or on a suspended bridge structure. The embankment would include 
+open pipes to allow surface water run-off from the north to drain through and the 
+suspended bridge option allows surface water to flow unhindered underneath 
+without being impeded.  It is considered that the sensitivity of the bridge to flood 
+risk is Low because the crossing is in an area of low risk of surface water flooding.  
+The predicted magnitude of the impact is Negligible through the implementation of 
+embedded mitigation to avoid flow impedance.  The significance of the permanent 
+effect is therefore considered to be Negligible and Not significant.  
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-45 
+ 
+Impedance and storage of overland flow route 
+9.7.52 There is an existing overland flow route that crosses the eastern boundary of the 
+Generating Equipment Site, which also flanks an ordinary watercourse immediately 
+east.  This route, according to NRW surface water maps is considered to be 
+‘medium to high’ risk of surface water flooding. Part of this overland flow route 
+could enter the Generating Equipment Site because of the raised topography of the 
+land surrounding the northern tip of the Project Site.  To mitigate this potential 
+impact, localised land reprofiling and appropriate orientation of the uphill perimeter 
+ditch is planned.  In the event that some flow does enter the site, the onsite 
+drainage and surface water attenuation storage in the south eastern corner has 
+been designed to accommodate it. 
+9.7.53 There is land raising at the Generating Equipment Site, which could impede the 
+existing overland flow route to be diverted along the eastern boundary of the 
+Project Site. CCS have noted the need to retain access to this overland flow path 
+along the eastern boundary of the Generating Equipment Site.  This means it 
+should be kept clear and formalised to encourage water downslope and away from 
+the development towards the Ecological Mitigation Area to the south. By taking 
+these steps, it would provide the access easement required by CCS for 
+maintenance access to the watercourse.  This would need to be subject to an 
+agreement between APL and CCS, but legislation permits access by CCS for up to 
+7 m either side of the ordinary watercourse. 
+9.7.54 The sensitivity of the Generating Equipment Site receptor as a flood risk receptor is 
+considered to be High as a result of the Project Site coinciding with an area of high 
+risk of surface water, and historic (DAM Zone B) flooding.  The magnitude of the 
+impact is considered to be Negligible through the embedded mitigation to 
+accommodate and retain the overland flow path.  The significance of the permanent 
+effect is therefore considered to be Minor. 
+n) Operational effects - Gas Connection 
+i. 
+Water Quality and Resources 
+9.7.55 A detailed description of the activities at the Gas Connection point during this phase 
+is provided in Chapter 3: Project and Site Description. From a water quality and 
+resources point of view, no impact is expected to arise from the Gas Connection 
+during the operational phase of the Project. The effects are not material during the 
+operation of the Project and have been scoped out of the assessment. No 
+mitigation is therefore required. 
+ii. Flooding 
+9.7.56 The only permanent structure constructed for the Gas Connection is the Above 
+Ground Installation (AGI) at the connection to the National Gas Transmission 
+System (Figure 3.4), which will change the infiltration capacity of the ground.   
+9.7.57 The installation will have exposed plant on reinforced foundations with gravel 
+surfacing in between.  The detailed layout will be determined in the next design 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-46 
+ 
+phase.  It is anticipated that, like the main Generating Equipment Site, 
+infrastructure will be identified to appropriately attenuate surface water runoff in 
+order to maintain the equivalent greenfield runoff.  The total size of the AGI, 
+including access spur road is approximately 0.3 ha.  The sensitivity of theAGI as a 
+flood risk receptor receptor is considered to be Low as a result of the AGI being 
+located in an area of very low surface water risk.  The magnitude of the impact is 
+considered to be Negligible through the embedded attenuation mitigation. The 
+significance of the permanent effect is therefore considered to be Negligible and 
+Not significant. 
+o) Operational effects – Electrical Connection 
+i. 
+Water Quality and Resources 
+9.7.58 Detailed description of the activities at the Electrical Connection during the 
+operational phase is provided in Chapter 3: Project and Site Description. For 
+water quality and resources, no impact is expected to arise from the Electrical 
+Connection location during the operational phase of the Project. The effects are not 
+material during the operation of the Electrical Connection and have therefore been 
+scoped out of the assessment. No mitigation is therefore required. 
+ii. Flooding 
+9.7.59 For flooding, no impact is expected to arise from the Electrical Connection during 
+the operational phase of the Electrical Connection. The effects are not material 
+during the operation of the Electrical Connection and have therefore been scoped 
+out of the assessment. No mitigation is therefore required. 
+p) Decommissioning effects – Power Generation Plant 
+i. 
+Water Quality and Resources 
+9.7.60 The assessment has considered the effects of decommissioning the Power 
+Generation Plant after 25 years. At that time, the Generating Equipment would be 
+removed and the Generating Equipment Site re-instated to a similar condition as 
+before construction. The decommissioning phase would be likely to be of a similar 
+duration to construction i.e. 22 months.  Based on the principle of the construction 
+effects being wholly reversed, the assessment considers that decommissioning will 
+not result in any change to the effects identified for construction and operation. The 
+significance of effects would be Negligible and no further mitigation is required. 
+ii. Flooding 
+9.7.61 Reinstatement of the Power Generation Plant to the existing characteristics would 
+bring back the drainage benefits of the existing ‘greenfield’ characteristics. The 
+significance of effects would be Negligible and no further mitigation is required.  
+q) Decommissioning effects – Gas Connection 
+9.7.62 The assessment has also considered the effects of decommissioning Gas 
+Connection after 25 years. It is probable that the Gas Connection may be left in situ 
+as this is likely to cause less environmental effects than removal. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-47 
+ 
+9.7.63 Assuming the gas pipeline is left in situ, no impact from the Gas Connection on 
+water quality and resources and flooding is expected during the decommissioning 
+phase of the Project and no additional mitigation is required. 
+r) 
+Decommissioning effects – Electrical Connection 
+9.7.64 As for the Gas Connection, no impact from the Electrical Connection on water 
+quality and resources and flooding is expected during this phase of the Project. 
+Accordingly no additional mitigation is required. 
+9.8 
+Water Framework Directive Assessment 
+9.8.1 
+This section provides a summary of the Water Framework Directive Assessment 
+(WFD) of the WFD water bodies likely to be impacted by the Project. A separate 
+assessment to the EIA required to satisfy the objectives of the WFD is provided in 
+Appendix 9.2 and should be read along this section of the PEIR. 
+9.8.2 
+It is envisaged that the construction works will require diversion of existing ordinary 
+watercourses (i.e. watercourses that are not WFD designated water bodies, but are 
+tributaries to WFD designated water bodies) currently crossing the Generating 
+Equipment Site to instead run around the perimeter of the Generating Equipment 
+Site. This diversion is expected not to significantly affect the general drainage 
+paths, flow regime or connectivity of watercourses in the area. It is also anticipated 
+that bankside vegetation lost on the Generating Equipment Site will be returned 
+along the route of the new watercourses. There may be some short-term loss of 
+habitat while vegetation establishes, however, no reduction is expected in the 
+longer term. 
+9.8.3 
+The Project will involve culverting of ordinary watercourses (i.e. watercourses that 
+are not WFD designated water bodies) where these are crossed by the Access 
+Road. In accordance with the embedded design mitigation the crossings will be 
+designed so as not to restrict flood flows, to maintain a natural bed through the 
+structure, and where necessary to include specific measures to maintain species 
+connectivity through the structure such as otter ledges. There will be some 
+permanent loss of bankside habitat at the culverts. However, this will be for short 
+lengths only and is therefore not expected to affect the integrity of the aquatic 
+ecosystems significantly. 
+9.8.4 
+There is an existing pond on the Power Generation Plant which supports aquatic 
+ecology and ecological habitat. The embedded mitigation provides for a permanent 
+attenuation pond for the Project, which will be sited close to this location, including 
+suitable habitat insofar as this does not compromise the storage volume.. 
+Consequently, no significant permanent loss of habitat is, therefore, envisaged with 
+these mitigation measures implemented. 
+9.8.5 
+The Project will incorporate appropriate SuDS and proprietary products as part of 
+both its embedded and additional mitigation to provide adequate water treatment 
+before discharging from the Project Site to any nearby ordinary (i.e. tributaries to 
+WFD designated) water bodies or main (WFD designated) water bodies in 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+ 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+ 
+9-48 
+ 
+accordance with current guidance. It is predicted that even with these mitigation 
+measures in place, slight changes in the water quality of the receiving water bodies 
+may occur. However, due to dispersion and dilution, changes that will cause a fall in 
+one class of any relevant element of the WFD water quality elements is unlikely. 
+Consequently, while the Project may create a slight change in the water quality of 
+WFD surface and groundwater bodies nearby, this will not threaten the current 
+status of the water bodies and therefore does not pose a risk to achieving the 
+objectives of the WFD. 
+9.8.6 
+Risks during construction will be temporary and will not cause any long term effects 
+beyond the construction phase. The construction works will therefore not pose a 
+risk to achieving the objectives of the WFD. 
+9.9 
+Mitigation and Monitoring 
+9.9.1 
+As a general rule, additional mitigation measures are proposed where a significant 
+effect is predicted to occur.  Embedded mitigation measures, which have been 
+incorporated within the design of the Project or are standard practice measures that 
+have been committed to are summarised in the Outline CEMP in Appendix 3.1. 
+9.9.2 
+It is considered that no additional mitigation is required, to supplement the identified 
+embedded mitigation effects.  The implemented embedded mitigation should result 
+in minor or less significant risks from the operation of the Project. 
+9.9.3 
+No monitoring is proposed to supplement and verify the embedded mitigation 
+proposed, which will be delivered via the Outline CEMP. 
+9.10 
+Residual Effects 
+9.10.1 The following tables present a summary of the Water Quality and Resources and 
+Flooding assessment.  They identify the receptors likely to be impacted, the level of 
+effect and, where the effect is deemed to be significant, the tables include the 
+mitigation proposed and the resulting residual effect.  
+ Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+9-49 
+ 
+Table 9-9: Water Quality and Resources – Overall Summary of Water Quality Effects and Flooding Arising During Construction Phase 
+Receptor 
+Description of Effect 
+Classification 
+of Effect 
+Additional 
+Mitigation  
+Classification of 
+Residual Effect 
+Significant / 
+Not 
+Significant 
+Power Generation Plant - Water Quality and Resources 
+Tributaries of Afon Llan crossing the 
+Power Generation Plant, immediately 
+east of site and  adjacent to the Access 
+Road west of the Project Site 
+Increased pollutant and 
+sediment loads 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from dust and 
+debris 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from 
+dewatering discharge 
+Minor 
+Not required 
+Minor 
+Not Significant 
+Lletty Morfil SINC, Waun Garn Wen 
+SINC (including areas of peat) and Rhos 
+Fawr SINC  
+Increased pollutant and 
+sediment loads 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from dust and 
+debris 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Groundwater body and aquifers 
+Infiltration of pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Loughor Estuary 
+Increased pollutant and 
+sediment load 
+Minor 
+Not required  Minor 
+Not Significant 
+Nant y Crimp SSSI 
+Increased pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Power Generation Plant - Flooding 
+Water Main 
+Flood Risk (main 
+fracture) 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Water Main 
+Temporary Bridge 
+(bridge failure) 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Other non-specific locations within study 
+area  
+Change in surface water 
+runoff caused by 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+ Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+9-50 
+ 
+Receptor 
+Description of Effect 
+Classification 
+of Effect 
+Additional 
+Mitigation  
+Classification of 
+Residual Effect 
+Significant / 
+Not 
+Significant 
+maintenance compound 
+Other non-specific locations within study 
+area 
+Surface water runoff 
+from impermeable areas 
+(Temporary Laydown 
+Area) 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Gas Connection – Water Quality and Resources 
+Tributaries of Afon Llan crossing the 
+Project Site and likely to be traversed by 
+the Gas Connection and gas pipeline 
+Increased pollutant and 
+sediment loads 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from dust and 
+debris 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from 
+dewatering discharge 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Lletty Morfil SINC, Waun Garn Wen 
+SINC (including areas of peat) and Rhos 
+Fawr SINC  
+Increased pollutant and 
+sediment loads 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from dust and 
+debris 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Groundwater body and aquifers 
+Infiltration of pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Loughor Estuary 
+Increased pollutant and 
+sediment load 
+Minor 
+Not required  Minor 
+Not Significant 
+Nant y Crimp SSSI 
+Increased pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Electrical Connection – Water Quality and Resources 
+Tributaries of Afon Llan crossing the 
+Project Site and likely to be traversed by 
+the Electrical Connection and cable route 
+Increased pollutant and 
+sediment loads 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from dust and 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+ Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+9-51 
+ 
+Receptor 
+Description of Effect 
+Classification 
+of Effect 
+Additional 
+Mitigation  
+Classification of 
+Residual Effect 
+Significant / 
+Not 
+Significant 
+and adjacent to the Access Road west of 
+the Project Site 
+debris 
+Pollution from 
+dewatering discharge 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Lletty Morfil SINC, Waun Garn Wen 
+SINC (including areas of peat) and Rhos 
+Fawr SINC  
+Increased pollutant and 
+sediment loads 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Pollution from dust and 
+debris 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Groundwater body and aquifers 
+Infiltration of pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Contamination from 
+drilling 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Loughor Estuary 
+Increased pollutant and 
+sediment load 
+Minor 
+Not required  Minor 
+Not Significant 
+Nant y Crimp SSSI 
+Increased pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+ 
+ 
+ 
+ Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+9-52 
+ 
+Table 9-10: Water Quality and Resources - Summary of Water Quality Effects and Flooding Arising During Operation Phase 
+Receptor 
+Description of Effect 
+Classification 
+of Effect 
+Additional Mitigation  
+Classification of 
+Residual Effect 
+Significant / Not 
+Significant 
+Power Generation Plant – Water Quality and Resources 
+Tributaries of Afon 
+Llan crossing the site, 
+immediately east of 
+site and  adjacent to 
+the Access Road 
+west of the site 
+Pollution 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Discharge of treated 
+wastewater 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Groundwater body 
+and aquifers 
+Infiltration of pollutants 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Discharge of treated 
+wastewater 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Power Generation Plant - Flooding 
+Afon Llan and 
+overland flow routes  
+Surface water runoff from 
+impermeable areas 
+(Generating Equipment 
+Site) 
+Minor 
+Not required  
+Minor 
+Not Significant 
+Overland flow routes 
+Drainage system 
+modifications (Generating 
+Equipment Site) 
+Minor 
+Not required 
+Negligible 
+Not Significant 
+Tributary of the Afon 
+Llan crossing the 
+Generating 
+Equipment Site, 
+(Ordinary 
+Watercourses and 
+Drainage Channels) 
+Impedance and storage 
+of flow 
+Minor 
+Not required  
+Minor 
+Not Significant 
+Temporary Laydown 
+Surface water runoff from 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+ Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+Prepared for:  Abergelli Power Limited 
+AECOM 
+9-53 
+ 
+Receptor 
+Description of Effect 
+Classification 
+of Effect 
+Additional Mitigation  
+Classification of 
+Residual Effect 
+Significant / Not 
+Significant 
+Area 
+impermeable areas 
+Other non-specific 
+locations within study 
+area  
+Surface water runoff from 
+impermeable areas 
+(Access Road) 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Tributaries of the 
+Afon Llan 
+crossing/adjacent to 
+the Access Road 
+west of the Project 
+Site 
+Drainage system 
+modifications (Access 
+Road) 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+Water Main 
+Permanent Bridge (flow 
+conveyance) 
+Negligible 
+Not required 
+Negligible 
+Not Significant 
+ 
+ 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+9-54 
+ 
+a) Project “in combination” Effects 
+9.10.2 From the perspective of both water quality and flood risk, there are no significant 
+effects likely to arise from any elements of the Project during the different phases of 
+the Project Life. Therefore, overall, it has been considered that there is no 
+significant effect predicted for the Project.   
+9.11 
+Cumulative Effects 
+a) Assessment of Potential Cumulative Effects – Construction and Demolition 
+9.11.1 There is no potential for cumulative impacts on Water Quality and Resources and 
+Flooding as a result of construction of the whole Project through the three different 
+project elements, and also in combination with other schemes. None of the impacts 
+identified in the assessment for the Project are considered to be significant, no 
+significant cumulative impacts are predicted and therefore no significant cumulative 
+effects are predicted. 
+b) Assessment of Potential Cumulative Effects – Operation 
+9.11.2 There is no potential for cumulative impacts on Water Quality and Resources and 
+Flooding as a result of operation of the Project in combination with the identified 
+other schemes. None of the impacts identified in the assessment for the Project are 
+considered to be significant, no significant cumulative impacts are predicted and 
+therefore no significant cumulative effects are predicted. 
+9.12 
+References 
+Ref. 9-1 
+Department of Energy & Climate Change. Overarching National Policy 
+Statements for Energy (EN-1) July 2011. 
+Ref. 9-2 
+Department of Energy and Climate Change.  National Policy Statement for Gas 
+Supply Infrastructure and Gas and Oil Pipelines (EN-4). July 2011. 
+Ref. 9-3 
+Department for Environment, Food & Rural Affairs. Flood and Water 
+Management Act 2010.  
+Ref. 9-4 
+Department for Environment, Food & Rural Affairs. Flood Risk Regulations 
+2009.  
+Ref. 9-5 
+Department for Environment, Food & Rural Affairs. Core Guidance for the 
+Environmental Permitting (England and Wales) Regulations 2010.  
+Ref. 9-6 
+Welsh Assembly Government. Technical Advice Note 15: Development and 
+Flood Risk. Cardiff, 2004. 
+Ref. 9-7 
+Welsh Government. Recommended non-statutory standards for sustainable 
+drainage (SuDS) in Wales – designing, constructing, operating and maintaining 
+surface water drainage systems. Cardiff, 2017. 
+Ref. 9-8 
+Well-being of Future Generations Act 2016. 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+9-55 
+ 
+Ref. 9-9 
+Welsh Government. Planning Policy Wales. Cardiff, Edition 9, November 2016. 
+Ref. 9-10 
+Welsh Government. Water Strategy for Wales. Cardiff, 2015. 
+Ref. 9-11 
+Natural Resources Wales. Western Wales River Basin Management Plan 
+2015-2021 Summary. Cardiff, December 2015. 
+Ref. 9-12 
+City and County of Swansea. Local Development Plan (unadopted; submitted 
+for examination July 2017). Swansea, 2017. 
+Ref. 9-13 
+Scott Wilson. City & County of Swansea Council – Stage 1 Strategic Flood 
+Consequence Assessment. September 2010. 
+Ref. 9-14 
+URS. City and County of Swansea – Strategic Flood Consequence 
+Assessment - stage 2. Plymouth, October 2012. 
+Ref. 9-15 
+City and County of Swansea. Flood Risk Management Plan 2015. Swansea, 
+2015. 
+Ref. 9-16 
+City and County of Swansea. Local Flood Risk Management Strategy. 
+Swansea, 2013. 
+Ref. 9-17 
+City and County of Swansea. Preliminary Flood Risk Assessment. Swansea, 
+2011. 
+Ref. 9-18 
+Orbis Energy Limited. Abergelli Power Project, Environmental Impact 
+Assessment Scoping Report. Suffolk, June 2014. 
+Ref. 9-19 
+Highway Agency. Design Manual for Roads and Bridges (DMRB, HD/45/09). 
+Chapter 11, November 2009.. 
+Ref. 9-20 
+The Planning Inspectorate. Scoping Opinion Proposed Abergelli Power Project, 
+2014. 
+Ref. 9-21 
+WSP. Abergelli Power Plant Design Concept Report. Godalming, 2017. 
+Ref. 9-22 
+WSP. Outline Drainage Strategy, Abergelli Power Ltd. Manchester, 2017. 
+Included in Appendix 9.1. 
+Ref. 9-23 
+Welsh Government. Natural Resources Wales’ Flood Risk Map Viewer. 2017. 
+(Online) Available from: 
+https://maps.cyfoethnaturiolcymru.gov.uk/Html5Viewer/Index.html?configBase=
+https://maps.cyfoethnaturiolcymru.gov.uk/Geocortex/Essentials/REST/sites/Flo
+od_Risk/viewers/Flood_Risk/virtualdirectory/Resources/Config/Default 
+(Accessed November 2017) 
+Ref. 9-24 
+Lle Geo-Portal. Development Advice Map. 2017. (Online) Available from: 
+http://lle.gov.wales/map#m=-3.159,51.47832,8&b=europa&l=328h;329h;330; 
+(Accessed November 2017) 
+Abergelli 2018 PEIR – CHAPTER 9: WATER QUALITY AND RESOURCES 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+9-56 
+ 
+Ref. 9-25 
+Natural Resources Wales. Natural Resources Wales. 2017. (Online) Available 
+from https://naturalresources.wales/?lang=en (Accessed November 2017) 
+Ref. 9-26 
+City and County of Swansea. Swansea Council. 2017. (Online) Available from 
+http://www.swansea.gov.uk/residents (Accessed November 2017) 
+Ref. 9-27 
+ The Water Resources (Control of Pollution) (Oil Storage) (Wales) Regulations 
+2016. Available at:  
+http://www.legislation.gov.uk/wsi/2016/359/pdfs/wsi_20160359_mi.pdf 
+(Accessed November 2017) 
+Ref. 9-28 
+The Water Environment (Water Framework Directive) (England and Wales) 
+Regulations 2017. Available at:  
+Ref. 9-29 
+https://www.legislation.gov.uk/uksi/2017/407/contents/made  
+Ref. 9-30 
+The Environmental Permitting (England and Wales) Regulations 2016. 
+Available at:  
+https://www.legislation.gov.uk/uksi/2016/1154/pdfs/uksi_20161154_en.pdf.  
+(Accessed November 2017) 

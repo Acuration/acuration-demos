@@ -1,0 +1,3420 @@
+ 
+ 
+ 
+ 
+ 
+Methodology for measuring net carbon 
+dioxide removal through bioenergy 
+with carbon capture and storage 
+(BECCS) 
+V0.9 
+October 2023 
+Prepared by: EcoEngineers 
+ 
+ 
+ 
+2  
+ 
+ 
+Contents 
+1 Methodology context .......................................................................................................................... 4 
+1.1 
+Version notes ............................................................................................................................................ 4 
+2 Project requirements ........................................................................................................................... 6 
+2.1 
+Methodology scope................................................................................................................................... 6 
+2.2 
+Project proponent ..................................................................................................................................... 6 
+2.3 
+Requirements ........................................................................................................................................... 6 
+3 Project boundaries .............................................................................................................................. 8 
+3.1 
+Requirements ........................................................................................................................................... 8 
+4 Additionality ..................................................................................................................................... 10 
+4.1 
+Requirements ......................................................................................................................................... 10 
+5 Baseline determination and quantification .......................................................................................... 12 
+5.1 
+Defining the baseline .............................................................................................................................. 12 
+5.2 
+Requirements ..........................................................................................................................................13 
+6 Leakage ............................................................................................................................................ 14 
+6.1 
+Requirements ......................................................................................................................................... 14 
+7 GHG removal quantification ................................................................................................................17 
+7.1 
+Requirements .......................................................................................................................................... 17 
+8 Storage and permanence ................................................................................................................... 26 
+8.1 
+Scientific and regulatory basis for permanent storage of carbon ............................................................... 26 
+8.2 
+Requirements ......................................................................................................................................... 27 
+9 Reporting, validation and verification ................................................................................................. 29 
+9.1 
+Outline of reporting, validation and verification processes ........................................................................ 29 
+9.2 
+Requirements ......................................................................................................................................... 34 
+Appendix A - Zero-rating of biomass and basis of removal ........................................................................ 38 
+Appendix B – Countries initially assessed under storage and permanence requirements ............................. 39 
+Appendix C – Sustainability criteria for forest biomass .............................................................................. 40 
+Stable or increasing forest carbon stock ............................................................................................................ 40 
+Jurisdictional approach .................................................................................................................................... 40 
+Forest sourcing area approach ......................................................................................................................... 41 
+Sustainable management of forests and maintenance of biodiversity ................................................................ 41 
+Protection of primary forests and other highly biodiverse ecosystems ................................................................ 42 
+Protection of high carbon stock lands ............................................................................................................... 42 
+ 
+ 
+ 
+3  
+ 
+ 
+Long-lived wood products ................................................................................................................................ 43 
+Corruption ....................................................................................................................................................... 43 
+Exemptions ..................................................................................................................................................... 43 
+Traceability and mass balance ......................................................................................................................... 43 
+Certification/Monitoring, reporting and verification (MRV) ................................................................................ 44 
+Non-compliance .............................................................................................................................................. 44 
+Revisions......................................................................................................................................................... 45 
+Appendix D – Energy leakage .................................................................................................................. 46 
+Requirements .................................................................................................................................................. 46 
+Appendix E – Stakeholder consultation and grievance mechanism requirements ....................................... 48 
+Stakeholder consultation requirements ............................................................................................................ 48 
+Grievance mechanism ..................................................................................................................................... 48 
+Appendix F – Safeguards ......................................................................................................................... 50 
+Assessment and management of environmental and social risks ....................................................................... 50 
+Labour rights and working conditions ............................................................................................................... 50 
+Resource efficiency and pollution prevention .................................................................................................... 50 
+Land acquisition and involuntary resettlement ................................................................................................. 50 
+Biodiversity conservation and sustainable management of living natural resources............................................ 51 
+Indigenous peoples (IPs), local communities (LCs) and local heritage ................................................................. 51 
+Respect for human rights, stakeholder engagement ......................................................................................... 51 
+Gender equality ............................................................................................................................................... 51 
+Appendix G – Emissions included or excluded from the project boundary .................................................. 52 
+Appendix H – Registry requirements ........................................................................................................ 55 
+Appendix I – Managing data .................................................................................................................... 57 
+Requirements .................................................................................................................................................. 57 
+Appendix J – Indicative monitoring plan................................................................................................... 69 
+Appendix K - Sustainability criteria for alternative biomass sources .......................................................... 72 
+References ............................................................................................................................................. 73 
+Glossary .................................................................................................................................................. 75 
+ 
+ 
+ 
+ 
+ 
+ 
+4  
+ 
+ 
+1 Methodology context  
+The purpose of this methodology is to show how a project proponent (defined in chapter 2) may quantify 
+its net contribution to climate change mitigation. Such proponents will be using power and/or heat 
+bioenergy with carbon capture and storage (BECCS) as a tool for permanent carbon dioxide removal 
+(CDR). This methodology is built on the principle of conservativeness, calculating the net volume of 
+carbon dioxide (CO2) removed from the atmosphere through BECCS, and containing measures to avoid 
+overstating removals volumes. In addition, this methodology outlines robust quantification approaches 
+and data sources that can be used to verify net removal volumes and in turn produce CDR credits. It also 
+outlines strict eligibility criteria, such as detailed biomass sustainability requirements. 
+BECCS technology performs the service of capturing CO2 and permanently storing it in geological 
+reservoirs. The capture and permanent storage of CO2 from sustainably sourced biomass delivers 
+permanent negative emissions. This methodology applies to BECCS projects using thermal combustion 
+of solid biomass fuels, i.e. those projects generating CDR credits from energy-generation BECCS plants. 
+It does not apply to other BECCS approaches, such as ethanol-production or waste-to-energy plants – 
+although many of the principles may also be adapted for use with these technologies. 
+This methodology lays out criteria and approaches that project developers shall adhere to in each step 
+of developing a credit-generating BECCS project. The authors anticipate that it will be updated 
+periodically to reflect the latest approaches and evidence. 
+The following documents have informed the development of the methodology: 
+• 
+Intergovernmental Panel on Climate Change (IPCC) Special Report on Carbon dioxide Capture 
+and Storage  
+• 
+Proposal for an EU Carbon Removals Certification Framework (EU CRC-F), COM (2022) 672 final 
+• 
+The Integrity Council for Voluntary Carbon Markets – Core Carbon Principles / Assessment 
+Framework (July 2023) 
+• 
+ISO 14064-2:2019 
+• 
+ISO 27914:2017 
+• 
+Puro.Earth – Geologically Removed Carbon  
+• 
+Gold Standard – Methodology for biomass fermentation with carbon capture and geologic 
+storage – draft for public consultation (2023) 
+1.1 Version notes 
+This version of the methodology (v0.9) has been developed by Drax and Stockholm Exergi, with technical 
+inputs from EcoEngineers.  It is pending validation by a third party validation and verification body.   
+ 
+ 
+ 
+5  
+ 
+ 
+The methodology may be revised in future iterations to, inter alia, reflect new best practices or 
+accommodate other project types (e.g. BECCS from the pulp and paper industry), fuel sources or 
+jurisdictions.  
+ 
+ 
+ 
+ 
+ 
+6  
+ 
+ 
+2 Project requirements  
+This chapter lays out the scope of this methodology, as well as the applicability conditions, safeguards 
+and crediting periods that the project proponent is required to follow.  
+2.1 Methodology scope  
+The current version of this methodology applies to power and/or heat BECCS projects storing CO2 in a 
+defined set of jurisdictions. These are: the European Union (EU) and non-EU member states of the 
+European Economic Area (EEA), the United States of America (USA), or the United Kingdom (UK). This 
+jurisdictional limitation is based on  said jurisdictions’ robust regulations and high enforcement levels, in 
+particular regarding permanent geological sequestration of carbon dioxide. This is not to say that other 
+jurisdictions may not already have equally strong regulatory frameworks; in future iterations, the 
+methodology’s scope may be opened to more jurisdictions.  
+The methodology only applies to forest and agricultural biomass1, although it may be extended to other 
+forms of biomass in the future. Projects may source biomass from any jurisdiction / source which meets 
+the sustainable biomass criteria outlined in Appendix C.   
+2.2 Project proponent  
+The project proponent is defined as the party that has the overall contractual control over, and 
+responsibility for, the BECCS project that generates CDR credits. Typically, this is the operator or owner 
+of the carbon capture system. The project proponent is not required to directly operate all components 
+of the BECCS value chain, and may choose to rely on contractual partnerships for delivery. For example, 
+the project proponent need not be the entity which directly injects or stores the CO2. The project 
+proponent shall be the sole beneficiary of any carbon credits generated in relation to activities using this 
+methodology. 
+2.3 Requirements 
+Applicability conditions 
+The project proponent shall demonstrate that their project:  
+a. Uses only sustainable biomass feedstocks, verified appropriately against the conditions laid out in 
+Appendix C of this methodology.  
+b. Stores captured CO2 in geological storage only with storage operators that meet local and 
+international applicable regulatory standards for permanent sequestration. Storage sites are to be 
+verified appropriately against the conditions regarding permanence laid out in chapter 8.  
+ 
+1  Note that Appendix C on sustainable biomass criteria currently only applies to forest biomass. A version of this appendix for 
+agricultural biomass is in development.  
+ 
+ 
+ 
+7  
+ 
+ 
+c. CO2 captured through BECCS facilities cannot be used for purposes other than permanent storage, 
+including enhanced hydrocarbon recovery (EHR).2  
+Safeguards 
+The aim of projects under this methodology is to deliver climate change mitigation through the delivery 
+of CDR. While this delivers a climate benefit, it is important to also consider the social and environmental 
+impact on communities where projects are located. Therefore, at project validation, the project 
+proponent shall demonstrate that their project has:  
+a. Conducted all relevant stakeholder consultations following the requirements described in Appendix 
+E. 
+b. Reviewed the full list of safeguards outlined in Appendix F and either i) confirmed they have not 
+identified any project risk of breaching any of these, or ii) provided a mitigation plan for any identified 
+risks. These assessments shall be made available on request to the validation/verification bodies 
+(VVB) engaged to validate the project. If any issues arise against these safeguards during project 
+operation, the project proponent must develop and publish a mitigation plan. 
+Crediting periods  
+The project crediting period runs for 15 years and is renewable twice. Each renewal period will require a 
+full review and update of the Project Design Document (PDD – see chapter 9) to ensure continued 
+compliance with all methodology requirements. Renewals will be validated against the latest version of 
+the methodology document, noting that the methodology requirements may be updated over time. 
+ 
+ 
+2  In many cases, BECCS projects are likely to use shared infrastructure for CO2 transport, injection, or storage with other CO2 
+capture projects. Shared infrastructure may also be used for non-applicable activities such as enhanced hydrocarbon recovery 
+(EHR). In the case that a BECCS project uses shared infrastructure where a part of the overall CO2 is going to EHR, the project 
+developer shall demonstrate that contractually their CO2 is only intended for applicable non-EHR storage sites. Furthermore, 
+the developer shall provide mass balance evidence from the infrastructure provider that the amount of CO2 the developer is 
+entitled to was injected in an applicable non-EHR storage site. 
+ 
+ 
+ 
+8  
+ 
+ 
+3 Project boundaries 
+The project’s boundaries are defined both in terms of spatial extent and in terms of relevant project 
+activities leading to carbon sources and sinks. The boundary is drawn to represent processes that are 
+exclusively initiated by the anticipation of CDR credit revenue from the project. (See Appendix G for a 
+detailed list of emissions included or excluded from the project boundary.)  
+The spatial extent of the project boundary encompasses: 
+• 
+The physical, geographical sites where CO2 associated with bioenergy is captured by the project. 
+• 
+The sites where the captured CO2 is processed. 
+• 
+The sites where the processed CO2 is compressed and dehydrated. 
+• 
+The docking sites of the CO2 transport system. 
+• 
+The sites where CO2 is injected for storage. 
+• 
+The secure underground geological reservoirs where the injected CO2 is stored.3 
+Furthermore, to ensure a conservative calculation of net removals, this methodology requires the 
+quantification and deduction of both operational supply chain emissions and leakage generated in the 
+BECCS value chain. By subtracting emissions generated along the value chain, this approach ensures that 
+only net removals are credited (elaborated in chapter 7). 
+3.1 Requirements 
+3.1.1 
+The formal project boundary shall be drawn around the carbon capture, processing, transport 
+and storage components of the BECCS system (see figure 1). 
+3.1.2 
+The project proponent must provide the locations of each project site using global positioning 
+system (GPS) coordinates. If pipelines are included in the CO2 transport process, then the project 
+proponent shall provide a map showing the GPS coordinates for locations along the pipeline.  
+ 
+ 
+3  As adapted from Gold Standard – Methodology for biomass fermentation with carbon capture and geologic storage – draft 
+for public consultation (2023). Note that in cases where projects are connected to complex networks with multiple and 
+evolving CO2 capture, processing and storage sites, the project boundary would be defined in contractual terms rather than 
+spatial ones for simplicity, for example as the contractual destination of CO2.  
+ 
+ 
+9  
+ 
+Figure 1 Extent of BECCS project  
+A BECCS project's boundary encompasses all activities initiated by the anticipation of CDR credit revenues: namely carbon capture, processing, transport, and 
+injection and storage processes. Emissions that would have occurred anyway, absent the BECCS project, are considered baseline emissions, and are excluded 
+from the net removals calculation - as described in chapter 5. For conservativeness, the quantification of net removals accounts for a broader range of activities 
+beyond those strictly within project boundaries: namely operational supply chain emissions and leakages (i.e. indirect emissions), which are deducted from 
+gross CO2 injected. Note that some market leakages may reduce emissions (e.g. through heat recovery processes on carbon capture units). These concepts are 
+further discussed in chapters 6 and 7.  
+ 
+ 
+ 
+ 
+10  
+ 
+ 
+4 Additionality  
+Under this methodology, BECCS projects are developed for the purpose of delivering carbon removals. 
+Removals are additional if they would not have taken place without the incentive created by CDR credit 
+revenues. Note that the additionality assessment described in this methodology is designed to follow a 
+‘standardized approach’ as defined by the Integrity Council for the Voluntary Carbon Market (ICVCM). 
+4.1 Requirements  
+4.1.1 
+The project proponent shall demonstrate the additionality of their BECCS project by following 
+the approach outlined in figure 2 below: 
+ 
+ 
+Figure 2 Additionality demonstration diagram 
+1. Regulatory requirement: The project proponent shall demonstrate that there are no existing 
+regulations requiring the proponent to capture and store CO2 on bioenergy plants within the 
+jurisdiction of the capture unit. Where successfully demonstrated, projects are considered to comply 
+with this requirement for the duration of their crediting period upon validation. This will be 
+ 
+ 
+ 
+11  
+ 
+ 
+revalidated at each crediting period renewal. If the project is able to demonstrate regulatory 
+additionality, it must move to additionality step 2.  
+2. Prior consideration of carbon market revenues: The project proponent must provide documented 
+evidence (e.g. public announcements, internal decision documents) of ‘prior consideration’4 of 
+carbon market revenues in the decision to develop a project. ‘Prior consideration’ is defined as 
+reasoning used to justify action or investment in advance of operational commencement. If the 
+project proponent can prove prior consideration, it must move to step 3.  
+3. Private sector support: A project may receive funds from the private sector, other than those from 
+sales of CDR credits or equity funding. Such funding may include grants, prize money and other non-
+credit related contributions. If this is the case, the project will need to demonstrate additionality 
+using step 6. If the project has no such funds, it must move to step 4.  
+4. Government/institutional support: If a project proponent demonstrates that the project is not in 
+receipt of sources of revenue from governments or public institutions, the project is additional. In 
+cases where there is government / institutional support, the project must move to step 5.  
+5. Government support envisages VCM participation: Government or institutional support may take 
+several forms. Often support is granted with the assumption that the project will participate in the 
+voluntary carbon market (VCM) and therefore that some portion of the project funding will come 
+from the market. If a government envisages that the project will participate in the VCM, the project 
+will be additional, since without the incentive created by CDR credit revenues it would not have 
+received government aid, and therefore would not have taken place. Projects in receipt of 
+government or institutional support that do not envisage VCM participation must move to step 6. 
+6. Auditor Financial Statement: To confirm that projects receiving private sector, government or 
+institutional support would not have taken place absent the incentive of carbon market revenues, a 
+third-party financial auditor will review the finances of activities within the project boundary. The 
+auditor will determine whether said revenues were a necessary factor in the project proponent’s 
+decision to initiate the project. If the auditor states that carbon market revenue is necessary, then the 
+project is additional. 
+ 
+ 
+ 
+4 ICVCM Core carbon principles, assessment framework and assessment procedure (2023) 
+ 
+ 
+ 
+12  
+ 
+ 
+5 Baseline determination and quantification 
+5.1 Defining the baseline 
+A project baseline describes what would have happened in the absence of a carbon removals project. 
+Under this methodology, the baseline comprises activities in the BECCS process not encompassed in the 
+project boundary. There are two possible baseline scenarios applicable under this methodology: 
+• 
+Scenario A – retrofit BECCS. The project enables the installing and/or operating of new carbon 
+capture equipment on an existing biomass power and/or heat plant.  
+• 
+Scenario B – new-build BECCS. The project enables the installing and/or operating of carbon 
+capture equipment on a new biomass power and/or heat plant.  
+ 
+Under this methodology, retrofit refers to the introduction of new materials, products and technologies 
+into an existing bioenergy plant to operate as a carbon capture and storage facility. To qualify as an 
+existing biomass power and/or heat plant, it shall have been operational for more than 48 months before 
+the installation of the new materials. 
+Projects where CCS equipment has been installed on a bioenergy power and/or heat plant less than or 
+equal to 48 months from the operational start date of the plant shall be considered newbuild. 
+Projects where CCS equipment has been installed on a bioenergy power and/or heat plant more than 48 
+months from the operational start date of the plant shall be considered retrofit.5 
+Under both scenarios, transport and storage does not necessarily have to be at the capture location, and 
+can be either retrofit or new-build. For both scenarios, the baseline has been designed to be conservative 
+with respect to quantifying net removals. Examples of why the approach is conservative include:  
+Scenario A – retrofit BECCS: 
+• 
+A part of operational supply chain emissions is allocated to carbon removals, even though an 
+argument could be made that these emissions would have occurred in any case. 
+• 
+Energy leakage must be accounted for and subtracted from gross removals, even though the 
+overall system is a net renewable producer. 
+Scenario B – new-build BECCS: 
+• 
+The embodied emissions from the construction of the energy plant must be subtracted from net 
+removals, even though an argument could be made for allocating these emissions to energy. 
+ 
+5  Note that in a scenario in which an energy plant is transformed from using fossil fuels to biomass fuel sources, the decision 
+of whether the BECCS project is new-build or retrofit depends only on the time between the completion of the bioenergy 
+conversion and the completion of CCS installation. For example, a CCS unit that is installed within 48 months of a plant being 
+successfully converted from fossil fuel to biomass usage would be considered a new-build BECCS project, regardless of the 
+time spent on converting the plant. 
+ 
+ 
+ 
+13  
+ 
+ 
+• 
+Any additional avoided emissions resulting from the renewable energy displacement of more 
+carbon intensive forms of generation is not included in the quantification. 
+The impact of the different scenarios on quantification is summarized in figure 3 below.  
+ 
+5.2 Requirements 
+5.2.1 
+Any emissions not attributable to the project shall be categorized as baseline emissions (see 
+description of applicable emissions in Appendix G). These shall not be considered in the net 
+removals calculation (see chapter 7).  
+5.2.2 
+At point of project validation, the project proponent shall confirm whether the project shall be 
+considered as a retrofit (Scenario A) or new-build (Scenario B). They should use the definitions in 
+section 5.1 of this methodology. 
+5.2.3 
+In either baseline scenario (A or B), if the project developer provides evidence that the underlying 
+biomass power and/or heat plant would generate power / heat even in the absence of CDR 
+generation, a proportion of operational supply chain emissions may be allocated to baseline 
+emissions using an allocation factor (further described in chapter 7). 
+ 
+ 
+Scenario
+ on-CCS bioenergy 
+plant construction in 
+net removals 
+quantification
+Energy leakage from 
+capture
+Scenario A  retrofit BECCS
+The project enables the installing and 
+operating of CCS equipment on a biomass 
+power plant which would otherwise 
+continue operations as is
+Scenario B  new-build BECCS 
+The project enables the development and 
+operating of a new BECCS plant
+Figure 3 Accounting for construction emissions and energy leakage under retrofit and new-build BECCS 
+ 
+ 
+ 
+14  
+ 
+ 
+6 Leakage 
+BECCS projects may lead to indirect emissions or ‘leakage’ caused by activities within the BECCS value 
+chain (including biomass production, processing, capture, transport and storage activities). This 
+methodology accounts for all material leakage emissions by subtracting them from gross CO2 removed.  
+6.1 Requirements 
+6.1.1 
+A project proponent must assess all sources of leakage across four categories of leakage6, as 
+outlined in table 1 below.  
+Table 1 Categories of emissions leakage 
+Source of leakage 
+Materiality 
+Upstream/downstream emissions: removals can 
+directly impact emissions that occur downstream 
+or upstream, outside of net removals 
+quantification boundaries. For example, if BECCS 
+was to increase emissions intensity in upstream 
+forestry (e.g. by requiring more emissions 
+intensive equipment) or lead to embodied carbon 
+from the development of non-project specific CO2 
+pipeline and storage infrastructure due to the 
+additional demand for such services.  
+To be assessed through direct quantification of key 
+upstream/downstream emissions sources outside 
+of project boundaries likely to increase due to 
+project activity. 
+Activity-shifting: shifting emissions to locations 
+not targeted, or emissions not monitored, by the 
+activity. An example is the increase in agricultural 
+emissions from the displacement of agricultural 
+activities from land preferred for biomass 
+production. 
+Assessed to be non-material due to the stringent 
+biomass sustainability requirements of this 
+methodology. In particular, due to the following 
+protections against land sector leakage: 
+• 
+Biomass feedstock shall not use feedstock 
+suitable for use in long-lived wood 
+products. These sources of fibre are of 
+greatest value and therefore provide the 
+main driver of land use and land 
+management decisions in the forest sector  
+• 
+Biomass feedstock is only sourced from 
+forest areas where the carbon stock is 
+stable or increasing, or where biomass 
+sourcing helps to reverse declines in forest 
+carbon stock (e.g. to mitigate risk of natural 
+disturbance). By assessing carbon stock 
+changes at a jurisdictional or sourcing area 
+ 
+6  Integrity Council for the Voluntary Carbon market (ICVCM) Core carbon principles, assessment framework and assessment 
+procedure, July 2023 
+ 
+ 
+ 
+15  
+ 
+ 
+Source of leakage 
+Materiality 
+level, the assessment captures both direct 
+and indirect forest carbon stock changes 
+associated with the project. (See Appendix 
+C) 
+Market leakage: removals can impact the supply 
+and demand of emissions-intensive products or 
+services. For example, energy leakage would occur 
+if the installation of CCS equipment raises demand 
+for carbon intensive energy.  
+To be assessed following approach outlined in 
+Appendix D.  
+Note that energy leakage emissions are distinct 
+from direct CCS energy use emissions, which are 
+accounted for in the net removals quantification 
+under CCS project emissions. Energy leakage are 
+indirect emissions that would be caused by 
+changes to the overall grid’s emissions intensity 
+resulting from CCS operations. 
+Note: in some cases, there can be negative leakage 
+(i.e. lowering of emissions) – for example through 
+the recovery of process heat replacing other heat 
+production. This benefit may be specified but, due 
+to conservativeness, will only be entered into the 
+net removals calculation when positive leakage 
+occurs, i.e. increase in emissions due to leakage. 
+Ecological leakage: a removals project can have 
+an indirect impact on emissions from 
+hydrologically-connected areas. An example would 
+be carbon dioxide emissions from soils in a wetland 
+if the water level is lowered following increases in 
+water demand from biomass feedstocks grown on 
+land that is hydrologically- connected to the 
+wetland.  
+Materiality to be assessed through an 
+environmental impact assessment. 
+6.1.2 
+For upstream/downstream emissions leakage and ecological leakage, the project proponent 
+shall include the following steps:  
+a) List sources of potentially relevant emissions and quantification estimates for these. 
+b) Identify those sources of emissions most likely to increase in response to BECCS deployment, 
+with an estimated potential impact (expressed as the % increase of emissions from these 
+sources, relative to baseline level).   
+c) Quantify any emissions sources estimated to potentially have material impact (>2% of gross 
+injected CO2) using a life cycle analysis (LCA) approach and add the value to the leakage 
+calculation in the quantification chapter. 
+6.1.3 
+To ensure no activity-shifting leakage, including land sector leakage, the project proponent shall 
+meet all sustainable biomass criteria laid out in Appendix C. 
+ 
+ 
+ 
+16  
+ 
+ 
+6.1.4 
+To quantify energy leakage, a component of market leakage, the project proponent shall follow 
+the process outlined in Appendix D. 
+ 
+ 
+ 
+ 
+ 
+17  
+ 
+ 
+7 GHG removal quantification 
+This chapter details the method that the project proponent must follow to quantify the number of CDR 
+credits they can receive from removing greenhouse gases (GHGs) through BECCS activity. This number 
+is determined by the amount of CO2 that has been permanently removed and stored through the BECCS 
+project, minus all direct emissions associated with CCS operation and supply chain emissions, and minus 
+indirect emissions from leakage.  
+Any emissions will be converted to CO2e using the most recently available IPCC criteria.7 
+7.1 Requirements 
+7.1.1 
+The project proponent shall measure total CDR credits generated by BECCS using the approach 
+outlined in figure 3 below and the subsections and equations that follow. These equations have 
+been designed to capture a conservative estimate of the ‘net’ volume of removals produced by a 
+BECCS project. 
+7.1.2 
+The full quantification shall be carried out at validation and applied at each subsequent 
+verification and credit issuance. Not all variables need to be updated at each quantification - 
+certain variables only need updating annually (with updates required for each calendar year after 
+validation). Each data/parameter shall be monitored according to the frequency outlined in the 
+sampling plan noted in the PDD (an example is shown in chapter 9).  
+ 
+ 
+7  See IPCC Sixth Assessment Report, 2021, Chapter 7. available at: 
+https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter_07_Supplementary_Material.pdf 
+ 
+ 
+18  
+ 
+Figure 4 Removal quantification 
+ 
+ 
+ 
+ 
+ 
+19  
+ 
+ et removals  
+ 
+(eq 1) 
+ 
+ 
+ 
+𝑁𝐶𝑅𝑦 = 𝐺𝐼𝐶𝑅𝑦 − 𝑂𝑆𝐶𝑦 − 𝑃𝐸𝑦 − 𝐿𝑦 − 𝐴𝑦 
+Where: 
+NCRy 
+Total net CO2 removed in period Y  
+tonnes of CO2e 
+GICRy 
+Gross injected CO2 removals in period Y 
+tonnes of CO2 
+OSCy 
+Operational supply chain emissions in period Y 
+tonnes of CO2e 
+PEy 
+Total project emissions in period Y (see equation 3) 
+tonnes of CO2e 
+Ly 
+Leakage emissions in period Y 
+tonnes of CO2e 
+Ay 
+Adjustments in period Y 
+tonnes of CO2e 
+Gross injected CO2 removals 
+The preferred approach for quantifying injected CO2 removal volumes is through documentation from 
+the storage operator that certifies the gross volumes of injected CO2 attributed to the BECCS project. If 
+certification showing injected CO2 volumes directly attributable to the BECCS project is provided, this 
+figure shall be used directly,8 and fugitive emissions need not be estimated.  
+Where certification is not available (e.g. if a storage operator is unexpectedly unable to verify CO2 
+allocations from multiple CCS plants that may be feeding into a single injection site), then equation 2 
+shall be used to estimate gross injected removal volumes. Equation 2 relies on metering data from the 
+capture facility for calculating carbon removals, not on data from the point of injection.  
+(eq 2)  
+ 
+ 
+𝐺𝐼𝐶𝑅𝑦 = 𝐺𝐶𝐶𝑦 − 𝑇𝐹𝐸𝑦 − 𝐼𝐹𝐸𝑦 − 𝐴𝐹𝐶𝑦 
+Where: 
+GICRy 
+Gross injected CO2 in period Y (monitoring table 1) 
+tonnes of CO2 
+GCCy 
+Gross captured CO2 in period Y (monitoring table 2) 
+tonnes of CO2 
+TFEy 
+CO2 transport fugitive emissions in period Y (monitoring table 3) 
+tonnes of CO2 
+IFEy 
+Injection fugitive emissions in period Y (monitoring table 4) 
+tonnes of CO2 
+AFCy 
+Carbon captured and stored originating from ancillary fuels used in 
+period Y (monitoring table 19) 
+tonnes of CO2 
+ 
+8  Note: in some cases, the project proponent may wish to use a proportion of the gross injected removal volumes for other 
+mitigation reporting uses. Where this is the case, the project proponent shall provide evidence to the VVB of the volume of 
+removals being used for these different purposes, and these volumes shall be subtracted from gross injected removals prior 
+to the rest of the calculation. 
+ 
+ 
+ 
+20  
+ 
+Project developers shall make transparent in their PDD an estimation of fugitive emissions from carbon 
+transport and injection processes. They should also estimate the uncaptured emissions from the burning 
+of ancillary fossil fuels (e.g. for starting up the biomass combustion process or use in regenerative thermal 
+oxidisers). Developers should review these estimates in their annual reporting to ensure fugitive 
+emissions are not underestimated. 
+Operational supply chain emissions 
+Operational supply chain emissions include all emissions related to the supply of biomass feedstock used 
+for BECCS, which is the sum of: 
+• 
+Biomass cultivation and harvesting emissions 
+• 
+Processing emissions (for example, processing woody biomass into pellets) 
+• 
+Transport emissions from moving feedstock (the project proponent will need to acquire and hold 
+data on all transportation methods, their emissions factors, and the distances travelled) 
+• 
+Emissions from removing and transporting the waste generated through bioenergy or carbon 
+capture activities (for example, removing ash). 
+For biomass cultivation and harvesting emissions, note that only those emissions directly attributable to 
+the cultivation and harvesting of biomass for BECCS purposes (e.g., collection of residues) shall be 
+included in this quantification – all other emissions shall be excluded as these should be allocated to the 
+timber operator.9 The emissions associated with the collection, transport, and processing of the 
+feedstock for BECCS shall, however, be included in the quantification. 
+Operational supply chain emissions will also include emissions from energy generated onsite. Note that 
+the sustainable biomass criteria of this methodology, particularly those on sourcing from stable or 
+increasing forest carbon stocks, ensure that BECCS operations shall not cause emissions from direct land 
+use changes. 
+(eq 3) 
+ 
+ 
+𝑂𝑆𝐶𝑦 = 𝐴𝐹𝑦 × (𝐵𝐶𝐻𝐸𝑦 + 𝐵𝑃𝐸𝑦 +  𝑇𝐹𝑆𝑦 + 𝑊𝐸𝑦 + 𝐺𝐶𝐸𝑦) 
+Where: 
+OSCy 
+Operational supply chain CO2 emissions in period Y 
+tonnes of CO2e 
+AFy 
+Proportion of emissions allocated to net CO2 removed in period Y 
+(monitoring table 21) 
+% 
+BCHEy 
+Biomass cultivation and harvesting emissions in period Y (monitoring 
+table 5) 
+tonnes of CO2e 
+BPEy 
+Biomass processing emissions in period Y (monitoring table 6) 
+tonnes of CO2e 
+TFSy 
+Biomass feedstock transportation emissions in period Y (monitoring 
+table 8) 
+tonnes of CO2e 
+ 
+9 If, for example, biomass for BECCS is sourced from forest residues from growth for high-value wood products, then emissions 
+from biomass cultivation shall not be allocated to the BECCS project as they are already allocated to the timber operator 
+through high-value wood products. 
+ 
+ 
+ 
+21  
+ 
+WEy 
+Waste disposal emissions in period Y (monitoring table 7) 
+tonnes of CO2e 
+GCEy 
+Energy generation emissions in period Y (see equation 4) 
+tonnes of CO2e 
+ 
+Operational supply chain emissions can either be fully allocated to carbon removals or be partially 
+allocated against different energy products that may be produced through the bioenergy generation 
+process. The use of the allocation factor is left to the discretion of the project proponent. If project 
+proponents wish to partially allocate operational supply chain emissions to other products (e.g. heat and 
+electricity), the split of emissions between these products shall be conducted in accordance with the 
+GHGP standard10 for the Allocation of GHG Emissions. For example, operational supply chain emissions 
+can be allocated to all “products” indicated as arrows in the below diagram: 
+Figure 5 Allocation of emissions to heat and electricity 
+ 
+ 
+Project proponents shall calculate the allocation factor (AFy), i.e. the share of operational supply chain 
+emissions allocated to the CCS product, by multiplying the share of electricity production within the 
+plant’s total energy output (including electricity and heat) with the share of electricity used in CCS 
+activities. Operational supply chain emissions may be ‘allocated’ to different products according to this 
+ratio of energy output. To the extent operational supply chain emissions are not being applied to energy 
+products, those emissions shall be fully allocated to the carbon removal product. For avoidance of doubt, 
+all emissions associated with the electricity used for CO₂ capture and transportation preparation (i.e. 
+ 
+10  GHG Protocol - Allocation of GHG emissions from a combined heat and power (CHP) plant, Guide to calculation worksheets 
+(2017)   
+ 
+ 
+ 
+22  
+ 
+electricity required for carbon capture, liquefaction and interim storage) shall be fully allocated to the 
+carbon removal product. In order to apply a conservative approach, none of the operational supply chain 
+emissions will be allocated to any potential heat product based on heat recovery from the carbon 
+capture, the liquefaction or the interim storage. 
+Project emissions from energy production 
+Emissions from energy production will not include CO2 emissions from the combustion of sustainable 
+biomass due to their 'zero rated’ nature (as detailed in Appendix A and Appendix C). However, 
+combustion of biomass typically results in the production of CH4 and N2O, which shall be taken into 
+account. This may also include emissions from managing any waste streams from the energy production 
+activities. 
+(eq 4)  
+ 
+ 
+𝐺𝐶𝐸𝑦 = 𝑇𝐶𝐻4𝑦 + 𝑇𝑁2𝑂𝑦 + 𝑂𝐸𝑆𝑦 
+Where: 
+GCEy 
+Emissions from energy generation in period Y  
+tonnes of CO2e 
+TCH4y 
+Total CH4 emissions from energy production in period Y (monitoring 
+table 9) 
+tonnes of CO2e 
+TN2Oy 
+Total N2O emissions from energy production in period Y (monitoring 
+table 10) 
+tonnes of CO2e 
+OESy 
+Other emission sources from energy production in period Y 
+(monitoring table 11) 
+tonnes of CO2e 
+Total project emissions 
+The quantification shall subtract all emissions generated from the construction and operation of CCS 
+equipment. This includes all emissions regarding the installation and operation of carbon capture 
+processes, and  involves:  
+• 
+Emissions from the operation of the carbon capture process, including chemical use and 
+production, and energy use. 
+• 
+Emissions for processing captured carbon (including liquefaction). 
+• 
+Emissions from transport of CO2 to injection and storge sites following the capture process (the 
+project proponent will need to acquire and hold data on all transportation methods, their 
+emissions factors, and the distances travelled). 
+• 
+Emissions generated from injection and storage processes (including from any energy used in 
+pumping and maintaining the CO2 in its storage location). 
+ 
+ 
+ 
+23  
+ 
+• 
+Emissions from installing or building the carbon capture units, and in the case of new-build 
+BECCS, emissions from the construction of the bioenergy power and/or heat plant.11 
+Any construction emissions directly attributable to the project (e.g. installation of CCS equipment or 
+bioenergy plant construction emissions for new-build) shall be identified, included and amortised over 15 
+years. This reflects the duration of one crediting period as described under clause 2.3.3 above. Once all 
+embodied emissions have been amortized over the first crediting period, they shall not be included as 
+project emissions in future periods. 
+(eq 5)  
+ 
+𝑃𝐸𝑦 = 𝑃𝐸𝐶𝑦 + 𝑃𝐸𝑃𝑦 + 𝑃𝐸𝑇𝑦 + 𝑃𝐸𝑆𝑦 + 𝐸𝐸𝐼𝑦 
+Where: 
+PEy 
+Total project emissions in period Y 
+tonnes of CO2e 
+PECy 
+Project emissions from capture in period Y (see equation 6) 
+tonnes of CO2e 
+PEPy 
+Project emissions from CO2 processing, compression and 
+dehydration in period Y (monitoring table 15) 
+tonnes of CO2e 
+PETy 
+Project emissions from CO2 transport in period Y (monitoring table 
+16) 
+tonnes of CO2e 
+PESy 
+Project emissions from CO2 injection and storage in period Y 
+(monitoring table 17) 
+tonnes of CO2e 
+EEIy 
+Embodied CO2 emissions from construction and installation in 
+period Y (of carbon capture equipment embodied emissions in the 
+case of retrofits, and including energy plant and BECCS-relevant 
+infrastructure embodied emissions for new-builds) (monitoring 
+table 18) 
+tonnes of CO2e 
+Project emissions from capture 
+In most cases, the energy required to operate CCS equipment will come through the biomass energy 
+generation process. Any energy used for CCS from on-site biomass generation will not need to be 
+subtracted from gross removals as all relevant emissions are factored into the supply chain emission and 
+project emissions from energy production calculations. Potential secondary effects on the grid – for 
+example, energy leakage – are considered further in equation 7 and Appendix D. 
+In some cases, however, the carbon capture process may be powered by energy purchased from third 
+party sources. In these cases, the carbon emissions from energy can be determined by multiplying the 
+energy used to operate the CCS equipment by the most locally available grid emissions factor. In cases 
+where the CCS equipment is operated using a dedicated generation facility, with energy provided directly 
+ 
+11  This will also include the embodied emissions from any construction activity for transport, injection, or storage directly 
+caused as a result of the BECCS project, for example CO2 pipelines or storage sites. Only construction activity for transport, 
+injection, and storage infrastructure occurring as a direct result of the BECCS project shall be counted as embodied emissions 
+in this calculation. Any indirect impacts, for example increased demand for shared CO2 storage sites, will be accounted for 
+under the upstream/downstream leakage calculations as described in chapter 6. 
+ 
+ 
+ 
+24  
+ 
+to the CCS facility (e.g. by direct wire, or PPAs fulfilling strict temporal and geographical constraints12), 
+then an emission factor specific to the carbon intensity of the generation facility may be used. Energy 
+attribute certificates (EACs) shall not be used for conferring the carbon intensity of energy used by the 
+plant.13  
+Chemicals produced for use in the carbon capture process shall also have their upstream emissions 
+quantified using supply chain-relevant and chemical-specific emissions factors. Chemicals used in the 
+carbon capture process are also likely to contain embodied emissions that are then released through the 
+CO2 capture process. These emissions shall also be quantified using chemical-specific emissions factors 
+(which shall be defined in the PDD and revised periodically during full verification). In addition, some 
+methods may release other GHGs due to chemical use, and these shall also be quantified with chemical-
+specific emissions factors. 
+(eq 6)  
+ 
+ 
+𝑃𝐸𝐶𝑦 = 𝐶𝐶𝐸𝑦 + 𝐶𝐶𝐶𝑃𝑦 + 𝐶𝐶𝐶𝑈𝑦 
+PECy 
+Project emissions from capture in period Y  
+tonnes of CO2e 
+CCEy 
+Carbon capture energy use emissions in period Y (monitoring table 12) tonnes of CO2e 
+CCCPy 
+Carbon capture emissions from production of chemicals used in 
+capture processes in period Y (monitoring table 14) 
+tonnes of CO2e 
+CCCUy 
+Carbon capture emissions from chemicals use in capture processes in 
+period Y (monitoring table 13) 
+tonnes of CO2e 
+Leakage 
+As discussed above, all material leakages shall be considered in the calculation of net emissions removals. 
+Leakages should be assessed against the four main leakage types introduced above, and those with 
+leakage values higher than a materiality threshold of >2% of gross captured emissions (GCEy) shall be 
+subtracted from gross injected emissions (GIEy). Leakages shall be assessed using the framework 
+described in chapter 6 and summed up as in the equation below. See also Appendix D for further details 
+on estimation approaches for energy leakages, considered as a sub-set of the market leakage category 
+below. 
+(eq 7) 
+ 
+ 
+ 
+𝐿𝑦 = 𝑈𝐷𝐸𝑦 + 𝐴𝑆𝐸𝑦 + 𝑀𝐿𝐸𝑦 + 𝐸𝐿𝐸𝑦 
+Ly 
+Emissions from leakage in period Y  
+tonnes of CO2e 
+UDEy 
+Emissions from upstream/downstream leakages in period Y 
+tonnes of CO2e 
+ASEy 
+Emissions from activity shifting leakages in period Y 
+tonnes of CO2e 
+ 
+12  Such as those proposed in the EU delegated act on renewable liquid fuels: https://energy.ec.europa.eu/system/files/2023-
+02/C_2023_1087_1_EN_ACT_part1_v8.pdf 
+13  Note that regardless of the emissions associated with any energy ‘drawn-down’ from the grid, energy leakage risks shall 
+continue to be assessed as described in equation 7 and Appendix D. In the case where renewable energy is drawn from the 
+grid to power a CCS process, energy leakage remains. Energy has been removed from grid capacity, and so this capacity 
+would need to be replaced to fill demand. 
+ 
+ 
+ 
+25  
+ 
+MLEy 
+Emissions from market leakages in period Y 
+tonnes of CO2e 
+ELEy 
+Emissions from ecological leakages in period Y 
+tonnes of CO2e 
+Adjustments 
+Exception adjustments allow for reductions to the number of credits that may be issued in a given period. 
+In the case where a project proponent fails to meet particular requirements within this methodology, 
+(e.g. the failure of certain biomass consignments against the sustainability criteria in Appendix C), the 
+project proponent, VVB, and registry may propose conservative compensation mechanisms. Exact 
+agreement on these compensation adjustments will require adoption by the VVB and registry. Such 
+exceptions shall be quantified and verified by the VVB against the terms of the methodology. 
+Additional subtraction adjustments to gross removals may be added at the discretion of the project 
+proponent. 
+ 
+ 
+ 
+ 
+26  
+ 
+8 Storage and permanence 
+For CDR activities to have sustained impact on lowering atmospheric carbon, and so for carbon credits to 
+be issued, storage of captured CO2 must be permanent with a risk of reversal scientifically determined to 
+be negligible. This chapter outlines requirements for all storage operators used by a BECCS project, to 
+ensure that CO2 is stored permanently, and with transparent reporting in place.  
+8.1 Scientific and regulatory basis for permanent storage of carbon 
+Subject to the requirements contained in this methodology, CO2 may be considered permanently stored 
+from the point of injection into its geological reservoir given the negligible risk of reversal.14 This level of 
+permanence risk has been assessed based on robust scientific evidence and regulatory conditions. 
+Scientific risk of reversal  
+• 
+The IPCC special report on carbon dioxide capture and storage15 states that: ‘For large-scale 
+operational CO2 storage projects, assuming that sites are well selected, designed, operated and 
+appropriately monitored, the balance of available evidence suggests the following: It is very likely 
+the fraction of stored CO2 retained is more than 99% over the first 100 years; It is likely the 
+fraction of stored CO2 retained is more than 99% over the first 1000 years.’  
+• 
+Similarly, the containment certainty study regarding ‘Deep Geological Storage of CO2 on the UK 
+Continental Shelf’16 confidently concluded that less than 0.01% of injected CO2 is likely to escape 
+into the atmosphere for typical UK offshore sites with permitted storage complexes after 25 
+years of injection and 100 years of storage17. The study was based on a review of close to 100 
+studies and analysis of failure data from a global database of well equipment reliability. 
+Regulatory conditions 
+• 
+As per the applicability criteria, the methodology applies only to sequestration occurring in the 
+Member States of the European Union, non-EU Member States of the European Economic Area 
+(EEA), the UK, and the USA.  These jurisdictions require having a permit that guarantees safe and 
+permanent storage of carbon through appropriate site selection and characterization and the 
+adoption of safe injection and storage methods. These regulations require storage operators to 
+monitor stored carbon during and post injection, as well as after site closure, to ensure that leaks 
+do not occur. In addition, storage operators must report monitoring results at least once a year 
+in the EEA and UK, and semi-annually in the USA.  
+ 
+14  Reversal refers to any migration of carbon dioxide from its geological reservoirs post injection. This is also sometimes known 
+as ‘leakage’, so to avoid confusion with the notion of indirect emissions, this document only uses the term ‘reversal’.  
+15  IPCC special report on carbon dioxide capture and storage – Chapter 5 Underground geological storage, p.246, 2005 
+16  BEIS Deep Geological Storage of CO2 on the UK Continental Shelf - Containment Certainty, p.9, 2023 
+17  Probability across 125 years 
+ 
+ 
+ 
+27  
+ 
+• 
+In these jurisdictions, permanence is further strengthened by the transfer of responsibilities to 
+government following site closure. In the EEA and the UK, once all evidence demonstrates that 
+stored carbon will be completely and permanently contained, operational and financial 
+obligations pertaining to storage site maintenance, monitoring and implementation of 
+corrective measures are transferred from the operator to the relevant competent authority. In 
+the USA, transfer provisions are defined at the state level. As an example, in Louisiana18, 
+ownership of the storage facility is transferred to the state by default 50 years after the end of 
+injection operations if carbon sequestration is shown to be safe and permanent.   
+• 
+In the event of emissions released from the storage site, the storage operator will be required to 
+take different mitigation measures depending on local regulations. These regulations, including 
+the risk of having the license revoked, create strong incentives for the storage operator to 
+operate the site in line with industry standards. For example: 
+o If carbon dioxide stored migrates from its geological reservoir to the atmosphere, 
+storage operators in the EEA must surrender ETS emissions allowances (EUA). A similar 
+approach exists in the UK. This ensures that net emissions in the system do not change 
+as a result of the project. 
+o In the USA, remediation mechanisms are defined at the federal and state levels. At the 
+federal level, EPA Class VI rules do not target emissions from leaks specifically but require 
+storage operators to have an emergency remediation plan and to take corrective action 
+to prevent dangerous movements of carbon underground. Storage operators may also 
+lose access to government subsidies if carbon is not stored permanently. For example, 
+benefits from USA’s tax credit on carbon sequestration 45Q19 will be ‘recaptured’ if the 
+carbon ceases to be ‘disposed of in secure geological storage’. 
+In future, this methodology may be extended to jurisdictions other than the EU, non-EU member states 
+of the EEA, UK and USA if the project proponent can provide evidence that relevant local regulations 
+meet or exceed the requirements set out in the ISO 27914:2017 standard on Carbon Dioxide Capture, 
+Transportation and Geological Storage. 
+8.2 Requirements 
+In addition to adhering to relevant local regulations on the storage of CO2, the relevant party responsible 
+for transport and storage of carbon shall provide evidence to the project proponent that they have carried 
+out the below requirements: 
+8.2.1 
+Provide certificates of CO2 injection attributable to the project proponent to inform the net 
+removal quantification described in chapter 7. 
+8.2.2 
+Store CO2 in geological storage sites within the list of jurisdictions detailed in Appendix B. 
+ 
+18  Louisiana Geologic Sequestration of Carbon Dioxide act 2009 
+19  US Code 45Q – credit for carbon oxide sequestration 2008 
+ 
+ 
+ 
+28  
+ 
+8.2.3 
+Conduct a risk assessment prior to project implementation and produce a plan for monitoring 
+reversals if this is not already required by relevant local regulations. 
+8.2.4 
+Adhere to ISO 9001 or 14033 or equivalent standard of procedure in relation to the management 
+of data. 
+Following these requirements, the relevant party will fulfil the permanence materiality assessment 
+defined by criteria 9.1 c) in the ICVCM core carbon principles assessment framework.20 ICVCM criteria 9.1 
+and 9.3 note that financial mechanisms to account for reversal risks, such as pooled buffer reserve or 
+insurance, will not be required for projects with non-material risks of reversals. ICVCM notes that CCS 
+projects with geological storage are likely to have non-material risk of reversal, and so unlikely to require 
+financial mechanisms for mitigating reversal risks. 
+ 
+ 
+ 
+20 ICVCM Core carbon principles, assessment framework and assessment procedure (2023) 
+ 
+ 
+ 
+29  
+ 
+9 Reporting, validation and verification 
+This chapter explains the reporting, validation and verification processes for BECCS projects. Reporting 
+is defined as the submission of data and evidence to a third-party organisation (a VVB) for the purpose of 
+independently assuring project outcomes. Validation is defined as the confirmation of a project’s 
+adherence to all requirements in this methodology. Project validation also signifies the beginning of the 
+crediting period. Verification is defined as the assurance of claims of net CO2 removal volumes that inform 
+each credit issuance, following the quantification approach shown in chapter 7. 
+9.1 Outline of reporting, validation and verification processes 
+As described in 9.2, the project proponent is required to develop a Project Design Document (PDD) to 
+describe all relevant technical components of a BECCS project. This PDD will be a ‘living document’ that 
+will change over the life of the project. 
+The project proponent may choose to validate their PDD before commencing any further project activity, 
+such as the construction or installation of any carbon capture assets. PDD validation can give confidence 
+that, should BECCS projects be developed according to the specifications of the PDD, their operations 
+will be compliant with the requirements of this methodology. The PDD validation also gives the project 
+proponent an opportunity to confirm additionality before construction.21 
+A project proponent shall develop a monitoring plan within the PDD that describes how a project can 
+provide evidence of compliance with all validation and verification requirements in this methodology. An 
+independent VVB shall review this monitoring plan during PDD validation (or project validation, if PDD 
+validation is not sought). The VVB may suggest edits to the reporting frequency of specific variables 
+according to their best judgement on what is needed to determine high integrity BECCS removals. An 
+indicative monitoring plan is shown in Annex J. 
+An illustrative project timeline is shown in the table below, with validation and verification requirements 
+for each stage shown in the appropriate column. Cells highlighted in blue represent formal reporting 
+requirements as part of this methodology. Cells in white are included for information only, to describe 
+how the project reporting processes may align with a typical BECCS project. Note: unless specifically 
+detailed in the table below, VVBs will be required to assess data that the project proponent shares with 
+them. Where more stringent validation or verification approaches are required (e.g. VVB site visits), these 
+are noted in the table. 
+ 
+21  Even if additionality is confirmed before the start of the project crediting period, this confirmation of additionality will apply 
+for the full duration of the first crediting period once it begins. 
+ 
+ 
+ 
+30  
+ 
+Stage 
+Event or process Likely reporting frequency 
+Requirements 
+Project 
+development 
+Front-end 
+engineering 
+design (FEED) 
+Once. 
+Technical plans for carbon capture, processing, transport and storage components of the 
+BECCS system. 
+Project Design 
+Document 
+(PDD) 
+Once, but updated periodically 
+during project validation and full 
+verification events. 
+The PDD compiles all relevant project data that reflects the project proponent’s plan for 
+adherence to the methodology. The PDD shall include: 
+• 
+Name of project proponent; name of carbon capture operator; name of transport 
+operator; name of storage operator and key contacts for project operation and 
+crediting.  
+• 
+Plan for project implementation (start date, timeline, expected project duration). 
+• 
+Description of value chain and technologies.  
+• 
+Project boundaries. 
+• 
+Projected GHG emissions and removals by GHG source, sink and reservoir for the 
+project and baseline emissions. 
+• 
+Description of methods used in calculating projected GHG emissions and removals. 
+• 
+Description of baseline. 
+• 
+Disclosure of all areas of uncertainty and quality control methods for each requirement 
+• 
+Monitoring plan, which outlines the nature, timing and frequency of validation and 
+verification activities, including all the data points that need to be reported (as listed in 
+Appendix I). This shall also include sampling requirements for site visits to biomass 
+sourcing, carbon capture, and injection and storage sites, as required for project 
+validation. 
+• 
+Proof of additionality. 
+• 
+Proof of biomass sustainability. 
+• 
+Confirmation of compliance with storage and permanence requirements.   
+• 
+Stakeholder consultation plan. 
+• 
+Sustainable safeguards or mitigation plan. 
+PDD validation 
+(optional) 
+Once, likely before a project final 
+investment decision (FID) is 
+confirmed. 
+VVB to review PDD against all BECCS methodology requirements. VVBs shall: 
+• 
+Assess and confirm project additionality (see chapter 4). 
+• 
+Assess alignment of biomass sourcing policy with sustainable biomass sourcing 
+requirements in Appendix C. 
+ 
+ 
+ 
+31  
+ 
+Stage 
+Event or process Likely reporting frequency 
+Requirements 
+• 
+Assess alignment on plans for CO2 storage and permanence with requirements (see  
+chapter 8). 
+• 
+Review and edit project monitoring plan (see Appendix J). 
+• 
+Review project boundary definition (see chapter 3). 
+• 
+Assess sources of leakage for materiality (see chapter 6). 
+• 
+Estimate projected gross and net CO2 removal volumes over lifetime of project (see  
+chapter 7). 
+• 
+Define the targeted baseline scenario definition (retrofit or new build - see chapter 5). 
+• 
+Validate that safeguard risks (as detailed in Appendix F) have been assessed and 
+mitigation plans developed where necessary. 
+• 
+Confirm the applicability of VVB credentials against the requirements of clause 9.2.13. 
+Final Investment 
+Decision (FID) 
+ 
+Commercial decision on beginning project construction phase. 
+Construction 
+phase 
+ 
+Construction of project. 
+Operational 
+commencement 
+(“Project start”) 
+ 
+This should be logged in the PDD.  
+Crediting 
+period 1 
+(15 years) 
+Project 
+validation  
+Once, likely at point of first 
+verification after operational 
+commencement. Note it is likely 
+that project validation will coincide 
+with first credit issuance. 
+VVB to validate that the completed and operational BECCS project meets all methodology 
+criteria based on the most recently updated version of the PDD, thus beginning the project 
+crediting period. VVBs shall: 
+• 
+Assess and confirm additionality – although this is not required if additionality has 
+already been confirmed in PDD validation. 
+• 
+Assess alignment of biomass sourcing sites with sustainable biomass sourcing 
+requirements in Appendix C. This will require the VVB to conduct site visits to a sample 
+of biomass sourcing areas as considered proportionate in the monitoring plan.  
+• 
+Assess carbon capture site alignment with methodology requirements in chapter 2. 
+This will require the VVB to conduct site visits to a sample of carbon capture sites as 
+considered proportionate in the monitoring plan. 
+ 
+ 
+ 
+32  
+ 
+Stage 
+Event or process Likely reporting frequency 
+Requirements 
+• 
+Assess alignment of injection and storage sites with requirements shown in chapter 8. 
+This will require the VVB to conduct site visits to a sample of injection and storage 
+sites, as considered proportionate in the monitoring plan.  
+• 
+Confirm that project boundaries are accurate and relevant (as described in chapter 3). 
+• 
+Assess the accuracy of all parameters required to complete the net removal. 
+quantification (see chapter 7). Assess that all parameters meet the quality assurance 
+standards described in the monitoring tables in Appendix I. Assess that all metrics have 
+been quantified within the reasonable materiality threshold (see clause 9.2.15). 
+• 
+Review materiality assessments for leakages (see chapter 6) to ensure they are 
+accurate, and review the accuracy of any leakage required to be quantified and 
+subtracted from the net removal quantification. 
+• 
+Confirm baseline definition of retrofit or new build (see chapter 5). 
+• 
+Validate that safeguard risks as detailed in Appendix F have been assessed and 
+mitigation plans developed where necessary. 
+• 
+List any deviations from PDD validation (if applicable).  
+• 
+Confirm the applicability of VVB credentials against the requirements of clause 9.2.13. 
+Streamlined 
+verifications for 
+credit issuances 
+Submitted at each point of credit 
+issuance. Frequency may be 
+monthly, quarterly, or semi-annual – 
+left to the discretion of each project. 
+VVBs shall verify the accuracy of data informing the net removals calculation as described in 
+chapter 7, including documentation from the storage operator certifying the gross volumes of 
+CO2 injected. Variables shall be updated as described in the PDD, and follow the quality 
+assurance measures as defined in the monitoring tables in Appendix I. 
+ 
+VVBs shall also confirm the applicability of their credentials against the requirements of clause 
+9.2.13. 
+Full verification 
+reports 
+Annual, at least once per calendar 
+year after the year of project 
+validation. 
+ 
+The VVB may require a full 
+verification where there have been 
+significant changes to project 
+approach or emissions. 
+As with streamlined verifications, VVBs shall verify the accuracy of data informing the net 
+removals calculation as described in chapter 7. In the full verification report, the project 
+proponent shall update all parameters required for the calculation, including those not 
+measured constantly through the project’s operation. VVBs shall assess these parameter 
+updates for their likely accuracy over the 12-month period to the next full verification. 
+ 
+VVBs shall also verify that the BECCS project continues to meet methodology criteria. VVBs 
+shall: 
+ 
+ 
+ 
+33  
+ 
+ 
+22 Validation for subsequent crediting periods likely to commence before the end of the preceding crediting period to ensure smooth transition. 
+Stage 
+Event or process Likely reporting frequency 
+Requirements 
+• 
+Assess alignment of biomass sourcing sites with sustainable biomass sourcing 
+requirements in Appendix C. 
+• 
+Assess carbon capture site alignment with methodology requirements in chapter 2. 
+• 
+Assess alignment of injection and storage sites with requirements in chapter 8.  
+• 
+Confirm that project boundaries are accurate and relevant (as described in chapter 3). 
+• 
+Review materiality assessments for leakages (see chapter 6) to ensure they are 
+accurate, and review the accuracy of any leakage required to be quantified and 
+subtracted from the net removal quantification. 
+• 
+Validate that safeguard risks as detailed in Appendix F have been assessed, that risk 
+assessments continue to be applicable, and that mitigation plans have been developed 
+where necessary. 
+• 
+Confirm the applicability of VVB credentials against the requirements of clause 9.2.13. 
+Crediting 
+periods 2 and 
+3 
+(15 years 
+each) 
+Validation 
+renewal22 
+At end of 15-year crediting period 
+(can renew up to 2 times). 
+Verify that project continues to meet all methodology criteria – with requirements as above for 
+project validation. 
+Streamlined 
+verifications for 
+credit issuances 
+As above for crediting period 1. 
+As above for crediting period 1. 
+Full verification 
+reports 
+As above for crediting period 1. 
+As above for crediting period 1. 
+ 
+ 
+ 
+34  
+ 
+9.2 Requirements  
+Project Design Document 
+9.2.1 
+All relevant project data shall be compiled in the form of a Project Design Document (PDD). The 
+PDD will reflect the project proponent’s plan for adherence to this methodology. As a minimum, 
+the PDD shall include the following:  
+a. Key contacts responsible for the project operation and crediting, including names, titles, and contact 
+information. 
+b. Name(s) of carbon capture, transport, and storage operator(s). 
+c. Name of project proponent. 
+d. A plan for project implementation including:  
+1) A project start date. 
+2) Timeline or chronology for the project. 
+3) Expected project duration. 
+e. Description of value chain and technologies applied in the value chain. 
+f. Spatial, visual and written depictions of project boundaries, process flows, and metering. 
+ 
+g. List of all GHG sources, sinks and reservoirs (SSRs) controlled and affected by, and related to, the 
+project – with criteria for their inclusion in quantification. 
+h. A description of the projected aggregate GHG emissions and removals by GHG SSR for the GHG 
+project and baseline (stated in units of CO2e) for the relevant period (e.g. annual, cumulative to date, 
+total), and reflecting the principle that removals are not overstated. 
+i. 
+General description of criteria, procedures or guidance used in calculating GHG emissions and 
+removals.  
+j. 
+Description of baseline (including allocation factor where appropriate).  
+k. Disclosure of all likely areas of uncertainty. This may include any lapses in feedstock documentation, 
+data irregularities, scientific uncertainty in land use, land-use change and forestry (LULUCF) 
+modelling for applicable regions, geological uncertainty involving formations or CO2 plume 
+modelling, and LCA considerations where subjective decisions were made regarding boundaries and 
+exclusions of SSRs.  
+l. 
+Quality control methods for each requirement (see row ‘QA/QC procedures to be applied’ in the 
+monitoring tables in Appendix I on managing data).     
+ 
+ 
+ 
+35  
+ 
+m. Defined frequency of project monitoring and reporting (see Appendix J for further details about the 
+monitoring plan). 
+n. Timing/frequency of validation and verification activities. 
+o. Proof of additionality. 
+p. Proof of biomass sustainability, as described in Appendix C. 
+q. Confirmation of storage operator compliance with the storage and permanence requirements 
+detailed in chapter 8 of this methodology.  
+r. Stakeholder consultation plan.  
+s. Confirmation that project risk of breaching sustainable safeguards is absent, or mitigation plan for 
+identified risks is in place. 
+ 
+9.2.2 
+In the PDD, the project proponent shall develop a monitoring plan that will be used for all project 
+validation and verification reports. This monitoring plan will outline the frequency for collecting, 
+reporting on, and independently verifying data points. Monitoring plans shall show how the 
+project proponent plans to provide data for all variables shown in the monitoring tables in 
+Appendix I. 
+9.2.3 
+The monitoring plan shall be reviewed by the VVB during PDD validation (or project validation if 
+no PDD validation is sought). The VVB shall use professional judgment to appropriately tailor 
+verification requirements for each project. 
+Validation 
+9.2.4 
+The project proponent shall submit the PDD for project validation by the VVB. The PDD shall 
+contain sufficient information to demonstrate that the project’s requirements adhere to the 
+principles of this methodology, with respect to : 
+a. Additionality (see chapter 4). 
+b. Sustainable biomass (see Appendix C). 
+c. Storage and permanence requirements (see chapter 8). 
+d. Monitoring plan (see Appendix I). 
+e. Project boundaries (see chapter 3). 
+f. Quantification (see chapter 7). 
+g. Materiality assessments for leakages (see chapter 6). 
+ 
+ 
+ 
+36  
+ 
+h. Baseline (see chapter 5). 
+i. 
+Safeguards (see Appendix F). 
+j. 
+VVB credentials.  
+9.2.5 
+The VVB shall assess the project’s compliance with the principles of this methodology through a 
+desk review of the information provided in the PDD (see Appendix J for indicative monitoring 
+plan). In addition, the VVB shall at minimum carry out site visits to the proponent’s biomass 
+sourcing areas, capture facilities and storage sites to assess compliance with the methodology’s 
+sustainable biomass and storage and permanence requirements. The VVB may define the 
+frequency and nature of such site visits, as well as any additional checks that are deemed 
+necessary as part of project validation in the project data sampling and verification plan.  
+9.2.6 
+The project proponent may submit their PDD to the VVB ahead of project validation, to gain 
+confidence that their operations will be compliant with the requirements of this methodology.  
+ 
+Verification  
+9.2.7 
+At the point of project validation, full and streamlined verifications, and validation renewals, the 
+project proponent shall provide the VVB with all data points necessary, as defined in the 
+monitoring plan. 
+9.2.8 
+The project proponent shall submit a full verification report, as a minimum, once per year for 
+each calendar year after the year of initial project validation. This full verification report shall 
+provide updates to all quantification variables as described in the monitoring tables in Appendix 
+I. In addition, VVBs shall conduct the following actions on the full verification report: 
+a. Assess alignment of biomass sourcing sites with sustainable biomass sourcing requirements in 
+Appendix C. 
+b. Assess carbon capture site alignment with methodology requirements in chapter 2. 
+c. Assess alignment of injection and storage sites with requirements shown in chapter 8.  
+d. Confirm that project boundaries are accurate and relevant (as described in chapter 3). 
+e. Review materiality assessments for leakages (see chapter 6) to ensure they are accurate, and 
+review the accuracy of any leakage required to be quantified and subtracted from the net 
+removal quantification. 
+f. Validate that safeguard risks as detailed in Appendix F have been assessed, that risk assessments 
+continue to be applicable, and that mitigation plans have been developed where necessary. 
+ 
+ 
+ 
+37  
+ 
+g. Disclosure of all areas of uncertainty. This may include any lapses in feedstock documentation, 
+data irregularities, scientific uncertainty in LULUCF modelling for applicable regions, geological 
+uncertainty involving formations or CO₂ plume modelling, and LCA considerations where 
+subjective decisions were made regarding boundaries and exclusions of SSRs.  
+h. Confirm the applicability of VVB credentials against the requirements of clause 9.2.13. 
+ 
+9.2.9 
+The frequency of streamlined verifications (and credit issuance) is at the discretion of the project 
+proponent.  
+9.2.10 Streamlined verifications will not be permitted if: 
+a. It has been more than 12 months since the last full verification. 
+b. A new VVB is used.  
+c. If the VVB cannot fulfil requirements of reasonable assurance given identified project risks. 
+d. The VVB concludes that significant risks or changes to project operations require more 
+thorough review, such as changes to biomass sourcing policy or storage operator. 
+9.2.11 All reports may include additional elements from the monitoring plan, as requested by the VVB. 
+Validation/verification bodies  
+9.2.12 Verification bodies shall use professional judgment in tailoring a verification process appropriate 
+for each validation and verification event. 
+9.2.13 All VVBs must be able to demonstrate accreditation from one of the following:  
+a. A domestic or international accreditation body pursuant to ISO 14064-3:2019, or to the most 
+recent version of this standard.  
+b. The Clean Development Mechanism (CDM) Accreditation Standard for Designated 
+Operational Entities.  
+c. A relevant governmental or intergovernmental regulatory body. 
+9.2.14 Any conflict of interest must be avoided according to ISO 14065:2020. This includes potential 
+conflicts of interest between the project proponent, VVBs, and individuals involved with the 
+project and verification teams.   
+9.2.15 The level of assurance for each verification is to be reasonable, with a materiality threshold of +/-
+2%. All credits issued are to be ex-post after a positive project validation and subsequent positive 
+verification report. 
+ 
+ 
+ 
+38  
+ 
+Appendix A - Zero-rating of biomass and basis of 
+removal 
+Biomass shall be treated in accordance with accounting conventions laid out in the 2006 IPCC Guidelines 
+for National Greenhouse Gas Inventories and 2019 Refinement to the 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories. 
+In accordance, CO2 emissions from biomass shall be zero-rated at the point of use: “Carbon dioxide (CO2) 
+emissions from the combustion of biomass or biomass-based products are captured within the CO2 
+emissions in the Agriculture, Forestry and Other Land Use (AFOLU) sector through the estimated 
+changes in carbon stocks from biomass harvest, even in cases where the emissions physically take place 
+in other sectors. This approach to estimate and report all CO₂ emissions from biomass or biomass-based 
+products in the AFOLU sector was introduced in the first IPCC guidelines for national greenhouse gas 
+emissions (IPCC 1995), reflecting close linkages with data on biomass harvesting, and for the pragmatic 
+reason to avoid double counting.”23 
+The capture and permanent storage of CO2 from biomass may therefore deliver permanent negative 
+emissions: 
+“If the [carbon capture and storage] plant is supplied with biofuels, the corresponding CO2 emissions will 
+be zero (these are already included in national totals due to their treatment in the AFOLU sector), so the 
+subtraction of the amount of gas transferred to long-term storage may give negative emissions. This is 
+correct since if the biomass carbon is permanently stored, it is being removed from the atmosphere.”24 
+To ensure overall climate benefit, it is therefore imperative that biomass sourced for BECCS has a neutral 
+or positive impact on carbon stocks in the land sector. The sustainability criteria laid out in Appendix C 
+are to ensure that only sources of biomass delivering an overall net removal of carbon from the 
+atmosphere are credited, while further ensuring that overall ecosystem health is protected. 
+ 
+ 
+ 
+23 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2, Chapter 2, 2.3.3.4 
+24 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2, Chapter 2, 2.3.4 
+ 
+ 
+ 
+39  
+ 
+Appendix B – Countries initially assessed under storage 
+and permanence requirements 
+The list below shows the jurisdictions against which the storage and permanence requirements in this 
+methodology have been assessed. Only storage operators operating under these jurisdictions shall be 
+considered compliant with the storage and permanence requirements expressed in chapter 8. Further 
+countries will be added to the list over time as the methodology is expanded to more jurisdictions. 
+Applicable storage and permanence jurisdictions (as of October 2023) and local regulations on storage and 
+permanence: 
+• 
+European Economic Area (EEA): 
+o The 2009/31/EC directive on the geological storage of carbon dioxide 
+• 
+United States of America (USA) 
+o At the federal level, the EPA’s Class VI rules from 2010 
+o Relevant state level regulations, for example Louisiana’s 2009 geologic sequestration of 
+carbon dioxide act 
+• 
+United Kingdom (UK) 
+o The storage of carbon dioxide regulations of 2010 and 2011.  
+ 
+ 
+ 
+ 
+ 
+40  
+ 
+Appendix C – Sustainability criteria for forest biomass 
+This appendix outlines the criteria that a project proponent must follow to ensure that the forest biomass 
+used for BECCS is sustainable. Projects that fulfil the requirements below, or meet the exemption 
+requirements, will be applicable for issuing CDR credits. Where biomass is sourced from multiple regions, 
+each sourcing region shall comply with the requirements and provide appropriate evidence against the 
+criteria below. Note that sustainability criteria for alternative biomass sources is detailed in Appendix K.25 
+Stable or increasing forest carbon stock 
+The project proponent shall conduct a carbon stock assessment for all sourcing areas that provide 
+biomass inputs for BECCS processes. Assessments shall review changes in carbon stocks and conclude if 
+the stock is stable, increasing, or declining. A carbon stock assessment shall be completed at project 
+validation, and at each subsequent verification, and the results shall be verified by the VVB.  
+For projects sourcing biomass from territories larger than 5 million km2, carbon stock assessments of the 
+sourced biomass shall be conducted on the forest sourcing area level. For projects sourcing biomass from 
+territories smaller than 5 million km2, carbon stock assessments of the sourced biomass shall be 
+conducted either on the:  
+a. Jurisdictional level as reported for forest land and harvested wood products within the LULUCF 
+sector to UNFCCC; or 
+b. Forest sourcing area level.  
+Jurisdictional approach 
+For projects that assess carbon stock changes at the jurisdictional level, national statistics for forest land 
+and harvested wood products submitted to UNFCCC are required to demonstrate compliance with this 
+carbon stock principle. Carbon stock changes shall be assessed using an average of the last five years of 
+available UNFCCC data representing changes in emissions of forest lands and harvested wood products 
+reported within the LULUCF sector26. This ‘rolling average’ shall be calculated with the most recently 
+available primary data to the jurisdiction at each point of verification. Carbon stocks will be considered 
+stable or increasing where the rolling average of these emissions is zero or negative27, whereby a negative 
+value represents an increase in carbon stocks. 
+ 
+25  As of version 0.9, requirements for agricultural biomass have not yet been developed. 
+26  It is recognized that there is a delay in collecting LULUCF data submitted to UNFCCC, hence a five year rolling average is the 
+preferred calculation approach. 
+27  In UNFCCC inventories, an increase in land carbon stocks is reported as a negative value since this corresponds to negative 
+emissions.  
+ 
+ 
+ 
+41  
+ 
+Forest sourcing area approach 
+For assessments completed at the forest sourcing area level, assessment shall be conducted based on 
+changes in carbon stock on attributable managed lands within the sourcing region. For undertaking the 
+assessment, the following requirements shall be adhered to: 
+• 
+Assessment shall, as a minimum, consider carbon stock change in above ground biomass. Below 
+ground biomass, carbon in dead matter and carbon in soils may either be quantified, or evidence 
+provided, that such carbon stocks are not negatively impacted. 
+• 
+Assessments shall compare changes in carbon stocks using an average of the last five years of 
+available data. This ‘rolling average’ shall be calculated with the most recently available primary 
+data for each sourcing area, and at each point of verification. Carbon stocks will be considered 
+stable or increasing where the rolling average is zero or positive. 
+• 
+Priority shall be given to data sources underlying the development of national LULUCF 
+inventories. Use of alternative data sources (e.g. bespoke remote sensing) shall be duly justified, 
+with particular consideration given to data accuracy and reliability.  
+In exceptional circumstances, the carbon stock principle may still be fulfilled for biomass sourced from 
+areas with declining carbon stocks. This applies for both jurisdictional and forest sourcing area 
+approaches. Such exceptions will only be allowed where a third party VVB concludes that: 
+• 
+A reduction in carbon stock within the assessment area is beyond the reasonable control of the 
+project proponent and is not a result of over-harvesting of forests. Relevant examples may 
+include: 
+o Excessive levels of natural disturbance such as fire, earthquake, or pests.  
+o Reductions were planned to stabilize or reverse the decline of future forest carbon stock 
+(e.g. thinning to reduce fire risk in regions prone to fire damage). 
+• 
+A mitigation plan is in place to stabilize or reverse the decline of carbon stocks. 
+Sustainable management of forests and maintenance of biodiversity  
+Biomass shall be sourced from sustainably managed forests requiring that:  
+a. The country in which forest biomass was harvested has national or sub-national laws applicable 
+in the area of harvest as well as monitoring and enforcement systems; or 
+b. Management systems are in place at the forest sourcing area ensuring: 
+• 
+Legality of harvesting operations  
+• 
+Forest regeneration of harvested areas  
+• 
+That areas designated by international or national law, or by the relevant competent 
+authority for nature protection purposes, are protected with the aim of preserving 
+biodiversity and preventing habitat destruction.  
+ 
+ 
+ 
+42  
+ 
+• 
+That harvesting is carried out considering maintenance of soil quality and biodiversity 
+according to sustainable forest management principles, with the aim of preventing negative 
+impacts in a way that:  
+o Avoids harvesting of stumps and roots.   
+o Avoids harvesting on vulnerable soils.  
+o Ensures harvesting of large clear-cuts is within maximum thresholds as defined in the 
+country where the forest is located.  
+o Ensures extraction of deadwood adheres to locally and ecologically appropriate 
+retention thresholds.   
+o Ensures logging systems minimize impacts on soil quality and biodiversity features 
+and habitats. 
+• 
+That harvesting maintains or improves the long-term production capacity of the forest.   
+From an EU perspective, the criteria of this section leverage the EU RED Article 29.6, as amended by 
+REDIII.  
+Protection of primary forests and other highly biodiverse ecosystems 
+Biomass shall not be sourced from lands with high biodiversity value, namely:  
+a. Primary forest, defined as woodland of native species where there is no clearly visible indication 
+of human activity and the ecological processes are not significantly disturbed; and old growth 
+forest, as defined in the legislation of the country in which the forest is located.  
+b. Highly biodiverse forest, as identified by the relevant competent authority, unless evidence is 
+provided that the harvesting of the biomass does not interfere with those nature protection 
+purposes. 
+c. Highly biodiverse grassland.  
+ 
+From an EU perspective, the criteria of this section leverage the EU RED Article 29.3 and 29.6 as amended 
+by REDIII. 
+Protection of high carbon stock lands 
+Biomass shall not be sourced from lands recently converted from a status with high carbon stock value, 
+namely: 
+a. 
+Wetlands. 
+b. 
+Peatland, unless evidence is provided that the cultivation and harvesting of that raw 
+material does not involve drainage of previously undrained soil. 
+From an EU perspective, the criteria of this section leverage the EU RED Article 29.4 & 29.5, as amended 
+by REDIII. 
+ 
+ 
+ 
+43  
+ 
+Long-lived wood products  
+To protect harvested wood product-based carbon sinks and their climate benefit in substituting carbon 
+intensive products, biomass shall not be sourced from material suitable for use in long-lived wood 
+products such as sawtimber or veneer within the sourcing area.  
+Sources of roundwood, whose characteristics make them unsuitable for use in higher value markets 
+when considering forest, market, and logistical conditions, are eligible. Sources may include thinning, 
+pulpwood, or down-graded wood due to fire, storms, infestation, fungus or fiber that is logistically or 
+otherwise unsuitable for use in long-lived products.   
+Corruption  
+Biomass shall not be sourced from any country with a Corruption Perception Index28 <50, except where a 
+supplier demonstrates adequate mitigation of the risk of corruption.  
+Exemptions  
+Post-consumer forms of biomass (e.g. wood waste) shall be exempt from the sustainability criteria. 
+However, such forms require verification that the waste has not been deliberately produced for the 
+purposes of providing biomass for BECCS.  
+Biomass residues from processing (e.g. sawmill residues) shall be exempt from the ‘Stable or increasing 
+forest carbon stock’ criteria on the basis that demand for such biomass has little influence over land 
+management decisions and consequently carbon stock changes. All other sustainability criteria shall 
+apply. However, due regard shall be given to traceability challenges for such material when considering 
+evidence necessary to demonstrate adherence. 
+Traceability and mass balance  
+Biomass shall be traceable throughout the value chain using either a physical segregation or mass 
+balance approach. Where using a mass balance approach, the mass balance system shall:  
+a. Allow consignments of biomass with differing sustainability and GHG characteristics to be mixed.   
+b. Allow consignments of biomass with differing energy content to be mixed for the purposes of further 
+processing, provided that the size of consignments is adjusted according to energy content.  
+c. Ensure sustainability and GHG characteristics remain assigned to the mixture through the chain of 
+custody.  
+d. Provide for the sum of all consignments withdrawn from the mixture to be described as having the 
+same sustainability characteristics, in the same quantities, as the sum of all consignments added to 
+the mixture and require that this balance be achieved over an appropriate period. 
+ 
+28 2022 Corruption Perceptions Index: Explore the… - Transparency.org 
+ 
+ 
+ 
+44  
+ 
+e. Ensure that sustainability and GHG characteristics are not double-counted across consignments.  
+f. Ensure that sustainable biomass is not mixed with illegally harvested sources. 
+Certification/Monitoring, reporting and verification (MRV)  
+Verification of biomass sources against biomass sustainability requirements in this methodology shall be 
+demonstrated through one or more of three routes:  
+a. Certification – Biomass sources are verified against the relevant criteria through a biomass 
+sustainability certification scheme, such as the Sustainable Biomass Programme (SBP), the Forestry 
+Stewardship Council (FSC), the Programme for the Endorsement of Forest Certification (PEFC), the 
+Sustainable Forestry Initiative (SFI) or Roundtable on Sustainable Biomaterials (RSB), and received 
+with the requisite claim. Alternatively, verification against maintenance or improvement of forest 
+carbon stock criteria may be conducted in accordance with relevant corporate GHG disclosure 
+standards such as the GHG Protocol.  
+b. Regulatory compliance – Biomass sources’ compliance with the sourcing principles are verified by a 
+third party or by national authorities in accordance with sustainability criteria set out in national or 
+jurisdictional regulation.   
+c. Independent assurance – Biomass is independently verified by a third party against the biomass 
+sustainability requirements laid out in this methodology. Verification shall be conducted in 
+accordance with ISAE 3000 limited assurance engagement or equivalent as a minimum. Verification 
+shall be performed annually as a minimum.  
+Where verification of a biomass source may be partially demonstrated through certification or 
+regulation, independent assurance (c) may be additionally used against those requirements not covered. 
+Where using a combination of both certification/regulation and independent assurance, it shall be clearly 
+demonstrated which requirements are met through certification and regulation and which are met 
+through independent assurance. 
+Non-compliance 
+If any consignments of sourced biomass fail to fulfil the requirements in this section, and do not fulfil the 
+exception criteria described, then the project proponent shall not be issued with CDR credits from CO2 
+removal volumes derived from these consignments.  
+The project proponent shall decrease issuance of net removal certificates by the proportion of biomass 
+feedstock sourced from consignments that fail to fulfil sustainability criteria, compared to the total 
+volume of biomass feedstock sourced for the BECCS process. Compliance with the criteria shall be 
+assessed based on the best available evidence at the time of crediting. 
+ 
+ 
+ 
+45  
+ 
+Revisions 
+The sustainability criteria apply a risk averse approach to biomass sourcing. However, it is duly 
+recognized that there can be substantial potential benefits of improved forest management within 
+forests of high ecological value (including both carbon stocks and biodiversity), particularly in forests 
+prone to natural disturbance events exacerbated by climate change. 
+These criteria will therefore be subject to continuous review to ensure that the principles remain aligned 
+with the latest scientific consensus on biomass sourcing, with a view to delivering meaningful climate 
+and nature benefit through improved forest management. 
+ 
+ 
+ 
+ 
+46  
+ 
+Appendix D – Energy leakage 
+Energy leakage is defined as the emissions impact from a rise in overall energy intensity resulting from 
+CCS operations (e.g. an increased grid emissions factor or changes in heat emissions intensity). It is 
+distinct from direct emissions from CCS operation, which are accounted for within the project boundary. 
+Energy leakage is considered a form of market leakage under the classification structure defined in 
+chapter 6. The treatment of energy leakage in this methodology depends both on the type of BECCS 
+project – retrofit or new-build – and on the policy environment in which the project proponent operates. 
+Requirements 
+Project type 
+New-build BECCS power and/or heat plants lower grid and/or heat energy intensity by adding new zero-
+rated energy capacity (see chapter 5). Therefore, new-build BECCS projects do not require any energy 
+leakage adjustments. 
+Energy leakage only needs to be assessed, therefore, in the case of retrofit BECCS projects. Due to the 
+addition of CCS installations, a BECCS plant may supply less net energy to the grid compared to the 
+baseline, thereby potentially increasing energy emission intensity.29 If a retrofit BECCS project supplies 
+less energy to the grid than before the project commencement, then the project proponent shall make 
+energy leakage adjustments as described below. However, if a project proponent can demonstrate that 
+the CCS project has increased plant energy output, they do not need to make any adjustments for energy 
+leakage as it can be seen to add to renewable capacity. In the case of retrofit BECCS, the VVB shall assess 
+the evidence of changes in energy output and outline whether any energy leakage adjustments will be 
+required. 
+Policy environment 
+In jurisdictions with cap-and-trade schemes in place covering the power and heat generation sectors, 
+energy leakage is non-material because any increase in energy emissions resulting from increased CCS 
+energy use will necessitate reductions in emissions from other parts of the energy system due to the 
+jurisdictional emissions cap. In this case, the CCS component of a retrofit BECCS project cannot be said 
+to create energy leakage, as the emissions must be reduced from elsewhere in the energy system to keep 
+emissions from the power and heat sector in line with the emissions cap. 
+In jurisdictions without cap-and-trade systems for the power and heat sectors, the project proponent 
+shall quantify net energy leakage emissions and subtract them from net removals. 
+ 
+ 
+29 Note that for combined heat and power (CHP) plants, the effect on emissions intensity of heat may be the opposite. The 
+project proponent shall assess this prior to each credit issuance. 
+ 
+ 
+ 
+47  
+ 
+Assessment 
+In cases where assessment of energy leakage is required, the project proponent shall estimate the 
+additional emissions that are being generated through the impact on regional grid emissions intensity 
+resulting from retrofit CCS energy using the following equation:   
+𝑀𝐿𝐸 = (𝑃𝑋𝐵 − 𝑃𝑋𝑃) × 𝑃𝐺𝐼 + (𝐻𝑋𝐵 − 𝐻𝑋𝑃) × 𝐻𝐺𝐼 
+MLE 
+Emissions from market leakages 
+tonnes of CO2e 
+PXB 
+Power delivered to the grid in baseline 
+MWh 
+PXP 
+Power delivered to the grid by the plant 
+MWh 
+PGI 
+Power grid carbon intensity 
+Tonnes of CO2e/MWh 
+HXB 
+Heat delivered to the grid in baseline 
+MWh 
+HXP 
+Heat delivered to the grid by the plant 
+MWh 
+HGI 
+Heat grid carbon intensity 
+Tonnes of CO2e/MWh 
+ 
+In case the change in power and heat production in the BECCS plant impacts the Project proponent’s 
+production system, including possible regional cooperation for heat, such impacts shall be included in 
+the calculation above. For example, increased heat delivery from the BECCS plant may reduce the need 
+for electricity in centralised heat pumps. Additional guidance will be provided in due course on how to 
+account for change in carbon leakage over time, particularly for situations where energy delivered in the 
+baseline and grid carbon intensities are anticipated to change over time. 
+In cases where the regional electricity grid emission factor is less than 18g CO2e/MJ, leakage can be 
+assumed to be zero.30 The regional electricity grid is defined as the bidding zone and/or national grid 
+where the different CCS facilities are located. 
+Retrofit BECCS plants where fuel switching from fossil fuel to sustainable biomass occurs (e.g. conversion 
+from coal) is not considered to result in energy leakage, provided that the avoided emissions occurring 
+as a result of the fuel switching activity is not separately credited under the voluntary carbon market. To 
+be considered under this condition, the bioenergy power and/or heat plant shall have been operational 
+for less than or equal to 48 months prior to installation of the CCS equipment.  
+ 
+ 
+ 
+ 
+30 This is based on the European Union’s Delegated Act rules on hydrogen production, which allow for fuels produced using 
+electricity from a grid with emissions intensity of less than 18g CO2e/MJ to be classified as renewable. Delegated Act available 
+at: https://energy.ec.europa.eu/delegated-regulation-union-methodology-rnfbos_en 
+ 
+ 
+ 
+48  
+ 
+Appendix E – Stakeholder consultation and grievance 
+mechanism requirements 
+Stakeholder consultation requirements 
+For new-build BECCS facilities, the project proponent shall conduct a public consultation prior to 
+breaking ground on the project. For retrofit projects, this is only necessary where the project will expand 
+the physical footprint of the facility (e.g. additional pipelines, or expanded plant boundaries). This is to 
+ensure that public feedback is considered, and any concerns are addressed appropriately by the time the 
+project becomes operational. 
+To promote inclusivity, the project proponent shall identify and invite all relevant stakeholders to engage 
+with the project development process. Those invited shall include, as a minimum: 
+• 
+Representatives from local governing bodies. 
+• 
+Relevant non-governmental organizations (NGOs). 
+• 
+Residents from surrounding areas where the project will be located. 
+A physical or an online meeting link shall be set up for all consultations – to at least allow virtual 
+participation in circumstances where all stakeholders cannot join meetings in-person. Invites shall be sent 
+out no less than one month in advance to allow time for participants to plan to attend. Invites shall include 
+the date, time, venue, reason for organizing the public consultation, and live link to the online meeting. 
+Some consultations may be offered on a single stakeholder basis, as appropriate.  
+The project proponent shall prepare documentation with evidence and outcomes of the consultations, 
+which shall include at least the following: 
+• 
+List of invitees/target groups. 
+• 
+List of attendees. 
+• 
+Agenda of the meeting. 
+• 
+Minutes of the meeting. 
+• 
+Questions and feedback received from participants, including responses by the project 
+proponent to those questions and any subsequent actions to be carried out. 
+At the point of validation, the project proponent shall demonstrate to the VVB what action, if any, they 
+have taken as a result of local stakeholder consultation and the reasons for taking, or not taking, action.  
+Grievance mechanism 
+Simultaneous to planning and organizing public consultation, the project proponent shall create and 
+adopt a grievance redressal mechanism or equivalent community engagement mechanism. The project 
+proponent shall make all stakeholders aware of the mechanism and its uses. The grievance redressal 
+ 
+ 
+ 
+49  
+ 
+mechanism will allow any parties affected by the project and acting in good faith to provide feedback or 
+grievances directly to the project proponent. The grievance mechanism must be available through both 
+the implementation and operation phases of the project, and have easily accessible points of contact 
+such as: 
+• 
+A dedicated email address. 
+• 
+A help desk phoneline.  
+• 
+An in-person help desk at a local office of the project. 
+The project proponent shall respond to grievances raised also in good faith and maintain a log of all 
+grievances received, and their resolution, throughout the crediting period of the project. The project 
+proponent may wish to publish grievance and resolution logs on relevant project websites to provide 
+transparency to affected stakeholders, and to encourage public participation through the life of the 
+project. 
+ 
+ 
+ 
+ 
+50  
+ 
+Appendix F – Safeguards 
+The BECCS project shall adhere to safeguards which ensure that any negative social and environmental 
+impacts are considered and mitigated. 
+At the point of project validation, the project proponent must demonstrate that the project, including 
+business partners, has obtained all required relevant environmental and business permits in the 
+jurisdictions of sourcing, capture and storage operations. These safeguards shall apply to all stages of the 
+BECCS value chain, including biomass sourcing, carbon capture and processing sites, CO2 transportation, 
+injection, and storage. Furthermore, the project proponent shall review the full list of sustainable 
+safeguards outlined below and confirm that they have considered each and, where requested, provide 
+the VVB with copies of the assessments provided and mitigations to be implemented. 
+Assessment and management of environmental and social risks 
+• 
+Abide by national and local laws, objectives, programs and regulations and, where relevant, 
+international conventions and agreements; assess risks of negative environmental and social 
+impacts with regard to the safeguards.  
+• 
+Ensure free, prior and informed Consent (FPIC) processes for Indigenous Peoples (IPs) and Local 
+Communities (LCs), where applicable, and conduct reasonable stakeholder consultations, 
+including local stakeholders, as part of project design and implementation. 
+Labour rights and working conditions 
+• 
+Provide safe and healthy working conditions for employees. 
+• 
+Provide fair treatment of all employees, avoiding discrimination and ensuring equal 
+opportunities. 
+• 
+Prohibit the use of forced labour, child labour, or trafficked persons, and protect contracted 
+workers employed by third parties. 
+Resource efficiency and pollution prevention 
+Comply with regulatory-defined limits for: 
+• 
+Local air and water pollution 
+• 
+Noise and vibration generation 
+• 
+Waste generation or release of hazardous materials, chemical pesticides and fertilizers. 
+Land acquisition and involuntary resettlement 
+• 
+Avoid, or where this is not feasible, minimize forced physical and or economic displacement. 
+ 
+ 
+ 
+51  
+ 
+Biodiversity conservation and sustainable management of living natural 
+resources 
+• 
+Avoid, or where this is not feasible, minimize negative impacts on terrestrial and marine 
+biodiversity and ecosystems. 
+• 
+Protect the habitats of rare, threatened, and endangered species, including areas needed for 
+habitat connectivity. 
+• 
+Not convert natural forests, grasslands, wetlands, or high conservation value habitats. 
+• 
+Comply with regulatory-defined limits for: 
+o soil degradation and soil erosion. 
+o water consumption and stress in the mitigation activity. 
+Indigenous peoples (IPs), local communities (LCs) and local heritage 
+• 
+Recognize, respect and promote the protection of the rights of IPs and LCs in line with applicable 
+international human rights law, and the United Nations Declaration on the Rights of Indigenous 
+Peoples and ILO Convention 169 on Indigenous and Tribal Peoples. 
+• 
+Identify the rights-holders possibly affected by the mitigation activity (including customary 
+rights of local rights holders). 
+• 
+Apply, when relevant to circumstances, the FPIC process. 
+• 
+Not force eviction or any physical or economic displacement of IPs and LCs, including through 
+access restrictions to lands, territories, or resources, unless agreed upon with IPs and LCs during 
+the FPIC process. 
+• 
+Preserve and protect cultural heritage consistent with IPs and LCs protocols/rules/plans on the 
+management of cultural heritage or UNESCO Cultural Heritage conventions. 
+Respect for human rights, stakeholder engagement 
+• 
+Avoid discrimination and respects human rights. 
+• 
+Abide by the International Bill of Human Rights and universal instruments ratified by the host 
+country. 
+• 
+Consider and respond to local stakeholders’ views. 
+Gender equality 
+• 
+Provide for equal opportunities in the context of gender. 
+• 
+Protect against, and appropriately respond to, violence against women and girls. 
+• 
+Provide equal pay for equal work.
+ 
+ 
+52  
+Appendix G – Emissions included or excluded from the project boundary 
+Table 2 Emissions sources and sinks included in, or excluded from, the project boundary 
+Baseline or 
+project and/or 
+quantification 
+Source or sink category 
+Included or 
+excluded from 
+project 
+boundary 
+Included or 
+excluded from 
+quantification Justification/description 
+Baseline 
+Non-CCS supply chain 
+energy emissions 
+Excluded 
+Excluded 
+Operational supply chain emissions that are allocated to the 
+energy (power or heat) output of the system. Can be zero in the 
+case of new-builds. 
+Baseline 
+Non-CCS bioenergy plant 
+construction   
+Excluded 
+Excluded for 
+retrofits / 
+Included for 
+new-builds 
+In the case where a bioenergy plant is retrofitted with CCS, 
+bioenergy plant construction emissions would have occurred 
+anyway in the absence of the CCS project.  
+Baseline 
+Non-BECCS specific 
+biomass cultivation and 
+harvesting 
+Excluded 
+Excluded 
+Emissions from the cultivation and harvesting of biomass for 
+purposes other than BECCS would have occurred anyway in the 
+absence of the CCS project. 
+Baseline 
+BECCS-relevant 
+infrastructure emissions 
+Excluded 
+Excluded 
+Embodied emissions from the construction of shared 
+infrastructure that existed prior to the BECCS project that is 
+used by BECCS operations (e.g. roads, pipelines) would have 
+occurred anyway in the absence of the CCS project. This 
+assumes that one BECCS plant will not be a significant driver of 
+the development of carbon storage clusters. Furthermore, in 
+most cases, BECCS will be built where there has been a prior 
+decision to build a storage cluster (and not vice versa). 
+Project boundary 
+& quantification 
+Gross CO2 captured 
+Included 
+Included 
+CO2 would not have been captured absent the CCS project 
+ 
+ 
+53  
+Baseline or 
+project and/or 
+quantification 
+Source or sink category 
+Included or 
+excluded from 
+project 
+boundary 
+Included or 
+excluded from 
+quantification Justification/description 
+Project boundary 
+& quantification 
+Fugitive emissions from 
+carbon capture 
+Included 
+Included 
+Fugitive emissions are directly caused by the CCS project and 
+would not have occurred without it. They must be included in 
+the net removals quantification.  
+Project boundary 
+& quantification 
+Fugitive emissions from 
+CO2 transport 
+Included 
+Included 
+Same as above. 
+Project boundary 
+& quantification 
+Fugitive emissions from 
+injection 
+Included 
+Included 
+Same as above. 
+Quantification 
+Biomass cultivation and 
+harvesting emissions 
+(operational supply chain 
+emissions) 
+Excluded 
+Included 
+Emissions from the cultivation and harvesting of biomass for 
+BECCS purposes (e.g. collection of residues) are not directly 
+related to the project. However they are included in the net 
+removals quantification for conservativeness with an allocation 
+factor if shared with energy products.  
+Quantification 
+Biomass processing 
+emissions (operational 
+supply chain emissions) 
+Excluded 
+Included 
+Same as above.   
+Quantification 
+Feedstock transportation 
+emissions (operational 
+supply chain emissions) 
+Excluded 
+Included 
+Same as above.   
+Quantification 
+Waste disposal emissions 
+(ash) (operational supply 
+chain emissions) 
+Excluded 
+Included 
+Same as above.   
+Project boundary 
+& quantification 
+Energy production 
+emissions (CCS project 
+emissions) 
+Included 
+Included 
+Emissions resulting from the burning of fossil fuels to start up 
+the biomass incineration process are directly related to the 
+project. They are included in the net removals quantification for 
+conservativeness with an allocation factor if shared with energy 
+products.  
+ 
+ 
+54  
+Baseline or 
+project and/or 
+quantification 
+Source or sink category 
+Included or 
+excluded from 
+project 
+boundary 
+Included or 
+excluded from 
+quantification Justification/description 
+Project boundary 
+& quantification 
+Carbon capture emissions 
+(CCS project emissions) 
+Included 
+Included 
+Same as above.  
+Project boundary 
+& quantification 
+Carbon processing 
+emissions (CCS project 
+emissions) 
+Included 
+Included 
+Same as above. 
+Project boundary 
+& quantification 
+Carbon storage emissions 
+(CCS project emissions) 
+Included 
+Included 
+Same as above. 
+Project boundary 
+& quantification 
+Carbon capture 
+construction emissions 
+(CCS project emissions) 
+Included 
+Included 
+Emissions associated with the installation of CCS equipment are 
+directly related to the project and quantified in the net removals 
+calculation. This also applies to bioenergy plant construction 
+emissions in the case of a new-build.   
+Quantification 
+Upstream/downstream 
+emissions (leakage 
+emissions) 
+Excluded 
+Included 
+Leakage emissions are not directly related to the project. 
+However they are included in the net removals quantification for 
+conservativeness.  
+Quantification 
+Activity-shifting (leakage 
+emissions) 
+Excluded 
+Included 
+Same as above. 
+Quantification 
+Market leakage (leakage 
+emissions) 
+Excluded 
+Included 
+Same as above. 
+Quantification 
+Ecological leakage 
+(leakage emissions) 
+Excluded 
+Included 
+Same as above. 
+ 
+ 
+ 
+55  
+ 
+ 
+Appendix H – Registry requirements  
+The application of the methodology must be compatible with a registry that follows the requirements 
+detailed in this appendix. A registry is a standardized platform for the issuance, trading, and retirement 
+of carbon credits that provides a system for verifying the validity and authenticity of the credits, and for 
+ensuring they are not double-counted or sold more than once. The registry can be held by a certification 
+body, a body appointed by national authorities, or by an international organization.  
+The registry shall operate a system that can uniquely identify each CDR credit, associated physical carbon 
+removals, ownership of the credit, and any other relevant attributes. It shall have open interfaces to allow 
+for cost-efficient integration with multiple CDR credit trading platforms and national or international 
+registries for host nation positions.  
+The registry shall carry the following information for each CDR credit:  
+• 
+Serial number  
+• 
+Issuing organization  
+• 
+Issue date  
+• 
+Last cancellation date  
+• 
+Feedstock (biomass or air)  
+• 
+Capture company  
+• 
+Capture plant  
+• 
+Capture method  
+• 
+Transportation method  
+• 
+Storage location  
+• 
+Storage method, with permanence classification (“Geological storage”)  
+• 
+Reversal mechanism  
+• 
+Transaction chain (price, date of sale, seller and purchaser)  
+• 
+Cancellation date  
+• 
+Cancelling party (holding corporation at the time of cancellation)  
+• 
+Volume (standardized to 1 tonne or appropriate multiple thereof)  
+• 
+Amount of CO₂ subtracted from gross tonne injected to arrive at net tonne (for issuance as CDR 
+credits) 
+It is noted that credits issued under this methodology are traded between corporations for voluntary 
+purposes and corporate climate target claims. Consequently, it is possible that the underlying physical 
+ 
+ 
+ 
+56  
+ 
+ 
+removal and storage of CO₂ may in parallel be claimed by host nations for the achievement of national 
+climate targets. This is consistent with the VCMI Claims Code of Practice requirements for reporting high-
+quality carbon credits: “In the absence of a host country’s authorization and subsequent corresponding 
+adjustment, companies must publicly communicate that the mitigation underlying the carbon credit may 
+also be counted towards the host country’s NDC.”31 
+ 
+ 
+ 
+ 
+31  Voluntary Carbon Markets Initiative, 2023. Claims Code of Practice, Annex C. Available at: https://vcmintegrity.org/wp-
+content/uploads/2023/06/VCMI-Claims-Code-of-Practice.pdf 
+ 
+ 
+ 
+57  
+ 
+ 
+Appendix I – Managing data 
+This appendix details how the project proponent must monitor, document and report all metrics 
+identified within this methodology. Following this guidance will ensure the project proponent measures 
+and confirms carbon removed and long-term storage compliance, and will enable quantification of the 
+emissions removal resulting from the project activity during the project crediting period, prior to each 
+verification.  
+This methodology utilizes a comprehensive monitoring and documentation framework that captures the 
+GHG impact in each stage of a BECCS project. Monitoring and detailed accounting practices must be 
+conducted throughout to ensure the continuous integrity of the carbon removals and crediting. 
+Requirements 
+• 
+The project proponent must develop and apply a monitoring plan according to ISO 14064-2 
+principles of transparency and accuracy that allows the quantification and proof of GHG 
+emissions removals.  
+• 
+The project proponent must monitor all the parameters listed below to ensure proper operation 
+under this methodology. 
+ 
+Table 3 Monitoring tables 
+Monitoring table 1:  
+Data/Parameters  
+Gross CO2 injected  
+Equation  
+Equation 2 
+Source of data  
+Measurements at injection sites  
+Description of measurement methods  
+Metered volume   
+Frequency of monitoring/recording  
+Measured continuously at injection location. 
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following certain 
+published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program-specific requirements as needed, while meeting 
+those in this methodology.  
+Purpose of data  
+To quantify and provide proof of CO2 injected.  
+Comments  
+n/a  
+ 
+ 
+ 
+ 
+58  
+ 
+ 
+Monitoring table 2:  
+Data/Parameters  
+Gross CO2 captured  
+Equation  
+Equation 2 
+Source of data  
+Measurements at capture sites  
+Description of measurement methods  
+Metered volume   
+Frequency of monitoring/recording  
+Measured continuously at capture location, at 
+transportation pickup, at time of delivery to storage site, 
+and at time of each injection.  
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following certain 
+published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program-specific requirements as needed, while meeting 
+those in this methodology.  
+Purpose of Data  
+To quantify and provide proof of emissions captured.  
+Comments  
+n/a  
+ 
+Monitoring table 3  
+Data/Parameters  
+CO2 transport fugitive emissions (optional32)  
+Equation  
+Equation 2 
+Source of data  
+Monitoring table 12  
+Description of measurement methods  
+Difference between metered capture and delivered 
+amounts.  
+ 
+May use disaggregated default values where metered 
+values are not available. 
+Frequency of monitoring/recording  
+Averaged over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following certain 
+published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program-specific requirements as needed, while meeting 
+those in this methodology. 
+ 
+32  Fugitive emissions only need to be monitored if the project proponent must estimate gross volumes of CO2 injected based 
+on gross CO2 captured, due to the unavailability of injected CO2 volume certificates.  
+ 
+ 
+ 
+59  
+ 
+ 
+Purpose of data  
+To identify volume of fugitive emissions from CO2 
+transportation that shall be subtracted from gross CO2 
+removals. 
+Comments  
+n/a  
+ 
+Monitoring table 4:  
+Data/Parameters  
+Injection fugitive emissions (optional33)  
+Equation  
+Equation 2 
+Source of data  
+Monitoring table 12  
+Description of measurement methods  
+Difference between delivered and injected metered 
+amounts.  
+ 
+May use disaggregated default values where metered 
+values are not available. 
+Frequency of monitoring/recording  
+At time of each injection  
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following 
+certain published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program-specific requirements as needed, while meeting 
+those in this methodology.   
+Purpose of data  
+To identify any reversals from storage processing.  
+Comments  
+n/a  
+ 
+Monitoring table 5:  
+Data/Parameters  
+Biomass cultivation and harvesting emissions  
+Equation  
+Equation 3 
+Source of data  
+Biomass producer or disaggregated default values when 
+direct measurement is impossible.  
+Description of measurement methods  
+Energy use multiplied by emission factors. 
+Disaggregated default values can be used when direct 
+measurement is impossible.  
+ 
+33  Fugitive emissions only need to be monitored if the project proponent must estimate gross volumes of CO2 injected based 
+on gross CO2 captured, due to the unavailability of injected CO2 volume certificates.  
+ 
+ 
+ 
+60  
+ 
+ 
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year, 
+applied per consignment. 
+QA/QC procedures to be applied  
+Review of factors and processing procedures.  
+Purpose of data  
+To quantify emissions directly attributable to the 
+cultivation of biomass for BECCS purposes, e.g. 
+collection of residues.  
+Comments  
+n/a  
+ 
+Monitoring table 6:  
+Data/Parameters  
+Biomass processing emissions  
+Equation  
+Equation 3 
+Source of data  
+Biomass processing facility or disaggregated default 
+values when direct measurement is impossible. 
+Description of measurement methods  
+Energy use multiplied by emission factors. 
+Disaggregated default values can be used when direct 
+measurement is impossible. 
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year, 
+applied per consignment. 
+QA/QC procedures to be applied  
+Review of factors and processing procedures.  
+Purpose of data  
+To quantify emissions from biomass processing for the 
+BECCS plant. May include pelletizing, drying, etc. 
+Comments  
+n/a  
+ 
+Monitoring table 7:  
+Data/Parameters  
+Waste disposal emissions 
+Equation  
+Equation 3 
+Source of data  
+BECCS plant management data or disaggregated default 
+values when direct measurement is impossible. 
+Description of measurement methods  
+Measured volume, distance moved and emissions 
+factors.  
+Frequency of monitoring/recording  
+Continuous monitoring, averaged over reporting period 
+not exceeding 1 year, applied per consignment.  
+QA/QC procedures to be applied  
+Review of factors, scale calibration as per local/national 
+standards or as per manufacturer specifications, and 
+removal procedures.  
+ 
+ 
+ 
+61  
+ 
+ 
+Purpose of data  
+To quantify emissions from the BECCS plant waste 
+management process.  
+Comments  
+Must include all emissions from onsite machinery as well 
+as vehicles removing waste to landfill or other disposal 
+site.  
+ 
+Monitoring table 8:  
+Data/Parameters  
+Biomass feedstock transportation emissions 
+Equation  
+Equation 3 
+Source of data  
+Energy use (based on transport distance and 
+transportation type’s fuel economy in unit of 
+energy/distance per tonne transported) multiplied by an 
+emissions factor for the transportation mode and fuel 
+type.  
+Description of measurement methods  
+Measured transport distance, fuel economy of 
+transportation mode (in unit of energy/distance per 
+tonne transported), emission factor relevant to 
+transportation mode and fuel type.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year, 
+applied per consignment. 
+QA/QC procedures to be applied  
+Review assumptions, parameters and measurement 
+methods. 
+Purpose of data  
+To quantify emissions from feedstock transport. 
+Comments  
+n/a  
+ 
+Monitoring table 9:  
+Data/Parameters  
+CH4 emissions from energy production  
+Equation  
+Equation 5 
+Source of data  
+Emissions factors for energy production multiplied by 
+volume of feedstock or by energy produced (depending 
+on factor used).  
+Description of measurement methods  
+Either volume measured or metered energy production.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following 
+ 
+ 
+ 
+62  
+ 
+ 
+certain published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program specifics as needed.  
+Purpose of data  
+To account for emissions from energy production 
+through biomass combustion.  
+Comments  
+n/a  
+ 
+Monitoring table 10:  
+Data/Parameters  
+N2O emissions from energy production  
+Equation  
+Equation 5 
+Source of data  
+Emissions factors for energy production multiplied by 
+volume of feedstock or by energy produced (depending 
+on factor used).  
+Description of measurement methods  
+Either volume measured or metered energy production.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following 
+certain published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program specifics as needed.  
+Purpose of data  
+To account for emissions from energy production 
+through biomass combustion.  
+Comments  
+n/a  
+ 
+Monitoring table 11:  
+Data/Parameters  
+Other emissions sources from energy production  
+Equation  
+Equation 5  
+Source of data  
+Energy use multiplied by emissions factors.  
+Description of measurement methods  
+Metered energy use.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following 
+certain published standards and have specific calibration 
+ 
+ 
+ 
+63  
+ 
+ 
+requirements. The project proponent must evaluate 
+program specifics as needed.  
+Purpose of data  
+To account for all emissions from energy production.  
+Comments  
+This category will be used if energy sources outside of 
+biomass are used to start up or maintain energy 
+production facilities (e.g. grid electricity, natural gas)  
+ 
+Monitoring table 12:  
+Data/Parameters  
+Carbon capture energy use emissions  
+Equation  
+Equation 6 
+Source of data  
+Energy use multiplied by emissions factors.  
+Description of measurement methods  
+Metered energy use.  
+Frequency of monitoring/recording  
+Continuous.  
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following 
+certain published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program specifics as needed.  
+Purpose of data  
+To account for energy use emissions from carbon capture 
+technology use.  
+Comments  
+Will vary depending upon energy source. This will 
+account for CO2, N2O, and CH4 emissions. If energy 
+source is biomass compliant with the sustainability 
+requirements under this methodology, and produced by 
+the generators where carbon capture occurs, then this 
+category will be used as all emissions will be included in 
+the energy production emissions calculation (equation 
+3).  
+ 
+Monitoring table 13:  
+Data/Parameters  
+Carbon capture emissions from chemicals use in 
+capture process 
+Equation  
+Equation 6 
+Source of data  
+Inventory of chemical use and technical specifications on 
+carbon capture devices.  
+ 
+ 
+ 
+64  
+ 
+ 
+Description of measurement methods  
+Volume measurement and emissions factors.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Redundancy with comparison to chemical use volume.  
+Purpose of data  
+Calculate emissions from carbon capture systems 
+chemical use.  
+Comments  
+Will vary depending on technology.  
+ 
+Monitoring table 14:  
+Data/Parameters  
+Carbon capture emissions from production of 
+chemicals used in capture processes 
+Equation  
+Equation 6 
+Source of data  
+Inventory of chemicals’ embodied carbon and technical 
+specifications on carbon capture devices.  
+Description of measurement methods  
+Volume measurement and emissions factors.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Redundancy with comparison to chemical use volume.  
+Purpose of data  
+Calculate embodied emissions from carbon capture 
+systems chemical use.  
+Comments  
+n/a 
+ 
+Monitoring table 15:  
+Data/Parameters  
+CO2 processing, compression and dehydration 
+emissions  
+Equation  
+Equation 4  
+Source of data  
+Energy use (in units of fuel/energy per volume of CO2 
+captured) multiplied by an emissions factor for the 
+processing type.  
+Description of measurement methods  
+Metered energy use from capture and/or CO2 transport 
+operator. 
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+Review assumptions, parameters and measurement 
+methods 
+Purpose of data  
+To quantify emissions from captured CO2 processing, 
+compression and dehydration. 
+Comments  
+n/a  
+ 
+ 
+ 
+65  
+ 
+ 
+Monitoring table 16:  
+Data/Parameters  
+CO2 transport emissions 
+Equation  
+Equation 4  
+Source of data  
+Energy use (based on transport distance and 
+transportation type’s fuel economy in unit of 
+energy/distance per tonne transported) multiplied by an 
+emissions factor for the transportation mode and fuel 
+type.  
+Description of measurement methods  
+Measured transport distance, fuel economy of 
+transportation mode (in unit of energy/distance per 
+tonne transported), emission factor relevant to 
+transportation mode and fuel type.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year, 
+applied per consignment. 
+QA/QC procedures to be applied  
+Review assumptions, parameters and measurement 
+methods. 
+Purpose of data  
+To quantify emissions from captured CO2 transport.  
+Comments  
+n/a  
+ 
+ 
+Monitoring table 17:  
+Data/Parameters  
+CO2 injection and storage emissions 
+Equation  
+Equation 4  
+Source of data  
+Storage operator.  
+Description of measurement methods  
+Energy use emissions factor multiplied by CO2 injected 
+(as measured in monitoring table 12).  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year, 
+applied per consignment. 
+QA/QC procedures to be applied  
+Emission factor data source review.  
+Purpose of data  
+To determine emissions from storage.  
+Comments  
+If emissions factor is not in CO2e factors must be collected 
+for N2O and CH.   
+ 
+ 
+ 
+ 
+ 
+ 
+66  
+ 
+ 
+Monitoring table 18:  
+Data/Parameters  
+Embodied CO2 emissions from construction and 
+installation 
+Equation  
+Equation 4 
+Source of data  
+Construction company. 
+Description of measurement methods  
+Multiply size of building and infrastructure with 
+embodied carbon emissions factor that measures CO2 
+lifecycle emissions associated with materials and 
+construction processes. 
+Frequency of monitoring/recording  
+Measured once, after carbon capture equipment 
+construction, then amortized over crediting period as 
+described in PDD. 
+QA/QC procedures to be applied  
+Review assumptions, parameters and measurement 
+methods. 
+Purpose of data  
+To quantify emissions associated with materials and 
+construction of carbon capture, transport and storage 
+equipment. 
+Comments  
+n/a  
+ 
+Monitoring table 19:  
+Data/Parameters  
+Carbon captured and stored originating from ancillary 
+fuels 34 
+Equation  
+Equation 2 
+Source of data  
+Volume of ancillary fossil fuels burned (e.g. fuel used for 
+biomass combustion start-up process or for use in 
+regenerative thermal oxidisers) multiplied by emission 
+factor multiplied by one minus capture rate. 
+Description of measurement methods  
+Volume measurement and emissions factors.  
+Frequency of monitoring/recording  
+Continuous.  
+QA/QC procedures to be applied  
+Meters/scales must be calibrated as per local/national 
+standards or as per manufacturer specifications. Some 
+regulatory regimes (e.g. IRA 45Q) require following 
+certain published standards and have specific calibration 
+requirements. The project proponent must evaluate 
+program specifics as needed.  
+ 
+34  Ancillary fuel CO2 adjustment emissions only need to be monitored if the project proponent must estimate gross volumes of 
+CO2 injected based on gross CO2 captured, due to the unavailability of injected CO2 volume certificates. 
+ 
+ 
+ 
+67  
+ 
+ 
+Purpose of data  
+To account for emissions from energy production 
+through biomass combustion.  
+Comments  
+n/a  
+ 
+Monitoring table 20:  
+Data/Parameters  
+Adjustments  
+Equation  
+Equation 8 
+Source of data  
+Dependent on exception criteria – at discretion of project 
+proponent and VVB. 
+Description of measurement methods  
+Dependent on exception criteria – at discretion of project 
+proponent and VVB. 
+Frequency of monitoring/recording  
+Dependent on exception criteria – at discretion of project 
+proponent and VVB. 
+QA/QC procedures to be applied  
+Dependent on exception criteria – at discretion of project 
+proponent and VVB. 
+Purpose of data  
+To account for unanticipated emissions arising from 
+failure to meet criteria post credit issuance, e.g. sourcing 
+from forests where carbon stocks are later found to be 
+declining.  
+Comments  
+n/a  
+ 
+Monitoring table 21:  
+Data/Parameters  
+Allocation factor 
+Equation  
+Equation 8 
+Source of data  
+GHGP standard for the Allocation of GHG Emissions 
+method35 for allocating emissions between different 
+energy products.  
+Description of measurement methods  
+Measurement methods in compliance with GHG 
+Protocol.  
+Frequency of monitoring/recording  
+Average over reporting period not exceeding 1 year. 
+QA/QC procedures to be applied  
+At discretion of project proponent and VVB. 
+Purpose of data  
+In the case where bioenergy plant produces several 
+energy products, operational supply chain emissions may 
+ 
+35  GHG Protocol - Allocation of GHG emissions from a combined heat and power (CHP) plant, Guide to calculation worksheets 
+(2017)   
+ 
+ 
+ 
+68  
+ 
+ 
+be allocated as appropriate among these products (e.g. 
+heat and electricity) in accordance with the GHGP 
+standard for the Allocation of GHG Emissions. 
+Comments  
+n/a  
+ 
+ 
+ 
+69  
+ 
+Appendix J – Indicative monitoring plan 
+The tables provided below may be used to develop a project’s monitoring plan as described in chapter 9. These are indicative templates that can 
+be updated to reflect each project’s specific requirements. Independent VVBs shall use their professional judgement to adapt reporting timelines 
+and verification requirements to levels that are appropriate for each project, and their level of risk. 
+Table 4: Indicative reporting requirements 
+Reporting principle 
+PDD validation 
+Project validation 
+Streamlined verification 
+Full verification 
+Validation renewal 
+Additionality 
+Demonstrate 
+additionality 
+ 
+ 
+ 
+Re-confirm 
+additionality 
+Baseline 
+Define if project will be 
+retrofit or new-build. 
+Confirm if built project is 
+retrofit or new-build. 
+Estimate allocation factor 
+for non-CCS energy 
+products for first 
+quantification. 
+ 
+Re-assess allocation factor for non-CCS 
+products. 
+ 
+Sustainable biomass 
+Assess adherence to 
+sustainable biomass 
+principles of planned 
+sourcing areas. 
+Confirm adherence of built 
+project to all PDD 
+validation requirements. 
+Will require site visits. 
+ 
+Assess continued adherence to sustainable 
+biomass principles, including carbon stock 
+assessments. 
+Reassess adherence to 
+sustainable biomass 
+principles for all 
+sourcing areas. Will 
+require site visits. 
+Storage and permanence 
+requirements 
+Assess planned storage 
+site adherence to storage 
+principles. 
+Confirm adherence of built 
+project to all PDD 
+validation requirements. 
+Will require site visits. 
+ 
+Assess continued adherence to storage site 
+principles (including enhanced hydrocarbon 
+recovery). 
+Re-confirm adherence 
+to storage principles for 
+all sites. 
+Consultation and 
+safeguards 
+Develop stakeholder 
+consultation plan. 
+Review safeguards and 
+develop mitigation plans. 
+Confirm adherence to 
+stakeholder consultation 
+plan. 
+Review safeguards and 
+adherence to mitigation 
+plans; recommend 
+development of other 
+mitigation plans if new 
+issues identified. 
+ 
+Review safeguards and adherence to 
+mitigation plans; recommend development of 
+other mitigation plans if new issues identified. 
+Review safeguards and 
+adherence to mitigation 
+plans; recommend 
+development of other 
+mitigation plans if new 
+issues identified. 
+Leakage 
+Assess leakage sources 
+for materiality. 
+Confirm materiality of 
+leakage sources. 
+ 
+Re-assess leakage sources for materiality. 
+ 
+ 
+ 
+70  
+ 
+Reporting principle 
+PDD validation 
+Project validation 
+Streamlined verification 
+Full verification 
+Validation renewal 
+Additionality 
+Demonstrate 
+additionality 
+ 
+ 
+ 
+Re-confirm 
+additionality 
+Quantification 
+Calculate embodied 
+emissions from 
+construction and 
+installation, over 15 year 
+amortization period. 
+Provide first projections 
+for all variables required 
+for net removals 
+calculation. 
+Calculate embodied 
+emissions from 
+construction and 
+installation, over 15 year 
+amortization period. 
+Provide first projections 
+for all variables required 
+for net removals 
+calculation. 
+Provide data on all continuously 
+monitored (i.e. metered) variables. 
+Likely to include: 
+• 
+Gross injected CO2 removal 
+volumes. 
+• 
+Energy use emissions. 
+• 
+Energy generation 
+emissions. 
+Provide data on all non-continuously 
+monitored variables. Likely to include 
+emissions from: 
+• 
+Upstream biomass harvesting, 
+processing, and transportation. 
+• 
+Waste disposal. 
+• 
+CO2 processing, transport, injection, 
+and storage. 
+• 
+Energy leakage. 
+ 
+Verification and reporting Create project data 
+sampling and verification 
+plan. 
+ 
+Provide confirmation of 
+VVB credentials. 
+Confirm project data 
+monitoring plan. 
+ 
+Provide confirmation of 
+VVB credentials. 
+Provide confirmation of VVB 
+credentials to registry. 
+Provide confirmation of VVB credentials to 
+registry. 
+Re-assess project 
+monitoring plan. 
+ 
+Provide confirmation of 
+VVB credentials. 
+ 
+Table 5: Indicative frequency of updates to quantification variables 
+Quantification variable requirement 
+Streamlined 
+verifications 
+Full verifications 
+Gross CO2 injected 
+x 
+  
+Biomass cultivation and harvesting emissions 
+  
+x 
+Biomass processing emissions 
+  
+x 
+Emissions from feedstock transportation 
+  
+x 
+Emissions from waste disposal 
+  
+x 
+Energy production emissions (CH4, N2O, CO2, other emissions) 
+x 
+  
+Carbon capture emissions from energy use 
+x 
+  
+Carbon capture emissions from chemical use 
+x 
+  
+ 
+ 
+71  
+ 
+Quantification variable requirement 
+Streamlined 
+verifications 
+Full verifications 
+Emissions from CO2 processing, compression and dehydration 
+  
+x 
+Emissions from CO2 transportation  
+  
+x 
+Emissions from injection and storage 
+  
+x 
+Emissions from construction and installation of carbon capture equipment36 
+  
+  
+Allocation factor for operational supply chain emissions 
+  
+x 
+Leakages (including energy leakage) 
+  
+x 
+Other adjustments (as necessary) 
+x 
+  
+ 
+ 
+36 Emissions from construction and installation of carbon capture equipment are only measured once, after construction, and are amortized over a 15-year period. Such emissions 
+are reported in the PDD for project validation but not in the verification reports since they have occurred prior to the project and hence will not change over the course of the 
+crediting period.   
+ 
+ 
+72  
+ 
+Appendix K - Sustainability criteria for alternative 
+biomass sources  
+Future iterations of the methodology may be developed to accommodate alternative biomass sources, 
+such as agricultural biomass (e.g. straw). 
+ 
+ 
+73  
+References 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2, Chapter 2 (2006) 
+2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 2, 
+Chapter 2 (2019) 
+BEIS - Deep Geological Storage of CO2 on the UK Continental Shelf - Containment Certainty (2023) 
+Criteria and standards applicable to Class VI injection wells (2010) 
+EU directive 2009/31/EC on the geological storage of carbon dioxide (2009) 
+GHG Protocol - Allocation of GHG emissions from a combined heat and power (CHP) plant, Guide to 
+calculation worksheets (2017)   
+Gold Standard – Methodology for biomass fermentation with carbon capture and geologic storage – 
+draft for public consultation (2023)  
+ICVCM Core carbon principles, assessment framework and assessment procedure (2023) 
+IPCC – Climate change 2021, The Physical science basis, Working Group I contribution to the sixth 
+assessment report of the IPCC (2021)  
+IPCC - Special Report on Carbon dioxide Capture and Storage (2005) 
+IPCC special report on carbon dioxide capture and storage – Chapter 5 Underground geological storage 
+(2005) 
+ISO 14033:2019 Environmental management — Quantitative environmental information — Guidelines 
+and examples (2019) 
+ISO 14064-2:2019 Greenhouse gases — Part 2: Specification with guidance at the project level for 
+quantification, monitoring and reporting of greenhouse gas emission reductions or removal 
+enhancements (2019) 
+ISO 14064-3 2019 Greenhouse gases — Part 3: Specification with guidance for the verification and 
+validation of greenhouse gas statements (2019) 
+ISO 27914:2017 Carbon dioxide capture, transportation and geological storage — Geological storage 
+(2017) 
+ISO 9001:2015 Quality management (2015) 
+Louisiana geologic sequestration of carbon dioxide act (2009) 
+Proposal for a regulation of the European Parliament and of the Council establishing a Union certification 
+framework for carbon removals (EU CRC-F), COM/2022/672 final (2022) 
+Puro.Earth – Geologically stored carbon methodology (2022) 
+ 
+ 
+74  
+The storage of carbon dioxide (Licensing etc.) regulation (2010) 
+The storage of carbon dioxide (Termination of Licenses) regulations (2011) 
+US Code 45Q – credit for carbon oxide sequestration (2008) 
+ 
+ 
+ 
+ 
+75  
+Glossary 
+Table 6 Definitions and abbreviations 
+Bioenergy with Carbon 
+Capture Storage (BECCS) 
+Process in which sustainably sourced biomass is used in an industrial 
+process that produces, for example, biofuels, electricity, heat or pulp; the 
+resulting biogenic CO2 emitted is captured and stored. 
+Carbon credit 
+Tradable instrument that represents the reduction or removal of one metric 
+tonne of carbon dioxide or its equivalent in other greenhouse gases, 
+which can be bought and sold on carbon markets to help individuals, 
+organizations, or countries achieve their decarbonisation objectives. 
+Carbon Capture and 
+Storage (CCS) 
+Process that captures carbon dioxide (CO2) emissions from industrial 
+processes, power plants, or the atmosphere, and stores them underground 
+or in other long-term storage facilities. 
+Carbon Dioxide Removal 
+(CDR) 
+Anthropogenic activities separating CO2 from the atmosphere and storing 
+it durably in geological, land or ocean reservoirs, or in products. 
+Combined Heat and 
+Power (CHP) 
+An electricity generating plant combined with equipment to recover and 
+use heat. 
+Carbon Dioxide 
+Equivalent (CO2e) 
+Amount of greenhouse gas, converted in terms of global warming potential 
+over 100 years. 
+European Economic Area 
+(EEA) 
+An international agreement which extends the application of the European 
+Union's single market to some member states of the European Free Trade 
+Association (Norway, Iceland, Liechtenstein). 
+Enhanced Hydrocarbon 
+Recovery (EHR) 
+Practice of recovering hydrocarbons additional to those produced naturally 
+by injecting gas such as CO2 or water. 
+Emissions trading 
+Market-based mechanism that allows entities to buy and sell permits that 
+authorize them to emit a certain amount of greenhouse gases, such as 
+carbon dioxide (CO2), into the atmosphere. 
+Geological Storage 
+The storage of carbon dioxide in underground geologic formations. 
+Greenhouse Gas, (GHG) 
+Group of chemical compounds, including carbon dioxide, methane, and 
+water vapor, that trap heat in the Earth's atmosphere and contribute to the 
+warming of the planet. 
+Global Warming 
+Potential (GWP) 
+A measure of how much energy the emission of 1 tonne of a gas will absorb 
+over time compared to the emissions of 1 tonne of CO2. It is used to 
+estimate the potential future impact of different gases on the climate 
+system.  
+Integrity Council for the 
+Voluntary Carbon Market 
+(ICVCM) 
+Independent organization that aims to promote the credibility and 
+transparency of voluntary carbon markets by setting standards, verifying 
+carbon credits, and providing guidance to market participants. 
+ 
+ 
+76  
+Intergovernmental Panel 
+on Climate Change (IPCC) 
+Scientific body established by the United Nations to assess the science, 
+risks, and impacts of climate change, and provide policymakers with 
+recommendations for addressing the issue. 
+Issuance 
+Act of generating or producing new carbon credits and making them 
+available for purchase in a carbon market. 
+Leakage 
+Emissions sources outside of net removals quantification boundaries (see 
+chapter 3 on project boundaries) that increase/decrease as a result of 
+project operations. Four leakage categories are commonly recognised: 
+upstream/downstream emissions, activity-shifting, market leakage and 
+ecological leakage.  
+Life Cycle Analysis (LCA) A method to quantify the environmental impacts of a product or service 
+throughout its lifecycle. 
+Mitigation 
+reduction or prevention of greenhouse gas emissions and other actions 
+taken to minimize the extent or impact of climate change. 
+Monitoring, reporting 
+and verification (MRV) 
+Process of accounting for all the emissions, energy use, environmental and 
+public health impacts associated with a carbon removal project to 
+determine its net climate impact, thereby showing if the work was done 
+safely and effectively. 
+Partner (business) 
+Any party involved in upstream and/or downstream BECCS value chain 
+activities that is contracted by the project proponent.  
+Project Design 
+Document (PDD) 
+A document that compiles all relevant project data and reflects the project 
+proponent’s plan for adherence to the requirements of this methodology.  
+Project proponent 
+The project proponent is the party that has the overall control over and 
+responsibility for the BECCS project that generates CDR credits, typically 
+the operator or owner of the carbon capture system. 
+Primary forest 
+Naturally regenerated forests of native tree species where there are no 
+clearly visible indications of human activity and the ecological processes 
+are not significantly disturbed. 
+Project boundary 
+The project boundary covers all relevant activities leading to carbon 
+sources and sinks that are exclusively initiated by the anticipation of CDR 
+credit revenue from the project.  
+Registry 
+Standardized platform for the issuance, trading, and retirement of  carbon 
+credits, providing a system for verifying the validity and authenticity of the 
+credits, and for ensuring that they are not double-counted or sold more 
+than once. 
+Removal credit 
+Type of carbon credit that is generated by a project or activity that removes 
+carbon dioxide or other greenhouse gases from the atmosphere and can, if 
+it is stored geologically, be used to neutralise emissions. 
+Reporting 
+Submission of data and evidence to a third-party organisation (a VVB) for 
+the purpose of independently assuring project outcomes. 
+ 
+ 
+77  
+Reversal 
+Any migration of carbon dioxide from its geological reservoirs post 
+injection. 
+Sustainable 
+Development Goal (SDG) 
+Set of 17 global goals established by the United Nations to promote 
+sustainable development and address social, economic, and environmental 
+challenges, including poverty, inequality, and climate change. 
+Sequestration 
+Process of capturing carbon from the atmosphere and storing it in a way 
+that prevents it from contributing to global warming. 
+Transport and storage 
+operators 
+Operators of the carbon dioxide transportation and/or storage facilities, 
+which hold the appropriate licenses and permits to transport, drill and 
+operate injection and monitoring wells. 
+Validation 
+Process whereby a validation/verification body (VVB) confirms a project’s 
+adherence to all requirements in this methodology. Project validation is a 
+pre-requisite for CDR crediting.  
+Validation/verification 
+bodies (VVB) 
+Independent third-party auditors that assess whether a project or program 
+complies with rules or standards.  
+Verification 
+The assurance of claims of net CO2 removal volumes that inform each 
+credit issuance. 
+Voluntary Carbon Market 
+(VCM) 
+Platform where organizations and individuals can purchase and sell carbon 
+credits voluntarily to offset their greenhouse gas emissions or support 
+climate change mitigation and adaptation projects. 
+Zero-rated biomass 
+Combustion of biomass or biomass-based products in the energy sector is 
+counted as generating zero emissions of carbon dioxide, because net 
+carbon dioxide emissions resulting from changes in biomass carbon stocks 
+are already accounted for by the Agriculture, Forestry and Land Use 
+(AFOLU) sector. This accounting principle was introduced by the IPCC to 
+avoid double counting of emissions.   
+ 
+ 
+ 
+ 

@@ -1,0 +1,1208 @@
+1
+ecometrica.com
+BIOMASS CARBON 
+ACCOUNTING
+A Report Commissioned by the Independent Advisory 
+Board of Drax Group PLC
+Report
+Richard Tipper
+Ecometrica, 
+October 2021
+2
+The views expressed in this report are those of the author and do not necessarily reflect the 
+views of the Independent Advisory Board (IAB) or Drax PLC.
+3
+Acknowledgements
+This report develops and expands on a presentation and discussions by the author with 
+Drax PLC’s Independent Advisory Board (IAB) in December 2020. It is intended to clarify 
+various concepts relating to the way in which forest products and woodfuel in particular are 
+accounted for under different frameworks.
+The author would like to thank Charlotte Wylie, Matthew Brander and Michael Goldsworthy 
+for constructive comments and encouragement.
+The views expressed are the author’s and may not reflect those of the Independent Advisory 
+Board, Drax PLC, Ecometrica or other contributors.
+4
+Contents
+Background & Aims
+PART 1: Introduction to Carbon Accounting for Forests and 
+Products
+Basic Concepts in Carbon Accounting for Biomass
+Historical Background
+Climate Change and Ecosystems
+Stocks and Flows of Carbon in Forests
+Sustainable Forest Management
+Production Forests, Natural Forests and Everything in Between
+Measurement of Carbon Flows 
+Challenges to Carbon Neutrality Assumption for Biomass
+PART 2. Carbon Accounting Frameworks and Applications
+Main Carbon Accounting Frameworks
+National Greenhouse Gas Inventories
+Attributional and Consequential Life Cycle Assessment
+Comparative Summary of Accounting Frameworks
+Applications of Carbon Accounting Frameworks
+Forest sources and sinks under the Kyoto Protocol
+Accounting for biomass in the EU Renewable Energy Directive
+Accounting for forest biomass EUETS
+Accounting for forest biomass under the UK Renewables Obligation
+Corporate GHG Accounting
+Certification Schemes and Industry Developments
+PART 3. Recommendations
+Recommendations for Addressing the Carbon Challenges in 
+Bioenergy
+5
+6
+6
+6
+7
+9
+10
+10
+12
+15
+15
+17
+22
+24
+24
+25
+26
+26
+27
+28
+30
+5
+1. Background & Aims
+Bioenergy is one of the alternatives to fossil fuels in the shift towards a zero-carbon 
+economy. However, the development of bioenergy systems at scale has frequently been 
+challenged in terms of its carbon benefits and externalities.
+In 1998, shortly before his death, the late Professor Hall, one of the co-founders of the 
+Intergovernmental Panel on Climate Change (IPCC) and an advocate for realisation of the 
+global bioenergy potential, summarised the conditions that must be met for bioenergy, 
+including forest based biomass, to make an important contribution to the displacement of 
+fossil fuels: 
+“The potential resource for bioenergy is large... Therefore, we expect biomass to be an important 
+fuel of the future, but this cannot be taken for granted. The systems adopted must demonstrate clear 
+environmental and social benefits relative to alternatives if the potential is to be realised. These benefits 
+are not inherent to biomass energy but depend on site- and fuel cycle-specific factors. Life-cycle analysis 
+and evaluation of external costs are important means for assessing the social and environmental pros 
+and cons of bioenergy systems.”1
+The aim of this assignment was to explore and clarify the carbon accounting frameworks 
+used to describe the emissions associated with the production and consumption of wood-
+based bioenergy, in particular biomass from forests as opposed to material obtained from 
+agriculture, waste or short-rotation coppices. 
+This report is divided into three parts:
+Part 1. Provides an introduction to carbon accounting concepts and principles used for 
+forests and forest products, including bioenergy. Starting with a historical perspective it 
+introduces the concepts of stocks and flows and compares forest carbon accounting with the 
+accounting of emissions from fossil fuels.
+Part 2. Provides greater depth into accounting frameworks at the national level and different 
+approaches to the Life Cycle Assessment of forest products.
+Part 3. Discusses ways in which current carbon accounting frameworks can be used to 
+measure and improve the benefits of forests and forest product policies, including the use 
+of bioenergy. It addresses potential challenges to accounting frameworks and suggests 
+potential solutions to some of the issues raised by organisations concerned with potential 
+negative impacts of bioenergy.
+1 D.O Hall, J.I Scrase, Will biomass be the environmentally friendly fuel of the future?, Biomass and Bioenergy, Volume 15, Issues 4–5,1998.
+6
+PART 1. Introduction to Carbon Accounting for Forests and Products
+2. Basic Concepts in Carbon Accounting for Biomass
+This section introduces concepts used in carbon accounting for biomass production 
+and consumption along with some historical perspectives that shed light on the way the 
+accounting frameworks have been developed.
+2.1 Historical Background
+Wood and charcoal from forests were the primary source of energy for human settlements 
+and early industry until the production of coal at large scale from the 18th century onwards. 
+Forests have been multiple-use resources from early times and efforts to manage them have 
+been features of civilisations from the Romans in Europe, the Han in China to the Ming in 
+Japan. From Norman to Tudor times many of the forests in Britain and Europe were under 
+Royal control, reserved for hunting and timber revenues. The first documented example of 
+planned forest management for sustained yield comes from 13th century Portugal, where a 
+Royal Forest was established to prevent coastal erosion, reduce soil degradation and produce 
+naval timber. From 1500 onwards forests became increasingly managed to supply timber 
+for maritime and urban construction. With industrialisation, coal replaced woodfuel and 
+iron ships replaced timber craft; so, forest management and planting shifted towards conifer 
+species suited for pit-props, canal and railway sleepers. 
+Today’s managed forests remain multipurpose resources with products ranging from 
+construction timber, fibre board, paper products, biomass for energy and services such as 
+recreation and flood prevention.
+Throughout history, fuelwood has been an essential component of forest production, with 
+a hierarchy of value determining which outputs are used for material versus energy ends. 
+Fuelwood is usually at the bottom end of the hierarchy - what is left over after more valuable 
+materials have been selected and processed.
+In recent times wood fuel markets have become more sophisticated, with a growth in 
+the demand for uniform, high quality wood fuels, giving a cleaner, more consistent burn, 
+suitable for industrial and domestic applications. This demand has led to a shift in the fuel 
+market towards industrial wood pellets and high-grade wood chips. With the exception of 
+short rotation coppices, forests supplying these wood fuels remain multipurpose.
+2.2 Climate Change and Ecosystems
+Anthropogenic climate change is the result of human activities that took-off during the 
+industrial revolution and accelerated throughout the 19th and 20th centuries. These 
+activities, initially the large-scale exploitation of coal, followed by oil and gas, caused the 
+concentrations of carbon dioxide in the atmosphere to rise from a pre-industrial level of 
+around 280 ppm2 to over 350 ppm by 1990 and passing 410 ppm in 2020. Land-use change, 
+notably the conversion of high carbon stock forests in the tropics to agricultural land 
+contributed between 10% and 30% of the rise in atmospheric carbon dioxide3. Most of this 
+change has been driven by demand for food production but with complex social, governance 
+and economic interactions relating to land tenure, infrastructure development and social 
+2 ppm = parts per million.
+3Houghton, R.A., 2005. Tropical deforestation as a source of greenhouse gas emissions. Tropical deforestation and climate change, 13.
+7
+changes playing an important part in the process4.
+Human induced flows of carbon to the atmosphere from the combustion of fossil fuels and 
+land use change are superimposed on a natural carbon cycle driven by photosynthesis and 
+respiration - the biological carbon cycle.
+The biological carbon cycle (uptake of carbon by terrestrial and aquatic plants and releases 
+from respiration and combustion) is not considered a contributor to anthropogenic climate 
+change although there are some grey areas: many terrestrial ecosystems, such as forests and 
+phytoplankton, have increased their rate of removal of carbon dioxide from the atmosphere 
+as a result of nutrient deposition and elevated concentrations of CO2 in the atmosphere. 
+Terrestrial ecosystems have sequestered approximately 25% of anthropogenic CO2 
+emissions since the 1960’s5. This sequestration currently acts as a brake, helping to slow the 
+rise in atmospheric carbon, but there are concerns that climate and direct human impacts 
+on ecosystems could see this brake fail or go into reverse which would result in a climate 
+tipping point.
+Carbon flows to the atmosphere resulting from human disruptions to the biological cycle, 
+such as deforestation (a change in land use from forest to non-forest) and degradation 
+(loss of carbon stock from land that stays in the same land use category), are included as 
+anthropogenic greenhouse gas emissions, contributing to climate change, but flows to the 
+atmosphere that are part of a stable or continuous use system, such as the flow of carbon 
+into crops through food chains and returning to the atmosphere through animal6 and human 
+respiration, decomposition and combustion are considered part of a neutral cycle.
+2.3 Stocks and Flows of Carbon in Forests
+Forest carbon accounting is based on an understanding of the flows of carbon between 
+different stocks denoting components of the forest ecosystem, the atmosphere and 
+harvested products.
+Figure 1 shows a simplified version of a stock - flow model, with carbon flowing from the 
+atmosphere into the stock of forest biomass - trees (this flow is sometimes shown as a single 
+arrow - the net between photosynthesis and respiration or a double arrow to separate each 
+component). Within the forest ecosystem there are transfers of carbon from living matter 
+to deadwood and litter and to soils. Soils are sometimes overlooked but are of critical 
+importance as in most temperate and boreal forests they represent a larger and more stable 
+stock of carbon than the trees. While soil carbon is generally more stable (slower to increase 
+and more resistant to loss) than the above-ground stock it can nevertheless be depleted 
+rapidly through disturbance such as ploughing or draining which is a feature of some 
+management practices. Once ploughed or drained, large carbon stocks held in peat soils 
+are susceptible to loss through oxidation and burning. There is ongoing research regarding 
+the potential loss of soil carbon in different soil types relative to carbon uptake by woody 
+biomass when different types of grassland and moorland are converted to forestry. 
+Material extracted from the forest is represented as a flow to a stock of harvested wood 
+products. The stock of harvested material within a given region may grow or shrink 
+depending how timber is used within the economy, for example the proportion used in 
+long-lived end uses such as construction relative to that going to short-lived uses such as 
+4Kissinger, Herold & De Sy, 2012. Drivers of Deforestation and Forest Degradation. Report for DECC.
+5Le Quéré, C., et al. (2014), Global carbon budget 2014, Earth Syst. Sci. Data Discuss., 7, 521–610, doi:10.5194/essdd-7-521-2014.
+6While the CO2 from domesticated animal respiration is excluded from anthropogenic emissions, the methane component is included.
+8
+paper, cardboard and bioenergy7. The use of biomass or decomposition of short-lived (and 
+eventually the long-lived) materials is represented by a flow back to the atmosphere. It 
+should be noted that where decomposition occurs in anaerobic conditions, such as in landfill 
+sites or piles of biomass, some of this return flow to the atmosphere will be in the form of 
+methane, a more powerful greenhouse gas than CO2. In addition to these flows there may be 
+occasional sudden returns to the atmosphere from events such as forest fires that deplete 
+the stocks in large areas of forest. 
+Figure 1. Stocks and Flows of Carbon in Forests and Harvested Products
+The rate at which forests and harvested products accumulate or lose carbon depends on the 
+following flows, relative to the uptake by photosynthesis (growth):
+Deforestation / Afforestation: the conversion of forest land to other land uses with lower 
+carbon stocks or afforesting of non-forest land.
+Degradation / Enhancement: the loss of carbon stocks and productivity resulting from over-
+extraction or factors such as fire and pests. Enhancement, when the rate of extraction is 
+lower than the rate of growth.
+Losses or gains to the stocks of harvested products: increases or decreases in the rate at 
+which wood products held in long-term products such as buildings are lost relative to inputs 
+of newly harvested material.
+7https://www.pnas.org/content/116/29/14526
+9
+Box 1: Would forests continue to accumulate carbon if they were left unharvested?
+This depends on the type of forest and other factors such as soil, climate and elevation. 
+There is evidence that many natural or semi-natural forests in the tropics and temperate regions could, if 
+harvesting and thinning ceased, continue to sequester carbon in the soils over millennia, particularly in ar-
+eas of high rainfall, where soil respiration is lower than the annual inputs from litter and deadwood. In these 
+forests, the tree component of the ecosystem can be considered like a pump of carbon from the atmosphere 
+into the soil8. 
+However, many forests, in particular plantations and stands that have been planted with a view to wood pro-
+duction, are limited in terms of their sequestration potential as once they exceed certain heights or when they 
+accumulate large loads of deadwood, they become prone to fire, windthrow and diseases. In most production 
+forest situations, managing for optimal carbon storage entails extraction of biomass (thinning) to reduce 
+overcrowding, fuel load and focal points of disease or pests9.
+If forest harvesting was stopped in these production forests, they would continue to accumulate carbon for a 
+while, but this would be followed by events resulting in large releases of CO2 from fires or oxidation of dead-
+wood. Restricting the harvesting of existing production forests would also have a negative impact on the 
+business case for establishment of new commercial woodland. 
+2.4 Sustainable Forest Management
+The paradigm of sustainable yield has been central to the education of foresters and the 
+practice of silviculture since the mid-19th century. The growth in international trade 
+associated with colonisation and industrialisation led to timber shortages in parts of the 
+world, so forest management departments were established to monitor and control forest 
+use.
+Sustainable yield is the concept of ensuring offtake from a natural system remains at or 
+below the level of reproduction of the resource. The concept is simple to grasp but can be 
+complex to put into practice in specific areas and relates to the ecological conditions and 
+management objectives within particular regions in specific management areas.
+The scale at which forest management is viewed will determine whether the stock of carbon 
+in the growing biomass is maintained or fluctuates over time as different areas are harvested 
+and regrown.
+When a managed forest covers several square kilometres10 it is likely that the extraction of 
+timber from compartments harvested in any one year will be at or below the increment in 
+the unharvested area. However, when looking at smaller land units such as plantations or 
+woodlots planted on individual farms, the biomass change over time will look like a saw-
+tooth at the farm-level.
+Forest management on smaller units is generally still considered sustainable as long as there 
+is a plan to re-establish trees following each harvest and as long as there is no systematic 
+decline of productivity across an area due to factors such as soil erosion or nutrient 
+depletion.
+In terms of carbon management, there has been an increase in the awareness of soils as a 
+stock of carbon that can be vulnerable to release as a result of deep ploughing or drainage. 
+If depleted, soil carbon will recover at a small fraction of the rate of accumulation in the 
+biomass.
+8Luyssaert, S., Schulze, ED., Börner, A. et al. Old-growth forests as global carbon sinks. Nature 455, 213–215 (2008). 
+9 Raymer, Ann & Gobakken, Terje & Gobakken, A. (2011). Optimal Forest Management with Carbon Benefits Included. Silva Fennica. 45.
+10The catchment area of a typical sawmill or pellet mill is likely to be 100’s or 1000’s of square kilometres.
+10
+2.5 Production Forests, Natural Forests and Everything in Between
+Carbon accounting frameworks for forests and products are designed to cover a wide 
+range of forest management regimes but discussions about bioenergy sometimes neglect 
+this range and focus on archetypal “natural” or “old-growth” forests. This is an area where 
+terminology can be problematic because the concepts of a what constitutes a managed 
+versus a natural or old growth forest varies considerably between countries, and groups of 
+stakeholders11. 
+The easiest place to start is at the extremes: monoculture tree plantations versus pristine 
+natural forests with virtually no human interference. 
+Monoculture plantations are readily identified; they are generally even-aged, monoculture 
+stands that have been planted for timber, pulpwood or woodfuel production. Some of the 
+first tree plantations were established to provide wood for curing crops such as tobacco and 
+tea in the tropics. Just because such plantations are monocultures does not mean they have 
+a single purpose, for example they have often been planned to provide windbreaks or soil 
+protection on slopes in addition to products. Plantations are typically planned and managed 
+with a view to production (harvest) within a certain timeframe and forest authorities are 
+often responsible for checking whether an area can be felled and that it is replanted within a 
+given timeframe. 
+At the other end of the spectrum, pristine natural forests are now rare in Europe, given 
+that nearly all the forested area has been subject human impacts such as selective logging, 
+extraction of plants or animals within recent history12. A study in 2016 found less than 12 
+million km2 of intact primary forest, globally, most in remote or protected areas within the 
+boreal and tropical biomes13.
+Between these two extremes there is a continuum of management intensity, ranging from 
+plantations with added elements of diversity, such as patches of natural regeneration 
+around lakes, rivers and roads; and from the other side, mainly natural forests where some 
+management actions such as firebreaks and brush control measures are applied. Forest 
+management regions may contain a patchwork of different management intensities, with 
+compartments of plantation alongside areas set-aside for natural processes.
+When considering the effect of wood fuel demand on forest management, it is important to 
+bear in mind the wide range of forest management types. This will be explored further in 
+Section 3.
+2.6 Measurement of Carbon Flows
+Fundamental differences in the ways that carbon emissions from fossil fuels and wood 
+products are measured underly the distinct accounting approaches taken for reporting 
+bioenergy and fossil fuel emissions.
+With fossil fuels, emissions of CO2 to the atmosphere are calculated from the mass of fuel 
+burned multiplied by its respective emission factor. The amount of fuel combusted in a given 
+period can be accurately determined, by sector or individual business, based on purchasing 
+or consumption records maintained by those businesses. Fossil fuels are transported 
+11 Wirth, Christian & Messier, Christian & Bergeron, Yves & Frank, Dorothea & Kahl, Anja. (2009). Old-Growth Forest Definitions: a Prag-
+matic View. Old-Growth Forests, 11-33 (2009).
+12https://www.nature.com/articles/d41586-018-07183-6
+13http://www.intactforests.org/world.map.html
+11
+and processed in relatively few, carefully administered facilities, making the tallying of 
+production and consumption figures straightforward. Changes in the stocks of fossil fuels 
+would be difficult to measure since those are buried reserves.
+In the case of forests, the net flows of carbon into and out of the ecosystem are estimated 
+by calculating the differences between periodic assessments of biomass stocks. Losses of 
+biomass stocks (representing emissions to the atmosphere) or gains in stocks (representing 
+removals from the atmosphere) are thus calculated from the changes in stocks between 
+points in time rather than measurement of the flows themselves14. This approach is taken 
+because flows of carbon from the atmosphere into the growing vegetation and transfers 
+to different pools within the ecosystem are difficult to measure, whereas methods used 
+to quantify carbon stock changes in forests have been developed over many years for the 
+purpose of planning timber production and making forest management decisions. In recent 
+years these methods have been adapted to account for accumulated carbon, net of growth, 
+mortality and harvesting15. 
+While transfers of carbon out of forests in the pool of harvested products can be reasonably 
+estimated from timber industry reports, flows within the pool of harvested material are 
+also hard to track because materials go into many products – timber, furniture, fibreboards, 
+cardboard, paper, packaging, coatings, as well as wood fuel. Wood-based processing and 
+manufacturing facilities are diverse and widely dispersed in the economy. Much of the 
+wood gathered for bioenergy is informally collected and used in residential areas, especially 
+in developing countries. Part of the material available for bioenergy comes from waste 
+recovered during processing – at sawmills, manufacturing and waste processing facilities. 
+Because of the challenge of tracking wood product flows, the net changes to the stock of 
+harvested wood products are normally estimated by modelling the rate of input versus 
+the rate of decomposition and combustion of different grades of products. Materials such 
+as paper, cardboard and firewood are assumed to be short-lived and return rapidly to the 
+atmosphere, long-lived timber products used in construction are assumed to decay over 
+several decades. When the inputs to the wood product stock is higher than the losses, 
+this gives rise to a removal from the atmosphere and when it is lower, this represents an 
+emission. Figure 2 summarises the different approaches to quantifying emissions and 
+removals for fossil fuels and forests. A more detailed explanation of the differences between 
+fossil fuel and land use change accounting is given by Iverson, Lee and Rocha16.
+14Flux measurement technologies, where a gas analyzer measures the real-time flows of carbon into and out of forests have been de-
+veloped but these are research tools to understand ecosystem processes and have not been applied operationally by forest industries or 
+governments.
+15Measurements of components of tree volume are normally carried out within sample plots representing different strata or types of forest. 
+Changes in forest area are measured using mapping techniques, including the use of earth observing satellites.
+16Understanding Land Use in the UNFCCC (link)
+12
+Figure 2. Differences between fossil fuel and forest (and forest product) emissions reporting 
+2.7 Challenges to the Carbon Neutrality Assumption for Biomass
+Carbon Neutral is a much used but imprecise term, referring to a condition where a product 
+or service does not contribute to climate change resulting from the human induced emission 
+of climate warming gases (CO2, methane, nitrous oxide and other Kyoto gases). Carbon 
+neutrality does not imply zero emissions but implies that emissions to the atmosphere in 
+one part of a process are balanced by removals17 in another part of the process. 
+There are other climate influencing factors associated with forests and their management, 
+including albedo, evapotranspiration and emissions of volatile organic compounds but these 
+are not normally considered within the carbon neutrality construct.
+Biomass used for bioenergy, along with other biogenic products such as plant and animal 
+biomass used for food and materials, are often considered carbon neutral (apart from the 
+carbon released as methane from enteric and anaerobic metabolic pathways, and emissions 
+from fossil fuels used in transportation and processing) so long as the stocks of carbon 
+within the agricultural, forest systems and the pool of harvested products are not depleted 
+over time. The following challenges to the neutrality assumption have been raised for wood-
+based energy:
+a) Carbon Debt 
+The term “carbon debt” is not used by IPCC or any greenhouse gas reporting standards. 
+However, the concept has been proposed as a way of highlighting the time elapsed between 
+the combustion or oxidation of harvested material (for bioenergy or other purposes) and the 
+recapture of a similar amount of carbon within the forest18. While the term debt assumes 
+that measurement of carbon flows starts at the point of harvest (as opposed to the point of 
+planting or any other time) it has been argued that the use of biomass from long rotation 
+(long debt recovery) systems is environmentally negative because it takes several decades 
+for a similar amount of carbon to be re-sequestered at a given site.
+17Organisations involved in carbon offsetting have also used emission reductions (reductions of emissions relative to a counterfactual 
+baseline) to achieve neutrality.
+18A less discussed version of carbon debt is the time elapsed to recover carbon emissions from soils when plantations are established on 
+organic soils various tillage systems.
+13
+To better understand the issue of carbon debt it is helpful to compare the carbon dynamics of 
+two contrasting systems – a short rotation coppice, where biomass is harvested on a 3-year 
+cycle  (3-year debt recovery) and with a Sitka spruce plantation with a 40 rotation (taken 
+from UK Sitka Spruce Yield tables), with thinning, producing chipped wood, potentially 
+suitable for bioenergy, every 5 years. Thinning is done to enable the stand to produce the 
+maximum amount of high-quality timber at final felling. 
+While both systems have similar average outputs of biomass on an annual basis, the average 
+stock of carbon held on the land by spruce plantation is around 86 tonnes of carbon. So, 
+while the carbon debt recovery period is longer in the forest system there is a corresponding 
+higher average stock of carbon.
+3 Year Short Rotation Coppice Cycle
+Y1
+Y2
+Y3
+• 
+Carbon recovery (debt) period 3 years
+• 
+Average annual output of system = 4 tC (8 tonnes oven dry biomass / ha)
+• 
+Maximum carbon stored in above ground biomass = 24 tC/ha
+• 
+Average carbon stored in above ground biomass = 8 tC/ha
+40 Year Forestry Cycle
+Y1
+Y2
+Y3
+Y4
+Y5
+Y6
+Y7
+Y8
+Y9
+Y10
+Y11
+Y12
+Y13
+Y14
+Y15
+Y16
+Y17
+Y18
+Y19
+Y20
+Y21
+Y22
+Y23
+Y24
+Y25
+Y26
+Y27
+Y28
+Y29
+Y30
+Y31
+Y32
+Y33
+Y34
+Y35
+Y36
+Y37
+Y38
+Y39
+Y40
+• 
+Carbon recovery (debt) period 40 years
+• 
+Thinning on a 5-year cycle
+• 
+Average annual output of system = 4.25 tC/ha (8.5 tonnes oven dry biomass per ha)
+• 
+Maximum carbon stored in above ground biomass = 170 tC/ha
+• 
+Average carbon stored = 86 tC/ha
+For managed forests carbon debt is inevitable when viewed at the compartment or stand 
+level. However, as one moves from the compartment to forest, region and national levels 
+those recently harvested areas should be balanced out by other stands at different levels of 
+maturity. If the level of biomass extraction increased to an extent that a region experienced 
+an overall reduction in growing stock, this should be picked up by forest inventory data 
+and should be reported as forest degradation. The Intergovernmental Panel on Climate 
+Change emphasises the importance of distinguishing routine forest management from forest 
+degradation resulting from activities such as high grading, overgrazing in open woodlands 
+or human incursion into previously undisturbed forests 19.
+19IPCC Report on Definitions and Methodological Options for Inventory of Emissions from Direct human-induced degradation of forests 
+and Devegetation of other vegetation types (link).
+14
+b) Counterfactual Scenarios
+Given that many unmanaged, old growth forests are sinks of carbon as opposed to simply 
+in carbon balance, there is an argument that a neutral cycle from managed forests, even 
+where carbon stocks are kept at a steady average state, represents a net loss of sequestration 
+potential relative to an ideal or optimal management regime. There is an ongoing debate 
+about the extent to which forest management can be optimised to retain and sequester 
+carbon and what role harvesting and use of products should play within this. Modelling 
+studies indicate that when including the potential for storage of carbon in harvested 
+products and the use of bioenergy, the optimal use of forests, viewed purely from a carbon 
+perspective, would include active management as opposed to letting forests revert to some 
+undisturbed natural state 20, 21. However, the optimal approach is likely to vary considerably 
+between locations and forest types.
+c) Broader sustainability factors
+ Several organisations have pointed out the danger of simply regarding forests and trees as 
+“sticks of carbon”. The long-term viability of forests is dependent on maintaining a number 
+of functions and properties including nutrient cycling, biodiversity and arguably economic 
+functions that permit reinvestment in management and renewal. Todd and colleagues at the 
+USDA’s Northern Institute of Applied Climate Science provide an excellent menu of forest 
+management recommendation for combining good carbon management outcomes with 
+climate change adaptation, biodiversity and other considerations 22.
+20Asante, P. and Armstrong, G.W., 2012. Optimal forest harvest age considering carbon sequestration in multiple carbon pools: A compara-
+tive statics analysis. Journal of Forest Economics, 18(2), pp.145-156.
+21Favero, A., Daigneault, A. and Sohngen, B., 2020. Forests: Carbon sequestration, biomass energy, or both? Science advances, 6(13)
+22Todd A Ontl, Maria K Janowiak, Christopher W Swanston, Jad Daley, Stephen Handler, Meredith Cornett, Steve Hagenbuch, Cathy Han-
+drick, Liza Mccarthy, Nancy Patch, Forest Management for Carbon Sequestration and Climate Adaptation, Journal of Forestry, Volume 118, 
+Issue 1, January 2020, Pages 86–101, https://doi.org/10.1093/jofore/fvz062
+15
+PART 2. Carbon Accounting Frameworks and Applications
+3. Accounting Frameworks for Forests and Forest Products
+This section discusses how the main carbon accounting frameworks for the production and 
+use of forest-based biomass are structured and used for various purposes.
+3.1 National Greenhouse Gas Inventories
+Under the UN Framework Convention on Climate Change (UNFCCC), signatory countries 
+are encouraged to report on greenhouse gas emissions using semi-standardised methods 
+that have been designed with a balance of consistency, accuracy, comprehensiveness and 
+practicality in mind. National reporting covers all major economic sectors such as power 
+generation, transportation, and includes agriculture, forestry and land use (AFOLU) 23. The 
+methods to be used in national reports were developed by the International Panel on Climate 
+Change (IPCC), which published guidelines for national greenhouse gas inventories in 2006 
+and subsequently refined methods in 201924. 
+The purpose of national reporting is to provide a framework for target setting and the 
+measurement of progress at the national scales and to aid negotiations on agreements to 
+limit the overall levels of anthropogenic greenhouse gases in the atmosphere.
+Forest Stock Change
+While there are various options and modalities in accounting for forest and harvested 
+product carbon flows under different schemes within the UNFCCC (the Kyoto Protocol, the 
+Paris Agreement and REDD+) the national inventories follow the stock change approach 
+described in Part 1 (2.4.1) and there is a distinction between stock changes occurring in 
+forest that remains as forest (degradation or accumulation) and changes resulting from land 
+use change, where forests are converted to other land uses (deforestation). 
+Where forest land remains forest but is losing carbon through a process of degradation 
+(where offtake + mortality exceeds regrowth) the emissions associated with this process are 
+reported as an emission from the forest carbon pool. Where forest land is increasing carbon 
+stock as growth exceeds offtake, decay and burning this is reported as a removal of carbon 
+from the atmosphere. Figure 3 summarises the possible processes associated with stock 
+changes and emissions or removals.
+23Some international activities are excluded such as international shipping, air transport and bunker fuels.
+24 IPCC 2006 Guidelines for National GHG Inventories (link); 2019 Revisions (link). 
+16
+Figure 3. Land use and land use change processes associated with carbon stock changes. 
+Orange arrows = emissions; Green arrows = removals
+Before
+After
+Forest
+Lower carbon 
+forest
+Higher carbon 
+forest
+Non-Forest
+Harvested Products Stock Change
+Most countries account for harvested wood products (HWPs) as oxidised at the point of 
+harvest, with no additional emissions beyond those considered as part of the forest stock 
+change calculations. However, inventory guidelines also allow countries to report on changes 
+to the stock of harvested products as a source of emissions or removals. 
+Where HWP stocks are shown to be increasing – when the accumulation of carbon in long-
+lived products is higher than the rate of oxidation, then this is counted as a removal from 
+the atmosphere. Where HWP stocks are declining through reduced inputs of long-lived 
+products or increased rates of oxidation then this is counted as an emission. The removal by 
+increasing the stock of HWP is not double-counting stocks of carbon that have been grown in 
+the forest because they have been counted as oxidised at the point of removal from the forest 
+pool through the stock change approach within the forest.
+The UK, for example, reported a removal of approximately 2.4 million tCO2 resulting from 
+a growth in the HWP stock in 2017 (UK National Inventory Report, 2020). Estonia has 
+produced annual estimates of removals and emissions from its HWP stock since 1990 
+(Figure 4).
+Degradation
+17
+Figure 4. Net emissions from HWP categories of Solid wood, Paper and paperboard and
+Semi-chemical wood pulp in Estonia in 1990–2018, kt CO2. Note, negative emissions = 
+removals. From Estonian national GHG inventory 2019.
+While national inventories report emissions and removals at the national level they do not 
+specifically account for these on a unit of production or consumption basis. Life-cycle carbon 
+accounting aims to provide information on the emissions associated with the production, 
+use and disposal or products. The following sections describe two types of life cycle 
+assessment (LCA) and their potential applications to bioenergy.
+3.2 Attributional & Consequential Greenhouse Gas Life Cycle Assessment
+Life cycle assessments (LCAs) of products and services aim to provide information on 
+the environmental impacts associated with the production, consumption and disposal of 
+goods and services. Concerns about climate change have led to an increased focus on the 
+greenhouse gas component of LCAs.
+There are two main approaches to LCAs – Attributional and Consequential.
+Attributional LCAs: where the observed GHG emissions within the supply chain are divided 
+between the units of consumption on a normative or “fair share” basis.
+Consequential LCAs: where the impact of incremental or marginal demand on the wider 
+supply system, including substitute products and components, are estimated in terms of 
+GHG emissions per additional unit of product demanded by the market.
+The scope of attributional LCA’s tend to cover the operational supply chain of a given product 
+or service – moving along the chain of suppliers, using data from suppliers on emissions 
+per unit of each input or where supplier data is not available, estimating these contributions 
+for each input. Consequential LCA’s take a broader look at the markets supplying inputs and 
+input substitutes and estimate how an incremental increase in or decrease in demand for a 
+given input will result in changes to emissions at a systemic level. 
+Consequential GHG LCA for Bioenergy
+In the case of bioenergy, consequential life cycle assessment is used to assess how a change 
+in demand for biomass will feed through to other parts of the system and forest products 
+economy and how these changes in-turn influence emissions and removals. 
+Consequential LCA models vary in their scope, design and key assumptions and may arrive 
+at different conclusions, particularly when the system is complex. This is the case when 
+models make inferences about product substitution and demand response processes across 
+international markets or binary type decisions (to replant or not to replant; to harvest or not 
+to harvest). C-LCAs may be developed to illustrate different scenarios relative to a baseline, 
+business-as-usual, or counterfactual reference case.
+Figure 4 and the subsequent thought experiment described in Box 2 illustrate potential 
+consequences of how an increase in bioenergy demand might be simulated using a 
+consequential LCA model of the bioenergy system. The results of the C-LCA model indicate 
+how a marginal change in demand will feed through to a marginal change in environmental 
+impacts. 
+Figure 5. An illustration of the potential consequences of increased bioenergy demand to 
+substitute natural gas (illustrative only).
+18
+19
+Box 2. Consequential Thought Experiment: What are the consequences of an increase in 
+biomass demand? 
+An increase in biomass demand to substitute natural gas as a fuel could have a number of 
+consequential effects. The overall effect would be the sum of the additional emissions and 
+removals. The considerations listed here are preliminary and meant to be illustrative, not 
+definitive analyses:
+- The increase in demand might first be felt as competition for the current stock of harvested 
+wood products:
+• 
+Low value material that would have previously gone to waste or decomposed in timber 
+processing would be diverted to bioenergy, with a potential reduction in methane 
+emissions25;
+• 
+Some medium value materials that would previously have been used for short lived 
+products such as packaging or medium life products such as pallets and fibre board may 
+be diverted to bioenergy, raising the price of these materials (low impact on emissions, 
+since most of this material would be oxidised within 1-5 years);
+• 
+The flow of materials to long-lived structural timber products is less affected unless the 
+increase in bioenergy demand was extreme.
+- If the increased demand was sustained the impact might then be felt as an increased 
+demand for harvesting of timberland, with the following effects:
+• 
+Thinning or harvesting timing may be brought forward, reducing the rotation length 
+of forest management, resulting in a lower than previous stock of carbon (reduction in 
+forest carbon stock / net increase in emissions);
+• 
+In cases where forest stands are not being adequately thinned, thinning can have a 
+positive impact on the quality and value of the final stand, which may lead to a higher 
+proportion of end products going to long-lived timber products;
+• 
+Increased efforts to extract material from forest may result in practices such as stump 
+extraction, associated with increased soil disturbance (increase in emissions from soil 
+and deadwood pools);
+- Sustained demand may also result in increased investment in forest creation for timber and 
+by-products:
+• 
+Increase in forest planting or improved yields resulting from investment in superior 
+growing stock (increase in carbon removal from the atmosphere, but possible increase in 
+emission from soil disturbance, depending on where and how trees are established);
+• 
+Reduction in the conversion of existing woodlands to other land uses such as forage and 
+cash crops;
+• 
+Increase in timber production may feed through to increase use of structural timber in 
+the built environment and displacement of carbon intensive materials (net reduction of 
+emissions).
+- The reduction in consumption in natural gas could feed through to decisions regarding 
+future investments in fossil fuel exploration and longer-term supply of natural gas:
+• 
+Potential reduction in emissions beyond the immediate substitution of NG resulting from 
+reduced demand as investor capital flees fossil fuel exploration.
+While proponents of consequential LCA have proposed that these types of analysis are 
+suitable for many decision-making situations, including informing public consumption 
+choices through food labelling, the author’s view is that consequential LCA is most 
+appropriate and most useful as a guide to policy makers, to inform major decisions on 
+climate and energy matters. The reason for this is the need to assemble expert knowledge 
+and organise stakeholder discussions on the consequential impacts of policies and to 
+incorporate these into C-LCA models. This means C-LCA studies need to be properly planned 
+and resourced and set within a policy making framework. 
+25It has been observed that one of the first responses to markets for bioenergy is for sawmills to fit equipment to catch and 
+pelletise sawdust and other fine materials.
+20
+An important aspect of organising C-LCAs in the forest and land use sector is the lack 
+of reference data showing how a change in one variable (e.g. demand for a type of wood 
+product) affects another variable (e.g. rate of harvesting), over what range and timeframe 
+and subject to what conditions. Experiences of modelling land use change decisions 
+resulting from demands in the agricultural sector have shown that there can be many 
+complicating factors such as land tenure norms, legal issues, terms of trade and exchange 
+rate fluctuations that make any results subject to wide ranges of uncertainty.
+Box 3: Searchinger et al’s consequential modelling of bioethanol demand
+A controversial but influential paper by Searchinger and colleagues in 200826, proposed 
+that subsidies for increasing the incorporation of bioethanol into gasoline in the US 
+would lead to indirect land use change (ILUC) in Brazil and other Latin American countries 
+even if the ethanol was produced in the US from US grown corn. 
+The paper modelled a series of market linkages showing how increased demand for 
+corn, driven by the bioethanol subsidies, might crowd-out US soybeans from Midwest 
+farms, leading to increased demand for soybeans from south America, where soybean 
+expansion has long been associated with conversion of forest to agriculture along with 
+its associated carbon emissions and biodiversity impacts. 
+Subsequent research questioned many of the Searchinger-team’s assumptions and 
+their main assertions were not borne out by the implementation of US and European 
+biofuel policies. Nevertheless, ILUC remains an important topic of discussion and likely 
+influence on future policy. Just because ILUC did not materialise at the scale anticipated 
+in the original paper, it does not mean that it could not occur in the future, with a 
+different set of market and regulatory conditions.
+From an accounting perspective, a methodological flaw in the Searchinger et al 
+approach was the comparison of bioenergy using consequential LCA models with 
+emissions from fossil fuel gasoline accounted using an attributional accounting method.
+26Timothy Searchinger; et al. (2008). “Use of U.S. Croplands for Biofuels Increases Greenhouse Gases Through Emissions from Land-Use 
+Change”. Science. 319 (5867): 1238–1240.
+21
+Attributional Life Cycle Assessment for Bioenergy
+Within an attributional LCA, the observed GHG emissions within the supply chain scope are 
+divided between the units of consumption or output on a normative or “fair share” basis. 
+The attributional approach is commonly used to describe emissions associated with the use 
+of electricity, air travel, road transport, fuels and many other products and services. There 
+are a number of embedded assumptions and conventions used within the attributionally 
+derived emission factors27:
+• 
+Fair sharing of emissions across the end users: business class passengers are attributed 
+a higher proportion of emissions associate with air travel than economy passengers. 
+Emissions may also be assigned to components on a mass or volume balance basis.
+• 
+Simplification of system behaviour for practicality: while the emissions per unit of grid 
+electricity vary seasonally and during the day, standard annual factors are generally 
+accepted for a given national or regional grid. Attributional factors do not include market 
+substitution effects that may occur when additional units of product are demanded or no 
+longer required by the end consumer.
+• 
+Truncation of scope for ease of application: emission factors for power and fuels rarely 
+include aspects such as upstream exploration and production, manufacture of capital 
+equipment. Factors for aviation rarely include manufacture of the aircraft or production 
+of the fuels (these are sometimes assumed to be de minimus). 
+The attributional approach is also the basis of organisational or corporate GHG accounting, 
+which has become enshrined in corporate reporting standards for listed and large private 
+companies – an organisation’s “Scope 3” emissions are effectively the upstream and 
+downstream emissions associated with the supply chain of an organisations goods or 
+services.
+Key assumptions within an attributional LCA determine the way in which emissions from a 
+given process with multiple outputs or user types within a supply chain are split between the 
+outputs – for example, the emissions of an aircraft between freight, business and economy 
+passengers, the different components from a chemical separation process, the heat and 
+power from a combined heat and power plant. These attribution rules may become more or 
+less accepted or normalised within certain sectors – for example. The allocation of emissions 
+may be based on the relative mass, energy content, proportional economic value or other 
+attributes, but is essentially normative.
+Within a bioenergy supply system an attributional LCA would estimate the emissions from 
+each component of the supply chain from the forest through to the delivery of the energy and 
+where applicable the sequestration or release of final CO2 emissions.
+Key assumptions would be made for attributing emissions or removals resulting from the 
+forest production stage, as calculated from changes in the stock of carbon within the supply 
+area to different forest products – timber, pulp and fuelwood. Another key assumption would 
+be the area over which the supply area is determined for a sawmill or pulp mill this might be 
+in the order of several millions of hectares of forest.
+Attributional life cycle and organisation-level accounting provides a high degree of certainty 
+of emissions per unit of output at a given point in time, in the sense that it is based on 
+activity data from supply chains and operations combined with well understood emission 
+factors. However, attributional assessments provide limited insights into potential systemic 
+27 For a wide range of of global emission factors, their sources and assumptions visit emissionfactors.com
+22
+changes or counterfactual scenarios across an industry or at a national policy level.
+Drax applies the attributional LCA approach to reporting the GHG emissions associated with 
+its bioenergy supply chain28, the main sources of emissions being the pelletising and sea 
+transport stages of the chain.
+3.3 Comparative Summary of Accounting Frameworks
+ 
+In summary, the national GHG inventory should, in theory, capture all the resulting 
+emissions and removals, including the substitution of fossil fuel - which is likely to have been 
+the motivation for the policy in the first place. As GHG inventories are retrospective, they do 
+not predict future emissions and as they are inventories the reports may not identify causes 
+or effects of historic changes, although some countries do provide explanatory information 
+on the drivers behind changes in national land use emissions and descriptions on how 
+policies are expected to address emissions from different sectors, over time. 
+Consequential LCAs seek to assess impacts of changes to bioenergy demand on the energy 
+system as a whole. Ideally this analysis would identify key thresholds or conditions that 
+could be applied to limit negative impacts and enhance positives. It delivers the results as a 
+marginal change in emissions per marginal unit of production.
+An attributional LCA describes the emissions associated with the production of an average 
+unit of bioenergy from the point of origin to its conversion to energy. In the case of forest 
+products this should include any emissions associated with loss of carbon stocks from 
+forests within the supply area. It would also include items such as transportation emissions 
+that might be missed out of a C-LCA as not significant. Attributional LCAs are particularly 
+useful for identifying the main sources of GHGs within a supply chain, for managing and 
+reducing emissions within the supply chain and for comparing similar products – e.g. a food 
+product produced locally v’s one shipped in via air freight.
+An attributional LCA reflects the average emissions per unit output of the production system 
+at a point in time and  not the marginal impacts of changes in demand or new technology at 
+the system level.
+28https://www.drax.com/sustainability/sourcing-sustainable-biomass/#ensuring-sustainable-biomass
+23
+Table 2. Summary of carbon accounting approaches and their suitable applications
+National Inventory
+Consequential
+Attributional
+Gives a complete, consistent 
+annual report of anthropo-
+genic GHG emissions.
+Does give a large-scale pic-
+ture of emissions and how 
+they have changed over time;
+Does not show the impact of 
+a particular activity or tech-
+nology, or project forward 
+in time. Does not associate 
+emissions with units of pro-
+duction (in case of harvested 
+wood products).
+Useful for tracking national 
+efforts to manage and reduce 
+GHG emissions.
+Estimates impacts of new 
+technologies, policies, de-
+mands. 
+Does give a picture how 
+emissions may change, albe-
+it simulated; 
+Does not quantify actual 
+emissions associated with a 
+specific unit of production.
+Useful for assessing the im-
+pacts of policy changes and 
+technology shifts.
+Divides observed emissions 
+between users of a service or 
+product.
+Does consistently account 
+for observed emissions in a 
+simple, direct way;
+Does not show the impact of 
+a change in demand or new 
+technology at the systemic 
+level.
+Useful for identifying main 
+sources of emissions within 
+a supply chain, potential im-
+provements within a supply 
+chain, comparing similar 
+products.
+24
+4. Applications of Carbon Accounting Frameworks
+4.1 Forest sources and sinks under the Kyoto Protocol and Paris Agreement
+Emissions from and removals by forests were an important but contentious component of 
+the Kyoto Protocol (KP), which was agreed in 1998, and operated from 2005 -2020, - the first 
+set of legally binding commitments for governments negotiated under the UNFCCC. 
+Under the KP, which set binding targets for the industrialized countries, removals of carbon 
+from the atmosphere by afforestation, reforestation and a limited set of activities in managed 
+forests could count towards the national targets. National emissions included those from 
+land use and land use change. A major area of contention was the degree to which carbon 
+removals from the atmosphere by managed forests could contribute to national targets. One 
+of the reasons given for the US pulling out of Kyoto was the limited role allowed for forest 
+carbon uptake, noting the strength of US forest removals during this time.
+The treatment of bioenergy within the KP was based on national greenhouse gas inventories, 
+with the emissions of biomass covered by changes in stocks of carbon within the land use 
+sector and pools of harvested wood products. 
+In 2009, Searchinger’s research group at Princeton University along with Kammen 
+and colleagues at the University of California asserted that treating biomass carbon as 
+“effectively neutral”, relative to fossil fuels, could lead to the substitution of coal by biomass 
+at a massive scale:  applying this incentive globally could lead to the loss of most of the world’s natural 
+forests as carbon caps tighten29.  
+The authors also made the distinction between crops grown specifically for the purpose of 
+bioenergy production, which could be counted as carbon neutral, versus those that were 
+not, which should be treated as emissions. They proposed a scheme to credit “additional” 
+sources of bioenergy as opposed to those that were for other purposes. Searchinger and 
+Kammen’s proposed changes to carbon accounting for biomass were rejected by the IPCC yet 
+the outcomes predicted by their consequential assessment were not realised.  The predictive 
+failure of these models may have been partly attributable to sustainability safeguards 
+preventing the importation of biomass associated with deforestation and degradation but 
+could also have occurred because emissions trading schemes never delivered carbon prices 
+at the levels the authors had predicted. Thus, energy buyers could rarely exceed the price 
+of mainstream timber products. At the same time other forms of renewable energy such 
+as wind and solar became more competitive, with the result that biomass made a modest 
+contribution to the replacement of coal fired generation capacity. Finally, land managers 
+in Europe responded to market demands by planting more forests30, and in the USA the 
+stock of growing timber increased31. The extent to which these observed increases in forest 
+resources were achieved in spite of or because of climate policies is still uncertain, since 
+the growth in production forest planting in Europe was also favoured by tax incentives and 
+changes to agricultural support.
+The Paris Agreement, which was adopted in 2015, and includes most developing as well 
+as industrialized countries, takes a more holistic view of the land use sector and addresses 
+areas such as emissions from deforestation and forest degradation. Countries are required 
+29https://www.sciencedaily.com/releases/2009/10/091022141126.htm
+30Forest area in the EU increased by 10% from 1990 to 2020 and forest growing stock by over 40% (Eurostat)
+31The growth-to-removals ratio at the US National scale was 1.92; i.e., growth was nearly twice the volume removed from timberland.
+25
+to produce a series of plans and reviews on a 5 yearly cycle to determine their needs and 
+assess their performance, with the overall aim of halving greenhouse gas emissions by 2050, 
+relative to 1990 levels.
+Carbon accounting frameworks established for Kyoto are taken forward with increased 
+options to reflect the diverse situations of different countries. Many countries, the EU and 
+UK included, are developing Forest Reference Levels (FRLs) that will relate the ongoing 
+reporting of emissions and removals by Land Use, Land Use Change and Forestry relative 
+to reference periods reflecting historic forest management. In the case of the EU the FRL 
+period is from 2000–2009. The use of historic reference periods is intended to reduce the 
+ability for countries to inflate the climate mitigation attributed to the forest sector (including 
+bioenergy) relative to counterfactual scenarios based on policy assumptions32.
+4.2 Accounting for forest biomass in the EU Renewable Energy Directive
+The 2009 EU Renewable Energy Directive (RED) mandated member countries to achieve an 
+aggregate 20% renewable energy consumption by 2020 to support the EU’s Kyoto Protocol 
+commitments on greenhouse gases. The target had been agreed in 2007 when renewable 
+energy comprised around 8.5% of gross final energy consumption across Europe. 
+Despite the rapid growth of wind and solar for power generation, biomass, mainly in the 
+form of woodfuel, represents almost 60% over gross energy use within the EU (excluding 
+transport) because of its widespread use for heating. Over 95% of the EU’s woodfuel is 
+domestically produced33.
+While the 2009 RED introduced somewhat stringent sustainability requirements for liquid 
+biofuels used for transport, the environmental protections on sources of woody biomass 
+were more limited and have been strengthened in RED II (2018/2001).
+Under RED II, bioenergy must be produced from feedstocks complying with specific 
+sustainability and greenhouse gas (GHG) emissions saving criteria. Only the bioenergy 
+fulfilling these criteria may contribute towards the climate and renewable targets of 
+countries and be eligible for financial support.
+The RED II sustainability sourcing criteria for forest biomass users apply to facilities of >20 
+MW capacity and are as follows:
+1. Art. 29(3), Art. 29(4) and Art. 29(5) -> No-go areas are defined for agricultural feedstocks, in which production for 
+bioenergy is not allowed from land that was classified, in or after 2008, as primary forest, highly biodiverse forests, areas 
+designated for nature protection purposes (including threatened or endangered ecosystems or species), highly biodiverse 
+grasslands (natural or semi-natural) or land with high carbon stocks, including wetlands, forested areas and peatland. 
+2. Art. 29(6) -> the country in which forest biomass was harvested has national or subnational laws applicable in the area 
+of harvest as well as monitoring and enforcement systems in place ensuring: i. the legality of harvesting operations; ii. forest 
+regeneration of harvested areas; iii. that areas designated by international or national law or by the relevant competent 
+authority for nature protection purposes, including in wetlands and peatlands, are protected; iv. that harvesting is carried 
+out considering maintenance of soil quality and biodiversity with the aim of minimising negative impacts; and v. that 
+harvesting maintains or improves the long-term production capacity of the forest. 
+32Camia, A., Giuntoli, J., Jonsson, K., Robert, N., Cazzaniga, N., Jasinevičius, G., Avitabile, V., Grassi, G., Barredo Cano, J.I. and Mubareka, S., 
+The use of woody biomass for energy production in the EU, EUR 30548 EN, Publications Office of the European Union, Luxembourg, 2020.
+33Scarlat, N., Dallemand, J., Taylor, N. and Banja, M., Brief on biomass for energy in the European Union, Sanchez Lopez, J. and Avraamides, 
+M. editor(s), Publications Office of the European Union, Luxembourg, 2019, 
+26
+3. Art. 29(7) -> Provisions for carbon accounting linking the EU REDII with the land use, land-use change and forestry 
+(LULUCF) sector. Specifically, the country in which the forest biomass is produced shall meet the following LULUCF criteria: 
+• 
+i. the country is a Party to the Paris Agreement; 
+• 
+ii. it has submitted a Nationally Determined Contribution (NDC) to the United Nations Framework Convention on 
+Climate Change (UNFCCC), covering emissions and removals from LULUCF which ensures that either changes in 
+carbon stock associated with biomass harvest are accounted towards the country’s NDC (this is the case of EU countries, 
+which shall follow the provisions of LULUCF regulation 2018/841), or there are national or sub-national laws in 
+place, applicable in the area of harvest, to conserve and enhance carbon stocks and sinks, and providing evidence that 
+reported LULUCF emissions do not exceed removals; 
+• 
+iii. in cases where the above criteria are not fulfilled, then management systems must be in place at forest sourcing area 
+level to ensure that carbon stocks and sinks levels in the forest are maintained, or strengthened over the long term. 
+In addition, large biomass users are required to conduct a truncated LCA analysis of their 
+supply chain to demonstrate that it meets a basic level of efficiency. A greenhouse gas saving 
+of at least 70 % is required for electricity, heating and cooling production from biomass fuels 
+used in installations starting operation from 1 January 2021 until 31 December 2025, and 80 
+% for installations starting operation from 1 January 2026.
+The LCA approach proposed is an attributional model and at present excludes changes 
+in carbon stocks from supply catchments. The approach is intended to promote efficient 
+bioenergy pathways. However, the lack of connection with land use policies is a potential gap 
+that could be addressed in future.
+Biomass that does not meet the above requirements is effectively considered non-compliant 
+and treated as a fossil fuel.
+4.3 Accounting for forest biomass in the EU Emissions Trading Scheme
+The EU Emissions Trading Scheme (EUETS) sets a cap on the GHG emissions that can be 
+produced from major point sources of combustion within the EU, such as power plants, 
+cement factories and steel foundries. Emission allowances are issued to regulated entities 
+in a part allocated and part auctioned system. The total number of allowances issued into 
+the scheme is reduced year on year, participants are allowed to trade allowances and this 
+scarcity creates a price of allowances to incentivize emission reductions, through switching 
+to lower carbon energy sources. The UK has left the EUETS following Brexit and is in the 
+process of setting up an equivalent scheme.
+Under the EUETS plants using bioenergy are able to count this as a zero emissions fuel 
+provided it meets sustainability criteria that are aligned with the Renewable Energy 
+Directive34 . However, implementation of sustainability criteria within the EUETS appears to 
+be lagging behind the RED II criteria35.
+4.4 Accounting for forest biomass under the UK Renewables Obligation
+The Renewables Obligation (RO) is one of the main support mechanisms for large-scale 
+renewable electricity generation in the UK. 
+The RO came into effect in 2002 in England and Wales, and Scotland, followed by Northern 
+Ireland in 2005. It places an obligation on UK electricity suppliers to source an increasing 
+proportion of the electricity they supply from renewable sources. The RO closed to all new 
+generating capacity in 2017. 
+ROCs are certificates issued to operators of accredited renewable generating stations for the 
+34European Commission 2017. Biomass issues in the EU ETS. Guidance Document (link)
+35https://ec.europa.eu/energy/topics/renewable-energy/biomass_en?redir=1
+27
+eligible renewable electricity they generate. Operators can trade ROCs with other parties. 
+ROCs are ultimately used by suppliers to demonstrate that they have met their obligation.
+Electricity from sustainable biomass is one of the forms of generation eligible under the 
+scheme. Rather than accounting for carbon emissions and removals the scheme sets a 
+number of criteria that must be fulfilled to demonstrate that the biomass is from both legal 
+and sustainable sources 36. These requirements are closely aligned with the Forests Europe37 
+sustainable forest management criteria to ensure that the biomass used for ROCs do not 
+contribute to deforestation or forest degradation.
+These criteria cover aspects including the avoidance of harm to ecosystems, the 
+maintenance of productivity, the use of pesticides, consideration of biodiversity and social 
+welfare of workers and forest stakeholders.
+Forests under various national and international accreditation schemes such as the Forest 
+Stewardship Council (FSC), and the Programme for the Endorsement of Forest Certification 
+(PEFC) were recognised as meeting the sustainability evidence requirements. The 
+Sustainable Biomass Partnership (SBP) and several other schemes have been benchmarked 
+against the evidence requirements38.
+In addition to providing evidence of sustainable sourcing, generators using non-waste 
+bio-materials at a scale greater than 1MW39 are required to produce monthly and annual 
+reports on the carbon intensity of the fuel using a truncated attribution LCA method to show 
+that the processing meets a base level of efficiency (bioenergy installations are required to 
+meet a GHG threshold of 55.6g CO2eq/MJ of electricity, declining to 50g CO2eq/MJ in 2025). 
+This truncated LCA does not take into account changes in the forest carbon stock within 
+catchment areas but assumes that these are not declining because of the sustainability 
+certification criteria mentioned above.
+The main way in which greenhouse gas emission reductions are meant to be ensured 
+through this scheme is through the increased stringency of sustainability criteria.
+4.5 Corporate GHG Accounting
+An increasing number of businesses (including Drax) are now required to report emissions 
+of carbon from their operations under financial disclosures relating to climate change. In the 
+UK emissions reporting is mandatory for all listed companies and a streamlined version of 
+this requirement will be extended to large private companies later this year40.
+The carbon accounting methods used for corporate GHG accounting have been developed 
+by a consortium of interested parties led by WBSCD and WRI, known as the GHG Protocol41. 
+The approach follows a combination of inventory and attributional methods, with activities 
+grouped into Scopes: Scope 1 are direct emissions from fuel combustion and other fugitive 
+emissions from company sites; Scope 2 covers the fuel combustion emissions associated 
+with electricity and heat consumed by the organisation, and Scope 3 can include many 
+offsite emissions within the supply chain from business travel through to the emissions 
+associated with the inward transportation and outsourced manufacturing.
+36 Woodfuel Advice Note, 2017 (link)
+37https://foresteurope.org/sfm-criteria-indicators/
+38Renewables Obligation Sustainability Criteria. 2018. Ofgem (link)
+39https://www.ofgem.gov.uk/system/files/docs/2018/04/ro_sustainability_criteria.pdf
+40https://www.gov.uk/guidance/measuring-and-reporting-environmental-impacts-guidance-for-businesses
+41https://ghgprotocol.org/corporate-standard
+28
+Bioenergy use within the corporate GHG accounting framework is modelled on national 
+accounting procedures. The CO2 emission is accounted for as zero within the inventory of 
+the businesses but is also reported as an emission to the atmosphere outside of the Scopes 
+for information purposes. Carbon fluxes within the land sector are not yet covered. However, 
+the GHG Protocol is currently revising its standards to take better account of emissions and 
+removals from agriculture, forestry and land use.
+4.6 Certification Schemes and Industry Developments
+Some cross-sector schemes and leading bioenergy industry players have sought to develop 
+processes that go beyond compliance requirements to provide efficient solutions for 
+assurance on sourcing. 
+The Sustainable Biomass Programme (SBP), a sector-wide certification body whose purpose 
+is to facilitate the economically, environmentally and socially responsible use of biomass 
+enabling climate goals to be met. The SBP’s certification system builds extensively on the 
+pre-existing Forest Stewardship Certification (FSC) and Programme for the Endorsement 
+of Forest Certification(PEFC) schemes  to draw together a coherent assurance process for 
+sustainability assessment in the bioenergy sector. 
+There are six SBP Standards, which collectively represent the SBP certification framework, 
+or scheme, against which organisations can be assessed for compliance by independent 
+third-party Certification Bodies (CBs).
+SBP’s Standard on Feedstock Compliance includes specific criteria relating to the 
+maintenance of forest carbon stocks. While there is no specific requirement to monitor 
+carbon stocks there are protections for high carbon stock land, including wetlands, and 
+peat and carbon stocks are protected, with a note - where there is a direct land use change, the 
+carbon emissions associated with this may need to be calculated 42. The SBP appears to take an 
+attributional approach to supply chain GHG accounting as it only makes reference to Direct 
+(as opposed to indirect) land use change. 
+ENPlus, a certification standard specifically for wood pellets, includes a requirement 
+to conduct a GHG calculation on a per tonne of pellets basis. However, the scope of the 
+calculation only covers processing and logistics, with no emissions or removals at the forest 
+level43.
+In addition to cross-industry groups, some industry players are also developing their own 
+internal procedures to assure or protect the carbon benefits of forest biomass. An important 
+development by Drax Plc has been the adoption of sustainable biomass sourcing criteria to 
+maximise carbon benefits (Box 4).
+42Sustainable Biomass Programme Standard 1, Criterion 2.9 (link)
+43ENPlus (link)
+29
+Box 4. Drax’s Approach to Maximising carbon benefits, based on criteria proposed by 
+Matthew’s et al (2018)44
+Using:
+• 
+Responsibly sourced sawmill residues.
+• 
+Forest residues from regions with high rates of decay, or where this material is 
+extracted to the roadside as part of standard harvesting practice.
+• 
+Thinnings that improve the growth, quality or biodiversity value of forests.
+Only using roundwood that:
+• 
+Helps to maintain or improve the growing stock, growth rate and productivity of 
+forests.
+• 
+Helps to improve the health and quality of forests, for example by using storm, pest or 
+fire damaged wood.
+• 
+Is not merchantable for use as saw-timber products.
+Not using:
+• 
+Biomass that drives harvesting decisions that would adversely affect the long-term 
+potential of forests to store and sequester carbon.
+• 
+Biomass that increases harvesting above the sustainable capacity of forests.
+• 
+Biomass that displaces solid wood product markets.
+• 
+Biomass that comes from stumps.
+The above criteria are particularly useful because they provide the basis for operational 
+measures that can be objectively verified that link directly to key assumptions within both 
+attributional and consequential LCA frameworks.
+Drax has also initiated the development and publishing of catchment level reports for its 
+main sourcing regions45. These initial reports provide a useful picture of how biomass 
+sourcing is affecting the overall growing stock of forests within the supply regions.
+Further investment in systematic data capture will be required in many regions to provide 
+the level of evidence needed to provide strong assurance on the effectiveness of these 
+criteria.
+44https://www.drax.com/wp-content/uploads/2019/10/CIB-Summary-report-for-ECF-v10.5-May-20181.pdf
+45https://www.drax.com/sustainability/catchment-area-analyses/#reports-and-summaries
+30
+PART 3. Recommendations
+5. Recommendations for Addressing the Carbon Challenges in Bioenergy
+The use of wood for bioenergy is likely to remain a component of forest economics and forest 
+management into the future - there will always be a proportion of harvested biomass that 
+is not suitable for conversion to material products and energy extraction is a better option 
+than allowing this material to decompose, biomass extraction can also be an important part 
+of forest restructuring to develop more diverse and productive forest estates. The following 
+table sets out preliminary recommendations arising from this study for aspects of carbon 
+management and reporting that could be improved within the bioenergy industry.
+Areas for Consideration
+Possible Actions
+Conserving and Increasing Forest 
+Carbon Pools
+• 
+Sourcing from well managed for-
+est regions (sub-national areas) 
+and estates;
+• 
+Ensure forest carbon stocks are 
+stable or increasing at the supply 
+catchment area level.
+• 
+Support land use policies and forest codes that 
+promote carbon management at the regional and 
+forest estate level;
+• 
+Promote soil carbon conserving measures (avoid 
+stump removal and deep tillage and drainage on 
+organic soils);
+• 
+Promote improvements to the monitoring of 
+forest biomass; 
+• 
+Continue to use and monitor the effects of Mat-
+thews’ et al. Criteria (Box 4);
+• 
+Mapping and public communication of what 
+forest types are suitable for different types of 
+product extraction.
+Conserving and Increasing Long-
+Lived Harvested Products Carbon 
+Pools
+• 
+Build positive interactions with 
+other forest stakeholders (forest 
+product industries, investors and 
+the public);
+• 
+Monitor proportion of HWPs going to bioenergy 
+and consider price thresholds at which diversion 
+from long-lived pools could occur;;
+• 
+Monitor impacts on pulpwood and other produc-
+ers and communicate to reduce negative compe-
+tition;
+• 
+Collaborate on integrated carbon accounting for 
+HWPs to ensure a consistent framework for the 
+industry, avoiding gaps or double-counting;
+• 
+Continue to use and monitor the effects of Mat-
+thews’ et al. criteria.
+Broader Sustainability
+• 
+Support the conservation of nat-
+ural forest through biodiversity 
+protection measures
+• 
+Support sustainable livelihoods 
+linked to forest management and 
+products
+• 
+Develop and communicate clear guidelines for 
+the circumstances, methods and extent to which 
+biomass may be extracted from natural forests 
+of various types (e.g. for fire management or pest 
+control)
+• 
+Develop public understanding of the role of bio-
+energy as part of broader forest management
+• 
+Monitor impacts of bioenergy demand on natural 
+forests and communities
+Legitimate concerns will be raised where bioenergy demand distorts existing markets 
+for harvested products or affects the way forests are managed, especially if this leads to 
+decisions that are not optimal from a long-term carbon management perspective, such as 
+premature felling, stump removal or the diversion of material from long-lived products. 
+To address potential carbon management and related sustainability concerns the bioenergy 
+industry should seek long-term alignment and engagement with other forest and land users, 
+including the public, for whom forest management is about much more than carbon. The 
+31
+way to approach this is by understanding the appropriate role and potential for bioenergy 
+output at a forest, landscape and regional perspective, over the long term. The development 
+of consequential analyses of a range of bioenergy options could support this if it was 
+undertaken in a way that involved the full range of forest stakeholders.
+There remains a gap in policies for optimising the management of forests and use of forest 
+products for climate change mitigation in the area of incentives for promoting carbon 
+storage in long-lived timber products. At present there is an uneven playing field, insofar 
+as renewable energy incentives create a risk of pulling material towards the energy sector. 
+While the gap between sawlog prices and woodfuel prices is usually sufficient to maintain 
+an economic preference towards the longer-lived products, a potential tightening of carbon 
+markets has the potential to undo this and should be closely monitored.
+Biomass certification schemes, such as the Sustainable Biomass Programme (SBP), can play 
+an important role in levelling-up the standards to which biomass industries operate and 
+could contribute to the good management of forests. However, it should be recognised that 
+standardisation and certification systems alone do not address many of the broader interests 
+around forests, which are and should remain multipurpose resources, whether they are 
+even-aged plantations or more diverse natural woodlands.
+For the watchers and critics of bioenergy industries and forestry businesses, the 
+development and application of land use policies, sustainability criteria and monitoring 
+at the forest and landscape level appears to be a more fruitful approach than trying to 
+reset carbon accounting methods and conventions that have been adopted and applied 
+internationally for over 25 years.
+At the global level, it is important to recognise that while deforestation and forest 
+degradation continue to be major problems in the tropics there will always be potential 
+for a linkage to be drawn between the use of forest products in western countries and the 
+pressures on forests in developing countries, even if the majority of land use changes are 
+related to demand for agricultural land. It is therefore prudent for forest industries in Europe 
+and North America to support efforts to improve forest management and conservation 
+throughout the world.
+Regarding the issue of the accounting of woodfuel and other biogenic materials as zero-
+carbon fuels in various renewable energy policies and emissions trading schemes, the best 
+way forward would be to build upon existing UN and IPCCC approved methods for forests 
+and harvested products rather than reinvent differentiated accounting frameworks for forest 
+biomass. 
+Specifically, with improved data from the supply areas for pellets and other fuelwood 
+products, it should be possible to provide inputs to attributional LCA’s on the emissions 
+and removals at the forest catchment level and for these to be allocated, through sector and 
+industry agreed attribution norms to the forest products, including those used for energy.
+By using a combination of consequential LCA for policy analysis, attributional LCAs for 
+supply chain and sector reporting and organisational GHG reporting for entity level 
+reporting it should be possible to achieve alignment and consistency of carbon accounts 
+across the forest and forest products system as a whole.
+32

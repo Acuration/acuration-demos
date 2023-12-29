@@ -1,0 +1,1358 @@
+The Millbrook Power 
+(Gas Fired Power Station) Order 
+6.2 Environmental Statement Appendices – Volume 
+G Appendices 6.1 - 6.3 Air Quality
+Planning Act 2008 
+The Infrastructure Planning 
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+PINS Reference Number: 
+EN010068 
+Document Reference: 
+6.2 
+Regulation Number: 
+5(2)(a) & Infrastructure Planning 
+(Environmental Impact Assessment) 
+Regulations 2009 
+Author: 
+Peter Brett Associates LLP 
+Revision 
+Date  
+Description 
+0 
+October 2017 
+Submission Version 
+Millbrook Power Project – Environmental Statement 
+Contents – Volume G – Air Quality 
+6.1 – Air Quality Sensitivity Test 
+6.2 – Air Quality Cumulative Dispersion Modelling Inputs
+6.3 – Cumulative Impacts 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+Air Quality 
+6.1- Air Quality Sensitivity Test 
+Operation 
+Stack height sensitivity testing was undertaken using the emissions data set out in 
+Table 6.4 (section 6.5.32 of the ES Chapter) and meteorological data from Bedford 
+meteorological station, from 2012 to 2016.  
+Dispersion model runs were undertaken for various stack heights between 27.5 and 
+45m with a model grid resolution of 44m. The optimum stack height was determined 
+such that the maximum predicted annual NO2 concentration was less than 1% of the 
+long-term objective (40µg/m3) and the maximum predicted hourly NO2 concentration 
+was less than 10% of the objective (200µg/m3 as a 99.78th percentile). 
+Table 6.1.1 to 6.1.4 and Insert 6.1.1 show the results of the stack height sensitivity 
+testing. Significant benefits are the stack height increases from 27.5m to 45m, as the 
+effects of building downwash reduce. By 32.5 m, the maximum impact on ground level 
+concentrations of NO2 anywhere on the grid is less than 1% of the annual mean 
+objective and 10% of the hourly mean objective. Beyond 35 m, whilst benefits are still 
+seen with increasing stack height, the rate of reduction in impacts decreases 
+significantly, especially for annual mean nitrogen dioxide concentrations. 
+Table 6.1.1 Stack Height Sensitivity Testing Results – Annual Mean 
+Stack Height 
+(m) 
+Maximum Impacts in Study Area (µg/m3) 
+2012 
+2013 
+2014 
+2015 
+2016 
+27.5 
+2.96 
+2.76 
+3.43 
+2.63 
+2.47 
+30.0 
+1.03 
+1.00 
+1.23 
+0.94 
+0.86 
+32.5 
+0.29 
+0.29 
+0.36 
+0.27 
+0.24 
+35.0 
+0.07 
+0.07 
+0.10 
+0.07 
+0.06 
+37.5 
+0.03 
+0.03 
+0.03 
+0.05 
+0.03 
+40.0 
+0.03 
+0.03 
+0.03 
+0.04 
+0.03 
+42.5 
+0.03 
+0.03 
+0.03 
+0.04 
+0.02 
+45.0 
+0.03 
+0.03 
+0.03 
+0.04 
+0.02 
+Objective 
+40 
+ 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+Table 6.1.2 Stack Height Sensitivity Testing Results – Percentage 
+Environmental Assessment Level  
+Stack Height 
+(m) 
+% EAL 
+2012 
+2013 
+2014 
+2015 
+2016 
+27.5 
+7.39 
+6.89 
+8.58 
+6.57 
+6.19 
+30.0 
+2.58 
+2.49 
+3.08 
+2.35 
+2.16 
+32.5 
+0.72 
+0.72 
+0.90 
+0.67 
+0.60 
+35.0 
+0.18 
+0.19 
+0.24 
+0.17 
+0.15 
+37.5 
+0.08 
+0.09 
+0.08 
+0.12 
+0.07 
+40.0 
+0.07 
+0.08 
+0.08 
+0.11 
+0.07 
+42.5 
+0.07 
+0.07 
+0.07 
+0.10 
+0.06 
+45.0 
+0.06 
+0.07 
+0.07 
+0.10 
+0.06 
+Objective 
+1% 
+ 
+Table 6.1.3 Stack Height Sensitivity Testing Results – Hourly Mean 
+Stack Height 
+(m) 
+Maximum Impacts in Study Area (µg/m3) 
+2012 
+2013 
+2014 
+2015 
+2016 
+27.5 
+91.09 
+100.97 
+95.16 
+96.68 
+93.46 
+30.0 
+41.79 
+48.93 
+43.02 
+45.22 
+43.35 
+32.5 
+14.41 
+15.84 
+14.41 
+14.51 
+14.16 
+35.0 
+4.27 
+4.53 
+4.36 
+4.24 
+3.97 
+37.5 
+3.38 
+3.31 
+3.69 
+3.72 
+3.17 
+40.0 
+3.13 
+3.10 
+3.41 
+3.45 
+2.97 
+42.5 
+2.90 
+2.90 
+3.19 
+3.22 
+2.79 
+45.0 
+2.69 
+2.71 
+3.01 
+3.04 
+2.62 
+Objective 
+200 
+ 
+ 
+ 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+Table 6.1.4 Stack Height Sensitivity Testing Results – Percentage 
+Environmental Assessment Level  
+Stack Height 
+(m) 
+% EAL 
+2012 
+2013 
+2014 
+2015 
+2016 
+27.5 
+45.55 
+50.48 
+47.58 
+48.34 
+46.73 
+30.0 
+20.90 
+24.46 
+21.51 
+22.61 
+21.67 
+32.5 
+7.21 
+7.92 
+7.21 
+7.26 
+7.08 
+35.0 
+2.13 
+2.26 
+2.18 
+2.12 
+1.99 
+37.5 
+1.69 
+1.66 
+1.85 
+1.86 
+1.58 
+40.0 
+1.56 
+1.55 
+1.71 
+1.72 
+1.48 
+42.5 
+1.45 
+1.45 
+1.60 
+1.61 
+1.40 
+45.0 
+1.35 
+1.36 
+1.50 
+1.52 
+1.31 
+Objective 
+10% 
+ 
+Insert 6.1.1 Stack Height Sensitivity Testing 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+The maximum impacts predicted with Bedford station meteorological data, when 
+compared with Cranfield meteorological station, are slightly lower with stacks height 
+from 32.5m to 45m. Therefore, for the recommended minimum stack height of 32.5 m 
+the Cranfield station represents the worst-case scenario.  
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+6.2- Cumulative Dispersion Modelling Inputs 
+Emissions Data 
+The emissions data for the Covanta plant are shown in Table 6.2.1. 
+Table 6.2.1: Emissions Data for the Covanta RRF 
+Parameter 
+Value Per Generator 
+Type 
+EFW 
+Number of stacks (3 flues) 
+1 
+Discharge Location 
+501247, 241049 
+Discharge Height (m) 
+105 
+Equivalent Total Flue Diameter (mm) 
+3,118 
+Discharge temperature (oC) 
+137 
+Total Flow rate (m3/s) 
+144.9 
+Total Flow rate (Nm3/s, dry, reference O2) 
+117.3 
+Exit velocity (m/s) 
+18.9 
+NOx concentration (mg/Nm3) 
+200 
+Total NOx emission rate (g/s) 
+23.5 
+CO Concentration (mg/Nm3) 
+25 
+Total CO emission rate (g/s) 
+2.9 
+ 
+Table 6.2.2: Covanta RRF Buildings Dimensions 
+Covanta 
+ 
+Height 
+Length 
+Width 
+G2 boiler house 
+38 
+34 
+33 
+G2 refuse hall 
+36 
+38 
+10 
+The Covanta buildings were included in the model of the cumulative impacts.   
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+6.3 Cumulative Impacts 
+Table 6.3.1: Short-term Results of Stack Modelling for Human Health Sensitive 
+Receptors, with Covanta 
+ID 
+Nitrogen Dioxide (NO2) 
+Carbon Monoxide (CO) 
+Hourly mean PC 
+(99.79th %ile 
+µg/m3) 
+Percentage of 
+EAL (%) 
+Running 8 hour 
+mean PC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+R1 
+5.6 
+2.8 
+17.2 
+0.2 
+R2 
+5.5 
+2.8 
+20.9 
+0.2 
+R3 
+5.4 
+2.7 
+17.1 
+0.2 
+R4 
+5.5 
+2.7 
+20.7 
+0.2 
+R5 
+2.9 
+1.4 
+6.3 
+0.1 
+R6 
+3.9 
+2.0 
+10.0 
+0.1 
+R7 
+4.4 
+2.2 
+11.6 
+0.1 
+R8 
+4.6 
+2.3 
+10.8 
+0.1 
+R9 
+4.1 
+2.0 
+9.5 
+0.1 
+R10 
+3.6 
+1.8 
+9.5 
+0.1 
+R11 
+3.5 
+1.8 
+8.0 
+0.1 
+R12 
+3.7 
+1.8 
+8.8 
+0.1 
+R13 
+4.4 
+2.2 
+10.6 
+0.1 
+R14 
+5.7 
+2.8 
+16.5 
+0.2 
+R15 
+3.6 
+1.8 
+13.1 
+0.1 
+R16 
+4.8 
+2.4 
+8.9 
+0.1 
+R17 
+4.3 
+2.2 
+7.2 
+0.1 
+R18 
+3.5 
+1.7 
+7.3 
+0.1 
+R19 
+3.1 
+1.6 
+6.4 
+0.1 
+R20 
+3.7 
+1.8 
+9.7 
+0.1 
+Screening Criteria 
+20 
+10 
+1,000 
+10 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+Table 6.3.2: Short-term Results of Stack Modelling for Human Health Sensitive 
+Receptors, with Covanta 
+ID 
+Nitrogen Dioxide (NO2) 
+Carbon Monoxide (CO) 
+PEC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+Running 8 hour 
+mean PEC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+R1 
+32.5 
+16.3 
+617.2 
+6.2 
+R2 
+33.1 
+16.5 
+620.9 
+6.2 
+R3 
+32.9 
+16.5 
+617.1 
+6.2 
+R4 
+33.1 
+16.5 
+620.7 
+6.2 
+R5 
+25.4 
+12.7 
+606.3 
+6.1 
+R6 
+27.6 
+13.8 
+610.0 
+6.1 
+R7 
+28.0 
+14.0 
+611.6 
+6.1 
+R8 
+30.5 
+15.2 
+610.8 
+6.1 
+R9 
+27.6 
+13.8 
+609.5 
+6.1 
+R10 
+29.8 
+14.9 
+609.5 
+6.1 
+R11 
+29.1 
+14.6 
+608.0 
+6.1 
+R12 
+29.3 
+14.6 
+608.8 
+6.1 
+R13 
+29.7 
+14.8 
+610.6 
+6.1 
+R14 
+29.0 
+14.5 
+616.5 
+6.2 
+R15 
+27.0 
+13.5 
+613.1 
+6.1 
+R16 
+32.8 
+16.4 
+608.9 
+6.1 
+R17 
+32.3 
+16.2 
+607.2 
+6.1 
+R18 
+29.3 
+14.6 
+607.3 
+6.1 
+R19 
+27.8 
+13.9 
+606.4 
+6.1 
+R20 
+27.2 
+13.6 
+609.7 
+6.1 
+Environmental 
+Assessment Level 
+200 
+100 
+10,000 
+100 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+Table 6.3.3: Long-term Results of Stack Modelling for Human Health Sensitive 
+Receptors, with Covanta 
+ID 
+Nitrogen Dioxide (NO2) 
+Annual mean PC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+Annual mean 
+PEC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+R1 
+0.19 
+0.5 
+13.7 
+34.2 
+R2 
+0.19 
+0.5 
+14.0 
+34.9 
+R3 
+0.20 
+0.5 
+14.0 
+35.0 
+R4 
+0.20 
+0.5 
+14.0 
+35.0 
+R5 
+0.06 
+0.2 
+11.3 
+28.3 
+R6 
+0.08 
+0.2 
+11.9 
+29.8 
+R7 
+0.09 
+0.2 
+11.9 
+29.7 
+R8 
+0.09 
+0.2 
+13.0 
+32.5 
+R9 
+0.08 
+0.2 
+11.9 
+29.6 
+R10 
+0.05 
+0.1 
+13.2 
+32.9 
+R11 
+0.04 
+0.1 
+12.8 
+32.1 
+R12 
+0.04 
+0.1 
+12.8 
+32.1 
+R13 
+0.04 
+0.1 
+12.6 
+31.6 
+R14 
+0.05 
+0.1 
+11.7 
+29.4 
+R15 
+0.03 
+0.1 
+11.7 
+29.3 
+R16 
+0.04 
+0.1 
+14.0 
+35.1 
+R17 
+0.03 
+0.1 
+14.0 
+35.1 
+R18 
+0.03 
+0.1 
+12.9 
+32.3 
+R19 
+0.03 
+0.1 
+12.4 
+30.9 
+R20 
+0.07 
+0.2 
+11.8 
+29.6 
+Criteria 
+0.4 
+1 
+40 
+100 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+ 
+Table 6.3.4: Long-term NOx Results of Stack Modelling for Ecological Receptors, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(µg/m3) 
+Critical Level 
+(µg/m3) 
+PC 
+(µg/m3) 
+PC/CL 
+(%) 
+PEC 
+(µg/m3) 
+PEC/CL 
+(%) 
+E1 
+Lowland mixed deciduous 
+woodland 
+15.2 
+30 
+0.05 
+0.17% 
+15.28 
+50.9% 
+Neutral grassland 
+15.2 
+30 
+0.05 
+0.17% 
+15.28 
+50.9% 
+E2 
+Lowland Heathlands 
+20.1 
+30 
+0.03 
+0.09% 
+20.10 
+67.0% 
+E3 
+Broadleaved, mixed and yew 
+woodland 
+16.3 
+30 
+0.11 
+0.37% 
+16.41 
+54.7% 
+E4 
+Calcareous grassland 
+16.3 
+30 
+0.03 
+0.11% 
+16.33 
+54.4% 
+E5 
+Neutral grassland 
+16.4 
+30 
+0.01 
+0.05% 
+16.46 
+54.9% 
+E6 
+Broadleaved, mixed and yew 
+woodland 
+20.1 
+30 
+0.03 
+0.11% 
+20.11 
+67.0% 
+E7 
+Neutral grassland 
+16.1 
+30 
+0.09 
+0.28% 
+16.22 
+54.1% 
+E8 
+Calcareous grassland 
+17.1 
+30 
+0.03 
+0.10% 
+17.16 
+57.2% 
+E9 
+Broadleaved, mixed and yew 
+woodland 
+17.1 
+30 
+0.03 
+0.11% 
+17.16 
+57.2% 
+E10 
+Broadleaved, mixed and yew 
+woodland 
+16.2 
+30 
+0.04 
+0.14% 
+16.23 
+54.1% 
+E11 
+Broadleaved, mixed and yew 
+woodland 
+19.0 
+30 
+0.13 
+0.44% 
+19.14 
+63.8% 
+E12 
+Broadleaved, mixed and yew 
+woodland 
+17.1 
+30 
+0.03 
+0.10% 
+17.15 
+57.2% 
+E13 
+Acid grassland 
+18.5 
+30 
+0.03 
+0.10% 
+18.50 
+61.7% 
+E14 
+Neutral grassland 
+21.2 
+30 
+0.03 
+0.09% 
+21.26 
+70.9% 
+E15 
+Neutral grassland 
+20.0 
+30 
+0.03 
+0.10% 
+20.08 
+66.9% 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+ 
+Table 6.3.5: Daily NOx Results of Stack Modelling for Ecological Receptors, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(µg/m3) 
+Critical Level 
+(µg/m3) 
+PC 
+(µg/m3) 
+PC/CL 
+(%) 
+PEC 
+(µg/m3) 
+PEC/CL 
+(%) 
+E1 
+Lowland mixed deciduous 
+woodland 
+15.23 
+75 
+4.9 
+6.6% 
+20.2 
+26.9% 
+Neutral grassland 
+15.23 
+75 
+4.9 
+6.6% 
+20.2 
+26.9% 
+E2 
+Lowland Heathlands 
+20.08 
+75 
+3.7 
+4.9% 
+23.8 
+31.7% 
+E3 
+Broadleaved, mixed and yew 
+woodland 
+16.30 
+75 
+7.5 
+10.0% 
+23.8 
+31.7% 
+E4 
+Calcareous grassland 
+16.30 
+75 
+5.0 
+6.7% 
+21.3 
+28.4% 
+E5 
+Neutral grassland 
+16.44 
+75 
+3.7 
+5.0% 
+20.2 
+26.9% 
+E6 
+Broadleaved, mixed and yew 
+woodland 
+20.08 
+75 
+6.0 
+8.0% 
+26.1 
+34.8% 
+E7 
+Neutral grassland 
+16.14 
+75 
+9.0 
+12.0% 
+25.1 
+33.5% 
+E8 
+Calcareous grassland 
+17.12 
+75 
+4.9 
+6.5% 
+22.0 
+29.4% 
+E9 
+Broadleaved, mixed and yew 
+woodland 
+17.12 
+75 
+4.6 
+6.1% 
+21.7 
+29.0% 
+E10 
+Broadleaved, mixed and yew 
+woodland 
+16.18 
+75 
+6.6 
+8.7% 
+22.7 
+30.3% 
+E11 
+Broadleaved, mixed and yew 
+woodland 
+19.01 
+75 
+8.0 
+10.6% 
+27.0 
+36.0% 
+E12 
+Broadleaved, mixed and yew 
+woodland 
+17.12 
+75 
+4.5 
+6.0% 
+21.6 
+28.8% 
+E13 
+Acid grassland 
+18.47 
+75 
+3.6 
+4.8% 
+22.1 
+29.4% 
+E14 
+Neutral grassland 
+21.23 
+75 
+4.0 
+5.4% 
+25.3 
+33.7% 
+E15 
+Neutral grassland 
+20.05 
+75 
+5.1 
+6.7% 
+25.1 
+33.5% 
+ 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+ 
+Table 6.3.6: Results of stack modelling for ecological sensitive receptors: nutrient nitrogen deposition, with Covanta 
+ID 
+Habitat Type 
+Background 
+Deposition 
+(kgN/ha/yr) 
+Critical Load 
+(kgN/ha/yr) 
+PC 
+(kgN/ha/yr) 
+PC/CL 
+(%) 
+PEC 
+(kgN/ha/yr ) 
+PEC/CL 
+(%) 
+Lower 
+Lower 
+Lower 
+E1 
+Broadleaved, mixed and yew 
+woodland 
+29.40 
+15 
+0.010 
+0.07% 
+29.41 
+196.1% 
+Neutral grassland 
+17.20 
+20 
+0.005 
+0.03% 
+17.23 
+86.1% 
+E2 
+Lowland Heathlands 
+17.10 
+10 
+0.003 
+0.03% 
+17.08 
+170.8% 
+E3 
+Broadleaved, mixed and yew 
+woodland 
+29.40 
+10 
+0.022 
+0.15% 
+29.42 
+196.1% 
+E4 
+Calcareous grassland 
+17.22 
+15 
+0.003 
+0.02% 
+17.22 
+114.8% 
+E5 
+Neutral grassland 
+17.22 
+20 
+0.001 
+0.01% 
+17.22 
+86.1% 
+E6 
+Broadleaved, mixed and yew 
+woodland 
+29.12 
+10 
+0.006 
+0.06% 
+29.13 
+291.3% 
+E7 
+Neutral grassland 
+17.22 
+20 
+0.009 
+0.04% 
+17.23 
+86.1% 
+E8 
+Calcareous grassland 
+17.08 
+15 
+0.003 
+0.02% 
+17.08 
+113.9% 
+E9 
+Broadleaved, mixed and yew 
+woodland 
+29.12 
+10 
+0.006 
+0.06% 
+29.13 
+291.3% 
+E10 
+Broadleaved, mixed and yew 
+woodland 
+29.12 
+10 
+0.009 
+0.09% 
+29.13 
+291.3% 
+E11 
+Broadleaved, mixed and yew 
+woodland 
+29.40 
+10 
+0.026 
+0.26% 
+29.43 
+294.3% 
+E12 
+Broadleaved, mixed and yew 
+woodland 
+29.12 
+10 
+0.006 
+0.06% 
+29.13 
+291.3% 
+E13 
+Acid grassland 
+17.08 
+10 
+0.003 
+0.03% 
+17.08 
+170.8% 
+E14 
+Neutral grassland 
+17.08 
+20 
+0.003 
+0.01% 
+17.08 
+85.4% 
+E15 
+Neutral grassland 
+17.50 
+20 
+0.003 
+0.01% 
+17.50 
+87.5% 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+ 
+Table 6.3.7: Results of stack modelling for ecological sensitive receptors: acid deposition, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(keqN/ha/yr) 
+Critical Load 
+(keqN/ha/yr) 
+PC 
+(keqN/ha/yr) 
+PC/CL 
+(%) 
+PEC 
+(keqN/ha/yr) 
+PEC/CL 
+(%) 
+E1 
+Broadleaved, mixed and yew 
+woodland 
+2.10 
+10.83 
+0.0007 
+0.007% 
+2.10 
+19.4% 
+Neutral grassland 
+1.23 
+4.93 
+0.0004 
+0.007% 
+1.23 
+25.0% 
+E2 
+Lowland Heathlands 
+1.22 
+1.35 
+0.0002 
+0.015% 
+1.22 
+90.3% 
+E3 
+Broadleaved, mixed and yew 
+woodland 
+2.10 
+10.83 
+0.0016 
+0.015% 
+2.10 
+19.4% 
+E4 
+Calcareous grassland 
+1.23 
+4.93 
+0.0002 
+0.005% 
+1.23 
+25.0% 
+E5 
+Neutral grassland 
+1.23 
+4.93 
+0.0001 
+0.002% 
+1.23 
+25.0% 
+E6 
+Broadleaved, mixed and yew 
+woodland 
+2.08 
+1.10 
+0.0005 
+0.042% 
+2.08 
+190.0% 
+E7 
+Neutral grassland 
+1.23 
+4.93 
+0.0006 
+0.012% 
+1.23 
+25.0% 
+E8 
+Calcareous grassland 
+1.22 
+4.86 
+0.0002 
+0.005% 
+1.22 
+25.1% 
+E9 
+Broadleaved, mixed and yew 
+woodland 
+2.08 
+1.10 
+0.0005 
+0.042% 
+2.08 
+189.6% 
+E10 
+Broadleaved, mixed and yew 
+woodland 
+2.08 
+1.10 
+0.0006 
+0.057% 
+2.08 
+189.5% 
+E11 
+Broadleaved, mixed and yew 
+woodland 
+2.10 
+10.81 
+0.0019 
+0.017% 
+2.10 
+19.4% 
+E12 
+Broadleaved, mixed and yew 
+woodland 
+2.08 
+1.10 
+0.0004 
+0.039% 
+2.08 
+189.6% 
+E13 
+Acid grassland 
+1.22 
+0.68 
+0.0002 
+0.031% 
+1.22 
+178.7% 
+E14 
+Neutral grassland 
+1.22 
+4.93 
+0.0002 
+0.004% 
+1.22 
+24.8% 
+E15 
+Neutral grassland 
+1.25 
+5.07 
+0.0002 
+0.004% 
+1.25 
+24.7% 
+ 
+Millbrook Power Project – Environmental Statement 
+ 
+ 
+ 

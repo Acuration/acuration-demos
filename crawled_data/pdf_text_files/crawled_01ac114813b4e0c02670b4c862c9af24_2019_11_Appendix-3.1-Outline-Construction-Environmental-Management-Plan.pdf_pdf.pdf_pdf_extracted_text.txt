@@ -1,0 +1,4688 @@
+Appendix 3.1
+Outline Construction Environmental
+Management Plan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Outline Construction 
+Environment Management 
+Plan 
+Abergelli Power Station 
+Abergelli Power Limited 
+ 
+ 
+ 
+  
+  
+ 
+ 
+January 2018 
+ 
+   
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+1 
+ 
+ 
+Document Control 
+Document Properties 
+Organisation 
+AECOM 
+Author 
+Sarah Young 
+Approved by (1st checker) 
+Natalie Williams 
+Approved by (2nd checker) 
+Catherine Anderson 
+Title 
+Construction Environment Management Plan   
+Document Reference 
+Abergelli_D_ES_CEMP_E 
+Version History 
+Date 
+Version 
+Status 
+Description/Changes 
+25/10/2017 
+1 
+Draft 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Outstanding Issues and Information 
+Ref. 
+Outstanding 
+issue/info. 
+Section/Paragraph
+Responsibility
+Action 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+2 
+ 
+ 
+CONTENTS 
+Abbreviations ............................................................................................................. 1 
+1. 
+Introduction ........................................................................................................ 1 
+1.1 Overview ................................................................................................... 1 
+1.2 Purpose of this Document ......................................................................... 1 
+1.3 Content and Structure ............................................................................... 2 
+1.4 Construction Phase ................................................................................... 2 
+1.5 References ................................................................................................ 3 
+2. 
+Environmental Management Framework ........................................................... 4 
+2.1 Roles and Responsibilities ........................................................................ 4 
+2.2 Communications and Training ................................................................... 7 
+2.3 Register of Mitigation ................................................................................. 9 
+2.4 Method Statements and Site Environmental Standards ............................ 9 
+2.5 Monitoring and Auditing ........................................................................... 10 
+3. 
+General Environmental Management Measures During Construction Phase .. 12 
+3.1 Safety ...................................................................................................... 12 
+3.2 Construction Site Housekeeping ............................................................. 12 
+3.3 Storage of Fuels and Chemicals ............................................................. 13 
+3.4 Welfare Facilities ..................................................................................... 13 
+3.5 Public Right of Ways ............................................................................... 14 
+3.6 Timing of Works ....................................................................................... 14 
+3.7 Working Hours ......................................................................................... 15 
+3.8 Lighting .................................................................................................... 15 
+3.9 References .............................................................................................. 16 
+4. 
+Environmental Management Plans .................................................................. 17 
+4.2 Noise and Vibration Management Plan ................................................... 17 
+4.3 Air Quality Monitoring and Management Plan ......................................... 19 
+4.4 Water Management Plan ......................................................................... 21 
+4.5 Pollution Prevention Management Plan .................................................. 23 
+4.6 Emergency Response Plan ..................................................................... 24 
+4.7 Waste and Material Management Plan .................................................... 26 
+4.8 Habitat Management Plan ....................................................................... 28 
+4.9 Invasive Species Management Plan ....................................................... 29 
+4.10 Landscape Management Plan ................................................................. 30 
+4.11 Peat Management Plan ........................................................................... 31 
+4.12 Land Reinstatement and Restoration Management Plan ........................ 31 
+4.13 References .............................................................................................. 32 
+Appendix A ................................................................................................................. 1 
+ 
+ 
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+1 
+ 
+ 
+Abbreviations  
+ 
+ 
+APL 
+Abergelli Power Limited, the Applicant  
+BPM 
+Best Practicable Means  
+CCS 
+City and County of Swansea Council 
+CEMP  
+Construction Environment Management Plan 
+DCO 
+Development Consent Order  
+ECoW 
+Ecological Clerk of Works 
+EHO 
+Environmental Health Officer  
+EIA 
+Environmental Impact Assessment  
+EMS 
+Environmental Management System  
+HGV 
+Heavy Goods Vehicles 
+HMP 
+Habitat Management Plan 
+M 
+Metre  
+MW 
+Megawatt 
+NETS 
+National Grid Electricity Transmission System 
+NRW 
+Natural Resource Wales 
+OCGT 
+Open Cycle Gas Turbine 
+The Project 
+Abergelli Power Project 
+PEIR 
+Preliminary Environmental Information Report 
+PPE 
+Personal Protection Equipment  
+PROW 
+Public Right of Way 
+RAMS 
+Risk Assessment / Method Statement  
+SINC 
+Site of Importance for Nature Conservation 
+SUDs 
+Sustainable Urban Drainage 
+SWTRA 
+South Wales Trunk Road Agency  
+ 
+ 
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+1 
+ 
+ 
+1. 
+Introduction 
+1.1 
+Overview 
+1.1.1 
+This Outline Construction Environment Management Plan (CEMP) has been 
+prepared as part of the PEIR for the Project’. This Outline CEMP has been 
+prepared by AECOM on behalf of the applicant, Abergelli Power Limited (APL).  
+1.1.2 
+The Project comprises of an Open Gas Cycle Turbine (OGCT) peaking power 
+generating station and associated infrastructure. The Project is described in detail 
+in Chapter 3: Project and Site Description and its location provided in Figure 1.1 
+and Figure 1.2 of the PEIR. 
+1.2 
+Purpose of this Document 
+1.2.1 
+The aim of this Outline CEMP is to provide a framework from which a final CEMP 
+will be produced at DCO submission for the Project.  The CEMP will provide 
+assurance to the decision maker and stakeholders that appropriate measures for 
+preventing and reducing environmental effects will be adopted during the 
+construction of the Project and secured via this document. This purpose of a CEMP 
+is to set out the approach towards, and framework for, environmental management 
+during the construction phase (including site preparation) and to provide mitigation 
+against potentially adverse construction impacts on environmental resources, local 
+residents and businesses. Both standard environmental good practice and project 
+specific mitigation, as committed to within the PEIR are included within this Outline 
+CEMP.   
+1.2.2 
+This Outline CEMP covers all elements of the Project as described in Chapter 3: 
+Project and Site Description of the PEIR, although some measures will only be 
+relevant to particular project elements or specific works, and this will be made clear 
+in the text of the document.  The principles of this Outline CEMP outline the 
+standards, environmental management and good practice which will also be 
+consistently applied to the construction of the Gas and Electrical Connections.  
+1.2.3 
+This Outline CEMP will be developed following consultation to produce the CEMP 
+which will be submitted with the DCO Application for the Project.  Post-consent, the 
+CEMP will require updating in accordance with a DCO Requirement and will be 
+approved by CCS prior to any construction commencing onsite. The CEMP 
+submitted to City and will be substantially in accordance with this outline CEMP. 
+Any details as may be required by DCO Requirements will be included during 
+detailed design. The approved CEMP will be used as an environmental 
+management and monitoring tool for the duration of the construction phase. The 
+CEMP will be kept onsite as a live document, being updated as and when required 
+(for example to recognise changes in regulations, good practice guidance, actions 
+from onsite audits or a change in situation onsite).  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+2 
+ 
+ 
+1.2.4 
+The approved CEMP will fall within the scope of the main contractor’s externally 
+certified environmental management systems, and as such will be subject to 
+independent audits by the relevant certification bodies. 
+1.2.5 
+Measures set out in this document and the approved CEMP will have regard to the 
+Welsh Government document ‘Construction and Demolition Sector Plan’ (Ref 1.1) 
+which seeks to move towards zero waste by detailing outcomes, policies and 
+delivery actions for organisations, companies and individuals involved with the 
+construction and demolition sector in Wales. 
+1.3 
+Content and Structure 
+1.3.1 
+This Outline CEMP includes the following topics: 
+ 
+Community liaison; 
+ 
+Nuisance management including measures to avoid or minimise the impacts of 
+construction activities (covering dust, noise, vibration and lighting); 
+ 
+Site waste and materials management measures; 
+ 
+Surface and ground water protection measures; 
+ 
+Pollution control measures; 
+ 
+Peat management measures as required; 
+ 
+Landscape and visual impact mitigation (such as retention of existing trees and 
+minimising visual intrusion of construction activities); 
+ 
+Security measures;  
+ 
+A protocol in the event that unexpected contaminated land is identified during 
+ground investigation or construction; 
+ 
+A protocol for the restoration of land which is temporarily used for construction 
+following the date of final commissioning; 
+ 
+Environmental training requirements; and 
+ 
+Ecological mitigation measures including avoidance of sensitive features.  
+1.3.2 
+In considering these environmental matters, information is provided on: 
+ 
+A register of environmental aspects (Section 2.1); 
+ 
+Roles and responsibilities (Section 2.1); 
+ 
+Communication and co-ordination (Section 2.2); 
+ 
+Training and awareness (Section 2.2); 
+ 
+Checking, monitoring, auditing and corrective action (Sections 2.5 and 3); and 
+ 
+Good practice environmental control measures; and  
+ 
+Where embedded mitigation and additional mitigation has been incorporated 
+and secured; (Section 3).  
+1.4 
+Construction Phase 
+1.4.1 
+The construction phase of the Project is anticipated to take approximately 22 
+months with an anticipated starting date in 2020. A detailed description of the site 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+3 
+ 
+ 
+preparation and construction phase is available in Chapter 3: Project and Site 
+Description of the PEIR.   
+1.4.2 
+Site preparation will entail: 
+ 
+Creating temporary bridges over the Water Main and National Transmission Oil 
+pipeline for the access road; 
+ 
+Diverting watercourses and ditches around the Generating Equipment Site: 
+ 
+Creating attenuation ponds; 
+ 
+Creation of the new access road including excavation of material; 
+ 
+Site 
+clearance 
+including 
+vegetation 
+clearance 
+and 
+topsoil 
+stripping/ 
+excavations; 
+ 
+Establishing Laydown Area, site compounds and installing welfare facilities;  
+ 
+Ecological mitigation works which may be required pre-construction; and  
+ 
+Conducting geotechnical investigations and any other pre-construction surveys.  
+1.4.3 
+The main activities associated with the construction phase will be:  
+ 
+Excavation and site levelling for new foundations and piling if required. The 
+need for piling will be determined through pre-construction ground 
+investigations;  
+ 
+Access Road excavation and paving; 
+ 
+Heavy Goods Vehicles (HGVs) Deliveries of materials and equipment;  
+ 
+Erection and fitting out of buildings; 
+ 
+Installation of the generating plant on completed foundations including auxiliary 
+equipment such as electrical switchgear and fuel handling equipment;  
+ 
+Excavation and laying of the Electrical Connection, which will include crossing 
+the National Transmission System Oil Pipeline and reinstating the excavated 
+material once the Electrical Connection has been laid; and 
+ 
+Excavation and laying of the Gas Connection; 
+ 
+The construction of cable ducts alongside the Access Road.  
+1.5 
+References 
+Ref 1.1 Welsh Government. (2012). Construction and Demolition Sector Plan. Towards 
+Zero Waste One Wales: One Planet. [Online].  
+Available: http://gov.wales/docs/desh/publications/130301construction-demolition-
+waste-plan-en.pdf 
+[Accessed: 25/10/17]. 
+ 
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+4 
+ 
+ 
+2. 
+Environmental Management Framework  
+2.1 
+Roles and Responsibilities 
+2.1.1 
+The following sections outline the responsibilities for those parties involved in the 
+construction phase of the Project. These roles and responsibilities are indicative 
+and may interchange between APL and the main contractor, and are not 
+exhaustive.  
+a) APL 
+2.1.2 
+In terms of environmental management, APL is responsible for the overall delivery 
+of the Project in compliance with relevant environmental legislation, the mitigation 
+set out in this Outline CEMP and any Requirements to be implemented as part of 
+the DCO.  
+2.1.3 
+APL will ensure that there is a dedicated Environmental Manager who will either be 
+employed by APL or a nominated member of the main contractor’s staff. The 
+proposed role and responsibilities of the Environmental Manager are described 
+below, starting in paragraph 2.1.8.  
+2.1.4 
+APL’s role will include (but is not limited to):  
+ 
+Ensuring the CEMP is finalised, implemented and monitored by the main 
+contractor;  
+ 
+Ensuring all the following factors are considered and appropriately actioned;  
+o 
+The most appropriate order and method of working;  
+o 
+Allocation of responsibilities between personnel, and other organisations 
+on the Project Site; and  
+o 
+The approved CEMP is prepared and issued in a controlled way. 
+ 
+Communications and Training (Section 2.2):  
+o 
+Ensuring that environmental meetings are held regularly and that 
+environmental issues are covered as appropriate;  
+o 
+Regular liaison between all parties on the Project Site to ensure adequate 
+precautions are taken to minimise the impact on the environment; 
+ 
+Monitoring and Auditing (Section 2.5): 
+o 
+Ensuring that the main contractor complies with the good practice, 
+mitigation measures, set out in the CEMP and DCO Requirements 
+through review of an Audit Close-Out Schedule;  
+o 
+Ensuring that all environmental incidents are reported and investigated 
+where appropriate; and  
+o 
+Ensuring environmental inspections of the Project Site are performed and 
+all issues raised are addressed promptly.  
+b) Main Contractor 
+2.1.5 
+The main contractor will be appointed by APL to undertake the construction of the 
+Project. The main contractor is required to comply with the mitigation and 
+provisions within the Outline CEMP along with any Requirements imposed in the 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+5 
+ 
+ 
+DCO and/or licences and secondary consents associated with the Project. This 
+also applies to any sub-contractors engaged on the Project.   
+2.1.6 
+If not already implemented by APL, the main contractor will have a nominated 
+environmental contact to perform the role of Environmental Manager, a description 
+and list of responsibilities for the role are set out in the section below starting in 
+paragraph 2.1.8. 
+2.1.7 
+The responsibilities of the main contractor will also include (but are not limited to): 
+ 
+Ensuring employees and sub-contractors implement the controls outlined in the 
+finalised and approved CEMP; 
+ 
+Communications and Training (Section 2.2):  
+o 
+Liaising with statutory authorities and APL as required and ensuring 
+records of communication (including verbal communication) are kept; 
+o 
+Ensuring employees and sub-contractors receive Site Inductions (that 
+include environmental issues) and toolbox talks, as appropriate; 
+o 
+Ensuring environmental management and emergency response training is 
+provided and recorded. 
+ 
+Monitoring and Auditing (Section 2.5): 
+o 
+Ensuring personnel needed for audits are available when required; 
+o 
+Verifying actions resulting from Corrective Action Requests, Non-
+Conformance notices and Observations raised during audits are 
+completed by the deadlines; 
+o 
+Verifying actions resulting from Corrective Action Requests, Non-
+Conformance notices and Observations raised during audits are 
+completed by the deadlines and recorded appropriately. 
+c) Environmental Manager 
+2.1.8 
+APL or the main contractor will appoint an Environmental Manager for the duration 
+of the construction of the Project and during any restoration works.  The purpose of 
+this appointment is to ensure that the environmental interests of the Project Site are 
+safeguarded.  The Environmental Manager will have the authority to review method 
+statements, oversee works and recommend action as appropriate. This includes 
+having the authority to temporarily stop works if required, for example, where poor 
+practices are being applied or mitigation is not being appropriately implemented or 
+adhered to. 
+2.1.9 
+The Environmental Manager will work with the main contractor to ensure the 
+implementation of, and compliance with, the provisions of the approved CEMP and 
+licences, consents or other conditions imposed on the Project.   
+2.1.10 A detailed description of the Environmental Manager’s responsibilities will be 
+included in the finalised version of the CEMP however, in summary the 
+Environmental Manager will be responsible for: 
+ 
+Ensuring any pre-construction environmental surveys are scheduled into the 
+construction programme and conducted prior to works commencing;  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+6 
+ 
+ 
+ 
+Inspections of works to ensure that environmental mitigation measures and 
+other commitments have been and/or are being implemented; 
+ 
+Implementation of additional mitigation other than those committed to where 
+unforeseen circumstances arise that could result in a breach of environmental 
+legislation; 
+ 
+Monitoring and Auditing (Section 2.5): 
+o 
+Conducting weekly site inspections and record keeping of environmental 
+sensitivities and requirements;  
+o 
+Conducting or coordinating monthly routine audits of the main contractor’s 
+compliance with the approved CEMP including construction activities and 
+record keeping; 
+o 
+Coordinating and organising any regular monitoring requirement or 
+commitment;   
+o 
+Regular reporting to CCS summarising the works undertaken on the 
+Project; and  
+o 
+Monitoring or inspection of onsite activities in response to incidents, 
+breaches of the approved CEMP or complaints received from a third 
+party. 
+ 
+d) ECoW 
+2.1.11 The Environmental Manager may be assisted by an Environmental Clerk of Works 
+(ECoW). The ECoW would perform specific specialist tasks that require expert 
+knowledge, such as observations and watching briefs. The ECoW role may be 
+performed by a suitably qualified individual or a team of individuals with differing 
+expertise.  
+2.1.12 The responsibilities of the ECoW will be finalised in the approved CEMP, but may 
+include:  
+ 
+Any pre-construction surveys requiring specialised skills;  
+ 
+Watching briefs or observations of specific construction activities i.e. vegetation 
+clearance;  
+ 
+Any auditing or monitoring requiring specialised skills; and 
+ 
+Input into topic specific toolbox talks and training.  
+ 
+e) All Site Personnel 
+2.1.13 All site personnel have a responsibility to the environment, which includes, but is 
+not limited to: 
+ 
+In the case of an incident, stopping work, implementing control procedures and 
+reporting it to the appropriate personnel as identified by the main contractor in 
+the finalised CEMP; 
+ 
+Reporting when waste needs collecting; 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+7 
+ 
+ 
+ 
+Passing any queries or correspondence on environmental issues to the 
+appropriate personnel as identified by the main contractor in the finalised 
+CEMP; and 
+ 
+Working in accordance with the finalised and approved CEMP and associated 
+management plans. Protocol to support adherence is set out in the 
+Communication and Training section (starting paragraph 2.2.3) of this Outline 
+CEMP.  
+2.2 
+Communications and Training  
+a) Community Liaison 
+2.2.2 
+The following steps will be taken by APL/the main contactor to make the public 
+aware of the activities onsite and the available lines of communication with the 
+Project: 
+ 
+Neighbouring residents and occupiers will be notified of the start of construction 
+activities and the likely duration of the construction phase; 
+ 
+A telephone number for environmental complaints will be published local to the 
+Project Site. There will be a dedicated person responsible for dealing with any 
+complaints, which could be the Environmental Manager.  This person will have 
+the appropriate authority to resolve complaints. An ‘out of hours’ telephone 
+number will be made available if required. A Welsh speaker can be available at 
+request; 
+ 
+Liaison will be maintained with CCS’s Environmental Health Officer (EHO) for 
+the duration of the construction phase;  
+ 
+Should any complaints regarding dust or noise be received the details will be 
+passed to the EHO for verification purposes; and 
+ 
+Should any unforeseen event occur on the Project Site that has the potential to 
+cause pollution then the relevant regulatory bodies will be notified immediately. 
+As far as possible, notice will be issued to the EHO for dealing with an 
+unforeseen activity that may give rise to a particular nuisance problem. 
+ 
+b) Environmental Site Meetings  
+2.2.3 
+To ensure dissemination of environmental information, environmental meetings will 
+be held throughout the duration of the Project construction. The frequency of 
+meetings will be determined by the main contractor, but will not be less than once 
+per month. These meetings will be held for all site personnel and will be attended 
+by the ECoW or similar environmental expert (if required).  
+2.2.4 
+Any environmental issues or lessons learnt will be reported at these meetings along 
+with any updates or changes to environmental management plans. A “Look  Ahead” 
+at relevant environmental management or special requirements linked to specific 
+upcoming tasks or seasonality will also be provided.  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+8 
+ 
+ 
+c) Site Signage and Notice Boards 
+2.2.5 
+Working areas will be clearly marked with appropriate signage and warnings to 
+ensure that they are avoided by members of the public. 
+2.2.6 
+Site notice boards for disseminating information to Site personnel will be positioned 
+either within individual work stations or in a centralised location. Site notice boards 
+will display method statements, emergency contacts, and relevant statutory and 
+non-statutory advice and guidance. 
+d) Site Inductions  
+2.2.7 
+The main contractor will ensure all employees, sub-contractors, suppliers, and 
+other visitors to the Project Site receive induction training.  The Site Induction will 
+include a summary of environmental risks associated with the Project and the 
+onsite environmental methods and standards. Any environmental methods and 
+standards specifically relevant to the inductee’s role or task will be highlighted.   
+2.2.8 
+Topics that will be covered in the Site Induction include, but are not limited to; 
+ 
+Pertinent areas of environmental sensitivity, such as ecological, archaeological, 
+hydrological or geological sensitive areas; 
+ 
+Pollution prevention and protection of the water environment (including 
+concrete washout); 
+ 
+Waste management; and  
+ 
+Environmental incident and near miss reporting.   
+ 
+e) Training in Environmental Requirements  
+2.2.9 
+The main contractor will ensure all personnel are suitably trained in general site 
+good practice and environmental emergency response procedures, including the 
+use of spill kits, silt mitigation and concrete washing out.  Good practice and 
+emergency response training will be provided by a suitably qualified person on a 
+regular basis.  The main contractor will keep a record of this training.  
+2.2.10 Toolbox talks will be provided as part of briefings on specific tasks, based on 
+method statements and environmental standards.  The will provide on-going 
+reinforcement and awareness of environmental sensitivities and issues on the 
+Project Site.  Toolbox talks will be task specific and will identify the sensitive 
+receptors and provide advice on any specific procedures that need to be followed 
+and the mitigation measures that should be implemented. For specialist topics, 
+toolbox talks may be presented by an ECoW (or equivalent suitably trained 
+specialist).  
+2.2.11 A programme of relevant toolbox talks will be drawn up by the Environmental 
+Manager or main contractor based on upcoming construction activities. Additional 
+toolbox talks may be required outside of this based on circumstances such as 
+unforeseen risks, repeated observation of bad practices, perceived lack of 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+9 
+ 
+ 
+awareness, or a pollution event. A record of all toolbox talks reporting highlights of 
+the meeting and attendees will be maintained.  
+2.3 
+Register of Mitigation  
+2.3.1 
+A register of embedded and additional mitigation measures committed to within the 
+PEIR has been attached in Appendix A: Mitigation Register to this Outline CEMP. 
+The Register will need to be updated for the DCO Application in response to any 
+consultee comments and updated EIA technical assessments. The finalised 
+Register will be used to inform the onsite environmental management and provide 
+a tool for aiding the preparation of method statements or environmental standards. 
+The register covers several environmental topic areas and will be regularly updated 
+to reflect any additional risks resulting from the main contractor/s selected methods 
+of working, changing site conditions etc. Mitigation measures have been identified 
+under the following general headings: 
+ 
+Air Quality;  
+ 
+Noise and Vibration; 
+ 
+Ecology; 
+ 
+Water Quality and Resources; 
+ 
+Geology, Ground Conditions and Hydrogeology; 
+ 
+Landscape and Visual; 
+ 
+Traffic, Transport and Access; 
+ 
+Historic Environment; and  
+ 
+Socio-economics.  
+2.4 
+Method Statements and Site Environmental Standards 
+2.4.1 
+The main contractor will prepare Method Statements for specific construction 
+activities and Site Environmental Standards for day-to-day Project Site operations 
+such as housekeeping, material storage and waste management. These will be 
+based on standard good practice measures (as set out within relevant management 
+plans in Section 3 of this Outline CEMP), statutory requirements, environmental 
+sensitivities and any Requirements of the DCO.  
+2.4.2 
+Site Environmental Standards will be printed on A3 posters, placed on site notice 
+boards and used as a briefing tool onsite. They will also form the basis of toolbox 
+talks on the relevant Project Site operations.  
+2.4.3 
+The method statement will be communicated to all or task specific personnel ahead 
+of the commencement of the relevant activities using an agreed instruction format 
+(e.g. toolbox talks). 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+10 
+ 
+ 
+2.5 
+Monitoring and Auditing  
+a) Inspections 
+2.5.2 
+The Project Site will be inspected at regular intervals to ensure implementation of 
+good practice and compliance with measures set out within the approved CEMP. 
+The inspection and auditing schedule for the Project will be agreed by the main 
+contractor in consultation with the Environmental Manager and ECoW if required 
+prior to commencement of construction. It is anticipated that there will be a 
+programme of:  
+ 
+Daily inspections;  
+ 
+Weekly inspections;  
+ 
+Monthly Audits;  
+ 
+Monthly Complaint Reporting; and 
+ 
+Ongoing Environmental Monitoring.  
+2.5.3 
+Particular notice will be taken during and following extreme weather events (high 
+rainfall, high winds snowfall etc.), when working in areas of known contamination, 
+and when particularly hazardous activities are being carried out. Additional Method 
+Statements or Site Environmental Standards will be produced where significant risk 
+to the environment is identified.  
+2.5.4 
+An Audit Close-out Schedule will be maintained by the main contractor. Any 
+observations, corrective action requests or non-compliance notices identified 
+through inspections will be logged in an Audit Close-out Schedule. Progress 
+against corrective and preventative actions logged in the Schedule will be reported 
+to APL on a regular basis.  
+i. 
+Daily Inspections  
+2.5.5 
+The nominated site personnel or the Environmental Manager will conduct daily 
+checks against environmental requirements. This could be done against a pro 
+forma or similar, based on the measures outlined within method statements and 
+Environmental Standards relevant to activities being conducted on that day.  
+2.5.6 
+Daily inspections will include visual inspections of dust emissions as described in 
+Section 4.3.  
+i. 
+Weekly Inspections 
+2.5.7 
+Weekly Project Site inspections will be carried out by the Environmental Manager, 
+which will assess the effectiveness of the implemented mitigation on the Project 
+Site. 
+i. 
+Monthly Audits 
+2.5.8 
+Compliance with the approved CEMP, environmental legislation and good practice 
+will be audited on a monthly basis by the Environmental Manager or ECoW. The 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+11 
+ 
+ 
+audit will include details on who is responsible for implementing any action required 
+and the associated timescales.  
+i. 
+Monthly Complaints Reporting 
+2.5.9 
+The main contractor will report to APL regarding any nuisance complaints from the 
+general public and actions on how these have been addressed. The process for 
+receiving and actioning complaints is set out in the Community Liaison (starting 
+paragraph 2.2.2).  
+i. 
+Environmental Monitoring  
+2.5.10 Any requirements for specific monitoring programmes as determined through the 
+DCO or pre-construction surveys (i.e. ground investigations) will be conducted at 
+appropriate intervals by a suitably qualified individual.   
+b) Incidents and Near Misses  
+2.5.11 An indicative environmental Emergency Response Plan is detailed in Section 4.6 of 
+this CEMP.  This will be finalised by the main contractor. The plan in the approved 
+CEMP will follow the stop – contain – notify protocol and will detail responsible 
+personnel and contacts for reporting. All personnel will be briefed on the notification 
+protocol for alerting the main contractor and Environmental Manager of an 
+environmental emergency as part of their Site Induction. Environmental emergency 
+response training and toolbox talks will also be conducted at regular intervals by a 
+suitably qualified person.  
+2.5.12 The main contractor will maintain a register of all environmental incidents, 
+dangerous occurrences and/or near misses, each supported by an Environmental 
+Incident Report Form. This will document the nature, date and time of the incident, 
+corrective action(s) taken, and details of any contact with regulatory agencies. All 
+incidents will be reported to the appropriate regulatory body and APL on the day 
+that they occur or within 24 hours.  
+2.5.13 All environmental incidents, dangerous occurrences and near misses will be 
+reviewed by the Environmental Manager and where necessary changes to working 
+practices/procedures will be implemented. Lessons learnt, along with any updates 
+to method statements, sections of the approved CEMP and toolbox talk will be 
+communicated to all personnel at Environmental Site Meetings.  
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+3. 
+General Environmental Management Measures During 
+Construction Phase  
+3.1 
+Safety 
+3.1.1 
+The main contractor will have the day to day responsibility for maintaining Health 
+and Safety throughout the construction phase. A risk assessment and method 
+statement (RAMS) will be produced and detail how risk will be minimised through 
+an approved procedure, which will:  
+ 
+Identify the significant Health and Safety impacts that can be anticipated;  
+ 
+Assess the risks from these impacts;  
+ 
+Identify the control measures to be taken and re-calculate the risk; and 
+ 
+Report where an inappropriate level of residual risk is identified so that action 
+can be taken.  
+3.1.2 
+There will be no access to construction areas by the general public. The Project 
+Site will be secured to avoid unauthorised access including where permissive 
+routes cross the construction areas. 
+3.1.3 
+Traffic safety should be promoted by all project personnel to prevention and control 
+traffic related injuries. Speed restrictions will be imposed onsite. This will also 
+minimise disturbance of bare surfaces.  
+3.1.4 
+The following good practice measures will be implemented by the main contractor 
+to ensure the safety of site personnel:  
+ 
+The provision of appropriate Personal Protective Equipment (PPE), including 
+footwear, masks, protective clothing and goggles where required; 
+ 
+Eating, drinking and smoking will be limited to a designated ‘clean’ area of the 
+Project Site; 
+ 
+Welfare facilities will be made available; 
+ 
+All site workers will be required to wash their hands and remove overalls/boots 
+when moving from ‘dirty’ to ‘clean’ areas of the Project Site; 
+ 
+Any soils excavated that are considered by the main contractor to be potentially 
+contaminated will be reported, left in situ and fenced off until their appropriate 
+treatment (in line with Section 4.6: Emergency Response Plan); and 
+ 
+Water inflows to excavated areas will be minimised by the use of lining 
+materials, good housekeeping techniques and by the control of drainage and 
+construction materials in order to prevent the contamination of ground water. 
+3.1.5 
+The main contractor will ensure that qualified first-aid can be provided at all times. 
+Appropriately equipped first-aid stations will be easily accessible throughout the 
+Project Site. 
+3.2 
+Construction Site Housekeeping 
+3.2.1 
+Good construction site housekeeping practice will be applied at all times. As far as 
+reasonably practicable the construction working areas for the Project Site will be 
+designed using the following principles: 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+All work areas will be secured; 
+ 
+Any fuels or liquid materials will be stored and bunded in compliance with the 
+relevant regulation;  
+ 
+Signage and boundary fences will be regularly inspected, repaired and 
+replaced as necessary; 
+ 
+All working areas will be kept in a clean and tidy condition; 
+ 
+Wheel washing and dust suppression facilities will be provided when and where 
+required; 
+ 
+Waste will be removed at frequent intervals; and 
+ 
+Construction waste susceptible to spreading by wind or liable to cause litter will 
+be stored in secure containers. 
+3.3 
+Storage of Fuels and Chemicals 
+3.3.1 
+The main contractor will ensure that fuels and chemicals are stored appropriately 
+and the measures are in place to prevent pollution of ground and water. Fuel will be 
+stored: 
+ 
+In areas where potential for contamination of water bodies is low i.e. outside 50 
+m of a spring, well or borehole and 10 m of an open watercourse; 
+ 
+In areas that are low risk of flooding; 
+ 
+In tanks that meet the manufacturing standards appropriate for the type of oil 
+stored and comply with BS EN ISO 9001; 
+ 
+With contents clearly marked on the storage containers;   
+ 
+With secure and appropriately sized bunds being suitable to contain 110% of 
+the contents (single tank).  If there is more than one storage container, the 
+bund will be capable of containing 110% of the largest tank, or 25% of the total 
+aggregate capacity, whichever is the greatest;  
+ 
+Tanks/ storage containers will be protected against vehicle collision; and  
+ 
+All deliveries will be overseen by site personnel with emergency response 
+training. 
+3.3.2 
+A Control of Substances Hazardous to Health (COSHH) store will be set up in the 
+site compound. COSHH assessments and Material Safety Data Sheets will be held 
+with the COSHH materials. A COSHH register will be created and maintained 
+onsite. 
+3.3.3 
+All site personnel and sub-contractors will be made aware of the COSHH 
+requirements through site inductions and specific toolbox talks. Daily site 
+inspections will be used to review and monitor the storage and issue of COSHH 
+materials. 
+3.4 
+Welfare Facilities 
+3.4.1 
+Welfare cabins, toilets and drying facilities, in line with The Construction (Design 
+and Management) Regulations 2015 (Ref 3.1) will be provided within the Project 
+Site for the use of site personnel. Grey and foul water from welfare facilities will not 
+be discharged directly into ditches or watercourse, but will be collected through a 
+foul water drainage system that will either drain to a septic tank or a package 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+treatment plant within the Project Site. It is likely that the latter would be the 
+preferred option for ease of maintenance and environmental criteria. The 
+processed water would then discharge onsite or to a nearby watercourse. 
+3.4.2 
+Where portable generators are used, industry good practice will be followed to 
+minimise noise and pollution from such generators. 
+3.4.3 
+The risk of infestation by pests or vermin will be minimised by the appropriate 
+collection, storage and regular collection of waste, the prompt treatment of any pest 
+infestation and effective preventative pest control measures. 
+3.5 
+Public Right of Ways 
+3.5.1 
+There are three Public Right of Ways (PRoW) that cross the Project Site. Specific 
+mitigation measures for the management of these PRoWs is contained within the 
+Construction Traffic Management Plan, which will be finalised post-consent, in 
+consultation with the PROW officer at CCS.  
+3.5.2 
+It is not proposed to permanently divert any PRoWs although measures will be 
+implemented during the construction phase to maintain safety to users from 
+construction traffic and also from any excavations which may be present. Any 
+temporary closures, required for public safety, will be advertised in advance and 
+diversions or directions to alternate routes will be provided where practicable.  
+3.5.3 
+Appropriate signage will be placed prior to the construction area to ensure users 
+are aware of the works prior to arriving. Should works be undertaken in the 
+immediate location of the crossing, banksman will be employed to avoid any 
+potential adverse effects from construction traffic. In addition, suitable fencing will 
+be implemented to ensure users of the permissive routes are segregated from 
+construction traffic appropriately and safely if required.  
+3.6 
+Timing of Works 
+3.6.1 
+Construction will be programmed in such a way as to ensure that construction 
+activities are undertaken in a timely manner while minimising environmental risk as 
+far as possible, e.g. seasonal sensitivities or inclement weather will be considered. 
+Construction activities may be undertaken simultaneously at more than one area of 
+the Project Site.  The work programme will be agreed with CCS prior to 
+construction commencing onsite. In the event that the programme changes 
+significantly, the changes will be communicated to CCS.  
+3.6.2 
+Construction activities will be scheduled so that works that have the potential to 
+impact upon ecological receptors are conducted outside key periods of seasonal 
+activity, for instance, vegetation clearance would be conducted outside of the 
+breeding bird season.  
+3.6.3 
+Construction activities will also be scheduled, where possible to reduce the risk of 
+pollution. Measures include: 
+ 
+Minimising the periods for which soils are exposed and stockpiled thereby 
+reducing the risk of generating silt laden runoff;  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Avoiding, where possible, undertaking specific activities such as earthworks 
+during prolonged and heavy rainfall thereby reducing the risk of sediment or 
+pollutants becoming entrained in excess runoff; and 
+ 
+Avoiding, where possible, undertaking activities in closer proximity to 
+watercourses when water levels are higher and adjacent land is at risk of 
+flooding.   
+3.7 
+Working Hours 
+3.7.1 
+Construction activities will not take place outside the hours of 08:00- 18:00 Monday 
+to Friday and 08.00-13.00 on Saturday and public holidays, unless otherwise 
+agreed with CCS. These limits will not apply during commissioning and testing of 
+the Project. 
+3.8 
+Lighting 
+3.8.1 
+The Project Site will require artificial lighting during construction to provide a safe 
+working environment during hours of darkness. Artificial lighting can be a nuisance 
+to any nearby residence and can disrupt nocturnal species.  
+3.8.2 
+An outline lighting strategy will be prepared for the DCO application with the 
+specific details of the proposed lighting selection and configuration for the Project 
+Site.  
+3.8.3 
+All artificial lighting used at the Project Site will be in accordance with the Institute 
+of Lighting Professionals (ILP) Guidelines (Ref 3.2) and the Bat Conservation 
+Trust’s (BCT) interim guidance on artificial lighting and wildlife (Ref 3.3). 
+3.8.4 
+In order to minimise light disturbance to ecological receptors: 
+ 
+There will be no light intrusion beyond the boundary of the proposed Project 
+Site, particularly within the Lletty Morfil SINC to the north and east of the 
+Generating Equipment Site, which is a habitat that supports bats; and  
+ 
+There will be no night-time working within the Lletty Morfil SINC for the 
+construction of the Electrical Connection and Access Road.  
+3.8.5 
+The general design objectives that will be used to ensure that adverse effects of 
+lighting (through adding light to a darker rural landscape) associated with 
+construction of the Project are minimised are listed below: 
+ 
+Luminaires will be appropriately designed for the required task; 
+ 
+Louvres and shields will be used to prevent undesirable light break-out; 
+ 
+Construction lighting will be directed away from all sensitive receptors; 
+ 
+For the illumination of large areas, in order to limit light trespass, glare and 
+sky glow from the plant, preference will be given to several, lower lighting 
+units rather than tall, wide beam lighting units; 
+ 
+Vehicle lights will be properly directed (conforming to MOT requirements) and 
+lenses will be intact to prevent un-necessary glare and light intrusion; 
+ 
+Lighting will be reduced or switched off when not required for safety purposes; 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Security lighting will be kept at the minimum level needed for visual and 
+security protection;  
+ 
+Dark corridors will be maintained along hedgerows and watercourses and any 
+other linear features by avoiding light encroaching on these areas. This will 
+avoid the fragmentation of habitat used by species such as bats and also 
+otters that use these features to move at night-time; and  
+ 
+If appropriate, the use of infra-red floodlighting and CCTV systems will be 
+considered for security to reduce the need for visible lighting outside working 
+hours. 
+3.9 
+References 
+ The Construction (Design and Management) Regulations 2015. S.I. 2015/51. 
+Ref 3.1
+Ref 3.2 ILP. (2011). Guidance Notes for the Reduction of Obtrusive Light. [Online]. 
+Available: https://www.theilp.org.uk/resources/free-resources/ilp-guidance-notes/    
+[Accessed: 30/11/17] 
+Ref 3.3 BCT. (2014). Artificial Lighting and Wildlife. Interim Guidance: Recommendations to 
+Help Minimise the Impact Artificial Lighting. [Online]. 
+Available: http://www.bats.org.uk/pages/bats_and_lighting.html  
+[Accessed 07/12/17].  
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+4. 
+Environmental Management Plans 
+4.1.1 
+The following sections outline the likely contents of the topic specific Management 
+Plans which will be developed either for the DCO Application in outline form or to 
+be submitted to discharge a DCO Requirement post-consent. The contents are not 
+exhaustive and will be finalised for the DCO Application.   
+4.2 
+Noise and Vibration Management Plan 
+4.2.1 
+This section considers nuisance noise including vibration from construction 
+activities and good practice measures to comply with any maximum boundary noise 
+limits imposed on the Project and to minimise potential effects on any nearby 
+sensitive noise receptors.  
+4.2.2 
+All 
+construction 
+activities 
+will 
+be 
+undertaken 
+in 
+accordance 
+with 
+the 
+recommendations of BS 5228 ‘Code of Practice for Noise and Vibration Control on 
+Construction and Open Sites’ (Ref 4.1). This code details the legislative 
+background to noise control, along with the recommended procedures for effective 
+liaison between developers, site operators and local authorities. Methods of how to 
+minimise the impact of site noise on site workers and local residents are also 
+provided.  
+4.2.3 
+Other relevant legislation and guidance:  
+ 
+Environmental Protection Act 1990 (as it applies to Wales) (Ref 4.2); 
+ 
+BS 7385:1993 ‘Evaluation and Measurement for Vibration in Buildings’ (Ref 
+4.3). 
+a) Contents of Plan 
+4.2.4 
+A detailed noise assessment will be carried out once the main contractor is 
+appointed in order to identify specific mitigation measures for the Project. Noise 
+levels will not exceed any boundary noise limits set out in the DCO Application.  
+4.2.5 
+To minimise the risk of noise complaints, the main contractor will advise potentially 
+affected residents and occupiers of any construction activities to be undertaken 
+outside of working hours. Those potentially affected will also be provided with the 
+environmental complaints telephone number and the point of contact for any 
+queries. Further details of how complaints will be dealt with are set out in the 
+section on Community Liaison (Section 2.2).  
+4.2.6 
+The main contractor and all sub-contractors working on site have a general duty to 
+take all reasonably practicable measures to minimise nuisance from noise and 
+vibration that has the potential to impact on the local community or environment.  
+4.2.7 
+To achieve this and avoid the potential for construction activities to give rise to 
+consequences that would otherwise be statutory nuisances (but for the provision of 
+the DCO), Best Practicable Means (BPM) as defined in Section 79(9)(a) of the 
+Environmental Protection Act 1990 (Ref 4.2) must be employed and the following 
+requirements will be complied with: 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Careful consideration will be given to the appropriate selection of plant, 
+construction methods and programming; 
+o 
+Inherently quiet plant items will be selected wherever practicable;  
+o 
+Equipment that breaks concrete by munching or similar, rather than by 
+percussion, will be used as far as is practicable; 
+o 
+Where possible, lower noise piling (such as rotary bored or hydraulic 
+jacking) will be used rather the driven piling techniques (if required);  
+o 
+Where practicable, rotary drills actuated by hydraulic or electrical power 
+will be used for excavating hard materials;  
+o 
+Off-site pre-fabrication will be utilised where practicable; and 
+o 
+Noisy construction activities will be programmed to be conducted at less 
+disruptive times. 
+ 
+Noise emission standards will be complied with; 
+o 
+Modern plant that complies with the latest European Commission (EC) 
+and UK noise emission requirements will be used onsite;   
+ 
+Equipment and plant will be fitted with sound reducing measures where 
+possible; 
+o 
+All major compressors will be ‘sound-reduced’ models fitted with properly 
+lined and sealed acoustic covers which will be kept closed whenever the 
+machines are in use; and  
+o 
+All ancillary pneumatic percussive tools will be fitted with mufflers or 
+silencers of the type recommended by the manufacturers; 
+ 
+Construction plant will be operated and maintained appropriately to minimise 
+noise; 
+o 
+The manufacturer’s written recommendations will be regarded or other 
+appropriate operation and maintenance programmes which reduce noise 
+and vibration emissions will be used; 
+o 
+Machines in intermittent use will be shut down during periods of inactivity 
+or throttled down to a minimum; 
+o 
+Loading and unloading of vehicles, dismantling of equipment such as 
+scaffolding or moving equipment or materials around the Project Site, will 
+be conducted in such a manner as to minimise noise generation; and 
+o 
+Construction traffic will be appropriately routed on public roads and along 
+access tracks to minimise noise disturbance;  
+ 
+Noise and vibration emission will be considered when designing Project Site 
+layout: 
+o 
+The Project Site will be arranged so that construction activities and 
+vehicle routes minimise the need for reversing movements;  
+o 
+All ancillary plant such as generators, compressors and pumps will be 
+positioned so as to cause minimum noise disturbance (e.g. as far away as 
+practicable from residential receptors); 
+o 
+If necessary, temporary acoustic barriers or enclosures will be provided;  
+ 
+All site personnel will be made familiar with current legislation and the 
+Guidance within BS 5228 (Ref 4.1); and 
+ 
+No employees, sub-contractors and persons employed on the Project Site are 
+to cause unnecessary noise from their activities (e.g., excessive ‘revving’ of 
+vehicle engines, music from radios, shouting and general anti-social 
+behaviour).  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+4.3 
+Air Quality Monitoring and Management Plan 
+4.3.1 
+This plan contains a proposed air quality monitoring plan and standard good 
+practice measures for reducing dust and emissions from vehicles. 
+4.3.2 
+Guidance relevant to the implementation of air quality measures include;  
+ 
+BS 6031: 2009: Code of Practice for Earth Works (Ref 4.7); 
+ 
+HSE Vehicle at Work Guidance (Ref 4.9); and  
+ 
+Institute of Air Quality Management (IAQM) Guidance on Air Quality Monitoring 
+in the Vicinity of Demolition and Construction Sites (Ref 4.4).  
+ 
+a) Contents of Plan  
+4.3.3 
+In line with IAQM guidance (Ref 4.4) on monitoring air quality at construction sites; 
+daily visual inspections of dust emissions will be made in conjunction with dust 
+emissions monitoring at locations to be agreed with NRW. This data will be used to 
+ensure that mitigation measures are appropriate and being applied rigorously and 
+to provide early warning of increased dust emissions to inform the cessation or 
+modification of activities prior to impacts occurring. 
+4.3.4 
+Monitoring will be undertaken in the vicinity of the Lletty Morfil SINC. Since the risk 
+for ecosystems relates to dust deposition, a real time monitor for total suspended 
+particulate matter will be installed. Trigger levels for the instrument, which would 
+suggest increasing risk/emissions, will be agreed with NRW prior to the 
+commencement of construction. The monitoring stations will be mobile and will be 
+moved around the Project Site as the principal activities move. 
+4.3.5 
+The following are general good practice measures that will be implemented onsite 
+to control dust and vehicle emissions. If inspections and monitoring find that plumes 
+of dust are visible, behind moving vehicles for example, or dust was visibly 
+deposited on roads outside of the Project Site, more vigorous control measures 
+may be required. 
+i. 
+Site Management 
+ 
+All personnel will be made aware of nuisance dust and will be trained in dust 
+management; and 
+ 
+Project Site plant will be maintained so as to reduce emissions. 
+ii. Earthworks 
+ 
+Disturbance of the ground will be kept to a minimum wherever possible; 
+ 
+ 
+Necessary vegetation/ topsoil removal will be carried out in discrete sections 
+with progressive restoration of exposed areas to minimise wind erosion; 
+ 
+Earthworks and excavation areas will be kept damp, and will be avoided during 
+periods of exceptionally dry weather; and 
+ 
+Earthworks will be undertaken following BS 6031:2009 (Ref 4.7). 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+iii. Material Handling 
+ 
+The number of handling operations will be kept to a minimum to ensure that 
+dusty material isn’t moved or handled unnecessarily; 
+ 
+Soil handling will be restricted during adverse weather conditions such as high 
+winds or exceptionally dry spells; 
+ 
+ 
+Drop heights will be kept to a minimum and will be enclosed where possible; 
+ 
+Transportation of aggregates and fine materials will be conducted in enclosed 
+or sheeted vehicles; 
+ 
+Dampening methods will be used where necessary; and 
+ 
+Methods and equipment will be in place for immediate clean-up of spillages of 
+dusty or potentially dusty materials. 
+iv. Stockpiles 
+ 
+Stockpiles will be located away from sensitive receptors where dust nuisance is 
+likely to result; 
+ 
+During exceptionally dry and windy periods stockpiles will be kept damp; 
+ 
+Soils will, where appropriate be landscaped into suitable shapes for secondary 
+functions e.g. visual screening; and 
+ 
+Appropriate shrouding/ wind shielding measures dependent on particulate size 
+will be put in place to prevent dust generation from stockpiled materials.  Long-
+term stockpiles may be capped or grassed over. 
+v. Traffic Measures 
+ 
+Unsurfaced roads will be graded regularly to remove loose gravel and kept in a 
+clean and compacted condition; 
+ 
+A mechanical road sweeper will be made available if required for the cleaning 
+of public roads (in agreement with CCS and South Wales Trunk Road Agent 
+(SWTRA)); 
+ 
+ 
+Wheel/ vehicle wash facilities will be provided at Project Site entrance/exit; and 
+ 
+Any vehicles carrying loose materials will be enclosed or appropriately sheeted. 
+vi. Emissions Management   
+ 
+Plant and equipment will be operated as far as possible away from residential 
+areas or sensitive receptors near to the Project Site; 
+ 
+An onsite speed limit will be implemented by the main contractor that will be 
+appropriate to the types of construction plant utilised and the Project Site 
+hazards in line with Vehicles at Work guidance from the Health and Safety 
+Executive (HSE) (Ref 4.9);  
+ 
+Onsite vehicle movement will be kept to a minimum and restricted to 
+adequately compacted internal roads; 
+ 
+ 
+All plant utilised on Project Site should be regularly inspected.  Monitoring of 
+plant will include: 
+o 
+Ensuring no black smoke is emitted other than during ignition;   
+o 
+Ensuring exhaust emissions are maintained to comply with the 
+appropriate limits; 
+ 
+Vehicle exhausts will be directed away from the ground and other surfaces and 
+preferably upwards to avoid road dust being re-suspended to the air; and  
+ 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Exhausts will be positioned at a sufficient height to ensure adequate dispersal 
+of emissions. 
+4.4 
+Water Management Plan 
+4.4.1 
+This Water Management Plan sets out good practice for safeguarding water 
+resources and quality on the Project Site.  
+4.4.2 
+Guidance relevant to this plan includes:  
+ 
+The BS ‘Code of Practice for Earthworks’ BS 6031:2009 (Ref 4.7) and  
+ 
+The BS 'Code of Practice for Foundations' BS 8004:2015 (Ref 4.8) 
+ 
+National Grid (NG) Technical Specification (TS) 2.20 ‘Oil Containment at 
+Electricity Substations and Other Operational Sites’ (Ref 4.5) 
+ 
+C753: The SUDS [Sustainable Urban Drainage] Manual (Ref 4.6); 
+ 
+SP156: Control of Water Pollution from Construction Sites – Guide to Good 
+Practice (CIRIA, 2002); and  
+ 
+C532: Control of Water Pollution from Construction Sites – Guidance for 
+Consultants and Contractors (CIRIA, 2001). 
+a) Contents of the Plan 
+4.4.3 
+Details on the design of the proposed drainage system for the Project Site during 
+the construction phase are available in Chapter 3: Project and Site Description 
+of the PEIR and the Flood Consequence Assessment in Appendix 9.1 of the PEIR. 
+Surface water, foul water and water potentially contaminated with oil (oily water) will 
+have separated drainage systems on the Project Site. Foul water and oily water will 
+not be directly discharged into drains or watercourse, but collected and treated.  
+4.4.4 
+The general measures below will be considered in the implementation of the 
+Project Site drainage system.   
+i. 
+Drainage Management 
+4.4.5 
+The following measures will be implemented to safeguard water quality from 
+pollutant sources not related to silt or sediment:  
+ 
+All Project Site drainage measures will be developed in consultation with NRW 
+prior to the commencement of construction;   
+ 
+Sequencing of work will be such that proposed drainage measures, including 
+flow controls and attenuation storage will be in place prior to erection of 
+buildings and hardstanding;  
+ 
+The construction oily water drainage will be designed in accordance with NGTS 
+2.20 ‘Oil Containment at Electricity Substations and Other Operational Sites’ or 
+similar approved guidelines; 
+ 
+The construction surface water drainage system will adopt the principles of the 
+SuDs Manual (Ref 4.6) to adequately drain the site and prevent ponding; and 
+ 
+Any artificial drainage additional to the proposed swales and ponds will only be 
+installed where necessary. The individual lengths, depths and gradients of 
+these drains will be minimised to avoid intercepting large volumes of diffuse 
+overland flow and generating high velocity flows during storm events.   
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+4.4.6 
+A Construction Environmental Management Plan (CEMP) will incorporate 
+measures to prevent an increase in flooding during construction works. It is 
+expected that the CEMP will include provisions such as: 
+ 
+New temporary and/or permanent drainage ditches to prevent uncontrolled 
+surface runoff of contaminated water;  
+ 
+Silt traps within drainage ditches to reduce the flow of suspended solids from 
+the Project Site;  
+ 
+Settlement lagoons and/or proprietary settlement tanks as required to reduce 
+the flow of suspended solids from site ;  
+ 
+Suitable layout of the construction site and application of suitable management 
+techniques to prevent runoff from stockpiles directly ion to the watercourse; 
+and  
+ 
+Monitoring of overland flow routes along the eastern extent of the Generating 
+Equipment Site to ensure minimal impedance of flow routes.    
+ 
+ii. Proximity to Water 
+4.4.7 
+The following good practice measures will be implemented to minimise the potential 
+of direct pollution to water: 
+ 
+A 10 m buffer will be applied to all Project Site watercourses. Where possible, 
+this buffer will not be entered by plant and machinery;   
+ 
+Stockpiles of excavated soils/peat will be located away from surface 
+watercourses and away from known surface drainage pathways as much as 
+possible; 
+ 
+Laydown areas and plant and machinery will be stored at least 10 m from 
+watercourses and where possible, in low flood risk areas; and  
+ 
+Oil storage will comply with the measures set out in the Pollution Prevention 
+Plan (Section 4.5Error! Reference source not found.) including, where 
+possible being located at least 50 m from an open watercourse.   
+ 
+iii. Silt and Sediment 
+4.4.8 
+The following measures will be implemented in order to reduce the potential 
+generation of silt laden runoff:  
+ 
+The Project Site will be laid out to prevent runoff from stockpiles entering 
+watercourses;  
+ 
+Bare ground exposure will be minimised by only removing vegetation from 
+areas that require to be exposed in the near future and completing 
+reinstatement as soon as practicably possible; 
+ 
+Pumped water from excavations and de-watering activities will be drained to a 
+suitably sized settlement pond to remove silt before discharge;   
+ 
+Project Site roads will be regularly maintained and kept free from sediment 
+deposits in order to reduce the volume of silt becoming entrained in surface 
+runoff and entering any watercourse or drain;   
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Mitigation will be implemented as required (silt fencing, placement of straw 
+bales into ditches, sediment traps) to intercept and collect silt, reduce runoff 
+velocity and encourage deposition of suspended sediment; and   
+ 
+Care will be taken during felling operations to reduce the risk of sedimentation 
+and erosion into the watercourses. 
+ 
+4.5 
+Pollution Prevention Management Plan 
+4.5.1 
+This plan covers measures to minimise the risk of pollution to ground and water 
+from the storage and use of potentially polluting materials onsite. The sections 
+below detail the storage of fuels and oil, management of non-oil chemicals, 
+potential pollution from construction vehicles, plant and machinery and the use of 
+cement and concrete.  
+4.5.2 
+An Emergency Spill Response Plan is set out within Section 4.6.  
+4.5.3 
+All fuel storage will comply with the Water Resources (Control of Pollution) (Oil 
+Storage) (Wales) Regulations 2016 (Ref 4.10).   
+a) Contents of Plan 
+i. 
+Movement, Parking and Re-fuelling of Vehicles and Plant 
+4.5.4 
+Vehicles and plant will comply with the following:  
+ 
+In order to prevent compaction and erosion of undeveloped ground, movement 
+of construction plant and vehicles will be limited to clearly defined access tracks 
+and construction areas only.   
+ 
+All construction plant and vehicles will be parked/stored at least 50 m away 
+from surface waterbodies and springs.   
+ 
+All construction plant and vehicles will be checked daily for oil and fuel leaks 
+and record of such checks kept by the Environmental Manager (or ECoW).    
+ 
+Mobile plant will be in good working order, kept clean and fitted with drip trays 
+where appropriate. 
+ 
+Refuelling of construction plant and vehicles will be undertaken on an 
+impermeable surface at a temporary construction compound only.   
+ 
+All refuelling activities will be supervised by site personnel with emergency 
+response training.  
+ii. Cement and Concrete 
+4.5.5 
+Concrete and cement are alkaline and corrosive, and can have a highly polluting 
+impact in water and on land and are harmful to human flesh. 
+4.5.6 
+Due to the size of the Project Site it is likely that concrete batching will occur on 
+site. The equipment used for concrete batching should be operated in accordance 
+with Process Guidance Note 3/01(12) (Ref 4.11). 
+4.5.7 
+Mixing and washing of concrete will not take place within 10 m of any watercourse 
+or swale and waste waters will not be discharged into the water environment. All 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+site personnel will receive training on concrete washout as part of their Site 
+Induction.  
+4.6 
+Emergency Response Plan 
+4.6.1 
+This plan provides response measures for potential environmental emergencies 
+that could arise during the construction of the Project. These include; discovery of 
+unknown contaminated ‘hotspots’; spills of contaminants such as chemicals, fuels 
+or waste materials; and entry of contaminants into watercourses during flood 
+events. 
+4.6.2 
+This Emergency Response Plan will be reviewed by the main contractor and 
+finalised in the approved CEMP. The main contractor will also supply emergency 
+contact details for nominated site personnel, relevant regulatory bodies and 
+emergency services. These details will be available on site notice boards 
+(paragraph 2.2.6) and will be displayed along with a plan of the Project Site that 
+displays safe storage areas and the location of response equipment, such as spill 
+kits.  
+4.6.3 
+The emergency plan and contact details will be shown to all site personnel as part 
+of the Site Induction. Nominated site personnel will be provided with emergency 
+response training. There will be regular toolbox talks on emergency response 
+procedures and all site personnel will be informed of the notification procedure in 
+the event of discovering contamination or a spill as part of the Site Induction.   
+4.6.4 
+All incidents where the Emergency Response Plan is implemented will be reported 
+inline with the Incident Response Procedure detailed in Section 2.5: Monitoring 
+and Auditing (starting paragraph 2.5.11).  
+a) Contaminated Hotspots Plan 
+4.6.5 
+Ground investigations will be conducted to identify any potentially existing 
+contaminated land within the Project Site. In the case where a contaminant is 
+identified, a contaminant specific management plan will be produced. 
+4.6.6 
+As such, the procedure below is proposed to be followed in the eventuality that an 
+unidentified contaminant “hotspot” showing visual or olfactory evidence of 
+contamination is discovered during construction: 
+ 
+Relevant construction activities will be stopped immediately; 
+ 
+The discovery will be reported to the Environmental Manager or appropriate 
+personnel as identified by the main contractor; 
+ 
+The area will be sealed off in order to contain the spread of contaminants; 
+ 
+The area will be cleared to ensure there is nothing that could cause fire or 
+explosion; 
+ 
+The relevant regulator and/or CCS will be contacted once it is confirmed that 
+contamination has been found; 
+ 
+Testing will be arranged; and 
+ 
+Details of the incident will be recorded, including photos and relevant 
+information on the Environmental Incident Report Form. 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+b) Emergency Spill Response Plan 
+4.6.7 
+Appropriate spill response materials for the chemicals, fuels and oils stored onsite 
+will be provided throughout the Project Site. Spill kits will be made available at fuel 
+storage and refuelling locations and in individual plant and vehicles. Use of plant 
+and hazardous materials will be done in the presence of at least one operative 
+trained in emergency response.  
+4.6.8 
+The main contractor will produce an emergency response plan that will follow the 
+STOP – CONTAIN – NOTIFY – CLEAN UP – REPORT procedure. An indicative 
+procedure is set out below:  
+ 
+STOP 
+o 
+Construction activities will be stopped immediately; 
+o 
+Spilt substance will be identified and any information available (i.e. 
+COSHH material sheet) obtained along with the correct PPE;  
+o 
+If safe to do so, the spill will be stopped to prevent more material spilling, 
+e.g. oil drums will be righted or valves closed; and 
+o 
+Sources of ignition will be switched off. 
+ 
+CONTAIN 
+o 
+The spillage will be immediately contained using bunds of earth or sand, 
+drip trays, boom and or spill materials;  
+o 
+Drains and watercourses will be checked to see if the spill has reached 
+them. Where possible, spills will be diverted and drains will be bunded to 
+stop the spill entering the drainage network; 
+o 
+Spillage and runoff will not be washed into the drainage system.  
+ 
+NOTIFY 
+o 
+The Environmental Manager will be notified;  
+o 
+The Environmental manger will then notify the relevant regulator, CCS 
+and APL.  
+ 
+CLEAN UP 
+o 
+The spill will be cleaned up using appropriate spill materials OR by an 
+expert/ specialist clean-up contractor; 
+o 
+Contaminated soil, ground and water will be disposed of as hazardous 
+waste (section 4.7.10). 
+ 
+REPORT  
+o 
+An Environmental Incident Report will be completed in line with the 
+Incident Response Procedure (Section 2.5.11). 
+c) Flood Risk Management Plan  
+4.6.9 
+The following provides an outline of the measures to be implemented to minimise 
+flood risk: 
+ 
+The main contractor will sign up to receive NRW flood warnings or flood alerts 
+for the Afon Llan and Afon Lliw; 
+ 
+The main contractor will sign up to receive high rainfall alerts provided by the 
+MET office as flood warming for the Project Site; 
+ 
+Weather forecasts will be checked regularly; 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Plant, machinery and stockpiles will be stored away from watercourses, ditches 
+and low lying areas that could flood; 
+ 
+If flooding of the Project Site is expected, vehicles and plant machinery that 
+pose a hazard will be moved to higher ground or off-site if appropriate; 
+ 
+If flooding of the Project Site occurs, plant machinery and vehicles will be 
+checked to ensure they are safe before use; and 
+ 
+Where possible, temporary works (including stockpiles and drains) will be set to 
+direct overland flows away from the main Project Site and access routes. 
+4.7 
+Waste and Material Management Plan 
+4.7.1 
+To ensure efficiency of resource use, prevention of litter nuisance and compliance 
+with waste legislation, this sections sets out good practice waste and material 
+management measures. 
+4.7.2 
+Construction activities associated with materials and/or waste generation include: 
+ 
+Site clearance will remove vegetation and undergrowth in work areas 
+generating organic materials and waste;  
+ 
+Excavation; it is estimated that the overall quantity of excavated material (solid) 
+from the construction is to be approximately 19,000m3. This figure is a measure 
+of excavated material in the ground and bulk material. The worst case scenario 
+assessed in Chapter 12: Traffic, Transport and Access of the PEIR assumes 
+that none of this excavated material can be reused within the Project Site. 
+However the worst case is not anticipated; and  
+ 
+General day-to-day construction operations such as use of welfare facilities and 
+deliveries generating packaging, domestic waste and sewage.  
+4.7.3 
+The EU Waste Framework Directive (WFD) (Ref 4.13) provides the overarching 
+legislative framework for the collection, transport, recovery and disposal of waste, 
+and includes a common definition of waste. The Project will operate in accordance 
+with the WFD, together with the Environmental Permitting (England and Wales) 
+Regulations 2016 (Ref 4.15) and the Hazardous Waste (England and Wales) 
+Regulations 2005 (as amended by the Hazardous Waste (England and Wales) 
+Amendment Regulations 2009 and 2016) (Ref 4.14). 
+4.7.4 
+Other guidance referred to within the CEMP includes: 
+ 
+The Waste Classification Technical Guidance WM3 (Ref 4.16), which sets out a 
+standardised classification of waste based on material properties; 
+ 
+Welsh Government Guidance on Applying the Waste Hierarchy (Ref 4.17); and 
+ 
+The Department for Environment, Food and Rural Affair’s (DEFRA) Waste Duty 
+of Care Code of Practice (Ref 4.18). 
+a) Contents of Plan 
+i. 
+Waste Hierarchy  
+4.7.5 
+Onsite waste management will align with the Waste Hierarchy, which promotes 
+efficient resource use and minimisation of waste through the priority ordering of the 
+following measures: 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Prevention; 
+ 
+Preparing for re-use; 
+ 
+Recycle; 
+ 
+Other recovery; and  
+ 
+Dispose (Ref 4.14).  
+4.7.6 
+The priority order may be deviated from if a better overall environmental outcome is 
+recognised for a particular resource or waste.  
+ii. Waste Prevention 
+4.7.7 
+The following preventative measures will be adopted:  
+ 
+Building materials ordered will be the correct size so as not to be wasted due to 
+being obsolete;  
+ 
+The appropriate volume of material will be ordered to avoid excess; 
+ 
+Ordering of new materials will be avoided if there are existing materials 
+available or able to be adapted to the task within the Project Site;  
+ 
+Deliveries will be timely and directly placed in secure storage areas, double 
+handling will be kept to a minimum;  
+ 
+Re-usable materials will be identified onsite and removed for storage and re-
+sale;  
+ 
+Excess materials will be returned to the supplier if possible; and 
+ 
+General information on site waste management will be provided in Site 
+Inductions and toolbox talks with feedback welcomed. 
+iii. Classification of Waste 
+4.7.8 
+APL and/ or the main contractor will identify and classify all Project Site waste 
+streams in line with the categories and methods set out in the Waste Classification 
+Technical Guidance WM3 (Ref 4.16).  
+iv. Storing Waste  
+4.7.9 
+Where resources are earmarked for recycling, recovery or disposal the following 
+method of storage will be implemented to minimise the risk of waste escaping, litter 
+and/ or pollution:  
+ 
+All waste will be stored at the location in which it is generated, or within a 
+designated central waste storage area; 
+ 
+These designated waste storage areas will be isolated from surface water 
+drains and areas that discharge directly to the water environment;  
+ 
+Waste will be stored in suitable containers of sufficient capacity to avoid loss, 
+overflow or spillage; 
+ 
+Storage of liquid wastes will be on impermeable bunds that hold the capacity of 
+the container;  
+ 
+Waste will be segregated by waste stream and storage containers will be 
+clearly signed with the waste that they will hold e.g. wood, metal, plastics or 
+other appropriate waste stream; 
+ 
+Storage containers will be secure, covered or enclosed;  
+ 
+There will be separate containers for hazardous waste (see Paragraph 4.7.10); 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Skips will be monitored and action taken if waste levels are too high; and   
+ 
+Burning of waste is prohibited. 
+v. Hazardous Waste 
+4.7.10 “Hazardous waste” is any waste which contains properties that might make it 
+harmful to human health or the environment (Ref 4.19). 
+4.7.11 Hazardous waste could arise during construction from the following sources: 
+ 
+Maintenance of plant and machinery; 
+ 
+Oily water waste;  
+ 
+Oily rags; 
+ 
+Oil absorbent pads etc.; and 
+ 
+Environmental Spill recovery (small amounts only; larger volumes taken away 
+directly for disposal). 
+4.7.12 All Hazardous waste will be segregated by type and from other waste streams. All 
+waste oil will be stored in a bunded facility until such times that it is collected. Used 
+filters, rags and absorbents will be stowed in the hazardous waste container in 
+drums or waste oil bags.  
+vi. Transporting Waste 
+ 
+Waste contractors will be checked periodically (bi-annually) to ensure they 
+have valid licences;  and 
+ 
+All waste leaving the Project Site will be accompanied by a Waste Transfer 
+Note (WTN) for non-hazardous waste or a Special Waste Consignment Note 
+(SWCN) for hazardous waste.  A copy of which will be retained for 2 (WTN) or 
+3 years (SWCN). 
+4.8 
+Habitat Management Plan  
+4.8.1 
+Construction activities will be carried out in such a way as to ensure that 
+disturbance to any nearby ecologically sensitive areas is minimised and that 
+appropriate measures are adopted to avoid impacts on protected species in 
+accordance with relevant good practice and statutory requirements. 
+4.8.2 
+Measures provided within this Outline CEMP are based on the requirements within 
+the following legislation:  
+ 
+Conservation of Habitats and Species Regulations 2017)(Ref 4.20); 
+ 
+Protection of Badgers Act 1992; 
+ 
+The Hedgerows Regulations 1997 (Ref 4.21); 
+ 
+Wildlife and the Countryside Act 1981 (as amended); and 
+ 
+Town and Country Planning (Trees) Regulations 1999 (Ref 4.22). 
+a) Contents of Plan  
+4.8.3 
+Appropriate regard for the protection of local habitats and protected species during 
+the construction of the Project includes the following measures: 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+ 
+Fencing will be erected around the Project Site to prevent spill over to areas 
+outside of the Project footprint, particularly in areas adjacent to features of 
+interest/value;  
+ 
+Information and procedures regarding the biodiversity associated with the 
+Project Site will be disseminated to Project Personnel through training, toolbox 
+talks and summarised on site notice boards (detailed in Section 2.2.5); 
+ 
+All reasonably practicable measures will be employed to minimise harm to, and 
+disturbance of, wildlife caused by noise and vibration, dust, surface water 
+runoff, waste and pollution. This may include avoidance of certain activities 
+during sensitive times of the year such as breeding and nesting bird season; 
+ 
+Avoidance through micro-siting will be undertaken wherever possible, in 
+consultation with the ECoW, as necessary; 
+ 
+Trenches and holes should be covered when not being worked on to prevent 
+entry by mammals and where this is not possible exist and escape routes such 
+as ramps or mammal ladders will be provided;  
+ 
+Open entrances to pipes and pipelines should be covered when not being 
+worked on to prevent access by mammals; and  
+ 
+Regular 
+environmental 
+inspections, 
+incorporating 
+biodiversity, 
+will 
+be 
+undertaken to check that detrimental impacts on ecological features are being 
+minimised (see Section 2.5). 
+4.8.4 
+An Ecological Mitigation Area will be implemented for the protection of reptiles and 
+amphibians. The proposed location will be confirmed for the DCO Application within 
+the Outline Landscaping Plan. Details on trapping and translocating reptiles will be 
+provided in the Outline Habitat Management Plan as part of the DCO application. 
+Information on proposed techniques is currently available in Chapter 8: Ecology of 
+the PEIR.  
+4.8.5 
+Vegetation clearance of areas with good reptile habitat will be supervised by the 
+ECoW. The main contractor will ensure the integrity of the ecological mitigation 
+area through restricted access and regular maintenance of fencing. Awareness of 
+the area and measures to protect reptile and amphibian habitat will be raised 
+through the Site Induction and toolbox talks prior to site clearance and any other 
+relevant construction activities as identified by the ECoW or Environmental 
+Manager. 
+4.9 
+Invasive Species Management Plan 
+4.9.1 
+Construction activities will be carried out in such a way so as to, as far as 
+practicably possible, control the spread of invasive species from the Project Site.  
+4.9.2 
+Measures set out in this Outline CEMP are in line with the responsibilities detailed 
+in the Wildlife and the Countryside Act 1981 (as amended).  
+a) Contents of the Plan 
+4.9.3 
+The results of the invasive species survey will be updated before construction 
+commences. Specific measures for invasive species will be set out in the ecological 
+management plan, an outline of which will be submitted with the DCO. The 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+Ecological Management Plan will consider measures for the control and eradication 
+of invasive species, such as; 
+ 
+The implementation of buffer areas around identified or suspected plants;  
+ 
+The management of vehicle movements to reduce dispersal of seeds within 
+and outside of the Project Site; 
+ 
+The implementation of vehicle inspections and wash stations for controlling the 
+spread of invasive species, if required; 
+ 
+Details on monitoring and reporting of invasive species;  
+ 
+Species specific treatments (e.g. pulling and/ or herbicides) the timing of 
+treatment and any additional consents or requirements (i.e. consent to use 
+herbicide close to a watercourse); and 
+ 
+How waste containing invasive species will be classified and managed. 
+4.9.4 
+Awareness of the legal requirements relating to invasive species and the potential 
+health risks that certain species can pose, will be included within toolbox talks and 
+posters on identification of relevant species will be made available on site notice 
+boards.  
+4.9.5 
+Should an invasive species be found, works will be stopped and appropriate 
+measures implemented by the ECoW or other suitably qualified individual.  
+4.10 
+Landscape Management Plan 
+4.10.1 This Landscape Management Plan outlines good practice measures for the 
+retention and protection of trees and for reducing visual intrusion during 
+construction. Reinstatement is considered in the Land Reinstatement and 
+Restoration Plan (Section 4.11) and planting is considered in Chapter 11: 
+Landscape and Visual Impact Assessment of the PEIR.  
+4.10.2 Works with trees will be compliant with BS 5837: 2012 (Ref 4.23) and BS 3998: 
+2010 (Ref 4.24) 
+a) Contents of Plan 
+4.10.3 Construction activities will be carried out in such a way to ensure that, as far as 
+reasonably practicable, disturbance to visual receptors is minimised.  
+4.10.4 The following measures will be adopted as appropriate: 
+ 
+Good housekeeping measures will minimise unsightly waste  and secure 
+storage will be provided for materials at risk from displacement by wind; 
+ 
+Temporary stockpiles will be located in defined storage areas, away from 
+sensitive visual receptors; 
+ 
+No advertisements or fly posting will be permitted on any fence and all graffiti 
+will be removed and made good as soon as reasonably practicable; 
+ 
+All boundary fences will be maintained in a neat and tidy condition; 
+ 
+Any temporary fencing will be removed as soon as reasonably practicable after 
+completion of the works; and 
+ 
+Temporary lighting will be selected and sited so as to minimise visual intrusion 
+(as set out in Section 3.8 Artificial Lighting Plan), whilst maintaining the safe 
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+and efficient operation of work areas.  At night and during periods of darkness, 
+directional security lighting will be used.  
+4.10.5 The following good practice measures will be adopted and implemented for the 
+protection of trees retained onsite:  
+ 
+A Root Protection Area (RPA) will be set up around trees to be retained onsite 
+prior to commencement of construction; 
+ 
+The RPA will be demarcated by ‘Netlon’ fluorescent mesh fencing or similar 
+physical barrier. The protective fencing will be maintained for the duration of the 
+construction phase and checked on a regular basis;  
+ 
+In the event that an RPA cannot be maintained at 12 times the diameter at 
+breast height (DBH) mitigation such as bog matting, flotation tyres and hand 
+digging will be utilised;  
+ 
+No machinery or material will be stored within the RPA; 
+ 
+To ensure retained trees do not become hazardous, the condition of trees will 
+be checked by the Environmental Manager or ECoW at an appropriate 
+frequency and following storm events where there may be damage from wind 
+throw;  
+ 
+Where a tree is damaged or diseased advice will be sought from an 
+Arboriculturalist (unless the ECoW is appropriately qualified) for appropriate 
+treatment measures;  
+ 
+Where hazardous branches or trees require to be felled this will be done by a 
+qualified tree surgeon in line with BS 3998: 2010;  
+ 
+Before felling trees will be surveys for potential bird nest or bat roosts by the 
+ECoW; and 
+ 
+The waste hierarchy will be applied to forestry arisings and alternate onsite 
+uses will be sought before disposal is considered.  
+4.11 
+Peat Management Plan 
+4.11.1 A Peat Management Plan will be prepared after Ground Investigations have been 
+conducted, post-consent. The Peat Management Plan will detail predicted volumes 
+of peat excavated on the Project Site, the characteristics of the excavated peat, 
+and how and where this excavated peat will be stored, reused and managed 
+4.12 
+Land Reinstatement and Restoration Management Plan 
+4.12.1 This plan sets out planned and good practice measures for the reinstatement of 
+areas of the Project Site once they are no longer required for construction.  
+4.12.2 Prompt implementation of reinstatement and restoration measures aim to reduce 
+the effects of: 
+ 
+Compaction of subsoil, which can lead to inhibited drainage and root growth; 
+ 
+Exposed ground, which can cause loss of topsoil, dust and water pollution 
+through wind blow and erosion; and  
+ 
+Visual intrusion.  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+a) Contents of Plan 
+4.12.3 Planned reinstatement at the Project Site includes the following considerations and 
+measures:  
+ 
+Land reinstatement will normally take place in the autumn following the 
+construction phase. The length of the gas connection route will be reinstated to 
+its original condition and returned to its previous use;  
+ 
+Where compaction may have occurred a ‘sub-soiler’, which lifts and shatters 
+the subsoil will be used before the topsoil is reinstated; 
+ 
+Topsoil that has been stored in the Laydown Area will be spread and levelled 
+across the width of the strip, using hydraulic excavators or bulldozers. In areas 
+where stones have been brought to the surface, stone picking will be carried 
+out mechanically; 
+ 
+The finish in which the soil is left will be agreed with the relevant land occupier. 
+Land to be reinstated as grassland will either be reseeded in the autumn or the 
+following spring. The reptile fences will remain in place until the grass crop is 
+established; 
+ 
+Temporary construction fences will be removed once an agreement has been 
+reached with the landowners that the land can be handed back to them; and 
+ 
+Hedgerows will be reinstated in the first planting season following the 
+completion of construction and land reinstatement work. 
+4.12.4 The following lists general reinstatement good practice measures that will be 
+adopted for the implementation of the specific measures: 
+ 
+Reinstatement will be carried out as soon as possible following any vegetation 
+stripping to ensure integrity is maintained;  
+ 
+The reinstatement of the construction areas will be undertaken to the standard 
+to be agreed with CCS, using the existing soil and vegetation wherever 
+possible; 
+ 
+Stripped soil will be reinstated as close to where it was removed as possible;  
+ 
+Subsoil, topsoil and turf will be replaced in the same order as removed;  
+ 
+Restoration works will be carried out in suitable weather conditions noting that 
+wet ground conditions can be difficult as can hot dry and windy spells; and  
+ 
+Natural regeneration of habitats will be promoted in all appropriate areas as 
+advised by the Environmental Manager or ECoW.  
+4.13 
+References  
+Ref 4.1 British Standards Institute (BSI). (2014). BS 5228 -1: 2009+ A1:2014. Code of 
+Practice for Noise and Vibration Control on Construction and Open Sites – Part 1: 
+Noise.  
+ Environmental Protection Act 1990.  
+Ref 4.2
+Ref 4.3 BSI. (1993). BS 7385-2: 1993. Evaluation and Measurement for Vibration in 
+Buildings. Part 2: Guide to Damage Levels from Groundborne Vibration.  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+Ref 4.4 IAQM. (2012). Guidance on Air Quality Monitoring in the Vicinity of Demolition and 
+Construction Sites. [Online]. 
+Available: http://www.iaqm.co.uk/wp-
+content/uploads/guidance/monitoring_construction_sites_2012.pdf  
+[Accessed: 30/11/17] 
+Ref 4.5 National Grid. (2014). NGTS 2.20: Oil Containment at Electricity Substations and 
+Other Operational Sites.  
+ CIRIA. (2015). C753: The SUDS [Sustainable Urban Drainage] Manual; 
+Ref 4.6
+ BSI. (2009). BS 6031:2009 Code of Practice for Earthworks. 
+Ref 4.7
+ BSI. (2015). BS 8004:2015. Code of Practice for Foundations.  
+Ref 4.8
+ HSE. (n.d.) Speed Limits. [Online]. Available: 
+Ref 4.9
+http://www.hse.gov.uk/workplacetransport/factsheets/speed.htm  
+[Accessed 20/11/17]. 
+Ref 4.10 Water Resources (Control of Pollution) (Oil Storage) (Wales) Regulations 2016. 
+W.S.I. 206/359/W112.  
+Ref 4.11 DEFRA. (2012). Process Guidance Note 3/01(12): Statutory Guidance for Blending, 
+Packing, Loading, Unloading and Use of Cement. [Online]. Available: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/5730
+04/blending-packing-loading-unloading-and-use-of-cement-process-guidance-note-
+3-01_12_.pdf  
+[Accessed 21/11/17]. 
+Ref 4.12 BSI. (2012). BS 5837. Trees in Relation to Design, Demolition and Construction – 
+Recommendations.  
+ Directive 2008/98/EC The Waste Framework Directive L312/3. 
+Ref 4.13
+Ref 4.14 The Waste (England and Wales) Regulations 2011.  S.I. 2011/988. Environmental 
+Protection, England and Wales.  
+Ref 4.15 The Environmental Permitting (England and Wales) Regulations 2016. S.I. 
+2016/1154. Environmental Protection, England and Wales. 
+Ref 4.16 NRW, SEPA, NIEA and EA. (2015). Waste Classification. Guidance on the 
+Classification and Assessment of Waste (1st Edition 2015). Technical Guidance 
+WM3. [Online]. Available: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/4270
+77/LIT_10121.pdf 
+[Accessed 20/11/17]. 
+Ref 4.17 Welsh Government. (2012). Guidance on Applying the Waste Hierarchy. [Online]. 
+Available: 
+http://gov.wales/docs/desh/publications/120119wastehierarchyguideen.pdf  
+[Accessed 01/12/17].  
+Abergelli PEIR 2018 – OUTLINE CONSTRUCTION ENVIRONMENTAL MANAGEMENT PLAN 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+35 
+ 
+Ref 4.18 DEFRA. (2016). Waste Duty of Care Code of Practice. [Online].  
+Available: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/5069
+17/waste-duty-care-code-practice-2016.pdf  
+[Accessed 01/12/17]. 
+Ref 4.19 HSE. (n.d). Available: http://www.hse.gov.uk/waste/hazardouswaste.htm. 
+[Accessed 20/11/17]. 
+ The Conservation (Natural Habitats, &C.) Regulations 2017,  Wildlife, Countryside.  
+Ref 4.20
+ The Hedgerows Regulations 1997. S.I. 1997/1160. Countryside.  
+Ref 4.21
+Ref 4.22 The Town and Country Planning (Tree Preservation Order) Regulations 1999 as 
+amended. 
+Ref 4.23 British Standards Institute (BSI). (2012). BS 5387:2012 Trees in Relation to Design, 
+Demolition and Construction – Recommendations. 
+Ref 4.24  BSI. (2010). BS 3998: 2010 Tree Work. Recommendations. 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Appendix A: Mitigation Register 
+A.1 
+Introduction   
+A.1.1 
+This Appendix provides a register of mitigation for all mitigation measures that have 
+been identified in the PEIR for the Project, and are incorporated within the Outline 
+CEMP and all other topic-specific Management Plans.  The measures listed in this 
+Appendix will be updated for the DCO Application to include relevant DCO 
+Requirements.  
+A.1.2 
+Table A.1 – Table A. 2 collate the mitigation measures outlined in the PEIR and 
+have been separated into construction, operation and phases. Decommissioning 
+measures will be similar to that of construction.  These tables show the 
+corresponding reference to the PEIR, the relevant Management Plan(s) and their 
+document reference, and also cross-referencing the responsibility for the 
+preparation, approval and delivery as set out in the CEMP.  
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.2 
+ 
+Table A.1 Construction Mitigation Register  
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+General Environmental Management Principles and Responsibility 
+GEN01 
+Embedded 
+A CEMP will be prepared and then implemented during 
+construction to mitigate any adverse environmental effects. An 
+Outline CEMP for the Project is provided in Appendix 3.1 of the 
+PEIR. It includes measures relating to the environmental topics 
+assessed in this PEIR which will mitigate the effects of 
+construction. The CEMP will be finalised and followed by the 
+Contractor on site, once the content has been agreed with CCS. 
+The Outline CEMP includes the following information: 
+ 
+Community liaison; 
+ 
+Nuisance management including measures to avoid or 
+minimise the impacts of construction works (covering dust, 
+noise, vibration and lighting); 
+ 
+Site waste and materials management measures; 
+ 
+Surface and ground water protection measures; 
+ 
+Pollution control measures; 
+ 
+Peat management measures as required; 
+ 
+Landscape and visual impact mitigation (such as retention of 
+existing trees and minimising visual intrusion of construction 
+works); 
+ 
+Security measures; a protocol in the event that unexpected 
+contaminated land is identified during ground investigation or 
+construction; 
+ 
+A protocol for the restoration of land which is temporarily 
+used 
+for 
+construction 
+following 
+the 
+date 
+of 
+final 
+commissioning; 
+ 
+Environmental training requirements; and 
+ 
+Ecological mitigation measures including avoidance of 
+sensitive features. 
+3.11.2 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.3 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+GEN02 
+Embedded 
+Water courses and ditches will be diverted around the Generating 
+Equipment Site, with silt traps, straw bale filters and attenuation 
+pond formed for any surface water outlet from the Generating 
+Equipment Site. Water from the attenuation ponds will be 
+discharged in a controlled manner to the Afon Llan. 
+3.7.7 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+GEN03 
+Embedded 
+Piling will be carried out using rotary driven piles in high load areas 
+of the Generating Equipment Site such as plant and building 
+column foundations. This technique will minimise disturbance of 
+nearby sensitive ecological receptors. Shallow foundations for 
+lighter buildings will be excavated. 
+3.7.16 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Air Quality 
+AQ01 
+Embedded 
+The CEMP will include the standard good practice dust mitigation 
+measures, as set out in the Outline CEMP in Appendix 3.1 of the 
+PEIR. 
+3.11.11 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+AQ02 
+Embedded 
+Daily visual inspections of dust emissions will be made in 
+conjunction with dust emissions monitoring at locations to be 
+agreed with NRW. If plumes of dust are visible, behind moving 
+vehicles for example, or dust was visibly deposited on roads 
+outside of the Project Site, additional control measures may be 
+required. 
+3.11.12 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+AQ03 
+Embedded 
+Institute of Air Quality Managers (IAQM) guidance on monitoring 
+air quality at construction sites (Ref A.1) recommends that, in 
+addition to visual inspections, ambient air monitoring is undertaken 
+in the vicinity of high risk sites. This data is required for two 
+reasons: the first relates to ensuring that mitigation measures are 
+appropriate and being applied rigorously; the second is to provide 
+early warning of increased dust emissions which allows for the 
+cessation or modification of activities prior to impacts occurring. 
+3.11.13 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.4 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+AQ04 
+Embedded 
+Monitoring will be undertaken in the vicinity of the Lletty Morfil 
+SINC. Since the risk for ecosystems relates to dust deposition, a 
+real time monitor for total suspended particulate matter will be 
+installed but this needs to be an ‘indicative instrument’ only. 
+Trigger levels for the instrument, which would suggest increasing 
+risk/emissions, should be agreed with NRW prior to the 
+commencement of construction. The monitoring stations will be 
+mobile and would be moved around the Project Site as the 
+principal activities move. 
+3.11.14 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Noise 
+ 
+N01 
+Embedded 
+It is anticipated that core working hours and boundary noise will be 
+limited during construction by a Requirement in the DCO. Working 
+hours are likely to be between 08.00 and 18.00 on weekdays, and 
+between 08.00 and 13.00 hours on Saturdays and public holidays. 
+Some works may be allowed to take place outside of normal 
+working hours provided they do not cause any noise disturbance. 
+Should it be necessary to conduct work with the potential to 
+generate noise, outside these core hours, this would be with the 
+prior written agreement of CCS. These limits will not apply during 
+commissioning and testing of the Project. 
+3.11.18 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+N02 
+Embedded 
+Measures to mitigate noise and ensure compliance with any 
+imposed maximum boundary noise limits will be implemented 
+during the construction phase of the Project in order to minimise 
+impacts at local residential Noise Sensitive Receptors (NSRs), 
+particularly with respect to activities required outside of normal 
+working hours. 
+3.11.19 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+N03 
+Embedded 
+Construction noise mitigation measures are included in the Outline 
+CEMP (Appendix 3.1 of the PEIR). In order to keep noise effects 
+from the construction phase to a minimum, all construction 
+activities relating to the Power Generation Plant, Gas Connection, 
+and Electrical Connection would be carried out in accordance with 
+the recommendations of British Standard (BS) 5228 ‘Noise and 
+Vibration Control on Construction and Open Sites’ (Ref A.2) as 
+explained in Chapter 7: Noise and Vibration of the PEIR.  
+3.11.20 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.5 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+N05 
+Embedded 
+Method statements regarding construction management, traffic 
+management, and overall site management would be prepared in 
+accordance with best practice and relevant British Standards, to 
+help to minimise impacts of construction works.  One of the key 
+aims of such method statements would be to minimise noise 
+disruption to local residents during the construction period. 
+3.11.22 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+N06 
+Embedded 
+Consultation and communication with the local community 
+throughout the construction period would also serve to publicise 
+the works schedule, giving notification to residents regarding 
+periods when higher levels of noise may occur during specific 
+operations, 
+and 
+providing 
+lines 
+of 
+communication 
+where 
+complaints can be addressed.   
+3.11.23 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+N07 
+Embedded 
+A detailed noise assessment would be carried out once the 
+contractor is appointed and further details of construction methods 
+are known, in order to identify specific mitigation measures for the 
+Project.  
+3.11.24 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+N08 
+Embedded 
+In addition, it is proposed that the contractor would be a member 
+of the ‘Considerate Constructors Scheme’ which is an initiative 
+open to all contractors undertaking building work. 
+3.11.25 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.6 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+N04 
+Embedded 
+Mitigation measures for inclusion within the CEMP may contain, 
+but is not limited to: 
+ Abiding by any construction noise limits at nearby NSRs; 
+ Ensuring that all processes are in place to minimise noise 
+before works begin and ensuring that best practicable 
+measures (BPM) are being achieved throughout the 
+construction programme, including the use of localised 
+screening around significant noise producing plant and 
+activities; 
+ Ensuring that modern plant is used, complying with the latest 
+European noise emission requirements.  Selection of 
+inherently quiet plant where possible; 
+ Hydraulic techniques for breaking to be used in preference to 
+percussive techniques where practical; 
+ Use of lower noise piling (such as rotary bored or hydraulic 
+jacking) rather the driven piling techniques (if required), 
+where possible;  
+ Off-site pre-fabrication, where practical; 
+ All plant and equipment being used for the works to be 
+properly maintained, silenced where appropriate, operated to 
+prevent excessive noise, and switched off when not in use; 
+ All contractors to be made familiar with current legislation 
+and the guidance in BS 5228 (Parts 1 and 2), which should 
+form a prerequisite of their appointment; 
+ Loading and unloading of vehicles, dismantling of site 
+equipment such as scaffolding or moving equipment or 
+materials around the Project Site, to be conducted in such a 
+manner as to minimise noise generation; 
+ Appropriate routing of construction traffic on public roads and 
+along access tracks;  
+ Consultation with BDC and local residents to advise of 
+potential noisy works that are due to take place; and  
+ Monitoring of noise complaints, and reporting to the main 
+contractor for immediate investigation. 
+3.11.21 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.7 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+N09 
+Additional 
+The preferred approach for controlling construction noise and 
+vibration is to reduce levels at source where possible, but with due 
+regard to practicality. Sometimes a greater noise or vibration level 
+may be acceptable if the overall construction time, and therefore 
+length of disruption, is reduced. 
+7.6.3 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+N10 
+Additional –
+Monitoring 
+During operation, monitoring is considered appropriate in order to 
+track the success of delivery of proposed mitigation.  Ideally this 
+monitoring would be based on regular or fixed measurements 
+close to the Project Site boundary to give consistency by 
+minimising the impact of weather and extraneous sources.  The 
+measured levels at these locations must be calibrated against the 
+levels at the receptors as part of the plant commissioning sound 
+test procedure.  Any change in Project Site boundary levels can 
+then be related directly to changes at the receptors. 
+7.6.4 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor/ 
+Environme
+ntal 
+Manager/ 
+ECoW 
+Ecology 
+E01 
+Embedded 
+Local habitats and protected species would be protected during 
+the construction works through measures included within the 
+Outline CEMP (Appendix 3.1 of the PEIR) such as fencing to 
+prevent access of species to working areas and translocation of 
+protected species (e.g. reptiles). 
+3.11.32 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E02 
+Embedded 
+Sensitive ecology features such as the Ancient Woodland, trees 
+and habitats have been avoided as much as possible during the 
+Project design development and will continue to be considered in 
+the potential improvements and widening of the existing access 
+road from the B4489, drainage and landscape reinstatement.  
+3.11.33 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E03 
+Embedded 
+The Outline Ecological Management Plan will set out all necessary 
+ecological mitigation measures as necessary to sufficiently 
+mitigate the impacts on ecological receptors. The plan also 
+outlines procedures to manage invasive species and will be 
+submitted with the DCO Application. 
+3.11.34 
+Ecological 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.8 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E04 
+Additional 
+Lletty-Morfil SINC 
+Mitigation for the loss of SINC habitat (broadleaved semi-natural 
+woodland, dense/continuous scrub and marshy grassland) will 
+include the provision of replacement habitats, the locations and 
+areas for which are to be decided once the outline landscape plan 
+is prepared and the locations of utilities confirmed.   
+Indicative areas, based on the previous layout are as follows, 
+although these figures are subject to change: 
+ 
+0.91 ha of woodland/scrub; 
+ 
+5.04 ha of grassland (acid grassland/marshy grassland 
+mosaic); 
+ 
+800 m of hedgerow; and, 
+ 
+Two wildlife ponds. 
+8.8.5 
+Landscape Plan/ 
+CEMP 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E05 
+Additional 
+Ancient Woodland 
+Mitigation for the loss of Ancient Woodland habitat (broadleaved 
+semi-natural woodland) will include the provision of replacement 
+habitat, the location and area for which is to be decided once the 
+outline landscape plan is prepared and the locations of utilities 
+confirmed.   
+An indicative area, based on the previous layout of 0.91 ha of 
+woodland/scrub habitat has been proposed, although this figure is 
+subject to change.  
+8.8.7 
+Landscape Plan/ 
+CEMP 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.9 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E06 
+Additional 
+Row of Trees – Broadleaved and Hedgerows – Species-Poor 
+Loss of rows of trees and hedgerows utilised by wildlife such as 
+commuting and foraging bats, and commuting badgers will be 
+mitigated for through the introduction of linear habitat with similar 
+properties such as hedgerows. This is still under consideration and 
+dialogue is ongoing with National Grid regarding the shared 
+access route and any widening which may be required.  
+Mitigation measures will be confirmed in the DCO Application but 
+could include that any habitats temporarily removed will be 
+reinstated and that any mature trees removed may be replaced by 
+standards of the same species or transplanted to a suitable 
+location elsewhere within the Project Site boundary. 
+8.8.9 
+Landscape Plan/ 
+CEMP 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E07 
+Additional 
+Marshy Grassland 
+Temporarily removed habitats will be reinstated.  Mitigation for the 
+loss of marshy grassland habitat will include the provision of 
+replacement habitat, the locations and areas for which are to be 
+decided once the outline landscape plan is prepared and the 
+locations of utilities confirmed.  After which, this part of the 
+assessment will be updated for final submission. The indicative 
+area, based on the previous layout, is 5.04 ha of grassland (acid 
+grassland/marshy grassland mosaic); however, this area is subject 
+to change.  
+8.8.11 
+Landscape Plan/ 
+CEMP 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E08 
+Additional 
+Standing Water 
+Mitigation for the loss of standing water habitat will include the 
+provision of replacement habitat, the locations and areas for which 
+are to be decided once the outline landscape plan is prepared and 
+the locations of utilities confirmed.  After which, this part of the 
+assessment will be updated for final submission. Provisionally, it 
+has been suggested that two wildlife ponds will be provided.  
+8.8.12 
+Landscape Plan/ 
+CEMP 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.10 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E09 
+Additional 
+Amphibians 
+Recommendations for reptiles will help to limit the injury or killing 
+of amphibians. 
+Any amphibians captured during the reptile trapping programme 
+will be moved to a safe and suitable location. 
+8.8.13 and 
+8.8.21 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E10 
+Additional 
+Reptiles 
+Based on the positive result from the surveys reptile translocation 
+will be required in areas of suitable habitat that are to be 
+permanently or temporarily lost during construction.  
+The trapping and translocation programme will be designed 
+following the guidance set out in Herpetofauna Groups of Britain 
+and Ireland 1998 publication (Ref A.3).  
+8.8.16 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E13 
+Additional 
+To reduce the risk of individual reptiles being injured or killed, all 
+works will proceed under a Method Statement agreed with the 
+Local Biodiversity Officer/Country Ecologist prior to works 
+commencing.  
+8.8.22 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E14 
+Additional 
+The risk of reptiles and the mitigation measures will be included in 
+the site induction package and prior to any site clearance and 
+construction tasks.  
+8.8.23 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.11 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E11 
+Additional 
+Due to the ‘Good’ population of common lizard and the presence 
+of low numbers of grass snakes within the survey area it is 
+recommended that a trapping and translocation programme is 
+undertaken to help protect any reptiles from being injured or killed. 
+The actions involved in the proposed trapping and translocation 
+are outlined below: 
+ 
+Any construction areas suitable or known to support reptiles, 
+including any routes in and out, areas for site compounds, 
+offices or storage of materials/waste, will be fenced off using 
+suitable fencing (drift or semi-permanent) to limit individuals 
+attempting to enter the site from the adjacent land.  
+ 
+No construction activities, including pedestrian access will be 
+allowed outside of the fencing in areas of habitat suitable for 
+supporting reptiles.  
+ 
+A number of refugia (at a density of 50/ha) will be placed 
+within the fenced area to attract reptiles.  
+ 
+Each day, up to twice a day for a minimum of 60 days an 
+ecologist will check the refugia for the presence of reptiles.  
+ 
+Any reptiles or amphibians found will be captured for 
+relocation to a pre-determined receptor site (see below).  
+ 
+After 60 days the trapping can cease once there have been 
+five consecutive days where no reptiles have been found.  
+ 
+After the fenced area has been cleared of reptiles and prior 
+to soil stripping the vegetation can undergo a process habitat 
+management and hand searches for reptiles  
+ 
+Supervision of the soil strip during construction work by a 
+suitably qualified ecologist will be required to help protect 
+injury or killing of reptiles.  
+8.8.18 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E11 
+cont. 
+Additional 
+ 
+Any litter or rubble piles will be removed by hand under the 
+supervision of an ecologist to avoid injuring or killing any 
+reptiles. If the material is too heavy to be removed by hand it 
+can be done so using a mini excavator carefully and slowly 
+removing the material, under the supervision of an ecologist.  
+8.8.18 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.12 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E12 
+Additional 
+The receptor site for the trapped reptiles can be within the Project 
+Site boundary, or alternatively a receptor site can be chosen off-
+site (within the same county or administrative area). However, 
+there is a deficit of suitable receptor sites within the county and 
+adjacent counties, and the costs associated with sorting and 
+transporting trapped reptiles may be prohibitive.  
+For either option the receptor site will: 
+ 
+Have habitat suitable for supporting reptiles (can be made 
+suitable by undertaking habitat management works); 
+ 
+Not currently support a population of the species of common 
+lizard or support only small numbers of the species but being 
+capable 
+of 
+supporting 
+more 
+given 
+suitable 
+habitat 
+management works; 
+ 
+Not be subject to planning or other threats in the foreseeable 
+future;  
+ 
+Be subject to a written, agreed and funded pre- and post-
+translocation 
+management 
+agreement 
+and 
+monitoring 
+programme.  
+8.8.19 to 
+8.8.20 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E15 
+Additional 
+Breeding Birds 
+Habitat creation measures relating to the loss of the SINC, 
+broadleaved woodland, marshy grassland, hedgerows and lines of 
+trees will provide additional areas for breeding birds post 
+construction.  Embedded landscape planting will also provide 
+additional habitat for the species assemblage recorded. 
+8.8.25 
+Landscape Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.13 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E16 
+Additional 
+Bats 
+To allow the most appropriate and effective mitigation measures to 
+be determined and will be finalised for inclusion in the approved 
+CEMP, the following surveys will be undertaken:  
+ 
+Building assessments and further bat surveys on Buildings 6, 
+7 and 8 within the Abergelli Farm;  
+ 
+During December 2017, January and February 2018 static 
+bat detectors are placed as near to the estimated locations of 
+the mine shaft and adit as is safe to do so. This will be done 
+with the aim of any bat activity being recorded in these 
+areas, suggesting a nearby hibernation-site; and;  
+ 
+Pre-construction checks on trees scheduled for removal for 
+their current bat roost potential with consideration of the 
+seasonal survey timings.  
+8.8.26 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E17 
+Additional 
+Based on the current Project  design a European Protected 
+Species Licence (EPSL) is not a requirement. However, should the 
+scope of the Project change and/or if further bat roosts are 
+identified an EPSL may be required.  
+8.8.27 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E18 
+Additional 
+Maintain connectivity of foraging and commuting habitats by the 
+retention of trees and hedgerows wherever possible and utilising 
+'brown hedgerows' of brash, to maintain connectivity during 
+construction.  For linear features identified as key forging or 
+commuting habitat, where possible the Gas Connection should be 
+installed using drilling to retain feature and connectivity across the 
+Project Site.  Embedded mitigation includes the provision of 
+replacement habitats that will benefit foraging and commuting 
+bats. Indicative areas, based on the previous layout are as follows, 
+although these figures are subject to change: 
+ 
+0.9 1 ha of woodland/scrub; 
+ 
+5.04 ha of grassland (acid grassland/marshy grassland 
+mosaic); 
+ 
+800 m of hedgerow; and, 
+ 
+Two wildlife ponds. 
+8.8.29 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.14 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E19 
+Additional 
+Night time working with its associated need for additional lighting 
+should be avoided as far as possible within areas near to known 
+roosts.  There should be no night time illumination of the 
+hedgerows, woodland or mature tree lines.  
+8.8.30 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E20 
+Additional 
+Water Vole and Otter 
+A 
+pre-construction 
+check 
+for 
+water 
+vole 
+burrows, 
+otter 
+holts/couches and activity of both species will be undertaken 
+where construction is present within 100 m of watercourses as 
+identified as suitable for supporting the species during the 2017 
+field surveys.  The check should be undertaken the year before 
+works are due to commence and if the area declared clear, habitat 
+management undertaken to help reduce the quality of the habitats 
+for burrow and holt/couch creation for the period leading up to and 
+for the duration of construction in that area. Additional mitigation 
+may be required as a result of the survey.  
+8.8.31 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E21 
+Additional 
+Badger 
+A pre-construction check for badger setts and activity will be 
+undertaken where construction works are within 30 m of suitable 
+habitats for badger sett creation.  
+8.8.32 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E22 
+Additional 
+Works likely to damage or destroy a badger sett will require a 
+license to close the sett prior to works commencing.  The terms of 
+the license may stipulate the requirement for compensatory setts 
+to be created should any main setts be destroyed and/or 
+temporarily closed.  
+8.8.33 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.15 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E23 
+Additional 
+Excavations, if left unfilled overnight, should be covered to avoid 
+badgers and other animals becoming trapped. Sloping escape 
+ramps for badgers should be created by edge profiling 
+trenches/excavations and/or excavations should be fitted with a 
+scaffolding board ramp to allow any trapped animals to exit. 
+Crossing places will be provided across open excavations for the 
+duration of the works on the sections where known badger paths 
+have been identified. Open pipework greater than 150 mm 
+diameter that is left over night will be made secure by either filling 
+in the end of the pipe or covering the end with a solid timber panel 
+or similar.  
+8.8.34 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E24 
+Additional 
+Night time working with its associated need for additional lighting 
+should be avoided as far as possible within areas near to setts and 
+areas of known activity to reduce disturbance to badger when they 
+are out of their setts and foraging.  There should be no night time 
+illumination of the hedgerows, woodland or setts.  
+8.8.35 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+E25 
+Additional 
+The introduction of new woodland, scrub, species-rich grassland 
+and hedgerows will increase opportunities for resting, breeding 
+and foraging badger.  
+8.8.36 
+Landscape Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+E26 
+Additional 
+Invasive Species 
+It is recommend that an invasive species management plan is 
+produced to control and eradicate the invasive species within the 
+Project Site boundary.  An updated invasive species survey should 
+be undertaken to accurately assess invasive species and extents 
+within the Project Site boundary.  
+8.8.37 
+Ecology 
+Management 
+Plan   
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Water Quality and Resources 
+WQ01 
+Embedded 
+Hydrological protection measures have been included in the 
+CEMP (see Outline CEMP in Appendix 3.1 of the PEIR) to prevent 
+pollution events, with particular reference to the Gas Connection 
+and includes silt traps to reduce flow of suspended solids, suitable 
+phasing to reduce the need for unprotected slopes and avoidance 
+of stockpiled materials. The drainage strategy will be included 
+within the DCO Application. 
+3.11.36 
+Drainage 
+Strategy/ CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.16 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+WQ02 
+Embedded 
+The Project incorporates welfare facilities, which will require a site 
+foul water drainage system. The Project Site is remote and it is 
+believed it will be unfeasible to connect to a public sewer. 
+Therefore, a foul water drainage system will either drain to a septic 
+tank or a package treatment plant within the Project Site but 
+outside any area at risk of flooding. It is likely that the latter would 
+be 
+the 
+preferred 
+option 
+for 
+ease 
+of 
+maintenance 
+and 
+environmental criteria. The processed water would then discharge 
+onsite or to a nearby watercourse. 
+3.11.3 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ03 
+Embedded 
+An oily water drainage system will be required to receive surface 
+water from potentially contaminated oil retaining areas and prevent 
+contaminated water discharging from site. Oily water drainage 
+shall be designed in accordance with National Grid Technical 
+Specification 2.20 ‘Oil Containment at Electricity Substations and 
+Other Operational Sites’ (0) or similar approved guidelines. 
+3.11.4 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ03 
+Embedded 
+Rainwater will be removed from oil retaining areas by an automatic 
+pump to the oily water drainage system. The automatic pumps will 
+be designed to shut down in the event that a major oil spillage is 
+detected. This will help prevent large quantities of oil entering the 
+oily water drainage system. 
+3.11.38 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ03 
+Embedded 
+The oily water drainage system will ultimately pass through a 
+Class 1 Full Retention Oil Separator (As defined in BS EN 858) 
+before discharging into surface water bodies or drainage systems. 
+3.11.39 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ03 
+Embedded 
+All oil unloading areas on site have been designed to include 
+containment for accidental spillage of fuel during unloading with 
+the loading system equipped such that drainage is isolated during 
+filling and any spillage goes to the dedicated interceptor 
+3.11.40 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ03 
+Embedded 
+The Oil Separator will be fitted with an alarm to indicate when the 
+oil coalesce requires emptying. All oil separators will be sized to 
+suit the oily water catchment area. 
+3.11.41 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.17 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+WQ04 
+Embedded 
+The surface water drainage system will be required to adequately 
+drain the site and prevent ponding. The surface water drainage 
+system will adopt the principles of the SuDS Manual – Ciria C753. 
+– Updated SuDS Manual reference 2015 (0). 
+3.11.5 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ05 
+Embedded 
+To prevent inundation of the Project Site from surface runoff cut off 
+drainage ditches will be placed around the uphill site perimeter. 
+These new drainage ditches will be designed to carry the surface 
+runoff around the Project Site and downstream back to the original 
+drainage ditches/watercourses. 
+3.11.6 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ06 
+Embedded 
+Where possible, the new levels and surfacing will be designed so 
+they naturally drain by infiltration into the surrounding ground. 
+Where this is not economically possible or presents an 
+unsatisfactory risk of flooding, infiltration drains will be installed. All 
+infiltration drains will connect to the surface water drainage 
+system.  
+3.11.7 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ07 
+Embedded 
+It is not expected that it will be possible to connect the surface 
+water drainage system to an infiltration basin due to the presumed 
+predominantly clayey ground and high groundwater level in 
+places. This will be confirmed when the Ground Investigation 
+surveys are carried out. Instead the discharged flow of water at the 
+Generating Equipment Site boundary from the surface water 
+drainage system will be attenuated in order to maintain the 
+equivalent greenfield runoff flow for a range of events up to the 1 
+in 100 year event (with climate change allowance). The flow will be 
+attenuated using suitably sized attenuation ponds with restricted 
+discharge pipes to the existing greenfield runoff rates. An 
+emergency overflow will be provided to the attenuation ponds to 
+prevent site flooding in the event of an extreme rainfall event. 
+3.11.8 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.18 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+WQ08 
+Embedded 
+Where possible, roadside swales and infiltration drains will be 
+used to remove and convey any standing water into the surface 
+water drainage system from internal roads within the Project Site 
+including the new Access Road. Where there are space 
+constraints, or there is an elevated risk of contamination, the new 
+site roads will be kerbed and drain via road gullies with pollution 
+control measures. It is expected that roadside swales will 
+discharge to nearby local watercourses at the existing greenfield 
+runoff rate.  
+3.11.9 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ09 
+Embedded 
+Existing field drainage that will cross the new Access Road will be 
+culverted or bridged for a short length to allow flow up to the 1 in 
+100 year return period.  
+3.11.10 
+Drainage 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+WQ10 
+Embedded 
+Design layout has been adopted to avoid the 66" water mains 
+crossing the Project Site (i.e.30m clearance from either side of the 
+pipeline route). 
+Table 3.3 
+CEMP 
+APL/ Main 
+contractor 
+CCS / 
+Welsh 
+Water 
+Main 
+contractor 
+Geology, Ground Conditions and Hydrogeology 
+G01 
+Embedded 
+The CEMP will be implemented during construction to mitigate any 
+adverse environmental effects and includes working in accordance 
+with best practices, such as the completion of all necessary 
+ground investigation and risk assessments, maintaining safe 
+working practices and the use of correct and appropriate Personal 
+Protective Equipment (PPE). 
+3.11.44 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.19 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+G02 
+Embedded 
+The following information which relates specifically to geology, 
+ground conditions and hydrogeology will be included within the 
+CEMP: 
+ Site waste and materials management measures; 
+ Surface and groundwater protection measures; 
+ Pollution control measures; 
+ Peat management measures as required; 
+ Security measures; a protocol in the event that unexpected 
+contaminated land is identified during ground investigation or 
+construction; and 
+ Environmental training requirements. 
+3.11.45 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+G03 
+Embedded 
+Intrusive ground investigation will be conducted to identify ground 
+conditions and potential contaminants, as will risk assessments 
+including gas, control waters and human health.   
+3.11.46 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+G04 
+Embedded 
+A detailed mining risk assessment will be required to establish the 
+risk of untreated shallow underground workings beneath the 
+Project Site. There is potential for mine workings and entries 
+requiring stabilisation treatment so ground stability will be 
+improved. 
+3.11.47 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+G05 
+Embedded 
+A dedicated mineral resources survey will be undertaken to 
+establish the value of the sand, gravel and coal reserves. 
+3.11.48 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+G06 
+Embedded 
+A foundations risk assessment is likely to be required to assess 
+the risk of piling foundations to controlled waters. 
+3.11.49 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.20 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+Landscape and Visual  
+LV01 
+Embedded 
+Mitigation measures will be implemented during the construction 
+phase as set out in the Outline CEMP (Appendix 3.1 of the PEIR) 
+in order to limit impacts on the landscape and visual resource. 
+These measures will include:  
+ The use of tall hoardings to screen views of ground level 
+construction activities in relation to sensitive receptors such as 
+residential views and views from nearby PRoW; 
+ Materials and machinery will be stored tidily during the 
+construction works in order to minimise impacts on views; 
+ Lighting of compounds and work sites will be restricted to 
+agreed working hours and those which are necessary for 
+security in accordance with the Institution of Lighting 
+Professionals guidelines (Error! Reference source not 
+found.); 
+ The unnecessary removal of vegetation will be avoided; 
+ The retention and protection of existing trees in accordance 
+with 
+BS5837:2012 
+Trees 
+in 
+Design, 
+Demolition 
+and 
+Construction, Recommendations (0); 
+ Public roads providing access to construction site will be 
+maintained fee of dust and mud; 
+ The Contractor will clear and clean all working areas and 
+accesses as work proceeds and when no longer required for 
+the works; 
+ On completion of construction works, all structures, equipment, 
+surplus materials, waste, notice boards and temporary fences 
+used during construction will be removed from the Project Site 
+with minimum damage to the surrounding area; and  
+ Prompt reinstatement of areas that are no longer required 
+following construction. 
+3.11.50 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.21 
+ 
+Ref No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Construction Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+Traffic, Transport and Access 
+T01 
+Embedded 
+Modifications to the B4489/Access Road junction to facilitate 
+movements by abnormal loads; 
+3.11.50 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+T02 
+Embedded 
+Widening and extension of the access road to facilitate access by 
+construction traffic; 
+3.11.50 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+T03 
+Embedded 
+Physical management of the access road to ensure the security 
+and safety of all staff; 
+3.11.50 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+T04 
+Embedded 
+A Construction Traffic Management Plan (CTMP) including details 
+of the management of construction traffic and Public Right of Way 
+(PROW); and 
+3.11.50 
+CTMP 
+APL 
+Highway 
+Authority, 
+CCS and 
+NRW 
+Main 
+contractor 
+T05 
+Embedded 
+A Construction Staff Traffic Plan (CSTP) to minimise the level of 
+single occupancy car use by construction staff travelling to/from 
+the site. 
+3.11.50 
+CSTP 
+APL 
+Highway 
+Authority, 
+CCS and 
+NRW 
+Main 
+contractor 
+Cultural Heritage and Archaeology 
+CH01 
+Embedded 
+A Written Scheme of Investigation (WSI) will be prepared in 
+advance of construction commencing. A watching brief will then be 
+implemented in accordance with WSI during construction for any 
+works associated with ground disturbance. 
+3.11.59 
+WSI 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+CH02 
+Additional 
+In the event that the watching brief reveals archaeological 
+remains, sufficient time and resources will be allowed to ensure 
+that these are adequately excavated, recorded and removed, and 
+for samples to be taken if appropriate. Provision will also be made 
+for post-excavation analysis and, if appropriate, publication of the 
+results. 
+13.8.10  
+WSI 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+Other Effects Considered 
+OE01 
+Embedded  
+The Outline CEMP includes a section on Site Waste Management, 
+which will encourage reuse and recycling of waste before disposal 
+in accordance with the waste hierarchy. 
+3.11.60 
+CEMP 
+APL/ Main 
+contractor 
+CCS 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.22 
+ 
+Table A. 2 Operation Mitigation Register 
+Ref 
+No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Operational Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+Air Quality 
+AQ05 
+Embedded 
+The Generating Equipment will be designed to comply with 
+Industrial Emissions Directive (IED) emission limits. In addition the 
+stack sensitivity assessment (Appendix 6.2 of the PEIR) has 
+demonstrated that a minimum stack height of 35 m is appropriate 
+to ensure the adequate dispersal of pollutants to ensure that no 
+harm is caused. 
+3.11.15 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+AQ06 
+Embedded 
+The Project will require an Environmental Permit to operate, and 
+monitoring the performance of the Generating Equipment against 
+the permit conditions will be the responsibility of NRW. The 
+performance of the emissions control will require monitoring by 
+stack emissions testing throughout operation and the Generating 
+Equipment will be ‘fine-tuned' so as to ensure that limits are not 
+exceeded. 
+3.11.16 
+EMS 
+The operator 
+NRW 
+The 
+operator 
+AQ07 
+Embedded 
+The operation of the Project will not require a significant onsite 
+workforce. Visits by service/maintenance vehicles etc. will occur 
+on average once every year. Nevertheless, an outline Travel Plan 
+will be been prepared to ensure that any impacts on traffic (and by 
+definition roadside air quality) are minimised. 
+3.11.17 
+Travel Plan 
+APL 
+Highway 
+Authority, 
+CCS and 
+NRW 
+The 
+operator 
+Noise 
+ 
+N11 
+Embedded 
+The selection of the Project Site and development of the indicative 
+concept layout have already included consideration of potential 
+noise effects and proximity to NSRs, with Generating Equipment 
+being located as close to the existing electrical infrastructure as 
+possible and as far from the NSRs as practicable.   
+3.11.26 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.23 
+ 
+Ref 
+No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Operational Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+N12 
+Embedded 
+Other measures with regards to noise and vibration during 
+operation, to be incorporated into the design include: 
+ 
+The Gas Turbine Generator and major compressors are to be 
+housed in acoustic enclosures. In addition, these will be 
+housed within secondary acoustic enclosures specified at 75 
+dB(A) Sound Pressure Level at 1 m. 
+ 
+Gas turbine air inlet filter and ventilation apertures are to be 
+fitted with silencers, and designed such that all sensitive 
+noise receptors benefit from screening and/or directivity 
+corrections. 
+ 
+Silencers are to be fitted in the exhaust stack. Due to the 
+impracticality of screening stack noise, discharge noise will be 
+controlled using these silencers, which will be tuned to 
+attenuate low frequencies from the Gas Turbine Generator 
+exhausts. 
+ 
+All plant items will be controlled to minimise noise of an 
+impulsive or tonal nature. 
+ 
+Noise breakout from the stack will be controlled using 
+silencers. To achieve the predicted noise levels used in this 
+assessment, noise from the top of the stacks should not 
+exceed the maximum octave band sound power levels 
+identified in Table 7-8 of Chapter 7 of PEIR. 
+3.11.27 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+N13 
+Embedded 
+During the detailed design stage, options to mitigate potential 
+significant residual noise effects by design will be further explored. 
+3.11.28 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+N14 
+Embedded 
+Several options for configuration and suppliers of the Generation 
+Equipment are under consideration. Preliminary modelling has 
+shown that options are available that are capable of meeting the 
+threshold noise levels. 
+3.11.29 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.24 
+ 
+Ref 
+No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Operational Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+N15 
+Embedded 
+The Project would operate in accordance with an Environmental 
+Permit issued and regulated by the NRW. This would require 
+operational noise from the Generating Equipment to be controlled 
+through the use of BAT, which would be determined through the 
+Environmental Permit application. 
+3.11.30 
+Environmental 
+Management 
+System (EMS) 
+The operator 
+Relevant 
+certificatio
+n bodies 
+The 
+operator 
+N16 
+Embedded 
+If any non-normal and/or emergency operations were to lead to 
+noise levels in excess of the agreed limits specified in the DCO 
+Requirements, the operator will inform the local authority and local 
+residents of the reasons for these operations, the anticipated 
+emergency period and the steps to be taken to bring it back to 
+compliance. 
+3.11.31 
+EMS 
+The operator 
+Relevant 
+certificatio
+n bodies 
+The 
+operator 
+Ecology 
+E27 
+Embedded 
+The stack has been designed to minimise impacts from emissions 
+during operation, which includes minimising deposition which that 
+could affect ecological receptors. 
+3.11.35 
+N/A 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+E28 
+Additional 
+Protected Species 
+The mitigation for partial underground cable or pipework 
+replacement or repairs will follow best practice and any intrusive 
+works will only commence after consultation with an ecologist to 
+assess whether there are any impacts associated with the work.  
+Management of newly created habitats or compensatory features 
+will be detailed in the Ecological Management Plan and will be 
+designed to minimise disturbance or adverse effects on protected 
+and/or priority species, such as avoiding vegetation management 
+during nesting bird season, and cutting grass and scrub within the 
+reptile receptor area to a height of no less than 150 mm.  
+8.8.39 to 
+8.8.40 
+Ecology 
+Management 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.25 
+ 
+Ref 
+No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Operational Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+E29 
+Additional 
+Bats 
+The lighting should utilise warm light luminaire such as yellow or 
+amber LED.  White LED lamps have a broad spectrum of light with 
+whilst yellow and amber LED lamps each have a specific, narrower 
+spectrum and have peak wavelengths between 590 and 660 nm, 
+which is less attractive to invertebrates.  This in turn will reduce the 
+number of bats that will be attracted to feed and be open to 
+predation through increased visibility. 
+8.8.41 
+Lighting 
+Strategy 
+APL 
+CCS and 
+NRW 
+Main 
+contractor 
+E30 
+Additional 
+Protected Mammals 
+Any new fencing will continue to allow the movement of otters and 
+badger across the Project Site through the inclusion of badger 
+gates or large gaps between the bottom of the fence and the 
+ground. Speed limits on the Access Road will be enforced to help 
+reduce the likelihood of any traffic mortalities or collisions. 
+8.8.42  
+Ecology 
+Management 
+Plan / Travel 
+Plan 
+APL/ Main 
+contractor 
+CCS and 
+NRW 
+Main 
+contractor 
+Water Quality and Resources 
+WQ11 
+Embedded 
+Adaptation of different platform levels at the locations of key 
+elements of the Project development. In line with this, the ground 
+level of the Welsh Water main easement area will be retained at 
+the existing level in order to provide a path for any flood water to 
+pass through the Project Site, thereby avoiding the elevated Power 
+Generation Plant (PGP) areas – with the PGP finished floor level to 
+be raised by approximately 150 millimetres (mm) above the site 
+road crown level while keeping the plant plinths at 300 mm above 
+the site level. 
+3.11.42 
+N/A 
+APL 
+- 
+Main 
+contractor 
+WQ12 
+Embedded 
+Provision for all process water (i.e. gas turbine compressor wash 
+water) to be collected in a drain tank removed by road tanker and 
+disposed by an accredited company to a designated treatment 
+facility off-site. 
+3.11.43 
+N/A 
+APL 
+- 
+Main 
+contractor 
+WQ13 
+Embedded 
+The adoption of a single, Open Cycle Gas Turbine PGP with dry 
+low NOx combustion technology will avoid the requirement for 
+large amounts of demineralised water to be supplied for emissions 
+control 
+Table 3.2  
+N/A 
+APL 
+- 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.26 
+ 
+Ref 
+No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Operational Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+WQ14 
+Embedded 
+Creation of new ecological ponds in the construction laydown area 
+and southeast of the Generating Equipment Site (refer to Chapter 
+8 of the PEIR for details). These are additional to those proposed 
+for attenuation of runoff and will mitigate for loss of habitat at the 
+existing ponds in the south-eastern corner of the Generating 
+Equipment Site. 
+9.9.4 
+N/A 
+APL 
+NRW 
+Main 
+contractor 
+Landscape and Visual  
+LV02 
+Embedded 
+Utilising technology (OCGT) will allow a significant reduction in 
+stack height compared to other technology types. As a result of 
+selecting OCGT technology, there will be no visible plume arising 
+from the stack. The high temperature of the exhaust gases means 
+that water vapour is well above the condensation point which 
+would give rise to a visible plume.  The minimum height of the 
+stack is 35m in order to ensure the adequate dispersal of 
+pollutants. 
+3.11.51 
+N/A 
+APL 
+- 
+Main 
+contractor 
+LV03 
+Embedded 
+The architectural design of the buildings and structures on the 
+Project Site has been designed to reduce glare and to assimilate 
+the Project into the surrounding landscape as much as possible by 
+using neutral recessive colours to lessen the contrast with the 
+surrounding landscape and break up the overall massing of the 
+large scale structures. 
+3.11.53 
+N/A 
+APL 
+- 
+Main 
+contractor 
+LV04 
+Embedded 
+External lighting has been designed to reduce trespass and 
+configured to avoid glare and spillage. Details will be provided in 
+the Outline Lighting Strategy to be submitted as part of the DCO 
+Application and undertaken in accordance with the Institution of 
+Lighting Professionals Guidelines (Ref. A.9). 
+3.11.54 
+Outline Lighting 
+Strategy 
+APL 
+- 
+Main 
+contractor 
+LV05 
+Embedded 
+An outline landscape mitigation strategy has been developed to 
+both provide reinstatement planting as well as to integrate the 
+Project into the landscape and its wider setting. The planting 
+proposals will be developed in accordance with the various utility 
+and service constraints within the site and are presented on 
+Figures 11.10 – 11.12. 
+3.11.55 
+Outline Lighting 
+Strategy 
+APL 
+- 
+Main 
+contractor 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+A.27 
+ 
+Ref 
+No 
+Is Measure 
+Embedded 
+or 
+Additional? 
+Operational Mitigation Measure 
+PEIR 
+Reference 
+Relevant 
+Management 
+Plan 
+Responsibility 
+Preparation 
+Approval 
+Delivery 
+LV05 
+Embedded 
+The landscape proposals will cover a minimum period of five years 
+of monitoring, management and maintenance to ensure the 
+landscape objectives are successfully achieved.  
+3.11.56 
+Outline Lighting 
+Strategy 
+APL 
+- 
+Main 
+contractor 
+Traffic, Transport and Access 
+T06 
+Embedded 
+Whilst any significant mode shift away from the private car is 
+unlikely for the Project - there are likely to be only a maximum of 
+five workers on site at the same time - a Travel Plan will be created 
+specifically targeting employees to decrease the number of 
+vehicles accessing the Project. A range of non-car Initiatives would 
+be implemented to encourage the use of alternative modes of 
+travel to the private car. 
+3.9.10 
+Travel Plan 
+APL 
+Highway 
+Authority, 
+CCS and 
+NRW 
+The 
+operator 
+Abergelli PEIR 2018 – CEMP MITIGATION REGISTER 
+ 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+28 
+ 
+A.2 
+References 
+Ref A.1 IAQM. (2012). Guidance on Air Quality Monitoring in the Vicinity of Demolition and 
+Construction 
+Sites. 
+[Online]. 
+Available: 
+http://www.iaqm.co.uk/wp-
+content/uploads/guidance/monitoring_construction_sites_2012.pdf 
+[Accessed: 30/11/17] 
+Ref A.2 British Standards Institute (BSI). (2014). BS 5228 -1: 2009+ A1:2014. Code of 
+Practice for Noise and Vibration Control on Construction and Open Sites – Part 1: 
+Noise. 
+Ref A.3 Herpetofauna Groups of Britain and Ireland (HGBI) (1998). Evaluating local 
+mitigation/translocation programmes: Maintaining Best Practice and lawful 
+standards. HGBI advisory notes for Amphibian and Reptile Groups (ARGs). HGBI, 
+c/o Froglife, Halesworth. Unpubl. 
+Ref A.4 National Grid. (2014). NGTS 2.20: Oil Containment at Electricity Substations and 
+Other Operational Sites.  
+Ref A.5 CIRIA. (2015). C753: The SUDS [Sustainable Urban Drainage] Manual.BSI. (2012). 
+BS 5837. Trees in Relation to Design, Demolition and Construction – 
+Recommendations.  
+Ref A.6 ILP. (2011). Guidance Notes for the Reduction of Obtrusive Light. [Online]. 
+Available: 
+https://www.theilp.org.uk/resources/free-resources/ilp-guidance-notes/  
+[Accessed: 30/11/17] 
+Ref A.7ILP. (2011). Guidance Notes for the Reduction of Obtrusive Light. [Online]. 
+Available: https://www.theilp.org.uk/resources/free-resources/ilp-guidance-notes/  
+ 
+ 
+ 
+Chalgrove EIA Scoping Report  
+   
+ 
+ 
+ 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+aecom.com   
+ 
+ 
+ 
+ 

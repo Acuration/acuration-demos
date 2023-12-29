@@ -1,0 +1,1285 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report for Drax  
+ 
+May 2022 
+Renewable curtailment 
+and the role of long 
+duration storage 
+ 
+ 
+2 
+Contents 
+ 
+Executive Summary ........................................................................... 3 
+Glossary .............................................................................................. 4 
+1. 
+Curtailment volumes .................................................................. 7 
+Background ..................................................................................................................................................................... 7 
+Wind curtailment volumes ................................................................................................................................................ 8 
+Historical levels of curtailment ......................................................................................................................................... 8 
+Distribution of curtailment ................................................................................................................................................ 9 
+Turn up volumes ............................................................................................................................................................ 11 
+2. 
+The costs of curtailment ........................................................... 13 
+Cost of turning wind plant down ..................................................................................................................................... 13 
+Benefit from policy support not paid .............................................................................................................................. 13 
+Cost of turning generation up ........................................................................................................................................ 14 
+Total cost to consumer .................................................................................................................................................. 15 
+3. 
+CO2 impacts .............................................................................. 16 
+Carbon emissions .......................................................................................................................................................... 16 
+Carbon costs ................................................................................................................................................................. 17 
+4. 
+Example days ........................................................................... 18 
+Average 2020 day ......................................................................................................................................................... 18 
+Average 2021 day ......................................................................................................................................................... 18 
+High curtailment day examples ...................................................................................................................................... 19 
+5. 
+Mitigating the impacts of curtailment .................................... 20 
+Mitigation options ........................................................................................................................................................... 20 
+Long duration storage and Cruachan Expansion ........................................................................................................... 20 
+ 
+ 
+ 
+ 
+ 
+Drax curtailment analysis 
+ 
+ 
+3 
+Executive Summary 
+The curtailment of renewable generation, and in 
+particular wind generation in Scotland, is a 
+significant issue for the GB power sector. When 
+renewable energy is unable to be transported to 
+the final consumer, due to issues such as network 
+constraints, carbon-intensive gas generation 
+typically needs to be turned up to compensate, 
+resulting in higher carbon emissions and higher 
+costs to GB consumers. This report quantifies the 
+level of curtailment across 2020 and 2021, and the 
+cost of this curtailment to GB consumers. It also 
+looks at the role that long duration electricity 
+storage could play in reducing this curtailment. 
+In 2020, there was a total of 3.5TWh of wind 
+generation curtailed due to system constraints in 
+Great Britain. Wind curtailment in 2021 dropped to 2.3TWh due to unusually low levels of wind output and 
+demand bouncing back with the loosening of Covid restrictions. Across 2020 and 2021 this curtailed wind 
+generation would have been enough to power 800,000 homes each year. The decrease in 2021 reversed a 
+general trend of curtailment increasing rapidly over recent years, and with the UK government’s ambition for 
+50GW of offshore wind capacity by 2030, curtailment volumes and the associated costs will increase further 
+unless there is significant investment in transmission infrastructure and system flexibility. 
+This wind curtailment has resulted in a significant cost to GB consumers. The analysis in this report 
+estimates that wind curtailment cost GB consumers £299m in 2020, and £507m in 2021. Cost increases in 
+2021 were mainly due to the impact of high gas prices at the back end of 2021, which saw the costs of 
+turning plant up to compensate for wind curtailment rise dramatically, with costs of over £200m in November 
+2021 alone. 
+Scottish wind represented the vast majority of these curtailment and costs, with 88% of the total wind 
+curtailment volume in 2020-21 and 82% of the associated consumer costs.  
+As the UK government works towards its ambitious carbon reduction targets, the curtailment of generation 
+counteracts these efforts with over 1 million tonnes per year of carbon emissions added due to wind 
+curtailment across 2020-2021. This represents 2.0% of 2020 total power sector emissions, with carbon-
+intensive generation (mainly gas-fired CCGT) turned up to compensate for curtailed wind generation. The 
+average annual cost to society of the additional emissions that result from wind curtailment (carbon 
+appraisal) is calculated at £248m per year across 2020 and 2021. 
+Though there are many options for mitigating these curtailment costs and emissions, large-scale long 
+duration electricity storage is one of the most attractive. In 2020 and 2021, 58% of periods with significant 
+wind curtailment lasted more than 3 hours. This points to the need for longer duration electricity storage, 
+which can store excess renewable generation and discharge the power in later periods, reducing GB’s 
+reliance on gas. 
+Drax’s Cruachan Expansion represents the development of a new pumped storage power station at the 
+existing site, located in the constrained Scotland region – where our analysis shows 82% of wind curtailment 
+costs stemmed from over 2020-21. The expansion would allow the combined Cruachan site to provide 
+around 9 hours of storage capacity if operating at full capacity or longer if some of the units are utilised for 
+system services to the ESO. 
+ 
+• 
+5.8TWh of wind curtailment due to 
+system actions across 2020 and 2021. 
+Enough to power 800,000 homes. 
+• 
+88% of wind curtailment is in Scotland. 
+• 
+£806m of associated consumer costs in 
+2020-2021, with £200m in November 2021 
+alone. 
+• 
+2% of total power sector CO2 emissions 
+are due to this curtailment, the equivalent of 
+500,000 extra cars on the road. 
+ 
+ 
+Drax curtailment analysis 
+ 
+ 
+4 
+Glossary 
+ 
+Balancing Mechanism (BM) 
+Used by the ESO to balance electricity supply and demand in each half hour of the day in real-time. It is 
+used for energy balancing (ensuring GB supply and demand balance) and to ensure all system constraints 
+are satisfied. Units submit bids and offers to deviate from their scheduled generation for each half hour. 
+Bid 
+A bid (in the context of the BM) is a price and volume that a unit submits to the ESO to reduce their output 
+(or increase their demand). Bid prices from supported low-carbon units such as wind are often negative as 
+the unit needs to be paid to turn down to cover its lost support payments. Bids for other units are typically 
+positive as they are willing to pay the ESO to reduce their output, as still receive wholesale revenues and no 
+longer need to pay running costs (such as fuel and carbon).  
+CCGT 
+A Combined Cycle Gas Turbine. These power stations make up the majority of gas-fired generation in Great 
+Britain and are typically more efficient than OCGTs or gas engines. CCGTs can ramp their output up and 
+down and are very active in the BM. 
+CfD 
+Contracts for Difference are a form of low-carbon support first allocated in 2015, which almost all new wind 
+farms receive. Under a CfD, generators are guaranteed a ‘strike price’ for their electricity. Volume that is 
+accepted in the BM is not eligible for a CfD but still receives the wholesale price and any BM revenue. They 
+are administered by the Low Carbon Contracts Company (LCCC). 
+Carbon appraisal price  
+The UK Government has placed a price for greenhouse gas emissions in terms of the monetary value that 
+society places on one tonne of carbon dioxide equivalent. This is different to the carbon price paid by the 
+market, which is driven by the UK ETS and carbon price support. The carbon appraisal price is used in 
+government policy appraisal to allow for an objective and consistent approach to cost-benefit analysis.1 
+Constraint  
+The ESO manages constraints on the transmission system which occur when power cannot be transmitted 
+to the location of demand. This can occur due to a limitation on circuit capacity, or due to system 
+management requirements such as inertia, voltage and stability (not considered for the purposes of this 
+report). This leads to paying units to generate that would otherwise not be required from a pure supply and 
+demand perspective. 
+Curtailment 
+Curtailment occurs when units are required to reduce their output, often in response to system constraints. A 
+typical example is when wind farms in Scotland must turn down as they are producing more electricity than 
+transmission capacity across the English border can carry. Curtailment actions occur through the BM and 
+those that happen for constraint reasons can be identified by an ‘SO-flagged’ bid. 
+Day-ahead price 
+The wholesale price settled in the day-ahead markets which settle a single price (on each exchange) for 
+each hourly period that generators will be paid. This forms the market reference price used for CfD-
+supported intermittent generators. 
+Electrolysers  
+ 
+1 https://www.gov.uk/government/publications/valuing-greenhouse-gas-emissions-in-policy-appraisal/valuation-of-greenhouse-gas-
+emissions-for-policy-appraisal-and-evaluation 
+Drax curtailment analysis 
+ 
+ 
+5 
+Electrolysers use electricity to split water into hydrogen and oxygen – termed ‘green hydrogen’ as fossil fuels 
+are not required (provided the source of the electricity is 100% green). They are currently only in limited 
+commercial operation but are expected to come online in the next decade as hydrogen capacity is rolled out. 
+They could be a potential source of flexible demand for excess wind generation. 
+ESO/SO 
+The Electricity System Operator / System Operator manages the electricity system and is responsible for 
+balancing supply and demand as well as shaping the future energy system. In Great Britain, this role has 
+been performed by National Grid but it has been recently announced that the ESO responsibilities will fall 
+under a new public body to form a new, fully independent ‘Future System Operator’. 
+Flexible generation 
+Units with the capability to respond to fluctuations in the supply or demand of the electricity system (this can 
+also mean responding to system requirements such as voltage). Historically, this has typically been provided 
+by gas-fired power stations but increasingly this role will need to be filled by renewable generation sources 
+including pumped storage. 
+HVDC bootstrap 
+High Voltage Direct Current transmission lines. In the context of Great Britain, these are being built undersea 
+to connect Scotland to sources of demand further south, e.g a proposed 4GW bootstrap from Peterhead to 
+Drax Power Station comprising two cables each stretching 440km along the east coast of Great Britain. 
+Inertia 
+Inertia is the kinetic energy stored in spinning generators that is important for system stability, minimising the 
+impact of sudden changes in frequency. Conventional power stations provide inertia but most renewable 
+sources of generation currently do not, which means that the ESO must carefully manage this constraint as 
+renewable penetration increases. 
+Interconnectors 
+Interconnectors are high voltage cables between countries, enabling excess power to be exported. Great 
+Britain currently has 7.4GW of electricity capacity connecting it to France, Belgium, the Netherlands, 
+Northern Ireland, Norway and the Republic of Ireland with an additional 8.5GW to be operational with the 
+next 5 years2. 
+Large-scale, long duration electricity storage (LLES) 
+According to a recent BEIS call for evidence on LLES3, ‘large-scale’ refers to projects of at least 100MW and 
+‘long duration’ refers to the ability to store and discharge energy for over 4 hours.  
+OCGT 
+Open Cycle Gas Turbine. A less efficient form of gas-fired power than CCGTs, there are only a handful of 
+these operational in the UK. 
+Offer 
+In the context of the BM, an offer is the opposite of a bid. Units submit a volume to increase their generation 
+(or decrease their demand) and a corresponding price. A positive offer price means the unit is being paid for 
+its increase in output. 
+ROC 
+Renewable Obligation Certificates are a form of renewable subsidy that preceded CfDs, which are no longer 
+available to new capacity. Suppliers must purchase these from RO generators so they can demonstrate they 
+ 
+2  
+ 
+3 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1003841/large-scale-long-duration-
+electricity-storage-cfe.pdf 
+Drax curtailment analysis 
+ 
+ 
+6 
+have purchased a sufficient proportion of their electricity from renewable sources. Revenue received by 
+generators through ROCs is typically additional to that received in the various available markets.  
+Scarcity Pricing 
+In the electricity market context, this occurs when the market price escalates above the marginal cost of the 
+marginal unit. This occurs when margins between electricity supply and demand become tight. This was 
+witnessed in the GB market in late 2021 when factors such as low wind generation and plant unavailability 
+led to tight system margins in periods of peak demand. 
+Short duration storage 
+This is typically in the form of lithium-ion batteries with a discharge duration of up to 4 hours. They charge 
+when prices are low and discharge when prices are higher, particularly in frequency markets where rapid 
+response times are required. 
+SO-flag 
+As the System Operator (SO), National Grid takes balancing actions for different reason. Actions that are 
+taken due to transmission constraints are ‘SO-flagged’. 
+Strike price 
+A strike price for a CfD is the guaranteed price that generators will receive for their output on a per MWh 
+basis. This means receiving a top-up payment when the day-ahead price for a period is below the strike 
+price and paying back (indirectly) to the consumer when the opposite is true.  
+Turn down / Turn up 
+In the BM, units bid to turn down and offer to turn up their output. When this report refers to turning up or 
+down, this means having bids or offers accepted in the BM to alter their output in either direction. 
+ 
+ 
+Drax curtailment analysis 
+ 
+ 
+7 
+1. Curtailment volumes 
+Background 
+The Balancing Mechanism (BM) is used by National 
+Grid Electricity System Operator (ESO) to balance 
+electricity supply and demand in each half hour of the 
+day in real-time. Generating units make bids to turn 
+their generation down or offers to turn their 
+generation up. For every half-hourly period, units can 
+submit a price and volume and the product of these is 
+the cost to the ESO (eventually passed on to 
+consumers) of taking that balancing action. 
+As well as balancing supply and demand across the 
+country, the ESO must take account transmission 
+capacity constraints and other system requirements. 
+Transmission capacity constraints often arise when 
+there is too much generation on the system for the 
+network to handle. For example, excess renewable 
+generation in Scotland can mean that the amount of 
+electricity needing to be transported to demand centres in the south exceeds the network’s capacity. 
+If an action is taken in the BM due to transmission constraints or other system stability reasons such as 
+maintaining adequate system inertia, it is given a System Operator (SO) flag. For the purposes of this report, 
+we calculate curtailment as the sum of SO-flagged bid volumes. 
+Figure 1: SO-flagged accepted bid volumes split by technology 
+ 
+In total, Combined Cycle Gas Turbines (CCGTs) and wind plant made up 45% each of SO-flagged bid 
+volumes across 2020-21. Hydroelectric power made up 5% and biomass around 0.1%. All other renewable 
+bid volumes are negligible.  
+ 
+In general, SO-flagged bid volumes were higher in 2020 than in 2021. This is likely due to two main reasons: 
+• 
+Wind output across GB was unusually low in 2021, around 14% lower than in 2020. 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+Total bid volume (TWh)
+Month
+Other
+Biomass
+CCGT
+Coal
+Hydro
+Wind
+Storage
+Gas Recip
+Why does curtailment occur? 
+Energy balancing:  
+• 
+Turn up and down generation to balance 
+overall GB supply and demand  
+• 
+Often required due to uncertainty in wind 
+and demand forecasts 
+• 
+Rarely results in wind curtailment, as more 
+expensive generation will be turned down 
+first 
+System balancing: 
+• 
+Required to resolve transmission network 
+constraints 
+• 
+Or other system stability reasons such as 
+low system inertia or voltage levels 
+• 
+Results in significant volumes of wind 
+curtailment  
+ 
+ 
+Drax curtailment analysis 
+ 
+ 
+8 
+• 
+2020 saw low demand due to Covid restrictions (particularly over the spring-summer period), 
+resulting in higher levels of curtailment. 
+We do not anticipate this trend to continue, and SO-flagged bid volumes are likely to increase year-on-year 
+as more renewables are deployed to the system.  
+Wind curtailment volumes 
+Wind makes up the vast majority of renewable curtailment, representing around 90% across 
+2020-21. Most of the remaining renewable curtailment (SO-flagged accepted bids in the BM) is 
+hydroelectric, much of which is flexible generation, which can be saved for a later period and is 
+not completely lost. As a result, wind curtailment is the focus of this analysis. Much of the existing wind 
+fleet is located in Scotland, and capacity constraints on the network prevent this energy from being 
+transported south (to regions of high demand) during times of high wind output.  
+Figure 2: Total wind curtailment by month, GB and Scotland 
+ 
+As a result of these constraints, and the high proportion of wind plants located in Scotland, Scottish wind 
+made up around 94% of total GB wind curtailment in 2020 and 80% in 2021. Though further expansion and 
+reinforcements of the network are planned over the course of this decade, there are also significant levels of 
+new wind capacity planned in Scotland, with 24.8GW of Scottish offshore wind capacity gaining option 
+agreements in the ScotWind leasing round in January 2022.  
+The curtailed GB wind generation across 2020-21 represented an average of 2.9TWh of wasted electricity 
+per annum, enough energy to power 800,000 households4.  
+Historical levels of curtailment 
+Based on the 2020 and 2021 results, it may appear that there is a downward trend in the levels of wind 
+curtailment over time. However, 2020 was an anomalous year in many ways and the significantly lower 
+levels of electricity demand due to Covid-19 lockdowns (with demand in March 2020 dropping to lowest 
+levels since 19825) meant record curtailment volumes, particularly over the spring and summer lockdowns. In 
+addition, in 2021 there were unusually low levels of wind output (around 14% lower than 2020).  
+ 
+4 Assuming an average household consumption of 3.73MWh per year  
+5 https://reports.electricinsights.co.uk/q1-2020/under-lockdown/#more-78 
+ -
+ 0.1
+ 0.2
+ 0.3
+ 0.4
+ 0.5
+ 0.6
+ 0.7
+ 0.8
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Total wind curtailment (TWh)
+Rest of GB
+Scotland
+2021 wind 
+curtailment: 
+2.3TWh        
+80% in Scotland 
+Enough 
+energy to 
+supply around  
+800,000 
+households 
+2029 wind 
+curtailment: 
+3.5TWh        
+94% in Scotland 
+Drax curtailment analysis 
+ 
+ 
+9 
+Hence, we would not expect this reduction to continue in future. Offshore wind capacity in GB is set to scale 
+up drastically from 10GW in 2020 to meet the new government target of 50GW by 2030. The Scottish 
+government is targeting 11GW by 2030 (increasing from 1GW of existing capacity in 2020)6, and the 
+ScotWind auction in January 20227 exceeded expectations by awarding option agreements to 25GW of 
+Scottish offshore wind projects. The transmission infrastructure investment is expected to lag behind this 
+wind capacity deployment, and there is likely to be a corresponding increase in wind curtailment. National 
+Grid ESO’s modelling shows a significant increase in network constraint costs through to the end of the 
+decade8, and this analysis was produced prior to the government’s new ambitions being announced, which 
+are likely to increase costs further. 
+Looking back at wind curtailment volumes over the past 5 years, there is an upwards trend, with 2021 
+volumes higher than 2017-19 despite the low levels of wind output, due to the increases in installed wind 
+capacity. Overall, there was a total of 11TWh of wind generation curtailed across the 5 years (2.2TWh per 
+year) – enough, on average, to power 590,000 households. 
+Figure 3: Total wind curtailment 2017-21 
+ 
+ 
+Distribution of curtailment 
+To understand the impact that flexible technologies could have, it is useful to examine whether the 
+curtailment volumes were from frequent small events or rarer but high-volume curtailment periods which 
+could not be fully mitigated by, for example, an extra 1GW of storage capacity. 
+ 
+ 
+ 
+6 https://www.gov.scot/news/increased-offshore-wind-ambition-by-2030/ 
+7 https://www.crownestatescotland.com/news/scotwind-offshore-wind-leasing-delivers-major-boost-to-scotlands-net-zero-aspirations 
+8 https://www.nationalgrideso.com/document/194436/download 
+ -
+ 0.5
+ 1.0
+ 1.5
+ 2.0
+ 2.5
+ 3.0
+ 3.5
+ 4.0
+2017
+2018
+2019
+2020
+2021
+Total wind curtailment (TWh)
+Drax curtailment analysis 
+ 
+ 
+10 
+ 
+Figure 4: Distribution of wind curtailment volumes in 2020-21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the periods in 2020-21 where wind curtailment takes place, 49% of these periods see a total curtailment 
+volume of less than 600MW9 (show by the dashed lines on chart above). This means 49% of the curtailment 
+periods could potentially be completely resolved by 600MW of storage or other demand-side flexibility. 
+Similarly, 39% of the total 2020-21 curtailment volume could theoretically have been avoided given 600MW 
+of storage capacity with unlimited duration – this is shown by the shaded area on the chart.  
+However, given that many of these curtailment volumes occur over periods of many consecutive hours, the 
+ability of storage to help mitigate will be dependent on its duration, with longer durations able to provide more 
+potential for curtailment reduction. Below we look at the distribution duration of curtailment periods. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 The proposed capacity of Drax’s Cruachan 2 unit 
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+5,500
+6,000
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Wind curtailment volume (MW)
+Cumulative proportion of hours
+Drax curtailment analysis 
+ 
+ 
+11 
+ 
+Figure 5: Hours of consecutive wind curtailment of more than 100MW in 2020-21 
+ 
+More than half (58%) of consecutive periods of significant wind curtailment (defined here as at least 100MW 
+of curtailment) lasted for more than 3 hours, indicating that longer duration storage would hold an advantage 
+in reducing curtailment. 67% of these consecutive wind curtailment periods were for 9 periods or less and 
+74% were for 12 hours or less. 
+However, note that while most periods of consecutive curtailment lasted for less than 9 or 12 hours, the 
+levels of curtailment volume – and therefore volume that could potentially be utilised by storage – was 
+significantly higher as the length of curtailment events increases.  
+Turn-up volumes  
+When turning down wind generation to relieve transmission constraints or for other system stability issues, 
+an equivalent volume of generation must be turned up elsewhere. In many instances this means that wind 
+generation must be turned down in certain locations and high-carbon gas generation must be turned up in 
+other locations.  
+It is not possible in the historic data to directly match which generation is turned up to compensate for the 
+wind generation turned down, so instead we look at the average technology mix of SO-flagged accepted 
+offers (i.e. turn-up actions) and apply this to the wind bid volumes. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Number of instances
+Periods of consecutive curtailment >100MW
+Drax curtailment analysis 
+ 
+ 
+12 
+Figure 6: SO-flagged accepted offer volumes split by technology 
+ 
+As shown on the chart above, the vast majority (94%) of SO-flagged turn-up volumes in the BM in 2020-
+2021 were from CCGTs (i.e. gas generation). In what follows, we assume the generation turned up to offset 
+the wind volumes curtailed has the same distribution as the SO-flagged accepted offer volumes (matched on 
+an individual period by period basis), allowing an estimate of the costs and emissions associated with these 
+actions.  
+ 
+ 
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+Total offer volume (TWh)
+Month
+Other
+Biomass
+CCGT
+Coal
+OCGT
+Hydro
+Wind
+Storage
+Gas Recip
+Drax curtailment analysis 
+ 
+ 
+13 
+2. The costs of curtailment 
+The consumer costs of curtailing wind can be broken down into the cost of turning wind plant down (bid 
+costs), the consumer benefit arising from the non-payment of low-carbon support payments to curtailed wind 
+plant, and the cost of paying generation to turn-up (offer costs) to replace the lost wind generation. In this 
+section we quantify each of these components in turn, and then calculate the total consumer cost of wind 
+curtailment across 2020 and 2021. 
+Cost of turning wind plant down 
+The costs of turning wind down have been calculated at a unit level based on the bid prices multiplied by 
+corresponding bid volumes for SO-flagged accepted wind bids. Wind bids are typically at negative prices – 
+meaning they are paid to turn down – as wind plant need to recover their lost support payments (more on 
+this in the next section). This means that wind turning down results in a net cost to the ESO and ultimately to 
+the consumer. 
+ 
+Figure 7: Costs of SO-flagged accepted bids from wind 
+ 
+ 
+The total cost of paying wind plant to turn down was £402m across 2020-21. This roughly follows the same 
+pattern as wind curtailment volumes in Figure 2, but with the average bid cost per MWh reducing in 2021. In 
+the high price periods experienced in 2021, we see some CfD-supported wind plant in fact paying the ESO 
+to turn down (e.g. a positive bid price), in order to avoid their CfD repayment in periods where the day-ahead 
+price exceeds their strike price. 
+ 
+Benefit from policy support not paid 
+When wind plants are turned down in the BM, they lose their policy support payment, which are paid based 
+on actual output. This represents an avoided payment to the consumer. For large-scale wind plant, this will 
+either be in the form of a ROC or a CfD: 
+• 
+ROC – the entire support payment is not paid, resulting in a reduction in the cost to consumers 
+(relative to a situation where the curtailment had not occurred) 
+• 
+CfD – the ‘top-up’ to the strike price is not paid, again resulting in a reduction in the cost to 
+consumers (relative to a situation where the curtailment had not occurred). However, in situations 
+where the day-ahead price is greater than the strike price (which occurred more frequently in late 
+0
+10
+20
+30
+40
+50
+60
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Cost of flagged wind bids, £m
+2020 total: 
+£261m 
+2021 total: 
+£141m 
+Drax curtailment analysis 
+ 
+ 
+14 
+2021), generators have to pay-back (rather than being topped up), and if they are turned down in the 
+BM they avoid making this payment. Therefore, we have seen wind plant bidding at positive levels 
+during higher price periods. 
+As a result of the above dynamics, wind plant typically allow for any lost ROC or CfD support payments in 
+their bids, which means they are often negative. In calculating the costs to consumers due to wind 
+curtailment, we have taken into account the avoided consumer cost of support payments. This reduces the 
+net cost to consumers of curtailing wind, as seen below. 
+ 
+Figure 8: Impact of policy support on consumer costs 
+ 
+With the policy support lost by wind generators netted off from the cost of turning the plant down (bid costs), 
+the net cost to consumers was £181m across 2020 and 2021.  
+Cost of turning generation up  
+Given that we don’t know exactly which turn-up actions relate to wind turn-downs, we assume in our analysis 
+that all offers to match wind bids are from the volume-weighted average generation mix of all SO-flagged 
+offers (see Figure 6). This weighted average technology mix has been applied to the volume-weighted 
+average of SO-flagged offer prices in the BM for each half hour. Multiplying these prices by the total wind 
+curtailment volume in each half hour gives an estimate of the total cost of paying units to turn up. 
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Impact of policy costs, £m
+Month
+Bid costs
+Lost policy support
+Net bid costs
+2020 Net 
+Cost: £103m 
+2021 Net 
+Cost: £78m 
+ 
+Drax curtailment analysis 
+ 
+ 
+15 
+Figure 9: Estimated costs of turning plant up to compensate for wind curtailment 
+ 
+ 
+The costs of generation turn ups (offer costs) increased significantly in late 2021, with costs in November 
+2021 alone reaching over £180m. This is a result of high offers prices in the BM due to very high gas prices 
+and scarcity pricing in a tight system (with some accepted BM offers as high as £4,000/MWh). 
+Total cost to consumer 
+Adding together the three elements outlined above – the bid costs of turning plant down, the policy support 
+payments no longer paid to generators and the offer costs of turning plant up – we can estimate the total 
+cost to consumers due to wind curtailment across 2020 and 2021. 
+ 
+Figure 10: Total consumer costs due to GB wind curtailments 
+ 
+In total, the cost to consumers due to wind curtailments across 2020 and 2021 was £806m, with an increase 
+of 70% from 2020 to 2021 due to the higher costs of turning up generation. With gas prices remaining high in 
+2022, and wind curtailment forecast to increase, these higher costs are likely to continue.  
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Estimated offer costs of wind 
+curtailment, £m
+Month
+0
+50
+100
+150
+200
+250
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Total consumer cost, £m
+Month
+2020 Offer 
+Cost: £196m 
+2021 Offer 
+Cost: £429m 
+2020 Total 
+Cost: £299m 
+2021 Total 
+Cost: £507m 
+Drax curtailment analysis 
+ 
+ 
+16 
+This cost is the equivalent to an additional £15 from every GB household per year (though the costs will be 
+spread amongst domestic, commercial and industrial consumers, meaning domestic households’ direct 
+share will be around £5 per year).  
+ 
+Figure 11: Total consumer costs due to Scottish wind curtailment 
+ 
+The total cost of Scottish wind curtailment comes to £663m across 2020 and 2021, which constitutes 82% of 
+the total cost of wind curtailment. This illustrates the need for flexible technologies in Scotland specifically. 
+ 
+3. CO2 impacts 
+The majority of turn up actions made to replace the curtailed wind are currently provided by CCGTs (i.e. gas 
+generation), which represent the dominant source of flexible generation in the current system. This means, in 
+addition to the consumer costs outlined in the previous section, zero-carbon wind generation is being 
+replaced with unabated fossil fuel generation, increasing CO2 emissions. In this section we quantify this 
+impact. 
+Carbon emissions 
+Assuming as before that wind curtailment is met by a weighted average of all SO-flagged offer volumes, we 
+then apply an assumption for the carbon intensity of the generation turned up in each period. CCGTs, which 
+make up the vast majority of the turn up volumes (see Figure 6), have an average carbon intensity of around 
+360gCO2e/kWh. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Consumer cost, £m
+Month
+2020 Total 
+Cost: £281m
+2021 Total 
+Cost: £382m
+Drax curtailment analysis 
+ 
+ 
+17 
+Figure 12: Total carbon emissions resulting from generation turned-up to replace wind curtailment 
+ 
+ 
+ 
+ 
+ 
+ 
+Wind curtailment resulted in an additional 1.02 Million tonnes (Mt) of CO2 equivalent emissions per year 
+across 2020 and 2021. This represents the equivalent of an additional 497,000 cars on the road10, or 2.0% of 
+total 2020 power sector emissions (50.1 Mt, the latest year full figures are available for11).  
+ 
+Carbon costs 
+BEIS have published an appraisal price for carbon emissions of £241/tCO2e for 202012, increasing each year 
+into the future. The appraisal price represents the price that carbon emissions would need to be priced at to 
+achieve decarbonisation targets, and is the value recommended in carbon policy appraisal and evaluation. It 
+allows us to calculate an average annual cost to society of the additional emissions that result from wind 
+curtailment. This cost equates to £248m per year across 2020 and 2021. 
+ 
+ 
+ 
+ 
+ 
+10 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1040514/env0201.ods 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077409/veh0101.ods 
+  
+ 
+11 https://www.gov.uk/government/statistics/final-uk-greenhouse-gas-emissions-national-statistics-1990-to-2020 
+12 https://www.gov.uk/government/publications/valuing-greenhouse-gas-emissions-in-policy-appraisal 
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+Jan-20
+Feb-20
+Mar-20
+Apr-20
+May-20
+Jun-20
+Jul-20
+Aug-20
+Sep-20
+Oct-20
+Nov-20
+Dec-20
+Jan-21
+Feb-21
+Mar-21
+Apr-21
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Carbon emissions added
+(millions of tonnes of CO2e) 
+Month
+2020:        
+1.24 MtCO2e
+2021:        
+0.81 MtCO2e
+Average 
+carbon 
+emissions 
+per year: 
+1.02 MtCO2e 
+Equivalent 
+of an extra 
+497,000 
+cars on the 
+road 
+2.0% of total 
+power sector 
+emissions in 
+2020 
+Drax curtailment analysis 
+ 
+ 
+18 
+4. Example days 
+Having looked at the aggregate figures across 2020 and 2021, this section drills down to individual days to 
+examine intraday patterns of curtailment. 
+Average 2020 day 
+Figure 13: Average wind curtailment costs and volumes by period on average in 2020 
+ 
+In 2020, the shape of net consumer cost follows the shape of wind curtailment volume very closely. We see 
+a peak in curtailment volume overnight when demand is at its lowest. 
+Average 2021 day 
+Figure 14: Average wind curtailment costs and volumes by period on average in 2021 
+ 
+0
+50
+100
+150
+200
+250
+300
+350
+0
+5
+10
+15
+20
+25
+30
+1
+3
+5
+7
+9
+11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+Curtailment volume, MWh
+Cost of wind curtailment, £ 000
+Period
+Bid costs (net of policy support)
+Offer costs
+Curtailment volume
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+1
+3
+5
+7
+9
+11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+Curtailment volume, MWh
+Cost of wind curtailment, £ 000
+Period
+Bid costs (net of policy support)
+Offer costs
+Curtailment volume
+Drax curtailment analysis 
+ 
+ 
+19 
+The average day in 2021 shows a stark contrast to 2020. The highest costs fall in the peak demand hours of 
+the day despite this being when wind curtailment volumes are lowest on average. Offer costs (i.e. the costs 
+of turning up generation to replace the curtailed wind) represent a much larger proportion. This is due to the 
+high prices experienced towards the back end of 2021, particularly over the evening peak, and this led to the 
+extremely high offer costs seen above. 
+High curtailment day examples 
+Figure 15: Wind curtailment costs and volumes on 3rd February 2020 
+ 
+3rd February 2020 sees a total consumer cost of £4.2m. There is wind curtailment in every period of the day, 
+ranging from around 550MWh in the first every half-hour period of the day to over 1600MWh. The 
+curtailment costs follow the shape of curtailment volume closely, with a peak in the early morning and again 
+in the late evening when demand is low. The periods of peak demand around 6-7pm see a drop in wind 
+curtailment but this is still well above the average level from Figure 13. 
+Figure 16: Wind curtailment costs and volumes on 14th November 2021 
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+0
+20
+40
+60
+80
+100
+120
+140
+1
+3
+5
+7
+9
+11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+Curtailment volume, MWh
+Cost of wind curtailment, £ 000
+Period
+Bid costs (net of policy support)
+Offer costs
+Curtailment volume
+0
+200
+400
+600
+800
+1000
+1200
+1400
+0
+100
+200
+300
+400
+500
+600
+700
+1
+3
+5
+7
+9
+11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+Curtailment volume, MWh
+Cost of wind curtailment, £ 000
+Period
+Bid costs (net of policy support)
+Offer costs
+Curtailment volume
+Drax curtailment analysis 
+ 
+ 
+20 
+This day in November highlights the impact of high power prices seen in late 2021. As CCGTs make up the 
+majority of offer volume, the costs of curtailing wind is subject to high gas prices which can drastically 
+increase consumer costs across the day. Over the evening peak, costs are particularly extreme, due to the 
+high scarcity pricing seen in the power market in late 2021. Costs over this 5pm-7pm peak period average 
+over £450 per MWh of wind curtailed. Compared to 2021, the level of wind curtailment here is not as high as 
+the sample day in 2020 yet the total consumer cost comes to £10.6m, almost twice that of our 2020 day. 
+ 
+5. Mitigating the impacts of curtailment 
+Mitigation options 
+There are a number of potential ways in which wind curtailment and the associated costs identified in this 
+report could be mitigated: 
+• 
+Network reinforcements. Major reinforcements (such as HVDC bootstraps) are planned to 
+increase the amount of power that can flow from Scotland to England. However, with the long lead 
+times currently required and the pace of renewable deployment, other solutions are likely to be 
+needed.   
+• 
+Short duration storage. Storage technologies such as lithium-ion batteries can charge when there 
+is excess renewable generation and discharge when there is no excess, typically offsetting gas 
+generation in the discharge period. This has the potential to reduce overall curtailment and costs, 
+and there is already a large amount of battery storage capacity in the pipeline, with around 3.3GW 
+clearing in the 2022 T-4 capacity auction13. However, as seen in the analysis, many of the periods 
+of curtailment last for long periods (58% last longer than 3 hours), which will limit the effectiveness 
+of shorter duration storage in reducing wind curtailment. 
+• 
+Long duration storage. Like short duration storage, longer duration storage can store energy 
+when there is excess renewable energy and then release this energy back to the grid when there is 
+no excess, typically reducing gas usage in the discharge period. However, longer duration storage 
+has the advantage of being able to “charge” for many more consecutive periods, and therefore can 
+be more effective given the long periods of consecutive hours of curtailment observed across 2020 
+and 2021 (which are likely to only increase going forwards). 
+• 
+Demand side flexibility. Being able to shift demand to a different time of day (when wind is high) 
+could help mitigate wind curtailment. Currently most demand is relatively inflexible, but it will be 
+important for new demand sources such as electric vehicles and heat pumps to provide much more 
+flexibility. 
+• 
+Additional demand sources. Locating new sources of demand in constrained regions can also 
+help reduce curtailment. This includes electrolysers, which can use the excess renewable 
+generation to create green hydrogen. Electrolysers are not currently in full commercial operation, 
+though are expected to come online this decade, with the new government energy security strategy 
+targeting 5GW by 2030. 
+• 
+Interconnector exports. Interconnectors to other markets can allow GB to export when there is 
+excess renewable generation and import when there is not. The effectiveness of this in reducing 
+wind curtailment relies on the generation patterns in the connected market not being highly 
+correlated with GB’s, which is why a hydro-dominated market like Norway is particularly attractive.  
+  
+Long duration storage and Cruachan Expansion 
+Though all of the mitigations outlined above have potential (and can be deployed in parallel), long duration 
+storage is particularly attractive. As shown below, unlike periods of low demand, periods of high wind often 
+ 
+13 https://www.current-news.co.uk/news/t-4-capacity-market-clears-at-record-high-of-30-59-kw-year-marking-watershed-moment 
+Drax curtailment analysis 
+ 
+ 
+21 
+last for 8, 12, 24 or more consecutive hours. As we move forward and renewable penetration increases, 
+periods of high wind will increasingly result in wind generation curtailment. 
+Figure 17: Drivers of periods of wind curtailment (2010-2020 GB data) 
+ 
+This reinforces what has already been highlighted in earlier sections of this report - that wind curtailment in 
+GB often occurs across long consecutive periods, and this is likely to become even more of a feature as 
+wind penetration increases. 
+It is important to note that while long duration storage can play a key role, this does not necessarily mean 
+that all of the costs of curtailment can be avoided. While the ESO does not have to pay wind to turn down 
+when that energy is stored, the costs of paying plant to turn up elsewhere in the country are still incurred. 
+However, when storage discharges in other periods it is likely to displace expensive carbon-intensive 
+generation such as CCGTs, though there is a round-trip efficiency loss in utilising the storage. Overall, the 
+cost savings to the consumer as a result of long duration storage are likely to be similar to the costs we have 
+calculated in the curtailment periods (excluding the payments made to the long duration storage itself), and 
+the carbon saved is also likely to be similar. 
+Despite the potential benefits, there are currently only limited numbers of long duration storage plant in 
+commercial operation or planned. Though many new technologies show promise, pumped storage hydro 
+represents the most established and commercially viable large-scale long duration electricity storage 
+technology. These projects have their own challenges. They require a suitable physical site to keep costs 
+down and have long construction lead times. This lack of locational flexibility means the sites may not always 
+correspond with where the system most needs flexibility to reduce curtailment. 
+Drax’s Cruachan Expansion project overcomes many of these potential hurdles. It will provide an additional 
+600MW of capacity to the existing Cruachan pumped storage scheme. As much of the current Cruachan 
+capacity (440MW) is utilised providing system services, the additional capacity can allow the site to maximise 
+its potential in reducing wind curtailment costs by operating as long duration storage, with the expanded 
+Cruachan pumped storage hydro station providing around 9 hours of storage capacity if operating at full 
+capacity or longer if some of the units are utilised for system services to the Grid.  
+Cruachan is located in the constrained Scottish region, where our analysis shows 82% of 2020-21 wind 
+curtailment costs stem from. It can be deployed by 2030, enabling it to support interim climate and 
+renewables generation targets for both Scotland and the UK.  
+However, projects such as Drax’s Cruachan Expansion, face significant investment barriers to deployment. 
+As identified in a recent UK Government call for evidence on large-scale, long-duration electricity storage,14 
+ 
+14 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1003841/large-scale-long-duration-
+electricity-storage-cfe.pdf  
+0
+4
+8
+12
+16
+20
+24
+28
+32
+36
+40
+44
+Frequency
+Length of low demand event, hours
+Extreme demand streaks, lowest 10%
+0
+4
+8
+12 16 20 24 28 32 36 40 44 48
+Frequency
+Length of high wind event, hours
+Extreme wind streaks, highest 10%
+Drax curtailment analysis 
+ 
+ 
+22 
+intervention in the market is likely to be required to support investment in these technologies. The lack of a 
+framework for these technologies means that private investment is very difficult to secure for new pumped 
+storage hydro (and other LLES) projects, with no new plants built anywhere in the UK since 1984. As the 
+deployment of offshore wind continues at pace to meet the UK government’s target of 50GW of offshore 
+wind by 2030, curtailment volumes and costs will continue to increase unless the UK government addresses 
+these investment barriers. Project developers currently await the outcome of the call for evidence with a 
+hope that it will address these investment barriers to facilitate the deployment of projects such as Drax’s 
+Cruachan Expansion.  
+ 
+ 
+ 
+ 
+1 
+LCP’s energy analytics team provides market leading modelling and analysis for the GB and 
+Ireland power sectors. We use innovative technology to give you real time insight & control.  
+Lane Clark & Peacock LLP  
+London, UK  
+Tel: +44 (0)20 7439 2266  
+enquiries@lcp.uk.com 
+Lane Clark & Peacock LLP  
+Winchester, UK  
+Tel: +44 (0)1962 870060 
+enquiries@lcp.uk.com 
+Lane Clark & Peacock Ireland Limited 
+Dublin, Ireland  
+Tel: +353 (0)1 614 43 93 
+enquiries@lcpireland.com 
+Lane Clark & Peacock Netherlands B.V. 
+(operating under licence) 
+Utrecht, Netherlands 
+Tel: +31 (0)30 256 76 30  
+info@lcpnl.com 
+ 
+ 
+ 
+ 
+ 
+ 
+All rights to this document are reserved to Lane Clark & Peacock LLP. We accept no liability to anyone to whom this document has been provided (with or without our consent). 
+Nothing in this document constitutes advice.  The contents of this document and any questionnaires or supporting material provided as part of this tender submission are confidential. 
+ 
+Lane Clark & Peacock LLP is a limited liability partnership registered in England and Wales with registered number OC301436. All partners are members of Lane Clark & Peacock 
+LLP. A list of members’ names is available for inspection at 95 Wigmore Street, London W1U 1DQ, the firm’s principal place of business and registered office. The firm is regulated 
+by the Institute and Faculty of Actuaries in respect of a range of investment business activities. The firm is not authorised under the Financial Services and Markets Act 2000 but we 
+are able in certain circumstances to offer a limited range of investment services to clients because we are licensed by the Institute and Faculty of Actuaries. We can provide these 
+investment services if they are an incidental part of the professional services we have been engaged to provide. 
+  
+© Lane Clark & Peacock LLP 2022 
+Chris Matson 
+Partner 
+chris.matson@lcp.uk.com  
++44 (0)20 7432 0674 
+Contact us 
+James Knighton 
+Consultant 
+james.knighton@lcp.uk.com  
++44 (0)20 3824 7296 

@@ -1,0 +1,913 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station 
+Order 
+ 
+6.2 Environmental Statement Appendices - Volume M 
+EMF Report 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+6.2 
+Regulation Number: 
+ 
+ 
+5(2)(a) & Infrastructure 
+Planning (Environmental Impact 
+Assessment) Regulations 2009 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018  
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 15.1
+Infrastructure EMF Assessment
+ 
+ 
+APRIL 2018 
+PUBLIC 
+ 
+Drax Group Plc 
+ABERGELLI POWER PLANT 
+Infrastructure EMF Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drax Group Plc 
+ABERGELLI POWER PLANT 
+Infrastructure EMF Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+TYPE OF DOCUMENT (FINAL) PUBLIC 
+ 
+PROJECT NO. 70034503 
+PROJECT REF 
+ 
+DATE: APRIL 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WSP 
+Manchester Technology Centre 
+Oxford Road 
+Manchester 
+M1 7ED 
+Phone: +44 161 200 5000 
+Fax: +44 161 200 5001 
+WSP.com 
+ 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+Drax Group Plc 
+April 2018 
+ 
+ 
+QUALITY CONTROL 
+Issue/revision 
+First issue 
+Revision 1 
+Revision 2 
+Revision 3 
+Remarks 
+Draft 
+“Transformer 
+Compound” used to 
+distinguish site from 
+Swansea North 
+substation. 
+Minor format changes 
+ 
+Date 
+March 2018 
+April 2018 
+5th April 2018 
+ 
+Prepared by 
+Gillian Williamson 
+Liam Veitch 
+Ignacio Martin Garcia 
+ 
+Signature 
+ 
+ 
+ 
+ 
+Checked by 
+Liam Veitch 
+ 
+ 
+ 
+Signature 
+ 
+ 
+ 
+ 
+Authorised by 
+Stephen Elliot 
+ 
+ 
+ 
+Signature 
+ 
+ 
+ 
+ 
+Project number 
+70034503 
+ 
+ 
+ 
+Report number 
+ 
+ 
+ 
+ 
+File reference 
+N/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+Project No.: 70034503 | Our Ref No.: Project REF 
+April 2018 
+Drax Group Plc 
+ 
+CONTENTS 
+1 
+ABBREVIATIONS AND SYNONYMS 
+3 
+2 
+INTRODUCTION 
+5 
+2.1 
+OVERVIEW 
+5 
+3 
+ELECTRIC AND MAGNETIC FIELD EFFECTS 
+7 
+3.1 
+INTRODUCTION TO ELECTROMAGNETIC FIELDS 
+7 
+3.2 
+EMF EXPOSURE GUIDELINES 
+7 
+4 
+APPRAISAL METHODOLOGY 
+9 
+4.1 
+GENERAL 
+9 
+4.2 
+ELECTRIC FIELDS 
+9 
+4.3 
+MAGNETIC FIELDS 
+9 
+4.4 
+BASELINE CONDITIONS 
+9 
+4.5 
+IMPACT APPRAISAL 
+10 
+4.6 
+MITIGATION / BEST PRACTICE 
+11 
+4.7 
+SUMMARY 
+11 
+5 
+REFERENCES 
+12 
+ 
+ 
+TABLES 
+Table 1 – EMF – Summary of the 1998 ICNIRP exposure UK guidelines 
+8 
+Table 2 – EMF – Calculated maximum field strengths due to the existing nearby 400 kV 
+4YW overhead line 
+10 
+Table 3 – EMF – Calculated maximum field strengths 
+11 
+ 
+ 
+WSP 
+ABERGELLI POWER PLANT 
+April 2018 
+ 
+Drax Group Plc 
+FIGURES 
+Figure 1 – Proposed location of the Generating Equipment Site, the Transformer Compound 
+and underground cable circuit 
+6 
+ 
+APPENDICES 
+Appendix A - CALCULATION PARAMETERS 
+ 
+ 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+Project No.: 70034503 | Our Ref No.: Project REF 
+April 2018 
+Drax Group Plc 
+ 
+1 
+ABBREVIATIONS AND SYNONYMS 
+ 
+ 
+ 
+A 
+ampere, measure of electrical current, or ‘load’ 
+ac 
+alternating current 
+ACSR 
+Aluminium conductor steel-reinforced – a type of conductor 
+dc 
+Direct current 
+ELF 
+extremely low frequency 
+EMF 
+electromagnetic fields 
+Hz 
+hertz, measure of frequency 
+ICNIRP 
+International Commission on Non-Ionizing Radiation Protection 
+kV 
+kilovolt = 1,000 volts, measure of electrical “pressure” 
+NRPB 
+UK National Radiological Protection Board 
+SCGT 
+Simple Cycle Gas Turbine 
+WSP 
+Formerly Parsons Brinckerhoff Ltd 
+μT 
+microtesla, a measure of magnetic field strength 
+V/m 
+volts per metre, a measure of electric field strength 
+Zebra 
+Lynx 
+Types of ACSR overhead line conductor used here on the 4YW   
+400 kV line from Swansea to Clifynydd 
+ 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+ 
+April 2018 
+Drax Group Plc 
+Page 5 of 12 
+2 
+INTRODUCTION 
+2.1 
+OVERVIEW 
+2.1.1. 
+This document is the Electrical Infrastructure Electric and Magnetic Fields (EMF) Assessment for the Abergelli 
+Power Project (hereafter referred to as ‘the Project’).  It has been prepared by WSP on behalf of Abergelli 
+Power Ltd. 
+2.1.2. 
+Abergelli Power Ltd is promoting a new Open Cycle Gas Turbine (OCGT) peaking power generating station on 
+rural land at Abergelli Farm, Felindre, near Swansea, Wales.  The Project provisionally includes the following 
+electrical infrastructure, based on a single circuit turn-in connection: 
+ 400 kV transformer compound to be built adjacent to the proposed Generating Equipment Site 
+ One three phase, 400 kV underground cable connection from the transformer compound to a gas-
+insulated switchgear (GIS) bay at National Grid’s Swansea North Substation. 
+2.1.3. 
+Figure 1 shows the proposed location of the transformer compound to be built adjacent to the proposed 
+Generating Equipment Site and the proposed single underground cable radial connection to Swansea North 
+Substation. 
+2.1.4. 
+This report presents an assessment of the changes in EMFs that would result from the development of the 
+new 400 kV electrical infrastructure. 
+2.1.5. 
+It is anticipated that some of the information included within this report will be used within the ‘Other Effects’ 
+Chapter of the Environmental Statement. 
+ 
+WSP 
+ABERGELLI POWER PLANT 
+April 2018 
+Page 6 of 12 
+Drax Group Plc 
+ 
+ 
+Figure 1 – Proposed location of the Generating Equipment Site, the Transformer Compound and 
+underground cable circuit 
+Proposed 400 kV cable 
+connection route from the 
+transformer compound to 
+Swansea North substation 
+Existing 4YW 
+400 kV 
+overhead line 
+Existing 4YU 
+400 kV 
+overhead line 
+Existing  
+Swansea North  
+National Grid Substation 
+Proposed site of 
+the generating 
+equipment and 
+the transformer 
+compound 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+ 
+April 2018 
+Drax Group Plc 
+Page 7 of 12 
+3 
+ELECTRIC AND MAGNETIC FIELD EFFECTS 
+ 
+3.1 
+INTRODUCTION TO ELECTROMAGNETIC FIELDS 
+3.1.1. 
+Electromagnetic Fields (EMFs), and the associated electromagnetic forces, are a fundamental part of the 
+physical world. Their sources are electric charges (source of the electric field) and the movement of those 
+charges (source of the magnetic field). Electromagnetic forces are partly responsible for the cohesion of 
+material substances and they mediate all the processes of chemistry, including those of life itself. EMFs occur 
+naturally within the body in association with nerve and muscle activity. People are also exposed to the natural 
+magnetic field of the Earth (to which a magnetic compass responds) and natural electric fields in the 
+atmosphere.  
+3.1.2. 
+Electric-field strengths are measured in volts per metre (V/m) or kilovolts per metre (kV/m). One kilovolt per 
+metre is one thousand volts per metre. The atmospheric electric field at ground level is normally between 10 – 
+130 V/m in fine weather and may rise to many thousands of volts per metre during thunderstorms. The Earth’s 
+electric field is referred to as static or “dc”. 
+3.1.3. 
+It has become common practice to report magnetic fields in units of microtesla (µT) or nanotesla (nT). One 
+nanotesla is one thousandth of a microtesla. Microtesla is used throughout this chapter. Other units are 
+sometimes quoted, for example milligauss, where 1 milligauss = 0.1 µT. 
+3.1.4. 
+The direction of the Earth’s magnetic field is normally constant, varying in size only slowly over time, and is 
+referred to as a static or “dc” field. The Earth’s magnetic field is approximately 50 µT in the UK. Other fields 
+that alternate in their intensity more frequently over time are referred to as alternating current or “ac” fields. 
+3.1.5. 
+All wiring, equipment, and other conductors connected to the electric power system are sources of ac EMFs 
+with frequencies in the extremely low frequency (ELF) range. In the UK and Europe the fundamental power 
+frequency is 50 Hertz (Hz). AC fields add to (or modulate) the Earth's steady natural fields. The strength (or 
+amplitude) of the electric-field modulation depends on the voltage of the transmission equipment. As the 
+voltage level supplied to power conductors is regulated, the electric field remains more or less constant as 
+long as the equipment is energised. Conversely, the strength of the magnetic-field modulation depends on the 
+current (often referred to as the load) carried by the equipment, which varies according to the demand for 
+power at any given time. 
+3.2 
+EMF EXPOSURE GUIDELINES 
+3.2.1. 
+In the UK, there are presently no statutory regulations to limit the exposure of people to power-frequency 
+electric or magnetic fields. However, in 2004 the National Radiological Protection Board (NRPB) provided 
+advice to Government [ref 1], recommending the adoption in the UK of guidelines published in 1998 by the 
+International Commission on Non-Ionizing Radiation Protection (ICNIRP) [ref 2]. These guidelines are 
+designed to set conservative exposure levels for the general public to 50 Hz electric and magnetic fields, and 
+they are endorsed by Public Health England (formerly the Health Protection Agency, formerly NRPB), the 
+World Health Organisation, and the UK Government. A summary of the 1998 ICNIRP guidelines for general 
+public exposure is provided below in Table 1. 
+ 
+ 
+WSP 
+ABERGELLI POWER PLANT 
+April 2018 
+Page 8 of 12 
+Drax Group Plc 
+ 
+Table 1 – EMF – Summary of the 1998 ICNIRP exposure UK guidelines 
+Basic Restriction 
+1 
+Basic Restriction  
+mA/m2 Induced current density in 
+central nervous system 
+2mA/m2 
+for general public 
+Practical Exposure Measures 
+ 
+ 
+Electric Fields 
+Magnetic Fields 
+ 
+ 
+Public Exposure 
+Public Exposure 
+2 
+Field strengths corresponding to the 
+Basic Restriction 
+9,000 V/m 
+360 µT 
+3 
+Reference Level field strengths, 
+below which no further action is 
+necessary, and above which further 
+investigation may be warranted 
+5,000 V/m 
+100 µT 
+ 
+ 
+3.2.2. 
+Item 1 in Table 1 indicates the ICNIRP ‘Basic Restriction’ which the EU recommend as the maximum current 
+density to be inducted in the central nervous system of an individual [ref 3] . 
+3.2.3. 
+Current density, however, is a quantity that cannot realistically be measured in people, so Public Health 
+England (formerly Health Protection Agency) also provided a second, more practical, guideline for EMF 
+strengths as per item 2 in Table 1 which indicates field strength types that are measurable practically and the 
+values considered to correspond to the ‘Basic Restriction’. 
+3.2.4. 
+Item 3 in Table 1, Reference Level field strengths, are yet more conservative values that would, under all 
+normal circumstances, be expected to induce current densities significantly less than the ‘Basic Restriction’. 
+Research by Dimbylow [ref 4] indicates that, for overhead power lines, the field strengths quoted as 
+corresponding to the ‘Basic Restriction’ (item 2) act as good, if slightly conservative, equivalents to the 1998 
+ICNIRP Basic Restriction for the general public, and for this reason the ‘Basic Restriction’ figures in item 2 of 
+Table 1 are generally considered more relevant to overhead lines than the ‘Reference Level field strengths’ of 
+item 3. 
+3.2.5. 
+The UK has implemented the EU recommendation [ref 3], and has stated that compliance with the general 
+public exposure limits is considered to be required at locations where the public may spend significant time, for 
+example residential buildings, as defined in the UK Voluntary Code of Practice [ref 5]. It is the policy of 
+National Grid to ensure that all new assets comply with public exposure guidelines unless there are 
+exceptional circumstances. 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+ 
+April 2018 
+Drax Group Plc 
+Page 9 of 12 
+4 
+APPRAISAL METHODOLOGY 
+ 
+4.1 
+GENERAL  
+4.1.1. 
+The appraisal methodology has been based upon the industry Code of Practice on Compliance [ref 5] which 
+specifies that compliance should be specifically demonstrated for 400 kV underground cables. Conversely, it 
+recognises that some equipment is inherently compliant with exposure guidelines and appropriate evidence is 
+maintained on the Energy Networks Association (ENA) website1,2. The evidence hosted on the ENA website 
+demonstrates that the transformer compound, which does not include air-cored reactors, is inherently 
+compliant. 
+4.1.2. 
+In this present assessment, electric and magnetic field strengths due to the existing nearby overhead line and 
+proposed underground cable were calculated using standard equations based on fundamental properties. All 
+electric and magnetic fields were calculated based upon guidance outlined in the aforementioned Code of 
+Practice. Accordingly, the calculations of EMF are always referenced to a height of 1 m above ground level. 
+4.1.3. 
+Mention of field strengths later in this document will mean the root-mean-square amplitude of the power-
+frequency modulation of the total field, which is the conventional way of expressing these quantities.  
+4.1.4. 
+The acceptability of the prospective field strengths was judged by comparing the results of the calculations 
+with the appropriate ICNIRP guidelines. 
+4.1.5. 
+High-voltage transmission lines can create, or channel, electromagnetic emissions over a wide range of 
+frequencies, however, this report only considers 50 Hz electromagnetic fields. 
+4.2 
+ELECTRIC FIELDS 
+4.2.1. 
+The electric field due to the transformer compound is inherently compliant with the public exposure limits as 
+discussed in section 4.1. Electric fields diminish within the vicinity of earthed objects and structures. The 
+proposed transformer compound would be surrounded by an earthed metal fence and consequently the 
+electric field outside of this fence would certainly comply with ICNIRP exposure guidelines for the public. 
+4.2.2. 
+There are no external electric fields associated with underground cables as explained in the BICC Electric 
+Cables Handbook [ref 6].  Electric fields associated with underground cable are contained by the sheath of the 
+cable itself. The public would thus not be exposed to electric fields from the proposed underground cables. 
+4.3 
+MAGNETIC FIELDS 
+4.3.1. 
+Some equipment within the transformer compound would produce magnetic fields, but these fields tend to 
+diminish rapidly with increasing distance from the equipment. Magnetic fields outside the transformer 
+compound due to these items of equipment are inherently compliant with public exposure limits, as discussed 
+in section 4.1.  
+4.3.2. 
+There will be a magnetic field due to the underground cable from the cable sealing ends beside the existing 
+overhead line to the proposed transformer compound. 
+4.4 
+BASELINE CONDITIONS 
+4.4.1. 
+The existing 400 kV 4YW overhead line from Swansea to Clifynydd passes close to the route of the cable 
+between the proposed transformer compound and the point of connection at Swansea North substation. The 
+field strengths due to this L6 tower transmission line have been calculated to compare with those associated 
+with the Project. Detailed overhead line parameters are tabulated in Appendix A.  
+4.4.2. 
+The pre-fault continuous current rating of the existing 400 kV 4YW overhead line is 3180 MVA corresponding 
+to 4590 Amps.  
+                                                   
+ 
+ 
+1 http://www.energynetworks.org/electricity/she/emfs.html 
+2 http://www.emfs.info/Related+Issues/limits/UK/compliance 
+ 
+WSP 
+ABERGELLI POWER PLANT 
+April 2018 
+Page 10 of 12 
+Drax Group Plc 
+4.4.3. 
+Table 2 presents the calculated maximum field strengths due to the existing 400 kV 4YW overhead line. These 
+are based upon the surveyed minimum ground clearance (9.4 metres) for the 400 kV conductors in the nearby 
+spans (spans between towers 252-253 and 253-254). The field strengths corresponding to the ICNIRP public 
+exposure basic restriction are also included in the table. It may be seen that the maximum field strengths due 
+to the existing 400 kV 4YW overhead line comply with the basic restriction levels. 
+Table 2 – EMF – Calculated maximum field strengths due to the existing nearby 400 kV 4YW overhead 
+line 
+ 
+Maximum Field Strength at 1m above 
+ground due to existing 400 kV/400 kV 
+4590 A/4590 A 
+L6 overhead line with 
+9.4m ground clearance 
+ 
+ 
+Public Exposure Basic Restriction 
+Electric Field 
+7,731 V/m 
+9,000 V/m 
+Magnetic Field 
+82.3 µT 
+360 µT 
+ 
+4.5 
+IMPACT APPRAISAL 
+4.5.1. 
+The fields due to the transformer compound are inherently compliant. 
+4.5.2. 
+The impact appraisal has included evaluation of the maximum field strengths due to the 400 kV underground 
+cable connection from the transformer compound to National Grid’s Swansea North substation. 
+4.5.3. 
+For the purposes of this appraisal, the calculations have assumed that the current flowing in each phase of the 
+proposed underground cable is 477 Amps. This assumption corresponds to operating at a minimum voltage of 
+380 kV (95% x 400 kV) and the maximum export from the generator which is to be rated at 314 MVA. 
+4.5.4. 
+Detailed parameters including the assumed cable laying arrangement are provided in Appendix A. 
+4.5.5. 
+Calculated maximum field strengths are tabulated in Table 3. 
+4.5.6. 
+Since the proposed underground cable from the transformer compound to National Grid’s Swansea North 
+Substation does not produce an external electric field, the expected maximum electric field strength above the 
+cable will be due to the existing nearby 400 kV 4YW overhead line. 
+4.5.7. 
+The prospective maximum magnetic field strength due to the proposed underground cable circuit from the 
+transformer compound to National Grid’s Swansea North Substation is below the public exposure basic 
+restriction level and is significantly less than that due to the existing 400 kV 4YW line.   
+4.5.8. 
+There is potential for the magnetic field due to the proposed underground cable circuit from the transformer 
+compound to National Grid’s Swansea North substation to add to that of the existing 4YW overhead line 
+because the proposed cable route passes underneath the existing overhead line. These magnetic fields are 
+vectors which vary in magnitude and direction because they come from different sources. The theoretical 
+maximum sum of the fields is calculated by adding the field magnitudes arithmetically corresponding to both 
+fields being totally aligned. The average of the combined fields, corresponding to the fields being at right 
+angles, would be less and calculated as the root sum of the squares of the field magnitudes. Based on the 
+magnetic field values given in Table 3, the maximum sum of the fields is 85.4 µT (82.3 + 3.1) and is below the 
+public exposure basic restriction level. 
+ 
+ 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+ 
+April 2018 
+Drax Group Plc 
+Page 11 of 12 
+Table 3 – EMF – Calculated maximum field strengths 
+ 
+ 
+Electric Field 
+at 1m above ground 
+Magnetic Field 
+at 1m above ground 
+Fields strengths corresponding to 
+1998 ICNIRP Basic restrictions for 
+Public Exposure 
+9,000 V/m 
+360 µT 
+Baseline  
+Maximum Field Strength at 1 m above 
+ground due to existing 400 kV 4YW 
+4590 A / 4590 A 
+L6 overhead line with 
+9.4 m ground clearance 
+7,731 V/m 
+82.3 µT 
+Maximum Field Strength at 1m above 
+ground due to underground cable circuit 
+from the transformer compound to 
+National Grid’s Swansea North 
+substation 
+400 kV 
+477 A  
+(Assumed typical cable lay) 
+- 
+3.1 µT 
+ 
+4.6 
+MITIGATION / BEST PRACTICE 
+4.6.1. 
+Since the calculated prospective maximum electric and magnetic field strengths expected due to the 
+underground cable connection fall within the ICNIRP EMF exposure guidelines, the development designs 
+would be considered to follow best practice for electricity transmission installations as defined in the UK 
+Voluntary Code of Practice [ref 5]. As the proposed development complies with the current public exposure 
+guidelines, EN-5 [ref 7] states that "no further mitigation should be necessary". 
+4.7 
+SUMMARY 
+4.7.1. 
+Although the maximum magnetic field strengths due to the proposed underground cable connection is greater 
+than that due to the existing overhead line running nearby the proposed cable route, it is within nationally and 
+internationally accepted guidelines. 
+4.7.2. 
+The change in the electric and magnetic field strengths due to the establishment of the transformer compound 
+would constitute a ‘Minor’ effect. 
+ 
+ 
+WSP 
+ABERGELLI POWER PLANT 
+April 2018 
+Page 12 of 12 
+Drax Group Plc 
+5 
+REFERENCES 
+ 
+Ref. 1 - NRPB advice to Government:  “Advice on Limiting Exposure to Electromagnetic Fields (0-300 
+GHz)” Documents of the NRPB Volume 15 No 2 2004. 
+ 
+Ref. 2 - ICNIRP guidance:  “Guidelines for limiting exposure to time-varying electric, magnetic, and 
+electromagnetic fields (up to 300 GHz)”. Health Physics April 1998, Volume 74, Number 4:494-522. 
+ 
+Ref. 3 - COUNCIL RECOMMENDATION of 12 July 1999 on the limitation of exposure of the general 
+public to electromagnetic fields (0 Hz to 300 GHz), Official Journal of the European Communities, 
+1999/519/EC. 
+ 
+Ref. 4 - Development of the female voxel phantom, NAOMI, and its application to calculations of induced 
+current densities and electric fields from applied low frequency magnetic and electric fields. Dimbylow P. 
+Phys Med Biol. 2005 Mar 21;50(6):1047-70. Epub 2005 Feb 23. 
+ 
+Ref. 5 - Power Lines: Demonstrating compliance with EMF public exposure guidelines. A Voluntary Code 
+of Practice. Department of Energy & Climate Change March 2012. 
+ 
+Ref. 6 - Electric Cables Handbook, 3rd Edition. BICC Cables, Blackwell Science Ltd, October 1997. 
+Chapter 2 section Electromagnetic Fields. 
+ 
+Ref. 7 – National Policy Statement for Electricity Networks Infrastructure (EN-5), Department of Energy 
+and Climate Control, July 2011. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A 
+CALCULATION PARAMETERS 
+ 
+ 
+ 
+ 
+WSP 
+ABERGELLI POWER PLANT 
+April 2018 
+Project No.: 70034503 | Our Ref No.: DATE 
+ 
+Drax Group Plc 
+Overhead line calculation parameters for the existing 400 kV 4YW overhead line from Swansea to Clifynydd 
+that passes close to the proposed route of the new cable from the transformer compound to the point of 
+connection at National Grid’s Swansea North substation. 
+PARAMETER 
+VALUE 
+Type 
+Overhead line 
+Line Identifier 
+4YW 
+ (Swansea to Clifynydd) 
+Number of Phases/Frequency 
+3 Phases at 50Hz 
+No. of circuits on overhead line 
+2 
+Nominal Voltage  
+400 kV 
+Conductor 
+400 mm2 ACSR Zebra   
+4 per phase (quad bundle 0.305 m bundle separation) 
+Conductor Diameter 
+0.02862m 
+Transposition 
+Transposed (existing) 
+R 
+B 
+Y 
+Y 
+B 
+R 
+Maximum Continuous Current 
+Capacity (per phase per circuit) 
+4590 Amps corresponding to 3180 MVA  pre fault continuous 
+rating 
+Earth Wire Conductor 
+175 mm2 ACSR Lynx 
+Earth Wire Conductor Diameter 
+0.01953 m 
+Tower Construction 
+L6 Double Circuit 
+Tower Dimensions & Conductor 
+Centres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                         Not to scale 
+Minimum Ground Clearance 
+9.4 m (corresponding to span 4YW253-254) 
+ 
+ 
+6.99 m          6.98 m 
+    8.44 m                       8.44 m 
+    10.54 m 
+      9.00 m 
+     9.97 m 
+10.4465 m                      10.4465 m 
+ 
+ABERGELLI POWER PLANT 
+WSP 
+Project No.: 70034503 | Our Ref No.: project number 
+April 2018 
+Drax Group Plc 
+Assumed calculation parameters for the proposed new cable from the transformer compound to the point of 
+connection at National Grid’s Swansea North substation. 
+PARAMETER 
+VALUE 
+Type 
+Cable circuit 
+From the transformer compound to National Grid’s Swansea 
+North substation 
+Number Phases/Frequency 
+3 Phases at 50 Hz 
+Nominal Voltage  
+400 kV 
+Conductor 
+630 mm2 Aluminium  
+Conductor Diameter 
+0.0303 m 
+Cable Outside Diameter 
+124 mm (assuming 630 mm2 and corrugated Al Sheath) 
+Maximum Continuous Current 
+Capacity (per phase per circuit) 
+477 Amps corresponding to 314 MVA at 380 kV assuming 
+minimum voltage 
+Conductor Centres 
+ 
+ 
+ 
+ 
+Trefoil arrangement 
+Horizontal distance = outside diameter = 124 mm 
+Vertical distance = (3/2) x outside diameter = 107.387 mm 
+Burial Depth 
+1.1 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manchester Technology Centre 
+Oxford Road 
+Manchester 
+M1 7ED 
+ 
+wsp.com 

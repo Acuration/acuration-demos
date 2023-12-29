@@ -1,0 +1,619 @@
+Electric Insights
+Quarterly
+January to March 2018
+Dr Iain Staffell, Professor Richard Green, Dr Rob Gross and Professor Tim Green 
+Imperial College London 
+Dr Grant Wilson 
+University of Sheffield
+Michael Joos 
+Element Energy
+Drax Electric Insights Quarterly – Q1 2018
+2
+Contents
+ 
+Headlines 
+3
+1. 
+The Beast from the East 
+4
+2. 
+Running low on gas 
+5
+3. 
+Who helped and hindered the system? 
+7
+4. 
+Wind power breezes past nuclear 
+8
+5. 
+Wind farm curtailment falls by two-thirds 
+9
+6. 
+Capacity and production statistics 
+11
+Drax Electric Insights Quarterly – Q1 2018
+3
+Headlines
+This quarter, Britain’s energy system was tested by the Beast from the East: winds 
+from Siberia that delivered the coldest March day on record. Article 1 summarises 
+the impacts this weather had on the electricity system, and Article 2 looks at 
+events on the gas network. The need for heating drove a huge spike in gas demand, 
+National Grid issued an emergency warning as supplies failed to keep up with 
+demand, and gas storage fell to its lowest levels after Britain’s biggest storage site 
+was retired.
+The events of March are an interesting glimpse at the future electricity system’s 
+resilience. Article 3 looks at how Britain’s interconnectors helped or hindered 
+during the time of stress, and whether the system could have coped without coal. 
+Britain’s wind farms had another record-breaking quarter, exceeding the output 
+of nuclear reactors for the first time (see Article 4). Higher wind speeds and new 
+capacity are two reasons that were explored in last quarter's report. Now, Article 5 
+shows that the amount of wind energy wasted due to grid constraints has fallen by 
+two-thirds, helping to boost output further. 
+Together, these events mean that whilst gross electricity demand was up 2% on 
+this quarter last year, the demand net of renewables (which had to be met by 
+conventional power stations) was 4% lower. Despite the strong switch toward coal 
+in March, coal output over the quarter was one-sixth lower than in Q1 2017, and 
+consequently carbon emissions were 7% lower. Article 6 finishes with statistics on 
+the capacity and production for the quarter. 
+Daily average temperature and generation mix over the quarter
+Coal
+Gas
+Solar
+Wind
+Hydro
+Imports
+Biomass
+Nuclear
+Exports
+Demand (GW)
+0
+10
+20
+30
+40
+50
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+-5
+0
+5
+10
+Mar-2018
+Temperature�(°C)
+Drax Electric Insights Quarterly – Q1 2018
+4
+1. The Beast from the East
+March 1st was the coldest spring day on record, 
+averaging –3.8°C. This pushed electricity 
+demand up 10%, and prices up by 50%. The six 
+days from February 26th to March 3rd (highlighted 
+in grey) were the coldest Britain has been since 
+Christmas 2010.
+This pushed electricity demand up 10%, as people 
+used more electric heating to keep warm. The 
+evening peak demand on March 1st was 53.3 GW: 
+the highest in three years, but not enough to 
+stretch the system to its limits.
+Electricity prices reacted sharply though, peaking 
+at £990 per MWh for half an hour, and also falling 
+to –£150 per MWh as the market became volatile. 
+The average power price in March was 50% higher 
+than March 2017 as a result.
+Coal generation surged for the weeks surrounding 
+the cold spell. Not because more output from 
+conventional plants was needed: total generation 
+from fossil fuels remained steady, averaging 20–25 
+GW. Instead, rising gas prices made it temporarily 
+more economical to burn coal. 
+Wind output was particularly high when it was 
+most needed, ranging from 11.8 to 13.8 GW 
+during March 1st. On the other hand, solar panels 
+averaged just 0.2 GW on that day, as the blanket of 
+snow shielded them from the sun.
+Biomass ran solidly throughout the cold spell, 
+while two nuclear reactors were down for routine 
+maintenance, and seaweed forced a third to shut 
+on the coldest day! 
+Finally, Electric Insights itself was not immune to 
+the cold weather. Traffic to the website surged to 
+10 times its usual level on March 1st and 2nd.
+Nuclear
+Biomass
+0
+10
+5
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Low-carbon generation (GW)
+Electricity price (£/MWh)
+200
+100
+0
+25
+40
+35
+30
+Demand (GW)
+-5
+0
++5
++10
+Temperature (°C)
+Gas
+Coal
+Fossil generation (GW)
+0
+10
+20
+30
+Solar
+Wind
+Hydro
+Weather-based renewable generation (GW)
+15
+10
+5
+0
+Daily average for 
+central England
+Daily average  
+cash-out price
+Mar-2018
+Drax Electric Insights Quarterly – Q1 2018
+5
+2. Running low on gas
+The cold weather in March not only affected the power system, Britain’s 
+gas network was also stretched as demand outstripped supply. On March 1st, 
+National Grid forecast that the amount of gas in pipelines was going to fall below 
+the normal operating range. This forced them to trigger the first ‘Gas Deficit 
+Warning’ in eight years.
+This helped push the spot price of gas to 11.2 p/kWh – compared to an annual 
+average of just 1.5 p/kWh. The price increase brought more supplies of gas into the 
+system, and persuaded gas power stations to reduce their output, to be replaced 
+by cheaper coal. By March 2nd the warning was removed and the spot price of gas 
+returned to normal over the next few days.
+The shortage was partly due to unusually high demand for gas during the cold 
+weather (see chart below). Five in six of Britain’s homes and offices are heated by 
+gas.1 On the coldest day (March 1st), daily gas demand spiked to 4,600 GWh, a level 
+not seen since 2010. For a sense of scale, the extra gas demand due to the cold 
+weather was comparable to the entire country’s electricity demand. 
+A further worry for the gas system was the historically low levels of gas held in 
+storage. This was not helped by the cold weather coming unusually late into the 
+heating season; gas in storage is likely to be at a greater level earlier in the winter 
+months. Last year, Britain’s largest inter-seasonal gas storage site (Rough) reached 
+the end of its economic life, and was deemed unprofitable. It discharged for the 
+last time over winter, and was finally emptied by mid-January. 
+Daily demand for gas and electricity over the last four years. Non-daily metered gas demand  
+is shown (excluding power stations and heavy industry), as a proxy for domestic heat demand
+1 
+DECC, 2013. https://www.gov.uk/government/statistics/united-kingdom-housing-energy-fact-file-2013
+2014
+2015
+2016
+2017
+2018
+120
+90
+60
+30
+0
+Daily average demand (GW) 
+143.4 GW
+Electricity
+Gas (for heating)
+Drax Electric Insights Quarterly – Q1 2018
+6
+The UK has historically worked with less gas storage than neighbouring countries, 
+as domestic supplies from the North Sea provided a dependable source. This is 
+being replaced by imports, including liquid natural gas (LNG) ships which provide 
+flexibility in deliveries, at a price. France, Germany and the US typically hold 2–3 
+months of gas in storage. In contrast, Britain’s 64 TWh of storage used to satisfy 
+just 20 days of demand, but with the closure of Rough this has fallen to around  
+25 TWh, or just 8 days of storage. 
+The amount of stored gas is at its lowest since 2010 (see chart below). In the week 
+surrounding the Beast from the East, 26.7 TWh of gas was consumed, 8.4 TWh of 
+which came from storage (see the sharp dip at the start of March). In comparison, 
+total electricity demand in that week was just 6 TWh.
+The ability of the gas system to accommodate significant swings in energy demand 
+over daily, weekly and seasonal timeframes is one of its major strengths. As coal 
+continues to be phased out, gas becomes ever-more important for electricity 
+generation, as well as heating. Maintaining this flexibility and the ability to cope 
+with unusual weather is as critical as ever.
+The amount of gas available as LNG and storage throughout the year. The shaded area shows 
+the historic range, the two lines show the most recent years. For comparison, all of Britain’s 
+pumped hydro storage facilities can hold 0.03 TWh of electricity.
+ 
+TWh
+2018
+2017
+60
+50
+30
+10
+40
+20
+0
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Range 2010-2016
+Drax Electric Insights Quarterly – Q1 2018
+7
+3. Who helped and hindered the system?
+Hourly electricity supply from Britain’s interconnectors (top) and coal 
+power stations (bottom) over the quarter
+How much can Britain rely on its neighbours 
+in times of stress? Would the lights have gone 
+out if it were not for coal power? The Electric 
+Insights data helps us understand who helped, 
+and hindered, the power system during the 
+extreme weather.
+The power flowing over Britain’s links to other 
+countries are shown to the right. Britain had 
+been largely importing from France all year, but 
+began exporting solidly through the 27th and 28th 
+of February. France was also experiencing severe 
+cold, and a greater share of French homes use 
+electric heating. On the two coldest days, Britain 
+exported at an average of 0.9 GW (28th, –3.6°C) and 
+then imported an average of 1.2 GW (1st, –3.8°C).
+Britain imported steadily from the Netherlands, 
+and traded power back and forth with Ireland2 to 
+help balance both systems. On March 3rd the East-
+West link between North Wales and Dublin was 
+taken offline for (unrelated) maintenance.
+The output from coal during this period dwarfed 
+these exchanges with our neighbours (chart below 
+right). The cold spell saw the return of ‘king coal’, 
+which reverted to being a baseload generator. 
+Coal operated solidly day and night for a week as 
+high gas prices made it briefly more economical.
+The system would likely have coped without this 
+coal. 12–19 GW of spare gas capacity was available, 
+albeit at a high price. While this means we were 
+not short of capacity, if the extra coal output had 
+been met by gas, it would have consumed around 
+an extra 6 TWh of fuel – more than was available 
+in storage by the end of March.
+More coal units are going offline as Britain 
+moves to a complete phase-out by 2025, meaning 
+this source of backup and flexibility will not be 
+available for long.
+2 
+This refers to the island of Ireland as both Northern Ireland and the Republic of 
+Ireland are on a separate electricity system to the National Grid.
+1
+-1
+0
+1
+-1
+0
+2
+-2
+0
+11
+10
+9
+8
+7
+6
+5
+4
+3
+1
+2
+0
+Coal generation (GW)
+Imports from Ireland (GW)
+Imports from the Netherlands (GW)
+Imports from France (GW)
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Mar-2018
+Jan-2018
+Feb-2018
+Jan-2018
+Feb-2018
+Mar-2018
+Mar-2018
+Drax Electric Insights Quarterly – Q1 2018
+8
+4. Wind power breezes past nuclear
+Britain’s wind farms have enjoyed another record-breaking three 
+months. Peak output surpassed 14 GW for the first time, and wind 
+produced more electricity than nuclear over the quarter. 
+Last quarter, wind and solar overtook nuclear generation in Britain, 
+but now wind by itself has beaten nuclear for the first time. In the first 
+quarter of 2018, wind produced 15,560 GWh of electricity – 30 GWh 
+more than nuclear (see chart, right). 
+After surpassing 11 GW and 12 GW of peak output last quarter, this 
+quarter wind broke through 13 GW on January 17th and then 14 GW on 
+March 17th (see chart below).
+Britain’s wind farms produced 18.8% of electricity over the quarter, and 
+at their peak they supplied 47.3% of the country’s demand (another new 
+record). This happened overnight on March 17th, when temperatures 
+once again dipped below freezing. There has been much debate on 
+whether wind can be relied upon during a cold, calm spell. During the 
+six sub-zero days this quarter, wind provided between 12% and 43% of 
+electricity demand, operating at a minimum of 4.4 GW.
+Half-hourly power output from wind and nuclear during the quarter
+Quarterly energy production from wind 
+farms, solar and nuclear reactors
+Wind
+Nuclear
+15
+7.5
+0
+GW
+Jan-2018
+Feb-2018
+Mar-2018
+Wind
+Wind+Solar
+Nuclear
+TWh
+20
+15
+5
+0
+10
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2010
+Drax Electric Insights Quarterly – Q1 2018
+9
+5. Wind farm curtailment falls by two-thirds
+It has been a familiar headline over the years: “Britain’s wind farms paid millions 
+to sit idle”. Last year, National Grid paid over £100m to turn wind farms off when 
+their output could have overloaded the transmission system. But now that a new 
+link between Scotland and Wales has come online, the amount of money (and clean 
+energy) that was lost has quietly fallen by two-thirds.
+Power stations can only sell their output if the electricity can be handled by 
+the transmission grid, otherwise they have to be ‘constrained’ off. Nationwide, 
+constraints have risen from almost nothing five years ago to over 5% of wind 
+generation (see chart, below).3 This is not a problem unique to Britain though, 
+constraint rates average 4–5% in Germany and 12–15% in China, with some Chinese 
+provinces seeing 40% of wind generation lost.4
+Wind constraints are a particular problem in Scotland, where 7.7 GW of wind capacity 
+feeds a demand that averages just 3 GW. Until recently there were only three lines 
+connecting Scotland to England and Northern Ireland, totalling around 3.25 GW. This 
+helps to explain why a sixth of Scotland’s available wind energy was lost in 2015/16, 
+with curtailment rates of up to 30% at individual farms.4 Seven Scottish wind farms 
+accounted for half of all the wind energy constrained across Britain.
+The share of wind energy lost to curtailment in Britain. A new transmission link between 
+Scotland and Wales came online in December 2017. Curtailment is often higher in summer 
+months when demand is lower, as high wind output becomes harder to manage.
+3 
+ We measure this against transmission-connected wind output. Constraints in the ‘embedded’ wind farms  
+(smaller farms and those in England & Wales) are not monitored, or paid for. 
+4 Joos & Staffell, 2018. Wind curtailment and balancing in Britain and Germany. National Energy Administration, 2017. www.nea.gov.cn
+10%
+8%
+6%
+4%
+2%
+0
+Dec
+Nov
+Oct
+Sep
+Aug
+Jul
+Jun
+May
+Apr
+Mar
+Feb
+Jan
+2018
+2017
+2016
+2015
+Drax Electric Insights Quarterly – Q1 2018
+10
+Wind farms are not the only type of power station to be constrained, but they 
+matter because reducing their output costs money, rather than saving it. Wind 
+farms lose their subsidy payments if they are forced to turn off, so they request 
+payment from National Grid as compensation. The average wind farm charged  
+£69/MWh to be curtailed in 2017, a price which has halved in the last four years.
+ 
+Since 2012, National Grid has spent over £380 million on constraining wind farms: 
+around £1 per person per year. The cost has risen in line with the amount of wind 
+generation: once wind had reached 4 percent of Britain’s electricity supply, each 
+additional percent of wind energy added £1m per month to the cost of constraint 
+payments (see chart, below).
+However, this trend appears to have been broken, as the payments this quarter 
+were the lowest since Q1 2013, despite wind production more than doubling since 
+then. In December 2017 the ‘Western HVDC Link’ came online, a new 2.2 GW cable 
+connecting Scotland to North Wales.5 The £1bn link was built in the Irish Sea rather 
+than on land, to minimise visual impact.
+From the figure below, a crude estimate is that this link saved National Grid around 
+£9m per month during Quarter 1 on constraint payments. These savings could pay 
+back the construction cost in under 10 years if they continued. The benefits are 
+not just financial though – if we could have utilised all of Scotland’s wind power 
+last year by eliminating grid constraints, the annual capacity factor of Scottish 
+wind farms would have improved by a sixth, from 27% to 32%.
+The monthly cost of constraining wind farms to National Grid versus the share of electricity 
+generated from wind
+5 
+The link has only operated at half power whilst it is commissioned. It is expected to be offline for final testing between April and June.
+Monthly cost of wind constraints
+Share of electricity from wind
+20%
+15%
+10%
+5%
+0
+2017
+2015
+2016
+2018 Q1
+2013
+2014
+2012
+£8m
+£10m
+£12m
+£6m
+£4m
+£2m
+Drax Electric Insights Quarterly – Q1 2018
+11
+6. Capacity and production statistics
+This quarter, wind was the second largest source of electricity behind gas. Renewables made up 
+26% of the generation mix, and all low carbon sources made up 49%. Generation from coal and 
+gas were both down on this quarter last year due to the growth in renewable energy output.
+Gross electricity demand was a tenth lower than in the first quarter of 2010. Demand net of 
+renewables was down by 27% though, indicating just how the market for fossil fuels is shrinking.
+Electricity prices averaged £54/MWh over the quarter, one-sixth higher than last year.  
+The real-time cash out price fell below its previous minimum of –£100/MWh on three 
+occasions. Prices hit –£130 to –£150/MWh in periods when wind and coal output was  
+high, and gas output was low. 
+Britain’s electricity supply mix in the first quarter of 2018
+Installed capacity and electricity produced by each technology6
+6 Other statistical sources give different values because of the types of plant they consider.  For example, BEIS Energy Trends records an additional 900 MW of wind, 
+600 MW of biomass and 500 MW of solar, respectively producing 1.4, 1.2 and 0.2 TWh extra per quarter. These plants and their output are not visible to the electricity 
+system and so cannot be reported on here.
+Installed  
+Capacity (GW) 
+2018 Q1
+Annual  
+change
+Energy
+Output (TWh) 
+2018 Q1
+Annual  
+change
+Utilisation / Capacity Factor 2018 Q1
+Average
+Maximum
+Nuclear
+9.5
+~
+15.5
+–0.9 (–6%)
+77%
+88%
+Biomass
+2.2
+~
+3.2
+–1.2 (–28%)
+69%
+100%
+Hydro
+1.1
+~
+0.9
+–0.8 (–47%)
+36%
+89%
+Wind
+19.7
++3.1 (+19%)
+15.6
++4.3 (+38%)
+38%
+73%
+Solar
+13.1
++1.3 (+11%)
+1.7
++0.1 (+9%)
+6%
+60%
+Gas
+27.8
+–0.6 (–2%)
+32.6
+–0.6 (–2%)
+55%
+97%
+Coal
+13.5
+~
+8.1
+–1.6 (–16%)
+28%
+84%
+Imports
+4.0
+~
+5.9
++1.7 (+40%)
+69%
+95%
+Exports
+0.6
++0.5 (–46%)
+7%
+58%
+Storage
+3.1
+~
+0.7
+–0.05 (–6%)
+11%
+76%
+Gas
+Wind
+Nuclear
+Coal
+Imports
+Biomass
+Solar
+Hydro
+% of mix
+39.4%
+18.8%
+18.7%
+9.8%
+6.3%
+3.9%
+2.0%
+1.0%
+82.9 TWh
+supplied
+Drax Group plc
+Drax Power Station, Selby, North Yorkshire, YO8 8PH
+@Draxnews
+Imperial Consultants
+58 Prince’s Gate, Exhibition Road, London, SW7 2PG
+www.imperial-consultants.co.uk
+www.drax.com
+@ConsultImperial

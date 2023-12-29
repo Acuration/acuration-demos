@@ -1,0 +1,220 @@
+ 
+ 
+Biomass Carbon Calculator  
+Consultation on calculator methodology, scope, accuracy and usability  
+ 
+1st May 2020 
+ 
+ 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 1 of 8 
+ 
+ 
+ 
+ 
+General information 
+Purpose of this consultation: To seek views on the methodology, scope, accuracy and usability of the 
+Drax Biomass Carbon Calculator  
+Issued: 01/05/2020 
+Responses by: 12/06/2020 
+Enquiries to: Please send any enquiries to Michael.Goldsworthy@drax.com  
+How to respond: Responses should be sent via email to Jack.Boyd@drax.com as a PDF or Microsoft 
+Word document. 
+Data Protection: We respect the privacy of those taking part in our consultations.  If you would like to 
+know more, please read our Consultations Privacy Notice at https://www.drax.com/privacy-notices/ 
+Drax will summarise all responses provided to this consultation and publish the summary on our 
+website. Drax may also publish consultation responses, where permission has been provided by the 
+respondent. 
+ 
+ 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 2 of 8 
+ 
+ 
+ 
+ 
+Introduction 
+Biomass can only be considered a low carbon, sustainable energy solution when it can be evidenced that 
+significant GHG emission savings are delivered on a lifecycle basis, considering emissions released 
+throughout the entire supply chain. It is therefore important that the lifecycle emissions of biomass are 
+calculated and reported both accurately and transparently. 
+Drax is committed to taking a leading role in the lifecycle emission reporting of biomass. We aim to 
+deliver transparent and accurate reporting of our own supply chain emissions and wish to encourage 
+and facilitate improved reporting across the entire industry. As a contribution towards delivering these 
+objectives, Drax has developed the ‘Drax Biomass Carbon Calculator’. 
+The ‘Biomass Carbon Calculator’ is a greenhouse gas (GHG) lifecycle emission tool developed by Drax for 
+the purpose of calculating wood pellet supply chain GHG emissions in accordance with the UK 
+Renewables Obligation (RO) and Directive (EU) 2018/2001 of the European Parliament and of the 
+Council of 11 December 2018 on the promotion of the use of energy from renewable sources (“Directive 
+(EU) 2018/2001”) 1. 
+The tool has been designed to address several issues with existing publicly available GHG compliance 
+tools: 
+• Over-reliance on ‘default’ or ‘typical’ values 
+• Inconsistencies between collected supply chain data and calculator input fields (e.g. different 
+units of measurement) 
+• A requirement to model the full supply chain for each feedstock type individually rather than 
+allowing simultaneous modelling of feedstocks for each biomass producer 
+• Lack of transparency 
+To address these issues, the Biomass Carbon Calculator requires users to enter actual supply chain data 
+for calculating the carbon intensity of biomass supply chains, with data inputs aligned to standard units 
+of measurement used by the industry. The tool also allows users to simultaneously model up to 20 
+different feedstock groups (“consignments”) and 10 different distribution routes for a single biomass 
+production plant. 
+ 
+1 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.328.01.0082.01.ENG&toc=OJ:L:2018:328:TOC  
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 3 of 8 
+ 
+ 
+ 
+ 
+The Calculator also includes methodologies for improving the accuracy of GHG calculations for separate 
+biomass consignments processed at a single facility, namely: 
+• Allocation of biomass drying emissions to each consignment in proportion to the amount of 
+water removed, determined by the difference between the moisture content of each feedstock 
+group at the dryer inlet and dryer outlet2 
+• Accounting of biomass fuel diverted from input consignments (e.g. bark from low grade 
+roundwood) through process yield adjustments rather than considering as a separate input to 
+the system3 
+The Calculator is appropriate for modelling supply chain GHG emissions for most biomass supply chains, 
+including biomass from forestry products, forestry residues, industrial processing residues and wood 
+waste streams. For biomass supply chains derived from products, where land inputs such as fertilisers 
+and pesticides are required (e.g. biomass from energy crops) or where land use change has occurred, 
+the calculator must be used alongside other tools (e.g. Biograce II4; The UK Solid and Gaseous Biomass 
+Carbon Calculator5) for determining full supply chain GHG emissions.  
+The tool has been independently reviewed against the methodology laid out in the RO and verified for 
+compliance with the methodology laid out in Annex VI of Directive (EU) 2018/2001. However, Drax is 
+keen to deliver further improvements and so is seeking views of all stakeholders on the Calculator, 
+specifically with regards to: 
+• Methodology 
+• Accuracy 
+• Scope 
+• Usability 
+Following consultation, Drax intends to update the Calculator where mutual areas for improvement 
+have been identified. Once updated, Drax will undertake further third-party verification to ensure the 
+Calculator remains in compliance with regulatory requirements. 
+ 
+ 
+ 
+2 This ensures drying emission are fairly allocated to feedstock that require higher amounts of energy for drying 
+3 This allows emissions relating to biomass fuel diverted from feedstock groups to be calculated based on supply chain data 
+rather than through use of standard emission factors 
+4 https://www.biograce.net/biograce2/ 
+5 https://www.ofgem.gov.uk/publications-and-updates/uk-solid-and-gaseous-biomass-carbon-calculator 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 4 of 8 
+ 
+ 
+ 
+ 
+Methodology 
+The Drax Biomass Carbon Calculator is a tool aimed to improve the consistency, transparency and 
+accuracy of biomass supply chain GHG emissions reported under UK and EU renewable energy support 
+schemes. To meet these aims, it is necessary that the calculator meets the methodological framework 
+laid out in the relevant legislation.  
+Drax is therefore seeking views on whether the Drax Biomass Carbon Calculator adheres to the 
+methodologies laid out in the UK Renewables Obligation and Directive (EU) 2018/2001. Drax also wishes 
+to receive views on whether the calculator provides a robust and fair approach to allocating supply 
+chain GHG emissions at the biomass production plant. 
+Full details of the Calculator methodology are laid out in the User Guide accompanying the Calculator, 
+with the full set of equations used for calculating supply chain GHG emissions available to view in the 
+‘Emissions’ worksheet of the calculator.  
+CONSULTATION QUESTIONS 
+1. Does the calculator meet the requirements of the methodologies laid out in the regulatory guidance 
+of the UK Renewables Obligation and Annex VI of Directive (EU) 2018/2001? If not, please provide all 
+examples of where the Calculator does not conform to the methodologies. 
+2. Is the approach to allocating drying emissions to each consignment based on the amount of water 
+removed by drying a suitable approach for accurately allocating emissions? If not, please provide 
+reasons why not. 
+3. Is the approach to accounting of biomass fuel diverted from input consignments (e.g. bark from low 
+grade roundwood) through yield adjustments more appropriate than considering this material as a 
+separate input to the system? If not, please provide reasons why. 
+Accuracy 
+To ensure the Calculator provides an accurate calculation of biomass supply chain GHG emissions, users 
+are required to manually enter all operational input data. However, it remains necessary to use this 
+information alongside standard data (e.g. emission factors, transport efficiencies, fuel property data) 
+and typical data (e.g. typical fuel consumption data for upstream activities) for calculation of supply 
+chain GHG emissions to account for additional information that may not be available to, or recorded by, 
+supply chain actors.  For ensuring accuracy, it is therefore important that all standard and typical data 
+used in the Calculator are taken from credible and up-to-date resources. 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 5 of 8 
+ 
+ 
+ 
+ 
+The calculator primarily uses standard and typical data from the JRC policy report, ‘Solid and gaseous 
+bioenergy pathways: input values and GHG emissions’6 and Biograce II7. Drax is seeking views on 
+whether these resources are appropriate for accurate calculation of biomass supply chain GHG 
+emissions or whether more reliable or up-to-date datasets are available. 
+CONSULTATION QUESTIONS 
+4. Are the standard values and typical values used in the tool appropriate for accurately calculating the 
+lifecycle GHG emissions of biomass supply chains? 
+5. Are you aware of any resources providing more accurate or more up-to-date standard values or 
+typical values that meet the requirements of the UK Renewables Obligation and Annex VI of 
+Directive (EU) 2018/2001? 
+Scope 
+The Biomass Carbon Calculator has been designed with the intention of covering all material sources of 
+GHG emissions for biomass supply chains within the methodological scope of the RO and Directive (EU) 
+2018/2001 regulatory requirements. 
+The Calculator is targeted towards the wood pellet sector, with input fields based on the typical fuel and 
+energy inputs of these supply chains. For wood pellet supply chains derived from products and where 
+land inputs such as fertilisers and pesticides are required (e.g. wood pellet from energy crops) or where 
+land use change has occurred, users may still use the Calculator for determining full lifecycle emissions 
+by independently calculating emissions associated with these inputs and including the emissions value in 
+the upstream emissions of the supply chain calculation. Further details on the scope the calculator can 
+be found in the User Manual. 
+Drax is seeking views on whether the Calculator covers all material sources of supply chain GHG 
+emissions. 
+CONSULTATION QUESTIONS 
+6. Are all relevant and material sources of biomass supply chain GHG emissions covered by the 
+calculator? If not, please provide comment on sources of emissions omitted from the calculator. 
+ 
+6 https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104759/ld1a27215enn.pdf 
+7 https://www.biograce.net/biograce2/ 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 6 of 8 
+ 
+ 
+ 
+ 
+Usability 
+Biomass generators such as Drax are required to process large amounts of data for determining their 
+supply chain GHG emissions, typically undertaking calculations for all suppliers used to provide biomass 
+for energy generation. Due to these volumes of data, it remains imperative that any GHG compliance 
+tool provides a robust platform that reduces risk of data mis-entry or calculation error and that 
+ultimately ensures accurate reporting. It is therefore critical that any carbon calculator used for 
+regulatory compliance with sustainability criteria allows for simple and direct transfer of data between 
+the primary data sources and the calculation tool. 
+To this end, the Calculator is intended to align to standard data measurement units used across biomass 
+supply chains and reported under biomass certification schemes such as SBP, thus allowing for 
+convenient transfer of data.  
+Drax is seeking views on whether the data inputs required by the calculator are consistent with those 
+typically recorded by supply chain actors. Drax is also seeking views on the wider usability of the 
+Calculator.  
+CONSULTATION QUESTION 
+7. Are the units of measurement used for data entry fields in the Calculator appropriately aligned to 
+those commonly used across biomass supply chains? If not, please provide comment on additional 
+or alternative units that may be appropriate. 
+8. Is the Calculator intuitive and easy to use? If not, please provide comment on amendments that 
+would improve the usability of the Calculator.  
+Other 
+Drax remains open to any further views and opinions on the Biomass Carbon Calculator that may not be 
+covered by the questions above. 
+CONSULTATION QUESTIONS 
+9. Do you have any recommended improvements to the calculator or any further comments? 
+ 
+ 
+DRAX BIOMASS CARBON CALCULATOR CONSULTATION 
+Page 7 of 8 
+ 
+ 
+ 
+ 
+Permission to publish 
+Drax may publish consultation responses on its website where permission has been provided. Responses 
+will be attributed to the company of the respondent. Personal details will not be published. If you would 
+prefer for your response to be fully anonymised and omit all company information, please make this 
+known in your answer to question 10. 
+10. Do you give permission for Drax to publish your response to this consultation on its website? If so, 
+do you wish for your response to be anonymised. 

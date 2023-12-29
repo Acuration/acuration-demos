@@ -1,0 +1,1333 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USER GUIDE 
+Biomass Carbon 
+Calculator 
+Version 2.0 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 1 of 40 
+ 
+ 
+ 
+ 
+Table of contents 
+Contents 
+Table of contents ............................................................................................................................................................................ 1 
+Disclaimer ................................................................................................................................................................................. 4 
+Introduction ................................................................................................................................................................................... 5 
+Calculator methodology ................................................................................................................................................................. 7 
+Calculation structure and alignment to the Renewables Obligation methodology ....................................................................... 7 
+Definition of supply chain ......................................................................................................................................................... 7 
+Identify the output of each module ......................................................................................................................................... 8 
+Identify the inputs of each module .......................................................................................................................................... 9 
+Identify appropriate emission factors ...................................................................................................................................... 9 
+Multiply inputs by emissions factors ...................................................................................................................................... 10 
+Accounting for co-products in conversion modules ............................................................................................................... 10 
+Identify the efficiency of modules .......................................................................................................................................... 11 
+Calculating the carbon intensity of each module ................................................................................................................... 12 
+Calculating the carbon intensity of the supply chain and converting into relevant units ...................................................... 13 
+Calculating the carbon intensity of electricity generation...................................................................................................... 13 
+Calculating the carbon intensity of heat generation .............................................................................................................. 14 
+Calculator allocations ................................................................................................................................................................... 15 
+Allocation of CHP emissions between heat and electricity providing process inputs ............................................................ 15 
+Allocation of heat between drying and other site processes ................................................................................................. 15 
+Allocation of electricity between site processes and export .................................................................................................. 16 
+Allocation of drying heat emissions to each consignment ..................................................................................................... 16 
+Co-product allocation ............................................................................................................................................................. 17 
+Additional calculations ................................................................................................................................................................. 18 
+Lower heating values .............................................................................................................................................................. 18 
+Output contribution ............................................................................................................................................................... 18 
+Guide to inputting data ................................................................................................................................................................ 19 
+Dashboard .................................................................................................................................................................................... 19 
+Reporting information ............................................................................................................................................................ 19 
+Transport route selections...................................................................................................................................................... 19 
+End user .................................................................................................................................................................................. 20 
+Consignments ......................................................................................................................................................................... 20 
+Summary table ........................................................................................................................................................................ 20 
+Feedstock ..................................................................................................................................................................................... 21 
+Consignments ......................................................................................................................................................................... 21 
+Notes ...................................................................................................................................................................................... 22 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 2 of 40 
+ 
+ 
+ 
+ 
+Verification ............................................................................................................................................................................. 22 
+Upstream ...................................................................................................................................................................................... 22 
+Diesel use ................................................................................................................................................................................ 22 
+Other upstream emissions...................................................................................................................................................... 23 
+Disaggregated default values ................................................................................................................................................. 23 
+Feedstock transport ................................................................................................................................................................ 24 
+Diesel use lookup .................................................................................................................................................................... 24 
+Notes ...................................................................................................................................................................................... 25 
+Verification ............................................................................................................................................................................. 25 
+Pellet plant ................................................................................................................................................................................... 25 
+Pellet plant output .................................................................................................................................................................. 25 
+Fuel system inputs .................................................................................................................................................................. 25 
+Fuel system outputs ............................................................................................................................................................... 28 
+Electricity inputs ..................................................................................................................................................................... 29 
+Additional inputs .................................................................................................................................................................... 30 
+Unit converter......................................................................................................................................................................... 30 
+Notes ...................................................................................................................................................................................... 30 
+Verification ............................................................................................................................................................................. 30 
+Pellet transport ............................................................................................................................................................................ 30 
+Distribution routes .................................................................................................................................................................. 30 
+Handling energy requirements ............................................................................................................................................... 31 
+Unit converter......................................................................................................................................................................... 31 
+Notes ...................................................................................................................................................................................... 33 
+Verification ............................................................................................................................................................................. 33 
+End use ......................................................................................................................................................................................... 33 
+Fuel type ................................................................................................................................................................................. 33 
+Electrical efficiency ................................................................................................................................................................. 33 
+Heat efficiency ........................................................................................................................................................................ 33 
+Temperature of heat at point of delivery ............................................................................................................................... 34 
+Notes ...................................................................................................................................................................................... 34 
+Verification ............................................................................................................................................................................. 34 
+Emissions ...................................................................................................................................................................................... 34 
+Standard values ............................................................................................................................................................................ 34 
+Standard values ...................................................................................................................................................................... 34 
+Transport feedstock factors .................................................................................................................................................... 36 
+Lookup tables.......................................................................................................................................................................... 36 
+Notes ...................................................................................................................................................................................... 36 
+Verification ............................................................................................................................................................................. 36 
+Reference values .......................................................................................................................................................................... 37 
+Reference values .................................................................................................................................................................... 37 
+Notes ...................................................................................................................................................................................... 37 
+Verification ............................................................................................................................................................................. 37 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 3 of 40 
+ 
+ 
+ 
+ 
+Assisting calculations .................................................................................................................................................................... 38 
+Assistance for modelling pellet mill mass balance based on different fuel systems .............................................................. 38 
+Calculator for determining relative contributions of biomass within a feedstock mixture .................................................... 39 
+Biomass physical property calculator ..................................................................................................................................... 39 
+References .................................................................................................................................................................................... 40 
+Notes ...................................................................................................................................................................................... 40 
+Verification ............................................................................................................................................................................. 40 
+Version History ............................................................................................................................................................................. 40 
+ 
+ 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 4 of 40 
+ 
+ 
+ 
+ 
+Disclaimer 
+Parties who use, copy or else rely on all or any part of the information contained in the Biomass Carbon 
+Calculator and accompanying User Guide in any way whatsoever do so entirely at their own risk and 
+Drax Power Limited (“Drax”) disclaims all and accepts no liability of any kind arising from the use of 
+these documents (including but not limited to direct, indirect or consequential damages) to the 
+maximum extent permitted by law. Drax makes no representation or warranty of any kind that the 
+Biomass Carbon Calculator and/or the User Guide is compatible with any given law, regulation or 
+regulator guidance.  
+Drax is under no obligation to update the information contained in the Carbon Calculator and User 
+Guide, nor notify third parties if updates are so made. 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 5 of 40 
+ 
+ 
+ 
+ 
+Introduction 
+The ‘Biomass Carbon Calculator’ is a greenhouse gas (GHG) lifecycle emission tool developed by Drax for 
+the purpose of calculating wood pellet supply chain GHG emissions in accordance with UK and EU 
+regulatory requirements. The Calculator has been independently verified against the Renewables 
+Obligation Order 2015 for England and Wales (as amended)1 and Directive (EU) 2018/2001 of the 
+European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy 
+from renewable sources (“Directive (EU) 2018/2001”) 2. Verification statements are available on the 
+Drax website. 
+The Biomass Carbon Calculator has been developed by Drax to encourage improved reporting of 
+lifecycle biomass emissions across industry by requiring users to use actual data from across the supply 
+chain, thus reducing reliance on use of default values or typical data. The Calculator further provides a 
+convenient platform for modelling complex supply chains, enabling the GHG emissions of up to 20 
+different biomass consignments and 10 different downstream distribution routes to be modelled 
+simultaneously for a single biomass producer. The Calculator has several other notable benefits: 
+• All equations can be viewed by the user, providing absolute transparency 
+• Data input fields have a corresponding verification field, providing a platform suited for third-
+party auditing 
+• The Calculator structure is aligned to the Sustainable Biomass Program (SBP) audit report on 
+energy and carbon data (SAR) for wood pellets version 2.0, providing a simple means of 
+transferring supply chain information where the user is, or is utilising data from, an SBP-
+certified party 
+The Calculator is appropriate for modelling supply chain GHG emissions for most wood pellet supply 
+chains, including wood pellet from forestry products, forestry residues, industrial processing residues 
+and wood waste. For wood pellet supply chains derived from products, where land inputs such as 
+fertilisers and pesticides are required (e.g. wood pellet from energy crops) or where land use change has 
+ 
+1 https://www.legislation.gov.uk/uksi/2015/1947/contents/made 
+2 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.328.01.0082.01.ENG&toc=OJ:L:2018:328:TOC  
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 6 of 40 
+ 
+ 
+ 
+ 
+occurred, the calculator must be used alongside other tools (e.g. Biograce II3; The UK Solid and Gaseous 
+Biomass Carbon Calculator4) for determining full supply chain emissions. 
+The Calculator covers GHG emissions (CO2, CH4 & N2O emissions) arising from all aspects of typical wood 
+pellet supply chains including feedstock cultivation & harvesting, feedstock transport, feedstock 
+processing, biomass transport & distribution and final use of the biomass. 
+ 
+ 
+3 https://www.biograce.net/biograce2/ 
+4 https://www.ofgem.gov.uk/publications-and-updates/uk-solid-and-gaseous-biomass-carbon-calculator 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 7 of 40 
+ 
+ 
+ 
+ 
+Calculator methodology 
+Calculation structure and alignment to the 
+Renewables Obligation methodology 
+Definition of supply chain 
+The calculator is structured to represent the supply chain activities of typical wood pellet supply chains, 
+comprising the activities represented below: 
+ 
+All upstream processing of feedstock is considered within a single module to reduce complexity of the 
+calculator. This necessitates that energy requirements for cultivation, harvesting, extraction and other 
+upstream emissions are stated per MJ of feedstock as delivered to the processing plant5.  
+While drying and pelleting (and all other pellet plant energy demands) are considered under the 
+‘processing’ module, feedstock consignments often require different amounts of energy for drying, 
+depending on the initial moisture content of the feedstock. The calculator therefore separates the 
+ 
+5 All reference values for diesel use in cultivation, harvesting, extraction and chipping used by the JRC in its policy report 
+‘Solid and gaseous bioenergy pathways: input values and GHG emissions’ Version 2 provide diesel emissions in this way, 
+assuming wood chip to be the output product from the forest. These values are provided in the calculator and can be used by 
+users in the absence of actual data.  
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 8 of 40 
+ 
+ 
+ 
+ 
+calculations for drying emissions from pelleting and other site processes, as outlined in the “Allocation 
+of drying heat emissions” Section. 
+It is also possible that consignments may require different amounts of other site energy such as 
+electricity or diesel due to differing processing requirements at the pellet plant (e.g. 
+chipping/debarking). However, rarely is this information metered/recorded at a sufficiently 
+disaggregated level to allow allocation of these inputs to individual consignments. Equally, the energy 
+demands for these processes are usually small when compared to those for drying (where allocation is 
+performed) and pelleting (which is necessary for all consignments).  Emissions relating to all pellet plant 
+processes other than drying are therefore applied proportionally across the entire pellet output of the 
+plant. 
+Identify the output of each module 
+The outputs of each module are defined as follows: 
+MODULE 
+OUTPUT 
+PROCESSING AT ORIGIN 
+Raw biomass feedstock (e.g. logs, wood 
+chips, sawdust); gate of origin 
+FEEDSTOCK TRANSPORT 
+Raw biomass feedstock (e.g. logs, wood 
+chips, sawdust); delivered to pellet mill 
+PROCESSING 
+Wood pellet; pellet plant gate 
+PELLET TRANSPORT 
+Wood pellet; delivered to generator 
+FUEL IN USE 
+Electricity and/or heat 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 9 of 40 
+ 
+ 
+ 
+ 
+Identify the inputs of each module 
+The inputs that could influence the final carbon intensity of the biomass by 1% or more are defined as 
+follows: 
+MODULE 
+INPUT 
+PROCESSING AT ORIGIN 
+Diesel used in cultivation, harvesting, 
+extraction and chipping 
+FEEDSTOCK TRANSPORT 
+Fuel used in feedstock transport 
+PROCESSING 
+Drying 
+Heat from fossil fuel boiler/burner 
+Heat from fossil fuel CHP 
+Heat from biomass fuel boiler/burner 
+Heat from biomass CHP 
+Pelleting 
+Grid electricity 
+Onsite electricity (CHP/wind/solar etc.) 
+Fossil fuel for other site energy demands 
+Chemicals and binders 
+PELLET TRANSPORT 
+Fuel used in pellet transport to port; 
+Fuel used in shipping; 
+Fuel used in pellet transport to generator 
+Electricity used for pellet handling; 
+Fuel used for pellet handling; 
+FUEL IN USE 
+Combustion non-CO2 emissions 
+ 
+Emissions relating to fertilisers, pesticides and land use change are also likely to contribute more than 
+1% of biomass lifecycle emissions where they are applicable. However, as these inputs are largely 
+irrelevant for most wood pellet supply chains, they be calculated separately in instances where they 
+apply and included in the “Other upstream emissions” field (See Upstream Section for further details). 
+Identify appropriate emission factors 
+Emission factors for the model are taken from credible resources approved by the EU. In the first 
+instance, emission factors are taken from ‘Solid and gaseous bioenergy pathways: input values and GHG 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 10 of 40 
+ 
+ 
+ 
+ 
+emissions’ Version 26. Additional factors not available in the report are taken from Biograce II, Biograce 
+additional standard values7 and the UK Solid and Gaseous Biomass Carbon calculator V2.0 (Build 36)8. 
+Emission factors for biomass fuels diverted from feedstock input groups are derived from the total 
+upstream emissions (in gCO2eq/tdry matter) for the relative feedstock consignment.  
+Multiply inputs by emissions factors 
+All inputs to the pellet process are required on an absolute basis for the reporting year, to allow for 
+simple verification against operator system records (e.g. metering data, weighbridge tickets).Emissions 
+are calculated on an absolute basis (i.e. total kgCO2eq for the reporting period) by multiplying the input 
+by the total pellet output and its emission factor, as follows: 
+𝐼𝑛𝑝𝑢𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) =
+𝐼𝑛𝑝𝑢𝑡 (𝑢𝑛𝑖𝑡) ×  𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 (𝑔𝐶𝑂2𝑒𝑞
+𝑢𝑛𝑖𝑡
+)
+1,000
+ 
+Where supply chain activities also result in production of CH4 or N2O combustion emissions (e.g. 
+transport or fuel systems), emissions are calculated in accordance with the equation below: 
+𝐼𝑛𝑝𝑢𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞)
+=
+𝐼𝑛𝑝𝑢𝑡 (𝑢𝑛𝑖𝑡) × 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 (𝑔𝐶𝑂2𝑒𝑞
+𝑢𝑛𝑖𝑡
+) + 𝐼𝑛𝑝𝑢𝑡 (𝑢𝑛𝑖𝑡) × 𝐶𝐻4 & 𝑁2𝑂 𝑐𝑜𝑚𝑏𝑢𝑠𝑡𝑖𝑜𝑛 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑔𝐶𝑂2𝑒𝑞
+𝑢𝑛𝑖𝑡
+) 
+1,000
+ 
+Accounting for co-products in conversion modules 
+Wood pellet supply chains rarely produce co-products after the initial harvest. Therefore, the calculator 
+does not support co-product allocation. 
+ 
+ 
+ 
+6 JRC. 2017. Solid and gaseous bioenergy pathways: input values and GHG emissions: Version 2 
+7 https://www.biograce.net/app/webroot/files/file/BioGrace_additional_standard_values_-_version_1_-_Public.pdf  
+8 https://www.ofgem.gov.uk/publications-and-updates/uk-solid-and-gaseous-biomass-carbon-calculator 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 11 of 40 
+ 
+ 
+ 
+ 
+Identify the efficiency of modules 
+To provide alignment with EU Commission recommendations9 and the Directive (EU) 2018/200110, 
+‘Feedstock factors’ are used for determining supply chain efficiencies instead of ‘module efficiencies’. 
+Feedstock factors are the inverse of efficiencies and equal to: 
+𝐹𝑒𝑒𝑑𝑠𝑡𝑜𝑐𝑘 𝑓𝑎𝑐𝑡𝑜𝑟 = 𝑀𝐽 𝑖𝑛𝑝𝑢𝑡
+𝑀𝐽 𝑜𝑢𝑡𝑝𝑢𝑡 
+Total energy contents for each consignment’s inputs and outputs are calculated on a dry mass basis, in 
+line with the Commission recommendations. To allocate the output pellet energy to each input 
+consignment, the following set of equations are used11: 
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑒𝑑 (𝑀𝐽) = 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑒𝑑 (𝑘𝑔 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) × 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝐿𝐻𝑉 (𝑀𝐽
+𝑘𝑔  𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) 
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑓𝑜𝑟 ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 (𝑀𝐽)
+= 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑓𝑜𝑟 ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 (𝑘𝑔 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) × 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝐿𝐻𝑉 (𝑀𝐽
+𝑘𝑔  𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) 
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑀𝐽) = 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑒𝑑 (𝑀𝐽) − 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑓𝑜𝑟 ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 (𝑀𝐽) 
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑀𝐽) =
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑀𝐽)
+∑ 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑀𝐽)12 ×  𝑇𝑜𝑡𝑎𝑙 𝑝𝑒𝑙𝑙𝑒𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑀𝐽)  
+ 
+For calculating the ‘Consignment input (MJ)’ and ‘‘Consignment output (MJ)’ terms, the calculator 
+assumes the dry matter LHV of all feedstock to be equal to the final dry matter of the LHV pellet output. 
+The processing (‘Fuel’) feedstock factor is calculated using the following equation: 
+ 
+9 European Commission. 2015. Note on the conducting and verifying actual calculations of GHG emissions savings. 
+10 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.328.01.0082.01.ENG&toc=OJ:L:2018:328:TOC 
+11 The latter three equations are also conducted on a mass basis in the calculator to be used in other calculations (e.g. 
+determining drying heat emissions allocations) 
+12 The total MJ input for all consignments  
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 12 of 40 
+ 
+ 
+ 
+ 
+𝐹𝑢𝑒𝑙 𝑓𝑒𝑒𝑑𝑠𝑡𝑜𝑐𝑘 𝑓𝑎𝑐𝑡𝑜𝑟 =
+∑ 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑀𝐽)
+∑ 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑀𝐽) 
+In the event of incorrect data entry, such that the MJ of consignment output exceeds the MJ of 
+consignment input, a warning message will show in the header on the dashboard. 
+For processing and pellet transport modules, feedstock factors are assumed as 1 in line with 
+assumptions from JRC ‘Solid and gaseous bioenergy pathways: input values and GHG emissions: Version 
+2’ report and Biograce II. However, users have the option to overwrite these feedstock factors on the 
+‘Reference values’ page in the event losses occur during transport.  
+Calculating the carbon intensity of each module 
+Total carbon emissions for each input are then calculated per tonne of dry biomass output using the 
+following equation: 
+𝐼𝑛𝑝𝑢𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (
+𝑘𝑔𝐶𝑂2𝑒𝑞
+𝑡𝑜𝑛𝑛𝑒 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)) = 𝐼𝑛𝑝𝑢𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞)
+𝑡𝑜𝑛𝑛𝑒𝑠 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) 
+Module emissions are calculated using the following equation: 
+𝑀𝑜𝑑𝑢𝑙𝑒 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (
+𝑘𝑔𝐶𝑂2𝑒𝑞
+𝑡𝑜𝑛𝑛𝑒 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)) = ∑ 𝐼𝑛𝑝𝑢𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (
+𝑘𝑔𝐶𝑂2𝑒𝑞
+𝑡𝑜𝑛𝑛𝑒 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)) 
+The contribution of the module13 to overall emissions is then calculated using the following equation: 
+𝑀𝑜𝑑𝑢𝑙𝑒 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (
+𝑔𝐶𝑂2𝑒𝑞
+𝑀𝐽 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟))
+= 
+𝑀𝑜𝑑𝑢𝑙𝑒 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (
+𝑔𝐶𝑂2𝑒𝑞
+𝑘𝑔 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)) 14
+𝑂𝑢𝑡𝑝𝑢𝑡 𝐿𝐻𝑉 (
+𝑀𝐽
+𝑘𝑔 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟))
+ × ∏ 𝑑𝑜𝑤𝑛𝑠𝑡𝑟𝑒𝑎𝑚 𝑓𝑒𝑒𝑑𝑠𝑡𝑜𝑐𝑘 𝑓𝑎𝑐𝑡𝑜𝑟𝑠 
+This equation is equivalent to that provided in Table 6; Section 5 of the Renewables Obligation 
+Sustainability Criteria guidance, with irrelevant terms excluded: 
+ 
+13 Calculations for processing emissions are separated into drying emissions and processing other site processing emissions 
+due to the heat allocation approach taken for estimating heat emissions on a consignment basis 
+14 This term is stated in the calculator as kgCO2eq/tdry matter, which is equivalent to gCO2eq/kgdry matter 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 13 of 40 
+ 
+ 
+ 
+ 
+• Wood fuel supply chains do not typically produce co-products, the ‘Allocation factor fuel’ is 
+absent from the equation when compared to the equation published by the Commission i.e. in 
+all instances the allocation factor is equal to 1 and so can be ignored from the calculation. 
+• The calculator does not provide a function to calculate ‘emission savings for modules’ as this is 
+unlikely to be relevant for most wood pellet supply chains. 
+Calculating the carbon intensity of the supply chain and converting 
+into relevant units 
+The carbon intensity of the entire supply chain is calculated on the ‘Dashboard’ by summing all the 
+module emission contributions stated in gCO2eq/MJdry matter15. 
+Calculating the carbon intensity of electricity generation 
+The carbon intensity of final electricity generation is calculated in accordance with the following 
+equation: 
+𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑖𝑡𝑦 𝑐𝑎𝑟𝑏𝑜𝑛 𝑖𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 (𝑔𝐶𝑂2𝑒𝑞
+𝑀𝐽
+) =
+𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝑐𝑎𝑟𝑏𝑜𝑛 𝑖𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 (𝑔𝐶𝑂2𝑒𝑞
+𝑀𝐽
+)
+ƞ𝑒𝑙
+×
+𝐶𝑒𝑙 × ƞ𝑒𝑙
+𝐶𝑒𝑙 × ƞ𝑒𝑙 + 𝐶ℎ × ƞℎ 
+Where: 
+ƞel, the electrical efficiency, defined as the annual electricity produced divided by the 
+annual fuel input, based on its energy content 
+ƞh, the heat efficiency, defined as the annual useful heat output divided by the annual fuel 
+input, based on its energy content 
+Cel, the fraction of exergy in electricity, equal to 1 
+Ch, the fraction of exergy in heat (Carnot efficiency for heat), defined as:  
+ 
+15 The RO Sustainability Criteria guidance indicates emissions should be provided in kgCO2eq/unit before converting to 
+gCO2eq/MJ. However, this does not align with either its instructions for calculating the carbon intensity of each module (in 
+gCO2eq/MJ) or with EU Commission recommendations  
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 14 of 40 
+ 
+ 
+ 
+ 
+𝑇𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 𝑜𝑓 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑒𝑑 ℎ𝑒𝑎𝑡 (𝐾) − 𝑇𝑒𝑚𝑝𝑎𝑟𝑎𝑡𝑢𝑟𝑒 𝑜𝑓 𝑠𝑢𝑟𝑟𝑜𝑢𝑛𝑑𝑖𝑛𝑔𝑠(𝐾)
+𝑇𝑒𝑚𝑝𝑒𝑟𝑎𝑡𝑢𝑟𝑒 𝑜𝑓 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑒𝑑 ℎ𝑒𝑎𝑡 (𝐾)
+ 
+Where: 
+Temperature of surroundings is set to 273.15K (0°C) 
+For generators producing only electricity, 
+𝐶𝑒𝑙×ƞ𝑒𝑙
+𝐶𝑒𝑙×ƞ𝑒𝑙+𝐶ℎ×ƞℎ = 1. 
+Calculating the carbon intensity of heat generation 
+The carbon intensity of final heat generation is calculated in accordance with the following equation: 
+𝐻𝑒𝑎𝑡 𝑐𝑎𝑟𝑏𝑜𝑛 𝑖𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 (𝑔𝐶𝑂2𝑒𝑞
+𝑀𝐽
+) =
+𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝑐𝑎𝑟𝑏𝑜𝑛 𝑖𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 (𝑔𝐶𝑂2𝑒𝑞
+𝑀𝐽
+)
+ƞℎ
+×
+𝐶ℎ × ƞℎ
+𝐶𝑒𝑙 × ƞ𝑒𝑙 + 𝐶ℎ × ƞℎ 
+For generators producing only heat, 
+𝐶ℎ×ƞℎ
+𝐶𝑒𝑙×ƞ𝑒𝑙+𝐶ℎ×ƞℎ = 1. 
+ 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 15 of 40 
+ 
+ 
+ 
+ 
+Calculator allocations 
+Allocation of CHP emissions between heat and electricity providing 
+process inputs 
+Emissions relating to CHP systems providing inputs to the pellet production process are allocated to 
+their heat and electricity outputs based on the total, useable energy of the output in accordance with 
+the methodologies outlined in the Directive (EU) 2018/2001 Annex VI, the Renewables Obligation and 
+the Renewable Heat Incentive. 
+Allocation of CHP electricity emissions is performed using the following equation: 
+𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑖𝑡𝑦 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞)
+= ((𝐹𝑢𝑒𝑙 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) + 𝐹𝑙𝑢𝑒 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠(𝑘𝑔𝐶𝑂2𝑒𝑞) )) ×
+𝐶𝑒𝑙 × ƞ𝑒𝑙
+𝐶𝑒𝑙 × ƞ𝑒𝑙 + 𝐶ℎ × ƞℎ 
+Allocation of CHP heat emissions is performed using the following equation: 
+𝐻𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) = ((𝐹𝑢𝑒𝑙 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) + 𝐹𝑙𝑢𝑒 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞)) ×
+𝐶ℎ × ƞℎ
+𝐶𝑒𝑙 × ƞ𝑒𝑙 + 𝐶ℎ × ƞℎ 
+Allocation of heat between drying and other site processes 
+In some circumstances, a fuel system may provide heat to drying, other site processes and/or exported 
+demands16. The total heat emissions for each fuel system are therefore allocated to drying using the 
+following equation: 
+𝐷𝑟𝑦𝑖𝑛𝑔 ℎ𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) = 𝐻𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) × 
+𝐻𝑒𝑎𝑡 𝑓𝑜𝑟 𝑑𝑟𝑦𝑖𝑛𝑔 (𝑘𝑊ℎ)
+𝑇𝑜𝑡𝑎𝑙 𝑢𝑠𝑒𝑎𝑏𝑙𝑒 ℎ𝑒𝑎𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑘𝑊ℎ) 
+Total heat emissions are allocated to heat for other onsite wood pellet processing using the following 
+equation: 
+ 
+16 Either non-processing heat demands or processing demands of neighbouring facility with operations unrelated to 
+production of the wood pellet 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 16 of 40 
+ 
+ 
+ 
+ 
+𝑂𝑡ℎ𝑒𝑟 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔 ℎ𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) = 𝐻𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) × 𝐻𝑒𝑎𝑡 𝑓𝑜𝑟 𝑜𝑡ℎ𝑒𝑟 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔 (𝑘𝑊ℎ)
+𝑇𝑜𝑡𝑎𝑙 𝑢𝑠𝑒𝑎𝑏𝑙𝑒 ℎ𝑒𝑎𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑘𝑊ℎ) 
+Any difference between the total heat emissions and the processing heat emissions (heat for drying + 
+heat for other processing) of the burner/boiler or CHP represents emissions allocated to heat used 
+outside the system and is therefore excluded from the lifecycle emissions of the wood pellet. 
+Allocation of electricity between site processes and export 
+In some circumstances, a fuel system may provide electricity to site processes and export the remaining 
+electricity to the grid or a neighbouring demand. The total electricity emissions for each fuel system are 
+allocated to site processing using the following equation: 
+𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔 𝑒𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑖𝑡𝑦  𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞)
+= 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑖𝑡𝑦 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑘𝑔𝐶𝑂2𝑒𝑞) × 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑖𝑡𝑦 𝑓𝑜𝑟 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔 (𝑘𝑊ℎ)
+𝑇𝑜𝑡𝑎𝑙 𝑒𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑖𝑡𝑦 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑘𝑊ℎ)  
+Any difference between the total electricity emissions and the processing electricity emissions of the 
+CHP represents emissions allocated to exported electricity and are therefore excluded from the lifecycle 
+emissions of the wood pellet. 
+Allocation of drying heat emissions to each consignment 
+Pellet plants provide several complexities from a GHG accounting perspective. They will typically accept a 
+range of different feedstocks to which emissions require allocating to in accordance with the mass balance 
+rules of the Renewable Energy Directive and will often use consignments requiring different processing 
+requirements. For instance, dry sawmill residues may require very little processing to be converted to 
+pellets (e.g. drying and other processing may not be required). Meanwhile, wet stemwood may require a 
+lot of energy to convert the material to pellets (e.g. debarking, chipping and drying all required). 
+Moreover, some biomass may be diverted to ‘hog fuel’, in which case the material delivered to the site 
+will not be equal to the feedstock input for pellet production. 
+To ensure pellet plant drying heat emissions are accurately calculated, emissions are allocated to each 
+consignment based on the relative amount of water removed by the drying process. This is determined 
+by calculating the total water content of the feedstock as received onsite and the total water content of 
+the material after the dryer outlet. For instance, if one consignment requires removal of 1,000 tonnes of 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 17 of 40 
+ 
+ 
+ 
+ 
+water and a second 3,000 tonnes of water, 25% of drying emissions will be allocated to the first 
+consignment and 75% of drying emissions allocated to the second17.  
+The following set of equations are used for performing the allocation of heat drying emissions: 
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑡𝑜𝑛𝑛𝑒𝑠 𝑓𝑟𝑒𝑠ℎ 𝑚𝑎𝑡𝑡𝑒𝑟)
+= 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑒𝑑 (𝑡𝑜𝑛𝑛𝑒𝑠 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) − 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑓𝑜𝑟 ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 (𝑡𝑜𝑛𝑛𝑒𝑠 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)
+100% − 𝑐𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒 𝑐𝑜𝑛𝑡𝑒𝑛𝑡 𝑎𝑡 𝑑𝑟𝑦𝑒𝑟 𝑖𝑛𝑙𝑒𝑡 (%)
+ 
+𝑊𝑎𝑡𝑒𝑟 𝑟𝑒𝑚𝑜𝑣𝑒𝑑 𝑏𝑦 𝑑𝑟𝑦𝑖𝑛𝑔 (𝑡𝑜𝑛𝑛𝑒𝑠)
+= 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑡𝑜𝑛𝑛𝑒𝑠 𝑓𝑟𝑒𝑠ℎ 𝑚𝑎𝑡𝑡𝑒𝑟) − 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑖𝑛𝑝𝑢𝑡 (𝑡𝑜𝑛𝑛𝑒𝑠 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)
+100% − 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒 𝑎𝑡 𝑑𝑟𝑦𝑒𝑟 𝑜𝑢𝑡𝑙𝑒𝑡 (%)
+ 
+% 𝑡𝑜𝑡𝑎𝑙 ℎ𝑒𝑎𝑡 𝑓𝑜𝑟 𝑑𝑟𝑦𝑖𝑛𝑔 =
+𝑊𝑎𝑡𝑒𝑟 𝑟𝑒𝑚𝑜𝑣𝑒𝑑 𝑏𝑦 𝑑𝑟𝑦𝑖𝑛𝑔 (𝑡𝑜𝑛𝑛𝑒𝑠)
+∑ 𝑊𝑎𝑡𝑒𝑟 𝑟𝑒𝑚𝑜𝑣𝑒𝑑 𝑏𝑦 𝑑𝑟𝑦𝑖𝑛𝑔 (𝑡𝑜𝑛𝑛𝑒𝑠)18 
+𝐷𝑟𝑦𝑖𝑛𝑔 ℎ𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (
+𝑔𝐶𝑂2𝑒𝑞
+𝑡𝑜𝑛𝑛𝑒 𝑝𝑒𝑙𝑙𝑒𝑡 (𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟))
+=
+∑ 𝐷𝑟𝑦𝑖𝑛𝑔 ℎ𝑒𝑎𝑡 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 (𝑔𝐶𝑂2𝑒𝑞)19 ×  % 𝑡𝑜𝑡𝑎𝑙 ℎ𝑒𝑎𝑡 𝑓𝑜𝑟 𝑑𝑟𝑦𝑖𝑛𝑔
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑡𝑜𝑛𝑛𝑒𝑠 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)
+ 
+The calculator assumes that any material losses (i.e. any difference between the ‘Consignment input’ 
+and ‘Consignment output’ terms) at the pellet plant occur during the pelleting process. Where losses at 
+the pellet mill occur upstream of pelleting, this will result in an overestimate of the material entering 
+and exiting the dryer and ultimately the total amount of water removed by drying. However, it is 
+reasonable to assume any losses are likely to be both small and relatively consistent across 
+consignments and will thus have a negligible impact on the allocation of drying heat emissions. It is also 
+important to note that regardless of any losses, this approach applies a percentage to the total heat 
+emissions for each consignment (with the total sum of these percentages equalling 100%), ensuring all 
+emissions are accounted for when considering all outputs of the pellet plant. 
+Co-product allocation 
+As wood pellet supply chains typically only produce a single product (wood pellet), the calculator does 
+not allow for allocation of emissions to co-products. 
+ 
+17 1,000/(1,000 + 3,000) x 100 = 25%; 3,000/(1,000 + 3,000) x 100 = 75% 
+18 The total water removed across all consignments 
+19 The total drying heat emissions across all fuel systems 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 18 of 40 
+ 
+ 
+ 
+ 
+Additional calculations 
+Lower heating values 
+Lower heating values for feedstock consignments are calculated from the moisture content of the 
+consignment and lower heating value (LHV) of the pellet on a dry basis in accordance with the following 
+equation: 
+𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝐿𝐻𝑉 (𝑀𝐽
+𝑘𝑔 𝑓𝑟𝑒𝑠ℎ 𝑚𝑎𝑡𝑡𝑒𝑟)
+= 𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝐿𝐻𝑉 (𝑀𝐽
+𝑘𝑔 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) × (100% − 𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒 (%))
+− 𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒(%) × ∆𝐻𝑣𝑎𝑝 
+Where: 
+∆Hvap (Latent heat of evaporation for water under standard temperature and pressure) = 2.441 
+MJ/kg 
+The inverse equation is also used within the calculator for determining the LHV of dry biomass based on 
+its moisture content and LHV (on a fresh basis) using the following equation: 
+𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝐿𝐻𝑉 (𝑀𝐽
+𝑘𝑔 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟) =
+𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝐿𝐻𝑉 (𝑀𝐽
+𝑘𝑔 𝑓𝑟𝑒𝑠ℎ 𝑚𝑎𝑡𝑡𝑒𝑟) + 𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒(%) × ∆𝐻𝑣𝑎𝑝
+100% − 𝐵𝑖𝑜𝑚𝑎𝑠𝑠 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒 (%)
+ 
+Output contribution 
+The percentage of total pellet output attributable to each consignment (‘Output contribution’) is 
+calculated using the following equation: 
+𝑂𝑢𝑡𝑝𝑢𝑡 𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛 (%) = 
+𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑀𝐽 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)
+∑ 𝐶𝑜𝑛𝑠𝑖𝑔𝑛𝑚𝑒𝑛𝑡 𝑜𝑢𝑡𝑝𝑢𝑡 (𝑀𝐽 𝑑𝑟𝑦 𝑚𝑎𝑡𝑡𝑒𝑟)20 
+ 
+20 The total MJ output for all consignments (i.e. the total MJ wood pellet output) 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 19 of 40 
+ 
+ 
+ 
+ 
+Guide to inputting data 
+Dashboard 
+The dashboard is the main landing page of the calculator, providing the user with the ability to make 
+scenario selections and view the outputs to the calculator. 
+Reporting information 
+The following reporting information to assist verifying parties can be entered in the header of the 
+dashboard: 
+• Pellet plant: Name of the pellet plant for which supply chain emissions are being calculated 
+• Start of period: The start date of the reference period (i.e. the period for which operational data 
+is collected for analysis of supply chain emissions) 
+• End of period: The end date of the reference period, typically one year from the start of the 
+period. 
+Transport route selections 
+A scenario selection tool is available in the header of the dashboard offering the user to select different 
+transport route options for both the delivery of feedstock to the pellet mill and downstream distribution 
+of the pellet: 
+• Feedstock travel distance: For many consignments, feedstock will be transported from a variety 
+of different origins, which will inevitably be different distances from the pellet mill. The 
+‘Upstream’ page allows users to enter feedstock travel distance information for the maximum 
+travel distance and the weighted average distance. The scenario selection tool allows the user 
+the option to switch between the two transport options. If an option is not chosen, the 
+maximum distance will automatically be assumed.  
+• Route identifier: The wood pellet output to a pellet plant may be distributed to a variety of end 
+users or distributed the same end user via different routes. The ‘pellet transport’ page allows the 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 20 of 40 
+ 
+ 
+ 
+ 
+input of transport data for up to 10 different downstream distribution routes. The scenario 
+selection tool allows the user the option to switch between these different routes based on the 
+‘route identifier’. An option must be chosen for GHG emissions to be fully calculated. 
+End user 
+Where the calculator is required for determining the carbon intensity of heat or electricity, the user 
+should select whether the end user is an electricity generator, heat generator or CHP generator. Clicking 
+the ‘add’ button next to the list of generators will unhide relevant fields to the type of generator 
+selected (columns M:N on the ‘dashboard’ and rows 11-13 on the ‘End use’ page). 
+Users can reset the end user data by clicking the ‘Reset’ button. 
+Warning – the reset function will delete all data entered by the user on the ‘end user’ page. 
+Consignments 
+The calculator allows users to select up to 20 different feedstock ‘consignments’ by selecting the 
+necessary number in ‘Number of feedstock consignments’ field and clicking the ‘Add’ button. Users can 
+reset the consignment data by clicking the ‘Reset’ button. 
+Warning – the reset function will delete all consignment data entered by the user on the ‘feedstock’ 
+and ‘upstream’ pages. 
+Summary table 
+The dashboard provides a summary table of supply chain emissions in gCO2eq/MJ pelletdry matter, showing 
+the relevant contribution of ‘Processing at origin’, ‘Feedstock transport’, ‘Drying’, ‘Pelleting and other 
+processing’, ‘Pellet transport’ and ‘Fuel in use’ to overall emissions. This breakdown of emissions is 
+shown in the graph. The table also shows the final emissions for the pellet, emissions for heat and/or 
+electricity generation, the total pellet output for each consignment and the contribution of each 
+consignment towards the output of the plant. 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 21 of 40 
+ 
+ 
+ 
+ 
+Feedstock 
+Consignments 
+Before inputting information on the ‘Feedstock’ page, users should first ensure they have added the 
+necessary number of consignments on the ‘Dashboard’ to ensure that enough rows of input data are 
+available. 
+Options available in the dropdown lists for Feedstock Group, Origin and Physical Description fields align 
+to those provided in the SBP SAR for wood pellets v2.0. While it is not vital for all these fields to be 
+completed for the calculation of emissions, they are valuable for the auditor for ensuring the input data 
+aligns to the source evidence. 
+The total amount of each consignment processed during the reporting period should be input into in the 
+‘Consignment delivered’ field, with values provided on a fresh tonne basis. This includes all feedstock 
+entering the pellet production process, including any material diverted to hog fuel. Biomass sourced 
+specifically for hog fuel can either be reported here as a separate consignment # (where upstream data 
+is available for the fuel)21 or in the imported fuel tables on the ‘pellet plant’ page. 
+The moisture content as received is the weighted average moisture content for the feedstock as initially 
+received onsite and is input as a percentage. 
+Users are also required to state whether consignments are fed to a dryer at the plant by selecting ‘yes’ 
+or ‘no’ in the ‘Drying required at plant?” field. 
+The moisture content at the dryer inlet is the weighted average moisture content for the feedstock as 
+delivered to the dryer. This will typically be the same as the moisture content as received. However, if a 
+feedstock consignment is air dried onsite prior to drying, the moisture content of the feedstock will be 
+lower than as received. This is important to document to ensure drying emissions are not over-allocated 
+ 
+21 Users must ensure that the fuel group is then reported in the ‘Biomass boiler/burner inputs - diverted from pellet 
+production process’ or ‘Biomass CHP inputs - diverted from pellet production process’ table on the pellet plant page, rather 
+than the diverted fuel tables. 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 22 of 40 
+ 
+ 
+ 
+ 
+to the consignment by the calculator. If a feedstock consignment does not enter the dryer or is not air 
+dried onsite the user need not enter a value in this field (or can enter “N/A”). 
+Notes 
+Should the user wish to provide additional notes for justifying the input data used, this can be provided 
+in the ‘Notes’ section at the bottom of the page. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+Upstream 
+The ‘Upstream’ page covers all supply chain activities upstream of the pellet mill, including the 
+‘processing at origin’ and ‘feedstock transport’ modules. As data for supply chain inputs upstream of 
+pelleting will often be unavailable, the calculator provides separate options for calculating emissions 
+related to forestry operations (e.g. cultivation harvesting and extraction): 
+• Actual values – This approach allows actual data collected from forestry activities to be used. It 
+can also be used for inputting ‘reference values’ where data may be unknown by using the 
+‘Diesel use lookup’ tool available in the header. 
+• Disaggregated default values - This approach uses disaggregated default values from Directive 
+(EU) 2018/2001 for determining emissions. This approach is a mandatory requirement for 
+compliance with Directive (EU) 2018/2001 where energy data for forestry operations is 
+unknown. A lookup function for disaggregated default values is provided in the header.  
+Diesel use 
+As users will often rely on the use of ‘reference values’ for forestry operations (e.g. from the JRC ‘Solid 
+and gaseous bioenergy pathways: input values and GHG emissions: Version 2’ report or Biograce II), all 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 23 of 40 
+ 
+ 
+ 
+ 
+upstream diesel processing requirements have been included in a single field to reduce the complexity 
+of the calculator, covering cultivation, harvesting, extraction and chipping. A tool is provided on the 
+right-hand side of the header to enable the user to look up reference values. It is important to ensure 
+that diesel use for forestry operations are adjusted for any process losses occurring prior to feedstock 
+transport (e.g. during seasoning or chipping), otherwise diesel emissions will be underestimated.  
+Data should not be entered in this field if intending to use disaggregated default values. 
+Other upstream emissions 
+For wood pellet supply chains derived from products (i.e. not wastes or residues) and where land inputs 
+such as fertilisers and pesticides are required (e.g. wood pellet from energy crops), the calculator must 
+be used alongside other tools (e.g. Biograce II; The UK Solid and Gaseous Biomass Carbon Calculator) for 
+calculating upstream emissions22. 
+Any emissions resulting from land use change or use of additional inputs should be calculated in 
+accordance with rules of the relevant legislation (e.g. Renewables Obligation or Directive (EU) 
+2018/2001) and stated in kgCO2eq/toutput. It is important to ensure that emissions are adjusted for any 
+process losses occurring prior to feedstock transport to site (e.g. during seasoning or chipping). 
+A corresponding table is provided on the ‘Reference values’ page to allow the user to keep a record of 
+any upstream emissions regularly used in calculations.  
+Data should not be entered in this field if intending to use disaggregated default values, unless 
+emissions relate to land use change emissions or other land use carbon impacts (e.g. soil carbon 
+accumulation). 
+Disaggregated default values 
+Disaggregated default values for wood pellet supply chains are listed in the ‘Reference values’ and can 
+be easily accessed using the lookup table in the header. Only these values, or other disaggregated 
+ 
+22 The necessary calculations for these inputs (e.g. determining changes in carbon stock from land use change or N2O 
+emissions from fertiliser application) are omitted on account they would significantly increase the complexity of the 
+calculator if included yet are rarely required for wood pellet supply chains 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 24 of 40 
+ 
+ 
+ 
+ 
+default values from Directive (EU) 2018/2001 should be used. Actual or calculated values should not be 
+entered. 
+Where disaggregated default values are used, users are still required to enter data for feedstock 
+transport. 
+Data should not be entered into this field if using actual values or ‘reference values’ for forestry 
+operations.  
+Feedstock transport 
+For each consignment, the calculator allows users to select the mode of transport, the transport fuel 
+used, the weighted average distance and the maximum distance for up to two separate journeys for the 
+transport of feedstock from its origin to the pellet mill. In the event transport modes or fuels are not 
+available from the drop-down lists, users can input their own values on the ‘Standard values’ page 
+(‘Transport’ and ‘Transport fuels’ tables). However, this will require users to source their own input data 
+(e.g. transport efficiencies and exhaust emission) to ensure emissions are fully accounted for. 
+Diesel use lookup 
+The table provides aggregated and disaggregated values for diesel use in cultivation, harvesting, 
+extraction and chipping, taken from the JRC ‘Solid and gaseous bioenergy pathways: input values and 
+GHG emissions: Version 2’ report.  
+For aggregated values (‘Diesel for collection of forestry residues including stump harvesting and 
+chipping’ and ‘Diesel for cultivation, harvesting and chipping of stemwood’), yield adjustments are 
+accounted for. 
+Users must note that the reference values are provided in litre/tdry matter and must be converted to a 
+fresh matter basis by multiplying by the dry matter content (i.e. 100% - moisture content) of the 
+relevant consignment. Where consignment data is already entered, the user can determine the 
+litre/tfresh matter input value by selecting the relevant process and consignment in the lookup table. 
+The underlying data for the lookup table is provided in the ‘Reference values’ page. 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 25 of 40 
+ 
+ 
+ 
+ 
+Notes 
+Should the user wish to provide additional notes for justifying the input data used, this can be provided 
+in the ‘Notes’ section at the bottom of the page. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+Pellet plant 
+The ‘Pellet plant’ page covers all input and output data for the pellet plant, or other processing facility. 
+All data should be entered as absolute values for the reporting period of assessment. 
+Pellet plant output 
+Output information for the pellet plant is required in the top section of the page. Output volumes of 
+pellet should be entered on a fresh matter basis (i.e. should include moisture content). The pellet lower 
+heating value (LHV) should also be on a fresh matter basis. Where this value is unavailable, the user may 
+estimate this from default values using the lower heating value calculator on the ‘Assisting calculations’ 
+page. 
+The moisture of the feedstock after drying (‘moisture at the dryer outlet %’) and final moisture content 
+of the pellet also require entering. Where the moisture at the dryer outlet is unknown, it is appropriate 
+to use the final pellet moisture in this field. 
+Fuel system inputs 
+The calculator allows users to add up to 4 different fuel systems: 
+• Fossil fuel boiler/burner 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 26 of 40 
+ 
+ 
+ 
+ 
+• Fossil fuel CHP 
+• Biomass boiler/burner 
+• Biomass CHP 
+The relevant fuel system should be selected in the listbox and the ‘Add’ button pressed to unhide the 
+necessary input data for the system selected. Users can reset the fuel system data by clicking the ‘Reset’ 
+button. 
+Warning – the reset function will delete all fuel system data entered by the user. 
+It is important to note that this selection tool is a hide/unhide function. This means that use of the 
+‘reset’ button will not delete any data already entered in the calculator but will instead hide any rows 
+unnecessary to the user. 
+For fossil fuel systems, users can insert consumption data in either kg or MJ, depending on how the 
+information is collected onsite (typically MJ for gases or kg for solids and liquids). Where users need to 
+convert from one unit into another, a ‘Unit converter’ assistance tool is provided in the right-hand side 
+of the page header. If a fuel used in the system is not available from the drop-down list, users can input 
+their own values on the ‘Standard values’ page (‘Fossil fuels’ table). However, this will require users to 
+source their own input data (e.g. emission factors) to ensure emissions are fully accounted for. 
+For biomass systems, users are required to provide input tonnages for hog fuel on a fresh tonne basis. 
+For each fuel system, there are two separate tables for reporting hog fuels: 
+DIVERTED HOG FUEL 
+Hog fuel taken from input consignments listed on the ‘Feedstock’ page should be reported in the 
+biomass input tables labelled ‘diverted from pellet production process’. Importantly, users must state 
+from which feedstock consignment # the hog fuel is derived to ensure the mass balance for the site is 
+accurately calculated. 
+If the hog fuel is taken after a process that results in mixing of multiple consignments (e.g. drying), the 
+percentage of each consignment contributing to the mix should be manually calculated on a dry mass 
+basis based on the relative input contribution. The fuel system consumption for each consignment 
+should then be determined by multiplying the total fuel system consumption of the feedstock mix by 
+the contributing percentage. 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 27 of 40 
+ 
+ 
+ 
+ 
+For instance, if 1,000 tonnes of stemwood chips at 50% moisture and 2,000 tonnes of sawdust at 25% 
+moisture are added to a dryer, of which 300 tonnes of the dried output (at 10% moisture) is used as hog 
+fuel, the following calculations should be performed: 
+1,000 × (100% − 50%) = 500 𝑑𝑟𝑦 𝑡𝑜𝑛𝑛𝑒𝑠 𝑠𝑡𝑒𝑚𝑤𝑜𝑜𝑑 𝑐ℎ𝑖𝑝𝑠 
+2,000 × (100% − 25%) = 1,500 𝑑𝑟𝑦 𝑡𝑜𝑛𝑛𝑒𝑠 𝑠𝑎𝑤𝑑𝑢𝑠𝑡 
+500
+500 + 1500 =  25% ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 𝑎𝑠 𝑠𝑡𝑒𝑚𝑤𝑜𝑜𝑑 𝑐ℎ𝑖𝑝𝑠 
+1,500
+500 + 1500 =  75% ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 𝑎𝑠 𝑠𝑎𝑤𝑑𝑢𝑠𝑡 
+300 × 25% =  75 𝑡𝑜𝑛𝑛𝑒𝑠 𝑠𝑡𝑒𝑚𝑤𝑜𝑜𝑑 𝑐ℎ𝑖𝑝𝑠 𝑓𝑜𝑟 ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 𝑎𝑡 10% 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒 
+300 × 75% =  225 𝑡𝑜𝑛𝑛𝑒𝑠 𝑠𝑎𝑤𝑑𝑢𝑠𝑡 𝑓𝑜𝑟 ℎ𝑜𝑔 𝑓𝑢𝑒𝑙 𝑎𝑡 10% 𝑚𝑜𝑖𝑠𝑡𝑢𝑟𝑒 
+An assistance tool for performing such calculations is provided on the ‘Assisting calculations’ page. 
+IMPORTED HOG FUEL 
+For imported hog fuel that has been sourced specifically for providing fuel to the biomass process and 
+which has not been reported on the ‘Feedstock’ page, users must enter data in the relevant biomass 
+input tables labelled ‘imported fuels’. Default emission values are used for these fuels, derived from 
+Directive (EU) 2018/2001. Users may provide their own emission values for imported hog fuels by 
+providing a new set of user values in the ‘Biomass fuels’ table on the ‘Standard values’ page. Users must 
+also complete the corresponding ‘Biomass CHP flue gas emissions’ and ‘Biomass boiler flue gas 
+emissions’ tables to ensure stack CH4 and N2O emissions are accounted for. 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 28 of 40 
+ 
+ 
+ 
+ 
+Fuel system outputs 
+By default, the calculator applies all heat output of the fuel systems to drying. Therefore, in situations 
+where heat is applied only to drying but output is unknown (e.g. direct air heating) certain fields can be 
+left blank. For boiler/burner systems, all output fields can be left empty where the entire heat output is 
+used for drying. For CHP systems, ‘Heat for drying’ and ‘Heat for processing’ fields may be left empty. 
+However, the user must input information for ‘Total usable heat output’ to ensure emissions are 
+correctly allocated between heat and electricity outputs. 
+Fields for fuel system outputs are defined as below: 
+• ‘Total useable heat output’ is the total kWhth of heat generated by the fuel system to satisfy an 
+economical justifiable demand for heat, for heating or cooling purposes23; it should not include 
+any heat output produced by the fuel system that is ‘wasted’ 
+• ‘Heat for drying’ is the total kWhth heat output from the installation used for drying feedstock 
+• ‘Heat for other site processing’ is the total kWhth heat output from the installation used for 
+wood pellet production processes other than drying 
+• ‘Heat exported’ is the total kWhth heat output of the fuel system exported to an external 
+demand, either to ancillary facilities or to a neighbouring demand unrelated to the pellet plant 
+operation. This value is automatically calculated by deducting heat for drying and heat for other 
+processing from the total heat output of the CHP and is shown only for completeness. 
+• ‘Temperature of heat at point of delivery’ is the temperature of the energy vector (e.g. hot 
+water, steam) in °C when delivered to the process 
+• ‘Total electricity output’ is the total electricity output of the fuel system in kWhe 
+• ‘Electricity for processing’ is the total electricity output of the fuel system in kWhe that is used 
+for onsite processing (e.g. pelleting). It should not include any electricity that is exported to an 
+external demand, either to ancillary facilities, the grid or by direct wire to a neighbouring 
+operation24 
+ 
+23 ‘Economical justifiable demand’ is defined as the demand that does not exceed the needs for heat or cooling and which 
+would otherwise be satisfied at market conditions 
+24 It is important to note that where calculations are used for regulatory compliance with the UK Renewables Obligation or 
+Directive (EU) 2018/2001, electricity used from a biomass CHP cannot be considered as such under certain conditions (e.g. if 
+distributed to the plant via the grid). Please refer to the relevant legislations for further details. Where this is the case, 
+electricity for processing should be assumed to be 0, such that is assumed all electricity output is exported. Electricity used 
+from the CHP should then be accounted for under grid electricity. 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 29 of 40 
+ 
+ 
+ 
+ 
+• ‘Electricity exported’ is the total electricity output of the fuel system in kWhe exported to an 
+external demand, either to ancillary facilities, the grid or by direct wire to a neighbouring 
+operation. This value is automatically calculated by deducting processing electricity from the 
+total electricity output of the CHP and is shown only for completeness. 
+Electricity inputs 
+Electricity consumption should include all processes at the site. 
+Users have the facility to input data for electricity consumed from both grid or onsite sources in the 
+event electricity is derived from multiple sources. For grid electricity, the relevant region should be 
+selected by the user. Standard data for grid carbon intensities at the EU level are taken from the JRC 
+‘Solid and gaseous bioenergy pathways: input values and GHG emissions: Version 2’ report, and at the 
+national level from Biograce additional standard values. However, users have the facility to input their 
+own data on the ‘Standard values’ page (‘Electricity – Grid’ table) should they have access to more up-
+to-date values (e.g. The annual IEA Emissions Factors publication25). 
+Electricity from onsite fossil fuel or biomass CHP is shown in the ‘Onsite electricity inputs’ fields and is 
+automatically taken from the ‘Electricity for processing’ fields in the Fuel System section and is shown 
+here only for completeness. 
+For electricity supplied by direct wire from a neighbouring facility, data should be entered into the 
+‘Onsite electricity inputs’ field. Where the source is not solar or wind, the user is required to calculate 
+the carbon intensity of the electricity supplied and include the emission factor in the ‘Electricity – 
+Onsite’ table on the ‘Standard values’ page. 
+It is important to note that where calculations are used for regulatory compliance with the UK 
+Renewables Obligation or Directive (EU) 2018/2001, electricity from renewable generation cannot be 
+considered as such under certain conditions (e.g. if distributed to the plant via the grid). Where this is 
+the case, all electricity should be accounted for under grid electricity. Please refer to the relevant 
+legislations for further details. 
+ 
+25 E.g. http://data.iea.org/payment/products/122-emissions-factors-2018-edition.aspx  
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 30 of 40 
+ 
+ 
+ 
+ 
+Additional inputs 
+Any additional pellet plant fossil requirements (e.g. diesel use for moving feedstock) should be recorded 
+in this section. Equally, any non-feedstock binding agents or chemicals used in the process should also 
+be added. It is important that the user provides their own emission factor for binders or chemicals on 
+the ‘Standard values’ page (‘Binders/chemicals’ table), as default emission factors for relevant inputs are 
+not widely available.  
+Unit converter 
+A ‘Unit converter’ assistance tool is provided in the right-hand side of the page header. This allows users 
+to convert from kg, t, litre, m3, MJ, GJ, MWh, GWh and mmBTU to MJ and kg, provided all necessary 
+information (mass density and lower heating value) is included on the ‘Standard values’ page (‘Fossil 
+fuels’ table). 
+Notes 
+Should the user wish to provide additional notes for justifying the input data used, this can be provided 
+in the ‘Notes’ section at the bottom of the page. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+Pellet transport 
+Distribution routes 
+The pellet produced by a mill may be distributed by a variety of different end routes. Each distribution 
+route is labelled with a ‘route identifier’. The number of distribution routes can be chosen by selecting 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 31 of 40 
+ 
+ 
+ 
+ 
+the necessary number (up to a maximum of 10) and clicking the ‘Add’ button. Data can be deleted by 
+clicking the ‘Reset’ button.  
+The ‘Route definition’ provides a free text field which the user can use to describe the distribution route 
+and which can be used to assist auditors for verification. For instance, the following could be used for 
+route definition: 
+Pellet mill location – Load port – Disport – Generator location 
+The ‘Route identifier’ provides a free text field where the user can use a reference code to describe the 
+route. For instance, generators using the SBP certification scheme can use production batch ID codes for 
+describing each route. This field must be completed to allow selection of route on the dashboard page. 
+Each distribution route allows users to input up to 6 different journeys: 
+• 2 journeys from the pellet mill to the port of dispatch (Journey 1 & Journey 2) 
+• 2 shipping journeys from the port of dispatch to the port of receipt (Shipping 1 & Shipping 2) 
+• 2 journeys from the port of receipt to the generator (Journey 3 & Journey 4) 
+Users can use any different combination of fields to describe the distribution route. For instance, if a 
+route requires three land journeys but does not require shipping, it is appropriate to input information 
+for ‘Journey 1’, ‘Journey 2’ and ‘Journey 3’ while leaving other fields blank. 
+In the event transport modes or fuels are not available from the drop-down lists, users can input their 
+own values on the ‘Standard values’ page (‘Transport’, ‘Transport fuels’ and ‘Shipping’ tables). However, 
+this will require users to source their own input data (e.g. transport efficiencies and exhaust emission) to 
+ensure emissions are fully accounted for. 
+Handling energy requirements 
+Input fields for storage & handling electricity and fuel requirements are provided for each distribution 
+route. Where electricity is required in two different countries (e.g. the port of loading and the port of 
+arrival) consumption should be entered separately for each demand, with the correct region identified. 
+Unit converter 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 32 of 40 
+ 
+ 
+ 
+ 
+A ‘Unit converter’ assistance tool is provided in the right-hand side of the page header. This allows users 
+to convert from miles or nautical miles to km. 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 33 of 40 
+ 
+ 
+ 
+ 
+Notes 
+Should the user wish to provide additional notes for justifying the input data used, this can be provided 
+in the ‘Notes’ section at the bottom of the page. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+End use 
+Fuel type 
+The fuel type of the biomass is required to be selected for determining combustion non-CO2 (CH4 and 
+N2O) emissions. The calculator automatically calculates these emissions based on the fuel type selected 
+using default values for these emissions derived from Directive (EU) 2018/2001. Where actual CH4 and 
+N2O emissions are known, users can enter a new fuel type on the ‘Standard values’ page and insert their 
+own fuel (e.g. ‘Wood pellet (user value)’) and include their own values for combustion non-CO2 
+emissions. 
+Electrical efficiency 
+The electrical efficiency of the end generator is the annual electricity produced divided by the annual 
+fuel input, in MJ of electricity per MJ of pellet. 
+Heat efficiency 
+The heat efficiency of the end generator is the annual useful heat produced divided by the annual fuel 
+input, in MJ of heat per MJ of pellet. Any heat that is ultimately wasted should not be included in 
+determining the heat efficiency of the generator. 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 34 of 40 
+ 
+ 
+ 
+ 
+Temperature of heat at point of delivery 
+The temperature of the useful heat at point of delivery to its end use application. 
+Notes 
+Should the user wish to provide additional notes for justifying the input data used, this can be provided 
+in the ‘Notes’ section at the bottom of the page. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+Emissions 
+All calculations, as described in the ‘Calculation structure and alignment to the Renewables Obligation 
+methodology’ Section, are conducted here. There are no input fields on this page. 
+Standard values 
+Standard values 
+This page contains all standard values (e.g. conversion factors, fuel properties, transport efficiencies and 
+emission factors) used in the calculator, largely derived from the JRC ‘Solid and gaseous bioenergy 
+pathways: input values and GHG emissions: Version 2’ report and Biograce II. 
+For each table, users can include their own values using the rows labelled ‘User value – insert data’. 
+Users are recommended to make it clear when they have input and used their own values in the 
+calculator to assist the verification process, for instance, by suffixing the name of each new fuel or 
+transport mode etc. added with ‘_user value’.  
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 35 of 40 
+ 
+ 
+ 
+ 
+It is important that users input information for all relevant fields when adding new values to ensure 
+emissions are calculated correctly. 
+However, there are several exceptions: 
+• Density in the ‘Fossil fuels’ and ‘Transport fuels’ table is not required as the value is only used for 
+converting from volume to mass/energy values in the unit converted on the ‘Pellet plant’ page 
+• Density in the ‘Biomass fuels’ table is not currently used in the calculator 
+• LHV is not required for electricity in the ‘Transport fuels’ table 
+• Exhaust CH4 and N2O emissions in the ‘Shipping’ table unless these values are known, insofar as 
+these emissions are assumed to be 0 in Biograce II 
+User entered standard values should comply with the relevant regulatory guidelines and should be 
+appropriately referenced. References should be numbered, with full details provided on the 
+‘References’ page. 
+Users are prevented from overwriting standard values (with exception of transport feedstock factors – 
+see below). They must instead include any new values as a new row in the relevant table in accordance 
+with the guidance above. 
+For instance, if the user wishes to input a new emission factor for natural gas used as a transport fuel, 
+they must use one of the additional rows available to insert the new fuel name, insert the new value and 
+copy any other standard values for information the user does not wish to change (see example below). 
+ 
+Fuel
+Density
+kg/m3
+LHV
+MJ/kg
+0% water
+Emission factor
+gCO2eq/MJ
+[N/A.]
+Reference
+Notes
+Diesel
+832
+43.1
+95.1
+2,1
+Gasoline
+745
+43.2
+92.4
+2
+Heavy fuel oil
+970
+970.0
+94.2
+2,1
+Natural gas
+N/A
+49.2
+66.0
+2,1
+Biograce II value not suitable as 
+represents marginal supply rather than 
+LPG
+N/A
+46.0
+73.3
+2
+Electricity - EU HV
+N/A
+N/A
+136
+3
+Electricity - US
+N/A
+N/A
+180
+3
+Electricity - Canada
+N/A
+N/A
+55
+3
+Electricity - Russia
+N/A
+N/A
+172
+3
+Electricity - UK
+N/A
+N/A
+165.5
+3
+Natural gas - User value
+N/A
+49.2
+62.0
+2,6
+LHV taken from Biograce II; Emission 
+factor taken from reference 6
+Transport fuels
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 36 of 40 
+ 
+ 
+ 
+ 
+Should users need to use their own values in the ‘Biomass CHP flue gas emissions’ or ‘Biomass boiler 
+flue gas emissions’ tables, they must first include the new fuel in the ‘Biomass fuels’ table. Equally, if 
+users need to use their own values in the ‘Fossil CHP flue gas emissions’ or ‘Fossil boiler flue gas 
+emissions’ tables, they must first include the new fuel in the ‘Fossil fuels’ table. 
+Transport feedstock factors 
+The standard values page contains default ‘Transport feedstock factors’ for feedstock and wood pellet 
+transport. These values are directly used in calculating module emission contributions (by accounting for 
+supply chain losses) and by default are set to 1, in accordance with the default values outlined in JRC 
+‘Solid and gaseous bioenergy pathways: input values and GHG emissions: Version 2’ report. If the 
+modelled supply chains suffer supply chain losses during transport, users can overwrite these default 
+factors. 
+Lookup tables 
+The page further contains lookup tables for ‘Feedstock groups’, ‘Feedstock origins’, ‘Physical 
+descriptions’, ‘Fuel supply options’, ‘Consignment numbers’ and ‘Countries of Origin’. Additional 
+countries of origin for feedstock can be added by the user by overwriting the ‘User value - insert data’ 
+fields. 
+Notes 
+Additional notes for justifying the input data used is provided in the ‘Notes’ column for each table. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 37 of 40 
+ 
+ 
+ 
+ 
+Reference values 
+Reference values 
+This page contains reference values for upstream energy demands taken from Directive (EU) 2018/2001, 
+the JRC ‘Solid and gaseous bioenergy pathways: input values and GHG emissions: Version 2’ report and 
+Biograce II. These values are not directly used in the calculator and are only provided as a point of 
+reference where their use may be required by the user in place of actual input data: 
+• The ‘Disaggregated default values’ can be looked up on the ‘Upstream’ page and used in the 
+absence of measured supply chain data for compliance with Directive (EU) 2018/2001  
+• The ‘Wood handling and processing energy requirements for wood chip production from forestry 
+feedstocks’ can be looked up on the ‘Upstream’ page and used in the absence of measured 
+supply chain data 
+• The ‘Wood handling and processing energy requirements for pellets from fresh forest chips’ are 
+used in the ‘assisting calculations’ page if the tool is being used to model supply chain data in the 
+absence of pellet plant operational data 
+• The ‘Wood processing feedstock factors’ are used for determining reference values in the ‘Wood 
+handling and processing energy requirements for wood chip production from forestry 
+feedstocks’ table 
+• The ‘Upstream emissions table’ allows the user to keep a record of any upstream emissions 
+regularly used in its calculations.  
+Notes 
+Additional notes for justifying the input data used is provided in the ‘Notes’ column for each table. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly. 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 38 of 40 
+ 
+ 
+ 
+ 
+Assisting calculations 
+Assistance for modelling pellet mill mass balance based on different 
+fuel systems 
+This section is for users wishing to estimate the amount of feedstock required by a pellet plant, based 
+on the pellet output of the plant and the fuel system used. The outputs from this page should only be 
+used in the calculator to provide a provisional estimate of supply chain emissions and should not be 
+used in place of actual data. 
+Users are required to provide data for the total output of pellet, the fuel system used, pellet LHV and 
+moisture content, the electrical and heat efficiencies of the fuel systems and the initial moisture content 
+of the feedstock26. The tool uses values from the JRC ‘Solid and gaseous bioenergy pathways: input 
+values and GHG emissions: Version 2’ report to provide estimates of: 
+• Total heat demand for drying 
+• Total electricity demand for pelleting 
+• Total fuel consumption for each fuel system (in MJ for fossil fuels; in MJ and dry tonnes for 
+biomass fuels) 
+• Total heat and electricity output for each fuel system 
+• The total amount of grid electricity required for pelleting (where CHP electricity is insufficient to 
+meet demand) 
+• The total amount of dry and fresh tonnes of feedstock required to fulfil site feedstock and energy 
+demands (assuming the feedstock also provides hog fuel or biomass fuel systems) 
+This tool can only be used to estimate feedstock requirements on a fresh tonne basis for consignments 
+of equivalent moisture content. Where consignments of different moisture content are required, users 
+should conduct their own mass balance from the dry tonne requirements to estimate the tonnage of 
+fresh biomass needed. 
+ 
+26 Placeholder data is provided, with all values taken from JRC. 2017. Solid and gaseous bioenergy pathways: input values and 
+GHG emissions: Version 2, with exception of fossil CHP efficiencies, which are taken from US EPA data 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 39 of 40 
+ 
+ 
+ 
+ 
+Calculator for determining relative contributions of biomass within a 
+feedstock mixture 
+This section is for users to calculate the relative contribution of each biomass consignment within a 
+feedstock mix and the estimated tonnage of each consignment where a portion of the mixture is used as 
+a processing fuel (e.g. where the output to a biomass dryer is re-used as fuel for the system). 
+Users are required to enter data for: 
+• Tonnes of biomass mixture 
+• Moisture of biomass mixture 
+• Consignment # for each consignment contributing to the mixture 
+• Tonnes for each consignment entering the mixture 
+• Moisture % for each consignment entering the mixture 
+The tonnage of each biomass consignment in the fuel mix used is provided on both a dry basis (0% 
+moisture) and fresh basis (moisture % of the biomass mixture). 
+Biomass physical property calculator 
+This tool is for estimating the lower heating value and bulk density of different types of biomass based 
+on the moisture content of the feedstock. The tool also allows converting from tonnes of biomass to m3, 
+based on standard bulk density estimates available in the Biomass fuels table on the ‘Standard values’ 
+page. If the user wishes to use their own estimates of LHV or bulk density, additional fuels should be 
+added to the Biomass fuels table and user values entered accordingly. 
+ 
+ 
+BIOMASS CARBON CALCULATOR USER GUIDE 
+Page 40 of 40 
+ 
+ 
+ 
+ 
+References 
+This page contains the list of references used for provision of standard values on the ‘Standard values’ 
+page. Where users have input their own standard values, references should be appropriately 
+documented here and should include author, date, title and where available, a link to the resource. 
+Notes 
+Should the user wish to provide additional notes for justifying the reference used, this can be provided 
+in the ‘Notes’ section at the bottom of the page. 
+Verification 
+The page provides additional input fields on the right-hand side for verification of the calculations (e.g. 
+when used in third party audits). The auditor can record when the input data in each row has been 
+verified (or where more information is needed) and can provide additional comments accordingly 
+Version History 
+The version history documents all updates to the calculator by the developer following first approval. 

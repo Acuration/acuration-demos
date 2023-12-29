@@ -1,0 +1,876 @@
+Supporting Green Jobs 
+Prepared by the REA’s Energy Storage Forum - Longer-Duration Energy Storage Working Group
+Longer-Duration Energy Storage: The missing piece 
+to a Net Zero, reliable and low-cost energy future
+The need for longer -
+duration energy storage
+Enabling investment in 
+longer -duration storage
+Conclusions
+Sources
+Introduction
+1.
+2.
+Executive Summary
+3.
+4.
+5.
+6.
+Barriers to development
+ 
+ 
+CONTENTS
+                                                                                                                                                                                      PAGE  |  5
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+1.  
+Introduction
+All pathways to Net Zero have one thing in common: they require large amounts of flexibility in our 
+energy system to support high levels of variable renewable generation coupled with changes in consumer 
+behaviour. In the Sixth Carbon Budget, the Committee on Climate Change noted that ‘storage will be 
+important to manage variable output’ from an electricity system based on renewables1. Managing an energy 
+system predominately powered by renewables and with greater flexibility will lower the cost of the energy 
+transition and enable the electrification of heat and transport.
+Several independent organisations have published studies on the future role of flexibility in Great Britain’s 
+electricity system. The findings are clear - flexibility will be critical for solving the future challenges of a 
+decarbonised electricity system that relies on variable generation, delivering net benefits in the order of 
+billions of pounds per year.
+ 
+Imperial College London, report commissioned by the Committee for Climate Change (CCC)2  
+As illustrated in the figure below from National Grid Electricity System Operator’s 2020 Future Energy 
+Scenarios (FES), flexibility can be provided by a host of different technologies, both from the demand and 
+the supply side. 
+Flexibility can also be supplied by overseas providers through interconnectors, as well as through synergies 
+with hydrogen and various forms of gas, including green gas3.
+Figure 1. System Flexibility: 
+Future Energy Scenarios 2020, National Grid ESO4  
+1   Committee on Climate Change (2020) Sixth Carbon Budget - Electricity Generation, 21.
+2  Imperial College for the CCC (2018) Analysis of alternative heat decarbonisation pathway, 39. See also: Imperial College for the CCC (2015) Value of 
+flexibility in a decarbonised grid and system externalities of low carbon generation technologies. 
+3  In addition to Biomass or BECCS, other dispatchable generation could include generation-integrated energy storage technologies, such as concentrated 
+solar power. 
+4  National Grid ESO (2020) Future Energy Scenarios, 99.
+A lack of greater system flexibility could further increase system costs 
+by more than £16 billion per year 
+An energy system powered in the main by variable sources will require drastically 
+increased provision of energy storage at all scales. Flexibility markets are presently 
+dominated in the UK by fossil fuel assets, and the recent encouraging take-up of short-
+duration energy storage technologies has not been matched by growth in longer-duration 
+technologies.  
+Currently, the UK has 2.8GW of Pumped Hydro energy storage and a limited number of 
+Compressed Air Energy Storage and Liquid Air Energy Storage sites in development. By 
+contrast, several major studies that have been published in the last few years on the need 
+for longer-duration energy storage in the UK estimate at least 20GW-40GW (exceeding 
+200GWh) will be required. These estimates could change, but if they do, are likely to 
+increase rather than decrease as the energy transition accelerates.
+Clean forms of synchronous longer-duration storage can play a greater role in addressing 
+the growing challenges associated with system stability and network constraints. The 
+paper discusses a range of clean technologies with duration of more than 4 hours, with 
+some of them reaching up to 24 hours, though arguments made may also have some 
+relevance to energy storage solutions capable of providing an even longer duration, such 
+as hydrogen.
+The existing market framework provides investors in longer-duration storage with very 
+low certainty of income, which disincentivises deployment when viewed in context of the 
+high Capex cost of such projects, which are typically on a large scale.  
+The paper clarifies why existing market mechanisms are not unlocking investment in 
+longer-duration storage technologies and outlines some of the options the UK could 
+consider to enable deployment of these technologies, including an Income Floor and a 
+Regulated Asset Base model.
+The REA calls the Department for Business, Energy and Industrial Strategy (BEIS) and 
+Ofgem to issue a joint Call for Evidence on longer-duration storage alongside the 
+forthcoming update to the Smart Systems and Flexibility Plan:
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+ 
+Executive Summary
+Seeking input from National Grid ESO, the wider industry, and 
+academia on how much electricity storage will be required in a Net 
+Zero energy system across different timescales; 
+Looking into the challenges of capital-intensive, large scale 
+flexibility projects with long construction periods and exploring 
+possible options to enable their deployment; 
+Assessing how existing barriers to wider deployment of longer-
+duration energy storage can be removed and an appropriate market 
+framework put in place.
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+Despite an increase in the number of low carbon technologies, GB flexibility markets remain dominated by 
+higher carbon assets today. According to analysis from the Department for Business, Energy and Industrial 
+Strategy (BEIS), during the early COVID-19 lockdown period (April-May 2020) emissions from Balancing 
+Mechanism (BM) actions made up between 15-25% of total power sector emissions. 
+Figure 2. Balancing mechanism emissions as a proportion of total electricity sector emissions: 
+Department for Business, Energy and Industrial Strategy, Carbon in Flexibility Markets Workshop (October 2020)5
+Increasing the amount of flexibility on the system is not the only challenge ahead of us. Ensuring that 
+flexibility comes from the lowest possible carbon sources will be essential to reaching Net Zero. To this end, 
+it is important that the market framework sends clear price signals to drive investments in clean flexible 
+technologies, including energy storage.
+Energy Storage is one of the most important sources of low-carbon flexibility6, delivering multiple consumer 
+and environmental benefits:
+     (i)      Reduces costlier investment in other dispatchable backup generation whilst contributing to security  
+ 
+of supply;
+    (ii) 
+Provides a range of ancillary services at reduced cost to consumers, increasing system stability and
+              resilience;
+   (iii) 
+Reduces the need for investment in transmission capacity and interconnection; 
+   (iv) 
+Distributed storage can reduce the need for distribution network reinforcement; and
+    (v) 
+Enables greater utilisation of renewables by reducing the need to curtail wind output to manage 
+              constraints.
+5  Department for Business (2020), Energy and Industrial Strategy, Carbon in Flexibility Markets Workshop
+6  Imperial College and Carbon Trust (2016) “Can storage help reduce the cost of a future UK electricity system?”,6.  
+                                                                                                                                                                                      PAGE  |  6
+Energy storage systems provide a wide array of technological approaches to managing our power supply in 
+order to create a more resilient energy infrastructure and bring cost savings to consumers. 
+They can be classified into five broad categories:
+    1. 
+Mechanical, including Pumped Hydro, Compressed Air Energy Storage (CAES) 
+    2. 
+Electrochemical, including Lithium-ion Batteries, Flow Batteries;
+    3. 
+Electrical, including Superconducting Magnetic Energy Storage (SMES) & Supercapacitors;
+    4. 
+Chemical, including Power to Hydrogen and Power to Methane; 
+    5. 
+Thermal, including Molten Salts, Pumped-Heat, and Liquid Air Energy Storage (LAES);
+Figure 3. The five key forms of energy storage and the main technologies
+Drax Electric Insights Quarterly (Q3 2019)7  
+The pandemic has brought forward pressures on our electricity system that were anticipated to occur in 
+the future. The lack of dispatchable synchronous resources at times of low residual demand increased the 
+system operability challenges. Furthermore, extreme weather events are occurring at a higher frequency 
+and intensity than previously forecast by climate change scientists for this period. Storage technologies can 
+provide cost-efficient solutions to system stability and resilience. A new report from Imperial College for 
+SSE Renewables estimates that by 2050 up to £411m per year could be saved ‘in a highly flexible GB system 
+(a high level of distributed demand-side response is available)’ by just 2GW of new long-duration Pumped 
+Hydro storage plants, while up to £511m savings could be made in a less flexible system8. The authors of 
+this report, however, argue that even more could be saved and further system stability could be secured 
+with much more capacity introduced from new plants using a diverse range of longer-duration energy 
+storage technologies.
+7  Drax (Q3 2019) Drax Electric Insights Quarterly 
+8  Imperial College for SSE Renewables (2021) Whole-System Value of Long-Duration Energy Storage in a Net-Zero Emission Energy System for Great Britain, 7.
+                                                                                                                                                                                      PAGE  |  7
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+                                                                                                                                                                                      PAGE  |  8
+                                                                                                                                                                                      PAGE  |  9
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+2.  
+The need for longer -duration storage
+In a power system dominated by variable renewables, the scale and the duration of our flexibility needs will 
+be determined by weather patterns. Bulk energy storage from a variety of sources will be needed to ensure 
+dispatchable power can be securely provided under all weather conditions. Storage will be equally crucial 
+for absorbing excess renewable generation at times when supply exceeds demand.
+There is not yet a universally agreed definition of long-duration energy storage, hence why this paper 
+chooses the term ‘longer-duration storage’ to reflect the fact that a very wide range of technologies may be 
+defined as providing longer-duration storage. Short-duration storage (and not medium or long-duration 
+energy storage) technologies currently are seen as more investable in terms of the reliability of returns due 
+to current market structures.9   
+Energy storage technologies can be classified in the following groups with respect to 
+duration:
+ 
+A.  Providing energy up to four hours 
+ 
+B.  Providing energy up to 24 hours
+ 
+C.  Providing energy up to two weeks
+ 
+D.  Inter-seasonal 
+ 
+The above delineations should not be considered benchmarks, but the four-hour delineation should give 
+an approximate notion of how the technologies listed below can be differentiated from shorter-duration 
+technologies. We have chosen these four categories because technologies that fall into each have different 
+needs and provide varying services. For instance, lithium-ion batteries, which fall into category A in terms of 
+duration, are relatively easy to build, have a shorter lifetime and are less capital intensive compared to large 
+scale long-duration storage projects (e.g. Pumped Hydro). Longer and shorter-duration technologies face 
+arguably different challenges and this paper focusses on the larger scale as that segment generally receives 
+less attention to mitigate those challenges, particularly from a regulatory perspective at present.
+This paper will look primarily at category B, with some relevance to C and D. 
+Category B includes (but is not exclusive to) the following technologies10:
+ 
+•  Compressed Air Energy Storage (CAES);
+ 
+•  Liquid Air Energy Storage (LAES);
+ 
+•  Pumped Hydro energy storage;
+ 
+•  Gravity batteries;
+ 
+•  Flow batteries;
+There are two main reasons why the paper focusses on Category B. First, because an evidence base is 
+being formed highlighting that GB will need considerable amount of additional longer-duration storage 
+operational by 2030. The second reason is that although several technologies within this category are 
+readily available for commercial deployment, the current market framework acts as a barrier to investment 
+in them. Categories C and D remain emerging and therefore face different challenges. It is important to 
+note, however, that other technologies may join Category B and that some of those listed as ‘Category B’ 
+may in time evolve to be capable of providing energy for an even longer period. 
+In the latest FES publication, National Grid ESO estimated that in 2050 total electricity energy storage will 
+range from 110GWh to 200GWh, corresponding to total capacity ranging from approximately 20GW to 
+40GW11. National Grid ESO expect a significant share of this to come from longer-duration technologies, 
+such as Pumped Hydro, CAES and LAES.
+9  See the debate in Greentech Media (2020), ‘So, what exactly is Long-duration Energy Storage?’ for a range of definitions.
+10 See REA (2016) ‘Energy Storage in the UK: An Overview’ for more information on how each technology works.
+11 National Grid ESO (2020) Future Energy Scenarios, 112.
+As the modelling approach in the industry focuses on energy balancing across GB without limits for the 
+current network or operability constraints, it relies upon a series of assumptions (as does all modelling), 
+this calls into question whether the amount of storage required has been robustly understood, however 
+we consider this debate to be beyond the scope of this paper. Indeed, it is possible that even the most 
+ambitious scenario (e.g. the FES’ ‘Leading the Way’ scenario) underestimates the role storage could play, as 
+they may not fully consider the system’s stability requirements (i.e. need for ancillary services) or thermal 
+network constraints. Therefore, they may not fully capture the value that storage could deliver to the 
+system.
+Two major industry reports have recently assessed the need for long-duration storage and have argued a 
+need for up to 40GW. Aurora estimates that by 2050, daily storage needs will reach 216GWh corresponding 
+to 30GW of capacity13, and it projects a weekly back-up capacity need of 21GW. Jacobs argues that ‘our 
+analyses show that there is a compelling case for developing a further 40GW of long-term storage, with a 
+storage capacity of some 5,000GWh’14. Jacobs estimates that even its lower end scenario of 30GW of new-
+build long-duration storage needed would be more than a tenfold increase compared to current levels15. 
+Achieving this objective would require a major development programme for longer-duration storage 
+comprising Pumped Hydro, CAES, LAES and hydrogen storage, implemented in 10GW stages between now 
+and 2050, with the first stage being implemented by 2030. 
+Currently, the UK currently has a capacity of c.2.8GW of Pumped Hydro, and 5.3MW of LAES storage16. An 
+unknown amount of CAES and LAES storage and new Pumped Hydro is planned. Trial projects for gravity 
+batteries and other innovative technologies also exist. However, the current level of capacity leaves the UK 
+very far short of all the major forecast requirements for longer-duration energy storage.
+We acknowledge however that all forecasts must make assumptions in their modelling, and that these 
+models incorporate some assumptions as to which technologies (including electricity via interconnectors) 
+will be widely used and how much they will cost to develop versus returns - these factors are likely to 
+change in the future. There are a range of views within the energy storage industry on how the modelling 
+could be further advanced, however the authors of this paper are of the view that while a close forecast 
+for the ‘need’ for longer-duration storage in the long-term is still under debate, the “scale” of the ‘need’ by 
+comparison to the level of longer-duration storage we currently have, is indisputable. 
+12 National Grid ESO (2020) Future Energy Scenarios, 112.
+13 Aurora (2019) The road to 2050: The need for flexibility in a high renewables world)
+14 Jacobs (2020) Strategy for Long-Term Energy Storage in the UK, 13.
+15 Jacobs (2020) Strategy for Long-Term Energy Storage in the UK, 63.
+16 International Hydropower Association (2018) Country profile - United Kingdom All the UK’s LAES capacity has been developed by Highview Power.
+National Grid ESO, Future Energy Scenarios (FES) 202012
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+“it will be necessary to develop large-scale storage with longer 
+durations to support the decarbonisation of the power system” 
+                                                                                                                                                                                      PAGE  |  10
+Figure 4. Evolution of flexibility needs
+Aurora (2019), The Road to 2050: The need for flexibility in a high renewables world13
+ 
+13 Aurora (2019) The road to 2050: The need for flexibility in a high renewables world)
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+                                                                                                                                                                                      PAGE  |  11
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+3.  
+Barriers to deployment
+Although there is clear evidence that Longer-Duration Storage delivers substantial benefits to GB 
+consumers, development of new projects has been limited in the last few decades. Below we explore some 
+of the reasons why the current market structures and incentives do not provide a favourable environment 
+for investment in existing or new longer-duration storage technologies:
+     •     Wholesale Market: revenues derived from net-energy sales through arbitrage payments do not 
+currently provide bankable and adequate investment signals due to the price uncertainty involved and their 
+short-term nature. Longer-term bilateral contracts between market participants (e.g. suppliers or renewable 
+energy generators) and flexibility providers may be further developed in the future, but it is unlikely that 
+these would deliver the scale of investment required in longer-duration storage, especially considering the 
+high capital requirements and long consultation times involved (e.g. 5-8 years for Pumped Hydro). Much 
+of the value provided by energy storage comes from its capacity, balancing, ancillary, stability and other 
+services, benefits which are not recognised by Power Purchase Agreements.
+     •     Capacity Market (CM):  the CM aims at ensuring resource adequacy at the lowest cost; as 
+currently designed, it does not send clear investment signals to support the deployment of large-scale, 
+low-carbon flexibility. Critically, the CM does not acknowledge the key benefits that longer-duration 
+storage technologies deliver to the system, in areas such as network constraint management, frequency 
+and voltage regulation, system stability, and restoration (Black Start). These are procured separately by 
+National Grid ESO, in a fragmented (ad hoc and piece-meal) manner and for shorter timescales, involving 
+income uncertainty. As result, developers do not see a combined, reliable, long-term price signal that would 
+allow them to attract funding at a reasonable cost of capital. Also, the CM does not facilitate projects with 
+construction periods in excess of four years, such as Pumped Hydro, as the CM auctions take place four 
+years (T-4) and one year (T-1) ahead of the delivery year. While technically, a developer could start building a 
+project and then bid when four years of construction time remains, this is not a feasible way of developing 
+any project and would be close-to impossible to finance.
+     •     Contracts-for-Difference (CfD):  the CfD scheme is the government’s main instrument to 
+support investment in low-carbon and renewable generation (e.g. wind, solar, nuclear, etc.). Enhancing 
+investment in flexible capacity is not its main objective. The CfD model incentivises generators to produce as 
+much electricity as possible. As such, it is not appropriate for stimulating investment in flexible technologies, 
+which bring value by operating at specific times, responding to market conditions and system requirements.
+ 
+     •     Balancing & Ancillary Services: 
+              o 
+The contract duration is short (e.g. one day, one week or one month). Yet investments in  
+ 
+ 
+large scale infrastructure projects depreciate over many years (e.g. 15-25 years) in order to  
+ 
+ 
+reflect their operational lifetime, which can in certain cases exceed 50 years (e.g. Pumped  
+ 
+ 
+Hydro). This means that there is a lack of security of returns for investors considering  
+ 
+ 
+developing longer-duration energy storage projects, making them less bankable, especially  
+ 
+ 
+as they usually have a high upfront capital cost.
+              o 
+Different ancillary services are procured separately and contracts from various services  
+ 
+ 
+cannot always be stacked effectively. This fails to send a clear price signal for investment  
+ 
+ 
+in technologies with technical characteristics that could provide several services at a lower  
+ 
+ 
+cost overall. Some separately-procured services cannot be provided separately by longer- 
+ 
+ 
+duration energy storage plants - for instance, all provide inertia. If, for instance, a plant wins  
+ 
+ 
+a contract for one service but not another, and the services cannot be separated out, the  
+ 
+ 
+plant will not be fully renumerated for the services it provides. This also puts the System  
+ 
+ 
+Operator in a difficult position.
+ 
+o 
+Unlike the wholesale energy market, ancillary services markets are relatively shallow and 
+ 
+ 
+illiquid. They are often location-specific (e.g. reactive power) and come with specific technical  
+ 
+ 
+requirements set by National Grid ESO. This means investors cannot estimate with   
+ 
+ 
+confidence how their value will evolve over long horizons.
+ 
+o 
+The ancillary services market has been under review for several years. Constant change  
+ 
+ 
+makes it difficult for investors to predict what is the value that can be extracted from these  
+ 
+ 
+services through the course of a lifetime of an asset.
+                                                                                                                                                                                      PAGE  |  12
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+ 
+o 
+Contracts do not account for long construction lead-times that some longer-duration  
+ 
+ 
+storage technologies require (e.g. 6-8yrs for Pumped Hydro). Therefore, no value from  
+ 
+ 
+ancillary services can be secured at the point of final investment decision in new capital- 
+ 
+ 
+intensive assets. Uncertainty over returns makes these projects less attractive to investors  
+ 
+ 
+and drives up the cost of capital. 
+ 
+o 
+Black Start / Distributed ReStart project (currently under Pathfinders), is currently difficult for  
+ 
+ 
+some longer-duration energy storage technologies to access as there is a lack of clarity  
+ 
+ 
+over whether energy storage’s role in the mechanism (for example, if is considered the  
+ 
+ 
+primary plant or the main plant, with each having different requirements).  
+ 
+o 
+Some of the ancillary services, such as inertia, stability services and reactive power, which  
+ 
+ 
+are essential for secure system operations, are not ascribed the correct economic value  
+ 
+ 
+today. For example, the inherent inertia produced by power plants and synchronous longer- 
+ 
+ 
+duration storage technologies, is not appraised or rewarded separately, so is effectively  
+ 
+ 
+provided for free, alongside energy. Thus it is significantly underpriced, which belies its  
+ 
+ 
+value to the system’s stability. Also, most reactive power is currently compensated under a  
+ 
+ 
+regulated price which does not reflect its true value to the system.
+     • 
+Network Constraints:   
+ 
+o 
+The transmission system and distribution systems need to transfer large amounts of energy
+ 
+  
+from the generation areas to major load centres. Network constraints, caused by aging  
+ 
+ 
+grid infrastructure, limit the amount of power that can be transferred from where it is  
+ 
+ 
+generated to where it is consumed. This legacy grid infrastructure means that the benefits of 
+ 
+ 
+longer-duration energy storage are maximised when it is developed close to where the  
+ 
+ 
+energy will be used. National Grid ESO uses the Balancing Mechanism (BM) to redispatch  
+ 
+ 
+plants from the market schedule to a profile which can be delivered given the network  
+ 
+ 
+constraints. However, this also prevents new projects, including storage, from gaining  
+ 
+ 
+economically feasible grid connections.
+ 
+o 
+The potential for storage to reduce the cost of managing network constraints, by deferring  
+ 
+ 
+or avoiding the need for network reinforcement where efficient to do so, remains largely  
+ 
+ 
+untapped, as the current market provides limited price signals to reflect this. National Grid  
+ 
+ 
+ESO’s efforts to explore the role that storage could play in addressing network constraints  
+ 
+ 
+are welcome17. However, effective competition between network and commercial service  
+ 
+ 
+providers can only happen if there is a level playing field.
+              o 
+The contract duration is short (e.g. one day, one week or one month). Yet investments in  
+ 
+ 
+large scale infrastructure projects depreciate over many years (e.g. 15-25 years) in order to  
+ 
+ 
+reflect their operational lifetime, which can in certain cases exceed 50 years (e.g. Pumped  
+ 
+ 
+Hydro).
+ 
+o 
+While certain components that make up network charges could be charged in a more 
+ 
+ 
+dynamic and cost-reflective manner to incentivise flexibility, these signals alone would most  
+ 
+ 
+likely be insufficient (i.e. they would not provide an adequate and bankable revenue stream  
+ 
+ 
+to incentivise investment in capital-intensive projects). 
+Together the factors set out above create an onerous environment for investment in longer-duration 
+storage projects. Some of the barriers detailed above, such as the lack of certainty over returns, can be 
+particularly difficult to overcome where projects involve high Capex requirements and long lead-time before 
+they begin operation (e.g. 6-8 years). The barriers that inhibit all large-scale, longer-duration energy storage 
+projects present a strong risk for investors looking to aid the development of full-scale plants using new or 
+partially new technology.
+17 Network Options Assessment (NOA)
+                                                                                                                                                                                      PAGE  |  13
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+Case study of barriers to deployment: A proposed CAES facility in Cheshire
+This case study concerns Storelectric’s proposals for a 40-100MW Compressed Air Energy Storage (CAES) 
+facility providing around 5 hours of energy storage duration, including the potential application of 
+Thermal Energy Storage (TES) which could be run with green hydrogen, with a high level of grid-to-grid 
+efficiency18. 
+Storelectric’s proposals concern several salt caverns which are man-made and pre-existing, in an area 
+where there is active solution mining of salt as a feedstock for the chemical industry; though elsewhere, 
+salt caverns can be created specifically for this purpose. 
+CAES systems can provide a range of services to national and local electricity grid operators, which will 
+be vital to help manage the grid as we progress towards Net Zero, including natural inertia (in this case, 
+delivered 24/7), stability, voltage/frequency control, imbalance pricing and arbitrage hedging services, 
+Black Start, Power Purchase Agreements, and other services. 
+Moreover, there are a very wide range of viable salt cavern location sites in the UK, with potential for 
+far greater deployment. These often coincide with areas of intensive former industrial activity and with 
+coastal areas close to wind farms, where the grid is currently heavily constrained. Pressure on the grid 
+will only increase as the energy transition progresses. Co-location of storage and wind farms can help 
+reduce capital costs and help deliver both balancing and stability services where the grid most needs 
+them. Development of these sites would therefore fit with the Government’s ‘levelling up’ agenda which 
+seeks to regenerate post-industrial regions, and they would also take up little space above ground. 
+They also support the government’s green agenda, enabling the cost-effective, reliable and resilient 
+decarbonisation of the grid.
+Many of the key requirements to make this site viable are in place. Planning authorities and the local 
+populace are supportive of salt cavern development and use in the area. Contractors who are interested 
+in supplying the equipment, and system operators for the long-term management of the facility, have 
+provided written statements of intent in the project and in other potential sites for development. 
+                                                                                                                                                                                      PAGE  |  14
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+ 
+4.  
+Enabling investment in Longer -  
+ 
+ 
+ 
+ 
+Duration Energy Storage Projects
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+The current merchant model presents a significant barrier to the development of large-scale, longer-
+duration energy storage projects. Given the long construction period of large infrastructure projects, and 
+the time that will be required for consenting and procurement, action needs to be taken now if we are to 
+see the first batch of new longer-duration storage commissioned by 2030. 
+Therefore, while a more fundamental review of the market design may be desirable, we believe that 
+government, supported by Ofgem, should aim to establish a future-proof income stabilisation mechanism to de-
+risk investment in longer-duration energy storage, building on the existing market arrangements.  
+This would enable longer-duration energy storage projects to truly compete with smaller-scale and shorter-
+duration technologies that require a much smaller Capex but target the same revenue streams. Such a 
+mechanism would be a significant and ‘no regrets’ step towards setting the UK on track to achieve Net Zero 
+target by 2050.
+The REA considers it important that the mechanism should meet the following criteria:
+    1. 
+Compatible with the operational profile of storage, incentivising efficient   
+ 
+dispatch through price signals 
+    2. 
+De-risks investments effectively, reducing the cost of capital, while protecting  
+ 
+consumers from undue risks and excessive costs.
+    3. 
+Enables participation from a range of technologies, including emerging ones,  
+ 
+ensuring effective competition in the process and encouraging growth of new  
+ 
+technologies. 
+Meeting these criteria will be necessary to ensure the growth in deployment of longer-duration energy 
+storage technologies.
+Overleaf we use a ‘traffic light’ (green, amber, red) scoring approach to illustrate how four different 
+approaches to revenue stabilisation would meet these criteria when applied to longer-duration storage 
+projects. We recognise that the extent to which the different mechanisms meet certain criteria is largely 
+contingent on their detailed design, which may vary. 
+The mechanisms assessed are:
+Income Floor;
+An Income Floor model provides security to investors by introducing a minimum amount that the longer-
+duration energy storage plant operator can earn. This means that if an operator does not earn enough 
+revenue from operations, it will be topped up to the minimum level.
+Regulatory Asset Base (RAB);
+This mechanism aims to incentivise investment by securing returns and payback for developers. The model 
+would see companies receive a Government contract. Companies own and operate the project, and in 
+return receive regulated retuns. This guarantees a more secure rate of return, reducing risk for investors.
+Capacity Market (CM);
+The Capacity Market is a mechanism that works to ensure electricity supply continues to meet demand 
+in the long-term. It works by offering fixed monthly payments (per MW) to generators, providing assured 
+revenue to investors, and encourages demand-side response operators to reduce demand to alleviate 
+consumption. Participants bid for contracts one or four years ahead of delivery.
+Contracts for Difference (CfD)
+This scheme incentivises investment in renewable electricity generation by protecting investors from volatile 
+wholesale prices, reducing investor risk. The Government pays the generator any difference between the 
+value of the reference price of the power and the strike price, and any returns above the reference price are 
+paid to Government.
+                                                                                                                                                                                      PAGE  |  15
+While these projects have been appraised by third parties as economically viable there does however, 
+remain one major barrier to the development of the proposals - longer term security of returns for 
+investors. As a pioneering project for a technology which is proven but which has not yet been deployed 
+in this version, investors cannot currently have full confidence about the levels of long-term returns on 
+the project.
+For first-of-a-kind plants such as that outlined in this case study, the absence of a long-term contract 
+prior to construction, and planning consent, can present an insurmountable risk for investors. The 
+short lengths of contracts for energy storage are a particular barrier for such projects, which require 
+several years to develop and will be operational for many years beyond the short contracts on offer, 
+along with the lack of financial reward for providing important services to the grid such as inertia. 
+Contracts for services tend to have a short period between the contract being tendered and agreed, 
+and the commencement of services, which further hinders the development of assets, due to the long 
+construction time and length of time required to undertake grid connection works. Though not a perfect 
+solution, the development of Enhanced Frequency Response contracts, with a term around half the life of 
+a battery was an important step in increasing the deployment of batteries as it provided greater certainty 
+for investors than before. 
+The salami slicing of services, where different services have separate contracts, also complicates 
+navigating the market for larger, longer-duration assets which are able to provide a range of services, as 
+investors need to be confident of gaining several different services contracts to make the business model 
+viable. 
+18 Further information on how such a system works can be found in Zhou et al, ‘A review of thermal energy storage in compressed air energy storage 
+system’, Energy Vol.188 (2019).
+                                                                                                                                                                                      PAGE  |  16
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+1) Compatible with the operational 
+profile of storage, incentivising 
+efficient dispatch through price 
+signals.
+2) De-risks investments effectively, 
+reducing the cost of capital, while 
+protecting consumers from undue 
+risks and higher costs.
+3) Enables participation from a 
+range of technologies, ensuring 
+competitive tension in the award 
+process.
+                                                                                                                                                                                      PAGE  |  17
+Under the Income Floor model, dispatch 
+decisions would still be driven by price 
+signals (e.g. wholesale market, balancing 
+market, ancillary services). An Income 
+Floor model would give energy storage 
+providers an incentive to maximise the 
+commercial value of plant operation, a 
+benefit to consumers also.
+The Income Floor model would de-risk 
+all revenue streams (i.e. energy, capacity 
+and ancillary services), providing 
+long-term certainty (e.g. 20 years) to 
+investors. This should reduce the cost 
+of capital, benefiting investors and 
+consumers. 
+REA acknowledges that the Government 
+may consider including a ‘cap’ as part of 
+an income floor mechanism - in which 
+instance a high cap should be used 
+to avoid disincentivising investment. 
+Revenue above the cap could be used 
+to support a wide shared across funding 
+pots for a wide range of energy storage 
+technologies.
+Construction risks would sit with the 
+developer, removing exposure of 
+consumers. However, this could make it 
+more difficult for emerging technologies 
+to attract investor support. 
+Income Floor(s) could be awarded 
+to projects following competitive 
+tender processes, which would 
+involve participation from a range of 
+technologies.
+Would involve complex design to 
+incentivise efficient operation though 
+price signals, but theoretically it could 
+be possible.
+The traditional RAB approach regulates 
+returns fully, de-risking the investment 
+more than the other mechanisms.
+Investors benefit from high levels of 
+protection from risks, including during 
+the construction phase. From an 
+investor perspective, this is favourable 
+when considering investment in 
+technologies that are relatively new 
+to the energy market. However, this 
+means customers may face risks 
+from cost overruns (depending on 
+the detailed methodology set by the 
+regulator). 
+Could involve competitive pressure 
+in the award process, but possibly 
+less compared to the Income Floor as 
+may require a regulatory regime to be 
+developed for each project separately 
+- a resource intensive exercise that 
+may not be easily delivered for many 
+projects at the same time.
+As currently designed, the CM does not 
+incentivise flexibility or consider other 
+system needs that longer-duration 
+storage can address (e.g. ancillary 
+services).
+The CM leaves investors exposed to 
+merchant risk from energy arbitrage and 
+system support services.
+In its current form (which doesn’t 
+consider system support capabilities, CO2 
+emissions, etc), it is unlikely to result in 
+sufficient revenues to enable investment 
+in capital-intensive longer-duration 
+energy storage projects.
+As currently designed, the CM favours low 
+Capex/ high Opex projects (e.g. OCGTs 
+over CCGTs).
+Also it isn’t suitable for new build 
+technologies with construction time 
+in excess of four years (T-4), such as 
+Pumped Hydro.
+ 
+Incentivises plants to maximise their energy production 
+(guaranteed price per MWh produced). This is incompatible 
+with the operational profile of storage which should be 
+incentivised to import electricity when prices are low and 
+export at times of scarcity, and to maximise delivery of 
+value-added services.
+The CfD has been successful in improving the bankability 
+of low carbon and renewable energy projects, as illustrated 
+by the high uptake and investment over the years in 
+some of the  technologies supported by it. However, it 
+would not de-risk investment in longer-duration energy 
+projects effectively. This is because it applies only to 
+energy revenues, and does not secure possible additional 
+income from balancing and ancillary services, vital to 
+the profitability of energy storage. This leaves investors 
+exposed to merchant risk from balancing and ancillary 
+services and could discourage investment.
+The CfD has been effective in enabling competition 
+between projects. It can also enable competition between 
+different technologies, (depending on the chosen pot 
+structure).
+  Criteria  
+ 
+     Income Floor  
+   Regulated Asset      Capacity Market  
+Contracts for Difference  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Base (RAB)              (CM)  
+ 
+ 
+ 
+(CfD) 
+‘Traffic light’ (green         amber         red         ) scoring.
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+                                                                                                                                                                                      PAGE  |  18
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+Analysising which approach would be best
+     1.    Compatible with the operational profile of storage, incentivising efficient dispatch  
+ 
+through price signals 
+The Income Floor model appears the most compatible with the operational profile of storage, which 
+focusses on the provision of flexibility and ancillary services. Under the Income Floor approach, dispatch 
+decisions would be driven by market price signals (e.g. wholesale market, balancing market, ancillary 
+services).
+The RAB could be compatible with the operational profile of storage, but incentives would need to be 
+carefully designed to avoid potential market distortions. 
+The CM, as currently designed, aims at ensuring system adequacy at the lowest cost. While it ensures that 
+dispatch conditions are driven by existing price signals, it does not consider the system’s flexibility, stability 
+or resilience needs. 
+The CfD model, if applied to storage, would likely lead to inefficient dispatch decisions, distorting market 
+operation. This is because the CfD incentivises assets to maximise their energy production, by guaranteeing 
+a fixed price per MWh produced. This is incompatible with the operational profile and value of storage, 
+which should be incentivised to import when prices are low and generate at times of scarcity, rather than 
+maximise its output.
+     2.    De-risks investments effectively, reducing the cost of capital, while protecting  
+ 
+ 
+consumers from undue risks and excessive costs.
+Both the Income Floor and the RAB could de-risk investments in long-duration energy storage projects 
+effectively. 
+The RAB provides fully regulated returns, providing the highest level of certainty to investors compared to 
+the other mechanisms. Under the RAB approach, payments can be made from consumers to developers 
+during the construction phase. This may also involve consumers facing construction risks (e.g. cost 
+overruns) depending on the detailed arrangements set out by the regulator. 
+Under the Income Floor all revenue streams (i.e. energy market arbitrage, capacity market and ancillary 
+services) are taken into account in determining whether returns (gross margin) are below the Floor. The 
+contract would be for an annual income floor value in £/MW terms, conditional upon the availability of 
+flexibility resources, including MWhs of storage, MVArs of reactive power, and a frequency response/
+inertia capability. Under the Income Floor, construction risks are borne entirely by investors, which may be 
+appropriate for more mature technologies, such as Pumped Hydro.
+The CM would leave investors exposed to merchant risk from electricity trading, balancing and ancillary 
+services, failing to drive lower cost of capital for investment in longer-duration energy storage projects. 
+Technologies that have lower Capex requirements but higher Opex and greater carbon (e.g. gas peakers) 
+may be better placed to win CM contracts compared to capital-intensive longer-duration energy storage 
+technologies. 
+While successful in improving the bankability of low carbon and renewable energy projects, the CfD would 
+not de-risk investment in longer-duration energy projects effectively. This is because it applies only to 
+energy revenues, and does not secure possible additional income from balancing and ancillary services, vital 
+to the profitability of energy storage.
+                                                                                                                                                                                      PAGE  |  19
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+     3.    Enables and encourages participation from a range of technologies, ensuring effective  
+ 
+competition in the process 
+Both the Income Floor and the RAB approaches could be designed around system needs rather than 
+around specific projects or technologies. Successful projects and allowed returns could be set through a 
+competitive tender process, involving participation from a range of technologies.
+Due to the scale and lead-time associated with these assets, the number of participants in tender or 
+gateway processes may be limited.  If this is the case, then it may be appropriate for a floor value to be set 
+by BEIS or Ofgem through an administrative process.   
+The CM, as currently designed, does not enable new build longer-duration storage technologies with 
+construction times in excess of four years (T-4), such as Pumped Hydro. It also favours low Capex/ high 
+Opex projects (e.g. Open Cycle Gas Turbines over Combined Cycle Gas Turbines). Therefore, in its current 
+form, it is unlikely to enable competition from capital-intensive longer-duration energy storage projects.
+The CfD has been effective in making use of competition between projects and technologies to drive costs 
+down. However, as discussed above, the CfD isn’t a suitable mechanism given the operational characteristics 
+of longer-duration storage.
+                                                                                                                                                                                      PAGE  |  20
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+Increasing the development of longer-duration energy storage projects is a necessary step to managing a 
+grid powered by high levels of variable generation and therefore is vital to Net Zero. As other analyses also 
+show, increasing the amounts of new longer-duration energy storage plants coming onto our electricity 
+system also has significant cost-saving benefits. 
+There is another indisputable and overarching benefit to consumers from wider deployment of longer-
+duration energy storage – a more stable energy supply and cushioning from price volatility. A larger, and 
+diverse, portfolio of longer-duration storage projects in the UK would also provide greater security of 
+supply. As Britain’s neighbours gradually increase the proportion of variable generation powering their 
+grids, there will likely be periods where Britain and its neighbours experience system stress at the same 
+time due to the impacts of weather on renewable energy outputs.
+Our analysis suggests that the two models currently used to incentivise investment in renewable generation 
+and ensure security of supply, the Capacity Market and Contracts for Difference, would not be appropriate 
+tools for encouraging investment in longer-duration energy storage due to their inability to adequately help 
+de-risk earnings from balancing and ancillary services. 
+There are therefore two options that could offer appropriate solutions: Income Floor, and RAB. An Income 
+Floor could be the most simplest mechanism for incentivising investment, ensuring that dispatch models 
+continue to be driven by price signals, and encouraging plant operators to maximise the value of the plant 
+for themselves and for consumers,  however REA appreciates that it would require very careful design.
+The REA therefore calls on the Department for Business, Energy and Industrial Strategy to issue a Call for 
+Evidence on how the barriers inhibiting wider development of longer-duration energy storage projects can 
+be removed. This could be issued alongside the updated Smart Systems & Flexibility Plan. The Government 
+should also explore whether there are any options for quick removal of the regulatory barriers to longer-
+duration energy storage in the interim period, recognising that developing a permanent market mechanism 
+will take time, though REA ultimately believes that many of these barriers would be best overcome with a 
+market mechanism.
+                                                                                                                                                                                      PAGE  |  21
+| LONGER-DURATION ENERGY STORAGE: A MISSING PIECE TO NET ZERO
+     •    Aurora (2019) The road to 2050: The need for flexibility in a high renewables world.
+     •    Committee on Climate Change (2020) Sixth Carbon Budget - Electricity Generation. 
+     •    Department for Business (2020), Energy and Industrial Strategy, Carbon in Flexibility Markets  
+ 
+           Workshop.
+     •    Drax (Q.3 2019) Drax Electric Insights Quarterly.
+     •    Drax (2021) Cruachan Dam and Reservoir After Rain
+     •    Drax (2021) Panoramic view from Ben Cruachan of reservoir, dam and loch
+     •    Greentech Media (2020), ‘So, what exactly is Long-duration Energy Storage?’
+     •    Highview Power (2021) Pilsworth Liquid Air Energy Storage (LAES) Plant
+     •    Imperial College and Carbon Trust (2016) Can storage help reduce the cost of a future UK electricity system?
+     •    Imperial College for the CCC (2018) Analysis of alternative heat decarbonisation pathway. See also:  
+           Imperial College for the CCC (2015) Value of flexibility in a decarbonised grid and system externalities  
+           of low carbon generation technologies.
+     •    Imperial College for SSE Renewables (2021) Whole-System Value of Long-Duration Energy Storage in a  
+           Net-Zero Emission Energy System for Great Britain.
+     •     International Hydropower Association (2018) Country profile - United Kingdom.
+     •     Jacobs (2020) Strategy for Long-Term Energy Storage in the UK.
+     •     National Grid ESO (2020) Future Energy Scenarios.
+     •     National Grid ESO (2021) Network Options Assessment (NOA).
+     •     REA (2016) ’Energy Storage in the UK: An Overview’.
+     •     Storelectric (2021) Typical Cavern Layout
+     •     Zhou et al (2019), ‘A review of thermal energy storage in compressed air energy storage system’,  
+           Energy Vol.188.
+ 
+5.  
+Conclusion
+ 
+6.  
+Sources
+Find Out More and Support the Sector
+For further information, please contact:
+Isobel Morris - Policy Analyst, REA
+imorris@r-e-a.net 
+Jack Abbott - PR and Communications Manager, REA
+jabbott@r-e-a.net 
+If you’re interested in REA membership, please contact:
+Lindsay Barnett - Membership, Marketing & Events Director, REA
+lbarnett@r-e-a.net 
+ The report is available on the REA website, here: 
+https://www.r-e-a.net/our-resources/ 
+Follow us on Twitter: @REAssociation 
+March 2021
+WWW.R-E-A.NET
+ 
+THE ASSOCIATION FOR RENEWABLE ENERGY AND CLEAN TECHNOLOGY
+Brettenham House, 2-19 Lancaster Place, London, WC2E 7EN
+Tel: +44 (0)20 7925 3570 Email: info@r-e-a.net Web: www.r-e-a.net
+Company no: 04241430 Registered in England and Wales

@@ -1,0 +1,925 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station 
+Order 
+ 
+6.2 Environmental Statement Appendices - Volume C 
+CHP 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+6.2 
+Regulation Number: 
+ 
+ 
+5(2)(a) & Infrastructure 
+Planning (Environmental Impact 
+Assessment) Regulations 2009 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018  
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 5.1
+Combined Heat and Power Technical Note
+ 
+ 
+ 
+ 
+ABERGELLI POWER PLANT  
+DESIGN NOTE ON COMBINED HEAT AND 
+POWER  
+ 
+ 
+NOVEMBER 2017 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Type of document (final) 
+ 
+ 
+Project no: 70034053 
+Date: November 2017  
+ 
+ 
+ 
+ 
+– 
+WSP 
+Westbrook Mills 
+Godalming 
+GU7 2AZ 
+ 
+ 
+www.wsp-pb.com 
+ABERGELLI POWER PLANT 
+DESIGN NOTE ON COMBINED HEAT 
+AND POWER  
+Abergelli Power Ltd. 
+iii 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+November 2017 
+ 
+Q U A L I T Y  M A N A G E M E N T  
+ISSUE/REVISION 
+FIRST ISSUE 
+REVISION 1 
+REVISION 2 
+REVISION 3 
+Remarks 
+Final report 
+December 2014 
+Update 2017 
+Update following 
+clients comments  
+ 
+Date 
+December 2014 
+November 2017 
+November 2017 
+ 
+Prepared by 
+Russell Bayliss, 
+Ryan Broughton, 
+Mark Eccleshare, 
+Ian Evans, 
+Andrew Jackson, 
+Ignacio Martin 
+Garcia 
+Alexandra Foden 
+Alexandra Foden  
+ 
+Signature 
+ 
+ 
+ 
+ 
+Checked by 
+Ryan Broughton 
+Ignacio Martin 
+Garcia 
+Ignacio Martin Garcia Ignacio Martin Garcia  
+Signature 
+ 
+ 
+ 
+ 
+Authorised by 
+Bill Hatfield 
+ 
+ 
+ 
+Signature 
+ 
+ 
+ 
+ 
+Project number 
+287521B 
+70034053 
+70034053 
+ 
+ 
+1 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+November 2017 
+ 
+TABLE OF CONTENTS 
+ABBREVIATIONS ....................................................................................... 1 
+GLOSSARY OF KEY TERMS .................................................................... 2 
+1 
+INTRODUCTION .......................................................................... 4 
+2 
+PROJECT DESCRIPTION ........................................................... 4 
+3 
+PURPOSE OF THIS DESIGN NOTE ON CHP ............................ 4 
+4 
+REQUIREMENT FOR CONSIDERATION OF CHP IN 
+APPLICATIONS FOR DEVELOPMENT CONSENT 
+ORDERS ...................................................................................... 5 
+5 
+COMPATIBILITY WITH PROVISION OF CHP ............................ 7 
+5.1 
+FEASIBILITY ................................................................................................. 7 
+5.2 
+MEETING FUTURE HEAT REQUIREMENTS ................................................ 8 
+5.3 
+PROVISIONS FOR ENSURING FUTURE HEAT DEMAND CAN BE 
+EXPLOITED ................................................................................................... 9 
+6 
+POSSIBILITIES FOR CHP ......................................................... 10 
+6.1 
+INITIAL CHP INVESTIGATION .................................................................... 10 
+7 
+CONCLUSIONS ......................................................................... 12 
+ 
+T A B L E S  
+TABLE 6-1 TOTAL HEAT LOADS WITHIN THE CHP SEARCH AREA ......................... 11 
+ 
+F I G U R E S  
+FIGURE 6-1 APPROXIMATE TOTAL HEAT LOAD WITHIN A 10 KM RADIUS 
+AROUND THE PROJECT SITE ................................................... 10 
+1 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+ABBREVIATIONS 
+ 
+ 
+ 
+ 
+ACRONYM 
+TERM 
+APFP Regulations 
+Infrastructure Planning (Applications: Prescribed Forms and 
+Procedures) 
+Regulations 2009 
+APL 
+Abergelli Power Limited 
+CCGT 
+Combined Cycle Gas Turbine  
+CHP 
+Combined Heat and Power 
+CHP – R 
+CHP Ready Guidance for Combustion and Energy from Waste Plants 
+DCO  
+Development Consent Order 
+DECC 
+Department for Energy and Climate Change 
+GT 
+Gas Turbine 
+GTG 
+Gas Turbine Generator 
+Ha 
+Hectare 
+HCA 
+Homes and Communities Agency 
+km 
+Kilometres 
+kV 
+Kilovolt 
+LCA 
+Landscape Character Assessment 
+LCPD 
+Large Combustion Plant Directive 
+LEPs 
+Local Enterprise Partnerships 
+MWe  
+Mega Watt Electrical 
+NRW 
+Natural Resources Wales 
+NSIP  
+Nationally Significant Infrastructure Project 
+RGE 
+Reciprocating Gas Engine 
+OCGT 
+Open Cycle Gas Turbine 
+2 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+GLOSSARY OF KEY TERMS 
+ 
+ACRONYM 
+TERM 
+DESCRIPTION 
+APFP Regulations 
+Infrastructure Planning 
+(Applications: 
+Prescribed Forms and 
+Procedures) 
+Regulations 2009 
+Sets out the detailed procedures which must be followed for 
+submitting and publicising applications for NSIPs under the 
+Planning Act 2008. 
+APL 
+Abergelli Power 
+Limited 
+A special purpose vehicle which has been set up to develop 
+the proposed Project and has been established by Drax 
+Group plc. Drax is planning to develop flexible gas fired 
+generation assets to support the UK Government drive to a 
+low carbon economy.  Drax has its project dedicated 
+personnel sourced through an experienced management 
+company, Stag Energy, founded in 2002. 
+Applicant 
+Applicant 
+Abergelli Power Limited (APL) 
+Application for 
+Development Consent  
+Application for 
+Development Consent  
+The application for development consent made to the SofS 
+under section 37 of the PA 2008 in respect of the Project, 
+required pursuant to section 31 of the PA 2008 because the 
+Project constitutes an NSIP under section 14(1)(a) and 
+section 15 PA 2008 by virtue of being an onshore 
+generating station in England or Wales with a capacity 
+exceeding 50 MWe.   
+CCGT 
+Combined Cycle Gas 
+Turbine  
+Gas plant technology system comprising Gas Turbine(s) 
+fuelled by natural gas, a Heat Recovery Steam Generator(s) 
+utilising heat from the Gas Turbine exhaust gases, and a 
+steam turbine plant with associated condensing system. 
+CHP 
+Combined Heat and 
+Power 
+A cogeneration power station capable of supplying power to 
+the National Grid Electricity Transmission System and also 
+heat to local heat users (such as industry or leisure) through 
+a direct connection to waste heat/steam produced as part of 
+the combustion process. 
+DCO  
+Development Consent 
+Order 
+Consent by a UK Government Minister for a Nationally 
+Significant Infrastructure Project granted pursuant to the PA 
+2008. A DCO can incorporate or override the need for a 
+variety of consents which would otherwise be required for a 
+development, including planning permission. A DCO can 
+also include rights of compulsory acquisition. A DCO can be 
+made in the form of a Statutory Instrument. 
+GTG 
+Gas Turbine 
+Generators 
+A GTG comprises a Gas Turbine and Generator and 
+associated auxiliaries such as air inlet filter, coolers, 
+equipment skids and control panels. 
+ 
+The GTG may be an ‘industrial’ type unit which are suited to 
+long operational hours and are more efficient but less 
+flexible than smaller class units. To achieve up to 299 MWe, 
+APL would propose to use 1 individual industrial GTG. 
+ha 
+Hectare 
+A unit area (10,000 m² / 2.471 acres) 
+km  
+Kilometres 
+Measurement of distance (1,000 metres). 
+MWe  
+Mega Watt Electrical 
+Measurement of electrical power. 
+ 
+NSIP  
+Nationally Significant 
+Infrastructure Project 
+Nationally Significant Infrastructure Projects are projects 
+which fall within the definition set out in section 14 of the PA 
+2008. The Project constitutes a Nationally Significant 
+Infrastructure Project (NSIP) by virtue of s.14(1)(a) and s.15 
+of the PA 2008, which include within the definition of a NSIP 
+any onshore generating station in England or Wales with a 
+capacity exceeding 50 MWe. 
+Peaking Plant  
+Peaking Plant 
+Peaking plants are operated when there is a Stress Event 
+Generating Equipment Power 
+Gas Turbine Generator and Balance of Plant which are 
+3 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Generation 
+Plant 
+located on the Generating Equipment Site. 
+Power 
+Generation 
+Plant Site 
+Power 
+Generation 
+Plant Site 
+One of the three principal areas comprising the Project Site. 
+The area within which the Power Generation Plant 
+development will occur, at farmland north of Swansea, 
+approximately 1 km southeast of Felindre and 1.4 km north 
+of Llangelyfach. 
+The Project 
+The Project 
+The Abergelli Power Project, comprising the following 
+principal elements: 
+1) A new Power Generation Plant 
+2) A new integral Electrical Connection;  
+3) A new integral Gas Connection. 
+The Power Generation Plant, Gas Connection and Electrical 
+Connection together with their construction access/laydown 
+and future maintenance access/laydown requirements are 
+referred to as the Project. 
+Project Site 
+Project Site 
+This includes the Power Generation Plant Site, Electrical 
+Connection Site, Gas Connection Site and construction 
+access/laydown and future maintenance access/laydown 
+areas. 
+The Project Site corresponds to the limits of the draft 
+Development Consent Order (the Order Limits). 
+OCGT  
+Open Cycle Gas 
+Turbine 
+Gas plant technology system comprising a Gas Turbine 
+fuelled by natural gas. The hot exhaust gases are routed 
+directly to the stack without passing through a secondary 
+steam turbine. 
+The generating technology used for the Power Generation 
+Plant. 
+Stack  
+Stack  
+The structure by which the exhaust gases and waste heat 
+are emitted to the atmosphere. Typically, the GTG unit 
+would have its own dedicated stack. The exhaust gases 
+would be subject to emissions control abatement. 
+4 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+1 
+INTRODUCTION 
+1.1.1 
+Combined Heat and Power (CHP) is the simultaneous generation of electrical power and usable 
+heat in a single process, and is also known as co-generation. A CHP station may either supply 
+steam direct to customers or capture heat from low-pressure steam after it has been used to drive 
+electricity generating turbines, for hot water or space heating purposes.  The heat can also be 
+used to drive absorption chillers, thereby providing cooling.  
+1.1.2 
+CHP is considered advantageous as generating electrical power and heat together is more 
+efficient than generating them separately. Therefore it can deliver a reduction in both primary 
+energy usage and carbon emissions.  
+2 
+PROJECT DESCRIPTION  
+2.1.1 
+Abergelli Power Limited (APL) is promoting a new gas fired peaking power generation plant on 
+land at Abergelli Farm, which is approximately 10km to the North of Swansea. The Project Site is 
+located within fields used for grazing, bounded by a mixture of drainage ditches, fencing and 
+defunct hedgerows. The Power Generation Plant will be designed to provide an electrical output 
+of up to 299 megawatts (MWe) and will be fuelled by natural gas.  
+2.1.2 
+The Power Generation Plant will use one Open Cycle Gas Turbine (OCGT). The main generating 
+equipment comprises a singular Gas Turbine Generator (GTG). The GTG consists of an inlet air 
+filter, an air compressor, combustion chamber, power turbine, exhaust silencer and generator.   
+2.1.3 
+Air is compressed in the compressor of the Gas Turbine (GT) and gaseous fuel is injected into the 
+combustion chamber(s) where the fuel burns producing hot, high-pressure gases. These gases 
+expand across the turbine blades of the GT, which drives both the compressor and the electrical 
+generator. The hot exhaust gases are then routed via a silencer to the stack and emitted to the 
+atmosphere.  
+2.1.4 
+It is important to note that for the proposed open cycle, no steam will be produced as part of the 
+electricity generation process.  
+2.1.5 
+The plant will be a ‘Peaking Plant’ operating for up to 1,500 hours per year on a five year rolling 
+average, its function being to support the national electricity transmission system by providing 
+additional temporary generation at times of peak demand or to compliment the intermittent nature 
+of renewable energy sources. 
+3 
+PURPOSE OF THIS DESIGN NOTE ON 
+CHP 
+3.1.1 
+OCGT technology has been selected for the Project. This Design Note on CHP summarises why 
+further investigation into use of waste heat is not being undertaken, and provides evidence as to 
+why the proposed thermal generating station should be excluded from being CHP-Ready.  
+5 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+4 
+REQUIREMENT FOR CONSIDERATION 
+OF CHP IN APPLICATIONS FOR 
+DEVELOPMENT CONSENT ORDERS  
+4.1.1 
+In accordance with the Planning Act 2008 (as amended by the Localism Act 2011), the Secretary 
+of State is required to determine an application for an order granting development consent (DCO) 
+for an energy Nationally Significant Infrastructure Project (NSIP) in accordance with the 
+‘Overarching National Policy Statement for Energy (EN-1)’ (2011, DECC) and the relevant 
+technology-specific national policy statement (‘National Policy Statement for Fossil Fuel Electricity 
+Generating Infrastructure (EN-2)’ in the case of this project). 
+4.1.2 
+The requirement or otherwise for the consideration and/or implementation of CHP, is detailed 
+within Section 4.6 ‘Consideration of Combined Heat and Power (CHP)’ of EN-1.   
+4.1.3 
+EN-1 states (at paragraph 4.6.6) that “under Guidelines issued by DECC (then DTI) in 2006 [the 
+Combined Heat and Power (CHP) Guidance1], any application to develop a thermal generating 
+station under Section 36 of the Electricity Act 1989 must either include CHP or contain evidence 
+that the possibilities for CHP have been fully explored to inform the [Secretary of State]’s 
+consideration of the application,” and that the, “...same principle applies to [DCO applications] 
+under the Planning Act 2008.” 
+4.1.4 
+EN-1 continues: “The [Secretary of State] should have regard to DECC’s Guidance, or any 
+successor to it, when considering the CHP aspects of applications for thermal generating 
+stations.”   
+4.1.5 
+The CHP Guidance (at paragraph 24) acknowledges, “...that decisions on major new power 
+station investments, including the location and anticipated load duty of the station (e.g. base load, 
+mid-merit, peak-lopping, support to local industry, etc.), will primarily be driven by the market...” 
+4.1.6 
+Paragraph 4.6.7 of EN-1 requires that developers, “...consider the opportunities for CHP from 
+the very earliest point and it should be adopted as a criterion when considering locations 
+for a project.”  The value of early consultation is also emphasised, in respect of the process of 
+identification of potential heat users (customers), with bodies such as Local Enterprise 
+Partnerships (LEPs) and Local Authorities.  
+4.1.7 
+In addition, as part of the examination process for the DCO application, Natural Resources Wales 
+(NRW) will be consulted on the details of the Project and the content of the application, including 
+the developer’s consideration of CHP.   
+4.1.8 
+Since publication of the CHP Guidance, Natural Resources Wales has published its own ‘CHP 
+Ready Guidance for Combustion and Energy from Waste Plants’ (2014) (CHP-R Guidance).  This 
+guidance states (in Section 1.2) that: “When consulted by the Planning Authorities on relevant 
+consent applications for new plants, Natural Resources Wales will highlight the need for the plant 
+to be CHP or CHP-R and will make reference to this CHP-R Guidance. Where a DCO is required, 
+Natural Resources Wales will additionally comment on the results of the CHP Assessment.” 
+                                                   
+ 
+ 
+ 
+1 Guidance on Background Information to Accompany Notifications under Section 14 (1) of the 
+Energy Act 1976 and Applications under Section 36 of the Electricity Act 1989, December 
+2006. 
+6 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+4.1.9 
+EN-1 (at paragraph 4.6.8) states: “If the proposal is for thermal generation without CHP, the 
+applicant should: 
+ Explain why CHP is not economically or practically feasible for example if there is a more 
+efficient means of satisfying a nearby domestic heat demand; 
+ Provide details of any potential future heat requirements in the area that the station could 
+meet; and 
+ Detail the provisions in the proposed scheme for ensuring any potential heat demand in the 
+future can be exploited.” 
+4.1.10 
+The requirements for the provision of information identified in the above policies and guidance are 
+addressed in the remainder of this document. 
+ 
+ 
+7 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+5 
+COMPATIBILITY WITH PROVISION OF 
+CHP  
+5.1 
+FEASIBILITY  
+ECONOMIC FEASIBILITY 
+5.1.1 
+A primary requirement of a viable and effective CHP scheme is that it should be able to service 
+the heat demand of any user connected to (and reliant on) the scheme. 
+5.1.2 
+The application of the CHP concept to an OCGT Peaking Plant is not economically feasible 
+because the profile for the generation of electrical energy from the station cannot be guaranteed 
+to coincide with the required heat demand profile of any potential consumer.  
+5.1.3 
+Because of its role in supporting the national electricity transmission system at times of peak or 
+unexpected demand (including forced outages of other thermal generating stations), and in 
+complementing the intermittent nature of renewable energy sources, the load regime for the 
+OCGT station will be inherently unpredictable.  Periods of electricity generation from the Project 
+will typically be for 1-2 hours on occasional days, and of limited duration over the year.  Given the 
+proposed peaking role for the station, operation will be for no more than 1,500 hours per year on 
+a five year rolling average out of a potential 8,760 hours in a year.  
+5.1.4 
+Heat demands, where they exist in the locality, are, by contrast, generally steady and persist over 
+some 7 months of the year for residential heating or for the full year for industrial or commercial 
+uses.  
+5.1.5 
+Any agreement drawn up between APL and local customers for the supply of heat from the Power 
+Generation Plant would normally guarantee that heat would be available for certain periods of the 
+year and in sufficient quantities to satisfy the agreed demand. This agreement would also 
+normally include financial penalties if heat was not able to be supplied when contractually obliged 
+to do so. 
+5.1.6 
+Therefore, the disconnect between the relatively constant demands for heat from residential and 
+industrial users and the inherently unpredictable supply from a Peaking Plant such as this means 
+that the CHP model is not applicable in this situation. 
+TECHNICAL FEASIBILITY 
+5.1.7 
+Conventionally, gas fired CHP plants configured as a CCGT usually provide heating via the 
+provision of steam extracted from the existing steam cycle.  As discussed previously, OCGTs do 
+not produce steam as part of the electricity generating process and therefore the provision of CHP 
+capability would require the addition of steam raising plant. The provision of CHP capability to a 
+plant of this type would mean a significant increase in capital expenditure and additional technical 
+challenges.  
+5.1.8 
+Compared to CCGT plant, OCGT units typically have a smaller capital cost per MW installed.  
+This is largely because CCGT plants are more complex in their operation, requiring much more 
+plant and equipment (e.g. a heat recovery steam generator (HRSG) and other steam raising 
+plant) to operate. Although this increased capital cost is offset by gains in efficiency, CCGT plants 
+are also typically designed to operate at continuous load, with fewer shut-downs and start-ups.  
+8 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+5.1.9 
+CCGT plants typically have efficiencies of around 55-60% (compared with 35-40% for OCGT), 
+maximum gains in efficiency, however, are only realised when the plant has reached its operating 
+temperature and is running continuously at full load. 
+5.1.10 
+The Power Generation Plant will be a Peaking Plant which would operate for up to 1,500 hours 
+per year on a five year rolling average. Most likely, this would be for short periods of time 
+(typically 1-2 hours). Given that it can take up to 1 hour for a CCGT plant to reach full load, APL 
+considers that the benefits in efficiencies which can be achieved by using a CCGT plant are very 
+minimal and do not justify the additional capital costs of these plants, especially when considering 
+the very short operating windows of the proposed OCGTs. 
+5.1.11 
+As OCGT plants are less complex in operation than CCGT or Reciprocating Gas Engine plant, 
+they are also cheaper to construct, operate and maintain. 
+5.1.12 
+A further reduction in both cost and visual impact is realised when using an OCGT plant without 
+steam raising plant. In a CCGT plant, the hot exhaust gases are routed through a HRSG, where 
+they generate steam, which then drives a steam turbine. The extraction of energy from the hot 
+exhaust gases to generate steam, means that they leave the HRSG stack at approximately 
+100°C. 
+5.1.13 
+In comparison, the hot exhaust gases in an OCGT plant are discharged direct to the atmosphere 
+at approximately 400°C-600°C  This means that the flue gases discharged from a OCGT plant are 
+significantly hotter than those discharged from a CCGT plant, and therefore the gases are much 
+more buoyant. Therefore a much lower stack is required for an OCGT plant to achieve the same 
+dispersion height and rate of its exhaust gases as a CCGT plant. 
+5.1.14 
+Maintaining a low capital cost for the Project is essential as the Project will bid into the 
+Government’s newly proposed Capacity Mechanism (CM). Plants selected to operate within the 
+CM are chosen based on their ability to deliver fast reliable power at times of peak demand at the 
+most economically advantageous price.  
+5.1.15 
+Therefore, significantly increasing capital expenditure on the Project severely limits the ability to 
+successfully bid into the CM. If a higher bid price was successful, then these increased costs 
+would be directly passed to the consumer.  
+5.1.16 
+OCGT technology is preferable at the Generating Equipment Site as the water requirement is 
+significantly less than a CCGT, and could be met with the occasional delivery of water by tanker.  
+5.1.17 
+Based on the technical discussion above, it is considered that the proposed Project, comprising 
+OCGT’s is not suitable to act as CHP plant or need to comply with the requirements of CHP-R.  
+5.2 
+MEETING FUTURE HEAT REQUIREMENTS 
+5.2.1 
+Industry, commerce and public services are all identified as being prospective users of CHP with 
+the largest, most economic opportunities expected to be found in the industrial sectors where 
+there are often large requirements for process heat.  
+5.2.2 
+Opportunities however, are also identified in commerce (e.g. hotels, leisure centres, large 
+corporate buildings) and public services (e.g. hospitals, universities, prisons, defence installations, 
+administrative offices and ancillary college or hospital accommodation).  There is also sometimes 
+the potential for CHP where heat can be used in absorption chilling to deliver cooling in industry, 
+commerce and the public sector. 
+5.2.3 
+Efficient CHP plants are usually designed to meet the demands of an identified heat load.  
+Electrical power generation is utilised, where applicable for local process plant, and the balance 
+exported to the grid.  As noted previously, the Power Generation Plant could only service an 
+intermittent heat source. 
+9 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+5.2.4 
+If a satisfactory steady heat load exists, the potential benefits of CHP schemes can be realised 
+with electricity being generated in direct proportion to the heat load. The size of a CHP scheme, 
+however, is determined by the local heat load which can be supplied at a common point. 
+5.2.5 
+For this reason the majority of CHP schemes are small (less than 5 MWe).  These small units can 
+offer high fuel utilisation when fully supplying the heat load. However during periods when the 
+heat load is low or absent, the electrical efficiency of these units is rather low compared to 
+conventional power stations. 
+5.3 
+PROVISIONS FOR ENSURING FUTURE HEAT DEMAND CAN BE 
+EXPLOITED 
+5.3.1 
+Because of the unpredictable operating regime required of a peaking power station to flexibly 
+support national grid demand, the viability of supplying occasional heat to future consumers in the 
+area is negligible. 
+5.3.2 
+Moreover, the inclusion of provisions to ensure that future heat demand can be exploited in the 
+equipment proposed for Power Generation Plant would increase capital expenditure of the Project 
+further.  
+5.3.3 
+Such provisions could include space in the plant layout to install steam raising plant after the GT 
+exhaust, however, this is not possible due to the constrained nature of the site. 
+ 
+ 
+10 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+6 
+POSSIBILITIES FOR CHP  
+6.1 
+INITIAL CHP INVESTIGATION 
+6.1.1 
+As per Section 5.3 of the Environmental Statement, a detailed feasibility assessment was 
+undertaken which considered a range of sites around England and Wales to support gas fired 
+power generation plants. 
+6.1.2 
+To understand the likely heat demands in the area local to the identified Project Site, an 
+assessment of the BEIS online heat map2 was carried out.  
+6.1.3 
+Figure 6-1 and Table 6-1 below show the results of the assessment of the BEIS Online Heat Map 
+tool. The Natural Resources Wales guidance suggests that for all plants less than 300 MW a 
+search area of 10 km is used. No individual large industrial heat loads were identified within this 
+area. 
+Figure 6-1 Approximate total heat load within a 10 km radius around the Project site 
+ 
+ 
+                                                   
+ 
+ 
+ 
+2 http://chptools.decc.gov.uk/developmentmap/ 
+11 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+6.1.4 
+Table 6-1 shows the potential heat loads within the 10 km search area. It shows that the largest 
+potential heat users are domestic with an approximate requirement of 795 MW. The second 
+largest potential heat users are ‘Government Buildings’ with an approximate requirement of 44 
+MW; the third largest potential heat users are ‘Small Industrial’ with an approximate requirement 
+of 39MW. Remaining heat requirements of other potential users in the area range from less than 
+1MW to approximately 35MW. 
+Table 6-1 Total heat loads within the CHP search area 
+ 
+SECTOR 
+SHARE 
+TOTAL MWH 
+Communications and 
+Transport  
+0.04% 
+713 
+Commercial Offices 
+0.61% 
+11,516 
+Domestic 
+85.87% 
+1,621,774 
+Education 
+2.46% 
+46,376 
+Government Buildings 
+0.52% 
+9,767 
+Hotels 
+0.54% 
+10,278 
+Large Industrial 
+4.74% 
+89,528 
+Health 
+0.39% 
+7,318 
+Other 
+0.21% 
+4,040 
+Small Industrial 
+3.17% 
+59,809 
+Retail 
+1.04% 
+19,672 
+Sport and Leisure 
+0.25% 
+4,759 
+Warehouses 
+0.17% 
+3,123 
+Total heat load in area: 
+1,888,673 
+ 
+6.1.5 
+Although there appears to be a large heat load in the area for domestic heat users, this is unlikely 
+to represent a viable CHP opportunity in the area based on, principally, the discussions presented 
+earlier in this document under ‘Feasibility’ regarding intermittent loads from Peaking Plant and 
+distance from the site.  In addition to these discussions, however, the comparatively low density 
+and age of housing in the region would make installing a new district heating network technically 
+challenging and thus have associated cost implications.  
+6.1.6 
+The results of studies undertaken by APL, which were informed by the changes as a result of the 
+Electricity Market Reform and the Government consultations on the delivery mechanisms 
+provided by the Energy Act 2013, have formed the basis for the selection of the Peaking Plant 
+concept for the Project. 
+6.1.7 
+The Project is being developed to provide vital support to the National Electricity Transmission 
+System as electricity demand increases and the nature of supply of electricity changes to 
+incorporate a likely greater share of renewables in the generation mix. 
+6.1.8 
+Therefore, whilst consideration of the potential for the provision of CHP was considered as part of 
+the site selection studies, the intentions for the Project meant that the provision of CHP was not 
+the principal factor in the site selection process.  It is, however, considered that this is in 
+accordance with paragraph 2.2.1 of NPS EN-2 which states: "it is for energy companies to decide 
+which applications to bring forward and the government does not seek to direct applicants to 
+particular sites for fossil fuel generating stations." 
+ 
+ 
+12 
+ 
+Abergelli Power Plant 
+WSP 
+Abergelli Power Ltd. 
+Project No 70034053 
+ 
+November 2017 
+7 
+CONCLUSIONS  
+7.1.1 
+Based on the information above, it can be concluded that there are four prohibitive barriers to the 
+application of CHP for the Project: 
+ There is no existing regional heat market. From local searches, there are no suitable heat 
+users of applicable scale available and no heat users able to accept the unpredictable supply 
+of heat available. 
+ No potential future heat requirements in the area have been identified and none that would 
+match the operational pattern of a Peaking Plant. 
+ The intermittent and peaking modes of operation of OCGT are incompatible with the likely 
+continuous demands of heat users. Because of the lack of applicable heat demands, 
+provisions in the proposed scheme for exploiting any potential heat demand in the future can 
+be excluded. 
+ OCGT plants do not produce steam as part of the electricity generating process and therefore 
+the provision of CHP capability would require the addition of steam raising plant resulting in 
+an increased capacity tariff (£/kW/year) and additional technical challenges. 
+7.1.2 
+Accordingly, this Design Note on CHP demonstrates that the Project does not need to undertake 
+further investigation of CHP for the proposed thermal generating station, and provides evidence 
+as to why the proposed thermal generating station should be excluded from being CHP- Ready.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 

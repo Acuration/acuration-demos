@@ -1,0 +1,155 @@
+ 
+ 
+ 
+Methodology for measuring net carbon 
+dioxide removal through bioenergy 
+with carbon capture and storage 
+(BECCS) 
+ 
+Executive Summary 
+V0.9 
+October 2023 
+Prepared by: EcoEngineers 
+ 
+ 
+ 
+1  
+1. Methodology context 
+Bio-energy carbon capture and storage (BECCS) is a carbon dioxide removal (CDR) approach that 
+captures carbon dioxide (CO2) from sustainably sourced biomass and permanently stores it in geological 
+storage. BECCS and other CDR approaches will be an essential part of the global response to climate 
+change, according to the Intergovernmental Panel on Climate Change (IPCC). 
+Today there are no comprehensive methodologies available to calculate the impact of BECCS projects 
+and generate carbon credits. Therefore, Drax and Stockholm Exergi set out to collaboratively develop a 
+high-integrity approach for quantifying the net CDR contribution of a BECCS project, in a rigorous 
+methodology prepared by EcoEngineers.  
+The methodology is built on the principle of conservativeness, preferring to undercount the net volume 
+of CO2 removed. This can be observed in figure 1 below. While the “project” (i.e., the direct intervention 
+which generates carbon credits), refers to the installation and operation of CCS, the methodology 
+conservatively takes into account the full operational supply chain emissions which occur in the 
+production of renewable electricity and / or green heat. Additionally, it requires calculation and 
+subtraction from removals of any indirect effects (known as leakage) which the project could cause (e.g., 
+increase in demand for CO2 transportation and storage leading to new infrastructure). Emissions which 
+one can be certain did not occur due to the project (e.g., emissions from constructing long-standing 
+infrastructure) are excluded from the calculation of net CO2 removals (known as baseline emissions) 
+ 
+ 
+Figure 1: emissions that fall within project scope 
+ 
+ 
+2  
+2. Key criteria to BECCS projects 
+This methodology currently applies to power and/or heat BECCS projects that meet strict criteria. To be 
+eligible to issue CDR credits under this methodology, a project must: 
+• 
+be ‘additional’ – meaning they would not happen without revenues from carbon credits. 
+• 
+use only sustainable biomass feedstock.  
+• 
+only store CO2 where the risk of reversal is scientifically determined to be negligible. 
+• 
+not use CO2 for enhanced hydrocarbon recovery (EHR). 
+• 
+put in place strong safeguards for social and environmental impact. 
+ 
+Additional 
+BECCS projects are developed for the purpose of delivering carbon removals. Removals are additional if 
+they would not have taken place absent the incentive created by CDR credit revenues. All projects must 
+demonstrate regulatory additionality (i.e., no legal requirement to capture CO2) and prior consideration 
+(e.g., that carbon market revenues were considered before the project was started). Where a project 
+either receives no support or government support envisages VCM participation, the project is additional. 
+In all other cases, an auditor statement is required, showing that VCM revenues were a necessary factor 
+in the decision to initiate the project. 
+Sustainable biomass 
+Forest biomass shall only be sourced from areas with stable or increasing forest carbon stock. Biomass 
+shall not be sourced from lands with high biodiversity value, namely primary forest, old growth forest, 
+highly biodiverse forest, or forests recently established on highly biodiverse grassland. Furthermore, 
+stringent criteria apply to ensure the sustainable management of forests and maintenance of 
+biodiversity, which are either in line with or exceeding the rules set out by the EU Renewable Energy 
+Directive. Biomass shall not be sourced from material suitable for use in long-lived wood products such 
+as sawtimber or veneer. Initially the methodology only applies to forest biomass, however we expect that 
+suitable criteria will be developed to include additional sustainable biomass sources over time for 
+example from agricultural sources and waste.  
+Storage and permanence 
+The methodology only allows for CO2 storage where the risk of reversal is scientifically determined to be 
+negligible, and there are high regulatory enforcement levels in place. IPCC indicates that for such well-
+designed projects, CO2 storage is likely to be >99% over the first 1000 years. Initially the methodology 
+will apply in The European Economic Area, the UK, and the USA. In these jurisdictions, there are strong 
+requirements for site selection, injection, and monitoring. In the event of any emissions released from 
+the storage site, the storage operator will be required to take mitigation measures according to local 
+regulations (for example in the EEA storage operators must surrender ETS emissions allowances). 
+Permanence is further strengthened by the transfer of responsibilities to government following site 
+closure.  
+ 
+ 
+3  
+ 
+ 
+No enhanced hydrocarbon recovery  
+To ensure the BECCS projects under this methodology are not playing a role in incentivizing extraction 
+of fossil fuels, captured CO2 shall not be used for enhanced hydrocarbon recovery. In situations with 
+shared pipeline infrastructure, the developer should provide mass balance evidence that the amount of 
+CO2 the developer is entitled to was injected in an applicable non-EHR storage site. 
+Safeguards for social and environmental impact 
+As a minimum, projects must have all relevant environmental and business permits in the jurisdictions of 
+sourcing, capture and storage operations. They must also demonstrate to have conducted robust 
+stakeholder consultations and have put grievance mechanisms in place. Furthermore, project developers 
+must review an extensive list of sustainable safeguards, building on the safeguards outlined by the 
+Integrity Council for Voluntary Carbon Markets and either i) provide a confirmation that they have not 
+identified any risk of breaching any of these, or ii) provide a mitigation plan for any identified risks. 
+3. Conservatively calculating net emissions removed 
+The methodology provides a 
+conservative 
+means 
+of 
+quantifying impact as shown 
+in figure 2. The ‘net emissions 
+removal’ figure corresponds 
+to the volume of carbon 
+credits that a developer can 
+issue. 
+This 
+number 
+is 
+determined by taking the 
+amount of CO2 that has been 
+permanently removed and 
+stored by the BECCS project, 
+and subtracting the direct 
+CCS 
+project 
+emissions, 
+operational 
+supply 
+chain 
+emissions, 
+and 
+indirect 
+emissions from leakage. 
+ 
+ 
+ 
+ 
+Figure 2: CDR calculation approach 
+ 
+ 
+4  
+4. Robust reporting and independent verification 
+The methodology requires BECCS projects to develop a comprehensive monitoring framework that 
+enables third party validation and verification bodies (VVB) to transparently assess project outcomes. 
+Before issuing credits, a project must be successfully validated by an accredited VVB. To issue credits, a 
+project must calculate net removals that have already taken place, and have this calculation 
+independently verified by a third party VVB. If successful, the project developer will be issued carbon 
+credits through a carbon market registry. The frequency of credit issuance, and hence the need for 
+independent verification reports, is at the discretion of the project developer. Streamlined verification 
+events may take place throughout the year, with a full verification required at least once per year to assess 
+the project’s continued adherence to all requirements.  
+ 
+Figure 3: Illustrative timeline for project validation and verification 
+ 
+ 
+Going forward, the authors hope for this methodology to keep evolving with industry developments and 
+scientific advances. We will invite further BECCS developers to join us in refining the methodology, with 
+the aim to harmonize approaches, build buyer trust, and help the BECCS industry to scale. Finally, we 
+hope to see the contents of the methodology adopted by the carbon market standards bodies, 
+regulators, and policy makers, to be the ultimate owners of this methodology.  

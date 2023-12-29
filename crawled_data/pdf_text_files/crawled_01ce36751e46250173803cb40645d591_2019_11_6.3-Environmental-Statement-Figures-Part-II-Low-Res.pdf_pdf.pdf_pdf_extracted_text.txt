@@ -1,0 +1,2422 @@
+The Abergelli Power Gas Fired Generating Station Order 
+6.3 Environmental Statement Figures Part II
+Planning Act 2008 
+The Infrastructure Planning 
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+PINS Reference Number:
+EN010069 
+Document Reference:
+6.3 
+Regulation Number: 
+5(2)(a), 5(2)(l) Figures 8.2 & 9.5, 5(2)(m) 
+Figures 13.1 & 13.2 & Infrastructure  
+Planning (Environmental Impact 
+Assessment) Regulations 2009 
+Author:
+AECOM 
+Revision 
+Date 
+Description 
+0 
+May 2018 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Figures 
+ 
+Figure 10.1: UDP Mineral Resources Plan 
+Figure 10.2: Mine Abandonment Plan 
+Figure 10.3: Potential Sources of Contamination and Locations of 
+Interest 
+ 
+Figure 11.1: Landscape Designations 
+ 
+Figure 11.2: LANDMAP Aspect Data - Visual and Sensory 
+ 
+Figure 11.3: LANDMAP Aspect Data - Habitat 
+Figure 11.4: LANDMAP Aspect Data - Geological 
+Figure 11.5: LANDMAP Aspect Data - Historic 
+Figure 11.6: LANDMAP Aspect Data - Cultural 
+Figure 11.7: ZTV and Viewpoints up to 5 km 
+Figure 11.8: ZTV and Viewpoints up to 15 km 
+ 
+Figure 11.9: ZTV and Visual and Sensory LANDMAP Aspect Data 
+ 
+Figure 12.1: Study Area 
+ 
+Figure 12.2: Local Highway Network 
+ 
+Figure 12.3: Traffic Flows – 2014 Observed – Weekday AM Peak Hour 
+ 
+Figure 12.4: Traffic Flows – 2014 Observed – Weekday PM Peak Hour 
+ 
+Figure 12.5: Traffic Flows – 2017 Base Year – Weekday AM Peak 
+Hour 
+ 
+Figure 12.6: Traffic Flows – 2017 Base Year – Weekday PM Peak 
+Hour 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 12.7: Pedestrian and Cycle Routes and Public Rights of Way 
+Figure 12.8: Traffic Flows 2022 Baseline – Weekday AM Peak Hour 
+Figure 12.9: Traffic Flows 2022 Baseline – Weekday PM Peak Hour 
+Figure 12.10: Traffic Flows – Power Generation Plant Construction 
+Traffic: Weekday AM Peak Hour 
+ 
+Figure 12.11: Traffic Flows – Power Generation Plant Construction 
+Traffic: Weekday PM Peak Hour 
+ 
+Figure 12.12: Traffic Flows – Gas Connection Construction Traffic: 
+Weekday AM Peak Hour 
+ 
+Figure 12.13: Traffic Flows – Gas Connection Construction Traffic: 
+Weekday PM Peak Hour 
+ 
+Figure 12.14: Traffic Flows – Electrical Connection construction Traffic: 
+Weekday AM Peak Hour 
+ 
+Figure 12.15: Traffic Flows – Electrical Connection construction Traffic: 
+Weekday PM Peak Hour  
+ 
+Figure 12.16: Traffic Flows – Project Construction Traffic: Weekday 
+AM Peak Hour 
+ 
+Figure 12.17: Traffic Flows – Project Construction Traffic: Weekday 
+PM Peak Hour 
+ 
+Figure 12.18: Traffic flows – 2022 Baseline + Power Generation Plant 
+Construction Traffic: Weekday AM Peak Hour 
+ 
+Figure 12.19: Traffic flows – 2022 Baseline + Power Generation Plant 
+Construction Traffic: Weekday PM Peak Hour 
+ 
+ 
+ 
+ 
+Figure 12.20: Traffic Flows – 2022 Baseline + Gas Connection 
+Construction Traffic: Weekday AM Peak Hour 
+ 
+Figure 12.21: Traffic Flows – 2022 Baseline + Gas Connection 
+Construction Traffic: Weekday PM Peak Hour 
+ 
+Figure 12.22: Traffic Flows – 2022 Baseline + Electrical Connection 
+Construction Traffic: Weekday AM Peak Hour 
+ 
+Figure 12.23: Traffic Flows – 2022 Baseline + Electrical Connection 
+Construction Traffic: Weekday PM Peak Hour 
+ 
+Figure 12.24: Traffic Flows – 2022 Baseline + Project Construction 
+Traffic: Weekday AM Peak Hour 
+ 
+Figure 12.25: Traffic Flows – 2022 Baseline + Project Construction 
+Traffic: Weekday PM Peak Hour 
+ 
+Figure 12.26: Traffic Flows – Cumulative Development: Weekday AM 
+Peak Hour 
+ 
+Figure 12.27: Traffic Flows – Cumulative Development: Weekday PM 
+Peak Hour 
+ 
+Figure 12.28: Traffic Flows – 2022 Baseline + Power Generation Plant 
+Construction Traffic + Cumulative Development: Weekday AM Peak 
+Hour 
+ 
+Figure 12.29: Traffic Flows – 2022 Baseline + Power Generation Plant 
+Construction Traffic + Cumulative Development: Weekday PM Peak 
+Hour 
+ 
+Figure 12.30: Traffic Flows – 2022 Baseline + Gas Connection 
+Construction Traffic – Cumulative Development: Weekday AM Peak 
+Hour 
+ 
+Figure 12.31: Traffic Flows – 2022 Baseline + Gas Connection 
+Construction Traffic – Cumulative Development: Weekday PM Peak 
+Hour 
+ 
+ 
+Figure 12.32: Traffic Flows – 2022 Baseline + Electrical Connection 
+Construction Traffic – Cumulative Development: Weekday AM Peak 
+Hour 
+ 
+Figure 12.33: Traffic Flows – 2022 Baseline + Electrical Connection 
+Construction Traffic – Cumulative Development: Weekday PM Peak 
+Hour 
+ 
+Figure 12.34: Traffic Flows – 2022 Baseline + Project Construction 
+Traffic + Cumulative Development: Weekday AM Peak Hour 
+ 
+Figure 12.35: Traffic Flows – 2022 Baseline + Project Construction 
+Traffic + Cumulative Development: Weekday PM Peak Hour 
+ 
+Figure 13.1: Historic Assets in the 1 km Study Area 
+ 
+Figure 13.2: Designated Historic Assets in the 5 km Study Area 
+ 
+Figure 14.1: Socio-Economic Study Area 
+ 
+Figure 14.2: Tourism/Business Survey Study Area 
+Figure 14.3: Community Infrastructure Study Area 
+Figure 14.4: Tourism Audit 
+Figure 14.5: Community Infrastructure Audit – Schools 
+ 
+Figure 14.6: Community Infrastructure Audit – GP Surgeries and 
+Hospitals 
+ 
+Figure 14.7: Community Infrastructure Audit – Pharmacies 
+ 
+Figure 14.8: Community Infrastructure Audit – Dentists and Recreation 
+& Arts 
+ 
+Figure 14.9: Net Additionality Framework (embedded within Chapter 
+14) 
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\Ground\F10_1_MineralResources.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+UDP MINERAL 
+RESOURCES PLAN
+005
+Scale at A3: 1:8,000
+FIGURE 10.1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© City and County of Swansea
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+Generating Equipment SIte
+Above Ground Installation (AGI)
+Access Road
+Electrical Connection (400kV
+Cable)
+Gas Connection
+Laydown
+Maintenance Compound
+Sand and Aggregates
+Coal
+Note: Indicative Project Layout
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\Ground\F10_2_MineAbandonment.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+MINE ABANDONMENT 
+PLAN
+005
+Scale at A3: 1:8,000
+FIGURE 10.2
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Database Right and Copyright, The 
+Coal Authority 2003
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+Generating Equipment SIte
+Above Ground Installation (AGI)
+Access Road
+Electrical Connection (400kV
+Cable)
+Gas Connection
+Laydown
+Maintenance Compound
+Note: Indicative Project Layout
+!(
+!(
+!(
+!(
+A
+Ú
+!(
+!(
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\Ground\F10_3_PotentialContaminants.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+POTENTIAL SOURCES OF
+CONTAMINATION AND
+LOCATIONS OF INTEREST
+005
+Scale at A3: 1:8,000
+FIGURE 10.3
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Database Right and Copyright, The 
+Coal Authority 2003
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+!(
+Groundwater Abstraction
+Licence
+!(
+Groundwater Abstraction
+Licence known not to be used
+Ú
+Disused adit
+A
+Disused mine shaft
+Generating Equipment SIte
+Above Ground Installation (AGI)
+Access Road
+Electrical Connection (400kV
+Cable)
+Gas Connection
+Laydown Area
+Maintenance Compound
+Abergelli Farm landfill
+Abergelli Farm landfill and
+historical mine spoil heap
+Disused Abergelli Collery
+Old gravel pit
+Note: Indicative Project Layout
+Mawr Uplands
+North East Gower
+and Cockett Valley
+Lower Loughor Valley
+and Estuary and Southern
+part of the Burry Inlet
+Brecon Beacons
+Margam Park
+Afan Argoed
+Llyn Llech Owain
+Craig-y-nos
+GOWER
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_1_LandscapeDesignation.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LANDSCAPE
+DESIGNATION
+001
+Scale at A3: 1:125,000
+FIGURE 11.1
+2
+0
+2
+4 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+15km Study Area
+5km Study Area
+Special Landscape Areas
+Country Park
+Area of Outstanding Natural Beauty
+National Park
+APFP Regulations 5(2)(L)
+17
+19
+2
+9
+16
+8
+6
+12
+18
+20
+5
+15
+1
+14
+3
+10
+4
+11
+7
+13
+21
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_2_LandscapeCharacter_VisualSensory.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LANDMAP ASPECT
+DATA - VISUAL
+AND SENSORY
+001
+Scale at A3: 1:40,000
+FIGURE 11.2
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+15km Study Area
+5km Study Area
+Project Site Boundary
+Visual and Sensory Landscapes
+Characters
+Outstanding
+High
+Moderate
+Low
+ID
+Area Name
+1
+East of Glais
+2
+North of Clydach
+3
+Mynydd Carn Coch & surrounds
+4
+Glais
+5
+M4
+6
+Penbwl, Valley, Graig-neddfwch Woods
+7
+Afon Lliw and surrounds
+8
+Upper Lliw Valley
+9
+Afon Tawe
+10
+East of Banc Maestir Mawr
+11
+Mynydd Gelliwastad
+12
+West of Clase
+13
+Cwmcerdinen
+14
+Surrounding Cwm Dulais
+15
+Gorseinon
+16
+Pentwyn Mawr
+17
+Rhyd-y-Pandy
+18
+Cwm Clydach
+19
+Penllergaer Forest
+20
+Clydach
+21
+Pontlliw
+4
+4
+6
+14
+8
+21
+4
+13
+7
+3
+20
+5
+13
+19
+9
+10
+17
+16
+11
+15
+22
+17
+12
+19
+1
+2
+18
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3:
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+Project Site Boundary
+Landscapes Habitat Characters
+ID
+Area Name
+5
+4
+12
+6
+13
+3
+7
+7
+2
+7
+11
+10
+14
+1
+8
+9
+1
+8
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_4_LandscapeCharacter_Geological.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LANDMAP ASPECT
+DATA - GEOLOGICAL
+001
+Scale at A3: 1:40,000
+FIGURE 11.4
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+15km Study Area
+5km Study Area
+Project Site Boundary
+Geological Landscape Character
+Outstanding
+High
+Moderate
+Low
+ID
+Area Name
+1
+Trebanog
+2
+Loughor, Lliw
+3
+Loughor
+4
+Penllergaer
+5
+Mynydd Pysgodlyn
+6
+Pontardulais
+7
+Banc Darren-fawr
+8
+Graig Fawr
+9
+Cwm Clydach
+10
+Cae Pant y dugoed
+11
+Glais
+12
+Tawe
+13
+Coed Glyn y Gors
+14
+Mynydd Drumau
+6
+5
+3
+7
+8
+9
+10
+11
+8
+4
+7
+1
+2
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_5_LandscapeCharacter_Historic.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LANDMAP ASPECT
+DATA - HISTORIC
+001
+Scale at A3: 1:40,000
+FIGURE 11.5
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+15km Study Area
+5km Study Area
+Project Site Boundary
+Historic Landscape Character
+Un-assessed Area
+Outstanding
+High
+Moderate
+Low
+ID
+Area Name
+1
+Clydach Cwm Du
+2
+Swansea Valley Bottom
+3
+H28 Northern Upland Commons
+4
+H23 Loughor, Gorseinon and Penllergaer
+5
+Built Environment - Swansea
+6
+H27 Gower Supraboscus Agricultural
+7
+H30 Lower Tawe Valley
+8
+H22 Lower Loughor and Lliw  Valleys
+9
+H29 Clydach,Trebanos and Glais
+10
+H25 Penllergaer Forest
+11
+H24 Penllergaer Park
+14
+17
+5
+18
+18
+12
+3
+9
+17
+10
+9
+18
+16
+6
+13
+18
+4
+9
+7
+11
+6
+7
+15
+8
+11
+2
+1
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_6_LandscapeCharacter_Cultural.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LANDMAP ASPECT
+DATA - CULTURAL
+001
+Scale at A3: 1:40,038.53
+FIGURE 11.6
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+15km Study Area
+5km Study Area
+Project Site Boundary
+Cultural Landscape Character
+Outstanding
+High
+Moderate
+Low
+ID
+Area Name
+1
+Pontardawe, Trebanos, Ynysmeudwy and God
+2
+Western High Ridge: Mynydd y Garth, Cefn
+3
+M4 Motorway
+4
+Hospitals
+5
+Swansea Enterprise Park
+6
+Golf Courses
+7
+Reservoirs
+8
+Local government & Law
+9
+Penllergaer Parc etc.
+10
+Penllergaer Park
+11
+Birchgrove and Glais
+12
+Clydach
+13
+Craig Cefn Park
+14
+The Mawr
+15
+Industrial Estates & Business Parks
+16
+Velindre Development Site
+17
+Greater Swansea
+18
+Rural landscapes
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+9
+8
+7
+6
+5
+4
+3
+2
+1
+18
+17
+16
+15
+14
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_7_ZTV_5kmStudyWithStack.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+ZTV AND VIEWPOINTS
+UP TO 5KM
+001
+Scale at A3: 1:40,000
+FIGURE 11.7
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+!(
+Viewpoints
+Project Site Boundary
+5km Study Area
+Zone of Theoretical Visibility (ZTV)
+including proposed stack height
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!(
+!(
+!(
+!(
+Mawr Uplands
+North East Gower
+and Cockett Valley
+Lower Loughor Valley
+and Estuary and Southern
+part of the Burry Inlet
+9
+8
+7
+6
+5
+4
+3
+2
+1
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+Brecon Beacons
+GOWER
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_8_ZTV_15kmStudyWithStack.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+ZTV AND VIEWPOINTS
+UP TO 15KM
+001
+Scale at A3: 1:125,000
+FIGURE 11.8
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+!(
+Viewpoints
+15km Study Area
+Project Site Boundary
+Special Landscape Areas
+Zone of Theoretical Vision (ZTV) including
+proposed stack height
+Area of Outstanding Natural
+Beauty
+National Park
+17
+19
+2
+9
+16
+8
+6
+12
+18
+20
+5
+15
+1
+14
+3
+10
+4
+11
+7
+13
+21
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\LVIA\Report Figures\F11_9_ZTV_5km_Visual_LANDMAP.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+ZTV AND VISUAL AND
+SENSORY LANDMAP
+ASPECT DATA
+001
+Scale at A3: 1:40,000
+FIGURE 11.9
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary
+5km Study Area
+Zone of Theoretical Visibility (ZTV)
+including proposed stack height
+Outstanding
+High
+Moderate
+Low
+ID
+Area Name
+1
+East of Glais
+2
+North of Clydach
+3
+Mynydd Carn Coch & surrounds
+4
+Glais
+5
+M4
+6
+Penbwl, Valley, Graig-neddfwch Woods
+7
+Afon Lliw and surrounds
+8
+Upper Lliw Valley
+9
+Afon Tawe
+10
+East of Banc Maestir Mawr
+11
+Mynydd Gelliwastad
+12
+West of Clase
+13
+Cwmcerdinen
+14
+Surrounding Cwm Dulais
+15
+Gorseinon
+16
+Pentwyn Mawr
+17
+Rhyd-y-Pandy
+18
+Cwm Clydach
+19
+Penllergaer Forest
+20
+Clydach
+21
+Pontlliw
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\T - Transport\F12_01_Study_Area.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+STUDY AREA
+001
+Scale at A3: 1:15,000
+FIGURE 12.1
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+50m Study Area
+Local/Strategic Highway Network to
+Existing Access Road
+Existing Access Road (B4489 to National
+Grid)
+New Section of Access Road
+AGI
+3
+4
+12
+11
+10
+9
+8
+7
+6
+5
+1
+2
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\T - Transport\F12_02_Highway_Network.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LOCAL HIGHWAY
+NETWORK
+001
+Scale at A3: 1:14,000
+FIGURE 12.2
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+FELINDRE
+Felindre
+Park and Ride
+M4 Junction 46
+Northern Dumbbell
+Roundabout
+M4 Junction 46
+Southern Dumbbell
+Roundabout
+A48 / Pant Lassau Road
+Mini-Roundabout
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\T - Transport\F12_07_PRoW.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+PEDESTRIAN AND CYCLE
+ROUTES AND PUBLIC
+RIGHTS OF WAY
+001
+Scale at A3: 1:14,000
+FIGURE 12.7
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+Bridleway
+Footpath
+Traffic Free Cycle Route
+Footway
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+Scale at A3: Not To Scale
+Rev:
+Project Title:
+Client:
+LEGEND
+Copyright:
+Drawn:
+Chk'd:
+Date:
+App'd:
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+26238
+19983
+19984
+AB02
+AB01
+80607
+09029g
+08336w
+01525w
+01349w
+01345w
+01341w
+01340w
+03017.0w
+01229.10w
+03525w, 9143
+02750w, 18535
+01246w, 33311
+02905w, 85266
+01963w, 32348
+01524w, 13378
+01006w, 19849
+00999w, 19721
+01527w, 421383
+01005w, 408270
+GM308, 00377w, 93194
+LB81065, 01002w, 19207
+LB26238, 00969w, 18281
+02816.0w
+00377w
+02855.0w
+00377w
+06962w
+00377w
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\HR - Heritage\F13_1_HistoricAssets_1km.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+HISTORIC ASSETS
+1KM STUDY AREA
+005
+Scale at A3: 1:15,000
+FIGURE 13.1
+200
+0
+200
+400
+600
+800
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Crown copyright: Royal Commission
+on the Ancient and Historical
+Monuments of Wales
+© Hawlfraint y Goron: Comisiwn
+Brenhinol Henebion Cymru
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+!(
+Grade II -  Listed Building
+!(
+Historic Asset - Point
+Historic Asset - Linear
+Scheduled Monument
+1km Study Area
+APFP Regulations 5(2)(L)
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+GM269
+GM336
+GM501
+GM468
+GM308
+GM380
+GM439
+GM497
+GM353
+GM201
+GM371
+GM484
+GM202
+GM596
+GM199
+GM410
+GM299
+GM54
+PGW (Gm) 75(SWA)
+GM60
+WAL/SWA/CA:013
+WAL/SWA/CA:027
+87689
+87502
+82379
+82331
+82330
+82329
+82328
+82327
+82323
+82322 82318
+82317
+81848
+81067
+81065
+81060
+81058
+26500
+26499
+26498
+26497
+26496
+26259
+26258
+26257
+26256
+26238
+26237
+26236
+26235
+26137
+22777
+22775
+22088
+22087
+22085
+19984
+19983
+15856
+11745
+11744
+11743
+11742
+11741
+11740
+11738
+11737
+11736
+11719
+11684
+11683
+11211
+11210
+11208
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\HR - Heritage\F13_2_DesignatedAssets_5km.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+DESIGNATED HISTORIC
+ASSETS IN THE
+5KM STUDY AREA
+005
+Scale at A3: 1:50,000
+FIGURE 13.2
+400
+0
+400
+800
+1,200
+1,600
+2,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Crown copyright: Royal Commission
+on the Ancient and Historical
+Monuments of Wales
+© Hawlfraint y Goron: Comisiwn
+Brenhinol Henebion Cymru
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+02/05/18
+Project Site Boundary
+!(
+Grade I -  Listed
+!(
+Grade II* -  Listed
+!(
+Grade II -  Listed
+Conservation
+Parks and
+Scheduled
+5km Study Area
+Zone of Theoretical Visibility (ZTV)
+including proposed stack height
+Filename: Z:\Projects\40336\02_mxd\PROJECT_TEMPLATE__Drivetime.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+001
+Scale at A3: 1:400,000
+10
+0
+10
+20 km
+Rev:
+Project Title:
+LEGEND
+ABERGELLI POWER
+Client:
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+Chk'd:
+Date:
+App'd:
+24/04/18
+Project Site Boundary
+30 minute drivetime
+45 minute drivetime
+60 minute drivetime
+SOCIO-ECONOMIC
+STUDY AREA
+001
+FIGURE 14.1
+HG
+TF
+TF
+Filename: J:\40336 - Abergelli\Working\GIS\Tourism Study Area UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+TOURISM/BUSINESS
+SURVEY
+STUDY AREA
+001
+Scale at A3: 1:62,500
+FIGURE 14.2
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+Filename: J:\40336 - Abergelli\Working\GIS\Community Infrastructure Study Area UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+COMMUNITY
+INFRASTRUCTURE
+STUDY AREA
+001
+Scale at A3: 1:50,000
+FIGURE 14.3
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+!(
+!(
+Filename: J:\40336 - Abergelli\Working\GIS\Tourism Audit UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+TOURISM AUDIT
+001
+Scale at A3: 1:62,500
+FIGURE 14.4
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+!(
+Cwm Clydach Nature Reserve
+National Cycle Route 43
+!(
+Paintball Activity Centre
+9
+8
+7
+6
+5
+4
+3
+2
+1
+18 17
+16
+15
+14
+13
+12
+11
+10
+Filename: J:\40336 - Abergelli\Working\GIS\Community Infrastructure Study Audit SCHOOLS UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+COMMUNITY
+INFRASTRUCTURE
+AUDIT: SCHOOLS
+001
+Scale at A3: 1:50,000
+FIGURE 14.5
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+Schools (1-18)
+25
+24
+23
+22
+21
+20
+19
+Filename: J:\40336 - Abergelli\Working\GIS\Community Infrastructure Study Audit GP HOSPITAL UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+COMMUNITY
+INFRASTRUCTURE
+AUDIT: GPS/HOSPITALS
+001
+Scale at A3: 1:50,000
+FIGURE 14.6
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+GP Surgeries (19-23)
+Hospitals (24-25)
+31
+30
+29
+28
+27
+26
+Filename: J:\40336 - Abergelli\Working\GIS\Community Infrastructure Study Audit PHARMICIES UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+COMMUNITY
+INFRASTRUCTURE
+AUDIT: PHARMICIES
+001
+Scale at A3: 1:50,000
+FIGURE 14.7
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+Pharmacies (26-31)
+40
+39
+38
+37
+36
+35
+34
+33
+32
+Filename: J:\40336 - Abergelli\Working\GIS\Community Infrastructure Audit DENTIST RECREATION UPDATED.mxd
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+COMMUNITY
+INFRASTRUCTURE
+AUDIT: DENTISTS
+RECREATION & ARTS
+001
+Scale at A3: 1:50,000
+FIGURE 14.8
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+LP
+Chk'd:
+RM
+Date:
+App'd:
+RM
+30/04/18
+Project Site Boundary
+Study Area
+Dentists (32-37)
+Recreation & Arts (38-40)

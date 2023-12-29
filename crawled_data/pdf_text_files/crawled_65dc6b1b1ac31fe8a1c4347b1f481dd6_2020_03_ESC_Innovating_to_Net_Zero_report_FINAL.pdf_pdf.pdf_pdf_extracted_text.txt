@@ -1,0 +1,5593 @@
+es.catapult.org.uk
+INNOVATING  
+TO NE T Z E RO
+Foreword 
+2
+Executive summary 
+4
+Key messages 
+5
+Introduction 
+10
+Global context 
+11
+Emissions Accounting 
+11
+The CCC advice 
+11
+What does our analysis add? 
+12
+Our Net Zero Insights programme 
+13
+Taking a whole system approach 
+14
+Energy Systems Modelling  
+Environment (ESME) 
+16
+Scenarios for a 2050 Net Zero  
+Energy system 
+19
+Clockwork – a centralised pathway  
+to Net Zero 
+20
+Patchwork – a decentralised pathway  
+to Net Zero 
+20
+Clockwork deep dive 
+21
+Patchwork deep dive 
+24
+Net Zero Energy System Insights 
+28
+The Net Zero solution space 
+29
+System-wide sensitivity analysis 
+32
+Three key energy vectors 
+35
+Energy end use 
+40
+How fast could we decarbonise? 
+45
+Costing Net Zero 
+46
+Investment opportunities 
+47
+Timelines  
+47
+Place and Local Area Energy Planning  
+49
+What needs to happen  
+during this Parliament? 
+50
+The potential direction of travel  
+for carbon policy to 2050  
+54
+Electricity  
+55
+Transport  
+56
+Buildings  
+56
+Industry (including CCS, Bioenergy,  
+and Hydrogen Production)  
+58
+Digitalisation  
+59
+Our capabilities 
+60
+Our platforms 
+62
+Endnotes 
+64
+DISCLAIMER
+This document has been prepared by Energy Systems Catapult Limited. For full copyright, legal 
+information and defined terms, please refer to the ‘Licence/Disclaimer’ section at the back of 
+this document. 
+All information is given in good faith based upon the latest information available to Energy 
+Systems Catapult Limited. No warranty or representation is given concerning such information, 
+which must not be taken as establishing any contractual or other commitment binding upon 
+the Energy Systems Catapult Limited or any of its subsidiary or associated companies. 
+Contents
+This report identifies the technologies, 
+products and services which are most 
+important to meeting Net Zero. It 
+recommends what needs to happen 
+during this Parliament to deliver  
+Net Zero levels of investment, 
+infrastructure and innovation.
+es.catapult.org.uk 
+Energy Systems Catapult
+1
+But, given the complexity, the 
+uncertainty and the profundity of  
+the change our energy system faces, 
+stakeholders are increasingly asking 
+where to start.
+A good first step is to understand  
+the type of journey we need to go  
+on to get there.
+In this report Energy Systems Catapult 
+lays out a set of credible pathways  
+for the UK to get to Net Zero. The 
+pathways reflect a diversity of 
+implementation approaches and 
+highlight the consequences of 
+differing levels of technology 
+innovation and societal behaviour 
+changes. They are not in any way 
+prescriptive, but they do lay out the 
+scale of the transformation and the 
+potential for different technologies. 
+It has energised the debate. But if we 
+are to realise the goal, the target itself 
+is a necessary, but far from sufficient, 
+condition. We know that to get to  
+Net Zero demands major upheavals  
+in how we make, move, store and use 
+energy. We know that this will require 
+innovation – in technology of course, 
+but equally in consumer propositions, 
+market design, business models and 
+system definition and design.
+Such an approach helps scope the 
+opportunity for policy and regulation 
+to enable new technologies, 
+propositions and business models to 
+be developed, financed and deployed 
+at scale and with pace. It starts to 
+frame possible solution sets for the 
+most challenging aspects of the 
+transformation – like decarbonising 
+home heating.
+If this work can help build consensus 
+for credible action it will have taken 
+us all an important step closer to 
+moving from aspiration to delivery, 
+unleashing the innovation the 
+transition to Net Zero depends on.
+We have a great platform in the UK. 
+We’ve led the way in decarbonising 
+electricity generation, have a track 
+record of evidence-based policy, an 
+increasingly progressive regulatory 
+ambition, a robust legacy energy 
+system, world-class green finance 
+capability and a strong and diverse 
+research base that spans the whole 
+energy system. 
+The brilliant British companies we 
+work with every day are devising  
+new platforms, offers, technologies 
+and services: from new ways of 
+generating nuclear power to storing 
+and supplying energy; from managing 
+our networks in a more flexible way 
+to heating our homes and charging 
+our cars; integrating the digital with 
+the physical, creating solutions for 
+consumers that will deliver clean 
+economic growth.
+Leading the  
+way on Net Zero
+FOREWORD
+—
+A clear, bold, binding goal can be a great catalyst.  
+The UK’s world-leading commitment to Net Zero by 
+2050 has focused minds in companies, communities, 
+and institutions.
+The brilliant  
+British companies 
+we work with  
+every day are 
+devising new 
+platforms, offers, 
+technologies  
+and services.
+In this report 
+Energy Systems 
+Catapult lays out  
+a set of credible 
+pathways for  
+the UK to get  
+to Net Zero.
+Philip New
+Chief Executive Officer
+Energy Systems Catapult 
+es.catapult.org.uk
+Foreword
+es.catapult.org.uk 
+Energy Systems Catapult
+2
+3
+Rising to the 
+challenge
+EXECUTIVE SUMMARY
+—
+x2
+Electricity generation 
+may have to double  
+by 2050
+Unleashing innovation at the pace 
+and scale needed requires a deep 
+understanding of how the different 
+parts of the energy system interact;  
+in short, taking a whole system 
+approach.
+This report updates Energy Systems 
+Catapult’s national Energy System 
+Modelling Environment (ESME)  
+to consider the potential pathways  
+to 2050, and to help identify the 
+technologies, products and services 
+which are most important to meeting 
+Net Zero. It recommends what needs 
+to happen during this Parliament to 
+deliver Net Zero levels of investment, 
+infrastructure and innovation.
+Key messages
+Net Zero narrows the set  
+of viable pathways for  
+the future energy system. 
+Where an 80% target allowed 
+considerable variation in relative 
+effort across the economy, with some 
+fossil fuels still permissible in most 
+sectors, Net Zero leaves little slack.
+Success depends on 
+innovation across the whole 
+system; in technology, land 
+use change and behaviour. 
+Net Zero requires switching to low 
+carbon technologies wherever we  
+can, tackling demand for hard-to-
+treat activities (aviation and livestock),  
+and ensuring sufficient carbon 
+sequestration to offset any residual 
+emissions. Each of these elements 
+faces significant barriers and 
+technology and land use changes  
+are constrained by maximum feasible 
+deployment rates and competing 
+uses of land.
+While the challenge is daunting,  
+the commercial opportunity for  
+those companies able to deliver  
+the innovations needed is huge.  
+This analysis will help identify those 
+opportunities, and what may be 
+needed to unlock them. While our 
+assumptions should be challenged, 
+our goal is to show ‘what you have to 
+believe’ in order to deliver Net Zero.
+So far, decarbonisation has mostly 
+relied on ‘upstream’ changes in the 
+electricity mix and reduced energy 
+use in industry. Net Zero requires 
+society-wide adoption of low carbon 
+heating and transport technologies.  
+It may also mean limiting growth in 
+aviation demand and changing diets.
+Our early public engagement 
+suggests a general willingness to 
+adopt new technologies (such as new 
+heating or mobility) as long as these 
+can deliver the same experiences as 
+before. However, approaching the 
+subject of dietary change or aviation 
+often elicits a more resistant and 
+emotional response. Serious societal 
+engagement is therefore essential 
+to the UK’s ability to meet Net Zero 
+given the nature and pace of the 
+changes required.
+Meeting the UK’s Net Zero target will require 
+unprecedented innovation across the economy. 
+Innovation not just in new technologies, but in  
+new ways of deploying existing technologies, new 
+business models, new consumer offerings, and, 
+crucially, new policy, regulation and market design.
+Serious societal 
+engagement is 
+therefore essential 
+to the UK’s ability 
+to meet Net Zero.
+Energy Systems Catapult 
+es.catapult.org.uk
+Executive summary
+es.catapult.org.uk 
+Energy Systems Catapult
+4
+5
+up to
+300
+TWh/yr of 
+Hydrogen needed 
+by 2050
+Even if demand for aviation  
+and livestock products were 
+eliminated by 2050, and 
+technology deployment raised  
+to even more ambitious rates,  
+Net Zero could only be brought 
+forward to 2045. Achieving an  
+earlier target date would require 
+non-linear reductions in demand  
+(or breakthrough technologies for 
+carbon removals). Our early public 
+engagement around Net Zero makes 
+us cautious of pathways that rely  
+on widespread, rapid adoption of 
+such changes.
+CCS and bioenergy are both 
+essential to delivering Net Zero. 
+When the target was 80%, failure  
+to deploy CCS had the highest cost 
+impact of all sensitivities, but the 
+target could still be met. Similarly, it 
+was possible to meet the 80% targets 
+without any scale up of biomass, 
+albeit incurring higher system cost. 
+With a Net Zero target, failure to 
+deploy either option means foregoing 
+the negative emissions essential to 
+offsetting continued demand for 
+aviation and livestock products.  
+Our modelling finds it extremely 
+difficult to meet Net Zero in those 
+circumstances.
+CCS deployment is essential for 
+mitigating industrial emissions and 
+can play a central role in hydrogen 
+production. The power sector  
+could act as an anchor for early  
+CCS deployment but its long-term 
+role here may depend on achieving 
+very high (99%) capture rates.
+To deliver this, the UK must 
+support innovation and 
+deployment across a portfolio of 
+low carbon energy conversion 
+technologies:
+• For Electricity: offshore wind 
+(including floating turbines for 
+deeper waters); large and small 
+modular nuclear subject to 
+demonstration and cost reduction; 
+and CCGT with CCS as an important 
+anchor in the early years (although 
+this may now be limited to a 
+transitional role if it is unable  
+to increase its capture rates).
+• For Hydrogen: steam methane 
+reformation with CCS may offer  
+the lowest cost route, while bio-
+gasification with CCS offers the 
+co-benefit of negative emissions. 
+But given implementation risks  
+for these, electrolysis remains  
+an important option for bulk 
+production as well as offering 
+unique opportunities for 
+integration of renewables and more 
+distributed hydrogen production. 
+Advanced nuclear concepts are also 
+emerging as a potential route to 
+low cost hydrogen production.
+• For District Heat Networks: 
+industrial heat offtake and 
+geothermal sources could 
+contribute, subject to local 
+availability. But if heat networks  
+are to be deployed at scale,  
+large heat pumps offer a proven 
+solution, while small modular 
+nuclear reactors offer potential  
+for combined heat and power, 
+subject to demonstration, and 
+social and political acceptance.
+Land use must be optimised to 
+balance carbon sequestration with 
+other priorities. New forestry can 
+provide a net carbon sink for decades 
+during growth and bring wider 
+environmental benefits. Biomass 
+crops, when regularly harvested for 
+energy (coupled with CCS), offer more 
+intensive and indefinite sequestration. 
+To make an impact by 2050, planting 
+must begin in earnest soon, 
+supported by a deepening of the 
+evidence base on the carbon and 
+non-carbon costs and benefits.
+Net Zero means a profound 
+transition away from fossil fuels. 
+While an 80% target still saw fossil 
+fuel’s share of final energy use at 
+50%, Net Zero sees that fall to 25% 
+(mostly in aviation and industry, 
+where alternatives are hard to see).
+Therefore, zero carbon energy 
+vectors require unprecedented 
+scale-up to dominate final energy 
+use. With few exceptions, final energy 
+must be delivered by vectors that are 
+zero carbon at point of use, i.e. 
+electricity, hydrogen and district  
+heat. By 2050:
+• A new low carbon hydrogen 
+economy will need to be created, 
+delivering up to 300TWh per 
+annum, roughly equivalent to 
+electricity generation today.
+• Electricity generation itself may 
+have to double, or even treble if 
+most hydrogen is to be produced 
+by electrolysis.
+• District heat may need to deliver 
+up to 150TWh per annum, up from 
+12TWh today.
+Beyond bulk energy provision,  
+a significant increase in different 
+types of storage and flexibility is 
+needed. While we have seen major 
+innovation and deployment of fast-
+reacting battery technology in recent 
+years, we are going to need similar 
+innovations in multi-vector storage 
+technologies across different 
+timescales (from seconds to seasons), 
+to manage extreme weather 
+conditions with minimal reliance on 
+unabated fossil fuel back-up systems. 
+A significant opportunity exists for 
+distributed heat storage in those 
+millions of homes that will transition 
+to heat pumps.
+The transport sector requires the 
+greatest increase in ambition from 
+previous 80% pathways and must 
+be fundamentally transformed by 
+2050. Emissions headroom allowed 
+for continued fossil fuel use in every 
+transport category, often with hybrid 
+and plug-in hybrid vehicles for  
+partial decarbonisation. For Net Zero, 
+road transport requires the virtual 
+elimination of fossil fuel consumption. 
+Electrification is the most likely route, 
+with hydrogen fuel cell vehicles 
+playing an important role especially  
+in heavier vehicles. Enabling smart 
+charging will be essential to allow  
+an efficient and smooth transition  
+to electrified transport.
+Emissions from shipping can  
+be tackled through switching to 
+hydrogen/ammonia-fuelled shipping, 
+but global coordination will be 
+required if UK emissions are to  
+be substantially reduced.
+CCS and bioenergy 
+are both essential 
+to delivering  
+Net Zero.
+Energy Systems Catapult 
+es.catapult.org.uk
+Executive summary
+Executive summary
+es.catapult.org.uk 
+Energy Systems Catapult
+6
+7
+up to
+150
+TWh/yr of District 
+Heat in 2050
+4. Direct support for innovation  
+and early deployment of CCS and 
+hydrogen production in industrial 
+clusters, including the development 
+of investable funding mechanisms 
+for CO2 transport and storage 
+infrastructure.
+5. Fundamental reform of power 
+markets to improve the efficiency 
+of the system and unlock the 
+potential of flexibility and 
+distributed low carbon technologies. 
+This includes providing more 
+accurate time-of-use and locational 
+signals, thus strengthening 
+incentives for supply and demand  
+to match user needs and local 
+system circumstances.
+6. Creation and adoption of an open 
+energy data and digitalisation 
+governance framework in  
+line with recommendations of  
+the Energy Data Taskforce. This  
+can maximise the potential of 
+digitalisation to enable tailored 
+consumer-focused innovation, 
+business models, market designs 
+and consumer protections in the 
+transformation of the energy 
+system ahead. 
+7. Development of tradable 
+instruments such as carbon  
+credits, and associated market 
+arrangements, to enable capital  
+to flow to sectors where emissions 
+reductions are being delivered 
+most efficiently. This approach 
+could unlock greater pathway 
+flexibility and increase the scope 
+for markets to reveal least-cost 
+combinations.
+Robust and enduring policies  
+and regulation will be essential to 
+building the necessary confidence 
+with innovators to invest in low 
+carbon products and services.  
+This report sets out an extensive 
+programme of policy and regulatory 
+reforms we think are necessary to 
+unlock the innovation that our 
+modelling analysis shows is required. 
+These policy recommendations are 
+detailed in ‘What needs to happen  
+during this Parliament’ on page 50.  
+These include:
+1. Developing a balanced, economy-
+wide framework of low carbon 
+economic incentives (comprising  
+a mix of market, pricing and 
+regulatory interventions) to shape 
+market incentives for actors 
+throughout emitting sectors  
+of the economy.
+2. Urgent development and gradual 
+introduction of an enduring set of 
+policies to fully decarbonise energy 
+in buildings, crucially including 
+regulatory incentives to promote 
+adoption of low or zero carbon 
+heating and changes to regulation 
+of energy networks.
+3. To reflect the different mix of  
+low carbon solutions needed in 
+different parts of the UK, introduce 
+a consistent and robust approach 
+to Local Area Energy Planning, 
+potentially with the backing  
+of a statutory framework. This  
+will help identify the low carbon 
+infrastructure and investment 
+needed at a local level, and shape 
+decision making by network 
+companies, developers and 
+planners.
+Decarbonising heat will rely  
+on deep retrofits for millions  
+of homes and some mixture of 
+electric heat pumps, hydrogen 
+boilers and district heating 
+depending on local circumstances. 
+Eliminating emissions from buildings 
+is one of the most difficult challenges 
+facing the energy sector, and requires 
+significant technological and 
+behavioural innovation. Our pathways 
+suggest declining usage of the gas 
+networks, as the deployment of heat 
+pumps and heat networks gathers 
+pace, weakening their economic case. 
+If they are to continue operating, 
+these networks will have to switch  
+to hydrogen by 2045, which was  
+not obviously necessary with an  
+80% target.
+In some scenarios, parts of the gas 
+network are decommissioned. In 
+other areas these networks remain 
+strategically important, especially 
+where the average quality of the 
+building stock means a full switch  
+to electrified heating would be  
+too costly. Here, gas networks  
+are maintained despite reduced 
+utilisation, supporting homes  
+with hybrid heating systems. This 
+underlines the importance of 
+understanding local pathways 
+to low carbon heating.
+The uptake of unfamiliar low carbon 
+heating technologies like heat pumps 
+and heat networks will likely require 
+new market propositions which are 
+as good or better for consumers 
+than their current heating systems. 
+Innovation, including harnessing the 
+potential of digital technology to give 
+people more control of their heating 
+and developing service offerings, will 
+be needed.
+Our pathways 
+suggest declining 
+usage of the gas 
+networks, as the 
+deployment of 
+heat pumps and 
+heat networks 
+gathers pace, 
+weakening their 
+economic case.
+Robust and 
+enduring policies 
+and regulation  
+will be essential  
+to building  
+the necessary 
+confidence with 
+innovators to 
+invest in low 
+carbon products 
+and services.
+Executive summary
+Executive summary
+es.catapult.org.uk 
+Energy Systems Catapult
+9
+8
+Energy Systems Catapult 
+es.catapult.org.uk
+The CCC advice
+The CCC’s Net Zero report built 
+upon their earlier work exploring 
+individual parts of the energy 
+system. These publications on 
+land use, hydrogen, biomass etc 
+drew on insights from several 
+different sources, including 
+modelling supported by tools 
+such as ESC’s Energy System 
+Modelling Environment (ESME). 
+The CCC set out:
+• Core actions consistent with 
+balanced pathways to reach 
+80% against 1990 levels;
+• Further Ambition measures 
+to achieve a stretch target in 
+each sector. Taken together 
+across all sectors, these add up 
+to a reduction of roughly 96%;
+• Speculative measures across 
+various sectors which, in some 
+combination, would be 
+necessary to achieve 100%  
+or Net Zero. These measures 
+are typically higher cost, less 
+mature, or rely more heavily  
+on social change.
+Global context
+The UK thus became the first 
+major economy to adopt a Net 
+Zero target, and many other 
+countries have now followed, 
+accounting for a substantial 
+portion of global economic 
+activity2. While there are notable 
+laggards, these countries can 
+expect to face increasing 
+pressure from the Net Zero  
+bloc of countries as well as  
+from domestic movements at 
+grassroots, city or regional level, 
+and increasingly from the  
+private sector.
+For many of the technologies 
+necessary for Net Zero, there will 
+be a strong global component in 
+terms of research and innovation, 
+early demonstration, and supply 
+chains for deployment at scale. 
+Wider global investment in these 
+areas will be essential in enabling 
+the UK to deliver on its targets. 
+But Net Zero also presents a 
+huge opportunity for UK 
+innovators. The advantages 
+gained through early 
+demonstration and deployment 
+of novel technologies and 
+business models creates 
+significant export potential. ESC 
+has created support platforms  
+for innovators for just this reason 
+(see page 62).
+In 2018, the IPCC published 
+evidence on what would be 
+required for a 1.5°C limit and  
+the implications of not doing so.
+Given this evidence, the  
+UK Government asked for  
+advice from the Committee  
+on Climate Change (CCC). The 
+CCC responded in May 2019, 
+recommending a Net Zero 
+emissions target by 2050. This 
+was accompanied by supporting 
+research, including ESC’s Living 
+Carbon Free1 report which set out 
+the implications for households.
+The CCC report was released in 
+the context of increasing public 
+concern about climate change in 
+the UK and around the world, 
+with street protests, school pupils 
+on strike, and public figures 
+speaking out on the need to  
+act urgently.
+In June 2019, the Government 
+amended the Climate Change  
+Act from 80% to 100% GHG 
+emissions reduction – or Net 
+Zero – by 2050. ‘Net’ means 
+balancing any residual emissions 
+with an equal quantity of carbon 
+removals from the atmosphere, 
+as long as this takes place in  
+the UK.
+Emissions Accounting
+The analysis conducted here 
+follows territorial emissions 
+accounting, as legislated in the 
+UK Climate Change Act. This 
+measures all emissions that 
+physically arise in a country, 
+including in the production  
+of goods destined for  
+overseas markets.
+As a net importer of traded 
+goods, this ignores a significant 
+proportion of the emissions that 
+result from what we consume in 
+the UK. Indeed, while territorial 
+emissions have nearly halved 
+since 1990, the carbon footprint 
+associated with overall 
+consumption in the UK has 
+remained high3.
+Paying close attention to these 
+consumption emissions can help 
+us avoid measures that reduce 
+UK territorial emissions by simply 
+offshoring hard-to-treat activities 
+to other countries. It would also 
+help UK citizens to understand 
+and reduce the true global 
+impact of our activities.
+The Net  
+Zero Context
+INTRODUCTION
+—
+In 2015, the Paris Agreement committed all 
+signatories to limit global warming to 2°C,  
+and pursue efforts to limit this to 1.5°C.
+In June 2019, the 
+Government amended  
+the Climate Change  
+Act from 80% to 100% 
+GHG emissions reduction 
+– or Net Zero – by 2050.
+Energy Systems Catapult 
+es.catapult.org.uk
+Introduction
+es.catapult.org.uk 
+Energy Systems Catapult
+10
+11
+Finally, we are engaging with  
+the general public to test 
+awareness around climate 
+change and Net Zero, and to 
+explore attitudes regarding  
+the sorts of technologies and 
+lifestyle changes described in  
+this work. Early evidence 
+suggests a general willingness  
+to adopt new technologies (such 
+as new heating or mobility) as 
+long as these can deliver the 
+same experiences as before. 
+Conversely, approaching the 
+subject of dietary change or 
+aviation often elicits a more 
+resistant and emotional response.
+Our Net Zero Insights 
+programme
+This modelling analysis is part  
+of a wider programme exploring 
+the implications of Net Zero 
+across a portfolio of technologies 
+and solutions. This includes 
+engineering deep dives into the 
+role of floating offshore wind; 
+advanced nuclear technologies; 
+storage and flexibility solutions; 
+and hydrogen (including fuel 
+cells) in buildings. We are also 
+looking at the role of enabling 
+trends, such as digitalisation of 
+the energy system, and how this 
+can help accelerate progress and 
+reduce cost (but also creates  
+new risks), as well as the market, 
+policy and regulatory changes 
+needed to achieve Net Zero. This 
+fits within ESC’s wider work on 
+the future energy system.
+Finally, before and since the  
+CCC advice, other groups have 
+shared their own views on how 
+and when the target should be 
+achieved. Some of these entail  
+a more renewables-based 
+approach, greater focus on 
+demand reduction, pathways 
+involving higher or lower reliance 
+on biomass, or those that require 
+dramatic changes in people’s 
+behaviours. Some groups have 
+even called for Net Zero as early 
+as 2025.
+While the Net Zero discourse 
+deserves a variety of perspectives, 
+the analytical basis for these is 
+not always made clear. In 
+particular, ESC’s wider Net Zero 
+Insights programme includes 
+early work assessing the public’s 
+willingness to significantly adapt 
+their lifestyles, and suggests that 
+it is right to be cautious about 
+pathways that rely too heavily on 
+aggressive reduction in carbon-
+intensive behaviours such as 
+aviation. While assumptions 
+should be challenged, our goal 
+is to show ‘what you have to 
+believe’ in order to deliver  
+Net Zero.
+What does our  
+analysis add?
+In this report, we detail new 
+systems modelling conducted 
+explicitly to meet Net Zero. This 
+enables us to explore optimal 
+pathways under different 
+conditions, finding similarities 
+and differences between them. 
+Crucially, it allows us to 
+understand how important 
+individual technologies are in 
+meeting the Net Zero target, 
+partly through testing 
+sensitivities. This allows us to 
+identify where deployment  
+is most valuable and urgent.
+Such systems modelling  
+allows us to identify areas 
+where innovation – the 
+creation and deployment of 
+new technologies, products 
+and services – has the most 
+potential value. This may help 
+identify where the greatest 
+commercial opportunities lie and 
+where policy attention is most 
+needed.
+This analysis draws out insights 
+not just about what the 2050 
+energy system might look like, 
+but also about the potential 
+pathways over the next 30 
+years, as detailed in our 
+scenarios on page 20.
+We have adopted the concepts of 
+Further Ambition and Speculative 
+measures for the analysis shared 
+in this report (see page 16).
+The central message from the 
+CCC is the need for economy-
+wide change: there is likely  
+to be a doubling of electricity 
+demand driven by the greater 
+electrification of heat and 
+transport; Carbon Capture and 
+Storage (CCS) is now a necessity; 
+and the use of hydrogen will be 
+needed in industry, heat and 
+heavy transport sectors like HGVs 
+and shipping. Supporting more 
+sustainable lifestyles can also 
+help to deal with those emissions 
+that are hardest to reduce 
+through technology.
+Early evidence suggests  
+a general willingness  
+to adopt new technologies 
+(such as new heating or 
+mobility) as long as these 
+can deliver the same 
+experiences as before.
+Energy Systems Catapult 
+es.catapult.org.uk
+Introduction
+Introduction
+es.catapult.org.uk 
+Energy Systems Catapult
+12
+13
+What is Whole 
+System thinking?
+Joining up the 
+system from 
+sources of energy 
+to the customer
+Generation
+Physical 
+System
+Electricity
+Transmission
+Digital  
+System
+Heat
+Distribution
+Market 
+System
+Whole  
+System
+Transport
+Buildings
+Policy
+Consumer
+Breaking down 
+silos between 
+different parts of 
+the energy system 
+Joining up physical 
+requirements of the 
+system, with policy, 
+market and digital 
+arrangements
+ESC’s mission is to 
+unleash innovation 
+and open new markets 
+to capture the clean 
+growth opportunity. 
+Reflecting this approach, we have 
+developed a set of modelling 
+assets for every level of the 
+energy system, from top-down, 
+economy-wide whole system 
+models, to models of the physics 
+of individual housing types. We 
+also have simulation tools and 
+consumer research assets, which 
+can help innovators explore and 
+test their new business ideas. 
+• energy integration at all levels 
+from national, regional and 
+local, down to individual 
+buildings
+• energy data and digitalisation
+• energy markets, policy and 
+regulation
+We work with industry, 
+Government and academia to 
+identify and overcome systemic 
+barriers and unlock those 
+opportunities that will transform 
+the energy system and deliver 
+maximum benefit to society.
+We have a strong digital 
+capability, which can provide 
+platforms on which to test new 
+ideas, manage datasets and 
+extract insights from large 
+quantities of data.
+Our Insights Team have drawn 
+upon a range of these capabilities 
+and assets in preparing this 
+report, but the key modelling tool 
+we have drawn upon is our Energy 
+System Modelling Environment, 
+detailed on page 16.
+Taking a whole system approach 
+is integral to this mission, and our 
+capabilities include coverage of:
+• energy consumers, their 
+expectations and attitudes
+• energy end-use technologies 
+in buildings, transport and 
+industry
+• energy vectors like power, 
+hydrogen, heat, biofuels
+• energy infrastructure for 
+transmission, distribution  
+and storage
+TA K I N G  
+A  W H O L E  
+S Y S T E M  
+A P P R OA C H
+Energy Systems Catapult 
+es.catapult.org.uk
+Taking a whole system approach
+es.catapult.org.uk 
+Energy Systems Catapult
+14
+15
+In ESME, the first three represent 
+optional extra technologies or 
+resources. Activating these simply 
+means making them available for 
+the model to deploy if doing so 
+would reduce overall system  
+cost. The other three are fixed 
+exogenous assumptions. When 
+activated, they necessarily take 
+effect, reducing the scale of 
+emissions reduction required 
+within the energy system.
+• More UK forestry. Normally 
+assumes tree planting of 30 
+kha annually to 2050 (i.e. 22 
+MtCO2/yr sequestered in 2050). 
+Speculative assumes 50 kha 
+annually (33 MtCO2/yr 
+sequestered in 2050).
+• Reduced livestock. Normally 
+assumes a decline in meat/
+dairy consumption of 20% 
+(delivering 8 MtCO2e saving in 
+2050 versus today). Speculative 
+assumes a decline of 50%  
+(19 MtCO2e saved).
+• Slower aviation demand 
+growth. Normally assumes  
+an increase in passenger 
+demand of 60% vs 2005 levels. 
+Speculative holds this to only 
+20% growth.
+Expanding the technology 
+option set
+The previous options in ESME 
+were sufficient for exploring 80% 
+pathways. However, with tighter 
+targets, ESME reached a limit of 
+about 90% before running out of 
+options for further abatement. 
+This portfolio has now been 
+enhanced and expanded. New 
+options have been added for 
+ships fuelled by hydrogen/
+ammonia, and options for 
+decarbonisation of industry via 
+electrification or hydrogen have 
+been extended. Options for 
+off-road mobile machinery to 
+transition away from fossil fuels 
+have also been added.
+This new ‘robust’ option set 
+enables ESME to reach 96%, 
+equivalent to CCC’s Further 
+Ambition. From here, further 
+speculative measures are 
+needed to reach Net Zero.
+Addition of Speculative 
+measures
+These comprise six measures 
+including further technology 
+innovation, behaviour change, 
+and land use change:
+• Direct air carbon capture 
+and storage. Normally limited 
+to a marginal role at 1MtCO2/yr 
+in 2050. Speculative allows this 
+in 2040, scaling to 25 MtCO2/yr 
+in 2050.
+• 99% carbon capture rate. 
+Normally limited to 95% 
+capture rate. Speculative allows 
+CCS to achieve 99% capture 
+rates, with cost and energy 
+penalties based on expert 
+engineering assessment.
+• More UK biomass. Normally 
+the available sustainable 
+quantity rises to ~120TWh/yr 
+by 2050. Speculative allows for 
+an additional 25TWh/yr.
+ESME is designed to be neutral  
+in market, policy and regulatory 
+assumptions. Policy analysis  
+can draw upon insights from 
+modelling, but these are typically 
+not imposed on the model 
+except in constructing specific 
+scenarios. This approach allows 
+for first examining the underlying 
+cost and engineering challenges 
+of meeting consumer needs, 
+before considering whether and 
+how to drive such outcomes.
+ESME Net Zero update
+ESME has been significantly 
+upgraded so that credible 
+transitions to Net Zero can  
+be explored. These upgrades 
+have drawn upon internal ESC 
+expertise, key sources in the 
+literature, and a series of 
+workshops with sector experts.
+Widening the scope of 
+emissions
+ESME is primarily a tool for 
+exploring energy systems, where 
+CO2 makes up by far the largest 
+share of GHGs. But emissions in 
+other sectors affect the ambition 
+needed in energy, including 
+negative emissions. Accounting 
+for all GHGs now allows us to 
+better represent the impact of 
+non-energy activities including 
+livestock, land use change  
+and forestry.
+Energy System 
+Modelling 
+Environment (ESME)
+ESME was developed to evaluate 
+the role of innovation in UK 
+energy system decarbonisation, 
+from energy resources and 
+conversion through to end use in 
+buildings, transport and industry. 
+It is used by ESC, Government, 
+industry, the Committee on 
+Climate Change and academia.
+ESME is an optimisation model 
+and finds the least-cost 
+combination of energy resources 
+and technologies that satisfy UK 
+energy service demands along 
+the pathway to 2050. Constraints 
+include emissions targets, 
+resource availability and 
+technology deployment rates, as 
+well as operational factors that 
+ensure adequate system capacity 
+and flexibility.
+Importantly, ESME includes a 
+multi-regional UK representation 
+and can assess the infrastructure 
+needed to join up resources, 
+technologies and demands 
+across the country. This includes 
+transmission and distribution 
+networks for electricity and  
+gas, and pipelines and storage 
+for CO2.
+Since technology innovation is 
+inherently uncertain, ESME was 
+designed with a Monte Carlo 
+mode, allowing us to run 
+hundreds of simulations in  
+one batch exploring different 
+assumptions. This helps  
+us identify ‘low-regrets’ 
+technologies which feature 
+consistently, or to understand  
+the cost and performance 
+characteristics required for 
+individual technologies before 
+these begin to deploy.
+Figure 1: Speculative measures for tackling residual emissions
+Aviation: only 20% growth
+Residual
+30MT
+Meat/Dairy: 50% decline
+Forestry: +20 kha/yr
+UK biocrops: +25TWh/yr
+CCS capture rate: 99%
+DACCS: 25MT/yr
+Demand
+Land use
+Tech innovation
+Fixed exogenous 
+assumptions. When 
+activated, these 
+necessarily feature  
+in an ESME run.
+Optional additional 
+technology or resource. 
+Deployment in a given  
+ESME run subject to techno-
+economic optimisation of  
+all options available.
+Energy Systems Catapult 
+es.catapult.org.uk
+Taking a whole system approach
+Taking a whole system approach
+es.catapult.org.uk 
+Energy Systems Catapult
+16
+17
+To generate a consistent Net 
+Zero ‘baseline’ for our sensitivity 
+runs, we started from the 
+TECH100 assumptions. Our 
+sensitivity runs include cases 
+where a single solution is 
+removed from the option set, 
+such as No Biomass, No CCS or 
+No (new) Nuclear. We also tested 
+interesting combinations, e.g. 
+ruling out Power CCS and 
+Nuclear together to test the 
+impact of No low carbon 
+baseload.
+We also asked: what would it take 
+to achieve Net Zero earlier than 
+2050? This requires modifications 
+to our exogenous demand 
+assumptions that go beyond the 
+speculative measures already 
+discussed, resulting in a MAX 
+sensitivity run (see page 45).
+We laid the foundations for our 
+core Clockwork scenario by using 
+the TECH100 assumptions, while 
+Patchwork uses the SOC100 set. 
+More detail on the underpinning 
+assumptions are detailed in the 
+next chapter.
+Building scenarios
+We have constructed a few 
+different high-level scenarios to 
+support our analysis, including:
+• FA96 – Further Ambition 96% 
+target only, with no speculative 
+measures.
+• TECH100 – Net Zero target 
+with more technology-based 
+measures: direct air capture, 
+higher capture rates and extra 
+biomass resource.
+• SOC100 – Net Zero target with 
+more society-based measures: 
+more UK forestry, reduced 
+livestock and slower aviation 
+growth.
+• BOB100 – Net Zero target with 
+the ‘best of both’: technology 
+and society-based measures.
+BOB100 allows us to explore the 
+largest possible ‘solution space’ 
+for Net Zero pathways. However, 
+planning on the basis that all 
+speculative measures could be 
+realised is inherently risky, so we 
+prefer to apply these more 
+selectively when choosing our 
+‘core’ scenarios (see next chapter).
+S C E N A R I O S  
+F O R  A  2050 
+N E T  Z E R O 
+E N E R G Y  
+S Y S T E M
+We also asked:  
+what would it take  
+to achieve Net Zero  
+earlier than 2050?
+Energy Systems Catapult 
+es.catapult.org.uk
+Taking a whole system approach
+18
+es.catapult.org.uk 
+Energy Systems Catapult
+19
+This chapter describes 
+two potential energy 
+system pathways to 
+Net Zero in 2050, 
+Clockwork and 
+Patchwork. 
+While these are not meant to  
+be predictions or recommended 
+pathways, they do explore two 
+very different approaches to how 
+the UK’s decarbonisation targets 
+could be met, highlighting some  
+of the key challenges and 
+opportunities any approach 
+would face.
+Clockwork
+– a centralised 
+pathway to Net Zero
+In Clockwork, coordination from 
+central Government drives long 
+term investment in strategic 
+energy infrastructure. In the 
+power sector, nuclear and wind 
+generation are underpinned by 
+policies that support development 
+of the supply chain and 
+workforce needed.
+Recognition of the value of 
+negative emissions leads to the 
+creation of the necessary markets 
+for the steady deployment of 
+greenhouse gas removals 
+technologies including carbon 
+capture and storage (CCS), 
+domestically grown biomass, 
+afforestation and direct air 
+carbon capture and storage 
+(DACCS). Innovation in CCS 
+pushes capture rates to 99%. 
+A supply of UK grown biomass is 
+established, reaching 1.4 million 
+hectares (mha) of land. This, 
+along with residues from the 
+30,000 hectares of forest planted 
+each year, provides 140TWh of 
+domestic biomass in 2050.
+Thanks to innovations in 
+technology, policy and business 
+models, the impact on people’s 
+lives is relatively modest. Indoor 
+temperatures continue to rise  
+to an average of 21°C by 2050 
+from around 18°C today. People 
+still prefer to own cars and 
+international travel demand 
+continues to increase. However, a 
+general shift towards vegetarian 
+and vegan diets leads to a 20% 
+reduction in meat and dairy 
+consumption by 2050.
+The UK population grows by  
+five million from today to 71.5 
+million by 2050. This growth is 
+concentrated in the South East, 
+but there is a continued move 
+towards suburban living.
+Patchwork 
+– a decentralised 
+pathway to Net Zero
+In Patchwork, central Government 
+takes less of a leading role, 
+resulting in a patchwork of 
+regional low carbon strategies.  
+A programme for large nuclear 
+plants does not progress beyond 
+Hinkley Point C and two others, 
+although regions with a history 
+of nuclear power favour small 
+modular reactors (SMRs). In 
+contrast, the popularity of 
+renewables means offshore wind, 
+distributed solar PV and other 
+renewable energy technologies 
+supply most of the electricity.
+Without clear central policy on 
+negative emissions and storage 
+of CO2, a UK biomass supply 
+struggles to grow. However 
+public support for woodland  
+sees planting rates of 50,000 
+hectares per year, which is able  
+to contribute to the domestic 
+supply of 80TWh of biomass  
+by 2050. A delayed recognition  
+of the importance of negative 
+emissions means the UK turns  
+to biomass imports to top-up 
+domestic supply. CCS is first 
+deployed five years later than  
+in Clockwork and capture rates 
+do not go beyond 95%, while 
+deployment of Direct air capture 
+is negligible.
+The population is very engaged 
+with the climate change agenda 
+adopting a number of lifestyle 
+changes to help reduce 
+greenhouse gas emissions. 
+Consumption of meat and dairy 
+halves by 2050. A combination  
+of consumer choice and smart 
+heating controls means the 
+average indoor temperature  
+of homes levels out at 19.5°C. 
+International aviation demand 
+slows to 2035, then begins to  
+fall back.
+The UK population grows by  
+8.5 million to reach 75 million by 
+2050. There is greater migration 
+of people to cities leading to a 
+slowing of growth in car travel 
+demand as people live closer  
+to work and have greater  
+access to public transport.
+Gas networks
+Gas usage begins to decline in 
+the 2030s, then more rapidly  
+in the 2040s as deployment of 
+heat networks and electric heat 
+pumps gather pace. In some 
+areas, parts of the gas network 
+are decommissioned. In other 
+areas these networks remain 
+strategically important, especially 
+where the average quality of the 
+building stock means a full switch 
+to electrified heating would be 
+too costly. Here, gas networks 
+are maintained despite reduced 
+utilisation, supporting homes 
+with hybrid heating systems 
+comprised of an electric heat 
+pump and gas boiler.
+Those areas where networks  
+are retained must undergo a 
+hydrogen switchover, beginning 
+in 2040. By 2050, most homes still 
+connected to gas networks are 
+being supplied with hydrogen.
+District heating
+In major population centres 
+around the UK, large district  
+heat networks are rolled out 
+from 2030 onwards. Since high 
+uptake rates are essential to the 
+economics of heat networks, 
+local strategic planning is 
+required to identify those areas 
+where heat networks offer 
+customers the best, most cost-
+effective solution.
+Gas and biomass CHP plants  
+help to seed early, small-scale 
+networks. As these begin to  
+grow and connect up, heat  
+is also recovered from large 
+thermal power plants. Eventually, 
+as carbon constraints begin to 
+limit the operation of CHP and 
+thermal power plants, nuclear 
+small modular reactors are 
+deployed to provide the bulk  
+of the heat into these networks. 
+Gas CHP facilities remain in 
+service at very low loads, 
+providing flexibility and 
+resilience, before this duty  
+is taken over by hydrogen  
+boilers by 2050.
+Clockwork deep dive
+Buildings and heat
+Retrofit measures are applied to 
+ten million homes at E-G rating, 
+reducing their space heating 
+demand by 20-30%. However, in 
+many homes this leads to further 
+‘comfort taking’, with average 
+indoor temperature following an 
+upward trend to 2050. Despite 
+increasing temperatures,  
+new building standards and 
+retrofits mean overall energy 
+consumption for space heating 
+remains similar to today.
+Electrification
+In thermally efficient homes, 
+electric heat pumps are installed 
+as standalone systems. In less 
+efficient homes, these are 
+typically installed as part of a 
+hybrid system, with gaseous 
+heating providing supplementary 
+heat for peaks and cold spells. 
+This arrangement reduces the 
+strain on the electricity grid 
+during peak periods and 
+minimises the capital cost of 
+home heating systems by sizing 
+heat pumps to meet baseload 
+heat only. By 2050, 58% of the 
+UK’s domestic space heat demand 
+is supplied by heat pumps.
+TWh
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Heat Pump
+Electric Heating
+Biomass Boiler
+H2 Boiler
+Gas Boiler
+Oil Boiler
+District Heating
+Solid Fuel Boiler
+Figure 2: Clockwork space heat production
+Energy Systems Catapult 
+es.catapult.org.uk
+Scenarios
+Scenarios
+es.catapult.org.uk 
+Energy Systems Catapult
+20
+21
+Increased electrification of road 
+transport has multiple benefits: 
+firstly decarbonisation, with 
+petroleum products making up 
+less than 10% of the energy 
+consumed for transport in 2050, 
+delivering a 97% reduction in  
+the associated CO2 emissions 
+compared to 2020; secondly, 
+improved energy efficiency, with 
+2050 energy consumption for 
+road transport being just over a 
+third of that in 2020 despite the 
+numbers of vehicles on the road 
+increasing; and finally, improved 
+air quality from the virtual 
+elimination of tailpipe emissions.
+Industry
+There is an overall growth  
+in industry to 2050, but a 
+combination of energy efficiency 
+improvements and a gradual shift 
+away from more energy intensive 
+activities means industrial energy 
+consumption actually decreases 
+by 19% by 2035. Energy 
+consumption levels off to 2050  
+as efficiency improvements  
+are balanced against expansion 
+of industrial activity.
+Industrial carbon capture  
+and storage
+Some industrial sectors adopt 
+carbon capture processes from 
+2030. CCS is predominantly 
+applied to the heavy industries 
+(iron and steel, chemicals, cement) 
+located in industrial clusters. 
+These are areas where industries 
+are in close proximity to each 
+other. Clusters tend to be located 
+in coastal regions enabling access 
+to the offshore CO2 storage sites. 
+By 2050, 28mtCO2 is captured by 
+industry directly.
+Road transport
+The Government ban on new 
+ICEs prompts manufacturers  
+to release a range of hybrid  
+and electric vehicles (EVs).  
+Plug-in hybrids see a relatively 
+modest uptake, with EVs being 
+the preferred option both  
+from the point of view of the 
+manufacturers, who focus  
+efforts on producing vehicles 
+with a single powertrain, and  
+the consumer, now satisfied  
+with the range possible on a 
+single charge.
+Hydrogen fuel cell cars are too 
+expensive compared to EVs and 
+fail to compete in this market. 
+However, hydrogen is used in 
+heavy goods vehicles as both  
+a primary fuel and as a way of 
+extending the range on battery 
+electric trucks.
+Transport
+Demand for transport in 
+Clockwork continues to increase 
+with people less prepared to 
+make lifestyle changes to reduce 
+reliance on privately owned  
+cars or curb their appetite  
+for flights abroad.
+Aviation and shipping
+The number of international 
+flights continues to increase,  
+with the average distance flown 
+by people in the UK reaching  
+an average of nearly 7,500km  
+per year by 2050. New engine 
+and aircraft designs increase 
+efficiencies through to 2050, 
+improving the fuel consumption 
+of aircraft. However, without  
+new, low-carbon propulsion 
+technologies, aviation is unable 
+to move away from fossil fuels.
+Heavy fuel oil ships are phased 
+out completely by 2040. A 
+transition to dual fuel ships 
+burning a combination of fuel  
+oil and natural gas starts in the 
+2020s. Hydrogen-fuelled ships 
+become available in the 2040s. 
+Most ships operating from the 
+UK are fuelled by hydrogen in 
+2050 resulting in a complete 
+decarbonisation of the sector.
+Million Vehicles
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+10
+20
+30
+40
+50
+Hydrogen FCV
+Battery EV
+PHEV 
+Hybrid 
+ICE 
+Figure 3: Deployment of cars in Clockwork
+The emissions headroom created 
+in other sectors, alongside short 
+periods of operation, means 
+capture rates of 95% on CCGTs 
+are sufficient, providing a cost 
+saving compared to 99% systems. 
+These technologies provide a 
+back-up role during the peak 
+demand periods. Therefore, annual 
+electricity supplied by these two 
+technologies is approximately 1% 
+of the total in 2050 (Figure 5). 
+Further day-to-day flexibility  
+is also provided by 8GW of 
+electricity storage and 10GW  
+of interconnectors.
+Power
+Clockwork sees extensive 
+electrification of road transport, 
+heating and industry which  
+leads to 524TWh of electricity 
+consumed in 2050 (up from 
+around 300TWh in 2015).  
+Of the electricity supplied, 
+approximately 40% is delivered 
+by onshore and offshore wind, 
+and 50% by nuclear generation.
+Flexible generation in 2050 is 
+provided by 6GW of combined 
+cycle gas turbines with CCS and 
+22GW of hydrogen turbines.  
+Industrial fuel switching
+In addition to efficiency measures 
+and CCS, industries adopt a 
+range of fuel switches from high 
+carbon fossil fuels to biomass, 
+hydrogen and electricity. Some 
+industries also switch processes 
+that use high carbon fuels to  
+gas in an effort to decarbonise. 
+Hydrogen replaces natural gas 
+and liquid fuels in a number  
+of industries including both 
+clustered and dispersed sites. 
+Hydrogen consumption in 
+industry increases with the 
+emergence of CCS in hydrogen 
+production methods using 
+natural gas or biomass. Industrial 
+emissions reach roughly 12mtCO2 
+in 2050.
+Hydrogen
+In 2050, around 250TWh of 
+hydrogen is needed to meet 
+demands for industry, space heat, 
+flexible power generation and 
+heavy-duty transport (including 
+shipping). Emissions headroom 
+created by 25MtCO2 of DACCS 
+and high capture rate CCS (99%) 
+means 216TWh of hydrogen can 
+be produced by steam methane 
+reformation with CCS. The 
+remaining 34TWh is produced by 
+biomass gasification with CCS.
+Geological storage of 660GWh  
+of hydrogen is needed in 2050  
+to ensure homes with H2 boilers 
+can be supplied with enough 
+hydrogen during an extreme 
+weather event during the winter. 
+This is significantly less than the 
+underground natural gas storage 
+capacity on the system today 
+(approximately 15,000 GWh).
+GW
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+50
+100
+150
+200
+250
+300
+Storage
+H2 Turbine
+Other Renewables
+Solar PV
+Offshore Wind
+Onshore Wind
+Nuclear
+Biomass & Waste
+Gas (CCS)
+Gas (inc. CHP)
+Coal
+Oil
+Interconnectors
+Figure 4: Power generation capacity
+TWh
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+100
+200
+300
+400
+500
+800
+600
+700
+H2 Turbine
+Other Renewables
+Solar PV
+Offshore Wind
+Onshore Wind
+Nuclear
+Biomass & Waste
+Gas (CCS)
+Gas (inc. CHP)
+Coal
+Oil
+Figure 5: Electricity supplied
+Energy Systems Catapult 
+es.catapult.org.uk
+Scenarios
+Scenarios
+es.catapult.org.uk 
+Energy Systems Catapult
+22
+23
+5,000km
+The average distance 
+flown per person  
+per year in 2050
+District heating
+In Patchwork, there is greater 
+migration of the population to 
+major cities, which are more 
+suited for district heat networks. 
+Early heat networks are small and 
+most of the heat is provided by 
+gas and biomass CHP systems. 
+Heat offtake from thermal power 
+generators provides additional 
+energy as heat networks grow.
+However, as carbon constraints 
+begin to limit operation of these 
+plants, heat must be provided by 
+other means. Solutions depend 
+on the region with some areas 
+making use of geothermal 
+resources, whilst others rely on 
+large-scale heat pumps. Some 
+areas adopt nuclear small 
+modular reactors, exploiting the 
+waste heat from these plants.
+Flexibility and resilience of the 
+heat networks is provided by  
+gas CHP plants that remain in 
+operation for the peak periods. 
+By 2050, natural gas peaking 
+systems are replaced with large 
+scale hydrogen boilers.
+Gas networks
+Gas boilers play an important 
+role in providing space and water 
+heating in homes until the mid-
+2040s. New boilers installed after 
+2035 are hydrogen-ready in 
+preparation for the big switch in 
+2050 when natural gas ceases to 
+play a role in domestic heating. 
+These boilers provide peak heat 
+during cold weather events and 
+winter evenings for those homes 
+not connected to a district  
+heat network.
+Electrification
+A steadily growing heat pump 
+market increases people’s 
+confidence in the technology’s 
+ability to satisfy their heating 
+needs. From the mid-2030s, when 
+people are faced with the need 
+to replace their gas boilers,  
+many opt to overhaul their entire 
+heating system. Heat pumps are 
+installed in combination with 
+hydrogen-ready boilers, which 
+provide a boost of heat during 
+cold days.
+Patchwork deep dive
+Buildings and heat
+Around 11.5 million homes  
+of E-G rating are retrofitted  
+by 2050, reducing space heat 
+demand by 20-30%. Greater 
+urbanisation means more people 
+live in high-density dwellings 
+with lower heat demands. The 
+Patchwork population seek to 
+reduce their carbon footprints  
+by making changes to their 
+lifestyles. For example, changes 
+such as wearing additional warm 
+layers rather than turning up  
+the thermostat, and adoption  
+of smart heating to better  
+control where and when heat is 
+provided, means average indoor 
+temperatures are limited to an 
+average of 19.5°C by 2050.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+TWh
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+Heat Pump
+Electric Heating
+Biomass Boiler
+H2 Boiler
+Gas Boiler
+Oil Boiler
+District Heating
+Solid Fuel Boiler
+Figure 6: Patchwork space heat production
+Road transport
+Although private car ownership  
+is less important to people in 
+Patchwork, the number of cars  
+on the road steadily increases  
+to 2050. However, in response to 
+the Government ban on ICEs and 
+hybrids and consumer preference 
+for low carbon transport, EVs 
+become the most common type 
+of car on the road by 2040.
+Hydrogen fuel cell cars are less 
+favoured due to their relative 
+expense compared to EVs. Range 
+anxiety and charging time is also 
+less of an issue in a world where 
+people are prepared to make 
+changes to their behaviour and 
+habits to accommodate low 
+carbon options. Hydrogen finds  
+its way into heavy goods vehicles 
+either as a primary fuel or to 
+extend the range of electric trucks.
+Aviation and shipping
+By 2050, the average distance 
+travelled is 5,000km per person 
+per year – equivalent to two 
+short trips to Europe each year. 
+These short haul journeys to  
+the continent might one day  
+be suitable for some form of 
+low-carbon aircraft but this does 
+not happen before 2050. So, to 
+maintain an industry in a world 
+where people are concerned with 
+their individual carbon footprints, 
+flight operators ensure that their 
+aircraft are the most efficient on 
+the market, retiring older planes 
+when better ones become 
+available.
+Demand for international 
+shipping rises steadily to 2050, 
+partly in response to a shift  
+away from air travel to Europe. 
+However, by 2050, the 
+international shipping fleet is 
+almost entirely decarbonised 
+through the use of hydrogen.
+Transport
+A combination of urbanisation, 
+different working habits, and a 
+positive public response to the 
+need for climate action leads to  
+a fall in demand for private car 
+ownership. Instead a combination 
+of public transport, walking and 
+cycling is made possible by 
+improved access to these 
+transport modes and through 
+effective town planning.
+The flight shame movement 
+resonates with a population  
+that is concerned with reducing 
+greenhouse gas emissions, and 
+demand for international flights 
+falls away from 2035.
+Million Vehicles
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+10
+20
+30
+40
+50
+Hydrogen FCV
+Battery EV
+PHEV 
+Hybrid 
+ICE 
+Figure 7: Deployment of cars in Patchwork
+Energy Systems Catapult 
+es.catapult.org.uk
+Scenarios
+Scenarios
+es.catapult.org.uk 
+Energy Systems Catapult
+24
+25
+Power
+Very high levels of electrification 
+are seen in Patchwork, which is 
+needed to decarbonise transport, 
+heating, industry, and provide 
+hydrogen by electrolysis. 
+Patchwork is a high renewables 
+scenario with 53% of the 700TWh 
+of electricity coming from on and 
+offshore wind. Other renewables 
+such as solar PV, tidal stream and 
+geothermal supply another 21%. 
+Due to intermittent supply and 
+lower load factors compared to 
+nuclear power, a total of 190GW of 
+renewables capacity is deployed.
+A programme for nuclear power 
+fails to materialise due to low 
+public support and a lack of 
+policy which would de-risk 
+investment and drive costs down 
+through learning-by-doing. As  
+a result, nuclear generation is 
+limited to three large generation 
+III plants. In addition, there is a 
+handful of small modular reactors 
+in regions with a history of 
+nuclear power, eager for the jobs 
+this industry provides. Even with 
+this low deployment scenario, 
+nuclear plants still supply 23% of 
+the electricity produced in 2050.
+To ensure supply during cold 
+periods with low wind speeds, 
+55GW of peaking plant is 
+needed, including 30GW of 
+hydrogen turbines. These make 
+use of hydrogen produced by 
+electrolysis during periods of 
+high renewables output and low 
+demand (such as the summer 
+and overnight winter periods) 
+and stored in salt caverns. 
+Geological storage of 600GWh  
+of hydrogen in 2050 provides  
+a long-term storage option  
+for electricity. 
+Hydrogen
+Production of hydrogen in 2050 
+is a mix of biomass gasification 
+with CCS and electrolysis, 
+producing 65TWh and 110TWh  
+in 2050 respectively. A small 
+amount of steam methane 
+reformation is also deployed but 
+failure to innovate CCS systems 
+to achieve capture rates beyond 
+95% limits the amount of 
+hydrogen that can be produced 
+in this way to 11TWh.
+Despite delays in CCS 
+deployment and a lack of 
+innovation in capture rates, 
+biomass gasification remains  
+of great value to the energy 
+system because of the negative 
+emissions that can be achieved. 
+After 2035, a market for negative 
+emissions begins to grow but a 
+disjointed policy framework and 
+scepticism from farmers means a 
+supply chain of domestic biomass 
+fails to reach its full potential. 
+These factors combine to limit  
+UK biomass to 80TWh in 2050 
+prompting the UK to import 
+additional biomass at extra cost. 
+The majority of this biomass is 
+used in hydrogen production, 
+with some being used in industry 
+and power generation.
+There is great public support  
+for the planting of trees in an 
+effort to reduce greenhouse  
+gas emissions. Planting rates of 
+50,000 hectares per year of new 
+woodland are achieved by 2050. 
+Some of this woodland is planted 
+on land previously set aside for 
+grazing animals, which becomes 
+available as meat and dairy 
+consumption halves by 2050.
+Industrial fuel switching
+By 2050 industry as a whole  
+has largely transitioned away 
+from fossil fuels to the point  
+that 68% of the energy required 
+is provided by a combination  
+of hydrogen, electricity and 
+biomass. However, natural gas 
+continues to play an important 
+role in industry.
+Use of hydrogen in industry 
+is predominantly found in the 
+dispersed industries. These 
+industries may struggle to 
+connect into a CCS network if 
+they are located too far from  
+an industrial cluster and so 
+electrification and hydrogen 
+provide low carbon solutions  
+to provision of industrial heat.
+Industry
+In Patchwork, there is a decline  
+in the traditional energy intensive 
+industries as activity shifts 
+towards high value engineering 
+and services sectors. This,  
+in combination with energy 
+efficiency improvements, means 
+industry in 2050 consumes 
+approximately two thirds of  
+the energy it does today.
+Industrial carbon capture and 
+storage
+Due to a lack of national  
+strategy on CCS, industrial CCS 
+fails to emerge until 2035. CCS  
+is deployed predominantly in 
+industrial clusters where the 
+remaining heavy industry is 
+located, smaller industries that 
+are closely located to clusters  
+can also make use of the CO2 
+pipelines laid for the larger point 
+sources. Since these regions tend 
+to be coastal there is good access 
+to offshore CO2 storage sites.  
+By 2050, 13Mt of industrial CO2 
+emissions are being captured. 
+Net emissions from the whole of 
+industry fall from approximately 
+100MtCO2 today to 10MtCO2  
+in 2050.
+GW
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+50
+100
+150
+200
+250
+300
+Storage
+H2 Turbine
+Other Renewables
+Solar PV
+Offshore Wind
+Onshore Wind
+Nuclear
+Biomass & Waste
+Gas (CCS)
+Gas (inc. CHP)
+Coal
+Oil
+Interconnectors
+Figure 8: Power generation capacity
+TWh
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+100
+200
+300
+400
+500
+600
+700
+800
+H2 Turbine
+Other Renewables
+Solar PV
+Offshore Wind
+Onshore Wind
+Nuclear
+Biomass & Waste
+Gas (CCS)
+Gas (inc. CHP)
+Coal
+Oil
+Figure 9: Electricity supplied
+However, during cold weather 
+events, hydrogen is also needed 
+to provide domestic heat by 
+hybrid systems. Competing uses 
+of hydrogen during peak periods 
+means 20GW of gas turbines 
+operating with CCS are also 
+necessary. Both the hydrogen 
+and gas plants operate with a 
+very low load factor, providing 
+just 1% of the total electricity 
+supplied in 2050. Interconnection 
+with Europe and 4GW of 
+electricity storage also support 
+peak provision of power in 2050.
+Energy Systems Catapult 
+es.catapult.org.uk
+Scenarios
+Scenarios
+es.catapult.org.uk 
+Energy Systems Catapult
+26
+27
+The scenarios in the 
+previous section allow 
+us to illustrate the key 
+features of individual 
+pathways in some 
+detail. 
+But the real power of models  
+like ESME is in generating  
+many such pathways under  
+very different assumptions, to 
+support decision-making under 
+uncertainty. In this section we 
+share the emerging insights from 
+the wider set of runs conducted 
+with ESME Net Zero to date.
+The Net Zero  
+solution space
+In modelling, the set of all 
+possible solutions to a problem  
+is known as the solution space. 
+For ESME, the problem is to  
+meet energy service demands 
+out to 2050, by deploying a set  
+of technologies and resources, 
+subject to a set of constraints, 
+including carbon emissions.
+Monte Carlo analysis gives us 
+many different ‘solutions’, which 
+act as a guide to the overall 
+solution space. The edges of this 
+space close in as the problem 
+gets harder due to higher 
+demands, fewer technology 
+options, or tighter constraints 
+(until, at a certain point, there  
+are no solutions). The switch to  
+a Net Zero emissions target has, 
+unsurprisingly, significantly 
+reduced the solution space.
+In ESME’s Monte Carlo mode, 
+demands and constraints remain 
+fixed across simulations. This way 
+we can establish, other things 
+being equal, the impact of 
+particular technological 
+innovations on the cost and 
+configuration of the energy 
+system. In reality, demand 
+trajectories are uncertain too,  
+so we explore these through 
+separate batches of runs based 
+on alternative demand cases.
+An 80% emissions target 
+allowed for a sizeable quantity  
+of residual emissions in 2050. 
+This provided considerable slack 
+and meant the possible solution 
+space was relatively large. 
+Although some technologies 
+appeared prominently, in all 
+cases they could be removed 
+from the option set and the 
+model could still meet the carbon 
+target by configuring the system 
+in some other way.
+At Further Ambition 96%  
+the system has very little slack. 
+Certain technologies become 
+indispensable regardless of cost 
+and removing these from the 
+option set leads to failure to 
+meet the emissions target. Those 
+simulations that do meet the 
+target now closely resemble  
+each other and many more 
+constraints are binding, such  
+as maximum deployment rates 
+for technologies. Adjusting such 
+constraints can have a significant 
+impact under distressed 
+conditions like this, so it is 
+important that these are 
+informed by proper engineering 
+analysis and advice (see Timelines 
+on page 47).
+Achieving Net Zero requires  
+the introduction of speculative 
+measures (see ESME Net Zero 
+update on page 16). Adopting  
+all of these, including social  
+and technological measures, 
+reintroduces some slack and 
+substitutability even though the 
+emissions reduction constraint  
+is tightened to 100%.
+N E T  Z E R O 
+E N E R G Y 
+S Y S T E M 
+I N S I G H T S
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+29
+Energy Systems Catapult 
+es.catapult.org.uk
+28
+Power sector
+The charts on the left are outputs  
+from the power sector from  
+three Monte Carlo batches 
+corresponding to the old 80% 
+target, Further Ambition (FA96), 
+and a highly speculative Net Zero 
+(BOB100). The charts depict 2050 
+power capacity across 100 
+simulations.
+Moving from the 80% to FA96, 
+the reduced variation across 
+simulations is immediately 
+apparent. In 80%, ESME has 
+considerable freedom to respond 
+to high/low cost trajectories for 
+different technologies and select 
+the cost-optimal combinations.  
+In FA96, these cost variations  
+still occur, but ESME has little 
+freedom to adjust its choice  
+of technologies.
+In BOB100, sufficient  
+speculative measures are  
+added to overcompensate for  
+the more stringent Net Zero 
+target, thus we see more 
+variation reintroduced across 
+simulations. Some of the more 
+specific factors behind these 
+trends are discussed next.
+GW
+GW
+0
+50
+100
+150
+200
+0
+50
+100
+150
+200
+GW
+0
+50
+100
+150
+200
+Solar + Other RES
+Wind
+Nuclear
+Thermal + CCS
+Hydrogen
+Unabated thermal
+80%: Electricity Generation Capacity in 2050
+Simulations
+Simulations
+Simulations
+FA 96%: Electricity Generation Capacity in 2050
+BoB 100%: Electricity Generation Capacity in 2050
+Figure 10: Range of outcomes for 2050 Power Capacity  
+in three Monte Carlo batches (80%, FA96 and BOB100), one column  
+per simulation
+In the BOB100 world though, 
+thermal CCS can achieve a 99% 
+capture rate (and other measures 
+elsewhere add some emissions 
+headroom). Now, there is a  
+clear competition between  
+this technology and nuclear.
+Overall capacity: These  
+features also help explain why 
+the simulations in BOB100 have 
+lower power capacity in general, 
+compared to FA96. In 2050, 
+hydrogen becomes an essential 
+energy vector in either world (see 
+Figure 11). In FA96 this is mostly 
+produced through electrolysis, 
+pushing up electricity demand 
+considerably.
+In BOB100, greater emissions 
+headroom and the 99% capture 
+rate makes steam methane 
+reforming an attractive 
+technology for production of  
+the vast quantities of hydrogen 
+needed in 2050. In fact,  
+BOB100 tends to involve greater 
+quantities of hydrogen overall 
+than in FA96, since lower-cost 
+hydrogen makes it more 
+competitive against electrification 
+in sectors like heavy-duty 
+transport.
+This analysis suggests that 
+innovation to achieve 99% 
+capture rates could prove 
+transformative for the prospects 
+of CCS in power and hydrogen 
+(also see CCS section on page 34) 
+beyond 2040.
+Power CCS: For similar reasons, 
+even CCS-equipped thermal 
+plant is locked out of FA96. This 
+is because carbon capture rates 
+are capped at 95%, meaning 5% 
+of combustion emissions still 
+escape to the atmosphere,  
+and the lack of any speculative 
+measures means the overall 
+emissions headroom in the 
+system is severely constrained. 
+This proves so prohibitive that 
+nuclear is selected as the 
+alternative baseload plant. 
+Unabated thermal plant:  
+In FA96 there is no role for 
+unabated thermal plant, such as 
+open or closed cycle gas turbines 
+due to the emissions, even at  
+low load factors, making them 
+uneconomic. However, in a 
+BOB100 world, for some 
+simulations a small amount of 
+unabated thermal is deemed 
+manageable, given negative 
+emissions elsewhere.
+TWh
+TWh
+0
+50
+100
+150
+200
+250
+300
+350
+0
+50
+100
+150
+200
+250
+300
+350
+FA96: Hydrogen production in 2050
+Simulations
+Simulations
+BOB100: Hydrogen production in 2050
+Electrolysis
+Methane reformation
+Biomass gasification
+Figure 11: Hydrogen production by volume in 2050 across two 
+batches of Monte Carlo runs (FA96 and BOB100), one column  
+per simulation
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+30
+31
+Biomass resource can be 
+exploited through simple 
+combustion for power or heat,  
+or through conversion into  
+liquid bio-fuels, bio-methane  
+or hydrogen. Since conversion  
+to bio-fuels and bio-methane 
+transfers some of the carbon 
+back into the atmosphere upon 
+use, greater negative emissions 
+are derived from BECCS 
+processes that deliver carbon-
+free vectors, like electricity and 
+hydrogen.
+But the relative substitutability  
+of different applications also 
+matters. Since there are more  
+low carbon options for power 
+generation, limited biomass 
+resource tends to be prioritised 
+for hydrogen production (or 
+hard-to-treat industry processes).
+Biomass
+Dedicated biomass crops are an 
+important part of a cost-effective 
+low carbon energy system. Like 
+forestry, biomass crops sequester 
+carbon from the atmosphere 
+during growth. When harvested 
+and processed for energy, this 
+has the potential to be a near 
+carbon neutral resource4. When 
+bioenergy is combined with  
+CCS (BECCS) the sequestered 
+carbon can be removed from  
+the atmospheric carbon cycle 
+permanently, resulting in 
+negative lifecycle emissions.
+Unlike forestry, where 
+sequestration from a given  
+land area will eventually level  
+out, regular harvesting of energy 
+crops gives the potential for 
+sequestration to be sustained 
+indefinitely5.
+System-wide 
+sensitivity analysis
+Land use for biomass  
+and forestry
+Forestry
+In line with the CCC and others, 
+our central assumption sees 
+expansion of forestry from 13% 
+today to 18% of UK land by 2050, 
+or 4.8 Mha. New forestry acts as 
+a carbon sink during its growth, 
+before levelling off in later years. 
+Allowing for this, and assuming 
+steady tree planting over the 
+30-year period, this expansion 
+would provide carbon removals 
+of -22 MtCO2e annually in 2050.
+In addition to acting as a carbon 
+sink, afforestation (and other 
+habitat restoration) would support 
+the recovery of biodiversity across 
+UK ecosystems, and increase the 
+amount of green space for people 
+to enjoy.
+Innovation needs for biomass:
+• Deepen the evidence base 
+around optimal land use and 
+land management to improve 
+yields, maintain soil quality  
+and biodiversity.
+• Improve biomass feedstock 
+improvement techniques to 
+remove impurities prior to 
+energy conversion.
+• RD&D of biomass conversion 
+technologies, especially 
+gasification for hydrogen 
+production.
+• Maximising the value of 
+biomass will rely on CCS (see 
+page 34) to enable negative 
+emissions.
+In a Net Zero context, the 
+impact is more profound. We 
+anticipate continued emissions 
+from aviation, livestock, and parts 
+of industry, meaning the system 
+requires negative emissions if  
+the target is to be achieved. 
+Given this, in our No Biomass 
+sensitivity, Net Zero cannot be 
+met. The system is left with 
+residual emissions of 40 MtCO2e 
+in 2050 (after accounting for 
+forestry and direct air capture). 
+The absence of biomass means 
+substitutes must be found.  
+For hydrogen production, the 
+cheapest alternative would 
+normally be steam methane 
+reforming with CCS, but the lack 
+of emissions headroom now 
+means even the small residual 
+emissions from this process are 
+prohibitive.
+This forces reliance on higher 
+cost electrolysis instead, and 
+since hydrogen is now higher 
+cost, there is a more general shift 
+in the direction of electrification 
+elsewhere in the economy. 
+Altogether 2050 electricity 
+generation shifts from ~550TWh 
+in the baseline to ~750TWh in  
+a No Biomass case.
+Today, dedicated biomass  
+crops are negligible, with most 
+UK-sourced biomass coming 
+from agricultural and forestry 
+residues (and the rest imported). 
+Our central assumption sees a 
+steady expansion of biomass  
+on marginal agricultural land, 
+covering 1.4Mha by 2050.
+An argument can be made in 
+favour of using this land to 
+support further acceleration of 
+tree planting, instead of biomass 
+crops. There are important 
+considerations here in relation  
+to biodiversity, but the more 
+intensive growth and 
+sequestration from biomass 
+crops means that foregoing  
+this in favour of forestry would 
+reduce the annual ‘yield’ of 
+negative emissions.
+In energy terms, 1.4Mha by  
+2050 provides a resource of 
+120TWh annually or roughly 5% 
+of primary energy consumption 
+today. In emissions terms, this 
+delivers -34 MtCO2e of 
+sequestration in 2050.
+We also assume a quantity of 
+biomass imports, although this  
+is limited to 34TWh annually in 
+2050, reflecting international 
+competition for this scarce 
+resource. This provides a further 
+-9 MtCO2e in 2050.
+Under our central assumptions, 
+the UK could achieve -65 MtCO2e 
+of carbon sequestration annually 
+in 2050.
+For an 80% target, our analysis 
+showed it was possible to 
+manage without expansion of 
+biomass, though this had a 
+significant impact on costs, 
+pushing up the national 
+abatement cost by ~50%.
+We anticipate continued 
+emissions from aviation, 
+livestock, and parts of 
+industry, meaning the 
+system requires negative 
+emissions if the target  
+is to be achieved.
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+32
+33
+Innovation needs for CCS:
+• Globally, there are now more 
+than 50 large scale CCS 
+facilities (19 in operation).  
+For the UK, the priority  
+should be to catch up in  
+terms of demonstration  
+and deployment.
+• Direct Government support  
+is likely needed for the 
+infrastructure to transport and 
+store the captured CO2, giving 
+confidence to the private 
+sector to back individual 
+projects, including for 
+industrial facilities, hydrogen 
+production and power.
+• By 2050 very high capture 
+rates may prove critical  
+given the lack of emissions 
+headroom. For steam methane 
+reforming, operating on  
+a constant basis, 99% may  
+be achievable. For power 
+plants, this is likely to prove 
+challenging when ramping up 
+and down for load following.
+• Nevertheless, CCS can play a 
+transitional role in the power 
+sector over the next 30 years, 
+by offering immediate 
+opportunities for anchor 
+projects as infrastructure  
+is rolled out. Achieving the 
+highest feasible capture  
+rates here would help extend 
+the life of these plants.
+For Net Zero, a paradox 
+emerges, where CCS in the Power 
+sector begins to retreat by 2050 
+(due to residual emissions),  
+yet CCS overall becomes more 
+essential than ever, given its  
+role in industry, hydrogen,  
+BECCS and direct air capture. 
+In our No CCS sensitivity, all 
+these applications are unavailable 
+and the Net Zero target is 
+missed, with net annual 
+emissions of 70MtCO2e in 2050.
+In this No CCS system, industrial 
+CO2 goes uncaptured, and other 
+sectors must further minimise 
+CO2. Heating, transport and 
+industry are all heavily electrified 
+(and district heat networks 
+extended) to minimise the need 
+for hydrogen. Since unabated 
+steam methane reforming is  
+not an option and even biomass 
+gasification (without CCS) has  
+a small net positive carbon 
+footprint, any hydrogen that is 
+required must be produced via 
+electrolysis.
+The high demand for electrolysis 
+puts additional strain on the 
+power sector, which must 
+generate ~820 TWh in 2050  
+(vs ~300TWh today).
+Carbon Capture and 
+Storage (CCS)
+CCS encompasses a family of 
+technologies with applications  
+in the production of various 
+energy carriers (electricity, 
+hydrogen, bio-methane and 
+liquid bio-fuels), and in industrial 
+processes like steel and cement 
+manufacturing. In combination 
+with biomass, CCS can help to 
+generate negative emissions, 
+alleviating the need to eliminate 
+activities that are hard to treat, 
+like aviation.
+In an 80% context, because of 
+its application across so many 
+parts of the energy system, CCS 
+had the highest opportunity  
+cost of all technologies tested. 
+Removing CCS doubles the 
+overall abatement cost, but  
+the target can be met.
+TWh
+TWh
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+0
+500
+1000
+1500
+2000
+0
+500
+1000
+1500
+2000
+Clockwork 80%: Final Energy Consumption
+Clockwork Zero: Final Energy Consumption
+Petroleum
+Hydrogen
+Gas
+Electricity
+District Heat
+Coal
+Biomass & waste
+Figure 12: Final energy consumption for 80% and Net Zero targets
+Heat networks provided around 
+5% of final energy. Hydrogen 
+emerged as a new energy vector 
+in hard-to-electrify applications, 
+providing around 10% of final 
+energy. Biomass and coal made 
+up the remaining 5%.
+To meet Net Zero, a more 
+profound transition is required. 
+Negative emissions can help 
+counter residual emissions  
+from activities like aviation, but 
+wherever possible delivery of 
+final energy by fossil fuels is 
+substituted out. As a result, the 
+share of fossil fuel in the final 
+energy mix falls to 25%. See 
+Figure 12.
+In Clockwork, a new trio of zero 
+carbon energy vectors now make 
+up three quarters of the mix – 
+electricity at 43%, hydrogen at 
+20% and district heat at 10%.
+Since most of the remaining  
+fossil fuel goes into industry  
+and aviation, the mix of energy 
+vectors delivered to households 
+is profoundly different from the 
+previous 80% pathway.
+Three key energy 
+vectors
+Energy in the UK currently 
+reaches the end user via three 
+principal vectors: petroleum, gas 
+and electricity. In 2015, this was 
+split roughly 45% oil/petroleum, 
+30% gas, 19% electricity (plus  
+4% biomass, 2% coal, 1%  
+network heat).
+Overall, about 75% of final 
+energy delivered to the end user 
+is fossil fuel. Since electricity is 
+zero carbon at the point of use, 
+an obvious decarbonisation 
+strategy is to increase electricity’s 
+share of final energy use, while 
+displacing fossil fuels in electricity 
+generation.
+Other zero carbon energy vectors 
+(at point of use) include hydrogen 
+and district heat. At present, 
+production of hydrogen for 
+energy purposes is virtually 
+non-existent, while nationally  
+the share of energy delivered  
+by district heat networks is 
+negligible. In a future low carbon 
+energy system, both of these  
+will likely have a very significant 
+role where they provide a more 
+practical or cost-effective 
+alternative to electricity (as, in  
+the case of heat networks, they 
+already do in some European 
+markets). This assumes they can 
+be produced in a low carbon way.
+To meet an 80% target, fossil 
+fuels still made up 50% of final 
+energy demand (30% petroleum, 
+20% gas, with electricity making 
+up 30%). While this may seem 
+counterintuitive, the retirement 
+of coal power plants (and 
+deintensification of industry since 
+the 1990 baseline) means that 
+much of the 80% reduction is 
+achieved ‘upstream’, limiting the 
+impact on final energy use. 
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+34
+35
+es.catapult.org.uk 
+Energy Systems Catapult
+Electricity
+For an 80% target, analysis 
+typically generated a wide range 
+of potential electricity sector 
+outcomes (see page 30), with 
+considerable variation in the 
+mixture of nuclear, gas CCS  
+and wind.
+For Net Zero, much now 
+depends on wider system 
+assumptions. When speculative 
+measures are limited, the 
+emissions headroom is so heavily 
+constrained that CCS at 95% 
+capture rate is not low carbon 
+enough, leaving a stable balance 
+between nuclear and wind. 
+Where more headroom is 
+available, and innovation can 
+deliver 99% capture rates for 
+CCS, this can still be competitive 
+against nuclear, as a form of 
+dispatchable, baseload 
+generation.
+Partly as a result of its remarkable 
+cost reductions in recent years, 
+wind has secured its place as a 
+more robust feature of any low 
+carbon electricity system. With 
+greater electrification required, 
+floating offshore wind can unlock 
+a large reservoir of energy 
+resource in UK waters. Other 
+renewables (led by solar PV  
+and tidal stream) can make  
+an important addition to this  
+as part of a balanced mix.
+Hydrogen
+For an 80% target, hydrogen 
+was a strategically important 
+energy vector, but the overall 
+quantity was typically limited  
+to around 100TWh in 2050.
+For Net Zero, greater hydrogen 
+switching is now required across 
+industry, heavy transport and 
+shipping, meaning annual 
+volumes in the range of 200-
+300TWh. This means creating 
+and building an entire new 
+energy sector within 30 years 
+to deliver energy volumes 
+potentially approaching that  
+of the power sector today.
+The optimal mix of hydrogen 
+generating technologies is 
+uncertain. Biomass gasification 
+with CCS is typically deployed 
+but is unable to deliver the mass 
+quantity of hydrogen needed.
+With speculative innovation 
+measures, steam methane 
+reforming at 99% capture  
+rate looks highly appealing  
+for hydrogen production. Any  
+such facilities would produce 
+constantly throughout the year, 
+with the surplus during summer 
+being placed into geological 
+storage for use in winter.
+Without speculative innovation 
+measures, methane reforming at 
+a 95% capture rate is too high 
+carbon to meet Net Zero. In that 
+case, electrolysis is preferred,  
+but at higher cost this makes 
+hydrogen less appealing overall.
+We also tested the possible  
+role of advanced nuclear  
+for hydrogen production, 
+drawing on data from one of  
+the engineering deep-dives in  
+our wider Net Zero Insights 
+programme.
+Innovation needs for electricity 
+generation:
+• Support a basket of options, 
+given ongoing uncertainty.  
+For wind, this includes RD&D 
+for floating turbines, but  
+also continued significant 
+deployment of fixed offshore 
+wind farms. All our scenarios 
+see expansion of onshore wind 
+farms in the near term, given 
+their proven cost effectiveness.
+• For nuclear, our previous 
+analysis has shown how a 
+carefully designed programme 
+that engages all of the key 
+stakeholders with a shared 
+focus on the key characteristics 
+of low cost and high quality 
+construction can start the UK 
+down the path to affordable 
+nuclear power6.
+• For Power CCS, the key will be 
+understanding feasible capture 
+rate potential under different 
+operating conditions. Very 
+high capture rates may be 
+possible under a stable 
+operating environment but 
+ramping from a cold start is 
+likely to introduce a capture 
+rate ‘penalty’, meaning lower 
+average capture rates if the 
+plant is operating flexibly.
+• As part of our ongoing Net 
+Zero Insights programme,  
+we will publish analysis on the 
+role of storage and flexibility 
+solutions in due course.
+In our analysis, we see cases  
+at either end of the spectrum 
+where nuclear or gas CCS has 
+fully displaced the other as part  
+of a feasible system solution.  
+This is confirmed from specific 
+sensitivity runs we have 
+performed with no nuclear  
+and (separately) no gas CCS.
+Crucially, when we rule out all 
+power CCS, the overall energy 
+system falls short of Net Zero by 
+5MtCO2. This is because energy 
+from waste (EfW) with CCS is 
+always a small but important part 
+of the mix in 2050. Since waste 
+contains some biogenic content, 
+it counts as a form of BECCS, 
+generating negative emissions. 
+When we rule out all CCS from 
+power these negative emissions 
+are foregone, hence the shortfall.
+We took the No Power CCS case 
+and stretched it further by ruling 
+out nuclear as well, implying a 
+system with no low carbon 
+baseload. Residual emissions  
+are higher again, but not by 
+much, at 6MtCO2. The more 
+profound impact is on overall 
+system design: without the 
+preferred 35GW of baseload 
+nuclear, a combination of other 
+technologies come in, with wind 
+and solar capacity each climbing 
+to ~100GW, and peak capacity 
+from hydrogen turbines (and 
+distributed fuel cells) rising to 
+58GW.
+Clockwork
+Patchwork
+Energy storage  
+in 2050  
+(non-fossil)
+Volume  
+(GWh)
+Power 
+Rating 
+(GW)
+Volume  
+(GWh)
+Power 
+Rating 
+(GW)
+Electricity  
+storage
+35
+8
+29
+4
+Heat storage 
+(Buildings)
+365
+182
+352
+176
+Heat storage 
+(District heat)
+290
+72
+328
+82
+Hydrogen  
+storage
+657
+164
+601
+150
+Because of greater intermittent 
+renewable penetration, Net  
+Zero pathways have a greater 
+requirement for system 
+balancing. 
+This can be achieved through 
+supply side flexibility, demand 
+side flexibility and energy  
+storage in various forms.
+Although ESME provides a 
+robust method to evaluate  
+daily and long term balancing, 
+ESC’s new Storage and 
+Flexibility Model (SFM) has 
+been developed to provide 
+more granular analysis.
+Using SFM, we see similar 
+macro-level trends as identified 
+here, with similar storage 
+technologies selected. However, 
+we see further value attributed 
+to technologies that can 
+provide services previously met 
+by fossil fuels (e.g. inter-day/
+week storage) and frequency 
+services previously supported 
+by large quantities of spinning 
+thermal plant.
+As part of our ongoing Net  
+Zero Insights programme,  
+we will publish more detail 
+on the role of storage and 
+flexibility solutions.
+Box 1: Storage and Flexibility
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+36
+37
+Innovation needs for  
+network heat:
+• Robust, consistent and detailed 
+local area energy planning 
+will be essential to understand 
+the optimal phasing of heat 
+network deployment in any 
+given region, building out  
+from urban centres to more 
+suburban areas over time. 
+Options for heat supply, 
+storage and peak reserve can 
+be evaluated for each phase  
+of network deployment.
+• UK deployment of tried and 
+tested solutions elsewhere  
+in the world, including 
+geothermal, heat pumps,  
+heat storage will deliver cost 
+reductions through learning-
+by-doing.
+• Nuclear small modular reactors 
+require support through the 
+design and demonstration 
+stages. It is crucial that their 
+full potential for combined 
+heat and power is recognised 
+and demonstrated.
+Large-scale heat pumps typically 
+make up a large proportion of 
+energy for heat networks. This 
+relies on wider aspects of power 
+system design, like ensuring 
+sufficient capacity to meet peak 
+heat demand, especially in the 
+case of high renewables 
+penetration.
+The accompaniment of large-
+scale heat storage would  
+alleviate some of this pressure  
+by smoothing out the demand 
+for electricity and providing a 
+reliable source for provision  
+of heat during daily peaks. In 
+addition to heat storage, further 
+reserve capacity is likely to be 
+needed to cope with extreme 
+cold weather events. For this,  
+the simplest low carbon solution 
+would be large-scale boilers 
+fuelled by hydrogen.
+Small modular nuclear reactors 
+(e.g. 300 megawatts) offer the 
+potential for combined heat  
+and power as part of a more 
+distributed energy system, but 
+will require these small reactors 
+to be sited closer to population 
+centres (e.g. within 20km). 
+Crucially, this will depend on 
+political and social acceptance. 
+Areas with a history of nuclear 
+energy facilities and the 
+associated job opportunities  
+this can bring are likely to be  
+the first to support early trials. In 
+the meantime, local area energy 
+planning will require careful 
+phasing to maintain the option of 
+plugging in nuclear SMRs subject 
+to successful demonstration.
+For Net Zero, energising district 
+heat networks by operating 
+gas-fired combined heat and 
+power (CHP) facilities becomes 
+prohibitive. Biomass CHP facilities 
+could offer a near carbon-neutral 
+source, but we saw earlier how 
+biomass is preferentially directed 
+towards facilities incorporating 
+CCS. This is better suited to a 
+small number of large-scale 
+facilities (to minimise CO2 pipeline 
+infrastructure), and therefore 
+likely to be incompatible with 
+more distributed CHP facilities  
+for district heat networks. 
+Geothermal energy (for heat and 
+power) is heavily constrained 
+geographically, but in those 
+regions with suitable geology, 
+such as Cornwall, this could 
+provide an important 
+supplementary source of energy 
+for district heat networks.
+Where speculative measures 
+enable a continued role for large 
+thermal CCS plant in the power 
+sector, heat offtake from these 
+can provide a valuable source for 
+heat networks in the medium 
+term, although this may become 
+less reliable over time due to 
+declining load factors by 2050.
+District Heat
+The roll-out of district heat 
+networks was an important 
+feature of our whole systems 
+analysis for an 80% target. 
+Depending on the cost 
+effectiveness of other solutions, 
+the share of all UK buildings’  
+heat coming from district heat 
+networks in 2050 would typically 
+range from 10-25%.
+A Net Zero target likely means 
+more – and more extensive – 
+district heat networks across UK 
+cities as gas networks are retired. 
+In our Further Ambition case 
+(FA96), the overall share of 
+buildings space heat coming 
+from district heat networks 
+ranges from 25–40%.
+Where more speculative 
+measures are introduced the 
+ability to generate low-cost clean 
+hydrogen means the regional  
+gas networks can continue to be 
+used, and the roll-out of district 
+heat networks is more limited, 
+ranging from 10-22% of all  
+space heat.
+The Japanese Atomic Energy 
+Agency (JAEA) has demonstrated 
+hydrogen production from  
+a sulphur-iodine cycle using  
+the heat supply from high-
+temperature gas-cooled  
+reactors (HTGR).
+Across a range of cost 
+assumptions, deployment of 
+these HTGRs looked favourable in 
+ESME, with annual production of 
+50-100TWh of hydrogen in 2050.
+Innovation needs for hydrogen 
+production:
+• Very high carbon capture rates 
+may be critical to ensuring  
+a role for steam methane 
+reforming (SMR+CCS).
+• Electrolysis appears a more 
+expensive option, but 
+innovation (including learning 
+by doing) can bring down cost 
+and improve performance. 
+Demonstrating electrolysis at 
+scale in the 2020s should be a 
+priority given implementation 
+risks with SMR+CCS (which, if 
+proven successfully, may then 
+compete to deliver lower cost 
+hydrogen to the consumer).
+• Advanced nuclear technology 
+for production of hydrogen 
+could be an important new 
+option, particularly where 
+these facilities can operate 
+flexibly between generation  
+of electricity, hydrogen and 
+heat, supporting multiple  
+end use applications.
+In addition to heat 
+storage, further reserve 
+capacity is likely to  
+be needed to cope  
+with extreme cold 
+weather events.
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+38
+39
+Energy end use
+Buildings and heat
+Space heating accounts for  
+the majority of energy use and 
+emissions within buildings, and 
+also presents the greatest system 
+design challenge, given the need 
+for significant capacity for 
+extreme cold weather events.
+At present, the gas network 
+ensures instantaneous heat 
+provision to the majority of 
+homes through gas boilers. In a 
+decarbonised energy system, a 
+combination of measures will be 
+required to replace this in a way 
+that provides consumers with the 
+same (or a better) experience.
+Our 80% pathways typically 
+included: large-scale retrofits  
+to improve thermal efficiency, 
+district heat networks in cities 
+and towns, and electric heat 
+pumps deployed across the 
+remainder of homes. For many of 
+these heat pump installations, a 
+connection to a gas network was 
+retained to support peak heating, 
+meaning the heat pumps could 
+be smaller and cheaper.
+For Net Zero, the mix of 
+solutions looks broadly similar: 
+retrofits, district heat networks, 
+electric heat pumps retaining a 
+connection to gas networks to 
+support back up boilers. One 
+major difference is, where gas 
+networks and boilers continue  
+to have a role in supporting  
+peak heat, these must be  
+almost exclusively converted  
+to hydrogen by 2050.
+Innovation needs for buildings 
+and heat:
+• Increasing RD&D of whole 
+house retrofit packages  
+across a wider set of housing 
+archetypes will help reduce 
+cost, improve performance  
+and clarify what can affordably 
+be achieved across a diverse 
+building stock in different 
+parts of the country.
+• Early demonstration of 100% 
+hydrogen networks and boilers 
+is essential to prove the safety 
+and maintain this as an option.
+• Demonstration of integrated 
+solutions comprising hybrid 
+heat pump and boiler systems.
+• RD&D of heat storage 
+technologies with potential  
+to substitute for gas boilers  
+as back up for heat pumps.
+• Roll out of smart multi-zone 
+controls to support more 
+efficient energy use while 
+maintaining or improving 
+existing levels of comfort.
+• Innovation in business models 
+to deliver low carbon heating 
+solutions that consumers 
+desire is as important as 
+technological innovation.
+• Local area energy planning  
+to understand the optimal 
+combination of different 
+solutions, based on local 
+resources (and constraints).
+This is further complicated by  
+the need to transition all such 
+networks from natural gas to 
+hydrogen for Net Zero. Given 
+these challenges, some 
+decommissioning of parts of gas 
+distribution networks should be 
+anticipated. The potentially stark 
+differences between regions 
+underlines the case for Local  
+Area Energy Planning to identify 
+pathways based on local 
+conditions, and that enjoy  
+local consent.
+In our Monte Carlo analysis,  
+there is a marked difference  
+in the share of heating from 
+different sources. Moving from 
+80% to tighter targets without 
+speculative measures means 
+natural gas use must be 
+eliminated. But the potentially 
+high cost of hydrogen production 
+can make a simple hydrogen 
+conversion strategy expensive. 
+Instead heat networks are more 
+extensively deployed, accounting 
+for 25-40% of all space heat.
+With all speculative measures 
+activated, hydrogen has a larger 
+share of overall space heat 
+production, and heat networks 
+now account for only 10-22% of 
+heat network provision, a similar 
+share to the 80% pathways. 
+These measures include 
+behavioural change whereby 
+average indoor temperatures 
+level out (as described in 
+Patchwork), meaning lower 
+annual energy consumption  
+in 2050.
+Another key difference is the 
+time available to make the 
+transition. Previously, we still saw 
+a small, but measurable, amount 
+of gas consumption in 2050 for 
+heating. The new carbon target 
+prohibits this and forces all 
+emissions out of the sector. This 
+suggests a transition period five 
+years shorter than before, with 
+the entire UK building stock 
+moving to low carbon heating  
+by the late 2040s.
+For whole house retrofits,  
+which can be expensive, there  
+is a careful cost/benefit 
+consideration. Some dwellings 
+constitute ‘low hanging fruit’,  
+and it makes good sense to treat 
+these urgently. As we progress 
+through the building stock 
+though, costs increase and more 
+modest efficiency gains becomes 
+sub-optimal. Of the 25m existing 
+dwellings that will still be in use 
+in 2050, typically around 10m of 
+these undergo a ‘whole house’ 
+retrofit in our modelling.
+For some buildings, improved 
+thermal performance will enable 
+them to rely solely on heat 
+pumps, along with heat storage. 
+For others, the rate of heat loss  
+in extreme cold periods means 
+they will still require a boiler to 
+supplement the heat pump, at 
+least on current understanding.
+Although boilers would still  
+have a role in many homes, there 
+is a significant reduction in gas 
+network capacity requirement  
+by 2050. The implications of this 
+for gas distribution networks in 
+particular areas will depend on a 
+variety of factors, but for many  
+of these, declining connections 
+and lower energy throughput will 
+challenge the economic case for 
+continued operation.
+Heat Production (TWh)
+Heat Production (TWh)
+Heat Production (TWh)
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0
+50
+100
+150
+200
+250
+300
+350
+400
+80%: Space heat production in 2050
+Simulations
+Simulations
+Simulations
+FA96: Space heat production in 2050
+BoB100: Space heat production in 2050
+Biomass
+Gas
+Electric Resistive
+District Heating
+Heat Pump
+Hydrogen
+Figure 13: Space heat production in 2050 across three batches of 
+Monte Carlo runs (80%, FA96 and BOB100), one column per 
+simulation
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+40
+41
+Transport
+ESME covers all road and rail 
+transport as well as shipping and 
+aviation. For aviation, there are  
+no likely alternatives to kerosene-
+fuelled aeroplanes by 2050, so any 
+measures to mitigate emissions 
+are focused on overall demand 
+(see Sustainable Lifestyles on 
+page 44). For all other modes, 
+demand can similarly be adjusted, 
+but a range of low carbon 
+technology options exist.
+Compared to Buildings (page 40), 
+the transport solution space has 
+seen a significant transformation 
+in moving from 80% to Net Zero.
+In an 80% context, with a 
+sizeable carbon budget still 
+available in 2050, road transport 
+could continue to rely on 
+extensive use of fossil fuels  
+(in the absence of policy 
+intervention). Cars and vans 
+would transition first to hybrid 
+and plug-in hybrid electric 
+vehicles. For heavy duty vehicles 
+and ships, we would typically see 
+a transition to dual-fuel solutions, 
+with natural gas helping to 
+displace liquid fuels.
+For Net Zero, cars and vans 
+undergo a comprehensive shift 
+to electric vehicles by 2050, with 
+a minor share for hydrogen fuel 
+cell vehicles in some simulations. 
+Given the replacement rate for 
+new vehicles to penetrate the 
+overall car fleet, this implies new 
+vehicle sales must be all electric 
+(or hydrogen) from the mid-
+2030s onwards.
+Industry
+In ESME, Industry covers sectors 
+such as Metals, Chemicals,  
+Food and drink, Refining and 
+Agriculture. ESME includes a 
+range of fuel switching options 
+for different sectors and 
+processes, depending on the 
+particular activity undertaken. 
+Options include electrification or 
+switching (from coal/oil) to gas, 
+to hydrogen or to biomass. In 
+addition, CCS can be applied to 
+processes still using fossil fuels.
+In an 80% context, ESME 
+allowed for emissions reduction 
+down to 49MtCO2 in 2050. 
+Essentially, industry was seen as 
+one of the ‘hard-to-treat’ sectors 
+where emissions reduction was 
+more modest compared to e.g. 
+power, heat and transport.
+For Net Zero, we have updated 
+our representation of Industry. 
+This now results in further fuel 
+switching to electricity and 
+hydrogen for space heating  
+in industrial buildings, and 
+hydrogen boilers for drying  
+and separation and other 
+subprocesses. The maximum 
+effort now leaves just 15MtCO2  
+of residual Industry emissions  
+in 2050 (any less would rely  
+on deindustrialisation).
+Innovation needs for transport:
+• Roll out of public charging 
+infrastructure needs to  
+be accelerated to avoid 
+constraining mass adoption. 
+Smart charging (and vehicle-
+to-grid) can assist with the 
+smooth integration of EVs,  
+but will not entirely mitigate 
+the need for network 
+reinforcement, which should 
+be carefully coordinated with 
+local area energy planning 
+more generally (also 
+considering electrification  
+of heat).
+• Long term planning and 
+coordination will be required 
+to support the deployment  
+of infrastructure for low  
+carbon heavy duty vehicles. 
+The potential for a short-lived 
+transition through natural gas 
+duel-fuel vehicles requires 
+consideration, as do the 
+consequences of foregoing  
+this step.
+• For shipping, while the  
+rollout of hydrogen-fuelled 
+ships looks attractive in our 
+modelling from a carbon 
+abatement perspective, inertia 
+is a significant feature of this 
+sector. Coordination will be 
+essential to ensure deployment 
+of hydrogen fuelling at UK 
+ports, including access to 
+affordable hydrogen from 
+proximate production facilities, 
+low cost transportation, or 
+potential on-site production 
+via electrolysis.
+This has provided greater 
+confidence that the transition  
+to EVs can be managed without 
+significant system impacts.
+In heavy duty vehicles too,  
+Net Zero pathways involve a 
+significant shift to electrification 
+by 2050, although duel-fuel 
+vehicles are again seen as a 
+transition technology along the 
+pathway. Since we introduced 
+hydrogen ships in the recent 
+update, shipping transitions 
+across to this technology almost 
+completely by 2050.
+Million vehicles
+Million vehicles
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+5
+10
+15
+20
+25
+30
+35
+40
+80%: Car fleet in 2050
+Simulations
+Simulations
+FA96: Car fleet in 2050
+ICE
+Hybrid
+Plug-in
+Battery
+Hydrogen
+Figure 14: Car fleet in 2050 across two batches of Monte Carlo runs 
+(80% and FA96), one column per simulation
+Figure 14 shows the results for 
+the 2050 car fleet in the 80%  
+and FA96 Monte Carlo runs.
+Recent policy announcements 
+have signalled an end to the sale 
+of new ICEs, hybrids and plug-in 
+hybrids from 2035. Incorporation 
+of such a policy in the modelling 
+would effectively ‘lock-in’ an 
+all-electric/hydrogen outcome 
+for this sector.
+The key challenge from such a 
+rapid increase in electric vehicles 
+is its impact on the power system 
+and the willingness of consumers 
+to use smart charging. Previous 
+ESC work, including consumer 
+trials, have tested the interaction 
+between consumer expectations, 
+EV charging infrastructure and 
+strategies for smart charging7.  
+We also chaired the EV Energy 
+Taskforce8, which highlighted that 
+effectively-managed integration 
+of EVs can improve electricity 
+network efficiency and system 
+resilience, while limiting the need 
+for new infrastructure to meet 
+growing electricity demand. 
+The key challenge from 
+such a rapid increase in 
+electric vehicles is its 
+impact on the power 
+system and the willingness 
+of consumers to use  
+smart charging.
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+42
+43
+In our central assumptions, 
+aviation demand in 2050  
+climbs to 60% above 2005 levels, 
+though progress in technology 
+and logistics means overall 
+emissions are relatively 
+unchanged at ~30MtCO2. 
+Aviation therefore relies on 
+breakthrough innovation 
+elsewhere to ensure sufficient 
+quantities of negative emissions 
+to offset this.
+More sustainable alternatives  
+to holiday (and business) travel 
+would reduce the reliance on 
+offsets. For example, if 2050 
+aviation demand reached only 
+20% above 2005 levels (as per 
+our speculative measure), this 
+would equate to an annual saving 
+of 4MtCO2. In their own analysis, 
+the CCC consider a 20% growth 
+limit. Since recent figures suggest 
+demand has already exceeded 
+20%, this would imply an 
+absolute reduction in aviation 
+demand from now to 2050, in the 
+context of a growing, increasingly 
+affluent, population.
+We have not investigated the 
+potential impact of flygskam or 
+flight-shaming on future aviation 
+demand, and in other parts of 
+the discourse commentators 
+have gone much further than our 
+speculative adjustment. In our 
+maximum scenario described on 
+page 45, we even consider the 
+impact of eliminating aviation 
+altogether by 2050.
+Meanwhile, our central 
+assumptions have 2050 meat 
+and dairy consumption 
+declining by 20% versus today, 
+reducing emissions by 8 MtCO2e/
+year. Achieving a UK wide 
+reduction of 50% by 2050 would 
+deliver emissions savings of 19 
+MtCO2e/year.
+Sustainable lifestyles
+In our previous analysis for an 
+80% target, we explored the 
+potential impact of different 
+demand trajectories, but the 
+slack in the 80% target meant  
+it was possible to support a 
+‘lifestyle as usual’ approach if  
+this is what people preferred.
+Many household activities could 
+continue to rely on fossil fuels, 
+albeit to a lesser extent than 
+today. The remaining carbon 
+budget allowed for a proportion 
+of the car fleet to remain as ICEs, 
+and any transition was often 
+modest, involving more hybrid 
+and plug-in hybrid vehicles than 
+pure battery EVs. Heating our 
+homes involved a transition to 
+lower carbon alternatives, but 
+again these were often hybrid 
+solutions, where heat pumps 
+were coupled with natural gas 
+boilers.
+Elsewhere, we assumed no 
+dietary change and assumed ever 
+increasing aviation demand in 
+line with Government projections.
+For Net Zero, the role of 
+individuals and their lifestyle 
+choices comes to the fore.  
+For heating and transport, 
+consumers’ willingness to adopt 
+unfamiliar technologies, like EVs 
+or heat pumps, becomes more 
+important. Moreover, there is 
+more need to explore some limits 
+on hard-to-treat activities,  
+such as aviation demand and 
+dietary change.
+Understanding how the sorts of 
+fuel-switching options adopted 
+across different industry sectors 
+can integrate with wider energy 
+system planning in local areas is 
+an important challenge for the 
+energy system. This includes the 
+reuse of recoverable heat from 
+industry processes for local heat 
+networks, and co-location of 
+hydrogen production facilities 
+with industrial clusters, where 
+CCS infrastructure can be 
+concentrated most cost-
+effectively.
+Innovation needs for Industry:
+• Integration of decarbonisation 
+roadmaps for industrial 
+clusters with local area energy 
+planning more generally.
+• Demonstration of the safety  
+of hydrogen switching for 
+industrial processes.
+• Deployment of CCS for those 
+industrial sectors/processes 
+where fuel switching is 
+impractical.
+Other parts of the energy system 
+are decarbonised on a highly 
+accelerated timescale. Emissions 
+from buildings are eliminated by 
+2040. Given the pace of change 
+today, this would require an 
+incredible step change in 
+deployment of building retrofits, 
+low carbon technologies and 
+networks. Emissions from all  
+road transport are similarly 
+ended by 2040. Sales of petrol/
+diesel vehicles would effectively 
+have to stop by 2025 at the latest, 
+including for heavy goods 
+vehicles, requiring immediate 
+deployment of the infrastructure 
+for recharging and refuelling 
+these (and for generation of  
+the zero-carbon electricity  
+and hydrogen to support this).
+In short, this MAX pathway 
+involves a rate of change for 
+power, heat and road transport 
+that pushes against the bounds 
+of plausibility. Achieving Net Zero 
+any earlier than 2045 cannot rely 
+on further acceleration of these. 
+Instead, it would have to be 
+through more rapid (non-linear) 
+reductions in aviation and 
+livestock emissions (or more 
+rapid scale up of sequestration 
+measures).
+How fast could we 
+decarbonise?
+With our current assumptions  
+for aviation, livestock and 
+industry, these sectors will always 
+generate residual emissions in 
+our pathways. Meanwhile, 
+deployment constraints on 
+negative emissions technologies 
+like BECCS and DACCS mean 
+these take time to make an 
+impact at scale.
+Achieving Net Zero significantly 
+earlier than 2050 in our 
+modelling requires extra effort 
+beyond even our speculative 
+measures. Looking across 
+analysis and commentary by 
+other groups, there do not 
+appear to be any significant 
+additional low carbon 
+technological solutions. Instead, 
+most of the additional ambition 
+is achieved through deep 
+demand reduction.
+To test the impact of this, we 
+constructed a MAX case where 
+aviation demand and livestock 
+emissions fall to zero by 2050. 
+This lowers the residual emissions 
+trajectory sufficiently that 
+negative emissions are able to 
+balance these earlier, achieving 
+Net Zero in 2045.
+Interactions between diet and 
+the energy system are significant. 
+A transition away from current 
+levels of livestock would free  
+up UK land for other uses, 
+including afforestation and 
+biomass crops, both enabling 
+carbon sequestration and the 
+latter providing a versatile 
+resource for the energy system.
+While there is considerable 
+opportunity for changing 
+patterns of demand in aviation 
+and diet to contribute to Net 
+Zero, we have not assessed the 
+potential negative consequences 
+if demand were significantly 
+increased. Our survey on Net 
+Zero awareness and engagement 
+among the general public gives 
+us reason to guard against 
+‘baking in’ excessive optimism 
+into our modelling.
+Innovation needs to support 
+sustainable lifestyles:
+• Provision of information 
+including real-time data  
+to support sustainable 
+consumption and activity 
+planning, including the 
+potential for public campaigns. 
+Understanding what messages 
+works in such campaigns is a 
+potentially important area for 
+research and innovation.
+• Continued RD&D into meat-
+free and dairy-free alternatives.
+Understanding how the 
+sorts of fuel-switching 
+options adopted across 
+different industry sectors 
+can integrate with wider 
+energy system planning  
+in local areas is an 
+important challenge for 
+the energy system.
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+44
+45
+Still, our investment for a low 
+carbon future should be as 
+economically efficient as possible, 
+to avoid crowding out spending 
+in other important areas. Good 
+management of scarce financial 
+resources can also open the 
+possibility of over-delivery and 
+an earlier Net Zero economy.
+Investment in most of the 
+technologies to deliver Net Zero is 
+likely to be privately financed. We 
+therefore take account of private 
+firms financing costs in ESME  
+by applying an assumed cost  
+of capital of 8% to capital 
+expenditures on all technologies. 
+The model then discounts 
+annualised costs (and benefits)  
+to a net present value using the 
+social discount rate of 3.5%. Both 
+these steps are in line with Green 
+Book guidance and common to 
+many models.
+The cost of private finance for 
+any specific technology is likely 
+to vary over time and in line with 
+capital market perceptions of 
+risk, including a strong element 
+of policy-related risk and the level 
+of experience in deployment. By 
+applying a common assumed 
+cost of private capital across all 
+technologies, the modelling 
+approach optimises the mix of 
+technologies on the basis of 
+underlying costs and performance 
+characteristics, rather than current 
+market and policy arrangements. 
+This prevents the modelled 
+choices from reflecting current 
+policy choices and market 
+perceptions of risk for different 
+technologies. Experience in 
+deploying technologies is taken 
+into account in technology cost 
+assumptions (for example, cost 
+assumptions for offshore wind 
+have been updated to take 
+account of cost reductions 
+following deployment).
+Costing Net Zero
+When we look at cost-optimal 
+pathways that meet our energy 
+needs subject to a carbon target, 
+an obvious question arises: what 
+is the carbon target costing us? 
+That is, what would the energy 
+system cost in a counterfactual 
+case where we meet the same 
+needs but without worrying 
+about carbon?
+In energy system modelling, we 
+can assess the cost of a pathway 
+with and without a carbon target, 
+and the difference between these 
+is known as the abatement cost. 
+We and others had previously 
+estimated this to be somewhere 
+in the range of 1-2% of GDP by 
+2050 for an 80% target.
+But the issue of cost is a highly 
+sensitive one. Crucially, we do not 
+include any representation of the 
+additional cost to the UK from 
+failing to tackle climate change  
+in the counterfactual. This is 
+further complicated by the fact 
+that UK action is not necessarily 
+correlated with global action, so 
+in principle we could face these 
+damages even if we are reducing 
+our own emissions.
+Nevertheless, global estimates  
+of damages from failure to 
+reduce emissions are many  
+times greater than the cost of 
+mitigation. Additionally, as the 
+Net Zero discourse has shown, 
+there are various co-benefits 
+of decarbonisation that are 
+absent from energy system cost 
+calculations, such as improved 
+health and biodiversity. A 
+complete assessment of the  
+cost of Net Zero ought to  
+include all of these.
+Timelines
+The pace and scale of change 
+required to meet Net Zero is 
+profound. It requires the urgent 
+introduction of robust policies 
+which will unlock both significant 
+innovation and large-scale  
+capital investment. An important 
+consideration is the deployment 
+profile for the necessary 
+technologies.
+Figure 16 shows a steady,  
+linear deployment to get from 
+where we are today to where  
+we need to be in 2050. Taking  
+the example of domestic low 
+carbon heating systems, we have 
+30 years to install low carbon 
+systems in the UK’s 28.5 million 
+homes. A linear deployment 
+would entail around one million 
+installations per year.
+In the FA96 case, where the 
+target is strengthened but  
+no speculative measures are 
+available to assist, a significant 
+increase in investment is 
+required. This is true across  
+all sectors, but especially 
+pronounced in the case of 
+transport with a rapid shift to 
+(more capital intensive) electric 
+vehicles, including heavy duty.
+The addition of speculative 
+measures (including overall lower 
+demand) more than compensates 
+for the tighter target, reigning in 
+total investment need.
+Investment 
+opportunities
+The transition to a Net Zero 
+energy system will create 
+economic opportunities for 
+innovators across all sectors  
+of the economy. The charts 
+above show the range of capital 
+investment in each of the key 
+sectors: Power and conversion, 
+Transport, Buildings and 
+Infrastructure.
+For an 80% pathway, despite  
+the carbon budgets tightening 
+over time, cost reductions in low 
+carbon technologies ensure the 
+capital investment requirement  
+is held fairly constant over time.
+Low carbon systems are  
+currently characterised by a shift 
+towards more capital-intensive 
+technologies (e.g. wind power 
+and electric vehicles vs gas CCGTs 
+and internal combustion engines), 
+and the choice of private cost of 
+capital does not materially affect 
+this. However, a higher cost of 
+capital will tend to inflate the 
+apparent cost imposed on 
+consumers of achieving Net Zero.
+In the recent advice to 
+Government, CCC found that – 
+due to demonstrated cost 
+reductions in a range of low 
+carbon technologies – their 
+estimates of abatement cost for 
+Net Zero fall within the same cost 
+range previously associated with 
+80%, that is 1-2% of GDP in 2050.
+With an 8% private cost of capital 
+in ESME, Net Zero abatement 
+costs look higher, in the range 
+2-3% of GDP. However, test runs 
+with a lower cost of capital – 
+which has been evident in  
+many low carbon investments, 
+including mature renewables – 
+show the ESME runs in the 1-2% 
+range. This underlines the 
+importance of stable and credible 
+policies that successfully reduce 
+the cost of capital demanded by 
+private sector investors for a 
+broad range of clean, capital 
+intensive technologies (as we 
+have successfully seen with 
+renewables).
+£bn/year
+80%
+BoB 100%
+FA 96%
+£bn/year
+£bn/year
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0
+10
+20
+30
+40
+50
+60
+70
+80
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2040s
+2030s
+2020s
+2040s
+2030s
+2020s
+2040s
+2030s
+2020s
+Transport
+Power & conversion
+Infrastructure
+Buildings & Heat
+Figure 15: Capital investment needed in each sector for three batches of Monte Carlo runs (80%, FA96 
+and BOB100). Shaded area decsribes the range across simulations.
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+46
+47
+Local Area Energy Plans (LAEPs) 
+need to be connected at regional 
+and national levels in an iterative 
+assessment and feedback 
+process. Cumulatively, such plans 
+can help inform the development 
+of nationally strategic resources 
+(such as CCS or hydrogen 
+production facilities). This 
+requires the use of a consistent 
+and robust methodology across 
+different locales.
+For local and regional plans  
+to have impact, there must be 
+enabling mechanisms within 
+central planning and wider policy 
+frameworks to give them power, 
+including potentially the network 
+price control process.
+Place and Local Area 
+Energy Planning
+The modelling discussed in this 
+report primarily focusses on the 
+national context, though we have 
+also emphasised the importance 
+of place-based aspects of the 
+energy system transition, for 
+example through creation of 
+industrial clusters to better focus 
+development efforts around CCS, 
+H2 production or process heat. 
+We are also seeing significant 
+appetite for smart local energy 
+system projects, including 
+through the Prospering from the 
+Energy Revolution programme.
+However, in 2019 fewer than 
+12,000 renewable heating 
+systems were accredited under 
+the Government’s Domestic 
+Renewable Heat Incentive (RHI)9. 
+Currently, the workforce, supply 
+chains, business models and 
+policies are simply not in place  
+to deliver at such a high rate.
+The assumptions within ESME 
+reflect a profile closer to that 
+shown in Figure 17. There is  
+a delay before the deployment 
+can begin, and when it does,  
+it starts slowly (reflecting the  
+fact these are sometimes 
+unfamiliar technologies) before 
+the rate increases (potentially 
+exponentially) up to a maximum 
+deployment level.
+The delay at the start of  
+this profile is a critical phase.  
+This is where technology,  
+policy, regulation and finance 
+mechanisms need to be 
+developed, demonstrations 
+undertaken, and supply chains 
+and workforce skills built up.  
+This all needs to be done before 
+roll-out at any meaningful scale 
+can begin. But experience in 
+some parts of the energy system, 
+such as renewables, shows that 
+with the right combination of 
+market incentives, rapid scale  
+up and cost reduction can  
+be achieved.
+Figure 16: Deployment profiles
+Deployment of X
+Today
+2050
+Figure 17: Deployment profiles
+Deployment of X
+Today
+2050
+Robust local area energy 
+planning can help understand 
+the pathways for low carbon 
+heating, transport and electricity 
+systems, identifying priority 
+projects and infrastructure 
+investments. This will help deliver 
+both a cost-effective transition 
+and secure democratic consensus 
+for the necessary changes. Such 
+plans and strategies would be 
+developed in light of local 
+priorities, demands, current 
+infrastructure and resource 
+availability, as well as the regional 
+and national systems they are 
+linked to. They should be 
+developed in collaboration with  
+a broad range of stakeholders 
+(local authorities, energy 
+networks, industry bodies, 
+community groups, etc).
+For local and regional 
+plans to have impact, 
+there must be enabling 
+mechanisms within central 
+planning and wider policy 
+frameworks to give them 
+power, including 
+potentially the network 
+price control process.
+Energy Systems Catapult 
+es.catapult.org.uk
+Net Zero Energy System Insights
+Net Zero Energy System Insights
+es.catapult.org.uk 
+Energy Systems Catapult
+48
+49
+W H AT  N E E D S 
+T O  H A P P E N 
+D U R I N G  T H I S 
+PA R L I A M E N T ?
+The pace and scale  
+of change required  
+to achieve Net Zero 
+effectively and 
+efficiently by 2050 
+suggests that the 
+policy ecosystem  
+will need three key 
+attributes:
+• Policy will need to deliver 
+credible long-term signals  
+to incentivise innovation and 
+private sector investment to 
+develop and deploy a range of 
+existing and new technologies.
+• Policy needs to shape markets 
+so that private sector capital 
+flows to deliver an efficient mix 
+and phasing of emissions 
+reduction across the economy.
+• As well as shaping markets, 
+policy will need to underpin 
+investment in strategically 
+important enabling 
+infrastructures and 
+technologies.
+Our Rethinking Decarbonisation 
+Incentives10 project looked at the 
+balance of carbon-related policy 
+signals across different sectors 
+(see Figure 18) and highlighted 
+the potential to substantially 
+strengthen and improve the 
+coherence of carbon policy 
+across the economy. This implies 
+a framework that is broadly 
+technology-neutral, but does not 
+necessarily rely on an economy-
+wide carbon pricing instrument, 
+such as a carbon tax or an 
+emissions trading system.
+Decarbonisation policies, 
+including both incentives and 
+obligations or standards, can be 
+designed with specific sectoral 
+features in mind. However, by 
+building links between sectoral 
+policies, especially by developing 
+tradable instruments such as 
+carbon credits, the UK can unlock 
+greater pathway flexibility and 
+increase the scope for markets  
+to reveal least-cost combinations.  
+In addition, policy must  
+also recognise the role that 
+negative emission technologies, 
+bioenergy, and wider land  
+use policy will have, alongside 
+potential changes in consumer 
+behaviour.
+This chapter provides key  
+policy recommendations for 
+Government to introduce in  
+the near-term to support the 
+development of an economy-
+wide carbon policy framework  
+for Net Zero.
+By building links between 
+sectoral policies, especially 
+by developing tradable 
+instruments such as 
+carbon credits, the UK  
+can unlock greater 
+pathway flexibility.
+What needs to happen
+es.catapult.org.uk 
+Energy Systems Catapult
+51
+Energy Systems Catapult 
+es.catapult.org.uk
+50
+Air 
+transport
+42.4 MtCO2e
+Gas
+54.0 MtCO2e
+Oil
+production
+13.0 MtCO2e
+Gas
+production
+5.3 MtCO2e
+Coal
+production
+15.5 MtCO2e
+Industrial 
+process
+13.3 MtCO2e
+Waste
+water
+6.1 MtCO2e
+Other
+fossil fuels
+35.4 MtCO2e
+Coal
+65.5 MtCO2e
+Landfill
+12.1 MtCO2e
+Road  
+transport
+123.8 MtCO2e
+Feed-in  
+tariffs
+0 Emissions
+Advanced
+conversion
+technologies
+0 Emissions
+Biomass
+combined
+heat and
+power
+0 Emissions
+Energy  
+from waste
+0 Emissions
+Nuclear
+0 Emissions
+Offshore
+wind
+0 Emissions
+Onshore  
+wind
+0 Emissions
+Rail  
+transport
+3.8 MtCO2e
+Electricity use
+6.5 MtCO2e
+Solar PV
+0 Emissions
+Other  
+fossil fuels
+5.4 MtCO2e
+Electricity use
+45.8 MtCO2e
+Electricity use
+62.3 MtCO2e
+Other
+land use
+–19.6 MtCO2e
+Gas
+34.1 MtCO2e
+Gas
+8.1 MtCO2e
+Gas
+34.2 MtCO2e
+Rural  
+development  
+grants
+(CAP Pillar 2)
+0 Emissions
+Other  
+heating 
+fuels
+12.2 MtCO2e
+Farm 
+payments
+(CAP Pillar 1)
+63.3 MtCO2e
+Refrigeration
+13.3 MtCO2e
+Key:
+Average effective carbon 
+price currently above target
+Average effective carbon 
+price currently below target
+Circle size = MtCO2e
+Power Generation
+Fossil Fuel Production
+Transport
+Business
+Residential
+Public
+Agriculture, Forestry, and 
+Other Land Use (AFOLU)
+Waste
+Sectors:
+Effective carbon prices  
+and emissions in the UK 
+by sector
+Figure 18
+Average 
+target 
+price 
+£80/tCO2 
++£250
++£200
++£150
++£100
++£50
+-£150
+-£50
+-£100
+Energy Systems Catapult 
+es.catapult.org.uk
+What needs to happen
+What needs to happen
+es.catapult.org.uk 
+Energy Systems Catapult
+52
+53
+Electricity
+Policy has already driven 
+significant decarbonisation of  
+the electricity sector, but there 
+is still an important role for  
+policy reform to:
+• Enable the assembly of an 
+efficient and complete zero 
+carbon system that matches 
+the changes in low carbon 
+technologies, including 
+distributed technologies;
+• Enable investment to produce 
+sufficient quantities of zero 
+carbon electricity and 
+associated network 
+improvements, and
+• Shape the most efficient role 
+for electricity in supporting 
+heat, transport, and industrial 
+decarbonisation.
+In addition, electricity markets 
+need to more effectively signal 
+the spatial and temporal value of 
+zero carbon electricity, to meet 
+new demands and unlock the 
+potential of technologies that  
+can provide greater system 
+flexibility (such as batteries, 
+demand side response, and the 
+integration of electric vehicles).11
+Over the course of this 
+Parliament, policy should  
+focus on:
+• Large-scale developments, 
+such as new nuclear, which will 
+require significant support 
+from Government. This could 
+come in the form of the 
+recently proposed Regulated 
+Asset Base (RAB) model12 to 
+secure private investment or 
+alternative models of risk 
+allocation to keep the cost of 
+capital as low as possible (see 
+Costing Net Zero). Government 
+should also bear down on the 
+costs of nuclear new build 
+projects, potentially taking a 
+fleet approach which learns 
+from previous reactor builds 
+and implementing a well-
+designed programme that 
+incorporates multiple project 
+performance and cost 
+reduction opportunities13.
+• R&D funding and deployment 
+support for new and emerging 
+technologies that are key for 
+Net Zero, for example, floating 
+offshore wind and small 
+modular reactors (SMR).
+• Stimulating efficient demand 
+reduction and/or flexibility 
+through supporting 
+appropriate energy efficiency 
+measures, building regulation, 
+and product standards. For 
+example, by developing more 
+accurate measurement of the 
+carbon performance 
+associated with energy  
+use choices in buildings  
+and equipment.
+• Improved market price signals 
+to incentivise efficient use of 
+the system in time and space. 
+This includes reforms to ensure 
+more accurate time-of-use and 
+locational signals to strengthen 
+incentives for supply and 
+demand to match user  
+needs and local system 
+circumstances.14
+• Strengthen network  
+price controls to support 
+decarbonisation by 
+incentivising and taking 
+account of whole systems  
+local area energy planning  
+that enables improved forward 
+planning, and multi-vector 
+network investment decisions.
+In the medium-term the UK could 
+strengthen the role of both:
+• Emissions trading – the UK 
+could extend coverage and 
+increase ambition, particularly 
+if it introduced its own 
+emissions trading system.
+• Sectoral decarbonisation 
+policies – the UK could introduce 
+new carbon standards for 
+buildings and potentially road 
+transport, and it could create 
+new incentives for climate-
+friendly land use choices.
+The potential direction 
+of travel for carbon 
+policy to 2050
+The immediate challenge for 
+carbon policy is to improve the 
+alignment of existing policies  
+and to strengthen policy where 
+there are clear gaps.
+These steps would open the 
+potential to create an economy-
+wide carbon policy framework  
+to deliver Net Zero efficiently. 
+Carbon credits could be 
+tradeable between mechanisms 
+and sectors, and linked to a 
+marketplace for UK based certified 
+methods of greenhouse gas 
+removal (e.g. sustainable 
+afforestation, BECCS, DACCS, etc.).
+Near-Term
+Present
+2050
+Medium-Term
+Long-Term
+Align and 
+strengthen
+sectoral carbon
+policies
+Set carbon
+standards
+Economy-wide
+framework
+including trading
+Introduce a 
+UK emissions 
+trading system
+Energy Systems Catapult 
+es.catapult.org.uk
+What needs to happen
+What needs to happen
+es.catapult.org.uk 
+Energy Systems Catapult
+54
+55
+Over the course of this 
+Government our analysis points 
+to the following policy priorities:
+• Fund a new wave of place-based 
+building energy improvement 
+and retrofit projects to enable 
+regions to invest strategically 
+and upskill heating technicians 
+and installers. Localities and 
+regions could compete for 
+funding under national guidance, 
+but with the freedom to  
+develop their own strategies  
+and targeting local priorities 
+such as fuel poverty.
+• Roll out a robust Local Area 
+Energy Planning process in 
+order to build consensus, 
+guide planning, shape new 
+developments and co-ordinate 
+collective infrastructure choices 
+and investment priorities. ESC 
+has developed a prototype  
+for this style of local energy 
+planning, a version of which 
+could be rolled out 
+immediately.20
+• Make energy networks  
+invest for Net Zero, with 
+Ofgem re-engineering its  
+RIIO processes and guidance, 
+for example, by setting explicit 
+outcome-based delivery 
+incentives that reward network 
+companies when they invest 
+well and demonstrably enable 
+cost-effective decarbonisation.
+Buildings
+The current policy framework  
+for decarbonising buildings is 
+complex, but ultimately too  
+weak and fragmented to drive 
+innovation or the right mix of 
+measures that influence the 
+carbon performance of buildings.
+Government should begin to 
+develop an integrated long-term 
+policy framework for zero  
+carbon buildings. It should be 
+broadly technology neutral,  
+but informed by local planning 
+and prioritisation processes, 
+particularly for collective choices 
+around upgrading buildings  
+in a particular area and energy 
+network infrastructures. It will 
+also have to reduce fuel poverty 
+and ensure that vulnerable 
+customers are neither left behind 
+nor bear the brunt of the cost 
+(including being aware of new 
+types of vulnerability that will 
+emerge with greater digitalisation 
+of the energy system).
+Transport
+Transport accounts for a third  
+of UK emissions and continues  
+to rise.15 Stronger policies are 
+required to drive decarbonisation 
+and low carbon journey choices.
+Our work suggests that key 
+reforms over the course of this 
+Government could include:
+• A phased approach to the ban 
+on the sale of new diesel and 
+petrol cars and vans during the 
+2030s, extending to cover all 
+internal combustion engine 
+(ICE) and hybrid vehicles.16
+• Initial rebalancing of the way 
+Government taxes mobility,  
+for example, using road usage 
+charging to replace fuel duty 
+as a source of revenue.17
+• A process to deploy a national 
+and interoperable charging 
+infrastructure, including rapid 
+chargepoints on trunk roads, 
+with integration into local area 
+energy planning and network 
+investment planning 
+processes.18
+• Support for emerging 
+technologies, such as hydrogen 
+fuel cells for use in HGVs.19
+• Developing incentives to 
+influence aviation choices, for 
+example, through an obligation 
+for airlines to sequester a 
+proportion of their emissions.
+• Introduce a new carbon credits 
+scheme to reward bill payers 
+who reduce their actual (i.e. 
+measured) energy emissions. 
+The credit scheme could be 
+linked to the new system  
+of Carbon Performance 
+Certification and operated by 
+energy suppliers using smart 
+metering data. Customers  
+that outperform low carbon 
+performance benchmarks 
+would be rewarded with 
+credits (while requiring 
+customers with poor carbon 
+performance to purchase 
+credits).
+• Open up competitive markets 
+for new long-term low carbon 
+finance products. Financial 
+efficiency and risk reduction 
+can be maximised by linking 
+repayments to property 
+ownership (through mortgage-
+style products) or to energy 
+bill payers (through an adapted 
+Green Deal regime).
+• Phase in new carbon 
+performance rating 
+requirements for all buildings. 
+This could be implemented  
+by replacing the existing EPC 
+rating system with a smarter, 
+more accurate and valid new 
+system of Carbon Performance 
+Certification. An obligation 
+could be initially introduced on 
+social housing and privately-
+rented properties, eventually 
+extending (with long lead 
+times) to all owner occupied 
+and hard-to-treat properties.
+• As these obligations are 
+phased in, reduce reliance on 
+technology subsidies like the 
+Renewable Heat Incentive 
+(RHI) over time.
+Government should begin 
+to develop an integrated 
+long-term policy 
+framework for zero  
+carbon buildings.
+Roll out a robust Local 
+Area Energy Planning 
+process in order to build 
+consensus, guide 
+planning, shape new 
+developments and  
+co-ordinate collective 
+infrastructure choices and 
+investment priorities.
+Energy Systems Catapult 
+es.catapult.org.uk
+What needs to happen
+What needs to happen
+es.catapult.org.uk 
+Energy Systems Catapult
+56
+57
+Our modelling points strongly  
+to the strategic importance of  
+the UK expanding the ‘solution 
+space’ for the whole energy 
+system, including industrial 
+decarbonisation, by developing 
+the infrastructure and value 
+chains required to support CCS, 
+sustainable biomass production 
+and conversion, and low carbon 
+hydrogen production. All three of 
+these elements appear in a wide 
+range of analysis of cost-efficient 
+energy transitions, which also 
+suggests:
+• While there are other  
+potential sources of low carbon 
+electricity, the power sector 
+remains an attractive option as 
+a low risk sector for early CCS 
+development (i.e. before 2030), 
+because of its relatively low 
+trade exposure and existing 
+support mechanisms23. This 
+could act as an anchor for  
+CCS deployment in industry,  
+in particular for clusters. Gas 
+power CCS in proximity  
+to industrial clusters may  
+well represent the most 
+straightforward, deliverable, 
+and best value approach  
+to early deployment at  
+scale of CCS.
+• Modelling points to the high 
+strategic potential of advanced 
+methods of gasification, 
+including biomass gasification 
+with CCS to underpin hydrogen 
+production while also 
+delivering negative emissions 
+of high economic value in the 
+medium-term. The potential  
+of biomass gasification with 
+CCS to open a UK negative 
+emissions value chain suggests 
+that there is a strong case for 
+strategic innovation funding  
+of clean gasification with  
+CCS plants.
+Over the course of this 
+Government our analysis 
+suggests that policy development 
+priorities should include:
+• Developing post-Brexit 
+arrangements for emissions 
+trading in the UK to ensure 
+that incentives on industrial 
+emitters are maintained and 
+strengthened progressively 
+over time. The UK will have 
+more opportunity to extend 
+the scope and strengthen the 
+stringency of emissions trading 
+if it were to develop a 
+standalone UK ETS.
+• Over time, a UK ETS could also 
+be designed to include new 
+mechanisms to reward delivery 
+of verified negative emissions 
+with carbon credits.
+• Regardless of whether the  
+UK remains within the EU  
+ETS or develops a linked or 
+standalone UK ETS, policy 
+makers should explore the 
+introduction of output-based 
+performance standards21 and 
+other approaches (e.g. border 
+carbon adjustments) to  
+replace the free allocation  
+of allowances in ways that 
+maintain strong incentives  
+to reduce emissions while 
+minimising competitiveness 
+impacts.
+• Direct support for innovation 
+and early deployment of CCS 
+and hydrogen production in 
+industrial clusters, including 
+the development of investable 
+funding mechanisms for CO2 
+transport and storage 
+infrastructure.22 This should  
+sit alongside support for 
+non-cluster based industry.
+There are challenges, however. 
+These include interoperability 
+(consumer, commercial, data, 
+device, physical and vector), data 
+availability and gaps, security, 
+and privacy. There are roles for 
+policy makers, regulators, 
+manufacturers, service providers 
+and consumers in addressing 
+these challenges. The Energy 
+Data Taskforce24 focused on the 
+challenges around data gaps. It 
+advocated stepping up the rate 
+of digitalisation, and intelligent 
+utilisation of monitoring and 
+modelling/data science to 
+address the gaps in the most 
+cost-effective way possible.
+Government and the regulator 
+should prioritise the creation  
+and adoption of an open  
+energy data and digitalisation 
+governance framework in line 
+with recommendations of the 
+Energy Data Taskforce. This  
+can maximise the potential of 
+digitalisation to enable tailored 
+consumer-focused innovation, 
+business models, market designs 
+and consumer protections in the 
+transformation of the energy 
+system ahead.
+Industry (including 
+CCS, Bioenergy, and 
+Hydrogen Production)
+Industry requires stronger policy 
+incentives to invest in emissions 
+reduction through improving 
+industrial processes, fuel 
+switching, and innovation in 
+technologies such as CCS  
+(and more broadly negative 
+emissions).
+Government should prioritise 
+developing and establishing a 
+long-term policy framework  
+for industrial decarbonisation, 
+including developing rewards  
+for delivering verified negative 
+emissions. This could also 
+substantially improve the 
+investability of CCS, domestic 
+biomass supply chains, and 
+hydrogen production. The 
+industrial decarbonisation policy 
+framework should be designed  
+in ways that minimises carbon 
+leakage impacts (i.e. reduces 
+offshoring of industrial 
+emissions) and must account  
+for asset turnover rates.
+Digitalisation 
+Alongside decarbonisation,  
+the other big trend effecting  
+the future energy system is 
+digitalisation. Digitalisation is  
+the process of moving towards  
+a system which utilises the 
+collection and sharing of data 
+between devices connected 
+through digital communications, 
+and the analysis of that data to 
+improve the system’s, or an 
+organisation’s processes and 
+operation. It could help minimise 
+costs and ensure security of 
+supply, it will allow greater 
+choice, better service and  
+more convenience for consumers, 
+and open opportunities to 
+extract value, innovate around 
+propositions and services, and 
+welcome new entrants.
+Digitalisation has already 
+transformed many sectors, and is 
+beginning to change the energy 
+system. It will likely become a 
+crucial component of any future 
+energy system. As discussed in 
+this analysis, the challenge of 
+meeting the Net Zero target  
+will require many changes to  
+the electricity generation mix, 
+the way heat and transport  
+are provided, the interaction 
+between energy vectors, and the 
+overall complexity of the system 
+and components connected to  
+it. For the system to continue 
+providing the service required 
+under these new conditions, 
+digitalisation is essential.
+Digitalisation is the 
+process of moving 
+towards a system which 
+utilises the collection and 
+sharing of data between 
+devices connected 
+through digital 
+communications.
+Energy Systems Catapult 
+es.catapult.org.uk
+What needs to happen
+What needs to happen
+es.catapult.org.uk 
+Energy Systems Catapult
+58
+59
+Modelling 
+Expert whole energy system 
+modelling and analysis provide 
+better understanding of the  
+costs and benefits of different 
+technologies, system designs  
+and low carbon pathways. 
+This includes: 
+• Internationally peer reviewed 
+Energy System Modelling 
+EnvironmentTM (ESME): to 
+inform government policy and 
+industry decision-making. 
+• EnergyPath NetworksTM Local 
+Energy System Modelling, to 
+inform and support local 
+authorities with cost effective 
+low carbon energy transition. 
+Systems Integration
+We explore and define a future 
+energy system that integrates the 
+disparate physical, digital and 
+market systems, within a 
+backdrop of rapid technological 
+and societal change. 
+This includes: 
+• Expertise and guidance in 
+systems engineering and 
+integration for businesses to 
+integrate products and services 
+into a future energy system. 
+• Dynamic energy systems 
+architecting and simulation 
+tools and expertise, and 
+business model innovation. 
+Infrastructure and 
+Engineering
+Our Infrastructure and 
+Engineering team has deep 
+specialist knowledge and 
+practical experience taking a 
+whole system perspective. We 
+cover technology development 
+and deployment that considers 
+the technological, engineering, 
+economic, regulatory and policy 
+implications for innovations and 
+investment decisions. 
+This includes: 
+• Expertise across nuclear, 
+renewables, bioenergy, carbon 
+capture and storage, industry, 
+hydrogen, networks, energy 
+storage, and transport.
+Markets, Policy and 
+Regulation
+Reformed markets, policy 
+incentives and regulatory 
+frameworks are essential to drive 
+investment and innovation in a 
+smart low carbon energy system. 
+This includes:
+• Policy, regulatory and market 
+design expertise, combining a 
+deep understanding of 
+technology, economics and 
+energy policy design, informed 
+by cutting-edge modelling and 
+evidence-based analysis.
+Our capabilities 
+Energy Systems Catapult has developed  
+a range of unique Capabilities to help 
+innovators, SMEs, industry, academia, 
+regulators and Government to transform  
+the UK energy system to meet carbon  
+reduction targets and achieve our clean  
+growth ambitions.
+Achieving a net zero economy in an 
+affordable way; that goes with the grain  
+of consumer behaviour, understands the 
+complex infrastructure challenges, and can 
+help innovators unlock the value in the energy 
+markets of the future is going to require 
+innovation on an unprecedented scale.
+Consumer Insight
+Combining cutting-edge data 
+science, user experience design 
+thinking and in-depth consumer 
+data so innovators see beyond 
+what people say to understand 
+what they do.
+This includes: 
+• Energy specific market 
+research, digital design and 
+consumer trials for energy 
+innovators to test new 
+products, services and 
+business models in real-world 
+homes. 
+Digital and Data
+Emerging digital enablers, such 
+as artificial intelligence (AI), big 
+data, internet of things (IoT) 
+sensing and machine learning are 
+expected to play a central role in 
+transforming energy systems, 
+driving innovation and  
+economic growth.
+This includes: 
+• Advanced data science with 
+algorithms and artificial 
+intelligence, alongside a 
+Living Lab of 100 real-world 
+homes connected to a cloud-
+based digital platform for 
+testing innovative products, 
+services and business models 
+with consumers.
+To work with us, visit
+es.catapult.org.uk  
+and email us at  
+info@es.catapult.org.uk
+• Home Energy Dynamics: 
+models interactions between 
+domestic heating systems, 
+controls, building fabric, 
+weather and consumer needs. 
+• Storage and Flexibility 
+Modelling provides the most 
+comprehensive multi-vector 
+energy system design model 
+used to address the role of 
+energy storage within future 
+energy systems. 
+Energy Systems Catapult 
+es.catapult.org.uk
+Our capabilities
+es.catapult.org.uk 
+Energy Systems Catapult
+60
+61
+We take a whole system view of 
+the energy sector, helping us to 
+identify and address innovation 
+priorities and market barriers, in 
+order to decarbonise the energy 
+system at the lowest cost.
+Innovator Support
+The Innovator Support Platform 
+(ISP) provides tailored support  
+to small and medium sized 
+energy firms as they develop  
+new products, services and  
+grow their businesses. 
+The ISP delivers support across 
+three tiers: Universal support 
+available to all SMEs via our a  
+new digital Innovator Support 
+Portal, and Incubation and 
+Acceleration support to help  
+SMEs commercialise and prepare 
+for investment, including business 
+model development, consumer 
+value propositions, service and 
+solution design testing/feasibility 
+and product road mapping.
+Insights and Evidence
+The Insights and Evidence  
+team delivered the Innovating  
+for Net Zero report. We deliver 
+independent insights and 
+evidence to help government, 
+academia, and businesses identify 
+innovation priorities towards 
+delivering a low carbon economy 
+and helping businesses overcome 
+systemic barriers and accelerate 
+their products, services and value 
+propositions to market. The team 
+works with the Department of 
+Business, Energy and Industrial 
+Strategy, the Committee on 
+Climate Change, as well as energy 
+research and environmental 
+organisations and industrial 
+partners such as Rolls Royce,  
+Shell and EDF.
+Major Programmes 
+The Major Programmes team is a 
+centre of excellence for delivering 
+large, complex, innovative, 
+multi-capability decarbonisation 
+projects, specialising in place-
+based decarbonisation of the 
+built environment. They recently 
+completed the £30million,  
+5-year Smart Systems and Heat 
+programme, the UK’s largest smart 
+project aimed at decarbonising 
+heat through consumer-focused 
+trials and local area energy 
+planning. They are currently 
+managing the £16.5 million 
+Electrification of Heat 
+Demonstration Project for the 
+Department of Business, Energy 
+and Industrial Strategy. Other work 
+includes advising the Department 
+for Education on their approach  
+to decarbonising schools,  
+working with industry partners on 
+decarbonisation plans for complex 
+commercial sites, and establishing 
+a skills academy to build a supply 
+chain able to decarbonise the UK’s 
+housing stock. 
+International
+International Support aims to 
+help connect UK innovators and 
+businesses to overseas markets, 
+expertise and opportunities. 
+SMEs can register through our 
+new Innovator Support Portal  
+to register with our growing  
+a supply chain database for 
+global growth. The Catapult is 
+now active in North and South 
+America, Africa and Asia and is  
+in a strong position to become 
+the ‘go to’ organisation for  
+UK energy innovators wishing  
+to export, and foreign direct 
+investors wishing to invest in  
+the UK’s smart energy system.
+Our platforms
+Energy Systems Catapult has created a range of Service 
+Platforms that are a route for innovators and other 
+energy sector stakeholders to work with the Catapult  
+and access our unique Capabilities.
+Energy Revolution 
+Integration Service
+UK government is investing  
+in research and industry to 
+develop the smart energy 
+systems needed for the future, 
+through the Industrial Strategy 
+Challenge Fund – Prospering 
+from the Energy Revolution. 
+Energy Systems Catapult is 
+playing a central role through the 
+Energy Revolution Integration 
+Service (ERIS), providing expert 
+whole system guidance and 
+support to selected projects,  
+as well as collaborative 
+opportunities for shared learning.
+Modern Energy Partners
+Modern Energy Partners (MEP) is 
+a ground-breaking collaboration 
+within Government that seeks  
+to develop a mechanism that 
+enables the public estate to 
+achieve at least 50% untraded 
+carbon emissions reductions by 
+2032 against a 2017 baseline, 
+through a combination of 
+innovative and established 
+technologies.
+MEP will achieve its purpose  
+by using the scale and diversity 
+of the public sector estate to  
+set precedent, developing a 
+standardised approach and best 
+practice and building confidence 
+through proven delivery on site.
+Living Lab
+We have upgraded 100 real-
+world homes with room-by-room 
+sensors and smart heating 
+controls to form the Living Lab 
+- a place where innovative 
+businesses can rapidly design, 
+market-test and launch smart 
+energy products and services. 
+Living Lab 2.0 will be an agile and 
+scalable national capability for 
+industry, policymakers and 
+regulators to test energy 
+innovations, business models, 
+market arrangements, policies 
+and regulations with real 
+consumers – as we move towards 
+a Net Zero carbon future. 
+Our platforms
+es.catapult.org.uk 
+Energy Systems Catapult
+63
+Energy Systems Catapult 
+es.catapult.org.uk
+62
+1  ESC (2019). Living Carbon Free. https://
+es.catapult.org.uk/news/net-zero-
+living-carbon-free/
+2  Energy and Climate Intelligence Unit 
+(2020). Net Zero Tracker. https://eciu.
+net/netzerotracker 
+3  DEFRA (2019). UK’s carbon footprint. 
+https://www.gov.uk/government/
+statistics/uks-carbon-footprint
+4  It is important to account for biomass 
+lifecycle emissions associated with 
+land use change, harvesting and 
+processing. Optimal land selection, 
+good farming practices and low 
+carbon farming equipment can all help 
+mitigate this, but in our modelling we 
+assume lifecycle emissions of 12% of 
+the carbon content of the final product 
+(20% in the case of imported product). 
+5  Assumes sustainable land use 
+practices that maintains soil quality. 
+Beyond the health of the soil, it is 
+important that biomass crops are 
+managed as part of the wider local 
+context to avoid adversely impacting 
+on biodiversity.
+6  ETI (2018). Nuclear Cost Drivers 
+Project. https://www.eti.co.uk/library/
+the-eti-nuclear-cost-drivers-project-
+summary-report 
+7  ESC (2020). Consumers, Vehicles and 
+Energy Integration. https://es.catapult.
+org.uk/case-studies/consumers-
+vehicles-and-energy-integration/
+8  EV Energy Taskforce (2020). Energising 
+our Electric Vehicle Transition. https://
+es.catapult.org.uk/news/ev-energy-
+taskforce-reports/
+9  BEIS (2020). RHI monthly deployment 
+data: December 2019. https://www.
+gov.uk/government/statistics/
+rhi-monthly-deployment-data-
+december-2019-annual-edition
+10  ESC (2019). Rethinking 
+Decarbonisation Incentives: Future 
+Carbon Policy for Clean Growth. 
+https://es.catapult.org.uk/wp-content/
+uploads/2019/07/Rethinking-
+Decarbonisation-Incentives-Future-
+Carbon-Policy-for-Clean-Growth.pdf
+11  ESC (2019). Rethinking Electricity 
+Markets. https://es.catapult.org.uk/
+impact/projects/rethinking-electricity-
+markets/
+12  BEIS (2019). Regulated Asset Base 
+(RAB) model for nuclear. https:// 
+www.gov.uk/government/
+consultations/regulated-asset-base-
+rab-model-for-nuclear
+13  ETI (2019). Update to the Role for 
+Nuclear in UK’s Transition to a Low 
+Carbon Economy. https://es.catapult.
+org.uk/news/update-to-the-role-of-
+nuclear-in-uks-transition-to-a-low-
+carbon-economy/
+14  Poyry (2019). Towards a new 
+framework for electricity markets. 
+https://es.catapult.org.uk/news/
+towards-a-new-framework-for-
+electricity-markets/?download=true
+15  BEIS (2019). 2018 UK Greenhouse Gas 
+Emissions, Provisional Figures. https://
+assets.publishing.service.gov.uk/
+government/uploads/system/uploads/
+attachment_data/file/790626/2018-
+provisional-emissions-statistics- 
+report.pdf
+16  ETI (2019). Consumers, Vehicles and 
+Energy Integration: Market Design and 
+System Integration Report. https:// 
+es.catapult.org.uk/wp-content/
+uploads/2019/11/CVEI-Market-
+Design-and-System-Integration-
+Report.pdf
+17  Ibid.
+18  Electric Vehicle Energy Taskforce 
+(2020). Energising Our Electric Vehicle 
+Transition. https://es.catapult.org.uk/
+news/energising-our-electric-vehicle-
+transition/
+19  ESC (2019). Decarbonising Road 
+Freight. https://es.catapult.org.uk/
+wp-content/uploads/2019/12/
+Decarbonising-road-freight-report-
+v08-spreads-version.pdf
+20  ESC (2018). Local Area Energy 
+Planning: Supporting Clean Growth 
+and Low Carbon Transition. https://
+es.catapult.org.uk/wp-content/
+uploads/2018/12/Local-Area-Energy-
+Planning-Supporting-clean-growth-
+and-low-carbon-transition.pdf
+21  Output-based standards can be used 
+to provide pricing incentives for 
+certain industries to reduce their GHG 
+emissions while maintaining their 
+competitive position relative to 
+international peers. Instead of paying 
+a charge on the fuels that they 
+purchase, industrial firms face a 
+carbon price on the portion of their 
+emissions that are above a specific 
+level, which is determined based on 
+relevant output-based standards 
+(emissions per unit of output). The 
+output-based standard is set at a level 
+that represents best-in-class 
+performance (top quartile or better) in 
+order to drive reduced emissions 
+intensity. A firm that reduces 
+emissions below its limit can generate 
+and sell surplus credits. The result is 
+that companies have an incentive to 
+reduce emissions and support clean 
+innovation while minimising the total 
+cost they pay.
+22  CCUS Cost Challenge Taskforce (2018). 
+Delivering Clean Growth. https://
+assets.publishing.service.gov.uk/
+government/uploads/system/uploads/
+attachment_data/file/727040/CCUS_
+Cost_Challenge_Taskforce_Report.pdf
+23  ETI (2018). Still in the mix? 
+Understanding the system role of 
+carbon capture, usage and storage. 
+https://d2umxnkyjne36n.cloudfront.
+net/insightReports/Insight_ETI_CCUS_
+Final.pdf?mtime=20181126173005
+24  ESC (2019). A strategy for a  
+Modern Digitalised Energy System. 
+https://es.catapult.org.uk/news/
+energy-data-taskforce-report/
+Endnotes
+This report was led by our Insights team: 
+Stuart McKinnon, Scott Milne, Adam Thirkill, 
+with contributions from Paul Guest 
+(Modelling) and Danial Sturge  
+(Markets, Policy and Regulation). 
+Contact:  
+insightsandevidence@es.catapult.org.uk 
+Energy Systems Catapult 
+es.catapult.org.uk
+64
+Design: red-stone.com
+PRINTER TO UPDATE
+Energy Systems Catapult supports 
+innovators in unleashing opportunities 
+from the transition to a clean, intelligent 
+energy system.
+For further information please contact:
+Energy Systems Catapult
++44 (0)121 203 3700
+insightsandevidence@es.catapult.org.uk
+7th Floor 
+Cannon House 
+The Priory Queensway 
+Birmingham B4 6BS
+© 2020 Energy Systems Catapult 
+Published March 2020

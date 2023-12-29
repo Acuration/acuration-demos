@@ -1,0 +1,1376 @@
+Electric Insights
+Quarterly
+July to September 2019
+Dr Iain Staffell, Dr Malte Jansen, Professor Richard Green, Dr Rob Gross and Professor Tim Green 
+Imperial College London
+Dr Oliver Schmidt 
+Apricum – The Cleantech Advisory
+Drax Electric Insights Quarterly – Q3 2019
+2
+Contents
+1. 
+Headlines 
+3
+2. 
+The blackout 
+4
+3. 
+Zero-subsidy offshore wind? 
+12
+4. 
+What next for energy storage? 
+15
+5. 
+How much energy storage will we need? 
+17
+6. 
+Capacity and production statistics 
+18
+7. 
+Power system records 
+20
+Electric Insights was established by Drax to help inform and enlighten the debate 
+on Britain’s electricity. It is delivered independently by a team of academics from 
+Imperial College London. Data courtesy of Elexon, National Grid and Sheffield Solar.
+Drax Electric Insights Quarterly – Q3 2019
+3
+1.  Headlines
+The biggest event of the last quarter was undoubtedly the blackout of August 9th 
+which left over a million people without power and caused travel chaos. 
+We deep dive into the event and find that while there are several lessons to 
+learn, Britain has one of the world’s most reliable power systems and so further 
+improvement will be difficult to achieve (see our special report in Article 2).
+The plummeting cost of renewable energy also made headlines. Over 5 GW 
+of new offshore wind capacity was auctioned for around £40 per MWh – well 
+below the recent wholesale price of electricity. These could potentially be the 
+world’s first offshore wind farms with a negative subsidy, meaning they pay 
+money back to consumers (see Article 3).
+Increasing the share of renewables will be essential for meeting the UK’s net-
+zero target, but this will create unprecedented challenges in balancing the 
+power system. While wholesale electricity prices have fallen to a 3-year low, 
+the cost of balancing the power system hit a record high of £3.80/MWh last 
+quarter. For the first time, keeping the power system stable makes up a tenth 
+of the total cost of generating electricity.
+We look at the role of energy storage in helping to balance Britain’s power 
+system. Article 4 looks at some technologies to watch out for in the future, 
+and Article 5 investigates how Britain’s storage capacity may need to increase  
+10-fold in the coming decades.
+The last three months saw nuclear output down 20% and wind up 33% on the 
+same period last year. Coal output reached its lowest levels since the 1920s, 
+supplying an average of less than 1 GW over the past year (see Article 6).
+Generation from fossil fuels hit record lows in Quarter 3, and the carbon 
+intensity of electricity also entered new territory. For the first time ever it 
+fell below 50 g/kWh for an hour and below 80 g/kWh averaged over a day. 
+September’s carbon intensity was under 160 g/kWh – some two-thirds lower 
+than this time five years ago. This brings the average carbon intensity over the 
+last 12 months to below 200 g/kWh for the first time – another major milestone 
+on the road to zero-carbon electricity. (see Article 7).
+1 
+The costs incurred by National Grid to maintain system stability, including ancillary services such as frequency response and voltage control.
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+60
+40
+50
+30
+20
+4
+3
+2
+1
+0
+Balancing price (£/MWh)
+Wholesale price (£/MWh)
+The quarterly-average price of generating electricity and balancing the system1 over the last decade 
+Drax Electric Insights Quarterly – Q3 2019
+4
+2.  The blackout
+On the 9th of August, Britain experienced its worst blackout for a decade. 
+Over 1 million people went without power, a sharp reminder that life is very 
+difficult if the grid doesn’t manage to “keep the lights on”. That common 
+phrase fails to capture the deep disruption caused in workplaces, hospitals 
+and transport links. Ordinary lights going off was not the issue.
+Two aspects of this are worrying: three sources of generation failed very shortly 
+after a lightning strike, and critical pieces of the country’s infrastructure lost 
+power when they shouldn’t have. Both of these reveal a mix of technical and 
+administrative problems, along with a good measure of bad luck.
+National Grid has published its technical report to Ofgem on the incident, and 
+BEIS is conducting a comprehensive review, including the economic damage 
+caused. Here we summarise what happened, discuss the broader implications 
+for the power system, and ask whether we should spend more on trying to 
+prevent this happening again.
+What happened?
+Three sources of power generation failed within half a second of one another. 
+6% of generation, or 1.9 GW, was lost. The grid is only designed to cope with 
+the sudden loss of the largest single component in the power system (normally 
+Sizewell B at 1.2 GW). That could have covered two of these failures, but not all 
+three simultaneously. Not enough power could be supplied to meet demand, and 
+so 5% of customers were automatically disconnected to prevent the grid from 
+complete collapse. While this was painful for those involved, it saved the whole 
+country from losing power, which could have taken days to recover from.
+The problems began when lightning struck a power line just before the Friday 
+rush-hour. This sounds dramatic, but it happens thousands of times a year. Circuit 
+breakers automatically disconnected the line in less than a tenth of a second to 
+isolate the current surge from the lightning bolt. About 20 seconds later they 
+reconnected the line, and normally this would have been the end of the story.
+The large wind farm at Hornsea (100 km out in the North Sea) disconnected 
+itself from the grid 0.3 seconds after the lightning strike. It detected a voltage 
+disturbance when the power line was disconnected, and attempted to help correct 
+it by injecting ‘reactive power’. Something went wrong and two banks of wind 
+turbines disconnected to protect themselves.1 737 MW of generation was lost.
+Within half a second of the lightning strike, a steam-turbine shut down at 
+Little Barford gas power station, which is connected to the affected power line. 
+The turbine had reacted to abnormal speed readings, which were probably 
+not true because the control systems were disrupted when its power supply 
+switched over to battery back-up.1 This is unusual, and looks like an equipment 
+failure of some kind. A further 244 MW of generation was lost.
+1 
+According to National Grid’s interim and final reports on the event.
+Drax Electric Insights Quarterly – Q3 2019
+5
+The voltage disturbance caused by the power line and generators 
+disconnecting then rippled out through the grid. Lots of small distributed 
+generators2 saw this and the resulting drop in frequency as a loss of mains 
+power, and so disconnected for safety reasons.3 These systems were still 
+using outdated forms of ‘Loss of Mains’ protection which are banned in new 
+installations, as it is known they can be outwitted by grid disturbances. 
+Another 500 MW was lost.
+With over 1,480 MW of generation suddenly disconnected, more power was 
+being taken out of the grid by consumers than was being put in by generators. 
+This caused all generators across the country to start slowing down, and their 
+speed – the grid’s frequency – fell from 50 Hz down to 49.1 Hz over the next  
+20 seconds. While this fall of 1.5% might not sound like much, National Grid 
+has an obligation to keep frequency within 1% of its normal value, its “statutory 
+limit” of between 49.5 and 50.5 Hz.
+ 
+While the frequency was dropping, the first line of defence started coming to 
+the rescue. National Grid keeps “response and reserve” to cover certain types of 
+failure, and was holding 1,338 MW of frequency response made up of batteries, 
+automatic demand response and part-loaded generators. Over the coming 
+seconds 1,080 MW was delivered, which arrested the fall in frequency. A second 
+gas turbine then failed at Little Barford and a further 210 MW was lost.
+This sent the system frequency below the critical threshold of 48.8 Hz  
+(2.4% below normal). At this point, National Grid ordered the second line of 
+defence, “Low-Frequency Demand Disconnect” (LFDD). Like a surgeon deciding 
+to amputate a limb to save the patient, around 5% of demand was disconnected 
+from the grid. This helped to bring demand back in line with supply and allow 
+frequency to be restored, but it meant cutting power to over a million customers.
+The minimum system frequency experienced each day since 2009
+2 
+These include gas engines in factories, anaerobic digesters at farms, and small wind turbines and solar panels. Some failed before the larger transmission-connected generators and some failed after, depending on the 
+type of Loss of Mains protection they used.
+3 
+They disconnected to avoid ‘islanding’, when a small generator continues to provide power when electricity is supposed to be off for safety reasons. 
+August 9th
+50.0
+49.8
+49.6
+49.4
+49.2
+48.8
+49.0
+2010
+2009
+49.5 Hz statutory limit, 1% below nominal
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Hz
+Drax Electric Insights Quarterly – Q3 2019
+6
+Who was affected?
+So, who got disconnected and why them? The frequency drop affected 
+the whole country equally, so it was not just those close to the original 
+lightning strike that were affected. The disconnections were made by the 
+regional distribution network operators (DNOs) who run the local wires, and 
+were automatic and pre-programmed. In total, 1.15 million customers were 
+disconnected across England, Wales and Scotland. National Grid gave the 
+green light to start reconnecting customers about 15 minutes after the power 
+cuts happened and all customers were back on supply with 50 minutes.
+Losing power for an hour can be very inconvenient for a household, but for 
+some larger customers it can cause chaos. Large customers can declare under 
+the Electricity Supply Emergency Code that they shouldn’t be disconnected 
+because they have critical functions, and the pre-programming will take 
+account of this. Newcastle Airport lost power because they had not opted to 
+be a Protected Site and so their contract permitted disconnection.1 The airport 
+did at least have standby generators and batteries to keep essential safety 
+systems running, although not the rest of their services.
+Ipswich Hospital also lost power. It was not disconnected by the network 
+operator, but by its own protection systems over-reacting to the problems on the 
+grid.1 Again, it had standby generators to cover some, if not all, of its services.
+The railways were also badly affected. Major signalling centres and the 
+supplies for electric trains are Protected Sites, so what went wrong? Two 
+substations feeding DC power to railway lines reacted to the low frequency by 
+disconnecting, which stopped some trains temporarily. The most significant 
+problems were caused by the trains themselves. A class of trains operated by 
+Thameslink running north of London shut down because they were programmed 
+to do so if the frequency was abnormal.1 It is not clear why 49.0 Hz was chosen 
+as the trigger point for these trains to shut down, and that will need to be 
+reviewed and possibly changed. Some drivers were able to ‘reboot’ their trains 
+and get going again but others found they could not because of a software 
+update. Technicians had to be sent to the trains to get these trains restarted, 
+which caused severe delays.
+Are wind farms making things worse?
+Nothing in the August power cut was a result of wind being intermittent or 
+variable.1 While wind output was high that day, supplying nearly a third of demand, 
+there was no sudden reduction of wind speed leading to loss of wind power.
+There was a sudden loss of one wind farm but others in the region carried on 
+operating as normal. Hornsea was only partially built, and not all wind turbines 
+had been commissioned. Two 400 MW modules were running under some 
+temporary arrangements with the grid, and not in their final configuration. 
+This is a pragmatic arrangement as it allows partly-built wind farms to generate 
+clean electricity rather than keeping their turbines idle, but this may need 
+reviewing in future.
+Drax Electric Insights Quarterly – Q3 2019
+7
+4 Calculated from the fastest negative rate of change of frequency seen each day, based on 15-second average data from Elexon.
+There is a broader question around the move to higher shares of renewable 
+generation. Wind and solar farms do not have heavy spinning metal turbines 
+which provide ‘inertia’, the shock-absorbers of the power system. As we move 
+to less conventional generation, the power system is seeing higher rates of 
+change of frequency. This is giving National Grid less time to react to problems 
+on the system.
+On August 9th, the frequency drop was the fastest we have ever experienced, 
+peaking at about 0.16 Hz per second. The sustained rate of change meant 
+National Grid had less than 10 seconds to react before frequency had fallen 
+outside of normal operating limits (below 49.5 Hz).
+This ‘speeding up’ is a direct result of more wind, solar and sub-sea 
+interconnectors. However, it is being counterbalanced by new technologies 
+that provide response and reserve services. Nearly half of National Grid’s 
+response came from batteries, which were exceptionally fast to reach full 
+power. The traditional spinning generators, which would have been the only 
+recourse a decade ago, took much longer to respond. 
+How much time we have to correct a problem before system frequency has fallen by 1% 4 
+120
+90
+60
+30
+20
+10
+8
+15
+2010
+2009
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Seconds
+August 9th
+Drax Electric Insights Quarterly – Q3 2019
+8
+*Only systems which serve more than 5 million people
+0
+2
+4
+6
+8
+10
+Years
+> 5 years
+2−5 years
+1−2 years
+3−12 months
+1−3 months
+< 1 month
+France
+South Korea
+Switzerland
+United Kingdom
+Taiwan
+Netherlands
+Germany
+China
+United States
+United Arab Emirates
+Average time between outages
+How common is this?
+Britain has seen four large power cuts in the last twenty years. These are quite 
+different from one another and reveal a variety of causes:
+These events highlight the many challenges facing grid operators: storm damage, 
+unexpected generator shut-downs and equipment failure in the grid. These 
+large events seem to happen every five years. Of course, local power cuts are 
+more common, especially in rural areas; however, each one affects fewer people.
+It is important to note that limiting blackouts to once every 5 years appears to be 
+the best that can be achieved worldwide. The national grid is among the most 
+reliable power systems in the world – better than much of Europe or the Americas.
+Christmas 2013
+Heavy storm damage caused 
+power cuts affecting more than a 
+million people. 16,000 customers 
+without power for more than  
+48 hours. Local power lines were 
+blown over across almost the 
+entire country, swamping the DNO 
+repair crews. Making more use of 
+underground cables rather than 
+overhead lines on poles would help 
+but that would be a vastly expensive 
+and disruptive conversion job.
+August 2003
+Large parts of south London 
+suffered a power cut, including 
+railway and tube lines. This time  
+it was an equipment failure.  
+A transformer in a National 
+Grid substation had to be taken 
+offline; power flow redirected to 
+other lines as normal, but a circuit 
+breaker then tripped because of 
+incorrect settings.
+May 2008
+A coal-fired power station in 
+Scotland and the Sizewell B nuclear 
+reactor in Suffolk failed within 3 
+minutes of another. This is very  
+similar to the event this August: 
+National Grid’s reserve and response 
+could not keep the frequency from 
+falling, some distributed generation 
+also disconnected, and LFDD led to 
+power cuts affecting half a million 
+customers. The generator failures 
+appear to have been unrelated though.
+2002
+2001
+2000
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2018
+2019
+How reliable are power systems around the world? 5
+5 
+Data from the World Bank, CEER and EIA. The most recent data available for each country are used, typically 2012–2018.
+The ten most reliable major power systems*, 
+measured by the time between blackouts 5
+Drax Electric Insights Quarterly – Q3 2019
+9
+Can we stop this ever happening again?
+If we want to stop power cuts happening we have to think about all the 
+causes. Focusing on sudden outages of generators, we would need to look 
+at the regulation that defines what National Grid has to guard against: 
+the Supply Quality and Security Standard (SQSS). This requires the grid to 
+remain operational after the loss of a single ‘generating unit’, ‘power park’ or 
+‘converter station’. National Grid holds enough response and reserve to cover 
+for losing the biggest unit in operation that day.6
+The obvious question is do we want to cover for two large units suffering 
+problems, rather than just one? Doing so would have meant that the 2008 and 
+2019 power cuts would have been avoided, but not the 2003 or 2013 ones. This 
+wouldn’t cover three large units failing in quick succession. It would mean an 
+increase in costs of procuring those response and reserve services.
+Are we spending enough on security?
+It is difficult to judge whether we should invest more money to prevent further 
+blackouts. The instinctive answer is ‘yes of course’, but if that extra money 
+achieves very little over and above the current standards, it would be better 
+spent on other ways to improve our quality of life.
+Two elements of this are what might it cost to improve security, and how much 
+money could that save from reduced blackouts? Neither are easy to estimate.
+National Grid spends about £380m per year on response and reserve services to 
+help in events like this. It passes those costs on through ‘Balancing Use of System 
+Charges’ to generators and retailers. The share paid by domestic customers 
+adds around £5 per household per year. It is not as simple as saying we need to 
+double this to cover two outages but that is a rough guide. Preventing the recent 
+blackout would have required more response but not more reserve, although 
+doubling the amount of response held would likely be very expensive.
+The harder one to estimate is what it would be worth to avoid blackouts. 
+Would you be willing to pay an extra £15 per year to avoid a 5% chance of being 
+stuck in the airport or on a train once every five years? Your answer may well 
+depend on whether or not you were affected by the August power cut.
+Ofgem use a ‘value of lost load’ for such questions. A kWh of demand not 
+served by power stations is worth £17, or about 100 times the typical price 
+consumers pay. During the blackout, about 5% of load was cut off for up to 
+an hour – around 0.9 million kWh, valued at £15 million. If this happens every 
+five years, perhaps we should ‘rationally’ want to spend an extra 10 pence 
+per household per year to eliminate it. There is little evidence to suggest that 
+£17/kWh is the correct value7, or that people’s preference for uninterrupted 
+electricity follows an economist’s cost-optimisation algorithm.
+6 Plus some further reserve to make sure the system is covered again 30 minutes later for a second outage.
+7 
+Royal Academy of Engineering, 2014. Counting the cost: the economic and social costs of electricity shortfalls in the UK.
+Drax Electric Insights Quarterly – Q3 2019
+10
+For international context, 50 million people across the US and Canada 
+experienced up to four days without power in 2003, which was estimated to cost 
+USD 6bn in lost productivity and damage. In the same year, 50 million people in 
+Italy and Switzerland suffered a one-day blackout, costing upwards of €1bn.7
+What lessons can we learn?
+There are many issues to consider and lessons to learn. First would be to 
+uncover the detailed technical reasons for the outages at Little Barford 
+and Hornsea and try to ensure that both of those problems are made less 
+likely. Hornsea was only partly complete and running under temporary grid-
+code arrangements. Perhaps new farms should have grid code compliance 
+assured one module at a time, and operators should be more careful over the 
+configurations that may be used for very large wind farms.
+The second issue is that of common-cause events. The 2008 power cut was 
+two power stations failing in unrelated events – just bad luck. Should we see 
+this 2019 outage of two power stations and a share of distributed generators 
+as having a common-cause? They were all unfortunate reactions to the 
+lightning strike, but perhaps this was also in ‘bad luck’ territory. It was already 
+known that older distributed generators were prone to ‘sympathetic tripping’, 
+disconnecting when mains electricity was not actually lost. The protection 
+systems of older and vulnerable distributed generators are being replaced in 
+an ‘accelerated’ industry campaign that completes in 2022. Perhaps this could 
+be accelerated further? Perhaps National Grid should factor these devices into 
+their largest loss of load calculation until they have been upgraded?
+Finally, the ensuing power cut caused more disruption than should be 
+expected. Newcastle Airport did not class itself as critical infrastructure. 
+Ipswich Hospital did not cope with the switch to backup power. Some trains 
+were set to turn off, and many could not be restarted. Organisations across the 
+country would be well-advised to check if they can and should be Protected 
+Sites and whether their own protection systems are appropriately configured.
+Then looking beyond technical elements: perhaps there needs to be a public 
+discussion about the appetite for paying to reduce the risk of demand 
+disconnections (LFDD) by requiring National Grid to purchase larger volumes 
+of reserve and response. Similarly, perhaps this event will raise awareness 
+for critical infrastructure provides about what sort of grid conditions should 
+be planned for and immunised against (e.g. adjusting over-sensitive internal 
+protection, providing UPS etc).
+There is nothing to suggest these events are more likely today than they were  
+10 years ago, so it would be difficult to justify spending more to reduce the risks 
+in future. That said, Britain’s power system is changing rapidly and so we need to 
+be ready for the different kinds of problems that will be faced in the future.
+Drax Electric Insights Quarterly – Q3 2019
+11
+Both the supply and demand for electricity are going through unprecedented 
+changes as new technologies take hold. Britain already has more renewables 
+than fossil capacity, and the balance is set to shift further as all coal stations 
+retire by 2025. More wind and solar will come online, backed up by batteries, 
+more interconnectors to the continent and bigger nuclear reactors. National 
+Grid is preparing itself to manage a zero-carbon electricity system, and must 
+develop new tools and markets to replace the traditional steam and gas 
+turbines it once relied upon. Put together, these not only change the size 
+of failures that could be expected, but also the location of them, and the 
+balance between centralised and distributed sources (the latter which could 
+potentially be invisible or uncontrollable to the system operator).
+Demand will also change dramatically, as efficiency improvements continue 
+to shrink the traditional pattern of consumption, and new technologies like 
+electric vehicles and heat pumps come into the mainstream. Smart systems 
+mean consumers could be a major part of the solution, with power companies 
+quick to offer ‘smart hot water tanks’ that will help in the event of blackouts  
+in future.
+While Britain has one of the most secure electricity systems in the world, it is 
+worrying that events like this expose several flaws. It is little comfort to those 
+affected to say the power system worked exactly as expected. Engineers will 
+continue analysing the events of August 9th for years to come, but they must 
+also be quick to develop new ways of keeping Britain’s power system under 
+control as it moves into bold new territory.
+Drax Electric Insights Quarterly – Q3 2019
+12
+Existing wind farms
+UK wind farms that 
+have been auctioned 
+and due to be built
+Maritime boundaries
+Capacity (MW)
+Dogger Bank 
+(sea is less than
+30 metres deep) 
+1,500
+500
+200
+1 
+£44/MWh in today’s money.  The actual lowest bid was £39.65/MWh, but is reported in money of 2012. 
+2 
+The level of support that wind farms receive depends on several factors, including the level of wholesale electricity prices over the coming decades and how significantly prices are depressed during times of 
+high wind output.
+3.  Zero-subsidy offshore wind?
+The third round of offshore wind auctions were announced in September, 
+bringing forward 5.4 GW of new capacity for a record low of £44/MWh.1  
+This price has fallen 30% since the last auction in 2017, and could possibly 
+mark these as the world’s first negative-subsidy wind farms, which pay money 
+back to UK consumers over their lifetime.2
+Six new wind farms were awarded contracts and will come online from 2024 
+onwards. These will be built by SSE, Innogy and Equinor (formerly Statoil, the 
+Norwegian state oil company). Two farms (0.45 GW) will be built off the east 
+coast of Scotland, and four (totalling 5 GW) will be built on Dogger Bank: an 
+area of shallow water in the middle of the North Sea. These new wind farms 
+will be twice the size of today’s largest wind farm, Walney Extension. In total, 
+this newly-auctioned capacity is expected to create 8,000 jobs in the UK.
+Offshore wind is supported by Contracts for Differences (CfDs). These 
+contracts between the government and wind farm guarantee a reference price 
+for each MWh generated. If the wholesale power price is below the agreed 
+‘strike price’, the wind farm receives a top-up from government – hence CfDs 
+are synonymous with subsidising renewables. However, this crucially provides 
+revenue stability over the coming decades. By shielding wind farms from 
+fluctuations in power prices (partly driven by international fossil fuel prices), 
+the government can reduce the risk to developers. This allows them to reduce 
+their cost of financing, making wind farms cheaper to build.
+Europe’s offshore wind farms
+Drax Electric Insights Quarterly – Q3 2019
+13
+3 
+In 2019 currency – the original bids were £119.89 and £39.65 in the money of 2012.
+4 Based on 10-year average power prices.
+Over the last two years, wholesale electricity has averaged £50/MWh, so the 
+CfDs for this latest round of wind farms would have been working in reverse: 
+paying money back to the government if they were already built. Electricity 
+prices have risen faster than inflation over the last decade; if they continue 
+rising through the 2020s these wind farms will be the first to have a negative 
+subsidy, meaning they actively reduce consumer bills.
+Since the UK’s first auction in 2015, the price of offshore wind has fallen by 
+over 15% per year, from £134 down to just £44 per MWh.3 The pace of reduction 
+has surprised many in the energy industry: as recently as 2016 experts predicted 
+these prices wouldn’t be seen until 2050. Offshore wind has quickly become 
+one of the cheapest ways to produce electricity, and these cost reductions are 
+not unique to the UK. Auctions from neighbouring countries are rapidly falling, 
+and reached parity with power prices in Germany back in 2017.
+Many things have helped to bring down the cost of offshore wind. Bigger 
+turbines are more cost effective, and Dogger Bank will be among the first to 
+use the world’s largest turbine, the GE Haliade-X. It stands 260 metres tall 
+(twice the height of the London Eye) and each machine produces 12 MW –  
+five times more than the average turbine built just five years ago.
+At the same time, wind farms are getting bigger. Three of the Dogger Bank 
+farms are being built as if they were one, streamlining construction and grid 
+connection. These farms are also moving to better areas, further from shore 
+where wind speeds are higher, and in relatively shallow water meaning the 
+foundations are easier to lay. The UK’s expertise in North Sea oil & gas has 
+helped build up the skilled workforce for offshore wind.
+The difference between bids into European offshore wind auctions and average wholesale power prices 4
+£80
+£90
+£70
+£60
+£50
+£40
+£30
+£20
+£10
+−£10
+£0
+(£/MWh)
+2015
+2016
+2017
+2018
+2019
+Denmark
+Germany
+United Kingdom
+Netherlands
+Drax Electric Insights Quarterly – Q3 2019
+14
+Looking further to the future, more radical plans are being developed. TenneT, 
+who operate the Dutch and part of the German power system, plan to develop the 
+‘Power Hub’: an artificial island in the North Sea to connect a staggering 12 GW 
+of wind farms (almost four Hinkley Point nuclear plants in terms of capacity). 
+To avoid the cost of ever-longer transmission links, some are planning to build 
+offshore wind farms with no grid connection at all. Instead, they would generate 
+hydrogen directly from the wind, and tap into existing gas pipelines and storage 
+facilities to provide “green gas” for heating homes and industry.
+The International Energy Agency reports that offshore wind could provide the 
+entire world’s future electricity needs. The UK government aims for 30 GW of 
+offshore wind by 2030, helping to meet net-zero by 2050. The UK’s most recent 
+auction suggests this is not just a technical possibility, but now an economically 
+viable way to power much of the world’s growing electricity needs.
+Drax Electric Insights Quarterly – Q3 2019
+15
+4.  What next for energy storage?
+“Energy storage is like bacon: It makes everything better”.1 It is considered  
+one of the most important issues within the energy industry, with  
+“the potential to dictate the pace and the scale of the energy transition”.  
+We look at the reasons why, and the technologies to watch in the future.
+In addition to interconnection, demand-side response and flexible generation, 
+storage is the ‘glue’ that could help integrate more renewables by smoothing 
+their intermittent output. This could revolutionise grid management, facilitate 
+deeper decarbonisation and significantly reduce the need for fossil fuels to provide 
+flexibility. Low-cost technologies that store excess electricity for when it is needed 
+are seen as “transformational” and one of the “foundations of clean energy”.
+Part of this excitement comes from the rapid cost falls that many storage 
+technologies are seeing. Storage is following in the footsteps of solar panels, 
+which have become mainstream after relentless cost reductions. Lithium-ion 
+battery packs now cost around 85% less than they did at the start of the decade. 
+Other major technologies – ranging from flywheels to hydrogen – are seeing 
+costs converge towards £200–280 per kWh of storage capacity,2 meaning around 
+£2,000 to store the typical daily consumption of a British household (8 kWh).
+Much of the excitement is around lithium-ion batteries. These power 
+everything from mobile phones to grid-scale batteries capable of supplying 
+thousands of homes. Electric vehicles are driving up the scale of battery 
+manufacturing, which makes them cheaper to build. The number of EVs on 
+Britain’s roads has grown 25% so far this year, sailing past quarter of a million.
+Lithium-ion is far from being the only technology that matters though. It is 
+important to remember that pumped hydro storage (moving water between 
+high and low lakes) is by far the largest technology, and represents 97% of the 
+world’s installed electricity storage.
+The power system needs a range of services, from sub-second to inter-seasonal. 
+The recent blackout highlights the value of having fast-acting technologies 
+for balancing and frequency response, and there will be an increased need to 
+provide more inertia as old coal units retire. Britain’s weather means we often 
+experience several consecutive days with high or low wind speeds, so storage 
+which can balance between the weeks or months will become increasingly 
+valuable. Batteries typically can store 1-4 hours of energy, and research into 
+longer-duration batteries is still in its early phase.
+The elephant in the room is inter-seasonal storage. Britain uses 25% more 
+electricity in winter than in summer. This pales in comparison to natural gas 
+though: we use five-times more in winter than summer for heating. As more 
+homes move to low-carbon electric heating, new technologies will be needed 
+to balance out the extreme seasonal variation this will add to demand. There 
+are plenty of ways to store electricity other than batteries. Some of these, 
+particularly thermal and chemical technologies, could offer very long-duration 
+storage, but with the penalty of much lower efficiency than today’s batteries.
+1 
+Cavada, 2018. Will renewables plus energy storage compete against gas? Future of Energy Global Summit.
+2 
+Schmidt et al., 2017. The future cost of electrical energy storage based on experience rates.
+Drax Electric Insights Quarterly – Q3 2019
+16
+A range of exciting ideas are being pursued by numerous companies. 
+Gravitricity plan to turn Britain’s coal-mining heritage into ultra-low-cost storage 
+by hoisting steel weights up and down disused mine shafts. Highview build 
+plants that liquefy air by cooling it to –200°C, then release energy when 
+this air expands to 700 times its volume when warmed back up to ambient 
+temperatures. RedT offer ‘vanadium redox flow machines’ which work like 
+conventional batteries, but store their energy-containing material in separate, 
+scalable tanks to allow longer duration storage at lower cost. Energy suppliers 
+are beginning to offer ‘vehicle to grid’ services – allowing electric vehicle 
+owners to save money and carbon emissions with ‘smart charging cables’,  
+or get paid for using their parked car batteries as a ‘virtual power station’.
+Ultimately, balancing energy between months or seasons may require a shift 
+away from electricity altogether. Hydrogen is a promising candidate, and 
+ITM Power produce electrolysers which make hydrogen gas from excess 
+renewable energy. Their latest project with Cadent and Northern Gas 
+Networks is blending natural gas with up to 20% hydrogen for 700 houses at 
+Keele University. This is using clean electricity to lower the carbon emissions 
+from heating, without any change needed at the consumer side (these houses 
+still use regular boilers and cookers).
+There is a clear case for expanding Britain’s energy storage capacity in future. 
+The use cases for storage match the characteristics of renewable energy 
+generation, and rapid cost reductions make storage suitable for a growing 
+number of applications, both at grid scale and in individual households. 
+Seasonal storage is always going to be the most difficult proposition due to 
+the economics of having very few charge/discharge cycles per year from which  
+to earn money. But, as the UK pushes on towards net zero emissions, it may 
+become essential for decarbonising the highly-seasonal sectors such as heating.
+The five key principles of energy storage and the main technologies that employ them
+Thermal
+Mechanical
+Chemical
+Electro-chemical
+• Lithium-ion
+• Lead acid
+• Sodium sulphur
+• Redox ﬂow
+• Flywheel
+• Pumped hydro
+• Compressed air
+• Gravitation
+• Hydrogen
+• Syn-methane
+• Ammonia
+• Methanol
+• Pumped heat
+• Liquid air
+• Thermo-chemical
+• Ultra-capacitors
+• Magnetic coils
+Electrical
+Drax Electric Insights Quarterly – Q3 2019
+17
+A big open question is how flexible will Britain’s power system 
+need to be as it transitions to more renewable energy, and 
+how much of this flexibility should come from energy storage? 
+Getting to over 80% wind and solar power, as is suggested for 
+reaching net-zero, might require a tenfold expansion from  
+3 GW of storage today to over 30 GW in the coming decades. 
+In energy terms, this amounts to the region of 100 to 200 GWh 
+of storage capacity, up from just 30 GWh installed today.
+It is clear that new technologies will be needed to balance out 
+the variability of wind and solar farms, but how big might the 
+market for storage be? This is a question that many academic 
+and industry studies have tried to tackle. There is no one 
+answer, as it depends strongly on how the rest of the energy 
+system evolves – ranging from how much electricity comes 
+from nuclear, renewables and flexible fossil fuels, to how many 
+people buy electric cars and heat pumps. It also depends on 
+how various studies model the workings of the power system, 
+and the technical and economic assumptions they use.
+Results from 28 studies of the future electricity system, comparing the amount of storage that gets built in the coming decades 
+against the amount of energy from variable renewables. Installed storage capacities are divided by the peak demand for electricity 
+in each region to account for the relative size of countries. 1
+National Grid provides four possible visions in their Future 
+Energy Scenarios. They see Britain installing anything 
+from 3 to 13 GW of new storage capacity over the next 
+fifteen years, depending on whether we continue relying 
+heavily on natural gas or move towards more renewables 
+for our electricity. Other studies cover an even wider 
+range, but one trend is clear. More storage is needed as 
+more electricity comes from wind and solar power, and 
+the requirement grows more quickly at higher levels of 
+renewables penetration.
+Of course, storage is just one form of flexibility that can help 
+to integrate low-carbon power sources. Interconnection 
+with neighbouring countries, demand-side response (such 
+as smart appliances and hot water cylinders, etc.) and 
+peaking power stations all have a role to play, and are 
+similarly all expected to grow in the coming years.
+5.  How much energy storage will we need?
+100%
+60
+45
+30
+15
+0
+75%
+50%
+25%
+0%
+Storage power capacity
+relative to peak demand
+Share of demand met by variable renewable energy
+Storage power capacity
+for a GB-sized system (GW)
+0%
+20%
+40%
+60%
+80%
+100%
+Great Britain
+BEIS (2018)
+BNEF (2018)
+Heuberger et al. (2018)
+National Grid (2018) - CE
+National Grid (2018) - CR
+National Grid (2018) - SP
+National Grid (2018) - TD
+Price et al. (2018)
+Zeyringer et al. (2018)
+Carbon Trust (2016)
+CCC (2015)
+Edmunds et al. (2014)
+Germany
+Schill and Zerrahn (2018)
+Zerrahn et al. (2018)
+BMWi (2017)
+Repenning et al. (2015) KS 80
+Repenning et al. (2015) KS 95
+Pape et al. (2014)
+Schill (2014)
+Europe
+Cebulla et al. (2017)
+Scholz et al. (2017)
+United States
+Denholm and Mai (2017)
+de Sisternes et al. (2016)
+MacDonald et al. (2016)
+Jacobson et al. (2015)
+Safaei and Keith (2015)
+Budischak et al. (2013)
+Denholm and Hand (2011)
+1 
+Data from multiple sources as cited in the legend, in part compiled by Zerrahn et al., 2018. On the economics of electrical storage for variable renewable energy sources.
+Drax Electric Insights Quarterly – Q3 2019
+18
+6.  Capacity and production statistics
+Cottam coal-fired power station closed down after 50 years, taking with it  
+one-fifth of Britain’s remaining coal capacity. This leaves just five operating 
+coal plants, two of which are set to close by March 2020. Coal power stations 
+again supplied less than 1% of Britain’s electricity, averaging just 0.2 GW over the 
+quarter. Coal output has halved over the last 12 months, and fell below 1 GW for 
+the first time since the 1920s.
+Britain’s electricity supply mix in the 
+third quarter of 2019
+Electricity generation from coal is at its lowest for 90 years
+Carbon Brief and several newspapers reported that renewables supplied more 
+electricity than fossil fuels in the third quarter this year. The Electric Insights 
+data (right) show that fossil fuels supplied 39% of demand, compared to 35% 
+from renewables. One difference is that Electric Insights covers Great Britain 
+rather than the whole United Kingdom, as Northern Ireland is on a separate 
+power system shared with the Republic of Ireland. Secondly, Carbon Brief tried to 
+estimate the supply from small-scale renewables which are embedded into the 
+distribution networks, and do not publish data on their hourly power output.1 
+Regardless of methods, we echo Carbon Brief: this is a “symbolic milestone in the 
+stunning transformation of the UK’s electricity system over the past decade”.
+Nuclear power also continued its bad run from last quarter. Output was again 
+one-fifth lower than this quarter last year, with the country’s 9.5 GW of reactors 
+averaging just 5.8 GW of output.
+Britain’s wind farms were the second-largest source of electricity over the last 
+three months, beating nuclear into third position. Output was one-third higher 
+than this time last year.
+Electricity demand fell to 64.5 TWh over the quarter, an average of 29.2 GW. 
+Demand for this time of year has not averaged less than 30 GW for a quarter 
+of a century.
+Wholesale electricity prices continued falling to reach their lowest in three 
+years. This prompted exports (which are typically at their lowest during Q3) to 
+reach their highest level since 2010. That said, Britain still imported four times 
+more electricity than it exported.
+1 
+Other sources give different values because of the types of plant they consider. For example, BEIS Energy Trends records an additional 0.7 GW of hydro, 0.6 GW of biomass and 3 GW of waste-to-energy plants. These 
+plants and their output are not visible to the electricity transmission system and so cannot be reported on here.
+20
+15
+10
+5
+0
+GW
+1930
+1940
+1950
+1960
+1970
+1980
+1990
+2000
+2010
+*12 months to October 2019
+2019*
+64.5 TWh
+supplied
+38.2%
+20.2%
+19.8%
+6.7%
+6.6%
+6.4%
+1.4%
+0.6%
+Gas
+Wind
+Nuclear
+Imports
+Biomass
+Solar
+Hydro
+Coal
+Share of the mix
+Drax Electric Insights Quarterly – Q3 2019
+19
+Installed Capacity (GW)
+Energy Output (TWh)
+Utilisation / Capacity Factor
+2019 Q3
+Annual change
+2019 Q3
+Annual change
+Average
+Maximum
+Nuclear
+9.5
+~
+12.8
+ –3.2 (–20%)
+61%
+72%
+Biomass
+3.2
+~
+4.3
+ +0.1 (+1%)
+61%
+84%
+Hydro
+1.1
+~
+0.9
+ +0.3 (+64%)
+36%
+85%
+Wind
+– of which Onshore
+– of which Offshore
+21.6
+12.8
+8.9
+ +1.4 (+7%)
+ 
++0.7 
+(+6%)
+ +0.8 
+(+9%)
+13.0
+8.3
+4.7
+ +3.2 (+33%)
+  +2.2 (+35%)
+ 
+ +1.0 
+(+29%)
+28%
+30%
+24%
+66%
+76%
+64%
+Solar
+13.0
+ +0.2 (+1%)
+4.1
+ +0.1 (+1%)
+15%
+68%
+Gas
+28.1
+ +0.4 (+1%)
+24.7
+ –0.4 (–2%)
+40%
+76%
+Coal
+8.5
+ –2.0 (–19%)
+0.4
+ –1.3 (–76%)
+2%
+13%
+Imports
+5.0
+ +1.0 (+25%)
+5.6
+ +0.1 (+2%)
+51%
+92%
+Exports
+1.2
+ +0.7 (+119%)
+11%
+67%
+Storage discharge
+3.1
+~
+0.4
+ –0.1 (–29%)
+5%
+55%
+Storage recharge
+0.4
+ –0.2 (–36%)
+5%
+61%
+Installed capacity and electricity produced by each technology 1  2
+2 
+We include an estimate of the installed capacity of smaller storage devices which are not monitored by the electricity market operator. Britain’s storage capacity is made up of 2.9 GW of pumped hydro storage, 
+0.6 GW of lithium-ion batteries, 0.4 GW of flywheels and 0.3 GW of compressed air.
+Drax Electric Insights Quarterly – Q3 2019
+20
+7.  Power system records
+Britain’s power system had another record-breaking quarter, with renewable 
+energy hitting new highs, while fossil fuels, demand and carbon emissions all 
+hit new lows. 24 of the records we track were broken over the last three months.
+Wind farms provided more than half of Britain’s electricity for the first time 
+ever. For an hour on the 4th of September, wind provided 52.4% of electricity 
+– up from the previous record of 49.7% set back in January. The total share 
+of renewables also broke new ground, supplying more than two-thirds of the 
+country’s electricity for the first time ever on the 17th of August.
+This high share of renewables drove the carbon intensity of electricity below 
+50 g/kWh for the first time ever. On 17th of August it hit just 43 g/kWh in 
+the mid-afternoon; and the day as a whole averaged just 76 g/kWh, nearly a 
+quarter below the previous record set in June.
+Electricity demand also fell to a new monthly low of 28.6 GW in August, likely 
+prompted by the good weather – along with continuing energy efficiency 
+improvements. As demand falls and renewable output grows, Britain’s net 
+demand also hit new lows. Instantaneous demand net of wind and solar output 
+fell to just 8.1 GW on the 19th of August, one-sixth lower than the previous 
+record set in June.
+No records were broken by conventional fuels (nuclear, coal and gas). However, 
+when put together, total output from fossil fuels fell to new lows. Conversely, 
+the share of all low-carbon generation (renewables, nuclear and imported 
+nuclear) edged ever-closer to 100%. On the 17th of August, the share hit a new 
+peak of 89%.
+The tables below look over the past decade (2009 to 2019) and report the 
+record output and share of electricity generation, plus sustained averages 
+over a day, a month and a calendar year.1 Cells highlighted in blue are records 
+that were broken in the second quarter of 2019. Each number links to the 
+date it occurred on the Electric Insights website, allowing these records to be 
+explored visually.
+ 
+Wind – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+15,324
+52.4%
+Daily average
+14,209
+41.8%
+Month average
+8,403
+24.0%
+Year average
+5,901
+17.3%
+ 
+Solar – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+9,550
+29.4%
+Daily average
+3,386
+12.0%
+Month average
+2,464
+8.1%
+Year average
+1,319
+3.9%
+1 
+The annual records relate to calendar years, so cover the period of 2009 to 2018.
+Drax Electric Insights Quarterly – Q3 2019
+21
+ 
+All Renewables – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+22,730
+68.0%
+Daily average
+16,749
+57.2%
+Month average
+12,188
+36.8%
+Year average
+9,507
+27.9%
+ 
+Biomass – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+3,171
+12.8%
+Daily average
+3,094
+9.7%
+Month average
+2,361
+7.1%
+Year average
+1,921
+5.6%
+ 
+Gross demand
+Maximum (MW)
+Minimum (MW)
+Instantaneous
+60,070
+18,214
+Daily average
+49,203
+24,704
+Month average
+45,003
+28,592
+Year average
+37,736
+33,525
+ 
+Demand (net of wind and solar)
+Maximum (MW)
+Minimum (MW)
+Instantaneous
+59,563
+8,118
+Daily average
+48,823
+12,308
+Month average
+43,767
+20,212
+Year average
+36,579
+26,305
+ 
+Day ahead wholesale price
+Maximum (£/MWh)
+Minimum (£/MWh)
+Instantaneous
+792.21
+–45.70
+Daily average
+197.45
+0.00
+Month average
+63.17
+30.83
+Year average
+56.82
+36.91
+ 
+Carbon intensity
+Maximum (g/kWh)
+Minimum (g/kWh)
+Instantaneous
+704
+43
+Daily average
+633
+76
+Month average
+591
+157
+Year average
+508
+217
+£
+CO2
+ 
+All fossil fuels – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+49,307
+88.0%
+Daily average
+43,085
+86.4%
+Month average
+36,466
+81.2%
+Year average
+29,709
+76.3%
+ 
+All fossil fuels – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+2,421
+9.1%
+Daily average
+3,921
+14.9%
+Month average
+10,020
+34.2%
+Year average
+14,951
+43.8%
+ 
+All low carbon – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+30,107
+89.0%
+Daily average
+24,800
+79.3%
+Month average
+19,714
+60.7%
+Year average
+17,902
+52.4%
+ 
+All low carbon – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+3,395
+8.3%
+Daily average
+5,007
+10.8%
+Month average
+6,885
+16.7%
+Year average
+8,412
+21.6%
+CO2
+CO2
+Drax Electric Insights Quarterly – Q3 2019
+22
+ 
+Coal – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+26,044
+61.4%
+Daily average
+24,589
+52.0%
+Month average
+20,746
+48.0%
+Year average
+15,628
+42.0%
+ 
+Gas – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+27,131
+66.3%
+Daily average
+24,210
+59.6%
+Month average
+20,828
+54.8%
+Year average
+17,930
+46.0%
+ 
+Coal – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+0
+0.0%
+Daily average
+0
+0.0%
+Month average
+28
+0.1%
+Year average
+1,757
+5.1%
+ 
+Gas – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+1,556
+4.9%
+Daily average
+3,071
+9.5%
+Month average
+6,775
+19.9%
+Year average
+9,159
+24.6%
+ 
+Nuclear – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+9,342
+42.8%
+Daily average
+9,320
+32.0%
+Month average
+8,649
+26.5%
+Year average
+7,604
+22.0%
+ 
+Nuclear – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+3,705
+8.7%
+Daily average
+3,754
+10.3%
+Month average
+4,446
+12.9%
+Year average
+6,679
+17.2%
+ 
+Imports – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+4,857
+18.3%
+Daily average
+4,323
+14.3%
+Month average
+3,796
+10.6%
+Year average
+2,630
+7.5%
+ 
+Pumped storage – Maximum 2
+Output (MW)
+Share (%)
+Instantaneous
+2,660
+6.0%
+Daily average
+362
+1.2%
+ 
+Pumped storage – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+–2,782
+–10.8%
+Daily average
+–622
+–1.7%
+ 
+Exports – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+−3,870
+ −11.8%
+Daily average
+–2,748
+–6.1%
+Month average
+–1,690
+–3.8%
+Year average
+–731
+–1.9%
+2 
+Note that Britain has no inter-seasonal electricity storage, so we only report on half-hourly and daily records. Elexon and National Grid only report the output of large pumped hydro storage plants. 
+The operation of battery, flywheel and other storage sites is not publicly available.
+Drax Group plc
+Drax Power Station, Selby, North Yorkshire, YO8 8PH
+@Draxnews
+Imperial Consultants
+58 Prince’s Gate, Exhibition Road, London, SW7 2PG
+www.imperial-consultants.co.uk
+www.drax.com
+@ConsultImperial

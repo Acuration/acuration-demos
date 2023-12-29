@@ -1,0 +1,2028 @@
+The Progress Power
+(Gas Fired Power Station) Order
+Outline CEMP – GIS Variant
+Planning Act 2008
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009
+PINS Reference Number:
+EN010060
+Regulation Number:
+EIAR & r5(2)(a)
+Author:
+Parsons Brinckerhoff
+Revision
+Date
+Description
+0
+2
+December 2014
+Examination Version
+  December 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRESS POWER PROJECT 
+OUTLINE CONSTRUCTION 
+ENVIRONMENTAL MANAGEMENT 
+PLAN 
+ 
+Progress Power Ltd 
+ 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 5 - 
+CONTENTS 
+Page 
+1 
+INTRODUCTION 
+11 
+1.1 
+Overview 
+11 
+1.2 
+Purpose of this document 
+11 
+1.3 
+Project Description 
+12 
+2 
+OUTLINE CEMP – GENERAL INFORMATION 
+14 
+2.1 
+Register of Environmental Impacts 
+14 
+2.2 
+Risk Assessments 
+14 
+2.3 
+Method Statements 
+15 
+2.4 
+Site Environmental Standards 
+15 
+2.5 
+Environmental Management System 
+16 
+2.6 
+Public Relations 
+16 
+2.7 
+Monitoring and Measurement 
+17 
+2.8 
+Roles and Responsibilities 
+17 
+3 
+OUTLINE CEMP – SPECIFIC MEASURES 
+19 
+3.1 
+Introduction 
+19 
+3.2 
+Noise and Vibration 
+19 
+3.3 
+Air Quality 
+21 
+3.4 
+Pollution and Groundwater 
+25 
+3.5 
+Surface Water 
+30 
+3.6 
+Ecology 
+30 
+3.7 
+Landscape and Visual Impacts 
+31 
+3.8 
+Archaeology / Cultural Heritage 
+32 
+3.9 
+Artificial Lighting 
+32 
+3.10 
+Equestrian Management 
+33 
+4 
+CONCLUSIONS 
+33 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 7 - 
+GLOSSARY 
+ 
+Above Ground 
+Installation 
+AGI 
+The above ground installation incorporating the 
+minimum offtake and the PIG trap launching 
+facility together with the access as described in 
+Section 4 of this ES. 
+Best Practicable  
+Means 
+BPM 
+Best Practicable Means is a term applied with 
+regulations on limiting pollutant discharges 
+with regard to the abatement strategy. 
+Closed-Circuit 
+Television 
+CCTV 
+Closed-Circuit Television 
+Outline 
+Construction 
+Environmental 
+Management 
+Plan (CEMP): 
+CEMP 
+Refers to this document and provides an outline 
+of the main environmental considerations which 
+should be considered during construction of the 
+Project and considered further in the final CEMP. 
+Required CEMP 
+- 
+Refers to the CEMP required by the DCO as 
+defined by MSDC / SCC 
+Final CEMP 
+- 
+Refers to the CEMP produced by the main 
+contractor and agreed by MSDC / SCC 
+Construction Traffic 
+Management Plan 
+CTMP 
+Construction Traffic Management Plan involves 
+the management of pedestrians, vehicles and 
+equipment, which are located on- site. 
+DCO Application 
+- 
+The application for a DCO made to the Secretary 
+of State under section 37 PA 2008 in respect of 
+the Project, required pursuant to section 31 PA 
+2008 because the Project constitutes a 
+Nationally Significant Infrastructure Project under 
+section 14 (1)(a) and section 15 PA 2008 by 
+virtue of being an onshore generating station in 
+England or Wales of 50 MWe capacity or more. 
+Development 
+Consent Order 
+DCO 
+Consent by a UK Government Minister for a 
+Nationally Significant Infrastructure Project. A 
+DCO can incorporate or override the need for 
+a variety of consents which would otherwise 
+be required for a development, including 
+planning permission. A DCO can also include 
+rights of compulsory acquisition. A DCO is 
+made in the form of a Statutory Instrument. 
+The Developer 
+- 
+Means Progress Power Limited (PPL) 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 8 - 
+Draft DCO 
+- 
+The draft DCO which accompanies the DCO 
+Application (Document Number: 3.1) 
+Environment 
+Agency 
+EA 
+Executive Non-departmental Public Body 
+responsible to the Secretary of State for 
+Environment, Food and Rural Affairs. 
+Ecological 
+Management Plan 
+EcMP 
+Ecological Management Plan is a synthesis of all 
+proposed mitigate and monitoring actions, set to a 
+timeline with specific responsibility assigned and 
+follow-up actions defined. It is normally incorporated 
+as part of the Environmental Management Plan 
+(EMP), one of the most important outputs of the 
+environmental assessment process. 
+Electrical 
+Connection 
+ - 
+A new underground electrical cable 
+connection to export electricity from the 
+Power Generation Plant into the national 
+electricity transmission system. 
+Electrical 
+Connection Route 
+Corridor 
+ - 
+The route of the Electrical Connection. 
+Environmental 
+Health Officer 
+EHO 
+Environmental health officers make sure that 
+people's living and working surroundings are 
+safe, healthy and hygienic. 
+Environmental 
+Statement 
+ES 
+The final document which provides a 
+comprehensive discussion on the Environmental 
+Impact Assessment. 
+Gas Connection 
+- 
+A new underground gas pipeline connection to 
+bring natural gas to the Power Generation Plant 
+from the existing high pressure gas network NTS 
+in the vicinity of the proposed Project Site 
+including the above ground infrastructure (AGI) 
+for the gas pipeline at the point of connection to 
+the NTS, as well as a new permanent access to 
+the AGI (Works No. 3, 3B & 4 in the Draft DCO); 
+Gas Connection 
+Route Corridor 
+- 
+The route of the Gas Connection, including the site 
+of the AGI 
+and the new access to the AGI (Works No 4 in the 
+Works Plans). 
+Kilometres per Hour Km/h 
+Measurement of distance travelled over an hour. 
+Mega Watt 
+Electrical 
+MWe 
+Measurement of electrical power. 
+MIfA 
+MIfA 
+A Member of the Institute for Archaeologists 
+Nationally 
+Significant 
+Infrastructure 
+Project 
+NSIP 
+The Project constitutes a Nationally Significant 
+Infrastructure Project (NSIP) by virtue of 
+s.14(1)(a) and s.15 of the Planning Act 2008 (PA 
+2008) which include within the definition of a 
+NSIP any onshore generating station in England 
+or Wales of 50 MWe capacity or more. 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 9 - 
+National 
+Transmission 
+System 
+NTS 
+A network of gas pipelines throughout the United 
+Kingdom that supply gas to power stations from 
+natural gas terminals situated on the coast, and 
+also gas distribution companies which lead 
+indirectly to homes. 
+Personal Protective 
+Equipment 
+PPE 
+Personal protective equipment refers to protective 
+clothing, helmets, goggles, or other garments or 
+equipment designed to protect the wearer's body 
+from injury. 
+Planning Act 2008 PA 2008 
+UK legislation which passes responsibility for 
+dealing with development consent applications 
+for NSIPs to the Planning Inspectorate , who will 
+examine applications and make 
+recommendations for a decision by the relevant 
+Secretary of State (the Secretary of State for 
+Energy and Climate Change in the case of 
+energy NSIP applications). 
+Power Generation 
+Plant 
+- 
+A SCGT gas fired ‘peaking’ power generating 
+plant capable of providing up to 299 MWe (Work 
+No. 2 in the Draft DCO); 
+Power Generation 
+Plant Site 
+- 
+The site of the Power Generation Plant. 
+Project 
+- 
+The Power Generation Plant, the Electrical 
+Connection and the Gas Connection together. 
+Project Site 
+- 
+The site of the Project corresponding to the Order 
+Limits of the Draft DCO. 
+Simple Cycle Gas 
+Turbine 
+SCGT 
+A Simple Cycle Gas Turbine is a type of gas 
+turbine most frequently used in the power 
+generation, aviation, and oil and gas industry 
+(electricity generation and mechanical drives). The 
+simple cycle gas turbine differs from a combined 
+cycle operation in that it has only one power cycle 
+(ie. no provision for waste heat recovery). 
+Site of Importance 
+for Nature 
+Conservation 
+SINC 
+A Site of Importance for Nature Conservation 
+SHE Officer 
+- 
+The site safety, health and environment officer 
+Secretary of State 
+for Energy and 
+Climate Change 
+SoS 
+Her Majesty's Principal Secretary of State for 
+Energy and Climate Change is a British government 
+cabinet position. 
+Works Plans 
+ 
+Plan showing the numbered works referred to in 
+the Draft DCO (Document Number: 2.7); 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 10 - 
+ 
+ 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 11 - 
+ 
+ INTRODUCTION 
+1
+ 
+ Overview 
+1.1
+1.1.1 
+Progress Power Limited (PPL) is making an application for a 
+Development Consent Order (DCO) to the Secretary of State for Energy 
+and Climate Change (SoS). The DCO will authorise PPL to construct 
+and operate a new 299 megawatt electrical (MWe) simple cycle gas 
+turbine (SCGT) Power Generation Plant together with integral Gas and 
+Electrical Connections (hereafter referred to as ‘the Project’). The Power 
+Generation Plant will be located at the former Eye Airfield, Suffolk. 
+ 
+Purpose of this document 
+1.2
+1.2.1 
+This document provides an outline from which a final Construction 
+Environmental Management Plan (CEMP) will be produced which will 
+govern the construction works (including site preparation/demolition) 
+associated with the Project for all contractors. This document will be 
+hereafter referred to as the ‘outline CEMP’. This outline CEMP is 
+informed by the Environmental Statement (ES) and associated DCO 
+documents. 
+1.2.2 
+Schedule 2 of the DCO includes a requirement to approve CEMP(s) in 
+a staged manner by the local planning authority, namely Mid Suffolk 
+District Council (MSDC), prior to the commencement of any works. 
+Such CEMP(s)) will be developed after any grant of a DCO, in 
+conjunction with, or by, the main contractor/s appointed for such works 
+once the timescales for the detailed implementation are defined. 
+1.2.3 
+The final CEMP should consider the following: 
+ 
+Complaints procedures; 
+ 
+Nuisance management including measures to avoid or minimise the 
+impacts of construction works (covering dust, noise, vibration and 
+lighting); 
+ 
+Lighting; 
+ 
+Waste management; 
+ 
+Surface and ground water mitigation measures; 
+ 
+Procedure in the event significant archaeological remains are 
+encountered; 
+ 
+Landscape and visual impact mitigation (such as retention of 
+existing trees and minimising visual intrusion of construction works 
+ 
+Security measures; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 12 - 
+ 
+Traffic and Transport mitigation measures (such as a Construction 
+Traffic Management Plan (CTMP)) prepared by the main 
+contractors); and 
+ 
+Ecological mitigation measures (such as an EcMP) 
+1.2.4 
+In considering these environmental matters the final CEMP will provide 
+information on: 
+ 
+A register of environmental aspects [the effects of the Scheme]; 
+ 
+Roles and responsibilities; 
+ 
+Communication and co-ordination; 
+ 
+Training and awareness; 
+ 
+Operational control; 
+ 
+Checking and corrective action; and 
+ 
+Environmental control measures. 
+1.2.5 
+The final CEMP will fall within the scope of the main contractor’s 
+externally certified international environmental management systems, 
+and as such will be subject to independent audits by the relevant 
+certification bodies. 
+1.2.6 
+This outline CEMP provides sufficient information, based on best 
+practice guidance and mitigation measures in the ES to act as a 
+framework for the final CEMP and to provide assurance to the decision 
+maker and stakeholders that all appropriate measures will be taken 
+forward to the construction phase. 
+ 
+Project Description 
+1.3
+1.3.1 
+The Power Generation Plant will operate as a Simple Cycle Gas Turbine 
+(SCGT) peaking plant and has been designed to provide an electrical 
+output of up to 299 Megawatts electrical (MWe). The plant will be fuelled 
+by natural gas. 
+1.3.2 
+The three main elements of the Project comprise: 
+ 
+A new Power Generation Plant, a SCGT gas fired power 
+generating station capable of providing up to 299 MW, incorporating 
+up to five gas turbine generators (GTG) with up to five exhaust gas 
+flue stacks. 
+ 
+A new electrical connection, (referred to as the Electrical 
+Connection) to export electricity from the Power Generation 
+Plantto the National Grid Transmission System. This element 
+incorporates a new underground cable circuit connection (the 
+Cable), and a new access road (the Access Road), with a new 
+road junction off the A140 (the A140 Junction), and a new Electrical 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 13 - 
+Connection 
+Compound 
+comprising 
+a 
+new 
+substation 
+(the 
+Substation) and sealing end compound (the Sealing End 
+Compound); and 
+ 
+A new gas pipeline connection (referred to as the Gas Connection) 
+to bring natural gas to the Power Generation Plant from the NTS in 
+the vicinity of the Project Site. This element incorporates an above 
+ground installation (AGI) at its southern end and a new access road 
+off Potash Lane. 
+1.3.3 
+The Power Generation Plant, Gas Connection and Electrical Connection 
+together are referred to as the Project. 
+1.3.4 
+The Project constitutes a Nationally Significant Infrastructure Project 
+(NSIP) by virtue of section 14 (1)(a) and section 15 of the Planning Act 
+2008 (PA 2008) which includes within the definition of an NSIP any 
+onshore generating station in England or Wales of 50 MWe capacity or 
+more. Under section 31 PA 2008 a development consent order (DCO) is 
+required to develop a NSIP. Under section 37 PA 2008 this can only be 
+granted if an application is made for it to the Secretary of State (SoS) 
+(the DCO Application). 
+1.3.5 
+This outline CEMP is part of a suite of documents which accompany 
+the DCO Application and should be read in conjunction to gain a fuller 
+understanding of the Project. 
+ 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 14 - 
+ 
+OUTLINE CEMP – GENERAL INFORMATION 
+2
+ 
+Register of Environmental Impacts 
+2.1
+2.1.1 
+A register of Environmental Impacts is required to be produced as part 
+of the CEMP. This Register would be used to inform the environmental 
+procedures and provide a tool for construction teams when preparing 
+construction method statements or field briefings. This register would 
+also comprise the various risks identified in the Environmental 
+Statement (ES) and would be regularly updated to reflect any additional 
+risks resulting from the main contractor/s selected methods of working, 
+changing site conditions etc. Risks would be identified under the 
+following general headings: 
+ 
+Noise & Vibration; 
+ 
+Air Quality & Emissions; 
+ 
+Geology & Soils; 
+ 
+Water Quality, Drainage & Hydrology; 
+ 
+Landscape and Visual Impacts; 
+ 
+Ecology; 
+ 
+Traffic and Transport; 
+ 
+Health and Waste; 
+ 
+Archaeology and Cultural Heritage; and 
+ 
+Combined Impacts. 
+ 
+Risk Assessments 
+2.2
+2.2.1 
+All activities undertaken on-site would be subject to an environmental 
+risk assessment. Environmental risk assessments would be undertaken 
+by trained staff following an approved procedure which will: 
+ 
+Identify potential environmental impacts that can be anticipated; 
+ 
+Assess the risks from these impacts; 
+ 
+Identify the control measures to be taken and re-calculate the risk; 
+and 
+ 
+Report where an unacceptable level of residual risk is identified so 
+that action can be taken through design changes, re-scheduling of 
+work or alternative methods of working in order to reduce the risk to 
+an acceptable level. 
+2.2.2 
+The results of risk assessments, and their residual risks are only 
+considered acceptable if: 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 15 - 
+ 
+The severity of outcome is reduced to the lowest practical level; 
+ 
+The number of risk exposures are minimised; and 
+ 
+All reasonably practical mitigating measures have been taken and 
+the residual risk rating is reduced to a minimum. 
+2.2.3 
+The findings of the risk assessment and in particular the necessary 
+controls would be explained to all contractors before the commencement 
+of the relevant works using an agreed instruction format (e.g. Toolbox 
+Talks). 
+ 
+Method Statements 
+2.3
+2.3.1 
+Method statements would be completed by the main contractor or sub- 
+contractor by trained engineers or other appropriately experienced 
+personnel, in consultation with on-site staff and, where necessary, 
+environmental specialists. Their production would include a review of 
+the environmental risks and commitments, so that appropriate control 
+measures are developed and included within the construction process. 
+2.3.2 
+Method statements would be reviewed by the main contractor or sub 
+contractor’s appointed environmental manager and, where necessary, 
+by an appropriate environmental specialist. Where required, method 
+statements would also be submitted to the enforcement agencies 
+(Environment Agency, Environmental Health Officer etc.). Method 
+statements would most likely contain the following: 
+ 
+Location of the activity and access/egress arrangements; 
+ 
+Work to be undertaken and methods of construction; 
+ 
+Plant and materials to be used; 
+ 
+Labour and supervision requirements; 
+ 
+Health, safety and environmental considerations; and 
+ 
+Any permit or consent requirements beyond those already obtained 
+(including the DCO). 
+ 
+Site Environmental Standards 
+2.4
+2.4.1 
+Site Environmental Standards would be agreed with the main contractor 
+and would detail the minimum measures that should be achieved for 
+general operations falling outside the risk assessment/method statement 
+procedure. The site environmental standards would be designed to 
+cover the majority of construction activities in accordance with the ES 
+submitted with the application and requirements associated with the 
+DCO. 
+2.4.2 
+These will cover issues such as storage of materials, management of 
+waste, noise and vibration, and water pollution control. The standards 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 16 - 
+will be printed on A3 posters, placed on site notice boards and used as 
+a briefing tool on site. These standards will also form the basis of 
+Toolbox talks which will inform all contractors working on site of the 
+potential environmental risks arising from construction activities. 
+2.4.3 
+Best practice construction site management techniques will be 
+implemented to avoid/minimise the generation of excessive waste, dust, 
+noise, lighting, noise and vibration, in accordance with the ES and 
+relevant requirements associated with the DCO. These are discussed 
+in more detail in Section 3 of this document. 
+ 
+Environmental Management System 
+2.5
+2.5.1 
+Following construction, an Environmental Management System for 
+commercial operation will be developed and contained within the overall 
+Business Management System prepared by the operator and designed 
+to comply with ISO 14001 or an equivalent recognised standard. 
+2.5.2 
+Implementation of ISO 14001 is a Key Strategy for PPL and the use of 
+an Environmental Management Plan for commissioning based on 
+ISO14001 (or similar) will be used to support implementation and 
+compliance with the DCO and the Environmental Permit that will be 
+required for operation of the Project under the Environmental Permitting 
+(England and Wales) Regulations 2011. All operational staff for the 
+Project will be given comprehensive environmental awareness training 
+as part of this process. 
+2.5.3 
+During the commissioning phase of the Project, PPL will require its 
+environmental and compliance procedures to be implemented and used 
+by the main contractor and the operator. 
+ 
+Public Relations 
+2.6
+2.6.1 
+The following steps will be taken to make the public aware of the 
+activities on site and the available lines of communication with PPL: 
+ 
+A Community Liaison Group will be set up to include members of 
+the Local Community and Councils. PPL suggest that the 
+Community Liaison Group invite a member of the British Horse 
+Society to be one of their number; 
+ 
+Neighbouring occupiers will be notified of the start of site works and 
+the likely duration of the overall demolition and construction phases; 
+ 
+A telephone number for environmental complaints will be published 
+local to the site. The site safety, health and environment (SHE) 
+officer will be responsible for dealing with any complaints and will 
+have the appropriate authority to resolve any issues that may occur. 
+The SHE and Site Managers out of office contact details will be 
+available at all times; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 17 - 
+ 
+The SHE officer will maintain a close liaison with the council’s 
+Environmental Health Officer (EHO) at all times; 
+ 
+Should any complaints regarding dust, noise or light be received 
+by the SHE officer the details will be passed to the EHO for 
+verification purposes; and 
+ 
+Should any unforeseen event occur within the construction site that 
+has the potential to cause off-site pollution then the SHE officer will 
+immediately notify the EHO by phone and e-mail. As far as possible 
+notice will be issued to the EHO for dealing with an unforeseen 
+activity which may give rise to a particular dust problem. 
+ 
+Monitoring and Measurement 
+2.7
+2.7.1 
+Weekly site inspections will be carried out which will assess the potential 
+for environmental emergency situations to arise on the site. Additionally 
+the main contractor will assess the potential for environmental incidents 
+on a daily basis across the site. Particular notice will be taken during 
+and following extreme weather events, when working in areas of known 
+contamination, and when particularly hazardous activities are being 
+carried out. Method Statements will be required where the risk 
+assessment has identified a significant risk to the environment. 
+2.7.2 
+In the event of any environmental incident the most senior 
+representative of the main contractor will take the role of the responsible 
+person and will take charge of the situation. Where possible, the 
+responsible person will take immediate steps to eliminate the impact on 
+the environment and mitigate/minimise any environmental damage. 
+ 
+Roles and Responsibilities 
+2.8
+2.8.1 
+Suggested specific roles and responsibilities for the implementation of 
+the final CEMP are described below: 
+PPL Project Director 
+2.8.2 
+The PPL Project Director would have overall responsibility for 
+environmental performance throughout the construction period and will 
+ensure 
+that 
+appropriate 
+resources 
+are 
+made 
+available 
+and 
+environmental control and any agreed or appropriate protection 
+measures are implemented. 
+Environmental, Health & Safety Management 
+2.8.3 
+The Site Manager would be appointed the responsibility for co-ordinating 
+and managing all the environmental activities during the construction 
+phase. The role would involve will carrying out the following duties: 
+ 
+Develop and review the CEMP and specialist procedures; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 18 - 
+ 
+Lead the appointment of construction environmental specialists; 
+ 
+Ensure delivery of environmental training to personnel within the 
+project team; 
+ 
+Monitor 
+construction 
+activities 
+and 
+performance 
+to 
+ensure 
+compliance with the CEMP and that identified and appropriate 
+control measures are being effective; 
+ 
+Act as a main point of contact between the regulatory authorities and 
+the project on environmental issues; 
+ 
+Monitor construction activities and performance to ensure control 
+measures are effective; 
+ 
+Maintain full records of the progress of the Environmental Works; 
+ 
+Implement an auditable environment record system; 
+ 
+Maintain regular contact and liaison with the Environmental 
+Specialists; 
+ 
+Carry out audits as required by the CEMP; 
+ 
+Ensure compliance with Duty of Care at all times; and 
+ 
+Implement and monitor measures to ensure correct waste 
+minimisation, segregation and disposal. 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 19 - 
+ 
+OUTLINE CEMP – SPECIFIC MEASURES 
+3
+ 
+Introduction 
+3.1
+3.1.1 
+This section outlines some of the specific design and mitigation 
+measures which will be used in the CEMP for the Project in order 
+to limit impacts on noise and vibration, air quality, contaminated land 
+and groundwater, ecology, archaeology and cultural heritage and 
+landscape and visual amenity. It will additionally outline the measures 
+to prevent impacts arising from artificial lighting. 
+ 
+Noise and Vibration 
+3.2
+3.2.1 
+This section outlines the potential sources of nuisance noise created by 
+construction works and the methods of mitigation proposed to 
+limit these impacts which should be adopted in a CEMP. 
+3.2.2 
+All construction activities will be undertaken in accordance with 
+requirements attached to the DCO and the recommendations of 
+BS5228 ‘Noise and Vibration Control on Construction and Open Sites’. 
+It details the legislative background to noise control, along with the 
+recommended procedures for effective liaison between developers, site 
+operators and local authorities. Methods of how to minimise the impact 
+of site noise on workers and local residents are also provided. 
+3.2.3 
+The main mitigation measure to limit impacts of nuisance noise on 
+human receptors is to ensure noise levels do not exceed the noise 
+thresholds set out in the ES (65 dBA daytime) and to undertake noise 
+monitoring during construction to make sure these agreed thresholds 
+are not breached. 
+3.2.4 
+In addition, construction works shall not take place outside the hours 
+of 07:00-19:00 Monday to Saturday, unless otherwise agreed with 
+MSDC/ SCC. 
+3.2.5 
+If works are required outside of these core construction hours 
+then method statements and risk assessments will be required to be 
+submitted to the local planning authority for approval. 
+3.2.6 
+To minimise the risk of noise complaints, the main contractor will 
+advise potentially affected residents of the works to be undertaken 
+outside of working hours. The residents will also be provided with a 
+point of contact for any queries or complaints. 
+3.2.7 
+The main contractor and all sub-contractors working on-site have 
+a general duty to take all reasonably practicable measures to minimise 
+nuisance from noise and vibration that has the potential to impact 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 20 - 
+on the local community or environment. To achieve this and avoid the 
+potential for construction works to give rise to consequences that 
+would otherwise be statutory nuisances (but for the provision of the 
+DCO), Best Practicable Means (BPM) as defined in section 79(9)(a) of 
+the Environmental Protection Act 1990 must be employed and the 
+following requirements will be complied with: 
+ 
+Appropriate 
+selection 
+of 
+plant, 
+construction 
+methods 
+and 
+programming. Only plant conforming with relevant national or 
+international standards, directives or recommendations on noise or 
+vibrations emissions will be used; 
+ 
+Construction plant will be operated and maintained appropriately, 
+having regard to the manufacturer’s written recommendations or 
+using other appropriate operation and maintenance programmes 
+which reduce noise and vibration emissions; 
+ 
+All vehicles and plant will be switched off when not in use; 
+ 
+Approved 
+routes 
+and 
+programming 
+for 
+the 
+transport 
+of 
+construction materials, spoil and personnel to reduce the risk of 
+increased noise and vibration impacts due to the construction of the 
+project; 
+ 
+Vehicle and mechanical plant used for the purpose of the 
+works should be fitted with effective exhaust silencers, to be 
+maintained in good working order and operated in such a manner 
+as to be maintained in good working order and operated in such 
+a manner as to minimise noise emissions. The contractor should 
+use plant items that comply with the relevant EU/UK noise limits 
+applicable to all equipment; 
+ 
+All ancillary plant such as generators, compressors and 
+pumps would be positioned so as to cause minimum noise 
+disturbance (e.g. as far away as practicable from residential 
+receptors). If necessary, temporary acoustic barriers or enclosures 
+would be provided; 
+ 
+The positioning of construction plant and activities to minimise 
+noise at sensitive locations; 
+ 
+Equipment that breaks concrete by munching or similar, rather than 
+by percussion, should be used as far as is practicable; 
+ 
+The use of mufflers on pneumatic tools; 
+ 
+Where practicable, rotary drills actuated by hydraulic or 
+electrical power should be used for excavating hard materials; 
+ 
+The use of non-reciprocating construction plant where ever 
+practicable; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 21 - 
+ 
+The use, where necessary, of effective sound reducing enclosures; 
+ 
+The targeting, where possible, of noisy work at times which 
+minimise disturbance; and 
+ 
+To prevent damage to adjacent structures, demolition and 
+construction activities will be carried out in accordance with Part 
+2 of BS 7385:1993 (Evaluation and Measurement for Vibration in 
+Buildings). 
+ 
+Air Quality 
+3.3
+3.3.1 
+Relevant air quality mitigation measures are outlined in Chapter 6 
+of the ES and in the Statement of Engagement of Section 79(1) of the 
+Environmental Protection Act 1990 (Document number: 5.5). However, 
+the following provides an outline of the processes which could be 
+employed in the final CEMP in order to reduce dust and exhaust 
+emissions during construction. 
+3.3.2 
+This section outlines the potential sources of air pollution created by 
+construction works and the methods of mitigation proposed to 
+limit these impacts which should be adopted in the final CEMP. The 
+following provides an outline of the processes which should be 
+employed in the final CEMP in order to reduce dust and exhaust 
+emissions during construction. 
+3.3.3 
+Construction/demolition activities associated with the greatest potential 
+for dust generation are: 
+ 
+Earthworks including excavation of topsoil, handling on site and 
+deposition; 
+ 
+Handling and storage of materials (including loading and 
+unloading); 
+ 
+Wind blow across disturbed/exposed site surfaces and materials; 
+and 
+ 
+Mechanical operations such as crushing, drilling, concrete mixing 
+and cutting. 
+3.3.4 
+In order to ensure the employment of BPM to minimise the risk 
+of adverse effects from construction dust and causing nuisance or 
+damage to flora and fauna specific control measures for limiting 
+nuisance dust and exhaust emissions during construction are as 
+follows: 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 22 - 
+Site Management 
+ 
+Records of dust and air quality complaints to be kept, including 
+likely causes and mitigation measures to reduce impacts if 
+appropriate; 
+ 
+Keep site perimeter, fences etc. clean.  
+Site Planning 
+ 
+Consideration of weather conditions, dust generating potential of 
+material to be excavated prior to commencement of works; 
+ 
+Plan site layout to maximise distance from plant/stockpiles etc. to 
+sensitive receptors; 
+ 
+Dusty materials should be removed from site as soon as possible. 
+Construction Traffic 
+ 
+Loads entering and leaving the site with dust generating potential 
+should be covered and wheel washing facilities made available; 
+ 
+No idling of vehicles; 
+ 
+Vehicles to comply with site speed limits (15mph on hard surfaces, 
+10mph on unconsolidated surfaces); 
+ 
+Water assisted sweeping of local roads to be undertaken if material 
+tracked out of site; and 
+ 
+Install hard surfacing as soon as practicable on site and ensure that 
+they are maintained in good condition. 
+Site Activities 
+ 
+Exposed soils should be revegetated as soon as practicable. Near 
+residential properties or sensitive ecosystems (<50m), use 
+hessian/mulches etc. where not possible to revegetate or cover 
+with topsoil; 
+ 
+Minimise dust generating activities, particularly near residential 
+receptors/sensitive ecosystems during prolonged dry, dusty 
+weather unless damping / other suppressants are used; 
+ 
+Ensure an adequate water supply to site and use water as dust 
+suppressant where applicable; 
+ 
+Ensure any site machinery is well maintained and in full working 
+order; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 23 - 
+ 
+Ensure equipment available for cleaning spills etc available at all 
+times; and 
+ 
+Sand and aggregates should be stored away from sensitive 
+receptors and screened/shielded. 
+Similarly concrete batching 
+should take place away from receptors. 
+ 
+To ensure that dust generated by construction works does not 
+exceed levels which could constitute a nuisance; 
+ 
+The prolonged storage of debris on-site, in temporary stockpiles will 
+be avoided. 
+ 
+Vehicles removing demolition or site clearance materials must have 
+their loads effectively sheeted on all sides. 
+ 
+Crushing of material for reuse, transportation or disposal should be 
+undertaken as far away as possible from sensitive receptors. 
+3.3.5 
+On-site burning of waste material will be forbidden. 
+3.3.6 
+The number of handling operations should be minimised, ensuring that 
+dusty material is not moved or handled unnecessarily. Fine material 
+should be delivered to site in bags. Drop heights must be kept to a 
+minimum. 
+3.3.7 
+Hard-standing areas for vehicles entering, parking and leaving the 
+Project Site should be provided, with wheel washing facilities at access 
+points where there is a risk of tracking mud onto local roads. Plant and 
+wheel washing will be carried out in a designated area of hardstanding 
+at least 10 m from a watercourse or surface water drain. Where this is 
+not possible alternative mitigation will be implemented. 
+3.3.8 
+The performance of the wheel washing system will be maintained 
+by the regular removal of settled sediment from within the sump. Run-
+off from this area will be collected in a dedicated sump and water will 
+be recycled/re-used wherever possible. Where recovery is not 
+possible, water from the sump system will be emptied to a 
+dedicated storage tank prior to its removal from site for authorised 
+disposal by a suitably licensed contractor. 
+3.3.9 
+Site roads should be cleaned regularly, and damped down if necessary 
+to prevent nuisance dust. Site vehicle movements should be kept to a 
+minimum and, where possible, restricted to paved haulage routes. 
+Vehicle speeds will be limited to 10 km/h. The idling of vehicles will be 
+kept to a minimum. 
+3.3.10 
+The main contractor will have responsibility on a day to day basis for 
+determining if either the nature of the activities on site or weather 
+conditions would be likely to result in the unacceptable transfer of dust 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 24 - 
+off site. In cases where this is anticipated, remedial action will be taken 
+to minimise emissions, including the application of appropriate control 
+measures, or if necessary, the temporary suspension of works. 
+3.3.11 
+Good site management practices during the construction works will 
+help to prevent the generation of airborne dust. It will be the 
+responsibility of the nominated main contractor and site manager to 
+ensure through the final CEMP that sufficient precautionary measures 
+to limit dust generation are in fact taken. 
+ 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 25 - 
+ 
+Pollution and Groundwater 
+3.4
+3.4.1 
+Desk based assessment of the area around the Project Site have 
+not revealed levels of contamination which are likely to pose a risk 
+to human health or cause a statutory nuisance. Intrusive ground 
+investigations will be undertaken at the Project Site prior to construction 
+which will further define the exact nature of ground conditions. 
+However, based on evidence to date, there are not anticipated to 
+be any significant issues with contamination at the Project Site. 
+3.4.2 
+Land under which the Project will be developed has remained as 
+undeveloped greenfield land and therefore there is low likelihood of 
+contamination. 
+3.4.3 
+Professional standards and guidance relating to contamination will 
+be consulted to provide advice on best practice mitigation measures 
+which will be employed during the construction/demolition phase of the 
+Project. 
+3.4.4 
+This multi-stage process is only to cover unexpected contamination. 
+3.4.5 
+Sensitive receptors are as follows:- 
+ 
+Construction workers (during excavation and works); 
+ 
+Site users; 
+ 
+Groundwater; and 
+ 
+Surface water bodies. 
+3.4.6 
+There is a small risk of construction workers coming into contact with 
+contaminated soils and groundwater during construction. 
+3.4.7 
+There will be no access to construction areas by the general 
+public. 
+3.4.8 
+The site will be secured to avoid unauthorised access and contact with 
+contaminated soil or groundwater. 
+3.4.9 
+In the case that unidentified contaminant “hotspots” showing visual of 
+olfactory evidence of contamination are discovered during construction 
+works, the following procedure will be applied: 
+ 
+Stop work immediately; 
+ 
+Report the discovery to the construction manager; 
+ 
+Seal off the area to contain the spread of contaminants; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 26 - 
+ 
+Clear the area to ensure there is nothing that could cause fire or 
+explosion; 
+ 
+Contact the regulator or local authority once it is confirmed that 
+contamination is found; 
+ 
+Arrange for testing to be carried out and agree changes to the 
+existing contamination strategy; and 
+ 
+Record details of the incident, including photos and relevant 
+information on the Environmental Incident Report Form. 
+3.4.10 
+Any material which is excavated and free from visual and 
+olfactory evidence of contamination will be stockpiled and tested for 
+metal (and other determinants) for reuse on site. Any soils which are 
+considered to be contaminated hotspots (either identified through 
+testing or through visual or olfactory evidence of contamination on site) 
+will be removed and disposed of by a suitably licensed contractor or 
+treated on-site. 
+3.4.11 
+All water from dewatering activities shall either be transported off site 
+by a suitably licensed contractor or treated on site. Any proposed 
+discharges to existing land drains (or other surface water bodies) will 
+be undertaken in accordance with the requirements of the EA 
+Regulatory Position Statement on temporary water discharges from 
+excavations. 
+3.4.12 
+Where soils are imported onto the site then they shall be subject to 
+testing to ensure contaminated soils are not being brought onto 
+the site. 
+3.4.13 
+Speed restrictions will be imposed onsite to minimise disturbance of 
+bare surfaces. Measures shall also be put into place to ensure that the 
+length of time bare surfaces are left exposed are minimised. 
+3.4.14 
+Precautions will be undertaken in accordance with the EA’s Pollution 
+Prevention Guidance to ensure that silt laden runoff, arisings or 
+chemicals are not allowed to enter watercourses. Measures will 
+include, testing of arisings to see whether they are suitable for reuse on 
+site, siting stockpiles well away from watercourses, covering stockpiles 
+in inclement weather, use of impermeable liners and use of fixing 
+agents. 
+3.4.15 
+Although the main contractor undertaking the works will be required to 
+produce a risk assessment and method statement detailing how 
+they will minimise the risk of coming into contact with potentially 
+contaminated materials, the following can be considered as a guide for 
+the final CEMP: 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 27 - 
+3.4.16 
+Compliance with the mitigation measures set out in the following 
+documents: 
+ 
+Protection of Workers and the general public during the 
+development of contaminated land (HSE 1991); and 
+ 
+If applicable, a guide to safe working on contaminated sites R132 
+(CIRIA 1996). 
+3.4.17 
+The use of deep bore soakaways (including boreholes or other 
+structures that bypass the soil layers) at the site carries groundwater 
+pollution risks and for surface water or effluent disposal are only 
+acceptable if it can be demonstrated that: 
+ 
+there are no other feasible disposal options such as shallow 
+soakaways (for surface water) or drainage fields/mounds (for 
+effluents) that can be operated in accordance with current British 
+Standards;  
+ 
+the system is no deeper than is required to obtain sufficient 
+soakage; 
+ 
+pollution control measures are in place; 
+ 
+a risk assessment demonstrates that no unacceptable discharge to 
+groundwater will take place, in particular that inputs of hazardous 
+substances to groundwater will be prevented; and 
+ 
+that there are sufficient mitigating factors or measures to 
+compensate for the increased risk arising from the use of deep 
+structures. Details of mitigation and procedures should be provided 
+through 
+the 
+preparation 
+of 
+the 
+Construction 
+Environment 
+Management Plan (CEMP), necessary to satisfy draft DCO 
+Requirement 11. 
+3.4.18 
+Work will be carried out in accordance with best practices and 
+safe working practices will be maintained. 
+3.4.19 
+Construction workers will wear appropriate personal protective 
+equipment (PPE) for the nature of works being undertaken. This will 
+involve standard site PPE, plus overall, gloves and eye protection. 
+3.4.20 
+Additional measures that will likely be taken are: 
+ 
+Eating, drinking and smoking will be limited to a designated ‘clean’ 
+area of the site; 
+ 
+Site welfare facilities will be made available; 
+ 
+All workers will be required to wash their hands and remove 
+overalls/boots when moving from ‘dirty’ to ‘clean’ areas of the site; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 28 - 
+ 
+Any soils excavated which are considered to be potentially 
+contaminated (e.g. visual or olfactory evidence) will be reported to 
+site management and left alone until their appropriate treatment. 
+Suitable training will be provided to site personnel to ensure the 
+correct identification of potentially contaminated soils by olfactory 
+means; and 
+ 
+Water inflows to excavated areas will be minimised by the use of 
+lining materials, good housekeeping techniques and by the control 
+of drainage and construction materials in order to prevent the 
+contamination of ground water. Site personnel will be made aware 
+of the potential impact on ground and surface water associated 
+with certain aspects of the construction works to further reduce the 
+incidence of accidental impacts. 
+ 
+Measures should be taken to avoid/minimise the potential for 
+fuel and chemical spills. A spill response procedure will also apply 
+on- site; and indicative procedure is shown in Insert 3.1 below. 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 29 - 
+Insert 3.1: Emergency Spill Response Procedure 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 30 - 
+ 
+Surface Water 
+3.5
+3.5.1 
+To ensure that there will be no discharges to any watercourses as a 
+result of construction activities at the Project Site, the following matters 
+should be included in the detailed CEMP: 
+ 
+Oil storage will be undertaken in accordance with the Control of 
+Pollution (Oil Storage) Regulations 2001. Storage tanks will be 
+located on an impervious base provided with bund walls to give 
+a containment capacity of the greater of 110 per cent of the 
+largest tank volume within the bund or 25 per cent of the total 
+storage capacity of all tanks within the bund. All valves and 
+couplings will be contained within the bunded area; 
+ 
+Any surface water which has the potential to be contaminated 
+by hydrocarbons (e.g. from car parks), which are used during the 
+construction phase, to be passed through oil interceptor(s) prior to 
+discharge; 
+ 
+Measures will be taken to ensure that no leachate, or any 
+surface water that has the potential to be contaminated, will be 
+allowed to enter directly or indirectly into any water course, 
+underground strata or adjoining land; 
+ 
+Provisions will be made so that all existing drainage systems 
+continue to operate; 
+ 
+Water inflows to excavated areas will be minimised by the use of 
+lining materials, good housekeeping techniques and by the control 
+of drainage and construction materials in order to prevent the 
+contamination of ground water. Site personnel will be made aware 
+of the potential impact on ground and surface water associated 
+with certain aspects of the construction works to further reduce the 
+incidence of accidental impacts; 
+ 
+Refuelling of construction vehicles and equipment will be restricted 
+to a designated area with properly designed fuel tanks and bunds 
+and suitable operating procedures; and 
+ 
+The British Standard Code of Practice for Earthworks BS 
+6031:1981 and British Standard Code of Practice for Foundations 
+BS 8004:1086 contains detailed methods that will be adopted 
+during construction. 
+ 
+Ecology 
+3.6
+3.6.1 
+Relevant works to protect/mitigate impacts on ecology and biodiversity 
+are described in more detail in the ES. The preparation of the CEMP 
+will be consistent with the best practice advice on CEMPs contained 
+within Chapter 10 of BS42020 (or its updates). Appropriate regard for 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 31 - 
+the protection of local habitats and protected species during the 
+construction works will be included within the CEMP and will 
+incorporate the following measures: 
+ 
+Work compounds and access tracks etc. will not be located in, or 
+adjacent to, areas that maintain habitat value; 
+ 
+Site fencing will be used to prevent access to areas outside 
+working areas, particularly in areas adjacent to features of 
+ecological value; 
+ 
+Procedures will be implemented to address site safety issues, 
+including storage of potentially dangerous materials; 
+ 
+Briefings 
+and 
+instruction 
+would 
+be 
+given 
+to 
+contractors 
+regarding the biodiversity issues associated with the site; and 
+ 
+Pollution prevention guidelines provided by the Environment 
+Agency (including but not limited to PPG01, PPG02, PPG03, 
+PPG05 and PPG06) would be followed to prevent pollution of water 
+courses by silt or chemicals. 
+3.6.2 
+An Ecological Clerk of Works will be appointed to undertake pre-
+construction ecological surveys, supervise vegetation clearance and be 
+available to advise the contractor and liaise with the County Ecologist 
+and Natural England should protected species be found or disturbed 
+during the construction process. 
+ 
+Landscape and Visual Impacts 
+3.7
+3.7.1 
+The following mitigation measures, as outlined in the ES will be 
+implemented during the construction phase in order to specifically limit 
+impacts on landscape and visual amenity of the surrounding area: 
+ 
+Land / vegetation clearance and occupation will be limited to the 
+minimum necessary for the works; 
+ 
+Temporary protection of trees and hedgerows and other vulnerable 
+features will be undertaken in accordance with BS5837:2012 or its 
+updates. Details of existing trees to be retained, with measures for 
+their protection, will be submitted for the approval of MSDC prior to 
+the 
+commencement 
+of 
+development 
+in 
+accordance 
+with 
+Requirement 5. An Arboricultural Clerk of Works will be appointed 
+to ensure protection measures are implemented and maintained 
+during construction and to liaise with MSDC Tree Officer as 
+required. ; 
+ 
+Temporary storage of soils and other material considered of value 
+for retention. Where practical stockpiles would be sited to screen 
+the construction works from highly sensitive receptors; 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 32 - 
+ 
+Construction areas will be laid out to minimise adverse impacts 
+arising from temporary structures, construction activities and 
+lighting; 
+ 
+Construction roads will use the same route as permanent access 
+roads where possible; 
+ 
+Use of construction site lighting outside normal working hours will 
+be restricted to the minimum necessary for workforce and public 
+safety, and for security. Directional luminaries will be used to limit 
+unwanted light spill; A detailed scheme of lighting for the 
+Construction period will be agreed with MSDC see 3.9 below. 
+ 
+Maintenance of tidy and contained site Compounds; 
+ 
+Temporal measures including the removal of all temporary 
+structures and stockpiles when no longer required, and prompt 
+reinstatement of construction areas; 
+ 
+Reinstatement of all agricultural land required temporarily during 
+construction, and a 5 year aftercare plan to seek to ensure land is 
+returned to its former productivity; and 
+ 
+Replacement of all trees, shrubs and hedgerows removed to 
+accommodate the utility Connections, subject to NG locational 
+planting constraints.  
+ 
+A detailed scheme for the restoration of land occupied during the 
+construction period will be agreed with the relevant local authority 
+ 
+The location and installation of the gas pipeline shall be such so as 
+to, wherever possible, minimise future constraints on planting as 
+indicated in the Eye Airfield Development Framework 
+ 
+Archaeology / Cultural Heritage 
+3.8
+3.8.1 
+An 
+assessment 
+of 
+the 
+potential 
+archaeological 
+and 
+cultural 
+heritage resource at the site has been undertaken as part of the ES.  
+3.8.2 
+Written Schemes of Investigation (WSI) have been prepared for the 
+further evaluation and excavation to be undertaken prior to the start of 
+construction.  
+ 
+Artificial Lighting 
+3.9
+3.9.1 
+The Project Site will require artificial lighting during construction to 
+provide a safe working site during hours of darkness. An Outline 
+Lighting Layout (Document number: 2.10) has been prepared to 
+support the DCO Application. The general design objectives that will 
+be used to ensure that adverse effects of lighting associated with 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 33 - 
+demolition and construction of the Project are minimised are listed 
+below: 
+ 
+Use appropriately designed luminaires for the task at hand; 
+ 
+Use louvres and shields to prevent undesirable light break-out; 
+ 
+Demolition and construction lighting should be directed away 
+from all sensitive receptors; 
+ 
+Preference should be given to several, lower lighting units 
+rather than tall, wide beam lighting units to illuminate large areas 
+as it will limit light trespass, glare and sky glow from the plant; 
+ 
+Vehicle lights should be properly directed (conforming to MOT 
+requirements) and lenses must be intact to prevent un-
+necessary glare and light intrusion; 
+ 
+Lighting should be reduced or switched off when not required 
+for safety purposes. Security lighting should be kept at the 
+minimum level needed for visual and security protection; and
+ 
+Motion sensitive lighting will be used in order to avoid 
+unnecessary lighting. 
+3.9.2 
+Arrangements for construction lighting following these principles should 
+be set out in the final CEMP, to be agreed with MSDC. 
+ 
+Equestrian Management 
+3.10
+3.10.1 
+Due to known equestrian activity in and around the villages to the west 
+of the A140, the safety of horses and their riders in the vicinity of the 
+Project Site must be a consideration, particularly during the 
+construction and decommissioning phases when traffic and plant 
+movements will be at their highest. 
+3.10.2 
+In order to ensure safety of horses and their riders, PPL will work with 
+SCC, MSDC, and the community liaison group (see section 2.6 above) 
+to agree a scheme of mitigation for horses and equestrians that is in 
+line with guidance produced by the British Horse Society. 
+3.10.3 
+The types of mitigation to be agreed may include: 
+ 
+Use of advance signage on the approach to the construction area 
+to provide warning to horse riders and equestrians (signage should 
+be of a suitable, secure type to ensure it does not pose a risk to 
+horse and rider safety, i.e. no loose, flapping boards of plastic), 
+ 
+Maintenance of sight lines, wherever practical, to  avoid sudden 
+exposure of equestrians to construction activities 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan  
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 34 - 
+ 
+Use of noise attenuation measures such as low level acoustic 
+screening in areas closest to equestrian routes, where practicable, 
+and subject to safety requirements relating to visibility and access. 
+ 
+The use of banks men to provide plant operators with warning of 
+approaching horses so that appropriate action can be taken (such 
+as stopping 20m from crossing points and turning off engines until 
+horses have passed). 
+ 
+Use of appropriate, secure fencing and gates to ensure horses 
+cannot stray into construction areas. 
+ 
+Instruction of construction staff regarding correct behaviour in close 
+proximity of horses and riders. 
+3.10.4 
+It is not anticipated that any special surfacing measures will be 
+required as the construction will only affect short sections of tarmac 
+road currently used by equestrians. This road is to be excavated, and 
+then reinstated to its original condition. In the event that temporary 
+surfaces are required, these will be designed to be compatible with 
+British Horse Society guidelines. 
+ 
+Protection of Historic Field Boundaries 
+3.11
+3.11.1 
+Temporary protection of historic field boundaries will be undertaken in 
+tandem with the temporary protection of trees and hedgerows. Historic 
+field boundaries within the Order Limits that are to be specifically 
+protected are identified in the Protected Field Boundaries Plan at 
+Appendix A. In addition, PPL commits to retain all historic field 
+boundaries within the Order Limits, other than the lengths that are 
+listed in Table 3.1. 
+3.11.2 
+Protective measures and working methodologies required in order to 
+protect the historic field boundaries that PPL has committed to 
+specifically protect or to retain (i.e. all historic field boundaries within 
+the Order Limits other than the lengths that are listed in Table 3.1 
+below) would be determined following: 
+ 
+the undertaking by PPL of an arboriculture assessment report of 
+the historic field boundaries to be impacted by the development; 
+ 
+the undertaking by PPL of a detailed site survey of the historic field 
+boundaries to be impacted by the development, such survey to 
+include a topographic survey, and preparation of a method 
+statement for the protection of retained boundaries and features in 
+liaison with SCC in order to agree  with SCC appropriate barriers, 
+ground protection and stand-off. 
+ 
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 35 - 
+3.11.3 
+Protective measures/working methodologies are likely to include, but 
+not be limited to, the following: 
+1. All field boundaries (FBs): Demarcate section of boundarie sto be 
+retained on the ground, using unique and readily visible materials 
+and erect appropriate signage, barriers, and ground protection at 
+agreed stand-off distance, prior to the commencement of 
+construction, so as to avoid accidental damage; 
+2. FBs 1,4,7,9,16,17: a) Demarcate section of boundaries to be 
+permanently removed on the ground, using unique and readily 
+visible materials and erect appropriate signage, prior to the 
+commencement of construction, so as to avoid exceeding agreed 
+lengths (see Table 3.1); b) Record sections of boundaries to be 
+removed in accordance with the archaeological WSI to be finalised 
+as part of the approval of the Written Scheme of Investigation 
+pursuant to Requirement 9 of the DCO; 
+3. FB9: a) Undertake a viability assessment of hedgerow coppicing on 
+FB9; b) undertake a viability assessment of plating over/bridging of 
+FB9 (GIS); 
+4. FB9: a) Following the viability assessments referred to in point 3 
+above,  and assuming a positive outcome to the viability 
+assessment demarcate section of boundary hedgerow to be 
+temporarily removed on the ground, using unique and readily visible 
+materials 
+and 
+erect 
+appropriate 
+signage, 
+prior 
+to 
+the 
+commencement of construction, so as to avoid compromising 
+agreed mitigation; b) coppice hedgerow along defined section, c) 
+plate/bridge over to create construction access across boundary, 
+and d) construction operations to be undertaken in accordance with 
+agreed working methodology (to be finalised as part of the approval 
+of the Final CEMP pursuant to Requirement 11 of the DCO); 
+5. All FBs: Appointment of Archaeological Monitor to ensure protection 
+measures are implemented and maintained during construction and 
+to liaise with SCC.  Archaeological Monitor would regularly inspect 
+all identified historic boundaries throughout the construction phase i) 
+to assess for signs of deterioration or accidental damage, ii) to 
+assess the adequacy and effectiveness of the protective measures 
+and working methodologies, and iii) to review/amend them, as 
+necessary.  
+Progress Power Project Outline Construction
+Environmental Management Plan
+PPL CEMP GIS.docx
+Prepared by Parsons Brinckerhoff
+December 2014
+for Progress Power Limited
+- 36 -
+Table 3.1 - Field Boundary lengths to be removed during
+construction/operation
+FB
+Boundary
+components
+FB Length
+Removal
+Construction
+FB Length Removal
+Operation
+01 
+H, Ewk, Bg 
+Limited to c.10m
+(c.5m for Access
+Road, c.5m for
+Cable and
+drainage etc)
+Limited to c.10m (c.5m for
+Access Road, c.5m for
+Cable and drainage etc)
+04 
+Ewk, Bg
+Limited to c.20m 
+Limited to c.10m (c.5m for
+Access Road, c.5m for
+Cable and drainage etc)
+07 
+H, Ewk, Bg 
+Limited to 10m
+(Bg only – as gap
+in H and Ewk will
+be used)
+Limited to 10m (Bg only – as
+gap in H and Ewk will be
+used)
+09 
+H, Ewk, Bg 
+Cable: 30m
+(including 10m
+temporary
+coppicing).
+Access: 5m
+Total: 30m
+Cable: 20m
+Access: 5m
+Total: 25m
+16 
+H, Ewk, Bg 
+c.6m
+c.6m
+17 
+H, Ewk, Bg 
+c.13m
+Due to reinstatement
+pursuant to requirement
+6(3), this boundary will be
+replanted.
+H = Hedgerow, Ewk = Earthwork, Bg = Belowground asset
+CONCLUSIONS
+4
+4.1.1
+This outline CEMP provides a framework on which the construction
+contractor should base a more detailed CEMP.
+4.1.2
+Mitigation measures have been outlined to limit impacts of noise levels,
+air quality, contaminated land and groundwater, ecology, archaeology
+and cultural heritage, landscape and visual amenity and artificial
+lighting. These mitigation measures should be taken forward for further
+consideration when preparing the detailed CEMP.
+4.1.3
+It has also outlined a series of general best practice principles which
+should be adhered to, including; a register of environmental impacts,
+the production of risk assessments and Method Statements, the
+adherence to Site Environmental Standards, the production of an
+operations Environmental Management System, dealing with Public
+ 
+ 
+Progress Power Project Outline Construction 
+Environmental Management Plan 
+ 
+PPL CEMP GIS.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 37 - 
+Relations, the monitoring and measurement of construction activities 
+and the roles and responsibilities of key site staff. 
+LEGEND
+DENOTES ORDER LIMITS
+0
+50
+SCALE 1:1000
+m
+100
+DENOTES BOUNDARY/HEDGEROW GAPS
+DENOTES FIELD BOUNDARY JUNCTIONS
+DENOTES REMAINING HISTORIC FIELD BOUNDARIES
+DENOTES REMOVED HISTORIC FIELD BOUNDARIES
+LEGEND
+Project Number:
+Revision:
+Date:
+Scale:
+Sheet:
+Designed:
+Drawn:
+Approved:
+Checked:
+Title:
+Site/Project:
+Client:
+��������������������������������
+Drawing Number:
+Tel:
+44-(0)161-200-5000
+Fax:
+44-(0)161-200-5001
+App
+Chk
+By
+Description
+Date
+Rev
+A1
+Manchester Technology Centre
+Oxford Road
+Manchester M1 7ED
+Plot Date: 18/12/2014 15:55:05
+G:\GROUPS\Projects\3512438A - Stag Energy NGET Generation applications\CAD Drawings\3512438B020-L016_P1_GIS Field Boundaries - protected.dwg
+File Name:
+Project Number:
+Revision:
+Drawing Number:
+Padley, Matthew
+Login:
+PROGRESS POWER
+PROJECT
+APPENDIX A
+GIS VARIANT
+PROTECTED BOUNDARIES
+PLAN
+M.PADLEY
+MP
+A. GREGORY
+C. HENNESEY
+As shown
+3512438B
+P1
+INDICATIVE
+3512438B
+3512438B/L/0016
+P1
+09/12/2014
+(c) Crown copyright, All rights reserved. 2013. License number 0100031673
+P0
+17/12/14
+Preliminary
+MP
+AG
+CH
+P1
+19/12/14
+Note added & minor mods
+MP
+AG
+CH
+BOUNDARIES TO BE PROTECTED
+Notes
+1.
+Table 3.1 of the Outline CEMP specifies
+the maximum length of remaining
+historic field boundary which can be
+removed.

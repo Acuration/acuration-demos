@@ -1,0 +1,1385 @@
+Chapter 4
+Approach to Environmental Impact
+Assessment
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-1 
+ 
+CONTENTS 
+4. 
+Approach to Environmental Impact Assessment ................................................ 2 
+4.1 Introduction ............................................................................................... 2 
+4.2 EIA Regulations ......................................................................................... 2 
+4.3 Environmental Impact Assessment ........................................................... 4 
+4.4 Environmental Baseline ............................................................................. 9 
+4.5 Assessment Methodology ....................................................................... 10 
+4.6 Assumptions and Limitations ................................................................... 14 
+4.7 Cumulative and In-Combination Effects .................................................. 15 
+4.8 Residual Effects ...................................................................................... 22 
+4.9 Consultation and Engagement ................................................................ 23 
+4.10 References .............................................................................................. 24 
+ 
+TABLES 
+Table 4-1: Compliance with EIA Regulations .............................................................. 2 
+Table 4-2: Items Scoped out of the EIA ...................................................................... 6 
+Table 4-3: Generic Guidelines for the assessment of value/ sensitivity ..................... 11 
+Table 4-4: Generic Guidelines for the assessment of magnitude ............................. 12 
+Table 4-5: Classification of effects ............................................................................ 12 
+Table 4-6: Projects considered with the cumulative assessment .............................. 16 
+ 
+FIGURES 
+Figure 4.1: Developments to be Considered in Cumulative Assessment 
+ 
+APPENDICES 
+Appendix 4.1: Scoping Report 
+Appendix 4.2: Scoping Opinion 
+Appendix 4.3: Consultation Responses 
+ 
+ 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-2 
+ 
+4. 
+Approach to Environmental Impact Assessment 
+4.1 
+Introduction 
+4.1.1 
+The purpose of this chapter is to provide a more detailed description of the EIA 
+process, as well as outlining the methodology and relevant guidance used to 
+undertake the preliminary EIA and the structure of the remainder of this PEIR.  
+4.2 
+EIA Regulations  
+4.2.1 
+The Infrastructure Planning (Environmental Impact Assessment) Regulations 2009 
+(the ‘EIA Regulations’) require an EIA to be carried out in respect of any 
+development listed in Schedule 1 to the EIA Regulations (‘Schedule 1 
+development’). The Project is a Schedule 1 development as it is a thermal 
+generating station with a heat output1 of 300 MW or more as listed in Schedule 1, 
+paragraph 2(1) of the EIA Regulations.   
+4.2.2 
+The Project falls under the EIA Regulations and not the Infrastructure Planning 
+(Environmental Impact Assessment) Regulations 2017 (EIA Regulations 2017). 
+This is because a scoping opinion was requested from the Secretary of State under 
+the EIA Regulations before the commencement of the EIA Regulations 2017. This 
+means that, in accordance with the transitional arrangements at Regulation 37 of 
+the EIA Regulations 2017, the EIA Regulations will continue to apply to the Project. 
+a) Compliance with EIA Regulations 
+4.2.3 
+The information to be included in an ES is set out in Schedule 4 of the EIA 
+Regulations. Part 1 of the Schedule details the information that the applicant can 
+reasonably be required to provide, whilst Part 2 identifies the information that the 
+applicant must provide. This information is highlighted in Table 4-1 below, which 
+also provides confirmation of where the information is provided within this PEIR. 
+Table 4-1: Compliance with EIA Regulations 
+Required Content of Environmental Statements 
+Relevant Chapter of 
+this ES 
+Part 1 
+1. Description of the development, including in particular  
+(a) a description of the physical characteristics of the whole 
+development 
+and 
+the 
+land-use 
+requirements 
+during 
+the 
+construction and operational phases; 
+Chapter 3: Project Site 
+and Description 
+(b) a description of the main characteristics of the production 
+processes, for instance, nature and quantity of the materials 
+used; 
+Chapter 3: Project Site 
+and Description 
+(c) an estimate, by type and quantity, of expected residues and 
+emissions (water, air and soil pollution, noise, vibration, light, 
+Detail 
+provided 
+in 
+Technical Chapters 6 – 
+                                                                                                                     
+1 Thermal output is commonly defined as the amount of ‘useable heat’ which is produced as part of the process of the combustion of fuel. 
+Only a part of this useable heat can be converted to electrical energy, which is why this is a larger value than electrical output. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-3 
+ 
+Required Content of Environmental Statements 
+Relevant Chapter of 
+this ES 
+heat, radiation, etc.) resulting from the operation of the proposed 
+development. 
+15 
+2. An outline of the main alternatives studied by the applicant and 
+an indication of the main reasons for the applicant's choice, 
+taking into account the environmental effects. 
+Chapter 5: Alternatives 
+Considered.  
+3. A description of the aspects of the environment likely to be 
+significantly affected by the development, including, in particular, 
+population, fauna, flora, soil, water, air, climatic factors, material 
+assets, including the architectural and archaeological heritage, 
+landscape and the inter-relationship between the above factors. 
+Detail provided in the 
+Technical Chapters 6 – 
+15 
+4. A description of the likely significant effects of the development 
+on the environment, which should cover the  
+direct effects and any indirect, secondary, cumulative, short, 
+medium and long-term, permanent and temporary, positive and 
+negative effects of the development, resulting from: 
+(a) the existence of the development; 
+(b) the use of natural resources; 
+(c) the emission of pollutants, the creation of nuisances and  
+the elimination of waste, and the description by the applicant of 
+the forecasting methods used to assess the effects on the 
+environment. 
+Detail 
+provided 
+in 
+Technical Chapters 6 – 
+15 
+5. A description of the measures envisaged to prevent, reduce 
+and where possible offset any significant adverse effects on the 
+environment. 
+Detail 
+provided 
+in 
+Chapter 
+3, 
+Technical 
+Chapters 6 – 15 and 
+Chapter 16 (including 
+Mitigation Schedule – 
+Appendix 3.1) 
+6. A non-technical summary of the information provided under 
+Paragraphs 1 to 5 of this Part. 
+Separate Non-Technical 
+Summary Report 
+7. An indication of any difficulties (technical deficiencies or lack of 
+know-how) encountered by the applicant in compiling the 
+required information. 
+Detail 
+provided 
+in 
+Chapter 4 and Technical 
+Chapters 6 – 15 and 
+Mitigation 
+Schedule 
+(Appendix 3.1) 
+Part 2 
+1. A description of the development comprising information on the 
+site, design and size of the development. 
+Chapter 3: Project and 
+Site Description 
+2. A description of the measures envisaged in order to avoid, 
+reduce and, if possible, remedy significant adverse effects 
+Mitigation 
+detailed 
+in 
+Chapter 
+3, 
+Technical 
+Chapters 6 – 15 and 
+Chapter 16 
+3. The data required to identify and assess the main effects which Baseline data provided 
+in Technical Chapters 6 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-4 
+ 
+Required Content of Environmental Statements 
+Relevant Chapter of 
+this ES 
+the development is likely to have on the environment. 
+– 15 
+4. An outline of the main alternatives studied by the applicant and 
+an indication of the main reasons for the applicant's choice, 
+taking into account the environmental effects. 
+Chapter 5: Alternatives 
+Considered 
+5. A non-technical summary of the information provided under 
+paragraphs 1 to 4 of this Part. 
+Separate Non-Technical 
+Summary Report 
+4.3 
+Environmental Impact Assessment 
+4.3.1 
+EIA is the process of identifying, evaluating and, where possible, mitigating the 
+likely significant environmental effects of a proposed development. It promotes the 
+early identification and evaluation of the potentially significant environmental effects 
+of a proposed development and enables appropriate mitigation (that is measures to 
+avoid, reduce or offset significant adverse effects) to be identified and incorporated 
+into the design of a development, or commitments to be made to environmentally 
+sensitive construction methods and practices. 
+4.3.2 
+The results of the EIA also ensure that decision makers such as the SoS and 
+statutory consultees such as planning authorities, in this case CCS, as well as 
+other interested parties, including local communities, are aware of a Project’s 
+environmental effects. These are then taken into account by the decision-maker 
+prior to determination of an application for planning approval. 
+4.3.3 
+The main steps outlined in the PA 2008 and the EIA Regulations are as follows: 
+ 
+Production of a Scoping Report to identify the likely significant effects (scoped 
+in) and the proposed methodology for their assessment in line with relevant 
+legislation, guidance and methods, and justification for any significant effects 
+that are not likely (scoped out). The Scoping Report will also seek agreement of 
+study areas, data sources, survey methodologies and terminology; 
+ 
+Baseline surveys are undertaken to identify and describe the environmental 
+character of the area that could potentially be affected by the Project. Where 
+baseline data indicates major constraints to the Project, this information is to be 
+provided to the design team immediately; 
+ 
+Relevant natural and manmade processes that may change the character of 
+the site are identified; 
+ 
+Consideration is then given to the possible interactions between the 
+Development and both existing and future site conditions. These interactions or 
+impacts are assessed using set criteria based on accepted guidance and good 
+practice; 
+ 
+Using the initial designs of the Project, the likely significant environmental 
+effects, both direct and indirect, can be established;  
+ 
+Production of a Preliminary Environmental Information report for consultation 
+purposes; 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-5 
+ 
+ 
+Recommendations are made to avoid, minimise or mitigate adverse effects and 
+enhance positive effects. Alterations to the design will then be reassessed and 
+the significance of likely residual environmental impacts ascertained; and 
+ 
+Following statutory consultation, the results of the EIA in combination with the 
+responses to the Scoping Opinion will be set out in an ES that will accompany 
+the proposed DCO Application. 
+4.3.4 
+This PEIR summarises the environmental impact assessment undertaken to date 
+and has sought to address comments that were raised by consultees and 
+stakeholders during statutory consultation carried out under s42 and s47 of the PA 
+2008. These comments are addressed within each individual technical chapter as 
+necessary.  
+a) Scoping  
+4.3.5 
+Scoping involves focusing the EIA on those issues of greatest potential 
+significance. It is an important tool for identifying the likely significant environmental 
+effects of a project through its design, construction and operation and 
+decommissioning phases and ensures that appropriate mitigation options are 
+considered, where necessary. 
+4.3.6 
+APL requested a Scoping Opinion from the SoS in July 2014. The request was 
+supported by a Scoping Report that described the anticipated likely significant 
+environmental issues requiring detailed evaluation as part of the EIA process. The 
+formal Scoping Opinion was received in August 2014. It has allowed for agreement 
+on the potential likely significant environmental effects of the Project and, therefore, 
+the aspects of the environment on which the EIA should focus. 
+4.3.7 
+The Scoping Report and Opinion can be found on the Planning Inspectorate’s 
+website2 and APL’s website3 as well as at Appendix 4.1 and 4.2. APL’s responses 
+to the matters raised in the Scoping Opinion and later consultation and 
+engagement are set out in Appendix 4.3. 
+4.3.8 
+Further consultation with those organisations that commented on the Scoping 
+Report, as well as the Community Councils, was also carried out between August 
+2014 and January 2015 including: 
+ 
+Natural Resources Wales (NRW); 
+ 
+South and West Wales Wildlife Trust (SWWWT); 
+ 
+Abertawe Bro Morgannwy; 
+ 
+Civil Aviation Authority (CAA); 
+ 
+Ministry of Defence (MoD); 
+ 
+Cadw; 
+ 
+Brecon Beacons National Park Authority; 
+ 
+City and County of Swansea Council (CCS); 
+ 
+Network Rail; and 
+                                                                                                                     
+2 https://infrastructure.planninginspectorate.gov.uk/ 
+3 http://www.abergellipower.co.uk 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-6 
+ 
+ 
+The Coal Authority. 
+4.3.9 
+Regular meetings were held with CCS to discuss the progress of the application for 
+development consent and to consult with the different departments within CCS 
+including Environmental Health and ecology. 
+4.3.10 The consultation process has led to the general agreement with all organisations 
+that the preliminary EIA reported on in this PEIR will consider the following 
+environmental topics: 
+ 
+Air Quality; 
+ 
+Noise; 
+ 
+Ecology; 
+ 
+Landscape; 
+ 
+Water Quality and Resources; 
+ 
+Geology and Hydrogeology; 
+ 
+Traffic, Transport and Access; 
+ 
+Archaeology and Cultural Heritage; and 
+ 
+Socio-economics. 
+4.3.11 Chapter 15: Other Effects has also been included in the PEIR and covers issues 
+which are not covered within the standard topic chapters but which have emerged, 
+through the consultation process, as matters that need to be addressed. 
+4.3.12 Table 4-2 discusses the items that have been scoped out of the assessment, but 
+fall under the above topic areas. 
+Table 4-2: Items Scoped out of the EIA 
+Topic / Scope 
+Justification 
+Transboundary 
+Effects 
+Due to the design, proposed mitigation and implementation of best 
+practice measures, it is considered that there will be no significant 
+transboundary effects caused by the Project that will affect any other 
+European Economic Area State. A Transboundary Screening 
+assessment has been undertaken by the SoS which confirms this 
+approach. 
+Air 
+Quality 
+[Electrical or Gas 
+Connections] 
+No impacts on local air quality are anticipated from the operation of 
+the Electrical or Gas Connections and therefore this has not been 
+assessed. The SoS agreed with this approach in the Scoping Opinion 
+(paragraph 3.8, Appendix 4.3). 
+Vibration 
+The identified plant/equipment items to be used are not recognised 
+as sources of high levels of vibration and therefore operation and 
+decommissioning vibration has not been assessed. The SoS did not 
+disagree with this approach in the Scoping Opinion (Appendix 4.3). 
+Noise [Electrical or 
+Gas Connections] 
+The Gas and Electrical Connections will be buried underground and 
+therefore it is not anticipated that they will generate any noise or 
+vibration during operation. Therefore, these elements have not been 
+assessed. The SoS partly agreed with this approach in the Scoping 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-7 
+ 
+Topic / Scope 
+Justification 
+Opinion (paragraph 3.8, Appendix 4.2) but requested further 
+justification of the approach. Further justification is set out in Chapter 
+7: Noise and Vibration. 
+Landscape 
+[Gower 
+AONB] 
+The Gower AONB is physically remote from the Project Site, being 10 
+km away and visually separated from the Project Site by intervening 
+topography, and views are diminished by distance. It has therefore 
+been scoped out of the assessment due to the physical and visual 
+separation and this is shown on Figure 11.8.  
+Landscape [Brecon 
+Beacons 
+National 
+Park] 
+The Brecon Beacons National Park lies over 15 km to the north of the 
+Project Site and, due to the intervening distance, is both physically 
+and visually separate. Both protected landscapes have been scoped 
+out of the assessment due to the physical and visual separation. This 
+approach has been agreed with the Brecon Beacons National Park 
+Authority at the request of the SoS (paragraph 3.66, Appendix 4.3). 
+Water Quality and 
+Resources 
+[Electrical or Gas 
+Connections] 
+Effects on water quality and resources during operation and 
+decommissioning of the Gas and Electrical Connections are unlikely 
+to occur and have been scoped out of the chapter (Chapter 9: Water 
+Quality and Resources). Ground levels along the route corridor of 
+the Gas and Electrical Connections will be very similar to existing 
+levels and any ongoing maintenance will be negligible, as described 
+in Section 3.9. The impacts during the operation phase are therefore 
+considered to be limited to the presence of the trench if it has 
+different hydraulic properties to the surrounding natural ground. This 
+can be mitigated through careful selection and placing of bedding and 
+backfill material to try and match the natural ground as far as 
+possible. Transport of pollutants associated with previous land uses 
+is addressed in Chapter 10: Geology, Ground Conditions, and 
+Hydrogeology. 
+Water Quality and 
+Resources [AGI] 
+The AGI will have a small footprint and the design will include 
+appropriate SuDS measures for control and treatment of surface 
+water runoff in accordance with the drainage strategy for the Project 
+Site. There will be no effluent discharges for the Gas Connection. The 
+Gas Connection lies north of the Generating Equipment Site where 
+flood risks are low, and will be mitigated through raised ground levels 
+where necessary. No comments were received at Scoping stage 
+therefore this has been scoped out of the assessment.  
+Carbon 
+Capture 
+Readiness 
+With a rated electrical output of less than 300MW, the Project will be 
+below the threshold set out in Directive 2009/31/EC (as transposed 
+by The Carbon Capture Readiness (Electricity Generating Stations) 
+Regulations 2013) and NPS EN-1 and EN-2. Operators of 
+combustion plants which are above this threshold are required to 
+have assessed the feasibility of: a storage site, transport facilities and 
+economic considerations of the capture of CO2
+ produced as a result 
+of the combustion process. As a result it is not necessary to assess 
+the viability of CO2 capture in this PEIR. 
+ 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-8 
+ 
+b) Preliminary Environmental Information Report 
+4.3.13 Under Regulation 10(b) of the EIA Regulations the applicant must consult on 
+preliminary environmental information relating to the Project. In 2014, this 
+information was compiled into a Preliminary Environmental Information Report 
+(2014 PEIR) (Ref. 4.1), which provided the environment information collected part 
+of the way through the EIA process as well as an assessment, on a preliminary 
+basis, of the likely significant environmental effects of the Project. 
+4.3.14 The 2014 PEIR was compiled along with the 2014 PEIR NTS to accompany APL’s 
+statutory consultation with both the local community and prescribed consultees in 
+advance of submitting its DCO Application. 
+4.3.15 Feedback received during the consultation process has helped further inform and 
+refine the development of the design of the Project and the EIA process. More 
+detailed analysis of this will be included within the Consultation Report to be 
+submitted with the proposed DCO Application however a summary of a selection of 
+the main themes is as follows: 
+ 
+Site selection; 
+ 
+Landscape; 
+ 
+Transport and traffic; 
+ 
+Socio-economics; 
+ 
+Air quality and Noise; and  
+ 
+Water. 
+4.3.16 This PEIR has evolved from the 2014 PEIR. This PEIR includes an updated 
+preliminary environmental assessment and provides more information on how the 
+Project has developed since the Phase 1 consultation in 2014.  
+4.3.17 In order to aid the reader, this PEIR highlights where the technical assessments 
+have been updated, either as a result of the Project evolution and / or due to an 
+update in environmental baseline information which has been collated since 2014. 
+Within the Introduction section to each technical chapter, a short summary of any 
+changes which have been undertaken has been included where necessary.  
+Further detailed information on the design changes to the Project is included in 
+Chapter 5: Alternatives Considered.  
+4.3.18 All chapters provide a technical conclusion to the impact assessment in this PEIR. 
+However the following chapters provide a “Next Steps” section which identifies any 
+further or outstanding works which will be undertaken between the publication of 
+this PEIR and the DCO Application: 
+ 
+Chapter 8: Ecology 
+ 
+Chapter 11: Landscape & Visual;  
+ 
+Chapter 12: Traffic, Transport and Access; and 
+ 
+Chapter 13: Historic Environment.  
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-9 
+ 
+4.4 
+Environmental Baseline 
+4.4.1 
+In undertaking an EIA for any project, it is important to identify the environmental 
+baseline for the potential receptors which may be affected. This has allowed the 
+effects of the Project to be compared and/or combined with the existing baseline in 
+order to ensure an informed assessment of the potential effects of the Project and 
+to allow the identification of the most appropriate mitigation which could be 
+employed to minimise any identified likely significant adverse effects. 
+4.4.2 
+To establish the baseline, a study area that is appropriate for each assessment 
+topic is identified which takes into consideration the surrounding context and the 
+likely scale and range of potential significant effects. Next, a range of environmental 
+data has been gathered from a combination of sources in respect of the study area 
+in order to inform the preliminary assessment. This has included: 
+ 
+Documentary information on the Project Site, Gas Connection and Electrical 
+Connection, and their surroundings within each relevant study area, including 
+information available from the previous EIA work for other projects; 
+ 
+Field survey information, including: Phase 2 ecological surveys; landscape 
+character 
+assessments; 
+background 
+noise 
+levels; 
+ground 
+conditions/contaminated land assessments, location of sensitive receptors and 
+traffic levels on the road network; and 
+ 
+Data held by both statutory and non-statutory consultees. 
+4.4.3 
+It is anticipated that the construction of the Project will commence in early 2020. 
+The assessment has therefore used a '2020 baseline' to provide a future baseline 
+against which the assessment is undertaken. As such a number of developments 
+are considered in the assessment of effects, where those already have planning 
+permission and are expected to be constructed in the next three years. Cumulative 
+Projects have been agreed with CCS and are listed in Table 4-6. 
+4.5 
+Realistic Worst Case Scenario for Assessment 
+4.5.1 
+In accordance with PINS Advice Note 9 (Rochdale Envelope) (Ref. 4.2), the 
+assessments presented in the PEIR are based on an assessment of the realistic 
+'worst case' scenario arising from the Project parameters described in Table 3-3. 
+This allows flexibility for APL whilst ensuring that the likely significant environmental 
+effects are identified and adequately assessed. The realistic worst case scenario is 
+set out in each topic chapter for clarity and transparency. 
+4.5.2 
+Taking the above into consideration, it has been determined that for all topic areas 
+to be addressed in the EIA except air quality, the highest stack height (45 m) 
+represents the 'worst case'. For air quality the minimum stack heights of 35 m 
+represent the 'worst case' due to lower dispersion. The PEIR contains an 
+explanation in each chapter of why the scenario assessed represents the worst 
+case for that topic. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-10 
+ 
+4.5.3 
+For the assessment, it has been assumed that the Generating Equipment will 
+operate for a worst case of 2,250 hours per year in the noise and air quality 
+assessments, although actually running for 1,500 hours over an average of 5 years 
+In the noise assessment, it is assumed that the Generating Equipment will operate 
+at night to represent the worst case scenario. Where there is the possibility that 
+intermittent operation could give rise to more significant effects than continuous 
+operation (for example start-up noise) this has been considered in the noise and air 
+quality assessments, as well as disturbance to ecological receptors in the 
+ecological assessment. This issue is not relevant to any other topic chapters. 
+4.6 
+Assessment Methodology 
+4.6.1 
+Methodologies for each subject area are presented within each of the technical 
+chapters. These methodologies are based upon recognised good practice and 
+guidelines specific to each subject area, and take into account any consultation 
+responses relating to the methods used in the 2014 PEIR, the SoS Scoping 
+Opinion and any additional requirements that have been identified in connection 
+with the Project. 
+a) Assessment of Effects 
+4.6.2 
+The approach is broadly the same for all specialist topic areas with some variation 
+in the descriptions of assessment criteria. For each topic, the assessment of 
+significance will be informed by the sensitivity of the existing or baseline 
+environmental conditions or character, and the magnitude of the change to the 
+existing conditions or baseline character which occur as a result.  
+4.6.3 
+The determination of the significance of the likely environmental effects arising from 
+development is a key stage in the EIA process. To assess the overall significance of 
+an effect it is necessary to establish the magnitude of the effect occurring (i.e. the 
+change to the existing baseline conditions as a result of the Project) and the 
+sensitivity or importance of the receiving environment or receptor. Assessment of 
+significance for environmental topics will combine professional judgement with the 
+consideration of a number of factors including: 
+ 
+The probability of the effect occurring based on the scale of certain, likely or 
+unlikely; 
+ 
+The sensitivity and value of the resource or receptor under consideration; 
+ 
+The magnitude of the impact in relation to the degree of change which occurs 
+as result (which includes the duration of the effect – short medium or long 
+term); 
+ 
+Reversibility of the effect; 
+ 
+Comparison with legal requirements, policies and standards; and 
+ 
+Comparison with applicable environmental thresholds. 
+4.6.4 
+The value of the receptors is assessed according to the relative importance of 
+existing environmental features on or near to the site, or by the sensitivity of 
+receptors i.e. whether they are likely to be robust enough to be unaffected by the 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-11 
+ 
+Project or alternatively are highly susceptible to the type of effects likely to occur. 
+Criteria for the determination of sensitivity or value of receptors are established 
+based on approved guidance, legislation, statutory designation and/or professional 
+judgment. 
+i. 
+Sensitivity or value of Receptors 
+4.6.5 
+Table 4-3 provides general definitions of the sensitivity criteria used within the 
+assessment. In each specialist chapter of the PEIR, criteria will be explained with 
+reference to that particular discipline. 
+Table 4-3: Generic Guidelines for the assessment of value/ sensitivity  
+Value/ 
+sensitivity 
+Guidelines 
+Very High 
+The receptor has little or no ability to absorb change without fundamentally 
+altering its present character, is of very high environmental value, or of 
+international importance. 
+High 
+The receptor has low ability to absorb change without fundamentally altering 
+its present character, is of high environmental value, or of national 
+importance. 
+Medium 
+The receptor has moderate capacity to absorb change without significantly 
+altering its present character, has some environmental value, or is of 
+regional importance. 
+Low 
+The receptor is tolerant of change without detriment to its character, is low 
+environmental value, or local importance. 
+Negligible 
+The receptor is resistant to change and is of little environmental value. 
+ 
+ii. Magnitude of Effect 
+4.6.6 
+The magnitude of potential effects on environmental baseline conditions is 
+identified through consideration of the Project taking into account the scale or 
+degree of change from the existing situation as a result of the effect; and the 
+duration and reversibility of the effect, as well as consideration of relevant 
+legislative or policy standards or guidelines. 
+4.6.7 
+Table 4-4 provides general definitions of effect magnitude criteria. In each specialist 
+chapter of the PEIR, effect magnitude criteria will be explained with reference to 
+that particular discipline. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-12 
+ 
+Table 4-4: Generic Guidelines for the assessment of magnitude 
+Magnitude Guidelines 
+High 
+Total loss or major alteration to key elements/features of the baseline 
+conditions such that post development character/composition of baseline 
+conditions will be fundamentally changed. 
+Medium 
+Loss or alteration to one or more key elements/features of the baseline 
+conditions such that post development character/composition of the 
+baseline conditions will be materially changed. 
+Low 
+Minor shift away from baseline conditions. Changes arising from the 
+alteration 
+will 
+be 
+detectable 
+but 
+not 
+material; 
+the 
+underlying 
+character/composition of the baseline conditions will be similar to the pre-
+development situation. 
+Negligible 
+Very 
+little 
+change 
+from 
+baseline 
+conditions. 
+Change 
+is 
+barely 
+distinguishable, approximating to a “no change” situation. 
+ 
+iii. Assessment of Significance of Effects 
+4.6.8 
+The approach to the assessment of significance is outlined in Table 4-5. A 
+combination of the magnitude of the effect under consideration and the sensitivity 
+of the receiving environment determines the significance of effect. 
+4.6.9 
+It should be noted that this general approach is a framework and should not be 
+treated as a matrix. In each specialist chapter of the PEIR, significance of effects 
+will be explained with reference to that particular discipline. 
+Table 4-5: Classification of effects 
+Magnitude 
+ 
+Value and sensitivity of receptor 
+Very High 
+High 
+Medium  
+Low 
+Negligible 
+High 
+Major 
+Major 
+Moderate 
+Moderate 
+Minor 
+Medium 
+Major 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Low 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Negligible 
+Negligible 
+Minor 
+Minor 
+Negligible 
+Negligible 
+Negligible 
+4.6.10 The significance of the effects arising from the Project will be reported using a 
+seven-point scale, as follows: 
+ 
+Major Adverse; 
+ 
+Moderate Adverse; 
+ 
+Minor Adverse; 
+ 
+Negligible; 
+ 
+Minor Beneficial; 
+ 
+Moderate Beneficial; and 
+ 
+Major Beneficial. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-13 
+ 
+4.6.11 For some specialist topics, additional categories have been added where a greater 
+level of definition is required. 
+4.6.12 Effects predicted to be Minor Adverse or Negligible are considered to be 
+manageable and are therefore ‘Not Significant’. Effects assessed as Moderate 
+Adverse or Major Adverse are considered to be 'Significant'. 
+4.6.13 These classifications may differ between the specialist topic chapters, but where 
+this occurs, the variation will be explained clearly and fully. 
+iv. Types of Effect 
+4.6.14 Potential effects have been separated into three types based on the different 
+phases of development:  
+ 
+Construction Effects: These are effects that begin and end during the 
+construction phase of the Project. This covers the likes of the potential effects 
+of construction traffic, noise and vibration from construction, dust generation, 
+site runoff, mud on roads, risk of fuel/oil spillage, visual intrusion of machinery 
+on site for example. 
+ 
+Operational Effects: Operational effects are those long-term effects that would 
+occur as a result of the Project such as the land take associated with 
+permanent physical infrastructure as well as effects which occur as a result of 
+its operation. 
+ 
+Decommissioning Effects: Decommissioning effects are temporary, short 
+term effects that will occur during the removal of the Project at the end of its 25 
+year operational life time. 
+ 
+b) Mitigation and Monitoring 
+4.6.15 Full consideration has been given to the potential mitigation measures which could 
+be used to ensure that any potentially adverse significant environmental effects of 
+the Project are minimised. In the hierarchy of mitigation, likely significant adverse 
+effects should, in the first instance, be avoided altogether; where this is not possible 
+such effects should then reduce and, finally, be off-set. 
+4.6.16 Two broad types of potential mitigation measures have been applied in this 
+preliminary EIA and are described in the PEIR. 
+ 
+Embedded mitigation: This includes modifications to the location or design of 
+the Project made during the pre-application phase that are an inherent part of 
+the Project, become a fundamental part of the design for which consent is 
+sought, and do not require additional action to be taken (e.g. architectural 
+treatment of proposed facilities to be in keeping with similar adjacent buildings 
+in its external appearance; reduction in the height of a building to reduce visual 
+impact; identifying a key habitat that should remain unaffected by the Project’s 
+layout and operation e.g. retaining a hedgerows as bat foraging routes; 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-14 
+ 
+developing a transport strategy that reduces trips, avoiding the need for 
+junction improvements). 
+ 
+Additional mitigation: This is often referred to as ‘additional mitigation’ and 
+includes actions that will require further activity in order to achieve the 
+anticipated outcome.  These may be imposed as part of the planning consent 
+or through inclusion in the PEIR topic chapters (e.g. describing certain lighting 
+limits, which will be subject to the submission of a detailed lighting layout as a 
+condition of approval; commitment to the implementation of an archaeological 
+watching brief).  
+4.6.17 These measures are described in the Chapter 3: Project and Site Description, 
+and a summary is provided in the topic chapters, where relevant to the topic. 
+4.7 
+Assumptions and Limitations 
+4.7.1 
+The following assumptions have been made in each of the topic chapters when 
+assessing the Project. 
+a) Construction/ Decommissioning 
+ 
+The total construction programme will be approximately 22 months, with a start 
+date of early 2020.  
+ 
+The Generating Equipment will be decommissioned and removed at the end of 
+its operational life; 
+ 
+The decommissioning phase will be around 22 months; 
+ 
+The underground elements of the Gas and Electrical Connections will be 
+capped and left in situ at the end of their operational life to avoid any adverse 
+environmental effects associated with their removal; 
+ 
+The design, construction and decommissioning phases of the Project will 
+satisfy minimum environmental standards, consistent with contemporary 
+legislation, practice and knowledge. 
+ 
+b) Operation 
+ 
+To ensure decommissioning is assessed in principle, the operational life of the 
+Power Generation Plant has been assumed to be 25 years; 
+ 
+The Generating Equipment will operate intermittently for up to 2,250 hours per 
+annum (1,500 running hours rolling average over 5 years). This could be at any 
+time during the year, at any time of day and for any length of time up to but not 
+exceeding 2,250 hours; 
+ 
+The Generating Equipment will have a rated electrical output of up to 299 MW; 
+ 
+Existing (2017) surrounding land uses will not change, with the exception of the 
+developments to be cumulatively assessed with the Project, which have been 
+identified below; 
+ 
+Assessments are based on published sources of information and primary data 
+collection; 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-15 
+ 
+ 
+Assessments are based on the description of the Project as set out in Chapter 
+3: Project and Site Description; and 
+ 
+Any future development of the Project Site will be determined through separate 
+planning or application or application for development consent and has not 
+been assessed as part of the assessment presented in this PEIR. 
+4.7.2 
+Each topic chapter sets out any specific additional limitations and assumptions 
+relevant to that topic. 
+4.8 
+Cumulative and In-Combination Effects 
+4.8.1 
+Schedule 4, Part 1 (paragraph 20) of the EIA Regulations requires an ES to include 
+‘…a description of the likely significant effects of the development on the 
+environment, which should cover….cumulative effects’.   
+4.8.2 
+Cumulative and in-combination effects on specific resources or receptors are 
+described, where relevant, in each of the specialist chapters of this PEIR. 
+4.8.3 
+Cumulative effects may occur where, for example, landscape and visual resources, 
+land use or ecological receptors are affected by other developments in addition to 
+the Project i.e. two effects which are not significant could combine to result in a 
+potential cumulative effect which is significant. 
+4.8.4 
+In consultation with CCS, it has been confirmed that there are 34 projects with the 
+potential to cause cumulative effects. Discussions with CCS have been undertaken 
+to determine the potential for any inter-project cumulative effects. Cumulative and 
+in-combination effects have been defined and considered within this preliminary 
+EIA and are assessed in Chapter 17: Cumulative Effects.  
+4.8.5 
+Developments which may need to be considered within the cumulative assessment 
+(in accordance with paragraph 86 of DCLG guidance and PINS Advice Note 17 
+(AN17) (Version 1, December 2015) include those that are: 
+ 
+In the process of being built; 
+ 
+Permitted application(s) but not yet implemented; 
+ 
+Submitted application(s) not yet determined; 
+ 
+Projects on the National Infrastructure’s programme of projects; 
+ 
+Projects identified in the relevant development plan (and emerging 
+development plants – with appropriate weight being given as they move closer 
+to adoption) recognising that information on the relevant proposals will be 
+limited; and 
+ 
+Projects identified in other plans and programmes (as appropriate) which set 
+the framework for future DCOs/approvals, where such development is 
+reasonably likely to come forward. 
+4.8.6 
+Using this approach, the developments listed in Table 4-6 have been identified (see 
+Figure 4.1), with a cut-off date of 14th November 2017, and have been agreed with 
+CCS. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-16 
+ 
+Table 4-6: Projects considered with the cumulative assessment  
+Planning Application 
+Name 
+Description 
+Under Construction 
+1 2006/0773 (varied 
+by 2009/1520 and 
+2011/1143 ) and 
+consecutive 
+temporary planning 
+permissions 
+2007/2513, 
+2009/0062, 
+2009/1585, 
+2011/1311 and 
+2014/0913 (varied 
+by 2016/1270 ) 
+Felindre Business Park 
+Strategic business park for B1 and B2 uses to accommodate emerging 
+industries, high tech manufacturing, high level services, ancillary uses, 
+associated car parking, landscaping and access roads (outline).  The site has 
+been laid out and is effectively a serviced site, however no buildings have been 
+constructed. 
+Park and ride schemes also operate on match days to the Liberty football 
+stadium; and for car parking for the Driver and Vehicle Licensing Agency 
+(DVLA) site in Longview Road, Morriston. 
+2 2013/0135  
+Abergelli Solar Farm 
+Installation of ground mounted array of solar panels, inverter substations and 
+2.4 m high fencing on land at Abergelli Farm. This development will be located 
+adjacent to the Gas Connection. 
+3 2013/0865  
+Cefn Betingau Phase 1, 
+Morriston 
+Construction of 9MW solar park consisting of installation of up to 135,000 
+photovoltaic panels and 9 inverter/transformer cabins and a single control 
+building 
+4 2014/0739   
+Gelliwern Isaf solar park  
+6MWe solar park at Gelliwern Isaf Farm -installation of a solar PV array, 
+construction of a storage room, invertor cabin, a substation, switchgear building 
+and fencing 
+5 2014/1022   
+Brynwhilach Solar Park 
+Construction of 12.69MWe solar park consisting of installation of up to 47,000 
+photovoltaic panels and 8 inverter/transformer stations, 2 substations, storage 
+container, new access tracks, security fencing/cctv and associated equipment 
+and infrastructure work. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-17 
+ 
+Planning Application 
+Name 
+Description 
+6 2007/1250 (varied 
+by 2017/0325/S73)  
+Former J R Steelworks, 
+Bryntywod 
+Retention of use of land as timber recycling centre including processing of 
+wood, wooden materials, associated plant and machinery and previously tipped 
+inert material together with on-site storage of wood chip material, construction 
+of building for the dry storage of recycled wood waste and the creation of a 1m 
+high clay bund around southern, western and northern boundaries of the site 
+without complying with conditions 2, 3, 5, 9, 10, 11, 14 and 16 of planning 
+permission 2007/1250 granted 11th December. 
+7 2012/1221  
+Mynydd y Gwair Wind 
+Farm 
+Installation of 16 wind turbines (maximum height to blade tip of 127 m with a 
+hub height of 80 metres), with a maximum generating capacity of 48MWe, 
+associated tracks and ancillary infrastructure. 
+Permitted but not implemented 
+8 2013/0795   
+Tyle Coch Mawr Wind 
+Farm  
+Installation of four 5 kW wind turbines 20.7 m to tip and associated 
+infrastructure. 
+9 2013/1835   
+Felindre Business Park  
+Construction of park and ride/share car park (approximately 480 spaces) with 
+new vehicular access, security office, toilet, engineering and associated works, 
+including lighting, fencing, drainage attenuation and landscaping. 
+10 2015/1529 (appeal 
+ref 4369653)  
+Llettyr Morfil Farm 
+Construction of a 4.9 MW solar park (approx. 8.8 ha) including photovoltaic 
+panels, four inverter stations, centre station, new access tracks, security 
+fencing, security cameras and associated equipment and infrastructure works.  
+Allowed on appeal in June 2016 
+11 2015/0308  
+Plot 8 Felindre Strategic 
+Business Park 
+Two/three storey private hospital development with associated landscaping, 
+site roads and car parking 
+12 2016/1522  
+Griffiths Waste 
+Management Site, 
+Bryntywod Llangyfelach 
+Swansea SA5 7LP 
+Demolition of existing waste management facility buildings and construction of 
+replacement buildings and associated infrastructure 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-18 
+ 
+Planning Application 
+Name 
+Description 
+13 2008/0912  
+Former Walters Yard 
+Pontlliw Swansea 
+Construction of 67 dwellings with associated access, roads, parking, open 
+space and demolition of existing buildings.  Approved with S106 in March 2016. 
+Submitted but not determined 
+14 2011/0345 
+Land at Llewellyn Road, 
+Penllergaer 
+Construction of up to 200 residential units with associated access (outline).   
+15 2012/0721  
+Royal Fern Golf Resort 
+Application to vary Condition 8 of Outline Planning Permission 2008/0154 to 
+extend the period for the submission of the reserved matters for a further three 
+years in relation to the proposed development of 18 hole championship and 9 
+hole par 3 golf courses, golf club house including health facilities, sauna, 
+swimming pool, gymnasium, golf school and academy, 80 golfing lodges, 
+approximately 135 housing plots, green keepers flat, associated infrastructure, 
+car parking and landscaping (outline).  
+16 2014/0977 
+Parc Ceirw, 
+Cwmrhydyceirw Quarry, 
+Swansea 
+Proposed cessation of landfill and other operations enabled by residential 
+development of circa 300 dwellings, public open space and associated highway 
+and ancillary works (outline) 
+17 2017/1822/OUT 
+Land West Of 
+Llangyfelach Road 
+Tirdeunaw 
+Outline planning application (with all matters reserved apart from strategic 
+access junctions) for residential led mixed use development, to be developed in 
+phases, including up to 1950 dwellings, link road, local centre provision of a 
+primary school, community facilities, Public Open Space including facilities for 
+children, and areas of landscaping (including sustainable drainage systems), 
+outdoor sports provision including playing pitches, associated services, 
+infrastructure and engineering works including new vehicular access, 
+improvements to the existing highway network, new roads, footpaths / 
+cycleways, and ancillary works. 
+18 2016/1478 
+Land North Of Garden 
+Village Swansea 
+Hybrid planning application (with all matters reserved apart from strategic 
+access) for residential-led mixed use development, to be developed in phases, 
+including approximately 750 residential units; provision of 1 no. Primary school; 
+circa 280m2 - 370m2 flexible A1-A3 / D1 floorspace; open space including 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-19 
+ 
+Planning Application 
+Name 
+Description 
+parks; natural and semi natural green space; amenity green spaces; facilities 
+for children and young people; outdoor sports provision including playing 
+pitches; associated services, infrastructure and engineering works including 
+new vehicular accesses, improvement works to the existing highway network, 
+new roads, footpaths/cycleways; landscaping works (including sustainable 
+drainage systems), ecological mitigation works and ancillary works. Submitted 
+in July 2016 and currently pending determination. (The application would be 
+referable to Welsh Ministers if the Council are minded to approve). 
+19 2017/0986/FUL 
+Former Civic Centre 
+Penllergaer Swansea SA4 
+9GH 
+Construction of 80 no. residential units with associated access and landscaping 
+Identified / Allocated (and not referenced above) 
+20 UDP Policy EC1(3)  Swansea Vale Strategic 
+Mixed-Use Site 
+25 ha allocated employment land 
+21 UDP Policy 
+EC1(10)  
+Land at Bryntywod, 
+Felindre (Local 
+Employment Site) 
+15.8 ha allocated employment land 
+22 UDP Policy 
+EC1(12)  
+Penllergaer Business Park 
+(Local Employment Site) 
+8.2 ha allocated employment land 
+23 UDP Policy HC13  
+West of Morriston Hospital Hospital related activities 
+24 LDP Policy SD G  
+Northwest of M4 J46, 
+Llangyfelach 
+Comprehensive mixed use development of up to 850 homes during the Plan 
+period, incorporating a mix of low-medium and high density residential, a new 
+district centre with commercial units, primary school, a mix of public realm, 
+open space and play provision, new community buildings, and a strategic 
+business park 
+25 LDP Policy SD A  
+South of Glanffrwd Road, 
+Comprehensive, residential led, development of up to 720 homes, incorporating 
+a primary school, leisure and recreation facilities, public open space and 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-20 
+ 
+Planning Application 
+Name 
+Description 
+Pontarddulais 
+appropriate community facilities, employment and commercial uses 
+26 LDP Policy SD C  
+South of A4240, 
+Penllergaer 
+Comprehensive, residential led, mixed use development of up to 750 homes 
+during the Plan period (and up to 1,000 homes beyond the Plan period), 
+incorporating primary school, leisure and recreation facilities, public realm, 
+public open space and appropriate community and commercial uses 
+27 LDP Policy SD E  
+North of Clasemont Road, 
+Morriston 
+Comprehensive, residential led, mixed use development of up to 675 homes 
+during the Plan period, incorporating primary school, leisure and recreation 
+facilities, public realm, public open space and appropriate community and 
+commercial uses 
+28 LDP Policy SI 4   
+Morriston Hospital 
+Land adjacent to Morrison Hospital is safeguarded solely for the future 
+development and expansion of the Hospital. Development at this location is 
+restricted to healthcare related uses in association with the beneficial use of 
+Morriston Hospital. Proposals must be delivered alongside appropriate new and 
+enhanced highway infrastructure that will significantly improve the existing 
+substandard road access leading to the site.  A new access road is proposed 
+as part of this proposal (Strategic Transport Strategy Table 9.2) to resolve road 
+capacity issues from the roundabout immediately north of M4 J46. 
+29 LDP Policies 
+RP7  and RP8 , 
+paragraph 2.14.28 
+(Preferred 
+Locations) 
+Former Tip Site, Felindre 
+Preferred areas for new waste management facilities include the former Tip site 
+at Felindre. The site at Felindre is identified specifically for the potential to 
+accommodate a Combined Heat and Power (CHP) Facility which could provide 
+heat or power for adjacent proposed developments.   
+30 LDP Policy H1.11  
+Land at Ramsey Road, 
+Clydach 
+60 dwellings 
+31 LDP Policy H1.21  
+Land east of Pontarddulais 
+Road, Gorseinon 
+90 dwellings 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-21 
+ 
+Planning Application 
+Name 
+Description 
+32 LDP Policy H1.26  
+Land at Carmel Road and 
+Bryntirion Road, Pontlliw 
+100 dwellings 
+33 LDP Policy H1.30  
+Land north of Llewellyn 
+Road, Penllergaer 
+50 dwellings 
+34 LDP Policy H1.31  
+Land at Bolgoed Road, 
+Pontarddulais 
+50 dwellings 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-22 
+ 
+4.8.7 
+In addition, the Project is located within the Swansea Vale Development Area (UDP 
+Policy EC1(3)) and this policy has also been considered for assessment of any 
+significant cumulative effects. Swansea Vale is situated approximately 5 km from 
+the Project Site and extends to some 190 ha south of a railway line and the M4. 
+The assessment has also considered emerging LDP Proposals for settlements at 
+the former tinplate works (also allocated for the Felindre Sustainable Urban Village) 
+and Penllergaer, and the solar park at Lletty Morfil Farm (CCS Ref: MA0004). 
+4.8.8 
+The GIS building within the Substation will be extended at its eastern elevation 
+(retaining the same height and width as the existing building) in order to facilitate 
+the connection of the Project to the NETS. These works will be implemented by 
+National Grid and are therefore not part of the DCO Application. 
+4.8.9 
+Approximately 300 m of 11 kV overhead line crosses the Generating Equipment 
+Site from north west to south east at its western boundary. This section of line, 
+owned by Western Power Distribution, will be diverted to avoid the Generating 
+Equipment Site either above or below ground. This is not to be considered as part 
+of the DCO Application, and will be assessment in the cumulative assessment.  
+4.8.10 Projects described in Table 4-6 have been considered in the cumulative 
+assessment in each of the topic chapters where relevant. 
+4.8.11 Paragraph 87 of the DCLG guidance states ‘It may not always be easy for 
+applicants to assess potential impacts fully due to lack of available information. In 
+such circumstances, applicants should take a pragmatic approach when 
+determining what is reasonable and feasible. They should satisfy themselves that 
+they have made all reasonable efforts to identify the main impacts and to include 
+mitigation in the draft Order.’ The assessment of cumulative effects in each of the 
+topic chapters has utilised information in relation to each of the above applications 
+where publicly available.  
+4.8.12 See Chapter 17: Cumulative Effects for further detail and the assessment. 
+4.9 
+Residual Effects 
+4.9.1 
+Effects are concluded to be significant or not significant. In some chapters, 
+guidance is used which specifies its own variation to this assessment matrix. This 
+will be explained and justified as appropriate. Further detail is provided in each 
+technical chapter. 
+4.9.2 
+Judgements of significance are made based on a combination of perceived value 
+and sensitivity of the receptor and the magnitude of change, and will also include, 
+where necessary, an element of professional judgement by each of the technical 
+specialists. The final evaluation of significance considers the residual effects, 
+assuming all mitigation measures are applied. The terminology for expressing 
+significance has been outlined in Section 4.6. Where appropriate, any topic-specific 
+deviation to this by guidance and best practice is described in the technical 
+chapters. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-23 
+ 
+4.10 
+Consultation and Engagement 
+a) 
+Non-statutory Consultation  
+4.10.1 APL engaged with the local community and key stakeholders during an early phase 
+of non-statutory consultation between June and September 2014, in advance of the 
+commencement of the statutory consultation phase and at a point where the 
+Project was still being actively refined. This was at the same time as seeking 
+feedback from Statutory Consultees on the Scoping Report. 
+4.10.2 Local community representatives at the national, regional and local levels were 
+consulted by APL and public exhibitions were held in Clydach, Felindre and Tircoed 
+in June 2014. As part of this non- statutory phase of consultation, APL explained 
+the rationale and key objectives of the Project, gave reasons why the Project Site 
+had been chosen and presented opportunities for written and verbal feedback on 
+the early, emerging project concepts. 
+4.10.3 Drawing on this early feedback on the proposals, APL was able to consider the 
+consultation responses as part of the design development and environmental 
+assessment processes. This phase of non-statutory consultation helped to shape 
+the development of the Project. This process will be described in detail in the 
+Consultation Report that will be submitted with the DCO Application. 
+b) Statutory Consultation  
+4.10.4 APL conducted a single phase of statutory consultation under s42, s47 and s48 of 
+PA 2008 between 13th October 2014 and 16th November 2014. Published in 
+September 2014, and agreed with CCS prior to publication, the Statement of 
+Community Consultation (SoCC) Notice confirmed where and when the SoCC 
+could be inspected by members of the public. Letters inviting comments on the 
+Project, including the Preliminary Environmental Information, were sent to s42 
+consultees directly. Consultation notices were published in national and local 
+newspapers under s48 of the PA 2008. 
+4.10.5 The statutory consultation phase also coincided with the publication of the 2014 
+PEIR. The 2014 PEIR provided the environmental information collected in the early 
+stages of the EIA process as well as an assessment, on a preliminary basis, of the 
+likely significant environmental effects of the Project. The 2014 PEIR, together with 
+supporting information and a Non-Technical Summary (2014 PEIR NTS), was 
+compiled to accompany APL’s statutory consultation with both the local community 
+and prescribed consultees in advance of submitting its DCO Application. The 
+feedback received relating to the 2014 PEIR has further helped to inform and refine 
+the EIA process as well as the design and development of the Project. 
+4.10.6 Since the 2014 PEIR there have been changes to the Project resulting from design 
+progression, consultation and feasibility. The number of generation units, turbines, 
+and stacks have been reduced. This is further described in Chapter 5: 
+Alternatives Considered. 
+Abergelli PEIR 2018 – CHAPTER 4: APPROACH TO ENVIRONMENTAL IMPACT ASSESSMENT 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+4-24 
+ 
+4.11 
+References 
+Ref. 4.1 
+Abergelli Power Ltd. Preliminary Environmental Report (September 2014). 
+Ref. 4.2 
+The Planning Inspectorate. Planning Advice Note Nine: Rochdale Envelope. 
+(April 2012). 
+ 
+ 
+ 

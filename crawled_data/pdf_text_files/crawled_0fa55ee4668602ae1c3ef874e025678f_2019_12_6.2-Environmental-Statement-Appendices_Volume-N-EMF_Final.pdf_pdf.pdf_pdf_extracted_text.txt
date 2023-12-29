@@ -1,0 +1,792 @@
+ 
+ 
+The Millbrook Power  
+(Gas Fired Power Station) Order 
+ 
+6.2 Environmental Statement Appendices – Volume N 
+Appendix 15.1 EMF Report  
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010068 
+Document Reference: 
+ 
+ 
+6.2 
+Regulation Number: 
+5(2)(a) & Infrastructure Planning 
+(Environmental Impact Assessment) 
+Regulations 2009 
+Author: 
+ 
+ 
+ 
+ 
+WSP 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+October 2017 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Millbrook Power Project Environmental Statement 
+Technical Appendices 
+ 
+Contents – Appendices Volume N – Other Studies    
+15.1 EMF Report
+Millbrook Power Project Environmental Statement 
+Technical Appendices 
+ 
+15.1 - EMF Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MILLBROOK POWER PLANT 
+INFRASTRUCTURE EMF ASSESSMENT  
+ 
+SEPTEMBER 2017 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Type of document (final) 
+ 
+ 
+Project no: 70032619 
+Date: September 2017  
+ 
+ 
+ 
+ 
+– 
+WSP 
+ 
+Manchester Technology Centre 
+Oxford Road, Manchester, M1 7ED 
+ 
+ 
+www.wsp-pb.com 
+MILLBROOK POWER PLANT 
+INFRASTRUCTURE EMF ASSESSMENT  
+Millbrook Power Ltd. 
+iii 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+September 2017 
+ 
+Q U A L I T Y  M A N A G E M E N T  
+ISSUE/REVISION 
+FIRST ISSUE 
+REVISION 1 
+REVISION 2 
+REVISION 3 
+Remarks 
+Draft 
+Changed to reflect 
+plans to connect via 
+a 400kV cable and 
+include client 
+comments 
+Updated to final for 
+submission following 
+issue to National 
+Grid for comment 
+2017 update 
+Date 
+December 2014 
+February 2015 
+February 2015 
+September 2017 
+Prepared by 
+Gillian Williamson 
+Gillian Williamson 
+Gillian Williamson 
+Alex Foden 
+Signature 
+ 
+ 
+ 
+ 
+Checked by 
+Liam Veitch 
+Ryan Broughton 
+Liam Veitch 
+Ryan Broughton 
+Liam Veitch 
+Ryan Broughton 
+Gillian Williamson 
+Signature 
+ 
+ 
+ 
+ 
+Authorised by 
+Anthony Brown 
+Anthony Brown 
+Anthony Brown 
+Brian Sibthorp 
+Signature 
+ 
+ 
+ 
+ 
+Project number 
+ 
+ 
+ 
+ 
+Report number 
+ 
+ 
+ 
+ 
+File reference 
+ 
+ 
+ 
+ 
+ 
+ 
+iv 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+TABLE OF CONTENTS 
+ABBREVIATIONS AND SYNONYMS .........................................................1 
+1 
+INTRODUCTION ...........................................................................2 
+1.1 
+OVERVIEW ..................................................................................................... 2 
+2 
+ELECTRIC AND MAGNETIC FIELD EFFECTS ...........................4 
+2.1 
+INTRODUCTION TO EMFS ............................................................................ 4 
+2.2 
+EMF EXPOSURE GUIDELINES ...................................................................... 4 
+3 
+APPRAISAL METHODOLOGY ....................................................6 
+3.1 
+GENERAL ...................................................................................................... 6 
+3.2 
+ELECTRIC FIELDS ......................................................................................... 6 
+3.3 
+MAGNETIC FIELDS........................................................................................ 6 
+3.4 
+BASELINE CONDITIONS ............................................................................... 7 
+3.5 
+IMPACT APPRAISAL ..................................................................................... 7 
+3.6 
+MITIGATION / BEST PRACTICE .................................................................... 8 
+3.7 
+SUMMARY ..................................................................................................... 8 
+4 
+REFERENCES..............................................................................9 
+ 
+T A B L E S  
+TABLE 1 EMF - SUMMARY OF THE 1998 ICNIRP EXPOSURE UK GUIDELINES .........5 
+TABLE 2 EMF - CALCULATED MAXIMUM FIELD STRENGTHS DUE TO THE 
+EXISTING 400KV OVERHEAD LINE ..............................................7 
+TABLE 3 EMF - CALCULATED MAXIMUM FIELD STRENGTHS ....................................8 
+ 
+v 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+F I G U R E S  
+FIGURE 1 PROPOSED LOCATION OF THE GENERATING EQUIPMENT SITE, THE 
+SUBSTATION AND UNDERGROUND CABLE CIRCUITS .............3 
+ 
+A P P E N D I C E S  
+A P P E N D I X  A  
+CALCULATION PARAMETERS 
+ 
+ 
+ 
+1 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+ABBREVIATIONS AND SYNONYMS 
+ 
+ 
+A 
+ampere, measure of electrical current, or ‘load’ 
+ac 
+alternating current 
+EIA 
+Environmental Impact Assessment 
+ELF 
+extremely low frequency 
+EMF 
+electromagnetic fields 
+Hz 
+hertz, measure of frequency 
+ICNIRP 
+International Commission on Non-Ionizing Radiation Protection 
+kV 
+kilovolt = 1,000 volts, measure of electrical “pressure” 
+OPGW 
+The type of overhead line conductor used here for the earth wire 
+NRPB 
+UK National Radiological Protection Board 
+WSP 
+Formerly Parsons Brinckerhoff Ltd 
+μT 
+microtesla, a measure of magnetic field strength 
+V/m 
+volts per metre, a measure of electric field strength 
+Rubus 
+The type of overhead line conductor used here for the phases 
+ 
+ 
+ 
+ 
+2 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+1 
+INTRODUCTION 
+1.1 
+OVERVIEW 
+1.1.1 
+This document is the Electrical Infrastructure Electric and Magnetic Fields (EMF) Assessment for 
+the Millbrook Power Project (hereafter referred to as 'the Project'). It has been prepared by WSP 
+on behalf of Millbrook Power Ltd. 
+1.1.2 
+Millbrook Power Ltd is promoting a new thermal gas fired peaking power generation plant on the 
+site of a disused clay pit at Millbrook in Bedfordshire, England. The Project provisionally includes 
+the following electrical infrastructure, based on a double tee-in connection: 
+ 400 kV switching substation (the Substation) to be built adjacent to the proposed Generating 
+Equipment Site,  
+ Two three phase underground cable connections from the Substation to cable sealing ends 
+beside the neighbouring existing double circuit 400 kV overhead line. 
+1.1.3 
+Figure 1 shows the proposed location of the Substation beside the proposed Generating 
+Equipment Site and the underground cable connections to the cable sealing ends beside the 
+existing overhead line. 
+1.1.4 
+This report presents an assessment of the changes in EMFs that would result from the 
+development of the new 400 kV electrical infrastructure.  
+1.1.5 
+It is anticipated that some of the information included within this report will be used within the 
+'Other Issues Considered Chapter’ of the Environmental Statement. 
+ 
+ 
+3 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+Figure 1 Proposed location of the Generating Equipment Site, the Substation and underground cable 
+circuits 
+ 
+4 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+2 
+ELECTRIC AND MAGNETIC FIELD 
+EFFECTS 
+2.1 
+INTRODUCTION TO EMFS 
+2.1.1 
+EMFs, and the associated electromagnetic forces, are a fundamental part of the physical world. 
+Their sources are electric charges (source of the electric field) and the movement of those 
+charges (source of the magnetic field). Electromagnetic forces are partly responsible for the 
+cohesion of material substances and they mediate all the processes of chemistry, including those 
+of life itself. EMFs occur naturally within the body in association with nerve and muscle activity. 
+People are also exposed to the natural magnetic field of the Earth (to which a magnetic compass 
+responds) and natural electric fields in the atmosphere.  
+2.1.2 
+Electric-field strengths are measured in volts per metre (V/m) or kilovolts per metre (kV/m). One 
+kilovolt per metre is one thousand volts per metre. The atmospheric electric field at ground level is 
+normally between 10 – 130 V/m in fine weather and may rise to many thousands of volts per 
+metre during thunderstorms. The Earth’s electric field is referred to as static or “dc”. 
+2.1.3 
+It has become common practice to report magnetic fields in units of microtesla (µT) or nanotesla 
+(nT). One nanotesla is one thousandth of a microtesla. Microtesla is used throughout this chapter. 
+Other units are sometimes quoted, for example milligauss, where 1 milligauss = 0.1 µT. 
+2.1.4 
+The direction of the Earth’s magnetic field is normally constant, varying in size only slowly over 
+time, and is referred to as a static or “dc” field. The Earth’s magnetic field is approximately 50 µT 
+in the UK. Other fields that alternate in their intensity more frequently over time are referred to as 
+alternating or “ac” fields. 
+2.1.5 
+All wiring, equipment, and other conductors connected to the electric power system are sources 
+of ac EMFs with frequencies in the extremely low frequency (ELF) range. In the UK and Europe 
+the fundamental power frequency is 50 Hertz (Hz). AC fields add to (or modulate) the Earth's 
+steady natural fields. The strength (or amplitude) of the electric-field modulation depends on the 
+voltage of the transmission equipment. As the voltage level supplied to power conductors is 
+regulated, the electric field remains more or less constant as long as the equipment is energised. 
+Conversely, the strength of the magnetic-field modulation depends on the current (often referred 
+to as the load) carried by the equipment, which varies according to the demand for power at any 
+given time. 
+2.2 
+EMF EXPOSURE GUIDELINES 
+2.2.1 
+In the UK, there are presently no statutory regulations to limit the exposure of people to power-
+frequency electric or magnetic fields. However, in 2004 the National Radiological Protection 
+Board (NRPB) provided advice to Government [ref 1], recommending the adoption in the UK of 
+guidelines published in 1998 by the International Commission on Non-Ionizing Radiation 
+Protection (ICNIRP) [ref 2]. These guidelines are designed to set conservative exposure levels for 
+the general public to 50 Hz electric and magnetic fields, and they are endorsed by the UK’s 
+Health Protection Agency, the World Health Organisation, and the UK Government. A summary of 
+the 1998 ICNIRP guidelines for general public exposure is provided below in Table 2-1. 
+ 
+ 
+5 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+Table 2-1 EMF - Summary of the 1998 ICNIRP exposure UK guidelines 
+Basic Restriction 
+1 
+Basic Restriction  
+ 
+mA/m2 
+Induced current 
+density in central 
+nervous system 
+2mA/m2 
+for general public 
+Practical Exposure Measures 
+ 
+ 
+Electric Fields 
+Magnetic Fields 
+ 
+ 
+Public Exposure 
+Public Exposure 
+2 
+Field strengths 
+corresponding to 
+the Basic 
+Restriction 
+9,000 V/m 
+360 µT 
+3 
+Reference Level 
+field strengths, 
+below which no 
+further action is 
+necessary, and 
+above which 
+further 
+investigation may 
+be warranted 
+5,000 V/m 
+100 µT 
+2.2.2 
+Item 1 in Table 2-1 indicates the ICNIRP ‘Basic Restriction’ which the EU recommend as the 
+maximum current density to be induced in the central nervous system of an individual [ref 6] . 
+2.2.3 
+Current density, however, is a quantity that cannot realistically be measured in people, so Public 
+Health England (formerly Health Protection Agency) also provided a second, more practical, 
+guideline for EMF strengths as per item 2 in Table 2-1 which indicates field strength types that are 
+measurable practically and the values considered to correspond to the ‘Basic Restriction’. 
+2.2.4 
+Item 3 in Table 2-1, Reference Level field strengths, are yet more conservative values that would, 
+under all normal circumstances, be expected to induce current densities significantly less than the 
+‘Basic Restriction’. Research by Dimbylow [ref 3] indicates that, for overhead power lines, the field 
+strengths quoted as corresponding to the ‘Basic Restriction’ (item 2) act as good, if slightly 
+conservative, equivalents to the 1998 ICNIRP Basic Restriction for the general public, and for this 
+reason the ‘Basic Restriction’ figures in item 2 of Table 2-1 are generally considered more 
+relevant to overhead lines than the ‘Reference Level field strengths’ of item 3. 
+2.2.5 
+The UK has implemented the EU recommendation [ref 6], and has stated that compliance with the 
+general public exposure limits is considered to be required at locations where the public may 
+spend significant time, for example residential buildings, as defined in the UK voluntary Code of 
+Practice [ref 4]. It is the policy of National Grid to ensure that all new assets comply with public 
+exposure guidelines unless there are exceptional circumstances. 
+ 
+6 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+3 
+APPRAISAL METHODOLOGY 
+3.1 
+GENERAL  
+3.1.1 
+The appraisal methodology has been based upon the industry Code of Practice on Compliance 
+[ref 4] which specifies that compliance should be specifically demonstrated for 400 kV 
+underground cables. Conversely, it recognises that some equipment is inherently compliant with 
+exposure guidelines and appropriate evidence is maintained on the Energy Networks Association 
+(ENA) website1,2. The evidence hosted on the ENA website demonstrates that the Substation, 
+which does not include air-cored reactors, is inherently compliant. 
+3.1.2 
+In this present assessment, electric and magnetic field strengths due to the existing overhead line 
+and proposed underground cable were calculated using standard equations based on 
+fundamental properties. All electric and magnetic fields were calculated based upon guidance 
+outlined in the aforementioned Code of Practice. Accordingly, the calculations of EMF are always 
+referenced to a height of 1 m above ground level. 
+3.1.3 
+Mention of field strengths later in this document will mean the root-mean-square amplitude of the 
+power-frequency modulation of the total field, which is the conventional way of expressing these 
+quantities.  
+3.1.4 
+The acceptability of the prospective field strengths was judged by comparing the results of the 
+calculations with the appropriate ICNIRP guidelines. 
+3.1.5 
+High-voltage transmission lines can create, or channel, electromagnetic emissions over a wide 
+range of frequencies, however, this report only considers 50 Hz electromagnetic fields. 
+3.2 
+ELECTRIC FIELDS 
+3.2.1 
+The electric field due to the Substation is inherently compliant with the public exposure limits as 
+discussed in section 3.1. Electric fields diminish within the vicinity of earthed objects and 
+structures. The proposed Substation would be surrounded by an earthed metal fence and 
+consequently the electric field outside of this fence due to the substation equipment it encloses 
+would certainly comply with ICNIRP exposure guidelines for the public. 
+3.2.2 
+There are no external electric fields associated with underground cables as explained in the BICC 
+Electric Cables Handbook [ref 5].  Electric fields associated with underground cable are contained 
+by the sheath of the cable itself. The public would thus not be exposed to electric fields from the 
+proposed underground cables. 
+3.3 
+MAGNETIC FIELDS 
+3.3.1 
+Some equipment within the Substation would produce magnetic fields, but these fields tend to 
+diminish rapidly with increasing distance from the equipment. Magnetic fields outside the 
+Substation due to these items of equipment are inherently compliant with public exposure limits, 
+as discussed in section 3.1.  
+                                                   
+ 
+ 
+ 
+1 http://www.energynetworks.org/electricity/she/emfs.html 
+2 http://www.emfs.info/Related+Issues/limits/UK/compliance 
+7 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+3.3.2 
+There will be a magnetic field due to the underground cable from the cable sealing ends beside 
+the existing overhead line to the proposed Substation. 
+3.4 
+BASELINE CONDITIONS 
+3.4.1 
+An existing 400 kV overhead line, specifically the 400 kV Grendon to Sundon route ZA overhead 
+line, passes near to the proposed Substation and so field strengths due to this, L2[3] tower 
+transmission line, have been calculated to compare with those associated with the Project. 
+Detailed overhead line parameters are tabulated in Appendix A. 
+3.4.2 
+The pre fault continuous current rating of the existing overhead line is 2440 A.  
+3.4.3 
+Table 3-1 presents the calculated maximum field strengths due to the existing 400 kV overhead 
+line. These are based upon the surveyed minimum ground clearance (9.12 metres) for the 400 kV 
+conductors in the affected spans. The field strengths corresponding to the ICNIRP public 
+exposure basic restriction are also included in the table. It may be seen that the maximum field 
+strengths due to the existing 400 kV overhead line comply with the basic restriction levels. 
+Table 3-1 EMF - Calculated maximum field strengths due to the existing 400kV overhead line 
+ 
+MAXIMUM FIELD STRENGTH AT 1M ABOVE GROUND 
+DUE TO EXISTING 400KV/400KV 
+2440A/2440A 
+L2 OVERHEAD LINE WITH 
+9.12M GROUND CLEARANCE 
+PUBLIC EXPOSURE BASIC RESTRICTION 
+Electric Field 
+6,226 V/m 
+9,000 V/m 
+Magnetic Field 
+42.3 µT 
+360 µT 
+3.5 
+IMPACT APPRAISAL 
+3.5.1 
+The fields due to the Substation are inherently compliant. 
+3.5.2 
+The impact appraisal has included evaluation of the maximum field strengths due to the 400 kV 
+underground cable tee-in connections from the cable sealing ends beside the existing overhead 
+line to the Substation.  
+3.5.3 
+For the purposes of this appraisal, the calculations have assumed that the current flowing in each 
+phase, in the two circuits forming the tee-in connection, is the pre fault continuous current rating 
+of the existing nearby overhead line, i.e. 2440 A. This assumption provides a ‘worst case’ 
+assessment since, for all normal operations, the current, and thus the magnetic field strengths, 
+would not exceed these values. This is in line with the UK voluntary Code of Practice [ref 4] which 
+requires consideration of intact system conditions. 
+3.5.4 
+The currents in the two underground cable circuits forming the tee-in connection have been 
+assumed to flow in the same direction. This is the worst case and leads to the greatest field 
+strengths. 
+ 
+                                                   
+ 
+ 
+ 
+3 L2 is the name of the particular design of overhead line tower being used for the connection. 
+8 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+3.5.5 
+Detailed parameters including the assumed cable laying arrangement are provided in Appendix A. 
+3.5.6 
+Calculated maximum field strengths are tabulated in Table 3-2.  
+3.5.7 
+Since the proposed underground cable from the sealing ends beside the existing overhead line to 
+the Substation does not produce an external electric field, the expected maximum electric field 
+strength in this corridor will be due to the existing overhead line that passes near the Substation. 
+3.5.8 
+The prospective maximum magnetic field strength due to the proposed underground cable circuits 
+to the Substation is greater than that due to the existing 400 kV line. However, the prospective 
+magnetic field strength due to proposed underground cables is calculated to remain below the 
+public exposure basic restriction levels. 
+3.5.9 
+Since the existing overhead line and proposed underground cables have been found to be 
+individually compliant, the cable sealing end compound is automatically compliant in accordance 
+with Energy Networks Association (ENA) guidance. 
+Table 3-2 EMF - Calculated maximum field strengths 
+ 
+ 
+ELECTRIC FIELD 
+AT 1M ABOVE GROUND 
+ 
+MAGNETIC FIELD 
+AT 1M ABOVE GROUND 
+Fields strengths corresponding to 
+1998 ICNIRP Basic restrictions for Public 
+Exposure 
+9,000 V/m 
+360 µT 
+Baseline  
+Maximum Field Strength at 1 m above ground 
+due to existing 400 kV 
+2440 A 
+L2 overhead line  
+with 9.12 m ground clearance 
+6,226 V/m 
+42.3 µT 
+Maximum Field Strength at 1m above ground 
+due to underground cable circuit from the 
+existing 400 kV overhead line into the 
+Substation  
+400 kV 
+2440 A  
+(Assumed typical cable lay) 
+- 
+133 µT 
+3.6 
+MITIGATION / BEST PRACTICE 
+3.6.1 
+Since the calculated prospective maximum electric and magnetic field strengths expected due to 
+the underground cable connection fall within the ICNIRP EMF exposure guidelines, the 
+development designs would be considered to follow best practice for electricity transmission 
+installations as defined in the UK Voluntary Code of Practice [ref 4]. As the proposed 
+development complies with the current public exposure guidelines, EN-5 [ref 7] states that "no 
+further mitigation should be necessary". 
+3.7 
+SUMMARY 
+3.7.1 
+Although the maximum magnetic field strengths due to the proposed underground cable 
+connections is greater than that due to the existing overhead line running nearby the proposed 
+Substation, it is within nationally and internationally accepted guidelines. 
+3.7.2 
+The change in the electric and magnetic field strengths due to the establishment of the Substation 
+would constitute a ‘Minor’ effect.  
+ 
+9 
+ 
+Millbrook Power Plant 
+WSP | Parsons Brinckerhoff 
+Millbrook Power Ltd. 
+Project No 70032619 
+ 
+September 2017 
+4 
+REFERENCES 
+ Ref.1 - NRPB advice to Government:  “Advice on Limiting Exposure to Electromagnetic Fields 
+(0-300 GHz)” Documents of the NRPB Volume 15 No 2 2004. 
+ Ref. 2 - ICNIRP guidance:  “Guidelines for limiting exposure to time-varying electric, 
+magnetic, and electromagnetic fields (up to 300 GHz)”. Health Physics April 1998, Volume 74, 
+Number 4:494-522. 
+ Ref. 3 - Development of the female voxel phantom, NAOMI, and its application to calculations 
+of induced current densities and electric fields from applied low frequency magnetic and 
+electric fields. Dimbylow P. Phys Med Biol. 2005 Mar 21;50(6):1047-70. Epub 2005 Feb 23. 
+ Ref. 4 - Power Lines: Demonstrating compliance with EMF public exposure guidelines. A 
+Voluntary Code of Practice. Department of Energy & Climate Change March 2012. 
+ Ref. 5 - Electric Cables Handbook, 3rd Edition. BICC Cables, Blackwell Science Ltd, October 
+1997. Chapter 2 section Electromagnetic Fields. 
+ Ref.6 - COUNCIL RECOMMENDATION of 12 July 1999 on the limitation of exposure of the 
+general public to electromagnetic fields (0 Hz to 300 GHz), Official Journal of the European 
+Communities, 1999/519/EC. 
+ Ref.7 – National Policy Statement for Electricity Networks Infrastructure (EN-5), Department 
+of Energy and Climate Control, July 2011. 
+ 
+ 
+ 
+Appendix A  
+ 
+CALCULATION PARAMETERS 
+ 
+ 
+ 
+ 
+ 
+Overhead line calculation parameters for the existing Grendon to Sundon circuit and assumed for the 
+proposed circuit from the proposed Substation to the existing overhead line. 
+PARAMETER 
+VALUE 
+Number of Phases/Frequency 
+3 Phases at 50Hz 
+No. of circuits on overhead line 
+2 
+Nominal Voltage  
+400kV 
+Conductor 
+500mm2 AAAC Rubus, 2 per phase (twin bundle 0.4m bundle 
+separation).  
+Conductor Diameter 
+0.0315m 
+Transposition 
+Transposed (existing) 
+R 
+B 
+Y 
+Y 
+B 
+R 
+Maximum Continuous Current Capacity 
+(per phase per circuit) 
+2440A pre fault continuous rating 
+ 
+Earth Wire Conductor 
+EARTHWIRE OPGW (160MM2 KEZIAH EQUIVALENT) 
+Earth Wire Conductor Diameter 
+0.0206m 
+Tower Construction 
+L2 Double Circuit 
+Tower Dimensions & Conductor Centres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                         Not to scale 
+Minimum Ground Clearance 
+9.12m (existing) 
+ 
+ 
+ 
+5.486m       5.486m 
+ 
+    6.096m                        6.096m 
+ 
+    7.772m 
+      7.849m 
+     5.639m 
+5.715m               5.715m 
+ 
+ 
+ 
+Assumed calculation parameters for the underground cable tee-in connection from the cable sealing 
+ends beside the existing overhead line to the Substation. 
+ROUTE 
+PROPOSED CIRCUIT FROM BESIDE THE EXISTING OVERHEAD LINE TO THE SUBSTATION 
+Number Phases/Frequency 
+3 Phases at 50Hz 
+Nominal Voltage  
+400kV 
+Conductor 
+2500 mm2  
+Conductor Diameter 
+0.0635m 
+Maximum Continuous 
+Current Capacity (per phase 
+per circuit) 
+2440A corresponding to 1690MVA 
+Conductor Centres 
+ 
+ 
+Burial Depth 
+1.1m 
+ 
+ 
+ 

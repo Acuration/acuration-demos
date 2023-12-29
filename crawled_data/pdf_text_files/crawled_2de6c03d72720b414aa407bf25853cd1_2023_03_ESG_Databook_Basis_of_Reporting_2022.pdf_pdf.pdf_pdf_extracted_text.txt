@@ -1,0 +1,377 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DRAX GROUP PROCEDURE 
+Environment, Social and 
+Governance (ESG) 
+Databook 
+Published: 16/03/2023 
+Version: 2 
+ 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+Appendices 
+Appendix 1 – Basis of Reporting 
+Greenhouse Gas Emissions 
+Relevant assured data: Group GHG emissions aligned to the Greenhouse Gas Protocol (Scope 1 and 2); 
+Group GHG emissions aligned to the Greenhouse Gas Protocol (Scope 3); Percentage of emissions in UK; 
+Group generation emissions intensity; Group emissions intensity 
+Drax reports greenhouse gas emissions against a criterion of operational control. This means that for 
+leased sites we will include emissions from all sites that are wholly operated by Drax and Drax have 
+control of the emission pathway through the opportunity to select and manage its own suppliers. 
+Greenhouse gas emissions are reported in units of carbon dioxide equivalence (CO2e), with conversions 
+of included non-CO2 GHGs (CH4, N2O, SF6, PFCs, HFCs, NF3) being made using the AR4 published IPCC 
+global warming potentials for a 100-year period without climate carbon feedbacks, as most external 
+emissions factors rely on external emissions factors based on AR4 over which we have no control. We 
+use the Greenhouse Gas Protocol’s Corporate Accounting and Reporting Standard. 
+Drax will operate a rolling base year model and will recalculate the base year should there be significant 
+changes to the Group’s emissions profile. Examples of significant changes could be structural changes; 
+divestment and investment; outsourcing or insourcing of significant emissions; changes in methodology; 
+or discovery of significant errors.  Given the commercial fluctuations of Drax activity (i.e. outages, 
+operational failures, fuel conversion, market pricing) causing significant changes to emissions profiles 
+(i.e. 2015 to 2016, 53% reduction) with no criteria for baseline recalculation being met, setting a 
+nominal quantifiable value would be unhelpful and in most years lost as noise. This will not have a 
+material impact on external targets as Drax’s target of carbon negative by 2030 is a fixed point and does 
+not require reference to a base year.  
+The decision on whether to recalculate a base year will be made by the Group Director of Sustainability 
+based on the significance of any structural or methodological changes or discovery of errors. A 
+materiality exercise could be completed with stakeholders if deemed appropriate.  
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+Where externally published emissions factors are used, the first preference will be factors issued by the 
+Department of Environment, Food and Rural Affairs (DEFRA) in the UK and the United States 
+Environmental Protection Agency (EPA) in the USA. Where suitable emissions factors do not exist, trade 
+body, supplier/customer literature and, if required, other reputable external sources will be used. 
+Scope 1 and 2 
+A scope 2 location-based emissions figure will be reported in the Annual Report and Accounts, based on 
+reliable local grid emissions factors. An additional scope 2 market-based emissions figure will be 
+reported for 2022, in the Annual Report and Accounts. The market-based emissions will consider 
+renewable electricity generation as zero emissions provided suitable contractual instruments are 
+applied. 
+Any information discovered at a later date will be published as a restatement if the error means the data 
+are > +/-5% of the total. 
+For uncertainty, it is noted that the emissions subject to an Emissions Trading Scheme (ETS) are required 
+to demonstrate quantitative uncertainty within a tight error band (major fuels to +-/1.5%). As this 
+covers more than 80% of the Group’s scope 1 and 2 emissions (based on 2019), it is considered 
+sufficient to meet the uncertainty requirements of the GHG Protocol. For the remainder of the 
+emissions, Drax aims to reduce uncertainty as far as possible by using raw data and reducing estimations 
+and data gap methods where practical.  
+Emissions are calculated using NCV, this may require a conversion from GCV in some instances. 
+Engineering toolbox is used to estimate the difference between NCV and GCV. It is assumed all fuel 
+purchased is consumed within the reporting year that the monitoring takes place. 
+Scope 3 
+Drax reports against scope 3 emissions as defined by the GHG Protocol’s Corporate Value Chain (Scope 
+3) Accounting and Reporting Standard and uses the same standard against which to report. Drax reports 
+all categories excluding category 13 Downstream leased assets. Drax’s downstream leased assets 
+includes a wide variety of activities including farming, woodland plantation, offices, social/sports clubs 
+and more, making calculation infeasible. 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+No materiality threshold will be applied to scope 3 reporting when considering emission values. A small 
+number of thresholds are applied within certain calculations. Where relevant, these are stated in the 
+method statements for each category.  
+Any information discovered at a later date will be published as a restatement if the error means the data 
+are > +/-15% of the overall scope 3 total. 
+Sources of Scope 3 emissions 
+Emissions calculation methodology 
+Purchased goods and services 
+Emissions calculated based on Group reported 
+operational Opex. Opex is then broken down by 
+Generation, Pellet Production, and Customers, for which 
+corresponding emissions factors are used which have 
+been calculated, based on Drax data by external 
+consultancy Route2. The costs associated with flights, 
+rail, mileage and hotels have been excluded from the 
+calculations, as these emissions have been accounted for 
+within our contracted travel supplier’s data in Group 6.  
+ 
+The upstream emissions for sold coal and gas are 
+calculated using the DEFRA WTT. Since Drax is acting as a 
+trader, that value includes a portion of the transport of 
+the “downstream transportation and distribution”. 
+ 
+Processing and transport emissions from all pellets sold 
+to third parties are estimated using the Biomass Carbon 
+Calculator. In the absence of emissions data, the average 
+of Canadian biomass producer’s GHG profile will be used. 
+Capital goods 
+Emissions calculated based on Group reported 
+operational Capex. Capex is then broken down by each 
+area of Generation, Pellet Production and Customers, for 
+which corresponding emissions factors are used which 
+have been calculated, based on Drax data by external 
+consultancy Route2 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+Fuel-and-energy-related activities (not included in 
+Scope 1 or 2) 
+Quantity of fuels and electricity consumed are measured 
+or calculated. Data is then converted to CO2e using the 
+DEFRA Greenhouse gas reporting: conversion factors. For 
+fuels where DEFRA do not publish accurate factors other 
+reliable sources are used, e.g. limestone supply from the 
+National Stone Council (USA). 
+ 
+GHG emissions from the biomass supply chain are 
+calculated using an in-house method aligned to Ofgem 
+reporting requirements and assigned as required for 
+scope 3. 
+ 
+Upstream emissions from SF6 in the Group’s consumed 
+electricity are based on emissions intensities provided by 
+external consultancy Route2. 
+ 
+This category includes power sales. 
+ 
+Given difficulties in accounting for Drax generation within 
+the GB National grid, it is assumed that the sales from 
+customers businesses are of Drax generated energy first. 
+If Drax does not generate sufficient energy to cover the 
+sold quantities then we account for the production in 
+scope 3, based on emissions intensities and boundaries 
+published in electric insights (www.electricinsights.co.uk). 
+The fuel mixtures used are based on the most recent. 
+verified fuel mix disclosures for each of Haven and Opus. 
+The same principle of Customers sold electricity being 
+assumed to be Drax generated electricity is also applied 
+to the downstream SF6 emissions.  
+ 
+Electricity from Cruachan’s pumped water electricity 
+is currently assuming the emissions from pumping as 
+the same grid intensity as the grid. However, this 
+very conservative as pumped hydro facilities mainly 
+utilise excess energy from the grid (ie: surplus of 
+wind energy).  
+ 
+Pinnacle vessels fuel usage is included in the Scope 1 
+emissions and included in the operational boundary. 
+Therefore, the WTT emissions from the marine fuel 
+oil is included in this group. All journeys are included 
+based on the bill of lading date (start of journey). 
+ 
+WTT emissions from electricity supply are included based 
+on the DEFRA Factors for 2021. 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+Upstream transportation and distribution 
+Upstream transportation from Pellet Production 
+business, covering emissions from operations prior to 
+Drax operated pellet plants and emissions associated 
+with operations between the Drax operated pellet plants 
+and Drax Power Station. Calculated using in-house 
+method aligned to Ofgem reporting requirements and 
+assigned as required for scope 3. 
+ 
+Data for the upstream supply of sludge to Daldowie pellet 
+plant were provided directly from the supplier, Scottish 
+Water, based on 2019. This value will be assumed still 
+relevant until a significant operational change occurs. 
+ 
+Additional emissions from this category from goods and 
+services reported under categories 1 and 2 are calculated 
+based on emissions intensities provided by external 
+consultancy Route2, based on Drax data. 
+Waste generated in operations 
+For UK sites, data is broken down by European Waste 
+Code. Once waste is identified, the nearest emissions 
+factor and closest route (based on R/D code) from the 
+waste disposal tab on the DEFRA Greenhouse gas 
+reporting: conversion factors are used. 
+ 
+For sites where data are unknown, a figure is calculated 
+based on an average from similar operations (eg: tonnes 
+of pellets produced, headcount, size of land, or data from 
+previous years) and an emissions factor based on sites for 
+which data are known. Any waste stream weighing less 
+than two tonnes is deemed immaterial and excluded. 
+ 
+All downstream emissions associated with waste will be 
+assumed to take place in the year the waste is quantified 
+as leaving Drax Group’s responsibility. 
+ 
+Business travel 
+Data is provided from records kept by the business' 
+contracted travel suppliers and internal HR and facilities 
+teams for business travel by rail and air, as well as for 
+hotel stays and taxis. These numbers are then multiplied 
+by the relevant emissions factors. 
+ 
+Internal expense claims systems are used for the collation 
+of mileage travelled by employees in their own cars on 
+business, the emissions factor for an average car from 
+DEFRA Greenhouse gas reporting: conversion factors is 
+used to calculate emissions from the mileage. Where 
+business units are unable to measure this, a pro rata 
+approach is applied based on known Group mileage and 
+head counts. 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+ 
+Data on hire cars mileage are multiplied by the relevant 
+emissions factor using the DEFRA Greenhouse gas 
+reporting: conversion factors. For hire car contracts 
+where the same data are not available a calculated miles 
+per day are applied to other records. 
+ 
+Additional spend via Group credit cards in this respect 
+are calculated based on emissions intensities provided by 
+external consultancy Route2, based on Drax data. 
+ 
+Employee commuting 
+Emissions from commuting are calculated based on the 
+number of employees on each site on 31st December. 
+Emissions intensities for each site are provided by 
+external consultancy Route2, based on Drax data and 
+external information on commuting habits. New business 
+areas (Pinnacle) which was not included during the 
+original Route2 data will use the weighted average as its 
+own. Emissions from Working from Home have been 
+included in 2022’s calculations. The calculations are 
+based off internal Drax information on employee working 
+patterns and emissions from the DEFRA factors for 2022. 
+Upstream leased assets 
+Gas and electricity supply in leased offices, this is supply 
+which is outside of the reporting boundary for scope 1 
+and 2 emissions. Data are taken from landlord invoices, 
+supplier reports and/or meter readings and converted to 
+emissions using DEFRA factors. 
+ 
+Where office data are not available, an appropriate 
+methodology will be estimated based on the available 
+data. This may be, but not limited to, office headcount, 
+floorspace or using data from known Drax Group offices. 
+ 
+Downstream transportation and distribution 
+Emissions from transport of Daldowie pellets; transport 
+of ash; and SF6 emissions within the National Grid are 
+based on emissions intensities for each site provided by 
+external consultancy Route2, which are based on Drax 
+data.  
+  
+Processing of sold products 
+Emissions are be based on emissions intensities from 
+Mineral Products Association 
+• 
+Sustainable Development 
+• 
+Report 2020, with quantities measured by Drax 
+for sold ash.  
+For gypsum, an emissions factor for the 15mm Gyproc 
+SoundBloc is taken. However, this factor, provided by 
+British Gypsum, includes material supply and transport, 
+this is therefore conservative. Furthermore, as this 
+includes transport, to avoid double accounting no 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+downstream transportation or distribution emissions are 
+assigned in that category for gypsum. 
+ 
+All processing is assumed to take place in the year the 
+ash is measured for sale. 
+ 
+Use of sold products 
+There are four distinct areas for consideration of 
+emissions from use of sold products: Daldowie pellets 
+(CH4 and N2O); natural gas purchased and sold to end 
+users, coal stocks purchased and sold; use of pellets sold 
+byto third parties. 
+ 
+The CH4 and N2O emissions from Daldowie pellets are 
+calculated using DEFRA emissions factors based on 
+recommendation provided by external consultancy 
+Route2. 
+ 
+The CH4 and N2O emissions from all pellets (excluding 
+Daldowie above) are accounted for using the Drax 
+Biomass Carbon Calculator which uses the EU directive.  
+ 
+The combustion emissions from gas and coal sold to end 
+users are accounted using the DEFRA emission factors. 
+ 
+End of life treatment of sold products 
+This category is not applicable to Drax. 
+Downstream leased assets 
+Drax excludes this category from reporting as it is 
+unfeasible due to the nature of the leases.  
+Franchises 
+Drax Group does not operate any franchises. 
+Investments 
+Drax Group does not have any assets under 
+management.  
+Other (upstream) 
+ 
+Other (downstream) 
+ 
+ 
+ 
+ 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+Carbon Negative  
+In 2019 Drax launched an ambition to become carbon negative by 2030. This ambition is based on more 
+GHGs being sequestered into carbon sinks than being emitted from the Group. The boundaries for this 
+include all scope 1 and 2 emissions and direct removals  
+The ambition is to be calculated based on scope 2 location-based emissions.  
+Energy 
+Relevant assured data: Group energy consumption 
+As required by the Streamlined Energy and Carbon Reporting (SECR) requirements covered in The 
+Companies (Directors' Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 
+2018, Drax reports all group energy consumption in kWh.  
+Energy consumption is reported based on a net calorific value (NCV). In the instance where NCV is not 
+available, another source may be used, or a conversion may be necessary. For example, a conversion 
+from GCV to NCV for USA fuels is estimated based on Engineering Toolbox.  
+There is no materiality threshold applied to the energy reporting, and in the result of a later discovery of 
+errors or omissions a restatement will be made should that error be > +/- 5%. 
+Water 
+Relevant assured data: water abstraction and discharge 
+Drax reports its UK water abstraction and return as defined by local regulators (e.g. Environment Agency 
+and Scottish Environmental Protection Agency). The data disclosed will therefore align to compliance 
+definitions. There is no materiality threshold applied to the water reporting, and in the result of a later 
+discovery of errors or omissions a restatement will be made should that error be > +/- 5%. 
+ 
+ 
+DRAX GROUP – ESG Databook 
+ 
+ 
+ 
+ 
+Headcount 
+Relevant assured data: Employment data on headcount as per contracts, country, business unit and 
+gender 
+Employee headcount data is based on the number of full and part time permanent employees employed 
+by the Group on 31 December of the reporting year. These data do not include contractors.  
+Restatements 
+Unless otherwise stated, if at a later date an error is discovered on data reported though the ESG 
+databook system that is > +/- 5% of an overall Group total, then, where necessary, a restatement will be 
+made.  
+ 
+ 
+ 

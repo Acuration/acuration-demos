@@ -1,0 +1,3537 @@
+ 
+ 
+ 
+ 
+CATCHMENT AREA ANALYSIS:  
+PINNACLE RENEWABLE ENERGY’S  
+BURNS LAKE & HOUSTON MILLS 
+Wood Pellet Sustainability 
+Jeremy Williams and Gary Bull 
+jeremy.w@sympatico.ca 
+Arborvitae Environmental Services Ltd. 
+November 2, 2020 
+i 
+ 
+ 
+Acknowledgements 
+The authors would like to acknowledge the contributions of the following people to this 
+analysis.  
+• Joe Aquino (Pinnacle Renewable Energy, Prince George BC) provided information and 
+data on fibre sources for the Burns Lake and Houston pellet plants.  
+• Mike Clarkson (Timber Supply/ Geomatics Forester, FLNRORD, Victoria, BC) assisted with 
+providing data sets from the Timber Supply Reviews for the catchment area units and 
+answering related questions, 
+• Rene de Jong (Forest Analysis and Inventory Branch, FLNRORD, Victoria, BC) provide 
+results of the forest inventory audits in the catchment area;  
+• Marie-Ange Fournier-Beck of Vivid Consulting produced the catchment area maps used 
+in this report; 
+• Jeremy Hachey (Forsite Consultants, Salmon Arm, BC) provided the forest inventory 
+data; 
+• Klaus Posselt (Tahtsa Timber, Burns Lake, BC) and Frank Varga (Burns Lake Community 
+Forest, Burns Lake, BC) provided information on local and region fibre supplies and 
+market conditions; 
+• Julie Sheppard (Stewardship Forester, Nadina District, FLNRORD, Burns Lake, BC) 
+provided information and data on harvesting and forest tenures in the catchment area; 
+and 
+• Jim Thrower (Westwood Fibre Resources, Kamloops, BC) assisted in summarizing and 
+interpreting the forest inventory data and local market conditions. 
+ 
+ 
+The cover picture shows mortality caused by the Mountain Pine Beetle near Burns Lake in the 
+catchment area, in 2001.  (Photo courtesy of Jim Thrower) 
+ 
+ii 
+ 
+ 
+TABLE OF CONTENTS 
+LIST OF TABLES .................................................................................................................................................... III 
+LIST OF FIGURES .................................................................................................................................................. IV 
+EXECUTIVE SUMMARY ........................................................................................................................................... V 
+1 
+INTRODUCTION ............................................................................................................................................ 1 
+1.1 
+BACKGROUND ..................................................................................................................................................... 1 
+1.2 
+REPORT GOAL ..................................................................................................................................................... 1 
+1.3 
+REPORT STRUCTURE .............................................................................................................................................. 1 
+1.4 
+PROJECT CONSULTANTS ......................................................................................................................................... 2 
+2 
+CATCHMENT AREA ........................................................................................................................................ 4 
+2.1 
+EXTENT .............................................................................................................................................................. 4 
+2.2 
+THE FOREST ........................................................................................................................................................ 4 
+2.3 
+GEOGRAPHY AND CLIMATE ..................................................................................................................................... 6 
+2.4 
+TRANSPORTATION INFRASTRUCTURE ........................................................................................................................ 6 
+2.5 
+DEVELOPMENT OF THE CATCHMENT AREA ................................................................................................................ 6 
+2.6 
+FIRST NATIONS .................................................................................................................................................... 7 
+3 
+FOREST MANAGEMENT ................................................................................................................................ 9 
+3.1 
+LEGISLATION........................................................................................................................................................ 9 
+3.2 
+STUMPAGE.......................................................................................................................................................... 9 
+3.3 
+TIMBER SUPPLY AREAS ........................................................................................................................................ 10 
+3.4 
+NETDOWNS ....................................................................................................................................................... 12 
+3.5 
+THE MOUNTAIN PINE BEETLE OUTBREAK ................................................................................................................ 15 
+3.6 
+THE IMPACT OF THE 2018 WILDFIRES .................................................................................................................... 20 
+4 
+FOREST INVENTORY .................................................................................................................................... 23 
+4.1 
+INVENTORY ....................................................................................................................................................... 23 
+4.2 
+ECOSYSTEM TYPES .............................................................................................................................................. 23 
+4.3 
+AREA ............................................................................................................................................................... 24 
+4.3.1 
+Leading Species .................................................................................................................................... 24 
+4.3.2 
+Age Class .............................................................................................................................................. 25 
+4.4 
+VOLUME ........................................................................................................................................................... 27 
+4.4.1 
+Forest Type and Species ....................................................................................................................... 27 
+4.4.2 
+Age Class .............................................................................................................................................. 28 
+4.5 
+FUTURE GROWING STOCK .................................................................................................................................... 30 
+5 
+TIMBER REMOVALS AND GROWTH............................................................................................................. 32 
+5.1 
+REMOVALS ........................................................................................................................................................ 32 
+iii 
+ 
+5.1.1 
+Harvest ................................................................................................................................................. 32 
+5.2 
+DEFORESTATION ................................................................................................................................................ 35 
+5.3 
+GROWTH .......................................................................................................................................................... 35 
+5.4 
+GROWTH TO REMOVAL RATIO .............................................................................................................................. 38 
+6 
+MARKET PROFILE ........................................................................................................................................ 40 
+6.1 
+OVERVIEW ........................................................................................................................................................ 40 
+6.2 
+PELLET PLANTS .................................................................................................................................................. 43 
+6.3 
+LOG MARKET .................................................................................................................................................... 43 
+6.4 
+PINNACLE’S FIBRE INTAKE BY SOURCE..................................................................................................................... 45 
+7 
+TIMBER AND PRODUCT PRICING ................................................................................................................. 47 
+7.1 
+STUMPAGE PRICES.............................................................................................................................................. 47 
+7.2 
+SAWMILL RESIDUE, PULP CHIP, AND PELLET PRICES .................................................................................................. 49 
+8 
+SUMMARY OF KEY TRENDS AND OUTLOOK ................................................................................................ 52 
+8.1 
+THE FOREST ...................................................................................................................................................... 52 
+8.2 
+THE INDUSTRY ................................................................................................................................................... 52 
+ 
+Annex 1: Defining the Catchment Area 
+LIST OF TABLES 
+TABLE 1. LAND OWNERSHIP STATISTICS FOR THE CATCHMENT AREA. ......................................................................... 4 
+TABLE 2. AREA (HA) OF AREA-BASED TENURES IN THE CATCHMENT AREAS. ............................................................. 10 
+TABLE 3. SUMMARY OF AREA (HA) UNAVAILABLE FOR INCLUSION IN CROWN TIMBER HARVESTING LANDBASE. ... 14 
+TABLE 4. GROWING STOCK VOLUME IN THE CTHLB, AMOUNT OF PINE AND PERCENTAGE PINE (MILLION M3). ..... 18 
+TABLE 5. IMPACTS OF 2018 FIRES ON THE CATCHMENT AREA. .................................................................................. 22 
+TABLE 6. AREA (HA) BY BEC ZONE IN THE CATCHMENT AREA. ................................................................................... 23 
+TABLE 7. AREA X LEADING SPECIES IN THE CATCHMENT AREA. .................................................................................. 24 
+TABLE 8. AREA BY AGE CLASS BY LEADING SPECIES IN THE CATCHMENT AREA (M HA). ............................................ 27 
+TABLE 9. GROWING STOCK BY AGE CLASS AND LEADING SPECIES (MILLION M3). ..................................................... 29 
+TABLE 10. CATCHMENT AREA HARVEST VOLUME BY SPECIES (M M3) ....................................................................... 32 
+TABLE 11. CURRENT ANNUAL INCREMENT (M3/HA), AREA AND TOTAL INCREMENT IN THE CATCHMENT AREA. .... 36 
+TABLE 12. MAJOR FOREST PRODUCTS MILLS IN THE CATCHMENT AREA AND SURROUNDING REGION. .................. 42 
+TABLE 13. BC GOVERNMENT LOG QUALITY CLASSES. ................................................................................................. 43 
+TABLE 14. WOOD FIBRE FURNISH FOR BURNS LAKE MILL, BY TYPE. ........................................................................... 46 
+TABLE 15. WOOD FIBRE FURNISH FOR HOUSTON MILL, BY TYPE. .............................................................................. 46 
+TABLE A16. SOURCES OF BURNS LAKE FACILITY FIBRE ................................................................................................ 55 
+TABLE A17. SOURCES OF HOUSTON FACILITY FIBRE. .................................................................................................. 55 
+TABLE A18.  SOURCES OF HOUSTON AND BURNS LAKE FACILITIES COMBINED. ........................................................ 55 
+ 
+iv 
+ 
+LIST OF FIGURES 
+FIGURE 1: CATCHMENT AREA FOR THE BURNS LAKE AND HOUSTON PELLET MILLS IN CENTRAL BC. .......................... 5 
+FIGURE 2. CHANGE IN AREA-BASED TENURE IN THE LAKES TSA: 2000-2018. ............................................................. 11 
+FIGURE 3. CATCHMENT AREA SHOWING EXTENT OF PARKS....................................................................................... 13 
+FIGURE4. ANNUAL MORTALITY DUE TO MPB IN THE CATCHMENT AREA (M3/YEAR). ............................................... 16 
+FIGURE 5. AACS IN LAKES AND MORICE TSAS AND VANDERHOOF DISTRICT. ............................................................. 17 
+FIGURE 6. CUMULATIVE MPB MORTALITY IN THE CATCHMENT AREA (MILLION M3) ................................................ 17 
+FIGURE 7. MORTALITY CAUSED BY MPB: THE RED TREES ARE DEAD AND DYING (PHOTO COURTESY OF JIM 
+THROWER). ........................................................................................................................................................ 19 
+FIGURE 8. COMPARISON OF LEADING SPECIES COMPOSITION FOR THE LAKES TSA CTHLB AREA: 2000 VS. 2018. ... 20 
+FIGURE 9. MAP OF 2017 AND 2018 FIRES. .................................................................................................................. 21 
+FIGURE 10. PROPORTIONAL AREA X BEC BEC ZONE IN THE CATCHMENT AREA. ........................................................ 24 
+FIGURE 11.  PROPORTIONAL AREA X LEADING SPECIES IN THE CATCHMENT AREA. .................................................. 25 
+FIGURE 12. AREA X AGE CLASS FOR THE MAIN FOREST TYPES IN THE CATCHMENT AREA. ........................................ 26 
+FIGURE 13. GROWING STOCK VOLUME OF KEY STAND TYPES IN THE CROWN FOREST (MILLION M3). .................... 27 
+FIGURE 14. GROWING STOCK BY LEADING SPECIES X AGE CLASS FOR THE MAIN FOREST TYPES IN THE CATCHMENT 
+AREA. .................................................................................................................................................................. 28 
+FIGURE 15.  BASE CASE GROWING STOCK PROJECTION ON LAKES TSA. ..................................................................... 31 
+FIGURE 16. CATCHMENT AREA HARVEST VOLUME BY PRIMARY SPECIES (M M3). .................................................... 33 
+FIGURE 17. PROPORTIONS OF 2010-2019 TOTAL HARVEST VOLUME BY PRIMARY SPECIES. ..................................... 34 
+FIGURE 18. ACTUAL HARVEST IN CATCHMENT AREA. ................................................................................................. 34 
+FIGURE 19. CURRENT ANNUAL GROWTH. ................................................................................................................... 36 
+FIGURE 20. PEAK POTENTIAL ANNUAL INCREMENT BY AGE ....................................................................................... 37 
+FIGURE 21.  MILL LOCATIONS IN CATCHMENT AREA. ................................................................................................. 41 
+FIGURE 22. WOOD FIBRE FURNISH FOR BURNS LAKE PELLET PLANT, BY TYPE. .......................................................... 45 
+FIGURE 23. WOOD FIBRE FURNISH FOR HOUSTON PELLET PLANT, BY TYPE. ............................................................. 46 
+FIGURE 24. AVERAGE GRADE 1 AND 2 SAWLOG STUMPAGE PRICES ($CDN/M3). ..................................................... 47 
+FIGURE 25. AVERAGE ANNUAL PRICES OF 2X4 RANDOM LENGTHS KILN-DRIED #2 OR BETTER SPF. ......................... 48 
+FIGURE 26. PELLET FEEDSTOCK PRICE INDEX FOR CANADA AND THE US. .................................................................. 49 
+FIGURE 27.  PRICES FOR PULPLOGS AND RESIDUAL CHIPS IN BC, 2018-2020. ............................................................ 51 
+FIGURE 28. THE LAKES AND MORICE TSAS AND THE VANDERHOOF DISTRICT OF THE PRINCE GEORGE TSA. ........... 56 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+v 
+ArborVitae Environmental Services Ltd. 
+ 
+Executive Summary 
+Drax Group plc is large energy company headquartered in the UK that generates increasingly 
+decarbonized energy in the UK.  Drax’s portfolio of energy generation facilities include biomass, 
+power production, and Drax both produces its own pellets and purchases pellets from other 
+producers.  Drax is committed to a zero-carbon future and aims to become carbon-negative 
+itself by 2030.  With this in mind, Drax wishes to ensure that the fibre procurement for the 
+pellets it uses is not having a detrimental effect on forests, how they are managed, and on 
+other aspects of the forest industry.  This includes an interest in ensuring that fibre 
+procurement contributes to its overall goal of becoming carbon negative. 
+Drax commissioned this study to provide evidence on how it is meeting its forest commitments 
+related to fibre procurement by two of its supplier pellet plants, located in the Interior region of 
+British Columbia (BC).  The two mills, both owned by Pinnacle Renewable Energy Inc, are 
+located 80 km apart in the towns of Houston and Burns Lake.  The catchment areas of the two 
+mills, which are the areas where their fibre originates, overlap considerably and so this analysis 
+evaluates the impacts of fibre procurement on the combined catchment area for both mills. 
+The historical development of the forest landscape in this catchment area is one of primary 
+forest that has been subject to repeated natural cycles of disturbance by fire and insect pests, 
+followed by natural regeneration. The forest species are predominantly coniferous, with 
+extensive areas of fire-origin stands of pure pine, and spruce and fir stands in higher elevation 
+areas.  Mixed stands are most common in the ecological transition zones. The harsh climate, 
+particularly cold winters, results in relatively slow growth rates, with natural-origin stands 
+requiring between 80 to 120 years to reach maturity. 
+While Indigenous people used fire to modify the forest, the extent of the impact of their 
+activities is unknown. Europeans began to arrive in the catchment area in the mid-late 19-th 
+century as prospectors and farmers, and commercial timber harvesting did not begin until 
+1912-13 when the first railway was built through the region. As in most other parts of the 
+world, early harvesting tended towards exploitation of the resource for the highest value 
+timber with little thought to long term sustainability.  Sawmills and early processing industries 
+developed in the 1930’sbut it was not until the 1960’s that forest management became more 
+professional.   
+In the late 1980s and early 1990s there was an increased global awareness of sustainability 
+issues and the need for more sustainable and multiple benefit forest management (considering 
+ecological and social impacts as well as economic). In particular, there were globally significant 
+conflicts between environmentalists and the forest industry over forestry activities in the 
+coastal old growth forests of BC. In 1995, the provincial government brought in a very closely 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+vi 
+ArborVitae Environmental Services Ltd. 
+ 
+regulated system known as the Forest Practices Code and embarked on a Protected Areas 
+Strategy that aimed to double the amount of protected area in the province.  The Forest 
+Practices Code has since evolved into a results-based system, where the objectives are set out 
+in forest management plans and it is up to industry foresters to determine how to best achieve 
+them. In addition, management approaches began to include voluntary third-party certification 
+schemes such as the Sustainable Forestry Initiative (SFI) and the Forest Stewardship Council 
+(FSC). These schemes aim to ensure that forest management is sustainable and continually 
+improving.  It is estimated that between 80-90% of the forest in the catchment area is certified 
+under SFI and some under FSC. 
+Ninety-six percent of the land in the catchment area is provincially owned Crown land.  These 
+are public lands whose use is regulated by the provincial government, and the timber on these 
+lands is a public resource regulated by government.  The BC Ministry of Forests, Lands, Natural 
+Resource Operations and Rural Development (FLNRORD) is responsible for forestry and 
+administers forest tenure, licensing, sets stumpage rates and enacts regulations regarding 
+overall stewardship of the forests.  The forest industry is responsible for preparing forest 
+management plans, which must be approved by FLNRORD, and undertaking operations in a 
+manner that is consistent with the forest plans and regulations.  Renewal of harvested areas is 
+an industry requirement, and managers must also meet provincial objectives regarding species 
+at risk, maintenance of productive capacity, water quality and biodiversity.  In this regime, the 
+only deforestation that occurs caused by forestry is associated with road-building – the 
+estimated amount in the catchment area is about 50 ha/year.  Total deforestation is estimated 
+at 300 ha/year, with conversion to agriculture as the biggest factor. 
+The forest industry of the catchment area is dominated by softwood sawmill that manufacture 
+dimension lumber from conifer trees.  Other users of forest fibre include “cant” mills, other 
+specialty mills, as well as the pellet plants that use the lower grades of conifer fibre.  Residual 
+chips from sawmilling are transported to the nearest pulp mills in Prince George.  There is 
+almost no hardwood harvested in the catchment area; hardwood accounts for 0.17% of the 
+harvest volume and may also be used by the pulp mills or an OSB manufacturer (the closest one 
+is seven hours one way). 
+This study covers the period from 2000 to 2019, which spans the length of time that the pellet 
+mills have been in operation.  This period also covers the outbreak of mountain pine beetle 
+(MPB) which killed hundreds of millions of cubic metres of lodgepole pine throughout the 
+province.  Prior the infestation, the forests of the catchment area had some of the highest 
+proportions of lodgepole pine in the province and they were correspondingly one the most 
+heavily impacted areas.  In response, the government and industry combined to launch a 
+massive salvage effort to use as much of the dead timber as possible.  This completely altered 
+the composition of the timber harvest.  Prior to the salvage, the harvest consisted of live pine 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+vii 
+ArborVitae Environmental Services Ltd. 
+ 
+and spruce but from 2002 or 2003 onwards, dead pine became a major part of the harvest 
+stream and averaged 55% during the 2010-2019 period.  As time passed, the dead timber 
+deteriorated so that it became unusable by sawmills in 2019, and almost 20 sawmills have 
+closed in the northern and central parts of BC as a result of the drop in timber supply (including 
+one which closed in the catchment area in 2020). 
+Inventory data shows that during the study period, most of the mature lodgepole pine was 
+killed by the MPB, which made the forest younger and increased the predominance of spruce 
+and Abies fir, the two other principle commercial species.  Allowable harvest levels have been 
+declining since 2015 and are poised to fall further. 
+During the 2015-2019 period, for which the pellet mills were able to provide accurate data on 
+their fibre intake, the harvest in the catchment area was 46.1 million m3.  Of this, 24.5 million 
+m3 (53%) was dead pine and the remainder a mixture of live spruce and Abies fir.  During this 
+same period, the two Pinnacle mills used the equivalent of about 7.5 million m3, representing 
+16.3% of the fibre harvested.  However, much of this fibre was sawmill residual; Pinnacle’s use 
+of roundwood was equivalent to about 1.6 million m3 or 3.5% of the total harvest.  Given this 
+low level of roundwood consumption, and Pinnacle’s use of low-grade fibre, Pinnacle’s wood 
+use has not affected harvesting levels in the catchment area.  
+Furthermore, given the structure of the industry and the large amount of residual and low-
+grade fibre, Pinnacle does not need to compete with other mills for fibre.  The consultants were 
+informed that Pinnacle pays the lowest prices for the lowest quality of fibre, which in the 
+absence of the pellet plants, would be either left in the forest, burned at the forest landing, or 
+otherwise disposed of by the sawmills. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+viii 
+ArborVitae Environmental Services Ltd. 
+ 
+A summary of this report’s key findings is provided in the tables below:  
+Is there any evidence that 
+bioenergy demand has 
+caused the following? 
+ 
+Analysis Findings 
+Deforestation? 
+Deforestation data were unavailable specifically for the catchment area 
+however the federal government tracks it by ecozone as part of its 
+national Greenhouse Gas Inventory reporting requirements. 
+The catchment area is in the Montane Cordillera ecozone and the 
+Canadian Forest Service reports that between 1980 and 2017, the area 
+of forest in the ecozone declined from 31,181,000 ha to 31,094,000 ha, 
+a decline of 87,000 ha or 0.28 % of the forest area.  Deforestation in the 
+catchment area was estimated at 300 ha/year.  Most deforestation in 
+the ecozone occurred because of conversion to agriculture; mining, 
+forestry and urban expansion were also contributing factors. The 
+ownerships on which the deforestation occurred were not specified, 
+however the majority of the conversion to agriculture and urban 
+expansion would have occurred on private land. Forest road 
+construction was estimated to have led to the loss of 50 ha of forest per 
+year in the catchment area. 
+Pinnacle has relied on sawmill residual fibre for 75-95% of its furnish up 
+until 2019. The balance of its furnish comes from other low-grade wood 
+and logging slash.  Bioenergy does not contribute to deforestation 
+because Pinnacle’s demand for pellet feedstock does not drive any 
+harvest activity.  
+A change in management 
+practices (e.g. rotation 
+lengths, renewal, species 
+change in forest)? 
+The mountain pine beetle infestation has been the primary influence on 
+forest management practices, including a significant increase in 
+harvesting to salvage dead timber.  This was supported by government 
+significantly increasing the allowable cut within the catchment area and 
+elsewhere where the infestation occurred.  Between 2000 and 2019, 
+deadwood made up a major part of the harvest, from as much as 90-
+95% during the 2004-08 period and declining to approximately 48% by 
+2019.  
+The abundance of salvage material and its use in sawmills increased the 
+supply of fibre available to the pellet mills; they benefited from these 
+circumstances but did not drive them.  Pinnacle’s use of fibre has not 
+influenced forest management practices, other than to reduce the 
+extent of roadside slash burning, because some roadside slash is ground 
+and used as feedstock for pellet production.   
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+ix 
+ArborVitae Environmental Services Ltd. 
+ 
+Is there any evidence that 
+bioenergy demand has 
+caused the following? 
+ 
+Analysis Findings 
+Diversion of wood fibre from 
+other uses or markets? 
+Pellet manufacturers use the lowest-quality fibre in the market. During 
+the study period, there was a sufficient quantity of this low-grade 
+material produced as a by-product from sawmilling that consumption 
+by pellet mills did not divert wood fibre from other uses or markets.  In 
+the hierarchy of wood grades, Pinnacle uses the lowest quality timber 
+which also fetches the lowest price; contractors would not sell higher 
+quality wood to Pinnacle when they can get a better price elsewhere. 
+The supply of residual material from sawmills and other timber 
+manufacturing has fallen in recent years as the overall rate of timber 
+harvest has fallen. However, that shortfall is largely being taken up by 
+recovery of fibre from slash and debris left in the forest that would 
+other be burned. That recovery is achieved by hauling tree fragments 
+into the plants for grinding on site or grinding in the forest and hauling 
+that material directly to the plants. 
+While some chips produced by the sawmills and cant mills are shipped 
+to the pulp mills in Prince George, these mills are not major suppliers of 
+pulp chips because the higher transport cost to Prince George 
+outweighs the price premium paid by the pulp mills. The many large 
+sawmills in Prince George are the primary suppliers of the pulp mills 
+there and mills in Houston and Burns Lake are marginal suppliers at 
+best.  Pinnacle uses the remainder of the waste from the cant mills. In 
+the absence of the pellet mills, the fibre they use would have been 
+burned or landfilled. 
+An abnormal increase in wood 
+prices? 
+Pellet manufacturers have not influenced timber prices in the 
+catchment area because they do not compete with other users for low-
+grade fibre – they use only low-quality fibre that other users will not 
+take.  Timber prices in the catchment area have been most strongly 
+influenced by lumber prices (which are influenced by US housing starts), 
+the US:Canada exchange rate, and general economic conditions. 
+A reduction in the volume of 
+timber in the forest? 
+The amount of growing stock in the forest has declined significantly 
+from 2000 to 2020 primarily due to the mortality caused by the MPB. 
+Within the catchment area, the MPB killed an estimated 157 million m3 
+between 1999 and 2014, representing 42% of the estimated 377 million 
+m3 of timber in the catchment area in 1999.  In addition, severe 
+wildfires in 2018 burned an estimated 7.1 million m3. 
+The use of fibre by Pinnacle has meant that more of the timber that was 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+x 
+ArborVitae Environmental Services Ltd. 
+ 
+Is there any evidence that 
+bioenergy demand has 
+caused the following? 
+ 
+Analysis Findings 
+harvested has been used, but it did not create any additional harvest 
+activity. Pinnacle’s demand for low-grade timber has meant that in 
+some harvest blocks, more dead timber is removed than would 
+otherwise be the case.  However, provincial government regulations 
+require minimum amounts of residual live and dead timber to be left on 
+site, and these requirements continue to be met and exceeded on 
+many blocks.  In conclusion, the demand for fibre from Pinnacle has not 
+impacted the volume of live timber left in a block or compromised the 
+site’s productivity. 
+A reduction in the rate of 
+carbon sequestration? 
+There has been very little deforestation during the analysis period and 
+harvest operations are monitored to ensure that site damage is 
+minimized.  Accordingly, the productive capacity of the land, and the 
+long-term capacity of the forest to sequester carbon, has not changed.  
+The major change in the catchment area affecting long-term 
+sequestration capacity is that more land has been set aside for 
+environmental and other reasons, so those areas will continue to store 
+carbon until there is a natural disturbance of some kind.  In the short- 
+and medium-term, the mortality of the mature pine has created a 
+younger forest which will have a more rapid growth rate owing to both 
+its age and the impact of forest management (planting and spacing) and 
+the use of improved seed.  As a result, the short- and medium-term 
+potential of the forest to sequester carbon has increased during the 
+analysis period, and the long-term capacity has not changed. 
+An increase in harvesting 
+above the sustainable yield 
+capacity of the forest? 
+During the analysis period, the timber harvest exceeded the sustainable 
+yield capacity of the forest.  This occurred as the harvest was increased 
+in an effort to salvage as much timber killed by the MPB as possible 
+before it deteriorated and became unusable.  This was a policy decision 
+by the provincial government to deal with an extraordinary situation. 
+However, the harvest during the analysis period contained high levels 
+of dead wood, ranging from well above 90% between 2004 and 2008 
+and trending down to 48% in 2019.  Historical growth figures are 
+difficult to ascertain, as is the amount of dead and live wood harvested; 
+accordingly it is difficult to compare with confidence the harvest of live 
+timber with growth during the analysis period. The 2020 growth rate is 
+estimated at 3.45 million m3/yr.  Given that almost no live wood was 
+cut between 2004 and 2008 and roughly half of the 2010-2019 harvest 
+(i.e. approx 5.0 million m3/year) was live wood, it is reasonable to 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+xi 
+ArborVitae Environmental Services Ltd. 
+ 
+Is there any evidence that 
+bioenergy demand has 
+caused the following? 
+ 
+Analysis Findings 
+surmise that the harvest of live wood was close to the amount of 
+growth between 2004 and 2019. 
+Notably, Pinnacle’s fibre procurement does not drive forest harvesting 
+so that the operations of the pellet mills have had no impact on 
+harvesting levels.   
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+xii 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+Impact of bioenergy 
+demand on: 
+Analysis Findings 
+Volume of timber in the 
+forest 
+Neutral. The volume of growing stock in the forest has declined significantly 
+during the review period due primarily to the MPB, and secondarily due to 
+extensive forest fires in 2018 and spruce bark beetle infestations.  Bioenergy 
+demand has meant that the timber which has been harvested is used more 
+fully, but it has not led to an increase in overall harvest or increased the amount 
+of live timber removed from a given harvest block. 
+Timber growth rates 
+Neutral.  Timber growth rates have declined due to the natural disturbance 
+factors cited above, however the large area of regenerating forest will cause 
+the total amount of growth in the catchment area to increase over the next 20 
+years.  The use of fibre for pellet production has not impacted how harvests are 
+conducted but somewhat more dead and low-grade timber is removed from 
+each timber block than would be the case in the absence of demand for fibre 
+from pellet mills. This happens more frequently on blocks closer to the plants 
+than those which are distant and have higher haul costs associated with them. 
+In other words, utilization has improved due to the demand for fibre for pellets. 
+However, because there is so much dead and low-grade fibre in the blocks 
+being harvested, the additional amount that is used for pellet production does 
+not reduce the productivity of the sites.  Provincial government regulations 
+require minimum amounts of residual live and dead timber to be left on site, 
+and these requirements continue to be met and exceeded on many blocks.  
+An additional change brought about by the demand from the Pinnacle mills is 
+that on some blocks, slash that has been brought to the landing is being ground 
+and brought to Pinnacle. However, in the absence of the pellet producer’s 
+demand, this would have either been burned or piled and left to decay.  In 
+conclusion, fibre procurement for pellet production has had no impact on 
+forest growth rates. 
+Forest area 
+Neutral.  The use of fibre for pellet production has had no impact on Crown 
+forest area, since the procurement of fibre for pellets does not affect harvest 
+levels or renewal approaches. The grinding of roadside slash will free up a small 
+amount of area for prompt renewal, and so by reducing the amount of area 
+where the slash would have been left to rot, there may be a marginal positive 
+impact on future forested area. 
+Wood prices 
+Neutral.  Because the fibre used by Pinnacle would not have been used by 
+anyone else in the absence of the pellet plants, pellet production has not 
+affected the overall wood price structure in the catchment area.  Primary 
+drivers of wood prices include factors which affect market demand for lumber, 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+xiii 
+ArborVitae Environmental Services Ltd. 
+ 
+exchange rates, transportation costs and the costs associated with complying 
+with regulatory requirements. 
+Markets for solid wood 
+products 
+Positive. Because the pellet mills rely so heavily on sawmill residuals for their 
+furnish, and this residual fibre would have otherwise been burned or landfilled, 
+pellet production provides some support for the sawmills in the catchment 
+area.  In addition, the presence of the pellet mills has enabled manufacturers to 
+build and operate cant mills that occupy a position in the value chain that is 
+intermediate between the sawmills and the pellet mills.  Pellet production did 
+not divert fibre from other uses; there are no close OSB plants and the nearest 
+pulp and paper mills are sufficiently distant that the higher cost of transport 
+outweighs any higher price that they can offer or wood fibre.  The pellet 
+industry has also created demand for chipping and bush-grinding, which has 
+fostered business opportunities and increased employment in the forest sector. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+1 
+ArborVitae Environmental Services Ltd. 
+ 
+1 Introduction 
+1.1 Background 
+Drax Group is a British electrical power generation and supply company that runs Europe’s 
+largest biomass-fueled power station – the UK’s largest decarbonisation project – supplying 
+7-8% of the country’s electrical needs.  Drax is among the world’s largest single-point 
+consumers of wood fibre and has committed to sourcing wood responsibly.  
+In accordance with Drax’s initiative to monitor forest management and timber market trends in 
+the jurisdictions where its supplier pellet mills operate, this report provides a review and 
+assessment of the trends in management and wood products markets in the catchment area of 
+two supplier mills in Burns Lake and Houston, British Columbia (BC).  These two mills are 
+operated by Pinnacle Renewable Energy Inc. and are located 80 km apart. 
+The Houston plant has been operating since 2006 and the Burns Lake facility since 2011.  The 
+Houston mill is a partnership between Canfor, Pinnacle and Witset First Nation.  Pinnacle’s 2020 
+Annual Report states that the annual capacity of the Houston mill is 220,000 ODMTs, while the 
+Burns Lake facility is 380,000 ODMTs.  Most of the wood fibre used in the Houston plant is 
+residual fibre from the Canfor sawmill in Houston while the Burns Lake mill depends heavily on 
+residual fibre from several nearby sawmills. 
+1.2 Report Goal 
+The goal of this report is to identify and assess the impacts that sourcing biomass for the two 
+pellet plants has had on the forest, its management, and wood markets.  This includes impacts 
+on timber inventory, forest growth, forest removals, wood prices, forest management 
+practices, and local wood fibre markets. 
+This report reviews the period 2000 to 2020, which coincides with an extensive outbreak of 
+mountain pine beetle (MPB); the resulting mortality of large parts of the mature forest was the 
+dominant factor affecting the forest and the industry during this period.  The review period also 
+covers the operational start-up of the two pellet mills and so provides an opportunity to 
+identify potential impacts of fibre procurement for the mills. 
+1.3 Report Structure 
+The report is organized as follows: 
+i. Description of the Catchment Area (Section 2): The geographic and socio-economic 
+characteristics of the catchment area are described. 
+ii. Forest Management Practices (Section 3): Approximately 96% of the forest in the catchment 
+area is managed by the provincial government, thus government policy is reviewed, 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+2 
+ArborVitae Environmental Services Ltd. 
+ 
+including a discussion of how it has evolved since 2000.  In addition, the impacts of the 
+Mountain Pine Beetle outbreak are discussed. 
+iii. Description of the Forest in the Catchment Area (Section 4): This section describes the 
+current state of the forest, both in area and volume terms, how harvesting is regulated, and 
+how the forest has changed since 2000.   
+iv. Timber Growth and Removals (Section 5): The volume of timber growth is compared with 
+the amount of timber removed through harvesting and natural disturbances. 
+v. Markets (Section 6): The markets for wood fibre in and around the catchment area are 
+profiled. 
+vi. Pricing (Section 7): Describes the method used to calculate stumpage prices are described 
+and local stumpage price trends examined. 
+vii. Summary of Key Trends and Outlook (Section 8). 
+viii. Annex 1 provides the analysis to establish the catchment area. 
+1.4 Project Consultants 
+Jeremy Williams, PhD, RPD (Ontario) 
+Dr. Jeremy Williams has extensive forest economics experience including reviews of timber 
+markets, timber pricing including stumpage rates, timber product production costs, and rates 
+charged by the Crown for property leases.  Recent relevant experience includes reviewing 
+forest management and timber markets in Nova Scotia, rental rates for Crown land in Ontario, 
+preparing a Regional Risk Assessment for BC against the SBP standard (in draft) and assessing 
+forest carbon offset protocols for the Ontario government.   
+In addition to these projects, Jeremy has completed numerous business cases, economic 
+evaluations and reviews.  He is also very knowledgeable and experienced with respect to forest 
+carbon pricing and accounting and has extensive experience working with and advising 
+Indigenous communities and organizations.   
+Dr. Williams earned a B.Sc.F. from the University of Toronto’s Faculty of Forestry (1979) and a 
+Ph.D. in from the same Faculty with a specialization in Forest Economics (1986).  He is a 
+principal of ArborVitae Environmental Services Ltd. and a Registered Professional Forester with 
+the Ontario Professional Foresters Association.  
+Gary Bull, Ph.D. 
+Dr. Gary Bull has a background in commerce as well as three degrees in forestry, specializing in 
+economics and policy. He has an interest in global forestry policy issues and is an expert on 
+forest and timber markets in Asia and ecosystem services markets.  In British Columbia, he has 
+focused his efforts on working on sustainable business development with First Nations 
+communities and sustainable fibre supply. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+3 
+ArborVitae Environmental Services Ltd. 
+ 
+Dr. Bull worked for the Food and Agriculture Organization of the United Nations before moving 
+back to Vancouver and joining the Faculty of Forestry at University of British Columbia. Gary is 
+currently a full professor and head of the Forest Resources Management Department at the 
+Faculty. Gary’s specialities include Aboriginal forestry, forest carbon finance, economics and 
+international trade.  Gary has been associated with SBP for several years and was selected to be 
+a member on SBP’s Standards Committee and Working Group on Carbon.  He also sits on the 
+External Review Panel of SFI and is a Director of Nature Bank.  
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+4 
+ArborVitae Environmental Services Ltd. 
+ 
+2 Catchment Area 
+2.1 Extent 
+A catchment area is the region from which a forest products mill sources its wood fibre.  This 
+assessment examines the catchment areas of two central BC pellet mills owned by Pinnacle 
+Renewable Energy Inc.  The mills are located in the towns of Houston and Burns Lake, which are 
+about 80 km apart.  Their catchment areas have extensive overlap, and hence in this review are 
+considered as one large catchment area supplying the pair of mills. 
+Approximately 95% of the furnish used by the two pellet mills is procured as residual material 
+from sawmills (mostly sawdust and planer shavings) also located in Houston and Burns Lake.  
+These sawmills obtain most of their sawlogs from three management units – their catchment 
+area consists of the Lakes Timber Supply Area (TSA), the Morice TSA, and the Vanderhoof 
+Forest District, which is part of the much larger Prince George TSA.  In this report we refer to 
+these units as Administrative Districts or Units.  
+These supply dynamics mean that the catchment area of the sawmills is effectively identical to 
+the catchment area for the pellet mills (See Figure 1).  The data identifying the three 
+Administrative Districts as the catchment area for the pellet mills is presented in Annex 1. 
+2.2 The Forest 
+Each Administrative District encompasses roughly 1.4 - 1.5-million ha, as shown in Table 1.  
+About 94% of the catchment areas is Crown land, which is public land under provincial 
+jurisdiction.  Most of the remaining area is owned privately, and there is some land under 
+jurisdiction of the federal government that is primarily Indian Reserves.  Indigenous 
+communities in the area do not own substantial lands outright but do have forest management 
+and timber harvesting rights on some areas. The Crown forest management landbase (CFMLB), 
+which is the part of the Crown landbase that supplies wood fibre to the forest industry, is 
+approximately one-third of the total area.  The derivation of the CFMLB is explained in more 
+detail later in section 3.4 of this report. 
+Administrative 
+Unit  
+Total Area 
+(ha) 
+Crown Land (ha) 
+Private Land (ha) 
+Federal land (ha) 
+Lakes (ha) 
+1,577,488 
+1,502,949 
+71,600 
+2,939 
+Morice (ha) 
+1,509,113 
+1,477,882 
+28,902 
+2,329 
+Vanderhoof (ha) 
+1,387,323 
+1,237,182 
+144,209 
+5,932 
+TOTAL 
+4,473,923 
+4,218,013 
+244,711 
+11,200 
+ 
+ 
+94% 
+5% 
+ 
+< 1% 
+TABLE 1. LAND OWNERSHIP STATISTICS FOR THE CATCHMENT AREA. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+5 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+ 
+FIGURE 1: CATCHMENT AREA FOR THE BURNS LAKE AND HOUSTON PELLET MILLS IN CENTRAL BC. 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+6 
+ArborVitae Environmental Services Ltd. 
+ 
+Private and federal land contribute to the regional timber harvest however there are no 
+inventory data or records of the amount of timber that originates from these ownerships; the 
+province does not have jurisdiction over federal land and the federal government does not 
+maintain a detailed forest inventory on lands it owns.  As a result, this report does not include 
+these lands in the catchment area analysis, however the extent of their contribution to the 
+catchment area harvest and forest landbase is in line with their share of the total area and 
+activities on these lands do not affect the trends and conclusions identified in this report. 
+2.3 Geography and Climate 
+The geography of the catchment area is dominated by gently rolling hills, large lakes, and small 
+mountain ranges. The area has moderately warm summers with an average daily maximum of 
+17oCandcold winters with average daily maximum of -7oC.The average temperature and 
+precipitation figures mask considerable extremes, as winter temperatures often reach -30oC. 
+Summers are moderate with temperatures seldom exceeding 30oC.The average precipitation in 
+Burns Lake (in the center of the catchment area) is about 50 cm, which includes approximately 
+30 cm water equivalent of snow. However, because parts of the area are rugged and there is 
+considerable variation in elevation, the temperature and precipitation patterns vary throughout 
+the catchment area and are strongly affected by aspect, elevation and other topographical 
+characteristics. 
+2.4 Transportation Infrastructure 
+A paved two-lane highway (Highway 16) bisects the catchment area, connecting the main 
+towns and villages and all major sawmills in the area, as well as the two pellet plants.  As the 
+main transportation artery through the area, Highway 16 joins Houston and Burns Lake with 
+Vanderhoof and Prince George to the east and Smithers, Terrace, and Prince Rupert to the 
+west.  Highway 16 is also the primary route for hauling timber and wood fibre. 
+A single-track railway, owned and operated by the Canadian National Railway, roughly parallels 
+the highway through the catchment area. The railway is used primarily to carry shipping 
+containers, grain, and other commodities to the seaport at Prince Rupert.  Pinnacle Pellet has a 
+dedicated loading facility at the Prince Rupert port and most product from the Burns Lake and 
+Houston pellet plants is shipped through that facility. 
+2.5 Development of the Catchment Area 
+Europeans began to settle in the valleys within the catchment area in the late 19-th century and 
+prospectors began to explore the area, stimulated by a large discovery of gold in Barkerville, BC.  
+The valleys were well-suited to agriculture and the first mining activity is reported to have 
+occurred in 1910.  Mining has always been a significant contributor to the local economies. 
+Several large copper and molybdenum mines in the area have operated over the years; at 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+7 
+ArborVitae Environmental Services Ltd. 
+ 
+present, the Huckleberry copper mine is producing near Houston.  Forestry, agriculture, mining 
+and transportation have been the key economic sectors in the catchment area for many years. 
+Railway tie production was the first commercial forest products manufacturing in the 
+catchment area, beginning around 1912-13 when the first railroad was being built.  Both Burns 
+Lake and Houston developed into major tie-cutting centres.1 
+During the 1930’s and 1940’s, there were a growing number of portable sawmills in the area 
+(42 in the Houston district by 1949), which moved to where the timber was.  In 1948, the first 
+stationary mill was built near Houston, and later a planer, drying kilns and chippers were added.  
+Another large (for the time) sawmill was built in Houston in 1969 but the company soon ran 
+into financial trouble and was purchased by Northwood Pulp and Timber. This mill became 
+what is now the Canadian Forest Products (Canfor) sawmill.  Houston also had a second large 
+sawmill (Houston Forest Products) which was owned by West Fraser Timber, however it closed 
+permanently in 2014 as part of an industry rationalization brought on by the Mountain Pine 
+Beetle infestation. 
+Today, the catchment area is sparsely populated.  Burns Lake (just less than 2,000 residents) 
+and Houston (approximately 2,100 residents) are the largest communities in the area. Smaller 
+communities in the Vanderhoof Administrative Unit include Vanderhoof (2,000 residents) and 
+Fraser Lake (1,000 residents). These figures exclude people living rurally outside of the town 
+boundaries; the area also includes several scattered smaller communities. Statistics Canada 
+shows that the population of Burns Lake declined by 13% between the 2011 and 2016 census 
+dates while Houston’s population was stable.  The city of Prince George is the regional centre 
+with a population of about 74,000 residents; in the past five years the city’s population has 
+risen by roughly 0.5% per annum.   
+2.6 First Nations 
+Numerous First Nations have traditional territory within the catchment area.  The Lakes TSA 
+overlaps the traditional territory of 13 First Nations while the traditional territory of eight First 
+Nations extends into the Morice TSA (some First Nations have territory in both TSAs).The 
+traditional territory of the Carrier Sekani and Takla Lake First Nations is centred in the Lakes 
+TSA, and there are a number of politically and economically autonomous sub-groups living in 
+local communities.  The number of Aboriginal people in the catchment area is somewhat 
+uncertain because the national census is typically challenged to obtain a high response rate on 
+Indian reserves.  The most recent census data, from 2016, shows that within Burns Lake, 900 
+people or approximately 45% of the population, identified as Aboriginal, while in Houston 375 
+people did so. 
+ 
+1See https://www.houston.ca/forestryfor an informative history of the Houston region. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+8 
+ArborVitae Environmental Services Ltd. 
+ 
+Indigenous communities have significant forest management and timber harvesting rights in 
+the area.  The 2019 Lakes TSA discussion paper reports that First Nations are deeply involved in 
+the forest sector through partnerships, community forests and as holders of forest licences.  
+The Burns Lake Native Development Corporation is a 10% owner of Babine Forest Products and 
+Decker Lake Forest Products while Witset First Nation is a partner owning 10% of the Houston 
+pellet plant.  
+The local forest sector is a source of employment and the Carrier Sekani First Nations 
+Collaboration Agreement with the provincial government provides a framework to deepen First 
+Nation involvement in decision-making.  In addition, the Omineca Environmental Stewardship 
+Initiative Demonstration Project, a partnership between the Carrier Sekani First Nations and the 
+Province of B.C., is underway with the goal of assessing the current state and cumulative effect 
+of natural and development-related disturbance on moose, forest biodiversity, and several 
+watershed values. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+9 
+ArborVitae Environmental Services Ltd. 
+ 
+3 Forest Management 
+3.1 Legislation 
+The provincial Forest Act and its regulations set out the forest management framework on 
+Crown land, including forest tenure, planning requirements, allowable cut determination, 
+timber measurement and marking, and the setting of stumpage rates.  The Forests and Range 
+Protection Act (FRPA) is the primary provincial legislation regulating forestry practices and 
+planning on Crown land.  Under FRPA, the Forest Planning and Practices Regulation (FPPR) 
+identifies objectives set by government for environmental values including fish, wildlife, 
+biodiversity, soils, and water that must be addressed in Forest Stewardship Plans, which are the 
+strategic planning documents required for Crown forests.  The government may also establish 
+orders under the Government Actions Regulation or the Land Use Objectives Regulation for 
+specific land uses such as ungulate winter range, wildlife habitat areas, critical habitat for fish 
+and old growth management areas. 
+On Crown land, the provincial government regulates forest planning and operations, including 
+the determination of the allowable harvest. Government approves all forest management plans 
+on all tenures.  On area-based tenures, the plan preparer determines an allowable harvest 
+which must be approved by the provincial government.  On volume-based tenures, the Ministry 
+of Forests, Lands, Natural Resource Operations and Rural Development’s (FLNRORD) Chief 
+Forester follows a rigourous process to establish the allowable cut.  The province also monitors 
+the performance of the licensees in conducting their operations in a way that does not cause 
+damage to the site and meets requirements associated with biodiversity conservation. 
+3.2 Stumpage 
+Stumpage in BC is the price paid by anyone harvesting timber from Crown land. The stumpage 
+rate is set by the Provincial Government using a market-based system. BC Timber Sales (BCTS), 
+a branch of the Provincial Government, publicly auctions “blocks” of merchantable timber.  The 
+market prices paid for this timber are used to set the rates for similar types and qualities of 
+Crown timber harvested by other forest operators under long-term harvesting rights granted by 
+the Government.  In BC, all timber scheduled for harvest undergoes a detailed field inventory 
+process (timber cruising) to assess the quantity and quality of timber.  The cruise and bid data 
+from BCTS enables the government to develop regression equations that are used to set the 
+stumpage rates on non-BCTS blocks.  In this way, the provincial government receives a fair 
+market-based stumpage for all of the timber harvested from Crown land. Stumpage rates for 
+forest licensees are revised by the Government every four months to reflect changing market 
+conditions. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+10 
+ArborVitae Environmental Services Ltd. 
+ 
+3.3 Timber Supply Areas 
+The province is organized into 37 TSAs - nine along the Coast, 15 in the South, and 13 in the 
+North.  Within each TSA there are multiple forestry tenures.  Some grant rights to harvest 
+timber in a defined area (i.e., area-based tenures) and other forms of tenure grant rights to 
+harvest a set volume (i.e., volume-based tenures) from within a given TSA.  Area-based tenures 
+within the catchment area include Community Forest licences, Woodlot Licences and First 
+Nations Woodland Licences (FNWL).2  An Annual Allowable Cut (AAC) is determined by the 
+provincial Chief Forester for each area-based tenure.  For the volume-based tenures, an AAC is 
+determined by the provincial Chief Forester for each TSA and apportioned amongst the volume-
+based licence holders by the Minister of FLNRORD.  
+While volume-based tenures supply the majority of the timber harvest in the catchment area, a 
+substantial amount of TSA area has been shifted from volume-based to area-based tenures 
+during the past 20 years.  The area-based tenures have been designated to more widely 
+distribute the benefits of forestry and to provide for a variety of forest management 
+approaches.  This trend can be seen for the Lakes TSA in Figure 2, which was prepared by 
+Agathe Bernard in the Nadina District FLNRORD office3.  This transfer of land from volume-
+based tenures to area-based tenures represents a source of downward pressure on the AAC 
+calculated for the volume-based portion of the TSA.   
+ 
+Licence Type 
+Lakes 
+Morice 
+Vanderhoof 
+Total 
+Community Forest 
+223,311 
+23,156 
+27,499 
+273,966 
+First Nations Woodland 
+Licence 
+41,359 
+Incl Lakes 
+8,083 
+48,043 
+Woodlot Licences 
+25,107 
+20,121 
+22,214 
+67,442 
+TOTAL 
+289,777 
+43,277 
+57,796 
+390,850 
+TABLE 2. AREA (HA) OF AREA-BASED TENURES IN THE CATCHMENT AREA. 
+Table 2 shows the area in Community Forests, FNWLs, and Woodlot Licences in each of the 
+Administrative Districts.  Note that some of the FNWL areas span both the Lakes and Morice 
+TSAs hence the total area in both is shown under the Lakes TSA.  The area shown in Table 2 is 
+gross area; most of this is forested, however the area available for timber harvesting will be 
+somewhat less.  As Figure 2 illustrates, the extent of these licence areas has grown over the 
+years as new licences have been issued and existing ones expanded.  
+ 
+2 There are no Tree Farm Licences, which is another form of area-based tenure, within the catchment area. 
+3Used with permission. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+11 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 2. CHANGE IN AREA-BASED TENURE IN THE LAKES TSA: 2000-2018. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+12 
+ArborVitae Environmental Services Ltd. 
+ 
+3.4 Netdowns 
+It has been mentioned above that a large percentage of the catchment area is unavailable for 
+timber harvesting for operational and policy reasons.  The Timber Supply Review (TSR), 
+conducted by the Chief Forester to determine the AAC, includes a lengthy process of identifying 
+the landbase that can support commercial timber production.  This process, known as the 
+“netdown”, involves removing areas that are unavailable for timber harvesting from the forest 
+landbase to arrive at the Crown Forest Management Landbase (CFMLB), which is the landbase 
+used to calculate the AAC.  Areas that are netted out include, but are not limited to, lands 
+where timber harvesting is prohibited, such as parks, areas that do not support merchantable 
+timber or which are inoperable due to topography or other factors, and ecologically sensitive 
+areas (such as Old Growth Management Areas or OGMAs) and riparian areas.  
+Parks and conservation reserves are readily identifiable in the forest inventory and netted out 
+(see Figure 3).  In contrast, designating which areas are inoperable is a judgement call on the 
+part of the Chief Forester and these areas are not formally identified in the forest inventory.  
+Many types of reserves, such as ungulate winter range and recreational zones, are partially 
+available for harvesting and the netdown process involves a review of department guidance 
+and discussions with staff.  The area that is netted out for these purposes is also not recorded in 
+the forest inventory. 
+A netdown is only done as part of a TSR and in the catchment area, each of the three 
+Administrative Units has a different vintage of TSR.  The most recent TSR for the Morice TSA 
+was done in 2013, the Prince George TSA had a TSR done in 2015 and the TSR for the Lakes TSA 
+is in process.  Each of these TSRs will have been done to somewhat different standards and in 
+different regulatory environments, since TSR’s are not revised every time there is a legislative 
+change.  Additionally, the TSR process only applies to the volume-based tenure lands, and as 
+discussed, this area has been shrinking over time in the catchment area.  In brief, there are 
+many moving parts in a determination of the timber harvesting landbase in the catchment area 
+and the applicable AAC; a detailed analysis is beyond the scope of this project. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+13 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 3. CATCHMENT AREA SHOWING EXTENT OF PARKS. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+14 
+ArborVitae Environmental Services Ltd. 
+ 
+Instead, the consultants have reviewed the most recent TSRs for the three administrative units 
+of the catchment area and approximated the amount of area removed from the forested 
+landbase for the various reasons described above.  The results are shown in Table 3, which is 
+based on a compilation of information from the 2020 Lakes TSR, the 2013 Morice TSR, and the 
+2015 Prince George TSR.  Note that because the Prince George TSR did not break out data 
+separately for the Vanderhoof District, the numbers for the Vanderhoof District are based on 
+pro-rating the total area in Prince George TSA by 17.4%, which is the proportion of the TSA area 
+in the Vanderhoof District. 
+The second column of Table 3 shows the total area in each land designation and the third 
+column shows the percentage of the total landbase in volume-based harvest licences in this 
+designation.  Accordingly, approximately 21% of the area in volume-based licences (at the time 
+of the most recent TSR in each administrative unit) is non-forested or not sufficiently 
+productive to grow trees.  The fourth column to the right presents the amount of area in each 
+designation that is considered unavailable, and the right-hand column shows the percentage of 
+that designation that is unavailable.  Of the non-forested and non-productive lands, 79% was 
+considered unavailable in the three TSR analyses.   
+Land Designation 
+Total Area 
+(ha) 
+ 
+Unavailable 
+Area (ha) 
+ 
+Non--forested and non--productive 
+1,178,159 
+21% 
+932,768 
+79% 
+Roads 
+37,678 
+1% 
+33,697 
+89% 
+Inoperable areas 
+613,262 
+3% 
+114,225 
+19% 
+Low productivity/problem forest 
+types4 
+775,813 
+6% 
+254,884 
+33% 
+Parks and protected areas 
+255,433 
+3% 
+135,834 
+53% 
+Ecologically sensitive areas 
+458,390 
+7% 
+304,299 
+66% 
+Wildlife reserves 
+362,135 
+2% 
+83,774 
+23% 
+Total 
+3,680,870 
+66% 
+2,939,127 
+ 
+TABLE 3. SUMMARY OF AREA (HA) UNAVAILABLE FOR INCLUSION IN CROWN TIMBER HARVESTING LANDBASE. 
+Roads are considered largely unavailable, while only 19% of areas that are considered 
+inoperable were excluded (the Chief Forester left open the possibility that changes in harvest 
+ 
+4Problem forest type is the term used for stands that are physically operable and above minimum site quality yet 
+are not currently utilized or have marginal merchantability due to quality, size or volume.  In the catchment area, 
+problem forest types consist of deciduous-leading-stands (since here is no demand for deciduous timber) and old, 
+slow-growing ESSF and SBS stands. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+15 
+ArborVitae Environmental Services Ltd. 
+ 
+equipment might enable some inoperable areas to be harvested; for example, one company 
+has introduced a cable-tethering process to access steep slopes). 
+Table 3 also shows the areas of parks and other protected areas (shown in Figure 3), sensitive 
+areas, wildlife reserves and low productivity forest that are removed from the timber 
+harvesting landbase.  Combining the results of the netdown processes in the three TSRs yields a 
+CTHLB of roughly 34% of the catchment area landbase.  (Note that the data in Table 3 was 
+derived from the three TSR processes that took place at three different times: 2013 for Morice, 
+2015 for Prince George and 2020 for Lakes TSA.  A 2020 determination of the CTHLB in the 
+entire catchment area would yield somewhat different results as the assumptions used in the 
+netdown process will have changed over time.) 
+3.5 The Mountain Pine Beetle Outbreak 
+As mentioned above, the MPB outbreak is the most significant factor that affected the 
+catchment area forest (and indeed the provincial forest) during the past twenty years.  MPB 
+was already present in the catchment area in 2000, and the province responded by increasing 
+AAC levels to permit salvage operations.  These increases occurred as soon as 2001 in the Lakes 
+TSA, when the Chief Forester added 1 million m3/year to the AAC to “manage” the MPB 
+infestation.  During the 2002 TSR for the Prince George TSA, the Chief Forester added 3 million 
+m3 to the AAC for MPB salvage.  By 2004, the outbreak had worsened dramatically, and an 
+expedited TSR was conducted for Lakes, Prince George and Quesnel TSAs, which constituted 
+the hardest-hit region of the province (Quesnel is a small TSA located south of the Prince 
+George TSA). FLNRORD staff estimated that the MPB might kill as much as 160 million m3of the 
+existing467 million m3 of pine volume in the three TSAs and a discussion paper prepared by 
+FLNRORD for the 2004 TSR indicated that many mature lodgepole pine stands (i.e. older than 
+80 years) were infested, as were a number of pine stands in the 61-80 year age class.   
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+16 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE4. ANNUAL MORTALITY DUE TO MPB IN THE CATCHMENT AREA (M3/YEAR). 
+4 shows the annual mortality, expressed in cubic metres5, caused by the MPB within the 
+catchment area; the very rapid escalation of mortality between 2002 and 2005 is evident.  The 
+decline in the annual rate of mortality was equally rapid; the infestation was so intense that the 
+beetles quickly killed the majority of the pine in the susceptible age classes. 
+The AAC for the Lakes TSA, which had been almost doubled in 2001 from 1.5 million m3/yr to 
+2.96 million m3/yr, was increased again in 2004 to 3.16 million m3/yr to facilitate salvage 
+harvesting. Figure 5 shows the AACs for the Lakes and Morice TSAs and the pro-rated AAC for 
+Vanderhoof District from 1999 to 2019.   
+ 
+ 
+5Source: https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/forest-
+health/forest-pests/bark-beetles/mountain-pine-beetle/mpb-projections 
+ -
+ 5,000,000
+ 10,000,000
+ 15,000,000
+ 20,000,000
+ 25,000,000
+ 30,000,000
+Catchment Area (Volume Pine Killed) cubic m
+Lakes TSA
+Morice TSA
+Vanderhoof Forest District
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+17 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 5. AACS IN LAKES AND MORICE TSAS AND VANDERHOOF DISTRICT. 
+The AAC for the Morice TSA was not increased in the same way as for Lakes and Prince George, 
+but instead (for reasons unknown to the consultants) the allowable harvest was raised through 
+a different mechanism outside of the TSR process (i.e., Innovative Forest Practices Agreement).  
+Because of this, the AAC figure used in the Morice TSR does not provide an accurate 
+assessment of the allowable harvest during this period. 
+Error! Reference source not found. shows the cumulative volume of pine killed in the 
+catchment area due to MPB.  The annual mortality rate peaked in 2005 or 2006, and the 
+elevated AACs remained in place until 2011, when the Lakes and Prince George AACs were 
+decreased somewhat.   
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+3.50
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+AAC (Million m3/yr)
+Lakes
+Morice
+Vanderhoof
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+18 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 6. CUMULATIVE MPB MORTALITY IN THE CATCHMENT AREA (MILLION M3) 
+Table 4Error! Reference source not found. shows the proportions of pine in the growing stock 
+on the CTHLB in 1999 – the amounts of pine are very high.  In fact, Vanderhoof District had 
+highest proportion of pine in province and Lakes TSA was third highest; Morice TSA was mid-
+range for interior forest areas.  The relatively low abundance of pine in the Morice TSA meant 
+there was less MPB mortality on both a total volume basis and as a percentage of the pre-
+outbreak amounts of pine.  
+Area 
+CTHLB Total 
+Volume in 
+1999 
+CTHLB Pine 
+Volume in 
+1999 
+Percent 
+Pine 
+Mortality 
+by 2014 
+CTHLB Pine 
+Volume in 
+2014 
+Percent 
+Pine 
+Mortality 
+Lakes TSA 
+110.6 
+71.0 
+64.3% 
+53.6 
+17.4 
+75.5% 
+Morice TSA 
+132.9 
+57.1 
+43.0% 
+32.2 
+24.9 
+56.4% 
+Vanderhoof 
+District 
+133.3 
+97.6 
+73.3% 
+71.3 
+26.4 
+73.0% 
+Catchment Area 
+376.7 
+225.8 
+59.9% 
+157.1 
+68.6 
+69.6 % 
+TABLE 4. GROWING STOCK VOLUME IN THE CTHLB, AMOUNT OF PINE AND PERCENTAGE PINE (MILLION M3). 
+Table 4 also shows the extensive loss of live volume caused by the MPB; Figure 7 shows a 
+typical landscape with high levels of MPB mortality.  Almost 75% of the pine volume in Lakes 
+and Vanderhoof was killed, amounting to roughly half of the total 1999 growing stock in the 
+Lakes TSA and 54% in Vanderhoof.  The most susceptible stands were those with high 
+proportions of mature lodgepole pine in them – mortality was usually close to 100% in these 
+types of stands.  The impact was lower but still substantial in Morice, which lost just over half of 
+its pine and 25% of the 1999 total volume. 
+Figure 7 shows an aerial view of MPB mortality in the catchment area in various stages of 
+progress, with the grey trees being dead and the red and yellow in stages of dying. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Cumulative Mortality (Million m3)
+Lakes
+Morice
+Vanderhoof
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+19 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 7. MORTALITY CAUSED BY MPB: THE RED TREES ARE DEAD AND DYING (PHOTO COURTESY OF JIM THROWER). 
+As 4 shows, the MPB outbreak had largely subsided by 2010, and there was relatively little new 
+mortality.  The decline occurred as the beetle had killed the majority of the most susceptible 
+pine stands and the rate of spread varied with the terrain and was also slower in stands with a 
+greater diversity of species.  Salvage harvesting also began to slowly decline and the AACs in the 
+Lakes and Prince George TSAs were lowered slightly in 2011.  As salvage harvesting was 
+completed, the Chief Forester began to institute much large reductions in the AAC, as seen in 
+Figure 5.  In 2018, the Prince George AAC fell by one-third to 8.35 million m3, which is well 
+below the pre-MPB level of 9.36 million m3/yr.  The 2015 Morice TSR lowered the AAC by 
+265,000 m3/yr to 1.9 million m3 until March 2020, when it made another step lower to 1.6 
+million m3. The next Morice TSR is presently scheduled for 2025. The Lakes TSR is in process 
+now and a hefty decline is anticipated. 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+20 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 8. COMPARISON OF LEADING SPECIES COMPOSITION FOR THE LAKES TSA CTHLB AREA: 2000 VS. 2018. 
+Figure 8 illustrates how the MPB outbreak altered the species and age distribution of the forest 
+in the Lakes TSA (FLNRORD 2019).  The height of the bars represents the percentage species 
+composition of the forest, while the upper portion of each bar represents the proportion of the 
+forest in the leading species group older than 50.  The vertically hatched portion of the bar 
+represents the amount of forest less than 50 years old.  The proportion of pine leading stands 
+declined from 77% in 2000 to 55% in 2018, with the spruce-leading stands and balsam-leading 
+stands doubling in abundance. The age composition of the pine also shifted to a much younger 
+age; in 2018, 70% of the pine is less than 50 years old, as compared to 18% being that young in 
+2000.  Very similar changes occurred in Vanderhoof and in the Morice TSA.  
+3.6 The Impact of the 2018 Wildfires 
+The forests in the catchment area are primarily fire-driven ecosystems, and the mortality 
+caused by the MPB created perfect conditions for extensive fires.  It is not surprising that 2017 
+and 2018 were British Columbia’s two worst forest fire years ever, in terms of area burned.  
+While the 2017 fires were largely outside the catchment area, the 2018 fires were concentrated 
+in the catchment area, as shown in Figure 9.  Of the 1.3 million ha burned that year, 
+approximately 370,000 ha were burned in the catchment area. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Balsam
+Pine
+Spruce
+Balsam
+Pine
+Spruce
+Percent THLB Area
+2000
+Comparison of Leading Species By THLB Area
+2000 vs. 2018
+> 50 years
+≤ 50 years 
+2018
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+21 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 9. MAP OF 2017 AND 2018 FIRES. 
+Table 5 presents some key fire impact statistics for the catchment area, with the volume losses 
+pertaining to the CTHLB only.  There were additional losses in non-CTHLB areas, such as parks.  
+Table 5Error! Reference source not found. shows that within the perimeter of the fire, roughly 
+half of the volume was lost.  Overall, the Lakes TSA and Morice TSAs lost 5% and 3% of their 
+growing stock, respectively; the absolute level of loss was greatest in the Vanderhoof District.  
+Data were not broken out by FLNRORD for the Vanderhoof District, however the majority of 
+burn area in the Prince George TSA occurred in Vanderhoof, and thus the impacts on the 
+District are likely to be similar to those on the two TSAs. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+22 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+Area 
+Area 
+burned 
+(M ha) 
+% volume 
+loss 
+Green 
+timber loss 
+as % CTHLB 
+GS 
+Live timber 
+loss (Million 
+m3) 
+Dead timber 
+loss (Million 
+m3) 
+Lakes 
+175 
+45 
+5 
+1.7 
+0.75 
+Morice 
+73 
+54 
+2.9 
+2.5 
+0.82 
+Vanderhoof 
+123 
+46 
+N/A 
+2.9 
+N/A 
+SUM 
+371 
+ 
+ 
+7.1 
+ 
+TABLE 5. IMPACTS OF 2018 FIRES ON THE CATCHMENT AREA. 
+Wildfires are variable in their intensity and within the perimeter, some trees are left alive, 
+others are scorched and killed while others are partially burned.  Depending on access, the 
+living and scorched trees can be salvaged for sawlogs, with the unusable wood providing hog 
+fuel and potentially some pellet furnish depending on the amount of char that is present. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+23 
+ArborVitae Environmental Services Ltd. 
+ 
+4 Forest Inventory 
+4.1 Inventory 
+The analysis of the landbase and the forest in the catchment area has been derived from the 
+provincial government’s Vegetation Resource Inventory (VRI).  The VRI is the provincial 
+standard for forest inventory.  It is based on digital aerial imagery captured periodically to 
+delineate forest and non-forest areas.  Attributes are attached to all inventory polygons and are 
+updated annually for tree growth, natural mortality, and depletions such as timber harvesting, 
+wildfires, and insect caused mortality. 
+The government has a program of periodic checks or audits of key inventory attributes using 
+statistically design ground sample programs.  Audits of forest stands greater than 50 years of 
+age were conducted in the three administrative units in January 2020.  Results showed that VRI 
+estimates of volume were close in the Lakes TSA and Prince George TSA (of which the 
+Vanderhoof District is a part), and slightly underestimated in the Morice TSA. 
+4.2 Ecosystem Types 
+For ecological purposes, BC has been classified into Biogeoclimatic zones (BEC zones).  Each BEC 
+is an extensive area with a broad homogeneous macroclimate that influences development of 
+vegetation and soil.  BEC zones in the catchment area are largely boreal, sub-alpine, and alpine 
+in nature.  A small portion of the Morice and Lakes TSAs is in two BEC zones that have coastal 
+climate influences (CMA and CWH), however the catchment area does not include the Interior 
+Cedar Hemlock (ICH) BEC zone, which has been considered by some as being synonymous with 
+the interior temperate rainforest. 
+Two BEC zones in the catchment area account for 92% of the total area (Table 6). The SBS is the 
+dominant zone, defined by lower elevations with gently rolling hills and moderate climate.  The 
+ESSF occurs at higher elevations with a more severe climate, shorter growing season, and lower 
+forest productivity.  
+Code 
+BEC Zone 
+Area (ha)  
+SBS 
+Sub-boreal Spruce 
+3,117,069 
+70% 
+ESSF 
+Englemann Spruce-Sub-Alpine Fir 
+979,664 
+22% 
+SBPS 
+Sub-boreal Pine Spruce 
+121,936 
+3% 
+BAFA 
+Boreal Altai Fescue Alpine 
+154,463 
+4% 
+MS 
+Montane Spruce 
+3,882 
+<1% 
+CMA 
+Coastal Mountain-heather Alpine 
+7,890 
+<1% 
+CWH 
+Coastal Western Hemlock 
+56,985 
+1% 
+MH 
+Mountain Hemlock 
+32,034 
+<1% 
+ 
+ 
+4,473,923 
+100% 
+TABLE 6. AREA (HA) BY BEC ZONE IN THE CATCHMENT AREA. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+24 
+ArborVitae Environmental Services Ltd. 
+ 
+Figure 10 shows the information in Table 6 in graphical format – the dominance of the SBS Zone 
+is very evident. Note that the MS and CMA zones have been removed from Figure 10 for clarity.  
+Interestingly, the BEC zone nomenclature references spruce and fir but not pine, which prior to 
+the MPB epidemic, was the most abundant species in the mature forest. 
+ 
+FIGURE 10. PROPORTIONAL AREA X BEC BEC ZONE IN THE CATCHMENT AREA. 
+4.3 Area 
+4.3.1 Leading Species 
+The catchment area forest is dominated by coniferous tree species, principally lodgepole pine, 
+white and Englemann spruce, and sub-alpine fir (Table 7 and Figure 11).  Spruce and pine-
+dominated stands account for 67% of the forest in the catchment area and Abies leading stands 
+23%.  Hardwood stands account for about 10% of the forest area. 
+Leading Species 
+Area (ha) 
+ 
+Pine 
+1,276,166 
+34% 
+Spruce 
+1,228,787 
+33% 
+Abies Fir 
+865,279 
+23% 
+Aspen 
+285,828 
+8% 
+Hemlock 
+62,715 
+2% 
+Birch 
+3,951 
+<1% 
+Douglas-fir 
+21,007 
+<1% 
+Larch 
+1,461 
+<1% 
+SUM 
+3,745,194 
+100% 
+TABLE 7. AREA X LEADING SPECIES IN THE CATCHMENT AREA. 
+BAFA Boreal Altai Fescue
+Alpine
+CWH Coastal Western
+hemlock
+ESSF Englemann spruce-
+Sub-Alpine Fir
+MH Mountain hemlock
+SBPS Sub-boreal pine
+spruce
+SBS Sub-boreal spruce
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+25 
+ArborVitae Environmental Services Ltd. 
+ 
+The relative abundance of spruce has increased due to the effect of the widespread mortality of 
+mature pine stands killed by the MPB (Figure 8 shows how MPB affected forest composition 
+and age in the Lakes TSA).  Nevertheless, there remains a substantial amount of pine leading 
+forest in the catchment area, most of it in the younger age classes. 
+ 
+FIGURE 11.  PROPORTIONAL AREA X LEADING SPECIES IN THE CATCHMENT AREA. 
+ 
+4.3.2 Age Class 
+The BC forest inventory uses an age class schedule that reflects historic conditions in the coastal 
+forest: age classes 1-7 are twenty-year age classes, while age class 8 is stands that are between 
+141-250 years of age, and class 9 is older than 250 years.  The majority of the forest in the 
+catchment area is older than 100 years (Figure 12) and age class 8 (ages 141-250) has by far the 
+largest area, reflecting in part the large range of ages included in it as well as a substantial area 
+of low productivity and difficult to access stands. Classes 3 and 4 (ages 41-60 and 61-80) have 
+relatively little area in them in part because fire suppression had been effective between 1940 
+and 1980 and there were no large natural disturbances during that period.  Classes 1 and 2 
+(ages 1-20 and 21-40) are relatively large and consist mainly of renewal of harvested area.  
+Most post-harvest regeneration is achieved through planting (generally 1-2 years after harvest) 
+with some left for natural regeneration.  Most of the un-salvaged MPB killed areas are 
+Aspen
+Birch
+Spruce
+Pine
+Abies fir
+Hemlock
+Douglas-fir
+Larch
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+26 
+ArborVitae Environmental Services Ltd. 
+ 
+regenerating naturally.6  Naturally and artificially renewed stands are often spaced, but very 
+little commercial thinning is done in the BC Interior and there is almost none in the catchment 
+area. 
+ 
+FIGURE 12. AREA X AGE CLASS FOR THE MAIN FOREST TYPES IN THE CATCHMENT AREA. 
+In the catchment area, most stands become merchantable around 80 years and peak in mean 
+annual increment in age classes 5 or 6.  While there is no firm rotation age in BC, conifer stands 
+are usually harvested between 80 and 120 years of age.7  In contrast, stands in age classes 8 
+and 9 are growing slowly if at all.  Stands in these age classes are frequently in biological decline 
+and are commercially unattractive in all but the most favourable timber markets.   
+The age class structure of the forest is imbalanced as a result of variations in operability and the 
+lack of a hardwood market as well as the impact of natural disturbances – this is accepted by 
+forest managers who do not have a mandate or a goal to “normalize” the age class structure of 
+even the commercially available forest. 
+ 
+ 
+ 
+6Very little commercial thinning is done in BC, and there is almost none in the catchment area. 
+7Merchantable blocks of timber are usually scheduled for harvest based on strategic considerations, such as access 
+construction, balancing haul distance, and operability. 
+0
+200
+400
+600
+800
+1000
+1200
+Area (thousand ha)
+Age Class
+Spruce
+Pine
+Larch
+Hemlock
+Douglas-fir
+Abies Fir
+Birch
+Aspen
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+27 
+ArborVitae Environmental Services Ltd. 
+ 
+Lead 
+Species 
+Age Class 
+Total 
+1 
+1-20 
+2 
+21-40 
+3 
+41-60 
+4 
+61-80 
+5 
+81-
+100 
+6 
+101-
+120 
+7 
+121-
+140 
+8 
+141-
+250 
+9 
+> 250 
+Aspen 
+10.9 
+29.5 
+41.2 
+30.7 
+79.6 
+38.9 
+40.4 
+14.7 
+0.1 
+286.1 
+Birch 
+0.4 
+0.3 
+0.3 
+0.4 
+0.9 
+0.6 
+0.9 
+0.2 
+0.0 
+4.0 
+Abies Fir 
+8.2 
+11.1 
+18.2 
+27.5 
+67.6 
+63.9 
+118.9 
+466.3 
+92.0 
+873.6 
+Doug-fir 
+0.2 
+0.8 
+0.3 
+1.3 
+2.5 
+1.4 
+5.0 
+9.6 
+0.1 
+21.0 
+Hemlock 
+0.0 
+0.0 
+0.4 
+2.1 
+4.8 
+2.8 
+5.2 
+25.6 
+22.4 
+63.5 
+Larch 
+0.0 
+0.0 
+0.0 
+0.2 
+0.2 
+0.1 
+0.4 
+0.5 
+0.0 
+1.5 
+Pine 
+341.9 
+288.7 
+64.5 
+54.9 
+243.6 
+81.9 
+91.6 
+107.7 
+0.8 
+1277.7 
+Spruce 
+89.3 
+55.8 
+37.2 
+47.4 
+182.4 
+119.9 
+196.1 
+482.6 
+18.7 
+1230.4 
+SUM 
+450.9 
+386.1 
+162.2 
+164.4 
+581.6 
+309.6 
+458.4 
+1107.2 
+134.0 
+3757.7 
+TABLE 8. AREA BY AGE CLASS BY LEADING SPECIES IN THE CATCHMENT AREA (THOUSAND HA). 
+4.4 Volume 
+4.4.1 Forest Type and Species 
+Figure 13 shows the growing stock in stands classed by the leading species.  The growing stock 
+figures are calculated separately for each species identified in each stand, however the 
+information is presented on the basis of the leading species. Stands that have douglas-fir, birch, 
+hemlock, and larch have been omitted for simplicity of presentation as they cumulatively make 
+up only 3% of the growing stock volume. 
+ 
+FIGURE 13. GROWING STOCK VOLUME OF KEY STAND TYPES IN THE CROWN FOREST (MILLION M3). 
+0
+20
+40
+60
+80
+100
+120
+140
+Abies Fir
+Pine
+Aspen
+Spruce
+Growing Stock (Million m3)
+Stand Type by Leading Species
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+28 
+ArborVitae Environmental Services Ltd. 
+ 
+Since many of the stands in the catchment area are spruce-fir mixtures, there would be a 
+considerable amount of spruce volume in the Abies fir growing stock in Figure 13, and vice-
+versa.  The relative proportions of growing stock reflect the extensive mortality of pine due to 
+MPB – formerly pine-dominated stands have moved into the fir, poplar or spruce-leading stand 
+types once the pine mortality was inventoried. 
+The inventory also tallies the volume of dead timber in each stand.  The total volume of dead 
+timber in the inventory is 90.08 million m3, equivalent to 24% of the live growing stock.  The 
+dead timber is not identified by species in the inventory but is primarily lodgepole pine killed by 
+the MPB, which has proved to remain merchantable for sawtimber for as long as 15 years. 
+The volume of pine shown in Figure 13 is less than the 68.6 million m3 of pine reported in the 
+catchment area in 2014 (See Table 4); the difference reflects the differences in the basis of the 
+volume determination (i.e. leading species and dead wood included in Figure 13 vs estimated 
+actual live volume only in Table 4) and the impacts of the 2018 fires. 
+4.4.2 Age Class 
+Figure 14, based on current data from the BC forest inventory shown in Table 9, shows the 
+amount of live growing stock by leading species and age class for the forests in the catchment 
+area.  As expected, there is little growing stock in the two youngest age classes, and also in age 
+classes 3 and 4 (representing stands aged 41-60 and 61-80) due to the relative lack of area in 
+those latter two classes.  Fully 43% of the growing stock in the catchment area is in age class 8 
+(ages 141-250), equally divided between spruce and fir.  Age classes 5 and 7 (ages 81-100 and 
+121-140, respectively) each have roughly 15% of the growing stock in the catchment area. 
+ 
+FIGURE 14. GROWING STOCK BY LEADING SPECIES X AGE CLASS FOR THE MAIN FOREST TYPES IN THE CATCHMENT AREA. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+29 
+ArborVitae Environmental Services Ltd. 
+ 
+The forest is transitioning from first-growth natural-origin stands to second-growth stands 
+which have been established after a harvest.  Licensees have been responsible for basic 
+silviculture since 1987, and since 2007, 100% of the spruce seed used has been genetically 
+improved (FLNRORD 2019)8.  Improved spruce is estimated to yield 20% more than the average 
+natural stock.  Improved lodgepole pine stock was used starting in 2009, and today 64% of pine 
+stock is improved, with a 9% gain in yield expected.   
+ 
+1-20    
+21-40 
+41-60 
+61-80 
+81-100 
+101-
+120 
+121-
+140 
+141-
+250 
+> 250 
+Abies 
+Fir 
+0.00 
+0.04 
+0.51 
+1.07 
+4.17 
+3.80 
+8.25 
+43.58 
+13.97 
+Pine 
+0.01 
+6.58 
+4.03 
+3.82 
+21.56 
+7.61 
+7.88 
+9.34 
+0.04 
+Aspen 
+0.00 
+0.34 
+0.77 
+1.26 
+6.06 
+3.05 
+3.88 
+1.75 
+0.01 
+Spruce 
+0.00 
+0.67 
+2.48 
+3.44 
+15.77 
+10.81 
+21.49 
+63.34 
+2.58 
+SUM 
+0.01 
+7.63 
+7.78 
+9.58 
+47.55 
+25.26 
+41.50 
+118.00 
+16.60 
+TABLE 9. GROWING STOCK BY AGE CLASS AND LEADING SPECIES (MILLION M3). 
+On the Lakes TSA, there are roughly 23,000 ha of stands established prior to 1987, 63,000 ha 
+established between 1987 and 2007, and about 50,000 ha regenerated since 2007.During the 
+past four decades, approximately 67% of the renewal was planted.   
+The April 2019 Data Package for the Lakes TSA reports that many of the stands renewed prior 
+to 1987 were planted, and some were naturally renewed and spaced and so are considered as 
+managed.  Pure spruce and pure pine were planted, as well as 80:20 mixtures of the two 
+species, which pine leading sometimes and spruce leading other times.  Area x planting 
+composition data were not available. 
+Between 1987 and 2007, all renewal was through planting.  Improved spruce seed was used for 
+75% of the planted spruce, with an average estimated genetic gain of 14%.  No genetic gain was 
+estimated for the planted pine.  Mixed species were planted on all sites, at 90:10 and 70:30 
+spruce: pine and pine:spruce ratios, as well as a 40% pine, 30% spruce and 30% Abies fir 
+combination.  These changes were presumably made to add diversity to the second-growth 
+forest.  The widespread use of improved stock since 2007 has prompted FLNRORD to consider 
+the post 2007 stands as growing according to different yield curves.  A genetic gain of 20% has 
+been applied to planted spruce and 9% to planted pine, and an even wider range of species 
+mixtures has been planted. 
+ 
+8FLNRORD 2019. Data Package - Update. Lakes Timber Supply Area – Timber Supply Review. April 2019.  
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+30 
+ArborVitae Environmental Services Ltd. 
+ 
+Approximately 9,000 ha of plantations were fertilized during the past decade.  Most of the 
+fertilized areas were pine-leading plantations around 35 years of age, however some areas of 
+50 – 70 year spruce was also fertilized.  
+4.5 Future Growing Stock 
+Due to the effects of the MPB and the 2018 wildfires, the growing stock and average age of the 
+forest in the catchment area are at a cyclical low point; Figure 14shows a substantial amount of 
+area in age classes 1 and 2 (1-20 and 21-40, respectively).  These stands are young enough that 
+they presently have little growing stock and in age class 1 the volume growth rates are 
+relatively low.   
+As mentioned, a TSR is presently underway for the Lakes TSA and a discussion paper released in 
+2019 by FLNRORD as part of the process describes the projected state of the forest. Because 
+there are no recent analyses for Morice and Vanderhoof, the Lakes TSA analysis is reviewed 
+here in some detail since the results are representative of the entire catchment area. 
+The Lakes TSR discussion paper notes that the size of the Crown managed forest landbase is 
+approximately 33% smaller (265,000 ha) than it was in 2000, due to the transfer of area from 
+volume-based tenures to area-based tenures (see section 3.3).  The AAC in the volume-based 
+portion of the TSA is expected to decline significantly when the Chief Forester sets the new 
+AAC, likely within the next year.  The base case AAC in the discussion paper (FLNRORD 2019) 
+shows the live volume portion of the AAC being reduced to 400,000 m3/yr for 60 years before it 
+rises to a long-term sustainable level of 900,000 m3/yr.  There is also a 400,000 m3/yr harvest of 
+dead wood planned for the first decade, that then varies between approximately 50,000 and 
+80,000 m3/yr to year 60.  The pathway of the total and merchantable growing stock9 is shown in 
+Figure 15 for the base case timber supply projection in the Lakes TSA.  The base case is the 
+scenario that captures current practice and seeks to balance objectives such as long-term 
+sustainability, provision of timber, and optimal use of the remaining dead wood in the forest10; 
+the AAC that is determined by the Chief Forester will likely be consistent with the base case. 
+ 
+9 Merchantable stands are conifer-leading stands older than 80 years and containing more than 140 m3/ha 
+10 The Discussion Paper notes that there is a significant amount of dead wood remaining on the landbase however 
+there is a great deal of uncertainty regarding its continued merchantability.  The base case has not changed the 
+assumed “shelf life” of the dead pine; the base case scenario reflects a sustainable live volume harvest with a focus 
+on stands with the highest proportion of dead timber in them. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+31 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 15.  BASE CASE GROWING STOCK PROJECTION ON LAKES TSA. 
+The AAC determination also needs to consider the transition from the primary forest to the 
+second-growth forest, much of which has been planted and tended and grows more rapidly 
+than natural origin stands.  Between the expected gain from using improved seed and the 
+application of management, growth rates in the managed stands are roughly twice those of 
+natural origin stands.  The Lakes TSA base case shows the primary forest providing all of the 
+harvest for the next 25 years, after which the second-growth becomes an increasing proportion 
+of the harvest volume.  By year 40, second-growth stands are expected to supply approximately 
+67% of the harvest volume, and by year 60 it will be more than 90%. 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Volume (million m3)
+total
+merchantable
+decades from now
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+32 
+ArborVitae Environmental Services Ltd. 
+ 
+5 Timber Removals and Growth 
+5.1 Removals 
+During the study period (2000-2019), the three principle sources of removals were the MPB, 
+wildfires, and harvesting.  This assessment has reviewed the primary source of forest mortality, 
+namely the MPB, as well as the 2018 wildfires in sections 3.5 and 3.6, respectively.  This section 
+will examine the harvest in detail. 
+5.1.1 Harvest 
+Like everything else, harvesting was greatly affected by the MPB outbreak during the study 
+period; harvesting was elevated compared with previous periods due to the concerted effort to 
+salvage MPB-killed timber. Salvage harvesting began to ramp up as early as 2001 and continued 
+at substantial levels through most of the assessment period.  The extensive salvage harvesting 
+meant that in many years, well over 50% of the harvest consisted of dead pine. 
+Table 10 shows the volume harvested each year from 2010-2019 by species, and Figure 16 
+shows the same data for the three primary species.  On average, the annual harvest was 
+approximately 10 million m3 between 2010 and 2019; 2011 and 2013 were the two highest 
+years with harvests of 12.1 million m3 and 11.4 million m3, respectively.  From 2017 to 2019, the 
+harvest showed a declining trend, with the 2019 harvest being 7.7 million m3. 
+Lodgepole pine made up the majority of the harvest, at 65% over the entire period, and spruce 
+comprised 25%.  Abies fir made up just less than 10%.  Hemlock made up only 0.3% and the 
+deciduous species accounted for less than 0.2% of the harvest. 
+ 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+SUM 
+Aspen 
+38 
+16 
+16 
+8 
+2 
+15 
+5 
+5 
+14 
+28 
+147 
+Birch 
+3 
+1 
+2 
+0 
+0 
+2 
+1 
+0 
+1 
+8 
+18 
+Cottonwd 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2 
+6 
+9 
+Lodgepole 
+Pine 
+8245 
+8310 
+6933 
+7648 
+6439 
+7114 
+6295 
+5433 
+4635 
+3682 
+64734 
+Spruce 
+1947 
+2723 
+2383 
+2779 
+2201 
+2406 
+2428 
+3032 
+2719 
+2663 
+25281 
+Abies 
+681 
+1027 
+903 
+903 
+758 
+825 
+895 
+1170 
+1237 
+1256 
+9655 
+Douglas-
+fir 
+17 
+24 
+18 
+18 
+30 
+34 
+34 
+19 
+52 
+61 
+307 
+Rejects 
+15 
+4 
+2 
+2 
+2 
+4 
+1 
+1 
+4 
+0 
+35 
+Hemlock 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+3 
+3 
+7 
+Cedar 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+SUM 
+10905 
+12088 
+10239 
+11350 
+9430 
+10383 
+9653 
+9656 
+8650 
+7665 
+100019 
+TABLE 10. CATCHMENT AREA HARVEST VOLUME BY SPECIES (THOUSAND M3) 
+The proportion of pine in the harvest trended down gradually, from 75% in 2010, to between 
+65 and 69% between 2011 and 2016, before declining to roughly 55% in 2017 and 2018 and 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+33 
+ArborVitae Environmental Services Ltd. 
+ 
+thence to 48% in 2019.  This reflects the trajectory of the salvage.  On the other hand, the 
+proportion of spruce trended higher during the past decade, rising from 18% in 2010 to an 
+average of 30% between 2016 and 2019. 
+Harvest data from FLNRORD for the individual TSAs show that between 2004 and 2008, when 
+the salvage was most intensive, 99.2% of the volume harvested in the Lakes TSA was pine, 
+primarily dead and dying timber. About two-thirds of the harvest in the 2010 and 2019 period 
+was pine (Figure 17).  Between 2012 and 2018, 13% of the Lakes harvest was live pine (average 
+of 167,844 m3/year), 58% was dead pine (737,750 m3/year on average) and the remaining 29% 
+was live timber of other species (average was approx 360,000 m3/year).  Like the Lakes TSA, a 
+considerable amount of pine salvage occurred in the Morice TSA; data provided by FLNRORD 
+show that 46% of 2015 harvest was dead timber, which declined in subsequent years to reach 
+29% in 2019. 
+ 
+FIGURE 16. CATCHMENT AREA HARVEST VOLUME BY PRIMARY SPECIES (M M3). 
+Figure 17 shows the proportion of the three main species groups in the total harvest between 
+2010 and 2019. 
+ 
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Harvest Volume (M m3/yr)
+Lodgepole Pine
+Spruce
+Abies
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+34 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 17. PROPORTIONS OF 2010-2019 TOTAL HARVEST VOLUME BY PRIMARY SPECIES. 
+Figure 18 summarizes harvested volumes for the past ten years by two broad quality classes.  
+The sawlog grade represents the best quality timber whereas the low-grade timber consists of 
+logs with defect and rot, small logs and other lower grade materials that cannot be processed in 
+a sawmill (See section 6.3 for more detail).  The sawlog  grade timber is the most valuable and is 
+processed by the sawmills. 
+ 
+FIGURE 18. ACTUAL HARVEST IN CATCHMENT AREA. 
+On average, 95% of the sawlog grade was live timber and 5% was dead.  Even though dead, the 
+wood could be sawn in a sawmill and met the quality specifications for the grade. 
+Lodgepole Pine
+Spruce
+Abies
+ -
+ 2,000,000
+ 4,000,000
+ 6,000,000
+ 8,000,000
+ 10,000,000
+ 12,000,000
+ 14,000,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Harvest (m3)
+Annual Harvest in Catchment Area
+LowGrade
+SL
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+35 
+ArborVitae Environmental Services Ltd. 
+ 
+In contrast, 95% of the low-grade wood was dead and only 5% was living. Sawmills were using 
+some of the grade 4 dead wood while that which they couldn’t process went either to the cant 
+mills or, if its quality was very poor, directly to the pellet mills.  The proportion of dead wood in 
+the harvest between 2010 and 2019 ranged between 50 and 59 %, averaging 55% over the 
+period; this suggests that 5.5 million m3 of dead wood was cut on average each year.   
+5.2 Deforestation 
+Deforestation is the removal of forest cover as the land is converted to a different use other 
+than forestry.  Timber harvesting followed by renewal of the forest is not deforestation - 
+clearing forest for agriculture is.  BC does not report on deforestation and the BC forest 
+inventory does not readily allow one to determine the rate of deforestation, primarily because 
+each time the inventory is updated with new photography, the assessment of what is and is not 
+forest changes for areas that are borderline forests, typically sub-alpine and alpine areas in the 
+case of the catchment area. 
+However, the Canadian Forest Service (CFS) tracks deforestation to meet Canada’s obligations 
+for national greenhouse gas reporting.  These data are tabulated by ecozone, which are very 
+large areas. The catchment area is in the Montane Cordillera ecozone and the CFS reports that 
+between 1980 and 2017, the area of forest in the ecozone declined from 31,181,000 ha to 
+31,094,000 ha, a reduction of 87,000 ha or 0.28 % of the forest area.  The amount of 
+deforestation averaged 2,350 ha/yr, with approximately 300 ha/yr occurring in the catchment 
+area.  The leading causes of deforestation have been conversion to agriculture (40%), urban 
+expansion (17%), forestry roads and landings (17%) and mining (15%). The ownerships on which 
+the deforestation occurred were not specified, however the majority of the conversion to 
+agriculture and urban expansion would have occurred on private land. Forest roads and 
+landings accounted for a loss of approximately 400 ha per year in the ecozone; since the 
+ecozone is approximately eight times as large as the catchment area, this translates to a loss of 
+50 ha/year in the catchment area. While forest companies are required to renew harvested 
+lands, and thus not contribute to deforestation, provincial policy in general is neutral in terms 
+of whether it encourages or discourages deforestation.  
+5.3 Growth 
+The VRI estimates the annual growth rate of each stand based on its species composition and 
+site characteristics.  These growth rates are all modelled in the VRI as if the stands renewed 
+naturally, which is not the case.  For the past fifty years, many of the stands in the catchment 
+area have been renewed by planting followed by a spacing operation, and some naturally 
+renewed stands have been spaced.  In addition, as mentioned above, improved seed has 
+increasingly been used to grow the planting stock.  As a result, the VRI underestimates the 
+current rate of growth. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+36 
+ArborVitae Environmental Services Ltd. 
+ 
+To obtain a more realistic rate of growth for the forest management landbase, the consultants 
+re-estimated the growth rates of young stands using managed stand yield curves. In the 
+absence of the ability to accurately determine how stands originated, all stands less than 50 
+years old were assumed to be managed.  The results of this assessment are shown in Table 11. 
+To simplify the presentation, Table 11 shows the results for four age classes in the portion of 
+the forest that is identified in the inventory as the forest management landbase. The Regen age 
+class is recently harvested and renewed area that has not been assessed as free-to-grow and so 
+has not been assigned stand characteristics.  Most of the Regen area is less than 10 years old.   
+The row labelled CAI (Current Annual Increment) shows the total annual volume growth in each 
+age class and the row labelled Avg CAI shows the average annual growth per hectare by age 
+class.  These data are portrayed in Figure 19.  Despite being 31% of the area, the 1-50 year age 
+class accounts for 62% of the total growth.  Overall, the average growth rate is 1.2 m3/ha/year; 
+the large amount of area in the oldest age class greatly lowers the increment for the forest 
+management area as a whole.  
+Values 
+Regen 
+1-50 yrs 
+51-100 yrs 
+101+ yrs 
+Total 
+Area (ha) 
+56,273 
+829,497 
+533,159 
+1,224,027 
+2,642,956 
+CAI (m3) 
+0 
+1,708,700 
+1,060,182 
+680,045 
+3,448,927 
+Avg CAI (m3/ha) 
+0 
+2.1 
+1.9 
+0.6 
+1.2 
+CMAI age 
+0 
+84 
+117 
+139 
+119 
+CMAI (m3) 
+0 
+3,640,813 
+809,891 
+1,452,778 
+5,903,482 
+CMAI (m3/ha) 
+0 
+4.3 
+1.4 
+1.1 
+1.9 
+TABLE 11. CURRENT ANNUAL INCREMENT (M3/HA), AREA AND TOTAL INCREMENT IN THE FOREST MANAGEMENT AREA. 
+ 
+FIGURE 19. CURRENT ANNUAL GROWTH. 
+0
+0.5
+1
+1.5
+2
+2.5
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+Regen
+1-50  yrs
+51-100 yrs
+101+ yrs
+Average CAI/ha (m3)
+Total CAI (Million m3/yr)
+CAI (m3)
+CAI (m3/ha)
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+37 
+ArborVitae Environmental Services Ltd. 
+ 
+The growth rates in the stands older than 50 years have been reduced by the MPB.  While many 
+of the high percentage pine stands have been salvaged and renewed, stands that were a 
+mixture of pine and spruce have experienced a loss of pine volume but the remaining species 
+continue to form a stand.  Likewise, some of the area within the 2018 fire zones was only 
+partially killed, leaving stands in a similar under-stocked condition.  These depleted but 
+“unsalvaged” stands will have low rates of growth because the stocking has been so reduced.  
+As a result, the current growth within the TSA is below the capacity of the forest, however the 
+large area of young managed stands will provide for a sizeable boost in growth rate over the 
+next several decades. 
+Table 11 provides an indication of the potential growth rates by showing the CAI at the age 
+when the Mean Annual Increment peaks, or culminates (i.e. the age of CMAI).  These average 
+ages of CMAI are shown, as well as the average total annual increment at CMAI, and the per 
+hectare increment at the same time.  These data are graphed in Figure 20. 
+As time goes by and natural origin forest is harvested and the regenerated areas grow 
+according to the managed yield curves, the area in the 1-50 age class will move into its most 
+productive age. As this happens, the total amount of growth and the average increment per ha 
+in the forest will rise.  The managed stands achieve peak MAI at 84 years on average, while the 
+unmanaged stands achieve peak MAI at ages 117 and 139, respectively.  Stands are generally 
+harvested when they are near peak MAI.  The total increment achieved by the current stands at 
+the age of peak MAI is 5.9 million m3/year, which provides an indicator of future levels of 
+growth from the forest management landbase. 
+ 
+FIGURE 20. PEAK POTENTIAL ANNUAL INCREMENT BY AGE 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Regen
+1-50  yrs
+51-100 yrs
+101+ yrs
+Peak Maximum MAI/ha (m3/year)
+Peak Maximum MAI (Million m3/yr)
+CMAI (m3)
+CMAI (m3/ha)
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+38 
+ArborVitae Environmental Services Ltd. 
+ 
+5.4 Growth to Removal Ratio 
+During the 2010-2019 period, the primary source of removals from the catchment area was 
+timber harvesting, which accounted for 100.2 million m3 during the period.  MPB mortality was 
+minimal, as the majority of it occurred during the previous decade.  The 2018 wildfires are 
+estimated by FLNRORD to have killed 7.1 million m3 in the catchment area. 
+Table 11 shows that the current annual growth on the forest management landbase is 3.45 
+million m3.  Since annual growth rates are not available for previous years, the growth over the 
+ten-year period can be approximated as ten times the 2020 figure, or 34.5 million m3. 
+Thus, the total removals of 107.3 million m3 during the period handily exceeded growth. 
+However, approximately 55 million m3 of the harvest consisted of dead wood, so the removal of 
+live wood was only 52.3 million m3, or 17.8 million m3 more than estimated growth. 
+In the prior decade, 2000-2009, MPB killed 157 million m3 however a much greater percentage 
+of the harvest was dead pine during the period – as much as 98% in some years.  As a result, it 
+is likely that the growth rate during 2000-2009 exceeded the removals of live timber from 
+harvesting. 
+The growth to removal ratio has been greatly affected by the impacts of MPB on the forest and 
+the harvesting response.  The growth rate for the catchment area is near a cyclical low point 
+due to the mortality caused by the MPB, which has created the conditions for the recent fires 
+and bark beetle infestations.  As the large area of young managed forest grows and reaches the 
+ages of rapid growth, the growth increment in the catchment area will increase significantly.   
+At the same time, the allowable harvest is presently near 8.0 million m3/yr and being reduced.  
+Figure 5 shows that in 2000, the AAC for the volume-based licence area was roughly 5.3 million 
+m3, and one may anticipate that the live portion of the harvest will soon be reduced to or 
+below this level.  There is still a deadwood component in the harvest, although it is relatively 
+minor, and the total growing stock is projected to decrease for another 10-15 years, while 
+merchantable growing stock will decline for another 30 years.  There will be a long period of 
+adjustment after the-MPB infestation.  As a result, the growth to removals ratio is not an 
+especially accurate indicator of trends in the forest or of the overall sustainability of forest 
+management. 
+Between 2015 and 2019, the catchment area harvest was 46.1 million m3.  Pinnacle’s use of 
+fibre was equivalent to 7.5 million m3, representing 16.3% of the harvest volume11.  However, 
+much of this was sawmill residual; Pinnacle’s use of roundwood was equivalent to 1.6 million 
+m3 or 3.5% of the total harvest.  Given this low level of roundwood consumption, and Pinnacle’s 
+ 
+11 One ODT = 2.45 cubic metres. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+39 
+ArborVitae Environmental Services Ltd. 
+ 
+use of low-grade fibre, the consultants conclude that Pinnacle’s wood use has not affected 
+harvest levels.  
+The consultants believe that before long, growth will exceed the volume of live timber 
+harvested. The growing stock in the catchment area will enter a long period of increase given 
+the commitment to silvicultural and forest management investments.  Demand for fibre by 
+pellet mills will not be driving this trend or any related decisions. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+40 
+ArborVitae Environmental Services Ltd. 
+ 
+6 Market Profile 
+6.1 Overview 
+The forest industry is the primary driver of the economy in the catchment area.  The foundation 
+of the industry is the production of solid wood products, i.e., dimension lumber manufactured 
+in sawmills.  Most of the timber harvested from the catchment areas is processed by local mills, 
+although some sawlogs from the Vanderhoof District are shipped to Prince George. About two-
+thirds of the lumber produced in BC is exported to the US.  
+Sawdust and shavings from sawmills, as well as chips and trim blocks, are the main supply of 
+fibre for pellet plants. The chips and trim blocks are ground and represent a minor proportion 
+of the sawmill residuals. More recently, “hogfuel” from sawmills (miscellaneous waste fibre, 
+mostly tree bark) is being used by pellet plants and biomass powered generators.  
+The catchment area also has secondary manufacturing facilities and speciality mills (e.g. 
+telephone poles and cedar mills).  In Burns Lake and Houston, low-grade logs that do not meet 
+the quality specifications of the sawmills are processed in local ‘cant’ mills, where the logs are 
+squared into cants, which are put into containers as ‘squares’ and exported to Asia.  
+Most of the waste from the cant mills goes to the pellet mills however there is demand from 
+pulp and paper mills in Prince George for the chips produced from the sawmills.  Approximately 
+55-60% of the volume of wood processed in sawmills is recovered as lumber, 35% as chips, and 
+the remainder as sawdust, shavings, and hogfuel.  The nearest Oriented Strandboard (OSB) mill 
+is even further, located near Fort St. John, seven hours from Burns Lake.  The pulp and OSB 
+mills draw only a minor amount of their furnish from the catchment area and are incidental to 
+the local forest sector, leaving the pellet mills as the primary destination for sawmill residues 
+produced in the catchment area. 
+Figure 21 shows the location of the main forest products mills in the catchment area and the 
+surrounding region.  Small sawmills with a capacity of less than 94,390 m3/r12and other small 
+speciality mills, such as the cant mills, are not shown.  There is a string of large sawmills along 
+Highway 16 from Houston to Prince George; they are indicated by a single symbol regardless of 
+whether there is one or more mills of the same type in a community (e.g. Burns Lake and Prince 
+George).  Similarly, the pulp mill symbol on Prince George represents the four pulp and paper 
+mills in that city.  Table 12 lists the mills by type, company, location and capacity.  The capacity 
+data was obtained from FLNRORD 2020.13   
+ 
+12 Equivalent to 40 million fbm. 
+13 FLNRORD. 2020. Major Primary Timber Processing Facilities in British Columbia 2018.  Forest Policy and 
+Indigenous Relations Division, FLNRORD, BC. April 2020. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+41 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 21.  MILL LOCATIONS IN CATCHMENT AREA. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+42 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+Company 
+Location 
+Capacity 
+Catchment Area 
+Sawmills 
+Babine Forest Products Ltd 
+Burns Lake 
+361 M m3 
+Canadian Forest Products Ltd. 
+Vanderhoof (Engen) 
+762 
+Canadian Forest Products Ltd. 
+Houston 
+707 
+West Fraser Mills Ltd. 
+Fraser Lake 
+398 
+Decker Lake Forest Products 
+Burns Lake 
+127 
+Nechako Lumber Co. 
+Vanderhoof 
+386 
+Pellet Mills 
+Pinnacle Renewable Energy 
+Burns Lake 
+383 M ODTs 
+Pinnacle Renewable Energy 
+Houston 
+204 
+Premium Pellet 
+Vanderhoof 
+207 
+Adjacent to Catchment Area 
+ 
+ 
+Sawmills 
+Canadian Forest Products Ltd. 
+Prince George 
+554 M m3 
+Carrier Lumber Ltd. 
+Prince George 
+491 
+Lakeland Mills Ltd 
+Prince George 
+230 
+West Fraser 
+Smithers 
+412 
+Pulp Mills 
+Canadian Forest Products Ltd. 
+Prince George 
+333 M tonnes 
+Canadian Forest Products Ltd. 
+Prince George 
+316 
+Canadian Forest Products Ltd. 
+Prince George 
+563 
+ 
+ 
+ 
+Chip Mills 
+Canadian Forest Products Ltd. 
+Prince George 
+596 million ODTs 
+Pellet Mills 
+Pacific Bioenergy 
+Prince George 
+285 M ODTs 
+Smithers Partnership 
+Smithers 
+33 
+ 
+ 
+ 
+TABLE 12. MAJOR FOREST PRODUCTS MILLS IN THE CATCHMENT AREA AND SURROUNDING REGION. 
+Much of the forest area in the catchment has been certified to the SFI standard, which has been 
+adopted by Canfor and many of the other licensees.  The Burns Lake Community Forest is the 
+main area within the catchment that has been certified to the FSC standard.  In all, between 80-
+90% of the forest is certified.  Additionally, Pinnacle’s two pellet mills have been certified to the 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+43 
+ArborVitae Environmental Services Ltd. 
+ 
+Sustainable Biomass Program standard, which includes requirements associated with the 
+sustainability of fibre sourcing. 
+6.2 Pellet Plants 
+Pellet mills in the catchment area include the two Pinnacle mills as well as a smaller facility in 
+Vanderhoof (Premium Pellet).  The Vanderhoof plant is located immediately adjacent to a 
+sawmill, which represents almost the entire the source of furnish for that mill. A new pellet 
+plant was commissioned in 2018 in Smithers, to the west of the catchment area. That plant, 
+which is a partnership between Pinnacle (70%) and West Fraser (30%), was built on the site of a 
+former particleboard mill.  The new plant sources its fibre primarily from a large sawmill in 
+Smithers and from other sawmills to the west of Smithers. Pacific Timber, part of the larger 
+Tahtsa Group, is a relatively new company that was started to make use of salvage timber that 
+was killed by the MPB epidemic. Its pellet mill in Prince George primarily sources from local 
+sawmills. Distances between sawmills and pellet mills are generally less than 100 km. 
+As detailed below, the pellet mills rely on residuals from the sawmills and use the lowest grades 
+of fibre that the other mills do not or cannot use.  Thus, the pellet mills play an important role 
+in supporting the local mills by providing a sales destination and revenue for the low-grade fibre 
+and residuals.  Prior to the pellet mills, sawmill residuals were burned in beehive burners. 
+The pellet mills obtain a minor part of their furnish (typically less than 5%) from the use of 
+logging slash, which consists of the tops, branches, dead wood, and other non-merchantable 
+material.  Slash is the woody debris left after harvested trees are processed into logs at landings 
+along forest access roads; once the logs have been removed, the slash is ground into fibre and 
+trucked to the pellet mill.  Haul distances generally range from 10 to 100 km.  The relatively low 
+price for the bush grind material cannot support haul distances much beyond that.  Demand 
+from the pellet plants gave rise to bush grinding; before that, this material was piled and 
+burned or left to rot. 
+6.3 Log Market 
+There is a well-defined correspondence between the grade of a log and the type of mill that 
+uses it. BC’s log grading system is summarized in Table 13.   
+grade 1: premium sawlog (large good logs). 
+grade 2: sawlog (the log has 50-100% firmwood, little defect, generally good condition). 
+grade 4: lumber reject (the log has <50% firmwood and defects such as checks, spiral grain, etc.). 
+grade 6: undersize (less than 10 cm diam) 
+grade Z: firmwood reject (lots of rot, very poor form, etc.). 
+TABLE 13. BC GOVERNMENT LOG QUALITY CLASSES. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+44 
+ArborVitae Environmental Services Ltd. 
+ 
+There are five grades, with grade 1 the highest and grade Z lowest.  There are few grade 1 logs 
+in the catchment area – grade 1 usually applies to logs from the coast which are larger than 
+those from the catchment area.  The majority of quality sawlogs in the catchment area fall into 
+grade 2; these logs have little defect and any defects that are present are minor, and at least 
+50% of the log is firmwood. (Firmwood excludes all rot, char, holes and missing wood; detailed 
+grade specifications can be found in the BC Interior Scaling Manual.) 
+Grade 4 timber has less than 50% firmwood and more significant defects, such as checks and 
+spiral grain.  Grade 6 timber is small-sized wood and Grade Z is the lowest quality of log.  
+Grades 4, 6 and Z are known collectively as low-grade wood, which is not used by sawmills. One 
+of the limitations of this grading system is that it does not distinguish dry and green logs.  
+The widespread mortality caused by the MPB, and to a lesser extent by the wildfires, created a 
+large supply of sawlogs from dead and dying trees.  The dead mature pine stayed standing for 
+as long as 15 years, drying and remaining usable as lumber, although steadily deteriorating in 
+quality.  The sawmills ran at levels close to full capacity during this period, and some increased 
+their capacity, creating an abundant amount of residual fibre for the pellet mills.   
+Until the end of 2018, dry dead sawlogs were in high demand and fetched a decent price at the 
+sawmills.  The consultants estimate that as much as 75% of the MPB deadwood was grade 2; 
+the remainder either went to the cant mills, got burned on the landing, or was left in the block. 
+The low-grade logs are sorted and used by the local ‘cant’ mills.  The remaining, even lower 
+grade logs or residuals such as broken pieces and dead wood are processed through a grinder 
+for pelletizing.  A portable grinder operates on the Burns Lake pellet mill site. 
+In 2019, sawmills stopped using the deadwood as it had deteriorated beyond the point where 
+they could use it.  This phenomenon occurred throughout the BC Interior; the substantial 
+reduction in supply has caused as many as 20 sawmills to close permanently in BC and others 
+have reduced the number of shifts or taken downtime.  This change in the supply has reduced 
+the amount of mill residual fibre available to Pinnacle, and the data in Figure 22 and in Figure 
+23 show that the pellet mills responded by increasing their use of roundwood.  In discussions 
+with the Burns Lake community forest manager, it is also apparent that the forest still contains 
+large volumes of these dry dead trees which can only now be used as cants or as fibre furnish 
+for wood pellets.  
+Most recently, Canfor temporarily closed its sawmills in Houston and Vanderhoof from March 
+30 to June, due to the slowdowns associated with COVID-19.  In May 2020 it also announced 
+the permanent closure of its Isle Pierre sawmill near Vanderhoof (capacity 472,000 m3). Since 
+June, lumber prices have risen dramatically and the surviving sawmills are at full production. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+45 
+ArborVitae Environmental Services Ltd. 
+ 
+6.4 Pinnacle’s Fibre Intake by Source 
+Fibre source data for the two Pinnacle mills was obtained from the government's Harvest and 
+Billing System data.  Figure 22 and Table 14 show the furnish source data for Burns Lake while 
+Figure 23 and Table 15 show the Houston mill data. Table 14 and Table 15 indicate that both 
+mills rely heavily on sawmill residuals; until 2019 more than 70% of the fibre used by Burns Lake 
+was mill residual and the Houston plant used an even higher percentage of mill residual. The 
+effect of the supply shift described above is evident in 2019, as both facilities greatly increased 
+their use of alternate fibre sources.  
+The wood labelled as “Roundwood“ in Table 14 and Table 15 consists primarily of low-grade 
+timber.  Logs that are trucked to the pellet mill are often too short to go through a sawmill but 
+long enough to stay on the bunks of the truck. Another component of the roundwood is tops; 
+sawlogs are taken to a 4” top and what remains can be delimbed and brought to the mill.  None 
+of the material has an alternate use in the catchment area.  
+The fibre labelled as “bush grind” is produced by flails that break down the logging slash left at 
+roadside, which typically includes butt sections that are rotten or twisted, tops that are too 
+small to recover for any other product, branches, broken pieces, etc.  This material has no other 
+commercial use and if it is not ground, it is either burned or left to rot.  “Yard grind” represents 
+the low-grade timber that is trucked to the pellet mill yard and ground there. 
+ 
+FIGURE 22. WOOD FIBRE FURNISH FOR BURNS LAKE PELLET PLANT, BY TYPE. 
+ 
+ 
+0
+50000
+100000
+150000
+200000
+250000
+300000
+350000
+400000
+450000
+2015
+2016
+2017
+2018
+2019
+Quantity of Furnish (ODT)
+Sawmill Residual
+Roundwood
+Grind - Bush
+Grind - Yard
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+46 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+2015 
+2016 
+2017 
+2018 
+2019 
+Total 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+Sawmill Res 
+289,221 
+79 
+295,178 
+70 
+274,162 
+70 
+305,405 
+76 
+225,148 
+55 
+1,389,115 
+70 
+Roundwood 
+75,809 
+21 
+115,440 
+27 
+97,251 
+25 
+83,641 
+21 
+130,637 
+32 
+502,778 
+25 
+Grind -Bush 
+355 
+0 
+10,032 
+2 
+20,911 
+5 
+10,918 
+3 
+49,216 
+12 
+91,453 
+5 
+Grind - Yard 
+0 
+0 
+0 
+0 
+0 
+0 
+3,133 
+1 
+1,769 
+0 
+4,901 
+0 
+Sum 
+365,385 
+ 
+420,650 
+ 
+392,324 
+ 
+403,097 
+ 
+406,770 
+ 
+1,988,247 
+ 
+TABLE 14. WOOD FIBRE FURNISH FOR BURNS LAKE MILL, BY TYPE. 
+ 
+ 
+FIGURE 23. WOOD FIBRE FURNISH FOR HOUSTON PELLET PLANT, BY TYPE. 
+There is an abundant supply of sawmill residuals and low-grade wood such that the pellet mills 
+do not compete with other facilities.  Local loggers and forest managers informed the 
+consultants that Pinnacle pays the lowest prices for timber of all catchment area mills, which is 
+evidence of lack of competition.  To date, Pinnacle has not taken the additional step of 
+conducting its own logging operations – all of the fibre that it has purchased has been a by-
+product of traditional harvesting in the catchment area for either saw or cant mills. 
+ 
+2015 
+2016 
+2017 
+2018 
+2019 
+Total 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+ODT 
+% 
+Sawmill Res 
+182,951 
+74 
+171,878 
+94 
+188,393 
+94 
+224,891 
+100 
+125,190 
+56 
+893,303 
+83 
+Roundwood 
+56,117 
+23 
+6,411 
+4 
+853 
+0 
+0 
+0 
+92,692 
+42 
+156,072 
+14 
+Grind -Bush 
+1,222 
+0 
+0 
+0 
+10,526 
+5 
+0 
+0 
+4,535 
+2 
+16,283 
+2 
+Grind - Yard 
+7,255 
+3 
+4,203 
+2 
+0 
+0 
+0 
+0 
+794 
+0 
+12,252 
+1 
+Sum 
+247,545 
+ 
+182,492 
+ 
+199,772 
+ 
+224,891 
+ 
+223,211 
+ 
+1,077,910 
+ 
+TABLE 15. WOOD FIBRE FURNISH FOR HOUSTON MILL, BY TYPE. 
+0
+50000
+100000
+150000
+200000
+250000
+300000
+2015
+2016
+2017
+2018
+2019
+Quantity of Furnish (ODT)
+Sawmill Residual
+Roundwood
+Grind - Bush
+Grind - Yard
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+47 
+ArborVitae Environmental Services Ltd. 
+ 
+7 Timber and Product Pricing 
+7.1 Stumpage Prices 
+Stumpage prices for grade 1 and 2 sawlogs have generally risen in the catchment area since 
+2010, as shown in Figure 24, unadjusted for inflation.  The stumpage rates shown are the 
+amounts paid to the Crown after the deduction of tenure costs associated with cruising, 
+planning, silviculture, roads, etc. (In contrast, stumpage for salvage sawlogs (grade 4) remained 
+at $0.25/m3 throughout the period.) 
+ 
+FIGURE 24. AVERAGE GRADE 1 AND 2 SAWLOG STUMPAGE PRICES ($CDN/M3). 
+The stumpage price increase during the 2010-2014 period can generally be attributed to the 
+recovery in the global economy following the 2008-09 recession, which most severely affected 
+US homebuilding.  As the economy recovered, US homebuilding levels and the Asian economy 
+improved, and lumber prices rose (Figure 25).  Stumpage prices rose in tandem (Figure 24).  In 
+addition, the US dollar notably appreciated against the Canadian dollar from 2014 onwards, 
+adding additional impetus to increases in stumpage prices and Canadian lumber prices. 
+2018 marked the end of the cyclical rise in lumber prices; the price spiked from US$ 200/m314 in 
+January 2018 to a peak of US$ 279/m3 in June and ended the year at US$ 139/m3.  Thus, the 
+average price for 2018 masks considerable volatility throughout the year.  From March to May 
+2020, the worldwide closures of national economies sent lumber prices lower, only to reverse 
+in May and reach record highs above US$ 400/m3for western 2x4’sin September. 
+ 
+14 Prices converted from fbm to cubic metre basis using a 2.36 conversion factor. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+48 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 25. AVERAGE ANNUAL PRICES OF 2X4 RANDOM LENGTHS KILN-DRIED #2 OR BETTER SPF. 
+A contributing factor to the rise in stumpage is that sawmills in BC increased capacity to use the 
+MPB salvage, and as the availability of salvage timber decreased, mills looking to replace the 
+salvage put upward pressure on sawlog stumpage rates through higher bid prices for BCTS 
+sales. 
+The presence of BCTS and the licensing arrangements in BC make it almost impossible for any 
+company or mill to corner the market for timber.  Because licensees are all allocated a portion 
+of the volume-based harvest, and the holders of area-based tenure have control over how they 
+dispose of timber, there are too many players that control some part of the market to enable 
+any one player to develop any degree of market power.  The harvest contractors who hold 
+licences and are free to sell their timber as they see fit also play a role in keeping markets 
+balanced – no contractor wants to alienate a purchaser and so they would be reluctant to shift 
+too much of their harvest to any one buyer. 
+There is no evidence that the rising stumpage prices were driven by the pellet industry.  As one 
+very experienced industry consultant noted: “In the Interior, the scarcity of timber supply (a 
+legacy impact of the mountain pine beetle and wildfires) is having a strong influence on 
+stumpage, driving up timber sale bids and stumpage rates.” He concluded that the “Interior 
+stumpage rate has fluctuated based on the interplay of lumber prices and high bids” (Grieg 
+2019).  Given the abundance of sawmill residuals and low-grade timber, the pellet mills have 
+not bid on Crown timber since they would always be the lowest bidders on any timber sale.   
+0
+50
+100
+150
+200
+250
+300
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+SPF lumber price ($/m3)
+US$
+Cdn $
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+49 
+ArborVitae Environmental Services Ltd. 
+ 
+7.2 Sawmill Residue, Pulp Chip, and Pellet Prices 
+Sawmill residue is an important component of the feedstock used by pulp mills and pellet mills.  
+The chip component of the residues is trucked to Prince George, where the nearest pulp mills 
+to the catchment area are located.  The pellet mills, on the other hand can co-locate with 
+sawmills, at a much lower capital outlay.  They take sawdust, planer shavings, and other low-
+grade residual fibre. In addition, pellet facilities can use forest residues and very low-grade logs 
+salvaged from fires and insect outbreaks.  
+Figure 26 shows average pellet delivered feedstock prices in the US and Canada.  Since most of 
+Canadian pellet production occurs in BC, the Canada index will be generally reflective of the 
+prices of sawdust and shavings in BC.  The delivered cost of pellet feedstock was stable at 
+US$55/ODMT until early 2018, when it began rising to reach US$70/ODMT in 2020.  
+ 
+FIGURE 26. PELLET FEEDSTOCK PRICE INDEX FOR CANADA AND THE US. 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+50 
+ArborVitae Environmental Services Ltd. 
+ 
+A report in Canadian Biomass15 attributed the rising feedstock price to a reduction in sawmill 
+residuals due to sawmill closures and curtailments, as the BC industry grappled with the end of 
+the MPB salvage harvesting. After more than two years of increases, the pace of rising fibre 
+costs slowed in Q4 2019, as mills reduced their operating rates and diversified their feedstocks. 
+Many pellet mills are upgrading to allow more flexibility in feedstock inputs to counteract the 
+reduced volume of sawmill residues.  Figure 27 shows that BC pulp log prices in the Interior 
+region have followed a similar pattern as pellet feedstock prices – both categories of fibre are 
+low end and are subject to similar supply constraints. 
+In contrast, the lower panel of Figure 27 shows that residual chip prices have been stable to 
+slightly decreasing, and there is no indication of pricing pressure due to demand from pellet 
+mills because the pellet mills use different components of the fibre supply (i.e. sawdust and 
+shavings). 
+ 
+15http://biomassmagazine.com/articles/17003/canadian-wood-fiber-availability-and-impacts 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+51 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 27.  PRICES FOR PULPLOGS AND RESIDUAL CHIPS IN BC, 2018-2020. 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+52 
+ArborVitae Environmental Services Ltd. 
+ 
+8 Summary of Key Trends and Outlook 
+8.1 The Forest 
+The analysis period covers the MPB outbreak which killed hundreds of millions of cubic metres 
+of lodgepole pine throughout the province; the catchment area was the hardest hit part of BC.  
+Not only was the harvest level increased, the effects also included a reduction in the abundance 
+of pine in the forest and a reduction in the average age of the forest. 
+During the review period, there were additional measures put in place to protect biodiversity 
+and key ecological elements of it, including ungulates and old growth.  These measures have 
+resulted in partial withdrawals of land from timber harvest availability – in some areas 
+harvesting is prohibited whereas in others it may proceed on a modified basis.  As a result of 
+these measures, the CTHLB has been reduced over time, however the total area of forest has 
+been unaffected.  There are indications that further restrictions are in the offing – caribou herds 
+in BC continue to be threatened, and the Premier has appointed a two-person panel to review 
+the management of old growth in the province.  The Old Growth panel released its report in 
+September 2020 and has recommended additional protection for old growth timber. 
+Forestry is a small driver of the deforestation that does occur (15%) due to the building of road 
+networks and landings which are necessary for active forest management.  The government 
+requires forest licensees to renew the areas that they harvest, and this is done well.  As a result 
+forestry companies cause some deforestation through the construction of access roads, but the 
+extent of it is estimated by the consultants to be on the order of .03-.04 % per annum, and the 
+rate is declining as the forest access network is largely in place.  The majority of deforestation 
+on Crown land is due to infrastructure development associated with agriculture, mining, 
+energy, and transportation. Deforestation rates on private land are unknown, however given 
+the low levels of private land in the catchment area, it does not have a material impact on the 
+forest. 
+8.2 The Industry 
+The forest sector in the catchment area is based on the production of solid wood products, 
+virtually all of which is lumber.  Prior to the arrival of the pellet mills, there was only a small 
+market for sawmill residuals and low-grade wood – these were generally burned at the mill and 
+in the bush, respectively.  Thus, the pellet and cant mills have created a market for low value 
+fibre that did not exist previously, and in this way they have supported the existing sawmills, as 
+well as forest contractors and associated businesses. 
+As a result of the MPB, government and industry combined to enable a massive salvage effort, 
+which completely altered the composition of the timber harvest.  Prior to the salvage, the 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+53 
+ArborVitae Environmental Services Ltd. 
+ 
+harvest consisted of live pine and spruce and but from 2002 or 2003 onwards, dead pine 
+became a major part of the harvest stream and averaged 55% during the 2010-2019 period.  
+Industry’s response to the MPB outbreak included boosting sawmill capacity was increased to 
+use salvaged timber.  This created an abundant supply of low-cost sawmill residuals which 
+provided Pinnacle with favourable conditions for it to construct the two pellet mills. 
+In 2019, the MPB-killed wood declined below the sawlog quality threshold, which has led 
+sawmills to close or curtail their production by reducing the number of shifts or taking down 
+time.  Across BC, as many as 20 sawmills were expected to close permanently by 2019 and 
+2020, and the COVID-19 pandemic has put added pressure on the weaker facilities.  Sawmill 
+capacity will adjust to balance with the available harvest and residuals will continue to flow to 
+pellet mills, however pellet mills have had to source more fibre from low-grade roundwood and 
+bush grind. 
+Industry dynamics are not driven by pellet mills since they cannot and do not process sawlogs 
+and their cost structure will not enable them to harvest their own fibre. Pellet mills remain 
+users of the lowest valued fibre and do not compete with pulp mills, cant mills or sawmills for 
+fibre.  If anything, the market for residuals provided by pellet mills has provided support for 
+sawmills to continue operations. 
+The COVID-19 pandemic has created major economic disruptions across the world, and since 
+we are still in the pandemic, and infection rates are worsening in the US as well as countries 
+such as Brazil and Russia, the extent of its impact is far from clear.  While losses of employment 
+and GD in Q2 2020 were worse than those in the Great Depression, recovery scenarios range 
+from unrealistically rosy (i.e. a V-shaped recovery) to very pessimistic (the recovery period may 
+take until 2023 or 2024).  The 2008-09 recession forced the BC solid wood sector to increase its 
+diversification away from the US, so that China and Japan are the second and third most 
+important markets for the industry, and their relative importance has increased vis-a-vis the US 
+market.  This provides ground for optimism that the sector will be able to sustain itself during 
+the next couple of years, now that it has adapted to the post-MPB harvest levels and forest 
+conditions. 
+ 
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+54 
+ArborVitae Environmental Services Ltd. 
+ 
+ANNEX 1- DEFINING THE CATCHMENT AREA 
+The consultants were able to delineate the catchment area using wood fibre scaling data.  The 
+Burns Lake facility has its own weigh scale run by Pinnacle, and so the company has detailed 
+records of the incoming furnish for its mill.  The scale records are linked back to the harvest 
+location through the use of a ‘timbermark’ and Pinnacle provided the consultants with these 
+data for 2015 to the end of 2019. (A timber mark is a code that identifies the ownership of logs 
+in BC and helps prevent theft of timber from Crown land.)  
+Pinnacle’s current information management system has been in place since 2015, and earlier 
+records were no longer readily available.  Pinnacle’s management informed the consultants 
+that prior to 2015, sawmill residuals made up an even higher proportion of the furnish for each 
+mill.  Our interviews with logging contractors confirmed this is the case.  
+Table A16 shows the amounts of biomass used by Burns Lake each year by source, and the 
+percentage of total fibre use from each source.  (Note that the percentages do not always add 
+to 100% due to rounding.) As one would expect, the primary source area was the Lakes Timber 
+Supply Area (TSA), which is where the mill is located.  Vanderhoof District in the Prince George 
+TSA was the other main source, providing almost one third of the fibre used by Pinnacle.  There 
+is a high degree of consistency, on an annual basis, in Burns Lake’s sourcing.  Bulkley TSA, which 
+is a small TSA to the north of the Morice TSA, is a distant third in terms of supply, and the 
+Kispiox TSA, which is located north of the Bulkley TSA, provides a minor contribution.  The 
+Other source areas include Kalum TSA (located west of the Morice and Bulkley TSAs) and the 
+province of Alberta. 
+Table A17shows the source locations of the fibre entering Pinnacle’s Houston mill. It is weighed 
+at one of two scales owned by other companies, under an arrangement with Pinnacle.  These 
+data were obtained from Pinnacle and compiled by the consultants.  For this mill, the home 
+TSA, Morice, provides the majority of fibre used by the mill, with a minor contribution from 
+Bulkley.  
+Table A18 shows the sourcing of fibre for the two Pinnacle mills combined – 90% of the 
+sourcing comes from Lakes, Morice and Vanderhoof, and hence these three areas were 
+identified as the catchment area for these two pellet mills.  Figure 28 shows the catchment area 
+in the regional context.  
+ 
+ 
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+55 
+ArborVitae Environmental Services Ltd. 
+ 
+  
+  
+2015 
+ODTs 
+ 
+% 
+2016 
+ODTs 
+ 
+% 
+2017 
+ODTs 
+ 
+% 
+2018 
+ODTs 
+ 
+% 
+2019 
+ODTs 
+ 
+% 
+Total 
+ODTs 
+Total % 
+Lakes 
+204,396 
+56% 
+197,476 
+47% 
+220,423 
+56% 
+201,925 
+50% 
+246,384 
+61% 1,070,605 
+54% 
+Vanderhoof 
+104,151 
+29% 
+165,211 
+39% 
+108,336 
+28% 
+120,511 
+30% 
+109,073 
+27% 
+607,282 
+31% 
+Morice 
+391 
+0% 
+3,958 
+1% 
+10,272 
+3% 
+12,841 
+3% 
+19,316 
+5% 
+46,778 
+2% 
+Bulkley 
+39,890 
+11% 
+21,050 
+5% 
+37,319 
+10% 
+47,816 
+12% 
+2,742 
+1% 
+148,816 
+7% 
+Kispiox 
+5,748 
+2% 
+15,694 
+4% 
+7,266 
+2% 
+9,993 
+2% 
+10,782 
+3% 
+49,485 
+2% 
+Other 
+10,808 
+3% 
+17,261 
+4% 
+8,708 
+2% 
+10,011 
+2% 
+18,473 
+5% 
+65,261 
+3% 
+SUM 
+365,384 
+100% 
+420,650 
+100% 
+392,324 
+100% 
+403,097 
+100% 
+406,770 
+100% 1,988,227 
+100% 
+TABLE A16. SOURCES OF BURNS LAKE FACILITY FIBRE 
+  
+  
+2015 
+ODTs 
+ 
+% 
+2016 
+ODTs 
+ 
+% 
+2017 
+ODTs 
+ 
+% 
+2018 
+ODTs 
+ 
+% 
+2019 
+ODTs 
+ 
+% 
+Total ODTs 
+Total % 
+Lakes 
+541 
+0% 
+91 
+0% 
+0 
+0% 
+0 
+0% 
+1,558 
+1% 
+2,190 
+0% 
+Vanderhoof 
+0 
+0% 
+0 
+0% 
+0 
+0% 
+0 
+0% 
+0 
+0% 
+0 
+0% 
+Morice 
+233,293 
+94% 178,393 
+98% 185,097 
+93% 207,772 
+92% 221,008 
+99% 
+1,025,564 
+95% 
+Bulkley 
+8,547 
+3% 
+2,147 
+1% 
+10,714 
+5% 
+16,253 
+7% 
+475 
+0% 
+38,136 
+4% 
+Kispiox 
+4,496 
+2% 
+772 
+0% 
+1,709 
+1% 
+0 
+0% 
+0 
+0% 
+6,977 
+1% 
+Other 
+668 
+0% 
+1,089 
+1% 
+2,251 
+1% 
+867 
+0% 
+169 
+0% 
+5,044 
+0% 
+SUM 
+247,545 
+100% 182,492 
+100% 
+199,77
+1 
+100% 
+224,89
+2 
+100% 
+223,21
+0 
+100% 
+1,077,911 
+100% 
+TABLE A17. SOURCES OF HOUSTON FACILITY FIBRE. 
+  
+2015 
+ODTs 
+ 
+% 
+2016 
+ODTs 
+ 
+% 
+2017 
+ODTs 
+ 
+% 
+2018 
+ODTs 
+ 
+% 
+2019 
+ODTs 
+ 
+% 
+Total 
+ODTs 
+Total % 
+Lakes 
+204,937 
+33% 
+197,567 
+33% 
+220,423 
+37% 
+201,925 
+32% 
+247,942 
+39% 1,072,795 
+35% 
+Vanderhoof 
+104,151 
+17% 
+165,211 
+27% 
+108,336 
+18% 
+120,511 
+19% 
+109,073 
+17% 
+607,282 
+20% 
+Morice 
+233,684 
+38% 
+182,351 
+30% 
+195,369 
+33% 
+220,613 
+35% 
+240,324 
+38% 1,072,342 
+35% 
+Bulkley 
+48,437 
+8% 
+23,197 
+4% 
+48,033 
+8% 
+64,069 
+10% 
+3,217 
+1% 
+186,952 
+6% 
+Kispiox 
+10,244 
+2% 
+16,466 
+3% 
+8,975 
+2% 
+9,993 
+2% 
+10,782 
+2% 
+56,462 
+2% 
+Other 
+11,476 
+2% 
+18,350 
+3% 
+10,959 
+2% 
+10,878 
+2% 
+18,642 
+3% 
+70,305 
+2% 
+SUM 
+612,929 
+100% 
+603,142 
+100% 
+592,095 
+100% 
+627,989 
+100% 
+629,980 
+100% 3,066,138 
+100% 
+TABLE A18.  SOURCES OF FIBRE FOR HOUSTON AND BURNS LAKE FACILITIES, COMBINED.
+CATCHMENT AREA ANALYSIS: PINNACLE RENEWABLE ENERGY’S BURNS LAKE & HOUSTON MILLS 
+ 
+ 
+56 
+ArborVitae Environmental Services Ltd. 
+ 
+ 
+FIGURE 28. THE LAKES AND MORICE TSAS AND THE VANDERHOOF DISTRICT OF THE PRINCE GEORGE TSA. 

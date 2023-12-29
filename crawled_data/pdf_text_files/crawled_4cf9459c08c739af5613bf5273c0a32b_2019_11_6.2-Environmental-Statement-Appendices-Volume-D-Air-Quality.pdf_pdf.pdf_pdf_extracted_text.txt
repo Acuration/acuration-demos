@@ -1,0 +1,368 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station 
+Order 
+ 
+6.2 Environmental Statement Appendices - Volume D 
+Air Quality 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+6.2 
+Regulation Number: 
+ 
+ 
+5(2)(a) & Infrastructure 
+Planning (Environmental Impact 
+Assessment) Regulations 2009 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018  
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 6.1
+Approach to Air Quality Dispersion Modelling
+Appendix 6.1 Approach to Air Quality Dispersion 
+Modelling  
+The following methodology was agreed as part of the consultation process as agreed 
+with City and County of Swansea (CCS). 
+Table 6-1: Agreed Approach to the Air Quality Assessment  
+Point of Consultation 
+Agreed Approach 
+Stack Modelling 
+Model to be used: 
+ADMS 5 
+Pollutants 
+to 
+be 
+considered: 
+Nitrogen oxides, carbon monoxide 
+Meteorological Data 
+5 years data (2012-2016) for Cwm Level Park Data 
+(provided by CCS) with missing data/cloud cover 
+supplemented with Mumbles Head Data for the same time 
+period. 
+Terrain Data  
+Included in the model based maximum resolution (64x64) 
+allowed within ADMS5 and covering an area applicable to 
+each modelling grid 
+Modelling Grid 
+200 m (20 km x 20 km centred on the stack) – used for 
+contour plots and ecological impact assessment. 
+30 m (3 km x 3 km centred on the stack) – used for Stack 
+Height Determination 
+Indicative Receptors  
+Ecological Designations (modelled at a height of 1.5 m):  
+- Ramsar, SAC and SPA sites within 10 km 
+- SSSI, SINC, Ancient Woodland, NNR and LNRs 
+designated within 2 km 
+ 
+Human Receptors (modelled at a height of 1.5 m)  - 
+specific receptor locations representing the closest 
+sensitive receptors to the Project Site, i.e.: 
+- Abergelli Farm; 
+- Morriston; 
+- Pant-lasau; 
+- Llwyncelyn; 
+- Llangyfelach; and 
+- Receptors representative of the eastern boundary of 
+areas 11 and 5 on the LDP Concept Plan 
+Background Air Quality 
+Human Health - Based on Mapped Defra grid square for 
+each modelled receptor. 
+Contour Plots - No background will be applied for contour 
+plots which will just show contributions from the Project 
+Point of Consultation 
+Agreed Approach 
+Ecology - Background for ecological receptors will be 
+based on APIS background estimates  
+NOx to NO2 conversion 
+Use Environment Agency values of 70% conversion of 
+NOx to NO2 for annual concentrations and 35% for hourly 
+concentrations. 
+Assessment 
+of 
+Significance 
+Environment Agency Screening levels i.e. if less than 1% 
+of AQS objective for Long-term and 10% for short-term 
+then can be screened out as not significant. 
+Roads Modelling 
+Is assessment required? Screen need to assess road contributions based on the 
+based on the IAQM Land-Use Planning & Development 
+Control Planning For Air Quality Jan 2017 (v1.2) Table 6.2
+If 
+traffic 
+contributions 
+cannot be screened out 
+based 
+on 
+the 
+IAQM 
+guidance’s then: 
+Model Using ADMS Roads at specific receptors close to 
+the roads that exceed the IAQM screening level at a 
+height of 1.5 m.  
+Use Defra mapped background data 
+Stack contribution will be added to this to assess in 
+combination effects. 
+NOx to NO2 conversion based on Defra conversion tool. 
+Assess significance based on the IAQM guidance’s 
+criteria  
+ 
+ 
+ 
+Appendix 6.2
+Stack Height Determination
+Appendix 6.2 Stack Height Determination 
+6.1.1 
+Stack height sensitivity testing was undertaken using Cwm Level Park 
+meteorological data from 2012 to 2016 with the maximum ground-level 
+concentrations predicted across a grid of receptors with a model resolution 
+of 30 m.  
+6.1.2 
+Dispersion model runs were undertaken for various stack heights between 
+20 m and 50 m with the stack height models in 2 metre incremental heights 
+within this range. Table  and the associated Figure A6-1 to Figure A6.3 show 
+the results of the stack height sensitivity testing. The appropriate stack height 
+was determined as the point at which the change in maximum predicted 
+annual and 99.79th percentile NO2 concentrations with each stack increase 
+ceased to be significant.  When plotted as a graph this is the point at which 
+the curve flattens of after an initial rapid decrease with each increase in 
+stack height. 
+Table A6-1:  Maximum NO2 Concentrations Predicted over the 30 m Resolution 
+Models Receptor Grid for each Stack Height 
+Stack 
+Height 
+Maximum Annual 
+NO2 
+Maximum Hourly 
+99.79th %ile NO2 
+Maximum Rolling 8 
+Hour CO 
+Predicted 
+Contributi
+on 
+(µg/m3) 
+As a % of 
+the AQS 
+objective
+Predicted 
+Contributi
+on 
+(µg/m3) 
+As a % of 
+the AQS 
+objective
+Predicted 
+Contributi
+on 
+(µg/m3) 
+As a % of 
+the AQS 
+objective
+20 
+3.44 
+8.6% 
+260.8 
+130.4% 
+1381 
+13.8% 
+22 
+2.10 
+5.3% 
+194.2 
+97.1% 
+993 
+9.9% 
+24 
+1.22 
+3.1% 
+131.7 
+65.8% 
+658 
+6.6% 
+26 
+0.67 
+1.7% 
+81.9 
+40.9% 
+399 
+4.0% 
+28 
+0.34 
+0.9% 
+46.0 
+23.0% 
+220 
+2.2% 
+30 
+0.16 
+0.4% 
+23.3 
+11.6% 
+110 
+1.1% 
+32 
+0.09 
+0.2% 
+10.5 
+5.3% 
+63 
+0.6% 
+34 
+0.08 
+0.2% 
+6.2 
+3.1% 
+52 
+0.5% 
+36 
+0.08 
+0.2% 
+5.8 
+2.9% 
+45 
+0.4% 
+38 
+0.07 
+0.2% 
+5.5 
+2.7% 
+39 
+0.4% 
+40 
+0.07 
+0.2% 
+5.1 
+2.6% 
+34 
+0.3% 
+42 
+0.06 
+0.2% 
+4.8 
+2.4% 
+32 
+0.3% 
+44 
+0.06 
+0.2% 
+4.4 
+2.2% 
+30 
+0.3% 
+46 
+0.06 
+0.1% 
+4.2 
+2.1% 
+29 
+0.3% 
+48 
+0.05 
+0.1% 
+4.0 
+2.0% 
+27 
+0.3% 
+50 
+0.05 
+0.1% 
+3.8 
+1.9% 
+25 
+0.3% 
+Note: Annual mean NO2 AQS objective 40 µg/m3, daily 99.79th percentile NO2 AQS objective 200 
+µg/m3, CO 8 hour running 10,000 µg/m3. 
+6.1.3 
+Significant benefits are seen as the stack height increases from 20 m to 32 
+m, in terms of maximum ground level concentrations of NO2 (both annual 
+and 99.79th percentile hourly concentrations) and CO, as the impacts of 
+building downwash reduce. Beyond this height, there is only a slight benefit 
+seen, in terms of maximum ground level concentrations, with increasing 
+stack height further, though there is a further decrease between 32 and 34 m 
+when looking at 99.79th percentile hourly NO2 concentrations though this 
+also flattens out after 34 m. The continuing small decrease in maximum 
+concentrations above 32/34 m is driven by the fact that with each stack 
+increase the plume disperses slightly more before reaching ground-level, 
+however, as thee changes above 34 m are so small this indicates that the 
+dispersion is no longer influenced by building downwash. When the stack 
+height is increased to 34 m, the maximum impact on ground level 
+concentrations of nitrogen dioxide is less than 1% of the annual mean 
+objective and both NO2 and CO are well below 10% of their relevant short-
+term AQS objectives.   
+6.1.4 
+A minimum stack height of 35 m has been proposed by APL for the Power 
+Generation Plant and a maximum height of 45 m.  The assessment of 
+impacts at both human health and ecological receptors has, therefore, used 
+a stack height of 35 m as this represents the worst-case in terms of 
+dispersion.  For other disciplines the maximum stack height of 45 m has 
+been assumed as this represents a worst-case e.g. in terms of landscape 
+and visual impacts etc. 

@@ -1,0 +1,2165 @@
+ORIGINAL ARTICLE
+Open Access
+Assessing the wood sourcing practices of
+the U.S. industrial wood pellet industry
+supplying European energy demand
+Brian Kittler1*, Inge Stupak2 and C. Tattersall Smith3
+Abstract
+Background: As the demand for wood pellets has increased in EU member states, so has a multi-pronged
+examination of the environmental effects of establishing a transatlantic trade in wood pellets between the U.S. and
+Europe. However, the nature of industrial wood pellet supply chains is poorly understood or little known. This work
+aimed to understand the feedstock sourcing strategies being used by the wood pellet industry in the southeast
+U.S., commonly applied approaches to documenting sustainability of these feedstocks, and drivers operating
+behind related developments.
+Methods: This study used structured interviews of sustainability managers and procurement staff at pellet mills
+comprising 75% of the U.S. industrial pellet sector. The industry was classified into types of supply chains, based on
+the role of loggers, wood dealers, sawmills, and other wood product facilities in the supply chains. Additional
+classifications examined feedstock types and origins, number and type of suppliers, contractual relationships with
+suppliers, applied procurement systems, risk assessment and due-diligence methodologies, risk mitigation
+procedures, and supply chain certifications.
+Results: Three main types of supply chains were identified within the U.S. industrial pellet sector, differentiated
+based on features of feedstock procurement, risk assessment procedures, and risk management. The study
+observed a slight shift toward using a higher proportion of wood residuals as feedstock in some of the larger pellet
+mills. Policy requirements, customer orders, and external pressures were driving the sector’s adoption of
+sustainability programs, with risk assessments and wood procurement procedures aligned to policy requirements.
+Conclusions: The strength of a risk-based approach to sustainability documentation depends on the quality of
+source data on risks within a sourcing area, scale of analysis, and integration of risk assessments into procurement
+practices. Some risk categories are more difficult to assess and control. Challenges increase with increasing number
+and diversity of supply chain actors and depend on the nature of agreements between these entities for the
+conveyance of feedstocks to pellet mills. Fiber procurement is similar to pulpwood-using industries, but extending
+the risk assessment to residuals is complicated and challenging to the sector. The study identified a number of
+strategies in use within pellet mill supply chains for dealing with these challenges.
+Keywords: Bioenergy, Biomass, Sustainability standards, Forest certification, Wood pellets, International trade
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: Bkittler@Americanforests.org
+1American Forests, Washington, DC, USA
+Full list of author information is available at the end of the article
+Energy, Sustainability
+and Society
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+https://doi.org/10.1186/s13705-020-00255-4
+Background
+In 2017, half of all renewable energy consumed globally
+was modern bioenergy1 and the share of energy coming
+from biomass is projected to remain high into the future
+[1]. Moreover, the Intergovernmental Panel on Climate
+Change (IPCC) has found significant deployment of
+negative net emission technologies, including bioenergy
+carbon capture and storage (BECCS), will be necessary
+to limit global warming to 2 °C by 2100 [2–4].
+Whether or not such increases are realized, forest
+bioenergy supply chains are expanding and trade in bio-
+mass feedstocks is global. In the last decade, inter-
+national trade in wood pellets has developed between
+suppliers in the southeast U.S. and European energy
+companies and is now the third largest wood product
+export from the southeast U.S., behind softwood and
+hardwood lumber, albeit still a minor share (3%) of the
+total export volume of wood products [5, 6].
+At the foundation of this transatlantic trade is a system
+of policy targets, such as the European Union (EU) Re-
+newable Energy Directive [7] and EU member state sub-
+sidies that facilitate demand for renewables, including
+biomass displacing coal in thermoelectric power stations
+[8, 9]. In 2018, European Union demand for wood pellets
+amounted to approximately 23 million metric tonnes, of
+which the U.S. supplied 27% [10]. It is highly likely that
+wood pellets imported from the southeast U.S. in the next
+decade will comprise the largest source of biomass other
+than those generated within the EU [8, 9, 11], even if
+European demands are currently predicted to stagnate
+[12]. In 2018, the most important buyers of U.S. wood pel-
+lets among European Union member were the UK
+(4.9 million tonnes), Denmark and Belgium (each 0.6 and
+0.5 million tonnes), and Italy and the Netherlands (88 and
+7 ktonnes, respectively), with the total EU member state
+imports from the U.S. being 6.1 million tonnes [10]. How-
+ever, Asian markets are emerging and predicted to ac-
+count for the largest increase in global bioenergy demand
+up to 2025 [8]. Canada is currently the main North
+American exporter to these markets, namely Japan, but
+the southeast U.S. producers have at least 1.5 million
+tonnes under contract, with Japan also requiring docu-
+mentation of sustainability [13]. Existing supply chains in
+the industrial wood pellet sector of the southeast U.S. offer
+a glimpse of what further global deployment may look like
+if significant growth of wood bioenergy occurs.
+As demand has increased, so has a multi-pronged exam-
+ination of the environmental effects of establishing a
+transatlantic trade in wood pellets [14]. Some environ-
+mental nongovernmental organizations (NGOs) argue that
+European policies have led to unsustainable wood harvest-
+ing outside the EU and question climate change mitigation
+benefits, in part due to the life cycle accounting for green-
+house gas emissions of biomass feedstocks [6, 15, 16].
+Regulatory requirements from individual EU member states
+and the United Kingdom (UK) and pressure from NGOs
+on both sides of the Atlantic are influencing the complex-
+ion of wood pellet plants’ supply chains and biomass sour-
+cing strategies [17]. For instance, pressure from local NGOs
+led to one company issuing a policy of avoiding biomass
+from certain forest types [18]. The UK’s timber procure-
+ment policies require that certain standards are met by UK
+wood pellet-using industries in order to be eligible for Re-
+newables Obligation Certificates [19], and Belgium [20, 21],
+Denmark, and the Netherlands also each have their own
+national requirements associated with obtainment of sub-
+sidies [17, 22]. These two factors were drivers of the cre-
+ation of the Sustainable Biomass Program (SBP), which is a
+certification system that uses a risk-based approach to con-
+formance with European national requirements [22]. An-
+other certification program, the Green Gold Label (GGL),
+specialized particularly in conformance with the Dutch
+requirements.
+The U.S. industrial wood pellet sector is adopting
+feedstock procurement systems and supply chains to
+meet customer expectations, while also seeking contin-
+ued adoption of national or state-level programs (e.g.,
+Master Logger certifications and SFI Fiber Sourcing)
+that are designed to help wood-using industries comply
+with national and state-level policies in the U.S. Euro-
+pean Union member states, such as UK and Denmark,
+generally accept risk-based approaches to document
+sustainability of bioenergy feedstocks [17]. Italy does
+not have specific sustainability requirements for energy
+feedstock, probably due to imports mainly being used
+to supplement domestic production for residential uses
+[9, 23, 24]. The Dutch requirements of the SDE+ re-
+newable scheme, adopted in 2017, are more complex,
+among other factors, due to an attempt to link all bio-
+mass feedstocks back to specific stands with evidence
+that a specific forest management unit providing bio-
+mass feedstocks was sustainably managed and har-
+vested [25, 26]. This is one reason that U.S. imports to
+the Netherlands decreased from 22 ktonnes in 2016 to
+6 ktonnes in 2018 [10]. Additionally, it is still uncertain
+how new EU requirements will be implemented from
+2021 onward [27]. Exporting pellet producers must
+keep up with these developments as new sustainability
+regulations are added in different countries and juris-
+dictions, and all of these efforts have yet to create trust
+among critical NGOs that these supply chains are en-
+vironmentally sustainable.
+Market trends and environmental effects of this growing
+market have been analyzed at a regional level [14, 28–33],
+1Modern bioenergy is the conversion of biomass to heat and electric
+power using modern technologies vs. traditional bioenergy which
+involves the open combustion of biomass for heating and cooking.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 2 of 17
+but such high level studies leave several questions as to
+how effectively environmental safeguards can be imple-
+mented. The challenges to adopting such practices are
+also less documented. Such information is only available
+directly from pellet mills, which represent the major sup-
+ply of wood biomass from the U.S. that is being used for
+modern bioenergy in Europe (principally the UK and the
+Netherlands).
+To date, a comprehensive assessment of the specific
+wood sourcing and sustainability strategies used by the
+U.S. industrial wood pellet sector at the level of individ-
+ual supply chains has not been completed. This study
+fills this gap and expands the body of knowledge and re-
+search on forest bioenergy sustainability. Thus, the spe-
+cific aims of this research were to better understand:
+� Feedstock sourcing strategies of the wood pellet
+industry in the southeast U.S.;
+� Sustainability initiatives used for demonstrating
+compliance with sustainability criteria;
+� Drivers of companies’ engagement with
+sustainability initiatives;
+� Significant challenges to documentation of
+compliance with sustainability criteria and areas of
+potential improvement; and
+� Challenges for the industry in communications
+about sustainability issues with stakeholders.
+This research follows on several examinations (e.g.,
+[14, 22, 25, 28, 34–43]) of how the various sustainability
+certifications used by the forest bioenergy industry com-
+ply with European Union and member state sustainabil-
+ity criteria in the stage of development or after adoption
+[17, 23], augmenting this literature with an in-depth
+examination of feedstock sourcing procedures in actual
+supply chains. Our research is relevant to the current policy
+discourse about the validity of a risk-based approach to sus-
+tainability documentation in the bioenergy sector. We exam-
+ine the contention of Sikkema et al. [34] that for the
+southeast U.S. reliance on risk-based supply chain, certifica-
+tions offer “insufficient coverage of sustainable sourcing
+topics,” in light of recent policy decisions by the European
+Commission that codify a risk-based approach to supply
+chain sustainability as sufficient in meeting policy objectives
+of the revised EU Renewable Energy Directive [27].
+Based
+on
+data
+gathered
+through
+interviews
+with
+personnel from industrial wood pellet companies, we
+document which feedstocks and certification systems are
+used and how aspects of these systems (i.e., principles,
+criteria, indicators) relate to the feedstock procurement
+protocols of the U.S. industrial pellet sector. This re-
+search is relevant as an input to further the robustness
+of the dialogue about the sufficiency of sustainability cri-
+teria and the industry implementation of them.
+Methods
+Using a structured interview questionnaire (see supple-
+mentary materials), 15 telephone interviews were con-
+ducted in 2017 with sustainability managers and wood
+procurement staff from six companies manufacturing in-
+dustrial wood pellets in the southeast U.S. Interviews
+spanned 17 pellet mills representing over 75% of the
+wood pellet export capacity of the southeast U.S. as of
+June 2017. A 100% response rate was achieved in our at-
+tempt to survey a representative sample of the industry.
+Respondents were selected for interview based on their
+roles in:
+a) Tracking and reporting feedstock sourcing,
+b) Procuring feedstock from and maintaining
+relationships with suppliers, and/or,
+c) Communicating results of sourcing practices and
+sustainability policies to customers and regulators.
+The interview questionnaire included 28 main ques-
+tions with several sub-questions (see supplementary ma-
+terials). Questions were designed based on knowledge of
+feedstock sourcing within the wood pellet industry, sus-
+tainability programs (e.g., certifications for forest man-
+agement and chain of custody), and the policies driving
+bioenergy supply chains. The interview questionnaire
+was designed to elicit responses related to several re-
+search questions, including:
+1) What drives the engagement of the pellet sector in
+sustainability initiatives?
+2) What supply chain sustainability governance
+structures (e.g., certifications) are used by the U.S.
+industrial pellet sector?
+3) Are there common feedstock sourcing strategies
+and supply chain structures that exist within the
+pellet sector?
+4) What challenges and opportunities face the
+industry in participating in supply chain
+certification and sustainable sourcing programs?
+A schematic of supply chains and feedstock definitions
+were used during interviews to elicit clear responses per-
+taining to the identification of feedstocks used and supply
+chain structures (see supplementary materials). Defined
+feedstock types included primary fiber and both secondary
+and tertiary residuals. Primary residuals are harvest resid-
+uals, including tops, limbs, bark, foliage, and other non-
+merchantable materials made available for collection during
+roundwood timber harvests. Secondary residuals are mill
+residuals and other by-products of wood product opera-
+tions (sawmills, pulp and paper mills, wood manufacturers,
+etc.) such as sawdust, wood shavings, and chips. Tertiary re-
+siduals are post-consumer wood waste, e.g., construction
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 3 of 17
+and demolition waste. Roundwood is also a feedstock for
+industrial pellets; this category can generally be considered
+non-sawtimber roundwood, or logs not used in sawmills,
+generally including pulpwood size and assortments, other
+small-diameter trees from thinning operations, low-priced
+chip-n-saw-sized logs, and defect logs. Roundwood can be
+produced at several points during a timber rotation and is
+the most expensive wood energy feedstock.
+Respondents were asked whether they have environ-
+mental sustainability policies, and specifically, if they
+apply systems by the Sustainable Forestry Initiative (SFI),
+including forest management certification (SFI FM),
+chain of custody certification (SFI COC), or fiber sour-
+cing (SFI FS); the American Tree Farm System (ATFS);
+Program on Endorsement of Forest Certification Con-
+trolled Sourcing (PEFC CS); Forest Stewardship Council
+(FSC), including forest management certification (FSC
+FM), chain of custody certification (FSC COC), and
+Controlled Wood (FSC CW); and the Sustainable Bio-
+mass Program (SBP).
+The SBP uses a risk-based approach to verification of
+low risk that sourced materials are non-compliant with
+their sustainable forest management standard, and it in-
+cludes a module to collect information for demonstra-
+tion of compliance with supply chain greenhouse gas
+emission saving criteria, with certification taking place at
+the pellet mill level. FSC CW also uses a risk-based ap-
+proach to verify low risk that controversial sources are
+being used and PEFC CS similarly uses a risk-based
+sourcing protocol albeit not as specific to those criteria
+identified in FSC CW (e.g., high conservation values, for-
+est conversion, etc.). FSC CW, PEFC CS, and SBP are to
+some extent overlapping in that all of these systems
+focus on assessments of supply chain sourcing risks per-
+taining to various criteria. This is also the case for the
+EU Timber Regulation [40], which also prescribes a due
+diligence system to showing low risk of illegal wood be-
+ing placed on the EU markets, including products based
+on primary or secondary wood fiber. All respondents
+exporting to the EU will comply with the regulation, and
+they
+were
+not
+asked
+about
+this
+in
+the
+interview
+questionnaire.
+We refer to systems that require certification or verifica-
+tion of actors downstream in the supply chain as “supply
+chain certifications,” i.e., from mill and downstream to the
+energy plants, with no certification of forest management
+units upstream from the mill. These include SFI COC, SFI
+FS, FSC COC/CW, PEFC COC/CS, and SBP. These sys-
+tems are required if mixing of material takes place with ma-
+terial that has a forest management certificate, but the
+material is also sometimes mixed with material that has no
+forest management certificate. Additionally, respondents
+were asked to explain any other sourcing or procurement
+procedures
+used
+that
+incorporate
+environmental
+sustainability, e.g., Corporate Social Responsibility programs
+(CSR),
+agreements
+with
+local
+environmental
+non-
+governmental organizations about wood sourcing, and/or
+public disclosure of souring data.
+Interviews were recorded and transcribed. Transcripts
+were coded, and coded data were organized in an MS
+excel database for qualitative analysis of crosscutting
+themes and patterns across the pellet mills interviewed.
+Categories examined include biomass sourcing practices
+(e.g., use of intermediary parties to aggregate supply),
+feedstock supply chains (e.g., sourcing of primary and sec-
+ondary fiber), and sustainability programs used (e.g., forest
+management and supply chain certifications). The data-
+base facilitated a comparison of responses from different
+respondents within companies and across companies.
+As another source of data against which the results of
+the structured interviews were considered, site visits
+were conducted at three pellet mills in the southeast
+U.S. in 2018. Site visits consisted of non-structured in-
+terviews (i.e., without inclusion of a standardized inter-
+view guide) with pellet mill procurement foresters and
+staff responsible for reporting on sourcing practices and
+sustainability programs. Loggers and wood dealers sup-
+plying these mills were also interviewed. Data gathered
+from these site visits were used to confirm and expand
+upon the information gathered in the telephone inter-
+views conducted in 2017. Based on the initial data gath-
+ered in the telephone interviews and in the site visits,
+supply chains were classified into three types, each con-
+sisting of pellet mills exhibiting similar supply chain
+characteristics, in terms of used feedstock sources, pro-
+curement systems, and certifications.
+Results
+We first address what drives participation in supply chain
+certifications and other sustainability programs used by
+the U.S. industrial pellet sector. Following this is an exam-
+ination of sustainability programs used and how these
+both influence and are influenced by feedstock sourcing
+strategies and the structure of supply chains. Lastly, we re-
+port on challenges and opportunities facing pellet mill
+participation in sustainability sourcing programs.
+What drives engagement of the pellet sector in
+sustainability initiatives?
+Respondents claimed that local, state, federal, and inter-
+national policies all “govern” these supply chains, specific-
+ally influencing how wood is grown and harvested, but
+that customer requirements dictate supply chain certifica-
+tions. Respondents suggested that international policies as
+expressed in customer demands strongly influence both
+pellet mill sourcing strategy and corporate structure. This
+is particularly expressed in the use of risk assessments,
+fiber
+procurement
+and
+tracing
+technologies,
+risk
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 4 of 17
+mitigation tactics, selection of wood dealers, and the
+structure and responsibilities of procurement staff.
+As cited by respondents, the policy drivers of the sus-
+tainability governance in their supply chains include:
+� State-level policies (e.g., water quality laws),
+� Federal, i.e., Clean Water Act [44] and the
+Endangered Species Act [45], and
+� International (e.g., biomass procurement policy of
+the UK [46] and the Dutch biomass sustainability
+criteria under the Stimulation of Sustainable Energy
+Production, SDE+) [26].
+In addition to customer demands, external pressures
+from NGOs influence the shape of the used sustainabil-
+ity initiatives and wood procurement strategies. Some
+respondents expressed that they are going above and be-
+yond customer requirements by entering into agree-
+ments with local environmental NGOs that identify
+areas off limits to sourcing. Others have made strides to
+improve the transparency of their sourcing, citing exter-
+nal pressure. Another factor is how companies approach
+the concept of sustainability and what they wish their
+corporate culture to be. This includes how companies
+are structured and staffed, i.e., how many personnel
+hours are dedicated to sustainability programs, and also
+how the companies choose to engage NGOs, e.g.,
+whether they consider their concerns legitimate or not.
+Which supply chain sustainability governance structures
+are used by the U.S. industrial pellet sector?
+Pellet mills reported adopting various forms of non-
+governmental sustainability governance, in the form of
+supply chain certifications (Table 1). The most widely
+used certification programs among mills surveyed are
+SBP, PEFC COC/CS, SFI COC, SFI FS, and FSC COC/
+CW2. The study also identified the pellet industry using
+six overall strategies in association with their supply
+chain
+certifications
+and
+wood
+sourcing
+procedures,
+intended for risk assessment and risk management in
+their supply chains. These strategies often occurred in
+combination with each other.
+1) “Auditing” (by pellet mill staff) of 100% of
+secondary feedstock suppliers.
+2) “Auditing” a portion (e.g., 10–20%) of secondary
+suppliers’ supply chains (paper trail audits and/or
+field audits).
+3) Contractually requiring all suppliers to use the FSC
+CW and PEFC CS standards with chain of custody
+certifications or that they adhere to the main
+elements of these standards.
+4) Extending spatial risk assessments3 to encompass
+the sourcing area of secondary residual suppliers.
+5) Offering to certify the forest management plans of
+landowners supplying sawmills providing mill
+residuals to a pellet mill (i.e., group certification
+managed by the pellet mill). Group certification is
+used in both FSC and ATFS.
+6) Adopting technology that integrates spatial risk
+assessments and primary fiber sourcing and
+material tracking procedures.
+Accompanying the adoption of these strategies are
+written environmental sustainability policies related to
+sourcing practices. All but three pellet mills in this study
+reported having such documents. Stated reasons for hav-
+ing written sourcing policies included that it is an aspect
+of workforce training; it helps establish a corporate cul-
+ture; it communicates corporate values to suppliers,
+stakeholders, and customers; and it helps demonstrate
+and ensure regulatory compliance.
+Respondents expressed that their adoption of supply
+chain certifications and sourcing procedures is largely in
+response to the policy drivers linked to the market. Ex-
+ternal policies, particularly the policies of countries sour-
+cing wood pellets from the southeast U.S., often make
+explicit reference to other non-regulatory tools for forest
+management unit level certification, chain of custody
+with controlled sources/controlled wood certification, or
+certification with low risk of non-compliance with forest
+management standards at the wood pellet producer
+level. As depicted in Table 1, adoption of many of these
+systems is common, particularly supply chain certifica-
+tions like the SBP.
+At present, however, for the majority of the industrial
+wood pellet sector of the southeast U.S., the volume of
+fiber that can be traced back to a forest certified to a for-
+est management certification standard is low, except for
+mills that are closely linked with another forest products
+facility, i.e., a single local sawmill and industrial owner-
+ship certified to the SFI forest management standard.
+All of the larger pellet mills (+ 300,000 metric tonnes
+year−1 production capacity) using mostly primary fiber
+as feedstock reported having asked landowners to certify
+their forest. This is usually done indirectly through their
+suppliers and/or partner organizations, such as the
+ATFS, a program geared for engaging non-industrial pri-
+vate
+forest
+owners
+to
+obtain
+forest
+management
+2Detailed descriptions of certification systems and how they address
+risks are available in Olesen et al. [14].
+3Within the context of forestry, a spatial risk assessment is a mapping
+analysis that identifies certain risk categories, e.g., risk of damaging an
+area rich in biodiversity, within a landscape pertaining to wood
+sourcing.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 5 of 17
+certification. Two of these companies reported begin-
+ning to work with secondary residual supplying sawmills
+and landowners within their supply chains by offering
+ATFS group certification services to landowners within
+the supply base of the sawmills. The pellet mill and saw-
+mill are then able to claim fiber sourced from these
+lands as certified content. However, smaller pellet mills
+more reliant on a higher proportion of secondary resid-
+uals in their feedstock mix have not adopted such an
+approach.
+A common strategy for dealing with secondary re-
+sidual feedstock among the pellet mills using a high pro-
+portion
+in
+their
+feedstock
+mix
+is
+to
+expand
+the
+geographic extent of their supply chain certification risk
+assessment to be inclusive of the sourcing areas of their
+secondary residual suppliers. This is often paired to a
+sourcing protocol that limits secondary residual sup-
+pliers to only those who themselves participate in many
+of the same supply chain certifications, principally PEFC
+CS and/or FSC CW.
+Are there common feedstock sourcing strategies and
+supply chain structures that exist within the pellet sector?
+Pellet mills sampled ranged from just over 85,000–750,
+000 metric tonnes annual production capacity, with an
+average size of 379,500 metric tonnes. Actual annual
+production may be more or less than the nameplate cap-
+acity for a given pellet mill, i.e., the expected annual
+Table 1 Certifications used by the 17 sampled industrial pellet mills in the southeast U.S.
+Pellet
+mill
+Forest management certification
+Supply chain certification
+1
+15% of primary fiber SFI FM; 30–35% of the secondary residuals carry SFI FM certificates, 5% of secondary
+residuals carry FSC FM certificates).
+SFI FS, SFI COC, PEFC COC, FSC
+CW, SBP.
+2
+12% primary fiber certified (10% SFI FM, 2% ATFS), no residual sources carry FM certificates.
+SFI FS, SFI COC, PEFC COC, FSC
+CW, SBP.
+3
+4% primary fiber certified (3% SFI, 1% ATFS), no residual sources carry FM certificates.
+SFI FS, SFI COC, PEFC COC, FSC
+CW, SBP.
+4
+4.5% primary feedstock certified (4% SFI FM, 0.5% ATFS), 0.01% of secondary residuals carry FSC FM
+certificates).
+SFI FS, SFI COC, PEFC COC, FSC
+CW, SBP.
+5
+6.1% primary fiber certified (6% SFI FM, 0.1% ATFS), 0.01% of secondary residuals carry FSC FM certificates.
+SFI FS, SFI COC, PEFC COC, FSC
+CW, SBP.
+6
+1% primary fiber SFI FM, 0.01% of secondary residuals carry FSC FM certificates).
+SFI FS, SFI COC, PEFC COC, FSC
+CW, SBP.
+7
+41–51% primary fiber certified (40–50% SFI FM, 1% ATFS).
+PEFC CS, FSC CW, SFI FS, SFI
+COC, PEFC COC, SBP.
+8
+41–51% primary fiber certified (40–50% SFI FM, 1% ATFS).
+PEFC CS, FSC CW, SFI FS, SFI
+COC, PEFC COC, SBP.
+9
+41–51% primary fiber certified (40–50% SFI FM, 3% ATFS).
+PEFC CS, FSC CW, SFI FS, SFI
+COC, PEFC COC, SBP.
+10
+SFI FM, ATFS, and FSC FM (mostly sourcing from dual SFI/FSC certified lands).
+SFI COC, FSC CW, SBP certified,
+SFI FS.
+11
+Not sourcing directly from certified forests.
+PEFC COC, PEFC CS; FSC CW,
+SBP compliant.
+12
+Not sourcing primary fiber directly from certified forests, 12% secondary residual SFI FM.
+PEFC COC, PEFC CS; FSC CW,
+SBP compliant.
+13
+Did not report sourcing directly from certified forests.
+PEFC COC, PEFC CS, FSC CW,
+SBP compliant.
+14
+Did not report sourcing directly from certified forests.
+PEFC COC, PEFC CS, FSC CW,
+SBP compliant.
+15
+Did not report sourcing directly from certified forests.
+PEFC COC, PEFC CS, FSC CW,
+SBP compliant.
+16
+100% of feedstock SFI FM.
+FSC CW, PEFC CS, SBP certified,
+SFI FS.
+17
+28% of feedstock certified (21% SFI FM, 7% ATFS).
+FSC CW, FSC COC, SBP certified,
+GGL, SFI FS.
+SFI FM Sustainable Forestry Initiative forest management certification, SFI COC Sustainable Forestry Initiative chain of custody, SFI FS Sustainable Forestry Initiative
+Fiber Sourcing program, ATFS American Tree Farm System certification, PEFC COC Program for the Endorsement of Forest Certification chain of custody, PEFC CS
+Program for the Endorsement of Forest Certification controlled sources, FSC FM Forest Stewardship Council forest management certification, FSC COC Forest
+Stewardship Council chain of custody, FSC CW Forest Stewardship Council controlled wood, SBP certified sustainable biomass program certification, SBP compliant
+sustainable biomass program compliant biomass, GGL Green Gold Label certification
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 6 of 17
+volume of production at full operation based on facility
+design. Table 2 includes a range of production capacity
+estimates provided by plant managers. Data from inter-
+views with pellet plant managers coupled with a review
+of certification reports in the SBP database indicates that
+in 2017, actual production at two of the three largest
+pellet mills was at the lower end of the range of annual
+capacity provided by plant managers, whereas 2017 pro-
+duction at the last one of the three largest pellet mills
+was at the upper end of its nameplate capacity. In 2019,
+actual production at one of these three mills had
+exceeded its nameplate capacity.
+Collectively, the 17 mills surveyed are capable of
+exporting over 6 million metric tonnes of wood pellets
+annually. Variation existed in terms of the feedstocks
+used, strategies for procuring these feedstocks, and the
+structures of their supply chains (Table 2). For example,
+one pellet mill procured 100% of its fiber from a single
+certified industrial forest4 landowner as non-sawtimber
+roundwood and what they termed harvest residuals (e.g.,
+the fraction of a pine tree top that would not normally
+be utilized by other pulpwood size-using industries). An-
+other pellet mill sourced a large portion of its feedstock
+as mill residuals from a company-owned sawmill inte-
+grated with an industrial forest ownership, which also
+supplied non-sawtimber roundwood to the pellet mill. In
+yet another example, an exporter served as an aggrega-
+tor, sourcing from many smaller pellet mills to equal
+quantities of the larger exporting pellet mills. The supply
+network for this exporter thus involved secondary resid-
+uals from over 70 wood product facilities located across
+six states that were sold as feedstock to the smaller pellet
+mills within its supply network.
+As forests in the southeast U.S. are predominantly in
+private ownership [47], pellet mills included in this study
+source mainly from private industrial and non-industrial
+forests (typically family owned), with plantation and nat-
+urally regenerated loblolly and slash pine predominating,
+but with deciduous (hardwood) tree species being a sig-
+nificant feedstock for some mills. Most of the pellet mills
+studied did not maintain long-term supply contracts
+with landowners. In a few instances, pellet mills used
+supply contracts with industrial forest owners during the
+first few years of start-up.
+Interviewees for a few pellet mills described a shift in
+their feedstock sourcing over time to sourcing more pri-
+mary fiber from non-industrial forests, and a higher per-
+centage of secondary fiber (wood processing residuals).
+Respondents described this as a maturation of their
+supply chain and sourcing practices. Respondents gener-
+ally described a process of “ramping up” production, be-
+ginning by producing smaller volumes of pellets and
+growing their throughput over the course of 12–24
+months. The process necessitated expanding sourcing
+strategies from a few suppliers to a larger number of
+non-industrial landowners for primary fiber and a larger
+number of secondary residual suppliers.
+Primary fiber (roundwood and harvest residuals) was
+typically procured from thinnings and final harvests up
+to 80–120 km (50–75 miles) from a pellet mill. Second-
+ary fiber (sawmill residuals and residuals from wood
+product facilities using sawn wood) is sourced from
+within this same supply base area, but also often from
+much greater distances. Primary fiber, principally pulp-
+wood size roundwood as tree-length logs, in-woods
+chips, and harvest residuals (treetops and limbs), com-
+prised the largest portion of industrial pellet feedstock
+supply in the southeast U.S. The highest share of this
+feedstock type was found in the larger (capacity of +
+300,000 tonnes year−1) pellet mills. Many of the larger
+pellet mills mixed primary fiber with secondary fiber
+(mainly sawmill residuals) in proportions of approxi-
+mately 70–100% primary to 0–30% secondary, an obser-
+vation confirmed by others [28, 48]. Based on data
+gathered in 2017, an approximate percentage ratio of 80:
+20 primary to secondary fiber was identified as standard
+practice for much of the total capacity of the U.S. indus-
+trial pellet sector.
+Yet, follow-up site visits completed a year after initial
+telephone interviews found that three larger pellet mills
+(capacity of + 350,000 tonnes year−1) were in the process
+of shifting their procurement models to feature signifi-
+cantly more secondary residuals. Respondents reported
+doing so principally for economic reasons, due to the
+presence of mill residuals at a lower cost. A consequence
+of this was that the wood supply base for these three
+mills had also changed, expanding to include sawmills
+and other wood product facilities in more distant geog-
+raphies than prior. Some respondents noted that a shift
+to secondary fiber was accompanied by revising their
+risk assessments, as the geographic breadth of the
+supply-base grew substantially.
+Several pellet mills sourced a considerable amount of
+their feedstock from independent wood dealers, ranging
+from only a few to as many as 80. In some instances,
+wood dealers operated on volume-based contracts with
+pellet mills. Wood dealers were often foresters and/or
+loggers who had operated within the southeast forest in-
+dustry for several years; most often, these individuals
+were locally networked with landowners and regional
+forest product facilities. As main suppliers to several of
+the pellet mills, wood dealers maintained relationships
+(contractual
+or
+otherwise)
+with
+regional
+sawmills,
+4In the southeast U.S. industrial forest ownerships are characterized by
+their large size, corporate ownership structure, e.g., real estate
+investment trusts or timber investment management organizations,
+intensive plantation forestry practices, and objectives which tend to
+favor wood production and profit maximization.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 7 of 17
+Table 2 Feedstock type and source for 17 pellet mills in the southeast U.S. (2017). Annual production capacity given in metric
+tonnes year−1
+Pellet
+mill
+Annual
+production
+capacity
+Feedstocks used
+Primary fiber sources
+Secondary and tertiary fiber
+sources
+Primary fiber
+Secondary
+residuals
+Forest types
+Forest ownership
+1
+100,000–
+200,000
+15% primary fiber (in-woods
+chips from thinnings)
+85% secondary
+residuals (75%
+sawmill residuals
+and 10% non-
+sawmill wood
+product facilities)
+Pine and upland
+hardwood
+15% from a single
+industrial owner under
+long-term contract;
+85% non-industrial
+Volume-based supply
+contracts with a few wood
+dealers sourcing from 40
+sawmills and 15 other wood
+product facilities
+2
+700,000–
+800,000
+70% primary fiber
+30% secondary
+residuals (sawmill
+residuals)
+100% pine
+80% non-industrial,
+15% industrial, 5%
+public
+Volume-based supply
+contracts with approximately
+15 wood brokers who each
+source from the same 15–20
+sawmills
+3
+400,000–
+500,000
+100% primary fiber (60%
+pulpwood size roundwood
+as tree-length logs and 40%
+in-woods chips) 90% of
+which is from final harvests
+and 10% thinnings
+–
+63% pine, 33%
+pine/hardwood, 3%
+bottomland
+hardwood, 2%
+upland hardwood
+97% non-industrial;
+3% industrial
+Volume-based supply
+contracts with 10 wood
+dealers
+4
+300,000–
+400,000
+73% primary fiber (in-woods
+chips)
+27% secondary
+residuals (sawmill
+residuals)
+63% pine, 33%
+pine/hardwood, 3%
+bottomland
+hardwood, 2%
+upland hardwood
+99% non-industrial,
+1% industrial
+Volume-based supply
+contracts with 80 wood
+dealers sourcing from 35 to
+40 sawmills
+5
+500,000–
+600,000
+90% primary fiber (60% of
+total is harvest residuals as
+limbs and tops and 30% of
+total is pulpwood as tree-
+length logs)
+10% secondary
+residues (sawmill
+residuals)
+7% bottomland
+hardwood, 7% mill
+residues, 60%
+hardwood/pine,
+23% pine, 3%
+upland hardwood
+99% non-industrial,
+1% industrial
+Volume-based supply
+contracts with 80 wood
+dealers sourcing from 35 to
+40 sawmill
+6
+500,000–
+600,000
+80% primary fiber (58% of
+total is pulpwood size
+roundwood as tree-length
+logs and 22% of total is in-
+woods chips)
+20% secondary
+residuals (sawmill
+residuals)
+2% bottomland
+forests, 3% pine/
+hardwood, 30%
+pine, 7% upland
+hardwood
+99% non-industrial,
+1% industrial
+Volume-based supply
+contracts with 80 wood
+dealers sourcing from 35 to
+40 sawmill
+7
+400,000–
+500,000
+70% primary fiber
+(pulpwood size roundwood
+as tree-length logs), 10%
+harvest residuals
+20% secondary
+residuals (sawmill
+residuals)
+100% pine
+50% non-industrial,
+40% industrial, 10%
+public
+40% with landowners, 20–
+30% from wood dealers. The
+remainder is from sawmills
+and/or in-woods chips
+8
+400,000–
+500,000
+70% primary fiber
+(pulpwood size roundwood
+as tree-length logs), 10%
+harvest residuals
+20% secondary
+residuals (sawmill
+residuals)
+100% pine
+Non-industrial, 40%
+industrial, 10% public
+40% with landowners 20–
+30% from wood dealers. The
+remainder is from sawmills
+and/or in-woods chips
+9
+400,000–
+500,000
+20% primary fiber
+(pulpwood size roundwood
+as tree-length logs)
+80% residuals
++ 90% pine, ~ 10%
+hardwood
+85% non-industrial,
+12% industrial, 3%
+public
+100% from wood dealers
+10
+200,000–
+300,000
+Roundwood (respondent
+considers roundwood a
+residual when it comes from
+thinnings), harvest residuals
+100% secondary
+residuals from
+wood processing
+facilities
+Pine and mixed
+pine/hardwood
+Vertically integrated
+sourcing primarily
+from company owned
+lands, other private
+lands, and
+occasionally public
+Does not source from wood
+dealers, primarily because
+independent wood dealers
+do not have chain of custody
+11
+100,000–
+200,000
+–
+100% secondary
+residuals from
+wood processing
+facilities
+Pine, upland
+hardwood/pine
+70% non-industrial,
+25% industrial, 5%
+public
+60 sawmills, 10 non-sawmill
+secondary processors. None
+of the supply is under long-
+term contracts.
+12
+200,000–
+300,000
+50% primary fiber
+(pulpwood size roundwood
+as tree-length logs).
+50% secondary
+residuals (sawmill
+residuals)
+Pine, upland
+hardwood/pine
+70% non-industrial,
+25% industrial, 5%
+public
+60 sawmills, 10 non-sawmill
+secondary processors. None
+of the supply is under long-
+term contracts
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 8 of 17
+directing wood product residuals to pellet mills and
+other customers. This meant that some pellet mill sup-
+ply chains feature a large number of other wood product
+facilities, principally sawmills, with whom their primary
+relationship existed through a second party.
+For example, one of the larger pellet mills surveyed
+sourced secondary residuals from over 30 sawmills, in-
+woods chips from three wood dealers, tree-length pulp-
+wood size roundwood under contract with three indus-
+trial landowners, and secondary residuals from 45 wood
+dealers who themselves had sourced from an estimated
+400 landowners. While this pellet mill maintains con-
+tracts for tree-length pulpwood size roundwood from
+large industrial forest owners, they did not maintain
+contracts with wood dealers.
+Another pellet mill, relying largely on primary fiber
+from their own lands, had chosen not to use wood
+dealers reportedly because of the difficulty in establish-
+ing a chain of custody back to feedstock origin, i.e., the
+forest. Another company suggested that contracts with
+wood dealers and sawmills were sufficient to address
+risks that may be in these second party suppliers’ supply
+chains, even if clear chain of custody back to the parcel
+cannot be established.
+Analysis of supply chain feedstock sourcing, supply
+chains, and sustainability governance formed the basis
+for a classification of surveyed pellet mills into three
+different supply chain types (Table 3 and Fig. S2 in
+supplementary material).
+Most supply chains of pellet mills included in this
+study are type 1, being mills of + 300,000 metric tonnes
+year−1 production capacity and sourcing approximately
+70–80% primary fiber as tree length pulpwood size
+roundwood or in-woods chips (predominantly southern
+yellow pine) procured from within 50–75 miles of the
+pellet mill. The remaining 20–30% of feedstock being
+predominantly secondary fiber, mostly sawmill residuals,
+procured from a larger geography. Type 1 supply chains
+generally involve relationships with several wood dealers
+(10–80 individual wood dealers) and sawmills, mirroring
+supply chains of other pulpwood size roundwood using
+facilities in the region, such as panel products and pulp
+and paper mills. These relationships are key links in the
+supply chain that enable wood dealers to fluidly direct
+wood to market outlets, responding to price signals and
+the specifications of wood utilization facilities.
+While wood dealers typically had some type of agree-
+ment with pellet mills, these suppliers may or may not
+have contracts with individual landowners and/or saw-
+mills from where they procure feedstock. Often, this de-
+pends on whether or not the wood dealer purchases the
+wood outright or merely conveyed the wood to a pellet
+mill on behalf of a landowner or sawmill. Other pellet
+mills report not maintaining formal contracts with wood
+dealers despite other pellet mills citing such contracts as
+important evidence underpinning their risk rating under
+their SBP certification. Primary fiber, including harvest
+residuals,
+may
+also
+be
+procured
+directly
+from
+a
+Table 2 Feedstock type and source for 17 pellet mills in the southeast U.S. (2017). Annual production capacity given in metric
+tonnes year−1 (Continued)
+Pellet
+mill
+Annual
+production
+capacity
+Feedstocks used
+Primary fiber sources
+Secondary and tertiary fiber
+sources
+Primary fiber
+Secondary
+residuals
+Forest types
+Forest ownership
+13
+100,000–
+200,000
+–
+100% secondary
+residuals from
+wood processing
+facilities
+Pine, upland
+hardwood/pine
+70% non-industrial,
+25% industrial, 5%
+public
+60 sawmills, 10 non-sawmill
+secondary processors. None
+of the supply is under long-
+term contracts
+14
+50,000–100,
+000
+–
+100% secondary
+residuals from
+wood processing
+facilities
+Pine, upland
+hardwood/pine
+70% non-industrial,
+25% industrial, 5%
+public
+Sawmills and non-sawmill
+secondary processors from a
+multi-state area
+15
+100,000–
+200,000
+–
+100% secondary
+residuals from
+wood processing
+facilities
+Pine, upland
+hardwood/pine
+70% non-industrial,
+25% industrial, 5%
+public
+Sawmills and non-sawmill
+secondary processors from a
+multi-state area
+16
+500,000–
+600,000
+80% pulpwood size
+roundwood as tree-length
+logs; 20% tree tops from
+pine plantations
+–
+100% pine
+100% industrial
+100% under contract with a
+single landowner
+17
+700,000–
+800,000
+Primary fiber (pulpwood size
+roundwood as tree-length
+logs and in-woods chips)
+Secondary
+residuals (sawmill
+residuals)
+92% pine, 8%
+hardwood
+30% industrial, 70%
+non-industrial
+32 sawmills, in-woods chips
+from 3 wood dealers, tree-
+length roundwood under
+contract with 3 industrial
+landowners, secondary resid-
+uals from 45 wood dealers
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 9 of 17
+Table 3 Common characteristics of pellet mill wood procurement for three types of supply chains
+Characteristic
+Type 1—large mills sourcing a large
+proportion of feedstocks from
+pulpwood size roundwood
+Type 2—medium to large mills
+linked to a sawmill providing a large
+proportion of total feedstock as
+secondary residuals
+Type 3—smaller mills sourcing 100%
+of feedstock as secondary residuals
+Feedstock procurement
+Contracts with large
+industrial forest ownerships
+for primary sourcing
+A small portion (10–20%) of the
+supply
+Contracts with large industrial forest
+ownerships for a significant (50–
+100%) portion of the supply of
+primary fiber
+No contracts with large industrial
+forest ownerships
+Reliance on wood dealers
+Significant reliance on wood dealers
+to provide primary and secondary
+fiber
+Insignificant reliance on wood
+dealers
+Significant reliance on wood dealers
+Sourcing of secondary
+residues
+Sourcing secondary fiber from
+multiple sawmills and re-
+manufacturing facilities
+Direct sourcing of secondary residues
+from a sawmill either owned by the
+same company or by a partner in
+joint venture
+Supply chain is nearly entirely built
+around secondary fiber, sourcing
+from several sawmills and other
+wood product facilities, from a large
+area
+Risk assessment (RA) feature
+Use of external consultants
+and publicly available data
+for risk assessment (RA)
+RA usually completed by external
+consultants using publicly available
+data
+RA usually completed by external
+consultants using publicly available
+data
+RA usually completed by external
+consultants using publicly available
+data.
+Level of integration
+Commonly feature RAs directly
+integrated into procedures of primary
+fiber procurement and indirectly
+integrated into secondary fiber
+procurement
+Commonly feature RAs directly
+integrated into primary fiber
+procurement
+–
+Standards used for RA
+RA is done to standards of PEFC CS,
+FSC CW, and SBP
+RA is done to standards of PEFC CS,
+FSC CW, and SBP
+RA is done to standards of PEFC CS,
+FSC CW, and SBP
+Coverage
+RAs cover area from where primary
+fiber is sourced and attempt to cover
+sourcing area for other suppliers (i.e.,
+sawmills providing secondary fiber)
+RAs cover area from where primary
+fiber is sourced and attempt to cover
+sourcing area for other suppliers (i.e.,
+sawmills providing secondary fiber)
+RAs attempt to cover sourcing area
+for all suppliers (i.e., sawmills
+providing secondary fiber)
+Risk mitigation
+General picture
+Considerable variation among mills,
+use of several measures
+Comprehensive use of risk mitigation
+through certification
+Limited risk mitigation
+Avoidance of risk identified
+in RAs
+Yes, for primary fiber
+Yes, for primary fiber
+RAs encompass geographic area of
+secondary residual suppliers or RAs
+not conducted
+Sourcing from FM-certified
+forests
+Yes, for primary fiber. Sourcing mainly
+from certified industrial forests vs.
+uncertified non-industrial forests
+Yes, for primary fiber. Sourcing
+mainly from certified industrial forests
+vs. uncertified non-industrial forests
+Very limited sourcing of primary fiber
+Inspecting a portion of
+harvest by pellet mill staff
+Yes, for primary fiber
+Yes, for primary fiber
+–
+Inspecting via
+questionnaires and/or site
+visits a portion (10–100%) of
+residual supplier records
+and sourcing practices
+Yes
+Yes
+–
+Use of quota systems
+limiting the amount of non-
+FM-certified fiber
+Yes, for primary fiber. Use of quota
+system to encourage fiber from
+certified forests
+–
+–
+Use of independently
+managed group
+certification programs
+Yes. Including offering to certify the
+landowners supplying roundwood to
+sawmills providing pellet mill
+residuals
+Yes. Including offering to certify the
+landowners supplying roundwood to
+sawmills providing pellet mills
+residuals
+–
+Use of supply volume-based
+agreements that include
+feedstock sourcing
+specifications
+Yes, for primary fiber. Some instances
+where contracts with sawmills are
+cited as evidence of risk mitigation
+Yes, for primary fiber. Some instances
+where contracts with sawmills are
+cited as evidence of risk mitigation
+–
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 10 of 17
+landowner via a logger without a wood dealer being in-
+volved. Among the 10 pellet mills classified as type 1
+supply chains, secondary fiber was identified as being
+procured from as few as 15 to as many as 45 sawmills
+and other wood product facilities, with most of these
+pellet mills sourcing from more than 30 sawmills.
+Some type 1 pellet mills maintained volume-based
+contracts with the wood dealers supplying them. These
+contracts may specify some procurement guidelines re-
+lated
+to
+sustainability,
+such
+as
+targets
+for
+forest
+management-certified fiber, but often, pellet mill wood
+procurement staff work out such specifications with
+their suppliers on an ongoing basis. For instance, one
+company reported using a quota system with their sup-
+pliers, whereby a maximum of non-certified fiber could
+be sold to the pellet mill in any given month. Note that
+both FSC and PEFC require certain procedures for mix-
+ing fiber sourced from a certified forest with fiber
+sourced from a non-certified forest5.
+A second category of industrial pellet mills, type 2, in-
+cluded those mills that were closely linked with another
+forest products facility, i.e., a single local sawmill. This
+type of supply chain is more common for smaller pellet
+mills. Among type 2 mills surveyed is a nearly vertically
+integrated company, now a rarity in the U.S. forest prod-
+ucts sector, with a pellet mill integrated with a sawmill
+owned by the same company that also owns certified
+forestland supplying both mills. Two pellet mills sur-
+veyed featured this type of supply chain. A third pellet
+mill, categorized as type 1, likely could be considered a
+type 2 supply chain after the construction of a sawmill
+adjacent to the pellet mill by a separate company is com-
+pleted. The pellet mills classified as supply chain type 2
+featured very significant use of feedstock from forest
+management-certified forests.
+Pellet mills featuring supply chain type 3 are typically
+smaller
+(e.g.,
+50,000–200,000
+metric
+tonnes
+year−1
+production capacity) than type 1 and 2. Some of these
+mills were in operation prior to the industrial wood pel-
+let export market existing and reflect the supply chains
+of most pellet mills in the U.S. that service the residen-
+tial wood heat market. Type 3 supply chains analyzed
+for this study aggregated wood pellets at a central loca-
+tion prior to shipment to a port.
+What challenges and opportunities face the industry
+participating in supply chain certification and
+sustainability sourcing programs?
+The greatest challenge for pellet mills is to increase sec-
+ondary residual feedstock suppliers’ acceptance of, and
+active participation in, sustainability programs. Strategies
+for dealing with this vary but include:
+� Extending spatial risk assessments to encompass the
+sourcing area of secondary residual suppliers,
+typically expanding the spatial risk assessment well
+beyond the region where primary fiber is sourced,
+� Auditing secondary residual suppliers,
+� Contractually requiring all suppliers be FSC CW
+and PEFC CS certified or that suppliers will abide by
+these standards, and
+� Offering to certify the forest management plans of
+landowners supplying the sawmills (i.e., group
+certification).
+All companies surveyed reported relying on data from
+secondary and tertiary residual suppliers coupled with
+an extension of geospatial risk assessments to encompass
+the supply base of each secondary residual supplier. Risk
+assessments (for all fiber types) were typically completed
+to the standards of PEFC CS and FSC CW. These assess-
+ments routinely use geospatial datasets developed by a
+third party for identification of ecological attributes (e.g.,
+known occurrences of rare plants, animals, and eco-
+logical communities) posing environmental risks within
+the potentially available supply area for primary fiber.
+Table 3 Common characteristics of pellet mill wood procurement for three types of supply chains (Continued)
+Characteristic
+Type 1—large mills sourcing a large
+proportion of feedstocks from
+pulpwood size roundwood
+Type 2—medium to large mills
+linked to a sawmill providing a large
+proportion of total feedstock as
+secondary residuals
+Type 3—smaller mills sourcing 100%
+of feedstock as secondary residuals
+CoC, including PEFC CS and
+FSC CW
+Yes, for primary fiber
+Yes, for primary fiber
+One company with a number of
+pellet mills of supply chain type 3
+reportedly requires that suppliers of
+secondary fiber use PEFC CS and FSC
+CW certifications
+RA with suppliers
+Yes, for primary fiber. RAs with
+suppliers (e.g., wood dealers and
+wood residual suppliers)
+Yes, for primary fiber. RAs with
+suppliers (e.g., wood dealers and
+wood residual suppliers)
+Yes, some companies extend their
+RAs to the supply-base of all residual
+suppliers
+Use of trained loggers
+Yes, for primary fiber
+Yes, for primary fiber
+–
+5Strauss [12] provide a thorough review of procedures for mixing
+certified and non-certified content.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 11 of 17
+Private consultants completed these spatial risk assess-
+ments at the regional or state level (i.e., an area larger
+than a facility’s supply area) to be inclusive of all regions
+from which the pellet mill might source primary and
+secondary fiber. Sources of data used in risk assessments
+generally include NatureServe [49], state Natural Heri-
+tage datasets [50], FSC’s US national risk assessment6
+[51], vegetation cover types, and other spatial datasets.
+Many (but not all) of the hundreds of sawmills within
+southeast U.S. industrial pellet mill supply networks par-
+ticipate in supply chain certifications themselves. Re-
+spondents reported seeking out such suppliers. The
+smaller type 3 pellet mills reported that all of their sup-
+pliers of secondary and tertiary feedstock carry PEFC CS
+and FSC CW certificates, which helps confirm district of
+origin and that risks have been identified and avoided
+and/or controlled (i.e., mitigated risk and/or feedstocks
+avoided). Yet, procurement staff from some of the very
+large type 1 pellet mills reported encountering resistance
+when asking their secondary residual suppliers to pro-
+vide feedstock origin data and/or upon urging them to
+adopt supply chain certification (PEFC CS and FSC CW)
+if they had not already done so.
+Respondents reported visiting a statistically representa-
+tive sample of secondary and tertiary feedstock suppliers
+each year (Table 3). This can be a time-consuming activ-
+ity given the complexity of supply chains, for example, a
+200,000-metric tonnes year−1 production capacity pellet
+mill sources from around 60 sawmills and 10 other sec-
+ondary manufacturing facilities from across a six-state
+region with supplier contracts requiring BMP compli-
+ance and auditing, as well as the use of FSC CW and
+COC, and PEFC CS and COC.
+This involves interviewing suppliers, reviewing sup-
+plier data files, and in some instances inspecting a seg-
+ment of harvests to verify BMPs were used and that
+controversial sources avoided (as required by PEFC CS
+and FSC CW). This task is reported to occupy a pellet
+mill’s procurement forester up to 4 weeks per year, in an
+instance where 100% of secondary residual suppliers are
+visited. Across all supply chain types, pellet mills typic-
+ally invested 1–4 full-time employees to manage due
+diligence in procurement, including the various sourcing
+certifications and procedures used.
+In addition to first party audits of suppliers, companies
+reported adapting or developing a series of data manage-
+ment systems to comply with supply chain certifications’
+due
+diligence
+requirements.
+These
+databases
+are
+integrated within the broader sourcing programs of pel-
+let mills. Some respondents reported using global posi-
+tioning systems (GPS) with timber load ticketing to geo-
+reference the coordinates of fiber origin and monitor the
+flow of fiber at the facility gate. This mechanism is used
+to establish and maintain chain of custody (COC) back
+to harvest units from which primary fiber is obtained.
+Thus, the due diligence system encompasses the initial
+risk assessment which is subsequently linked to sourcing
+protocols intended to reduce sourcing from undesirable
+areas.
+Additionally, one company explained that their policy
+is to only accept a truckload if the load ticket is present
+at time of delivery and if the origin is known. At least
+three companies (all type 1 and 2 supply chains) use this
+approach in conjunction with geographic information
+system (GIS) mapped risk assessments, identifying areas
+of potential risk and procurement due diligence proce-
+dures7, in an attempt to verify the avoidance of areas of
+high conservation value. For instance, when a wood
+dealer approaches the procurement forester about a new
+harvest, the location of the harvest is cross-referenced to
+the pellet mills GIS-based risk analysis. Depending on
+the results, a procurement forester may visit the location
+of the proposed harvest if a risk is detected. These same
+spatial datasets and supply data management systems
+are used in monitoring of compliance with water quality
+best management practices (BMPs). For facilities using
+PEFC CS and FSC CW, it was common for procurement
+and/or sustainability personnel to inspect a percentage
+of harvests annually to ensure that water quality BMPs
+are used, and, in the case of FSC, that conversion to
+other land uses has not occurred.
+Several of the pellet mills of supply chain type 1 used
+both procurement foresters and sustainability managers,
+whose jobs are supported by, and revolve around, such
+risk assessment and data management systems. Procure-
+ment foresters were mainly responsible for working dir-
+ectly and regularly with suppliers for acquisition of
+feedstock. Sustainability staff monitors this process,
+complete risk assessments, coordinate first party and
+third party audits, and gather and evaluate sourcing data
+for compliance with certification programs. The rela-
+tionship
+between
+procurement
+and
+sustainability
+personnel is described as having a beneficial tension to
+improve sourcing practices.
+Discussion
+This work aimed to document feedstock-sourcing strat-
+egies of the wood pellet industry in the southeast U.S. as
+6Note that at the time of this study, the FSC Controlled Wood
+National Risk Assessment was still in draft form. Pellet mills wishing
+to use the FSC Controlled Wood Standard will need to integrate FSC’s
+final Controlled Wood National Risk Assessment into their sourcing
+and SBP certifications by October 05, 2019. This is likely to be a
+substantial data source for SBP risk assessments going forward.
+7Due diligence procedures refer to an analysis of wood sourcing
+practices and their ability to avoid and/or manage risks identified in a
+risk assessment.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 12 of 17
+these supply chains are poorly understood. Our research
+identified commonly applied approaches to documenting
+conformance to sustainability requirements and chal-
+lenges to assessing risks within supply chains.
+Sikkema et al. [34] concluded that for the southeast
+U.S., reliance on risk-based supply chain certifications
+(e.g., PEFC CS/COC and FSC CW/COC) offers “insuffi-
+cient coverage of sustainable sourcing topics.” However,
+risk-based approaches are accepted by larger wood pellet
+importing countries in the EU, such as the UK and
+Denmark [17], and recent policy decisions by the European
+Commission have also determined such systems to be suffi-
+cient in meeting policy objectives of the revised Renewable
+Energy Directive [27] and, earlier, the EU Timber Regula-
+tion [52]. This research has detected variation in the struc-
+ture of supply chains and the risk assessment and
+mitigation techniques employed by the U.S. industrial wood
+pellet sector. In some instances, practices to control risks
+are more extensive than for other segments of the southeast
+U.S. wood products industry.
+Still, based on the structure of their supply chains and
+their wood sourcing strategies, some pellet mills face
+challenges to effectively implementing a risk-based ap-
+proach. Due to the complexities inherent in sourcing
+secondary fiber, the pellet sector is challenged by the
+need for a relatively high degree of due diligence on
+sourcing a low-value product. Significant time is re-
+quired to ensure data quality and educate wood dealers
+and suppliers about the importance of using risk-based
+systems in landscapes harboring significant biodiversity
+values and associated risks from forestry activities.
+Recognizing that risks are manifested differently in the
+various supply chain structures, it follows that another
+important factor influencing the strength of the risk as-
+sessment is the type of risk being considered. Some risk
+categories are more difficult to assess and mitigate than
+others. For instance, one company using FSC Controlled
+Wood and its prohibitions on sourcing “conversion
+wood” acknowledged that upon inspecting for conver-
+sion, they did identify that the wood they had sourced
+came from a forest that had been converted to non-
+forest land use. A risk assessment consultant interviewed
+also indicated knowledge of this happening in other in-
+stances and that this risk category is particularly challen-
+ging to assess and mitigate in the southeast U.S. given
+market effects, urban development (the largest driver of
+land-use conversion), cultural influences, and regional
+land use regulatory context.
+At the industrial scale, wood sourcing for pellet mills
+in the southeast U.S. has generally revolved largely
+around non-sawtimber roundwood. This study confirms
+the findings of others [14, 28, 53–58], that primary fiber,
+principally pulpwood-sized roundwood as tree-length
+logs, in-woods chips, and harvest residuals (treetops and
+limbs), comprises the largest portion of industrial wood
+pellet feedstock supply in the southeast U.S. This cat-
+egory is more accurately described as fuelwood due to
+its end use, rather than pulpwood as colloquially used
+within the southeast forestry sector. The forest economy
+in the Coastal Plain, the region where most of these pel-
+let mills are located, revolves around markets for pine
+pulpwood-sized roundwood and pine sawtimber.
+Forest management, logging systems, and procurement
+networks are well established for pulpwood-sized round-
+wood and have been extended to industrial-scale wood
+pellets for the export market. While not a rule, we found
+that the 80:20 ratio between pulpwood-sized roundwood
+and secondary residuals is fairly common across the in-
+dustrial pellet sector. This is particularly evident in type
+1 and 2 supply chains which comprise most of the
+southeast U.S. industrial wood pellet capacity.
+Procurement systems from the pulp and paper indus-
+try have been adapted to wood pellets, and for primary
+fiber, this generally includes an ability to trace material
+back to its origin using systems developed by other seg-
+ments of the wood products industry, and wide use of
+FSC CW/COC, PEFC CS/COC, and SFI FM with SFI
+COC. Similar to pellet procurement supply chains, pri-
+mary
+fiber
+procurement
+for
+other
+pulpwood
+size
+roundwood-using industries is generally limited to actors
+(landowners, wood dealers) within the immediate 50–
+75-mile haul distance. The sourcing distance may ex-
+pand considerably for secondary residuals.
+As the industry has grown, feedstock sourcing in the
+southeast U.S. and the U.S. generally appears to prefer mill
+residuals (see supplementary materials, Fig. S1), for feed-
+stock quality and economic purposes. Wood residuals
+have become less expensive for a variety of reasons, such
+as tightening non-sawtimber pulpwood markets in some
+locations, and more residues being available due to a re-
+covery of the U.S. housing market and high sawtimber
+prices. While wood product residuals offer improvements
+in the greenhouse gas lifecycle performance of forest bioe-
+nergy [32, 53], these supply chains are more complex, in-
+volving more actors across a wider geography, and thus
+potentially more risk exposure with regards to areas of
+high conservation value and forest type conversion. This
+study provides important insights into how the industry is
+assessing and managing risk (Table 3). It should also be
+noted that demand for sawmill residuals by pellet mills is
+in itself not the driver of forest harvesting decisions.
+Forest management certification plays a relatively
+small role and only in type 1 and 2 pellet mills, with ef-
+forts to increase certification only having had marginal
+success. Seven type 1 pellet mills are attempting to help
+smaller landowners get certified through independently
+managed group certifications via ATFS and FSC. One
+company uses a quota system to encourage additional
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 13 of 17
+suppliers to certify their forestland or the lands from
+which they source. This approach has reportedly in-
+creased the amount of acres certified. It was deemed by
+respondents to be impractical for the smaller pellet mills
+of type 3 with supply chains built around mill residuals
+to push forest management certification as these pellet
+mills do not maintain a direct connection to the land.
+In general, low-value wood feedstock-dependent in-
+dustries in the southeast U.S. usually maintain 10–20%
+of their supply under long-term contracts with wood
+dealers or large landowners [53]. This is also the case for
+industrial wood pellets. Few pellet mills have long-term
+contracts with residual suppliers and instead look to
+source from sawmills that have completed analysis of
+feedstock origin via PEFC and/or FSC, while others do
+not. This study revealed several examples of pellet mill
+procurement staff and sustainability personnel citing in-
+stances where contracts with suppliers (wood dealers
+and residual suppliers) allow them to insert language on
+sustainability requirements which include provisions to
+allow auditing of secondary residual suppliers. Some pel-
+let mills reported auditing the district of origin for their
+secondary residual suppliers according to the policies of
+PEFC and FSC. This process can be quite complex or
+relatively simple.
+Conclusion
+International policies and voluntary certification pro-
+grams are supporting the use of spatial risk assessment
+and risk management tools, such as supply chain audits,
+as the preeminent means of addressing the sustainability
+of feedstocks in the industrial wood pellet sector of the
+southeast U.S. This study revealed that there is consider-
+able variation in the supply chains and feedstock pro-
+curement strategies within this industry. As such, the
+adoption of risk assessment and risk management has
+taken numerous forms.
+Assessing the sourcing practices of more than 75% of the
+industrial wood pellet production capacity of the southeast
+U.S., we identified three types of supply chains operating
+within the wood pellet industry. Each type has nuanced dif-
+ferences in feedstocks used and how they are procured, risk
+assessment features, and risk mitigation procedures.
+While the structure of supply chains themselves may
+alleviate or elevate risks associated based on the nature
+of supply linkages in the chain, we found the strength of
+risk assessments as a mechanism for controlling supply
+chain
+risks
+across
+all
+supply
+chain
+classifications
+depended on the following:
+1) The quality of sourcing data (do they adequately
+represent the known and unknown risks?),
+2) Appropriateness of the scale and scope of analysis
+when sourcing areas change (when do new
+suppliers’ risk-based assessment and procurement
+processes adequately adjust?), and
+3) The successful integration of risk assessments and
+especially mitigation measures into procurement
+practices.
+Another important factor influencing the strength of
+the risk assessment is the type of risk being considered,
+such as risk of non-compliance with regulations, risks of
+sourcing from areas of high biodiversity, or risk of sour-
+cing “conversion wood” from parcels undergoing direct
+land-use change. Some of these risk categories are more
+difficult to assess and mitigate than others.
+The strength of the risk-based approach is also af-
+fected by the scope of risk assessment and management,
+which in turn depends largely on the type of supply
+chain. For example, assessing the risk of a supply chain
+built around a small number of landowners practicing
+plantation management is relatively straight forward,
+while risk assessments of supply chains with large num-
+bers of secondary residual suppliers are more complex.
+The number and diversity of supply chain actors (wood
+dealers, sawmills, landowners) and the nature of agree-
+ments (ranging from handshake deals to legally enforce-
+able contracts) between these actors and pellet mills are
+all important factors in determining the riskiness of a
+supply chain. Existing certification systems attempt, in
+part, to address this through chain of custody certifica-
+tions, but challenges remain.
+Comprising the majority of the export pellet capacity of
+the southeast U.S., pellet mills of supply chain type 1 are
+typically very large and source mainly tree-length pulpwood
+size roundwood and mill residuals. Among the 10 pellet
+mills in this study classified as type 1, most sourced sawmill
+residuals from over 30 different sawmills and a majority of
+primary feedstock came from private non-industrial forests
+not certified to a forest management certification standard.
+Type 1 mills rely heavily on intermediary wood dealers for
+supplying the large volumes of primary and secondary fiber
+sourced by these very large facilities. In these instances, the
+primary relationship with landowners and residual suppliers
+may be several steps removed from feedstock procurement
+staff working at the pellet mill. Reliance on wood dealers,
+while widespread, is also recognized as presenting chal-
+lenges. In fact, respondents from all pellet mills identified
+their greatest challenge with regard to sourcing as being
+documenting chain of custody and/or risks from secondary
+residual suppliers. Respondents suggested that it is time-
+consuming and technically complex, if not impossible, to
+trace feedstock origin back to the forest.
+The few pellet mills in this study classified as type 2
+rely significantly less on wood dealers than type 1 mills
+because a majority of feedstock is sourced from a dir-
+ectly linked sawmill. Type 2 pellet mills had a higher use
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 14 of 17
+of feedstock certified to a forest management certifica-
+tion standard originating from a certified forest. Certified
+generally because of the influence of other forest prod-
+uct markets, these lands also provide pellet mills with
+tree-length non-sawtimber roundwood. Type 2 pellet
+mills in this study used wood dealers sparingly because
+it was not necessary to meet supply needs and because
+of challenges establishing chain of custody. A few pellet
+mills classified as type 3 resemble the operations of pel-
+let mills that existed prior to the export market, and as
+such, they are significantly smaller. Type 3 mills are also
+100% reliant on mill residuals from a large number of
+sawmills across a wide geography.
+Extending the risk assessment to suppliers of second-
+ary residuals has proven more problematic than extend-
+ing risk management and mitigation tools used for
+primary fiber. This is especially critical for pellet mills
+choosing to increase the proportion of secondary resid-
+uals for economic or other reasons. Consultants working
+with these pellet mills also identify the integration of
+secondary residual suppliers into risk assessments as
+presenting unique challenges. This issue is unlikely to be
+resolved any time soon as the forest economy of the
+southeast U.S. is free flowing and the value of forest bio-
+mass is low. Thus, investments in solving this problem
+are unlikely to occur without policy drivers.
+Still, companies are instituting risk mitigation strat-
+egies for their sourcing challenges. Strategies we ob-
+served in this study include first party auditing (by pellet
+mill staff) of secondary residual suppliers’ supply chains,
+requiring all suppliers to use the FSC CW and PEFC CS
+standards, and offering to enroll in group certification
+the landowners supplying sawmills within a pellet mill’s
+sourcing network.
+Lastly, technology is also recognized as offering pos-
+sible solutions toward improving the approach to risk
+assessment and mitigation of all supply chain types. For
+instance, some pellet mills have integrated spatial data-
+sets used in risk assessment with due diligence proce-
+dures
+performed
+to
+verify
+risks
+associated
+with
+individual loads of primary fiber. Likewise, such datasets
+could be integrated with remote sensing data for moni-
+toring purposes. While technology for tracking flows of
+primary fiber has evolved and is being used for pellets,
+such solutions have yet to be applied across the diversity
+of supply chain actors and feedstocks presently involved
+in the industrial wood pellet economy.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s13705-020-00255-4.
+Additional file 1: Supplementary materials: Structured interview
+questionnaire.
+Abbreviations
+ATFS: American Tree Farm System; BECCS: Bioenergy carbon capture and
+storage; BMP: Best management practice; COC: Chain of custody;
+CSR: Corporate Social Responsibility; EU: European Union; EUTR: European
+Union Timber Regulation; FSC: Forest Stewardship Council; FSC FM: Forest
+Stewardship Council forest management certification; FSC COC: Forest
+Stewardship Council chain of custody certification; FSC CW: Forest
+Stewardship Council controlled wood; GIS: Geographic information system;
+GPS: Global positioning system; IEA: International Energy Agency;
+IPCC: Intergovernmental Panel on Climate Change; NGO: Non-governmental
+organization; PEFC: Program on Endorsement of Forest Certification; PEFC
+CS: Program on Endorsement of Forest Certification Controlled Sources;
+RA: Risk assessment; SDE +: The Netherland’s stimulation of energy
+production policies; SFI: Sustainable Forestry Initiative; SFI FM: Sustainable
+Forestry Initiative Forest Management Certification; SFI COC: Sustainable
+Forestry Initiative chain of custody certification; SFI FS: Sustainable Forestry
+Initiative fiber sourcing program; SBP: Sustainable Biomass Program;
+UK: United Kingdom; U.S.: United States of America
+Acknowledgements
+This research was completed as part of the International Energy Agency (IEA)
+Bioenergy research project “Measuring, governing and gaining support for
+sustainable bioenergy supply chains (IEA Bioenergy” aimed, among other, at
+making recommendations for improving the legitimacy and effectiveness of
+supply chain governance systems for sustainability. The views expressed are
+those of the authors and do not necessarily reflect the views or policies of
+IEA Bioenergy.
+Authors’ contributions
+Brian Kittler was the Principal Investigator for this study and was responsible
+for study planning and execution and writing of the paper. Inge Stupak and
+C. Tattersall Smith contributed to the study design, critical review of results
+and their presentation, background knowledge, and context. The authors
+read and approved the final manuscript.
+Funding
+This research was funded by the International Energy Agency (IEA)
+Bioenergy, under the research project “Measuring, governing and gaining
+support for sustainable bioenergy supply chains,” and by the Pinchot
+Institute for Conservation.
+Availability of data and materials
+References have been provided within the “Methods” section for all data
+used to develop this manuscript. All data are available from publicly
+accessible sources and have been referenced. Data sharing is therefore not
+applicable to this article. Please contact authors for any information on data
+sources or for actual data.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+None of the authors have any competing interests in the manuscript.
+Author details
+1American Forests, Washington, DC, USA. 2University of Copenhagen,
+Copenhagen, Denmark. 3University of Toronto, Toronto, Canada.
+Received: 6 March 2019 Accepted: 22 April 2020
+References
+1.
+IEA (2018) Renewables 2018: analysis and forecasts to 2023. International
+Energy Agency. https://webstore.iea.org/download/summary/2312
+?fileName=English-Renewables-2018-ES.pdf. Accessed 8 Jan 2020.
+2.
+IPCC (2014) Intergovernmental Panel on Climate Change 2014 Climate
+change 2014: mitigation of climate change Contribution of Working.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 15 of 17
+https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_full.pdf.
+Accessed 8 Jan 2020.
+3.
+Jonker JGG, van der Hilst F, Markewitz D, Faaij APC, Junginger HM (2018)
+Carbon balance and economic performance of pine plantations for
+bioenergy production in the Southeastern United States. Biomass and
+Bioenergy 117:44–55. https://doi.org/10.1016/j.biombioe.2018.06.017
+4.
+Mattews R, Hogan G, Mackie E (2018) Carbon impacts of biomass
+consumed in the EU: supplementary analysis and interpretation for the
+European Climate Foundation. Available at: https://europeanclimate.org/wp-
+content/uploads/2018/05/CIB-Summary-report-for-ECF-v10.5-May-20181.pdf.
+Accessed 8 Jan 2020.
+5.
+Goetzl A (2015) Developments in the global trade of wood pellets. U.S.
+International Trade Commission. Office of Industries Working Paper. No. ID-
+039, pp 26.
+6.
+Dale VH, Kline KL, Parish ES, Cowie AL, Emory L, Malmsheimer RW, Slade R,
+Smith CT, Wigley TB, Bentsen NS, Berndes G, Bernier P, Brandão M, Chum H,
+Diaz-Chavez R, Egnell G, Gustavsson L, Schweinle J, Stupak I, Trianosky P,
+Walter A, Whittaker C, Brown M, Chescheir G, Dimitriou I, Donnison C, Goss
+Eng A, Hoyt KP, Jenkins JC, Johnson K, Levesque CA, Lockhart V, Negri MC,
+Nettles JE, Wellisch M (2017) Status and prospects for renewable energy
+using wood pellets from the southeastern United States. GCB Bioenergy 9:
+1296–1305. https://doi.org/10.1111/gcbb.12445. Accessed 8 Jan 2020.
+7.
+Directive 2009/28/EC of the European Parliament and of the Council of 23
+April 2009 on the promotion of the use of energy from renewable sources
+and amending and subsequently repealing Directives 2001/77/EC and
+2003/30/EC. https://eur-lex.europa.eu/legal-content/DA/ALL/?uri=CELEX%3
+A32009L0028. Accessed 8 Jan 2020.
+8.
+Future Metrics (2018) Pellet markets soar in 2018 – a year-end review and
+outlook. https://www.futuremetrics.info/wp-content/uploads/2018/12/
+FutureMetrics%20White%20Paper%20-%20Review%20and%20Global%2
+0Outlook%20for%20the%20Wood%20Pellet%20Markets%20-%2
+0December%202018.pdf. Accessed 5 Feb 2019.
+9.
+Thrän D, Schaubach K, Peetz D, Junginger M, Mai-Moulin T, Schipfer F,
+Olsson O, Lamers P. (2018) The dynamics of the global wood pellet markets
+and trade–key regions, developments and impact factors. Biofuels,
+Bioproducts and Biorefining 3:267–280. https://doi.org/10.1002/bbb.1910.
+10.
+Eurostat (2019). Data on EU pellet imports from the U.S. in 2016 – 2019.
+https://ec.europa.eu/eurostat. Accessed 8 Jan 2020.
+11.
+Lamers P, Junginger M, Dymond CC, Faaij A (2014) Damaged forests
+provide an opportunity to mitigate climate change. GCB Bioenergy 6:44–60
+https://doi.org/10.1111/gcbb.12055
+12.
+Strauss W. Global pellet market outlook in 2017. https://www.pellet.org/
+wpac-news/global-pellet-market-outlook-in-2017. Accessed 1 Mar 2019.
+13.
+Parton S (2019) Japanese demand for wood pellets largely fulfilled by North
+American producers. Forest2Markets, March 12, 2019. https://www.forest2
+market.com/blog/japanese-demand-for-wood-pellets-largely-fulfilled-by-
+north-american-producers.
+14.
+Olesen AS, Bager SL, Kittler B, Price W, Aguilar F (2015) Environmental
+implications of increased reliance of the EU on biomass from the Southeast
+US. ENV.B.1/ETU/2014/0043 Available at: http://www.aebiom.org/wp-
+content/uploads/2016/08/DG-ENVI-study-imports-from-US-Final-report-July-2
+016.pdf. Accessed 8 Jan 2020.
+15.
+Birdlife, Greenpeace, EEB, Client Earth, FERN (2012) NGO brief sustain issues
+for solid biomass in electricity, heating and cooling. https://www.birdlife.
+org/sites/default/files/attachments/EU-Joint-NGO-briefing-biomass-
+sustainability-energy-March2012.pdf. Accessed 8 Jan 2020.
+16.
+Hammel D, Smith D (2013) Our forests aren’t fuel. Retrieved from https://
+www.dogwoodalliance.org/wp-content/uploads/2013/05/Enviva-Millin-
+Ahoskie-Dogwood-Report.pdf. Accessed 8 Jan 2020.
+17.
+Larsen S, Bentsen NS, Stupak I (2019) Implementation of voluntary
+verification of sustainability for solid biomass - a case study from Denmark.
+Energy, Sustainability and Society 9(1):33. https://doi.org/10.1186/s13705-
+019-0209-0.
+18.
+Drax Biomass Collaborates With Atchafalaya Basinkeeper To Protect
+Louisiana’s Valuable Wetlands. https://www.draxbiomass.com/press_release/
+drax-biomass-collaborates-atchafalaya-basinkeeper-protect-louisianas-
+valuable-wetlands/. Accessed 3 July 2019.
+19.
+Ofgem Biomass Sustainability. https://www.ofgem.gov.uk/environmental-
+programmes/ro/applicants/biomass-sustainability. Accessed 1 Mar 2019.
+20.
+Report on sustainability criteria and an assessment framework for the use of
+woody biomass (‘Rapport duurzaamheidscriteria en een afwegingskader
+voor de inzet van houtige stromen’): https://www.ovam.be/sites/default/
+files/atoms/files/Rapport-duurzaamheids-afwegingskader-houtigestromen-
+DEF.pdf. Accessed 1 Mar 2020.
+21.
+Recommendations for the development of a Walloon Biomass-energy
+strategy. https://energie.wallonie.be/servlet/Repository/recommandations-
+strategie-biomasse-energie-21-04-16.pdf?ID=43288. Accessed 1 Mar 2020.
+22.
+Mansoor M, Stupak I, Smith T (2016) Chapter 17. Private regulation in the
+bioenergy sector. In: Bouthillier Y, Cowie A, Martin P, McLeod-Kilmurray H
+(eds). Law and Policy of Biofuels. Edward Elgar Publishing, pp 406-438.
+23.
+Flinkman J, Sikkema R, Spelter H, Jonsson R (2018) Exploring the drivers of
+demand for non-industrial wood pellets for heating – an econometric
+inventory. Baltic Forestry 2018(1):86–98
+24.
+Kristöfel C, Strasser C, Marawetz UB, Schmidt J, Schmid (2014). Analysis of
+woody biomass
+25.
+Stupak I, Smith CT (2018) Feasibility of verifying sustainable forest
+management principles for secondary feedstock to produce wood pellets
+for co-generation of electricity in the Netherlands. IEA Bioenergy Task 43
+TR2018:01. http://task43.ieabioenergy.com/wp-content/uploads/2018/04/TR2
+018-01.pdf. Accessed 8 Jan 2020.
+26.
+RVO, 2019. Stimulation of sustainable energy production (SDE+). https://
+english.rvo.nl/subsidies-programmes/sde. Accessed 1 Mar 2019.
+27.
+European Commission (2018) Directive (EU) 2018/2001 of the European
+Parliament and of the Council of 11 December 2018 on the promotion
+of the use of energy from renewable sources. EN Official Journal of the
+European Union, L 328/82, 21.12.2018. https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=uriserv:OJ.L_.2018.328.01.0082.01.ENG .Accessed 8
+Jan 2020.
+28.
+Abt KL, Abt RC, Galik CS, Skog KE (2014) Effect of policies on pellet
+production and forests in the US south: a technical document supporting
+the forest service update of the 2010 RPA assessment. Gen. Tech. Rep. SRS-
+202, Asheville, NC: U.S. Department of Agriculture Forest Service, Southern
+Research Station, 33 pp. http://www.treesearch.fs.fed.us/pubs/47281.
+Accessed 8 Jan 2020.
+29.
+Costanza JK, Abt RC, McKerrow AJ, Collazo JA (2017) Bioenergy production
+and forest landscape change in the southeastern United States. GCB
+Bioenergy 9:924–939. https://doi.org/10.1111/gcbb.12386
+30.
+Parish ES, Dale VH, Kline KL, Abt RC (2017) Reference scenarios for
+evaluating wood pellet production in the Southeastern United States. Wiley
+Interdisciplinary Reviews: Energy and Environment. https://doi.org/10.1002/
+wene.259
+31.
+Duden AS, Verweij PA, Junginger HM, Abt RC, Henderson JD, Dale VH et al
+(2017) Modeling the impacts of wood pellet demand on forest dynamics in
+southeastern United States. Biofuels, Bioproducts and Biorefining. https://
+doi.org/10.1002/bbb.1803
+32.
+Birdsey R, Duffy P, Smyth C, Kurz WA, Dugan AJ, Houghton R (2018)
+Climate, economic, and environmental impacts of producing wood for
+bioenergy. Environmental Research Letters 13(5):050201. https://doi.org/10.
+1088/1748-9326/aab9d5
+33.
+Galik CS, Abt RC (2016) Sustainability guidelines and forest market
+response: an assessment of European Union pellet demand in the
+southeastern United States. GCB Bioenergy 8(3):658–669. https://doi.org/
+10.1111/gcbb.12273
+34.
+Sikkema R, Junginger M, van Dam J, Stegeman G, Durrant D, Faaij A (2014)
+Legal harvesting, sustainable sourcing and cascaded use of wood for
+bioenergy: their coverage through existing certification frameworks for
+sustainable forest management. Forests 5(9):2163–2211. https://doi.org/10.
+3390/f5092163
+35.
+Fritsche UR, Werner H, Iriarte L (2014) Possibilities of sustainable woody
+energy trade and impacts on developing countries. International Institute
+for Sustainability Analysis and Strategy (IINAS). http://iinas.org/tl_files/iinas/
+downloads/IINAS_2014_Sust_Woody_Bioenergy_summary_report_GIZ.pdf.
+Accessed 8 Jan 2020.
+36.
+Goovaerts L et al. (2013) Examining sustainability certification of bioenergy.
+Subreport (Task 1) of the study ‘Monitoring Sustainability Certification of
+Bioenergy’, joint study involving IEA Bioenergy Task 40, Task 43 and Task 38.
+Available at: http://bioenergytrade.org/downloads/iea-sust-cert-task-1-final2
+013.pdf. Accessed Feb 2013.
+37.
+Kittler BA, Price W, McDow W, Larson B (2012) Pathways to sustainability: an
+evaluation of forestry programs to meet European biomass supply chain
+requirements. Environmental Defense Fund and Pinchot Institute for
+Conservation. https://www.usendowment.org/pathways-to-sustainability-an-
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 16 of 17
+evaluation-of-forestry-programs-to-meet-european-biomass-supply-chain-
+requirements/. Accessed 8 Jan 2020.
+38.
+Martikainen A, Van Dam J (2010) Evaluation report of different criteria for
+sustainability and certification of biomass and solid, liquid and gaseous
+biofuels–D 4.4. 1. EU Bionet III Solutionas for Biomass Fuel Market Barriers
+and Raw Material Availability—IEE/07/777/SI2, 499477. Available at: https://
+www.vtt.fi/inf/julkaisut/muut/2010/D4-4-2-EUBIONETIII_Sustainability_
+Different_criteria.pdf. Accessed 8 Jan 2020.
+39.
+Scarlat N, Dallemand JF (2011) Recent developments of biofuels/bioenergy
+sustainability certification: a global overview. Energy Policy 39(3):1630–1646.
+https://doi.org/10.1016/j.enpol.2010.12.039
+40.
+Thiffault E, Endres J, McCubbins JS, Junginger M, Lorente M, Fritsche U,
+Iriarte L (2015) Sustainability of forest bioenergy feedstock supply chains:
+local, national and international policy perspectives. Biofuels, Bioproducts
+and Biorefining 9(3):283–292. https://doi.org/10.1002/bbb.1547
+41.
+Van Dam J, Junginger M, Faaij A, Jürgens I, Best G, Fritsche U (2008) Overview
+of recent developments in sustainable biomass certification. Biomass and
+Bioenergy 32(8):749–780. https://doi.org/10.1016/j.biombioe.2008.01.018
+42.
+Van Dam J, Junginger M, Faaij AP (2010) From the global efforts on
+certification of bioenergy towards an integrated approach based on
+sustainable land use planning. Renewable and Sustainable Energy Reviews
+14(9):2445–2472. https://doi.org/10.1016/j.rser.2010.07.010
+43.
+Vis MW, Vos J, Van den Berg D (2008) Sustainability criteria and certification
+systems for biomass production. Final report. Prepared for DG TREN-
+European Commission. BTG biomass technology group BV, Enschede, The
+Netherlands, https://www.compete-bioafrica.net/sustainability/sustainability_
+criteria_and_certification_systems.pdf. Accessed 8 Jan 2020.
+44.
+33 U.S.C. §1251 et seq. (1972) U.S. Federal Clean Water Act. https://www.epa.
+gov/sites/production/files/2017-08/documents/federal-water-pollution-
+control-act-508full.pdf. Accessed 1 Mar 2019.
+45.
+16 U.S.C. § 1531 et seq. U.S. Federal Endangered Species Act. https://www.
+fws.gov/endangered/esa-library/pdf/ESAall.pdf. Accessed 8 Jan 2020.
+46.
+UK Timber Procurement Policy. https://www.gov.uk/guidance/timber-procurement-
+policy-tpp-prove-legality-and-sustainablity. Accessed 1 Mar 2019.
+47.
+Wear DN, Greis JG (2013) The Southern Forest Futures Project: Technical Report.
+Gen. Tech. Pre. SRS-178, United States Department of Agriculture, Forest Service,
+Research and Development, Southern Research Station, Asheville, NC, 533 pp.
+48.
+Forisk Consulting (2013) Update and Context for U.S. Wood Bioenergy
+Markets. Athens. http://www.theusipa.org/Documents/NAFO-US_Bioenergy_
+Markets-FINAL-201306261.PDF
+49.
+NatureServe Database. http://www.natureserve.org/. Accessed 1 Mar 2019.
+50.
+Natural Heritage Datasets. https://catalog.data.gov/dataset?metadata_type=
+geospatial&_metadata_type_limit=0&q=Natural%20Heritage. Accessed 1 Mar 2019.
+51.
+FSC US National Risk Assessment. https://us.fsc.org/en-us/certification/
+controlled-wood/fsc-us-controlled-wood-national-risk-assessment-us-nra.
+Accessed 5 Nov 2019.
+52.
+Regulation (EU) No 995/2010 of the European Parliament and of the
+Council of 20 October 2010 laying down the obligations of operators who
+place timber and timber products on the market Text with EEA relevance
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010R0995.
+Accessed 8 Jan 2020.
+53.
+Forisk Consulting (2015) Q2 2015 Forisk Research Quarterly. https://forisk.
+com/blog/2015/06/09/wood-bioenergy-update/. Accessed 8 Jan 2020.
+54.
+Forisk Consulting (2015) http://www.forisk.com/blog/2015/10/23/nibbling-
+on-a-chicken-or-nibbling-on-an-elephant-another-example-of-incomplete-
+and-misleading-analysis-of-us-forest-sustainability-and-wood-bioenergy-
+markets/. Accessed 1 Mar 2019.
+55.
+Forisk Consulting (2015) How can global demand for wood pellets affect
+local timber markets in the U.S. South? May 2015.
+56.
+RISI (2015) North American woodfibre and biomass markets. 8 pp.
+57.
+RISI (2015) North American Bioenergy Forecast - 5-Year.
+58.
+Stewart P (2014) How much of a manufacturing facility’s wood supply
+should be under supply agreement? http://blog.forest2market.com/how-
+much-wood-supply-do-i-need-under-agreement. Accessed 8 Jan 2020.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Kittler et al. Energy, Sustainability and Society           (2020) 10:23 
+Page 17 of 17

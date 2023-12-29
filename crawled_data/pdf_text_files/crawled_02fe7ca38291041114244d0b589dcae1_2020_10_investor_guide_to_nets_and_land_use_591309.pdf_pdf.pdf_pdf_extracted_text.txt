@@ -1,0 +1,2014 @@
+ 
+ 
+ 
+October 2020 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+2 
+Executive Summary 
+Negative Emission Technologies (NETs) are the next investment frontier and offer trillion dollar upside 
+opportunities for investors.1 Within NETs, forest-related Nature-Based Solutions (NBS) could generate 
+US$800 billion in annual revenues by 2050, worth US$1.2 trillion today in NPV terms,2 surpassing the current 
+market capitalisation of the oil & gas majors.3 Hence, an entire new industry may emerge that values carbon 
+stored in vegetation and soil, unlocking new business models and investment opportunities for avoided 
+deforestation, reforestation and afforestation (hereinafter re/afforestation), and land restoration. Thanks to 
+its low cost, natural forest restoration looks likely to emerge as the earliest feasible investment opportunity. 
+The sector’s annual revenues could reach US$190 billion by 2050. Avoided deforestation may generate the 
+remaining annual revenues with US$610 billion by 2050, but it is further from commercialisation as it 
+involves more complex compensation mechanisms (The Inevitable Forest Finance Response: Investor 
+Opportunities, commissioned by the PRI (Principles for Responsible Investment)). Technical solutions, such as 
+Direct Air Carbon Capture, Use and Storage (DACCS) and bioenergy with CCS (BECCS), could generate an 
+additional annual revenue of US$625 billion by 2050.4 This report provides transparency around NETs 
+assumptions of climate scenarios and corporate net-zero commitments, presents risks and uncertainties 
+associated with NETs, and assesses what upside opportunities NETs – particularly NBS and, within this, 
+forestry – can offer to investors. 
+Proportion of global GDP covered by net zero targets is growing. Mounting investor pressure and changing 
+consumer preferences are contributing to an increase in net-zero commitments, particularly among heavy 
+emitters in oil & gas, utilities, steel, cement, automobile, food, and aviation. Already, over half of global GDP, 
+2.6 billion people and a quarter of carbon emissions are covered by a national net-zero target (ECIU, 2020).  
+Since late 2019, the number of companies committed to net zero increased by two-fold from 500 recorded 
+in 2019 to 1,541 in 2020, while the increase for cities was eight-fold from 100 recorded in 2019 to 823 more 
+in 2020 (UNFCCC, 2020). Since January 2020, 379 more companies committed to science-based climate 
+action and joined the Science Based Targets initiative list, increasing the number of companies on the list to 
+1009 as of October 2020 (Science Based Targets, 2020). At Climate Week NYC 2020, 17 new companies 
+announced science based net zero commitments, including LafargeHolcim the world’s largest cement 
+company and C.P.Group, one of Asia’s leading conglomerates.   
+Paris-aligned climate scenarios project that NETs are needed to achieve net-zero. 5 The Inevitable Policy 
+Response (IPR) Forecast Policy Scenario (FPS), commissioned by the Principles for Responsible Investment 
+(the UN-supported investor group representing $86 trillion in AuM), forecasts a forceful, abrupt and 
+disorderly policy response to climate change and quantifies the financial impact this will have on economies 
+and securities markets. It shows that biogenic greenhouse gas (GHG) emissions6 remain by 2050, as well as 
+emissions from agriculture and fertiliser use, and that NETs are required for truly net-zero global emissions. 
+These emissions are often missed in climate scenarios that focus on energy only and have a blind spot as 
+regards the critical importance of land use. Climate scenarios that limit global warming to 1.5oC require even 
+deeper negative emissions to reach their temperature targets. In 2018, the Interfovernmental Panel on 
+Climate Change (IPCC) set out four representative pathways that align to a global temperature rise of 1.5oC, 
+ 
+1 Also known as carbon dioxide removal (CDR). NETs are technical solutions and Nature Based Solutions (NBS) that sequester carbon from the 
+atmosphere. 
+2 Estimates are in 2019 US$ terms. See Box 1 for further detail. 
+3 As of June 2020. Oil & gas majors include BP, Chevron, China National Offshore Oil, ConoccoPhilips, Enterprise Product Partners, EOG Resources, 
+ExxonMobil, Kinder Morgan, Occidental Petroleum, Petrobas, PetroChina Company, Santos, Schlumberger, Sinopec, Suncor Energy, and Total. 
+4 The annual revenue is estimated for annual CO2 sequestration of 5 GtCO2/year at a cost of US$125 per tCO2 and considers only revenue from 
+sequestered CO2 emissions. 
+5 The Paris Agreement sets out to hold “the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing 
+efforts to limit the temperature increase to 1.5°C above pre-industrial levels” and “to achieve a balance between anthropogenic emissions by sources 
+and removals by sinks of greenhouse gases in the second half of this century” i.e. net-zero emissions. 
+6 Biogenic GHG emissions are related to the natural carbon cycle and result from harvest, combustion, digestion, fermentation, decomposition, or 
+processing of biologically based materials (EPA, 2020). 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+3 
+and even the most ambitious emissions reductions scenario, P1, relies on NETs to sequester 2.5 GtCO2/year 
+by 2050. As policy responses to reduce emissions are delayed, NETs will inevitably grow in importance in 
+keeping global temperature rise to well below 2oC. In P4, total negative emissions are 16 GtCO2 in 2050, 
+corresponding to around half of CO2 emissions from combustion of fossil fuels today. The reliance of the 
+climate scenarios on NETs increases further in the second half of the century. 
+Companies realise the need for NETs to decarbonise their value chains and hence meet their net zero 
+targets. While some companies plan to utilise technical solutions, such as Microsoft considering BECCS and 
+DACCS (Smith, 2020) and British Airways’ parent IAG exploring DACCS (Otley, 2020), most companies are 
+likely to invest in NBS to offset their CO2 emissions. Of 42 companies announcing net-zero targets in 2019-
+20, 26 are planning to use NETs, and 24 of these 26 companies refer to NBS (Vivid Economics using 
+(American University, 2020)). However, the majority of net-zero targets announced by corporates are 
+currently vague, and more detail is needed to understand the contribution of NBS, BECCS and DACCS to 
+emissions reductions commtiments. 
+In almost all  Paris-aligned scenarios, BECCS is the leading NET because of its double gains through energy 
+generation and CO2 sequestration; yet producing high levels of bioenergy is likely to push the world to its 
+planetary boundaries in terms of water and land availability. In the case of the IPCC scenarios, cumulative 
+BECCS up to 2100 ranges from 151 GtCO2 in IPCC P2 – which has an incredibly ambitious decarbonisation 
+pathway halving emissions from 37 GtCO2 to 19 GtCO2 between 2020 and 2030 - to 1,191 GtCO2 in IPCC P4. 
+However, too much is expected from land as various parties plan in isolation to utilise land for diverse 
+purposes, such as energy security through bioenergy, food security, and urbanisation. As a finite source, land 
+will not be able to deliver all these expectations. An over-reliance on BECCS could threaten biodiversity as it 
+may require harvesting of existing forests and conversion of protected areas to monoculture plantations 
+(Fern, 2018), exacerbating the current biodiversity crisis – around 1 million plant and animal species, 12% of 
+the estimated global specifies, are currently under threat of extinction (IPBES, 2019). Moreover, clearing land 
+for bioenergy could reduce the natural CO2 sequestration potential of land, cancelling out some of the 
+carbon sequestered through BECCS. The technology could also run counter to a just transition as it is likely to 
+compete with food production for land, pushing up food prices. BECCS may also disadvantage small holders 
+who rely on land for income and food supplies through changes in land tenure. To limit its negative side 
+effects, BECCS should be contained to a sustainable scale, at around 0.5 – 5 GtCO2/year (Fuss et al., 2018).7 
+Developing an understanding of NETs will give investors an early mover advantage in the most profitable 
+investment opportunities and help them to judge risks and potential returns accurately. Given the limited 
+sustainable CO2 removal potential of BECCS, countries, cities and corporates will need to turn to a portfolio 
+of NETs to reach their net-zero targets. Deploying a portfolio of multiple NETs, each at a sustainable scale, 
+would provide a hedge against uncertainties and negative impacts associated with the large-scale application 
+of each NET. Most importantly, to reduce exposure of their portfolios to carbon-exposed sectors, investors 
+need to put pressure on companies to commit to climate action and stop themselves investing in companies 
+with deforestation in their supply chains (Ceres, 2020).  
+In the near term, investors can reap the greatest financial gains from NBS, especially through measures 
+arresting deforestation and promoting re/afforestation. In the longer term, post-2040, as BECCS approaches  
+its sustainable limit, technical solutions, such as DACCS, are opportunities to watch, as illustrated in Figure 1. 
+Besides adhering to the principle of doing no more harm – i.e. ending deforestation and habitat destruction 
+– re/afforestation are the least-costly and most readily deployable at-scale options among NETs. Given the 
+advantages of NBS, deforestation needs to be stopped now, and re/ afforestation should start immediately 
+to decrease overshooting emissions targets and to limit exposure to risky NETs that could have uncertain 
+performance, costs and potential negative side effects in the coming decades. In the longer term, post-2040, 
+technology-focused NETs, such as DACCS, could be economically viable alternatives to BECCS as their costs 
+ 
+7 At this level of CO2 removal potential, the literature estimates that the cost of BECCS would range from US$100 per tonne CO2 to US$200 per tonne 
+CO2. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+4 
+are falling – if investors and corporates channel funds towards further research, development, and 
+deployment in 2020s and 2030s (Fuss et al., 2018; Realmonte et al., 2019).  
+Figure 1 
+In the nearterm, NBS and particularly forestry provide investment opportunities while focusing on RD&D 
+for other NETs and deploy a feasible amount of BECCS in the long run 
+ 
+Source: 
+Vivid Economics 
+Big oil and Big tech have already started to channel their resources into forest related NBS to achieve new 
+net-zero targets — and in turn this is driving demand for NBS carbon credits. Shell forecasts that roughly a 
+quarter of emission reductions to reach net-zero will come from natural sinks and has started to invest in 
+forest-related projects, such as the planting of 5 million trees in the Netherlands and regenerating an 800 ha 
+forest in Australia (Shell, 2019, 2020b). BP is currently running an offset programme, protecting 40,000 ha of 
+forest in Zambia. Total is committed to investing US$100 million per year in forest protection (IOM3, 2019; 
+BP, 2020). Technology companies are also pursuing similar projects. Apple is protecting a 11,000 ha 
+mangrove forest in Colombia, and Microsoft has committed to support selected forest projects by paying 
+US$15/tCO2, higher than the global average of US$10/tCO2 (Catanoso, 2020). Amazon has launched the Right 
+Now Climate Fund, investing US$100 million in NBS. The first project of US$10 million was announced in 
+April 2020 to restore and conserve 1.6 Mha forest in the US, removing 18 MtCO2 from the atmosphere 
+(Amazon, 2020b). Consequently, corporate net-zero commitments are driving the demand for NBS carbon 
+credits. From 2017 to 2018, the voluntary offset market doubled in volume from approximately 50 million to 
+100 million offsets and in value from US$150 million to US$300 million (Gross, Hook and Powley, 2019a). In 
+2019, Verra, a carbon credit standard, issued around 100 million voluntary carbon credits, over twice the 
+amount issued previously in a single year (Verra, 2020a). By 2050, the value of the global voluntary offset 
+market could reach US$200 billion, increasing by around a quarter every year (Watson, 2020). 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+5 
+Figure 2 
+Companies have already started to channel their resources to forest-related NBS projects 
+ 
+Source: 
+Vivid Economics 
+The emerging NBS market provides a unique opportunity to investors to shape its design for their needs 
+while driving its impact. Investors could support the NBS market’s institutional development by engaging 
+with policymakers and developing innovative business models and financing mechanisms to channel finance 
+to the market. New financing mechanisms are already emerging. Examples include distressed asset and 
+stewardship models, carbon farming agreements, green bonds, forest insurance provision, carbon off-taker 
+guarantees, and sustainable farming agreements. Investors could also engage with policymakers to promote 
+a global standard for NBS projects which could help to create a global market and unlock the global finance 
+that is crucial for a rapid scale-up.  
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+6 
+Contents 
+Executive Summary ........................................................................................................................... 2 
+1 
+Investors need to understand risks and opportunities associated with NETs ................................... 8 
+2 
+IPR FPS and almost all Paris-aligned climate scenarios rely on NETs ................................................. 9 
+3 
+Companies are committing to net zero and realise the need for NETs to decarbonise their value 
+chains .............................................................................................................................................. 12 
+4 
+Climate scenarios rely largely on BECCS, but it is unlikely to deliver projected negative 
+emissions ......................................................................................................................................... 15 
+5 
+A portfolio of NETs with immediate forestry action is required to limit global warming at 1.5–
+2oC ................................................................................................................................................... 17 
+6 
+Companies and investors have already started to invest in forest-related NBS projects ................ 21 
+7 
+Investors can act now to unlock investment opportunities............................................................. 23 
+Appendix 1 – Corporate net zero announcements .......................................................................... 28 
+Appendix 2 – Climate scenarios ....................................................................................................... 29 
+Appendix 3 – NETs ........................................................................................................................... 33 
+Appendix 4 – Feasibility of NETs ...................................................................................................... 39 
+Acknowledgements ......................................................................................................................... 47 
+ 
+List of tables 
+Table 1 
+Companies’ net zero targets and measures to achieve them ......................................................... 13 
+Table 2 
+Companies’ net zero targets and measures to achieve them ......................................................... 28 
+Table 3 
+Metrics and descriptions used to compare climate pathway scenarios .......................................... 29 
+Table 4 
+Pathway scenario comparison ......................................................................................................... 30 
+Table 5 
+Overview of carbon removal potential, costs, constraints, and side effects of NETs ...................... 39 
+ 
+List of figures 
+Figure 1 In the nearterm, NBS and particularly forestry provide investment opportunities while focusing 
+on RD&D for other NETs and deploy a feasible amount of BECCS in the long run ............................ 4 
+Figure 2 Companies have already started to channel their resources to forest-related NBS projects ............ 5 
+Figure 3 The climate scenarios differ in their emissions pathways although they have similar 
+temperature targets ........................................................................................................................ 10 
+Figure 4 All climate scenarios rely on NETs to reach a well-below 2oC pathway, but abatement is also 
+needed ............................................................................................................................................ 11 
+Figure 5 The deployment of BECCS and NBS varies across the climate scenarios ......................................... 16 
+Figure 6 Each NET has its own characteristics in terms of technological maturity, side effects, 
+constraints, and future cost and carbon removal potential trends ................................................. 18 
+Figure 7 Afforestation and reforestation, and soil carbon sequestration have the lowest costs among the 
+NETs ................................................................................................................................................. 19 
+Figure 8 Companies have already started to channel their resources to forest-related NBS projects .......... 21 
+Figure 9 In the nearterm, NBS and particularly forestry provide investment opportunities while focusing 
+on RD&D for other NETs and deploy a feasible amount of BECCS in the long run .......................... 24 
+Figure 10 Deforestation across a company’s supply chain jeopardises its valuation ...................................... 25 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+7 
+Figure 11 NETs can be classified under technical solutions and nature-based solutions ................................ 33 
+Figure 12 The range of CO2 removal potential per year for each NET............................................................. 41 
+Figure 13 The range of CO2 sequestration cost in 2050 for each NET ............................................................. 42 
+ 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+8 
+1 Investors need to understand risks and 
+opportunities associated with NETs 
+Paris-aligned climate scenarios and corporate net zero announcements have shown that Negative Emissions 
+Technologies (NETs) are needed to achieve net zero emissions and chip away at the overshoot. To limit 
+global warming to 1.5 or 2°C by the end of the century, reducing CO2 emissions and capturing CO2 from large 
+emission sources are not sufficient. Capturing CO2 using technologies that remove and sequester CO2 from 
+the atmosphere – NETs – will also be necessary. The Inevitable Policy Response (IPR) Forecast Policy Scenario 
+(FPS), which models a forceful, abrupt, and disorderly policy response to climate change by 2025, shows that 
+biogenic greenhouse gas (GHG) emissions remain, as well as emissions from agriculture and fertiliser use, 
+thereby requiring NETs for truly net zero global emissions. Even then, climate scenarios that limit global 
+warming to 1.5oC require more negative emissions to reach their temperature targets, and as actions to 
+reduce global CO2 emissions are further delayed, NETs will grow in importance for managing the global 
+temperature rise. The most important NETs are bioenergy with Carbon Capture and Storage (BECCS), direct 
+air capture of CO2 with CCS (DACCS), afforestation and reforestation (hereinafter re/afforestation), soil 
+carbon sequestration, biochar, and enhanced weathering (see Appendix for a detailed presentation of the 
+selected NETs). While some NETs are already widely employed, such as re/afforestation, others are at early 
+stages of development, such as DACCS, and depend on the supply of other inputs, such as biomass for BECCS 
+and minerals for enhanced weathering. 
+Relying on NETs for the removal of CO2 from the atmosphere is risky as there are many uncertainties around 
+their costs, CO2 removal potential, and side effects. There is ample literature on NETs providing various 
+estimates on costs and CO2 removal potential, but these consist of extremely wide ranges based on diverging 
+assumptions. Moreover, the potential side effects of NETs are not yet fully understood, increasing the risks 
+associated with these technologies. Reliance on NETs that may prove unfeasible and unsustainable for future 
+negative emissions could delay mitigation action resulting in high levels of CO2 emissions that could lead to a 
+temperature rise beyond 2oC. More research and demonstration projects are needed to address concerns 
+around the technical capabilities and potential side effects of NETs.  
+Investors need to properly assess and understand uncertainties and risks associated with the NETs that are 
+utilised by climate scenarios and corporate net zero targets. While most climate scenarios rely on BECCS to 
+meet their temperature targets, corporate net zero commitments also aim to deploy BECCS and Nature-
+Based Solutions (NBS) to offset their CO2 emissions. The reliance of climate scenarios on BECCS is an issue as 
+producing the levels of bioenergy projected is likely to push the world to its planetary boundaries in terms of 
+water and land availability, threatening biodiversity, and running counter to a just transition. Companies’ 
+increasing demand for NBS credits hints at shifts in the global offset market that may create investment 
+opportunities. Developing an understanding around NETs could allow investors to identify appropriate 
+investment opportunities and judge risks and potential returns accurately. 
+Against this backdrop, this report provides transparency around NETs assumptions of corporate net zero 
+targets and climate scenarios; discusses risks and uncertainties associated with NETs; and assesses what 
+upside opportunities NETs can offer to investors. The report first provides an overview of corporate net zero 
+targets and how companies aim to achieve these, with a focus on NETs. It then lays out the architecture of 
+the IPCC, NGFS and IEA scenarios, and the role of NETs within those. It also offers an in-depth overview of 
+the six NETs, their costs and carbon removal potential, as well as possible positive and negative side effects. 
+The report concludes with recommendations for investors. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+9 
+2 IPR FPS and almost all Paris-aligned climate 
+scenarios rely on NETs 
+For investors it is important to develop an understanding of the climate scenarios and the differences 
+between them as these may have ramifications for investor decisions and financial outcomes. Climate 
+scenarios are projections of future climate constructed to assess the relationships between human activities, 
+emissions, concentrations, and temperature change. Investors have started using climate scenarios for 
+resilience and risk-testing to assess the impact of potential tail climate events on their portfolios. As policy 
+and technology assumptions and architecture of climate scenarios become more realistic, more investors are 
+employing such scenarios for mainstream investment planning and engagement with companies.  
+To understand differences between climate scenarios, it is essential to consider their architectures across 
+key attributes, such as the shape of the emissions pathway, the year the scenario reaches net zero 
+emissions, the emissions overshoot that needs addressing, and the reliance on NETs to meet carbon 
+budgets. This has recently been explored by a PRI-commissioned paper, Pathways to Net Zero: Scenario 
+Architecture for strategic resilience testing and planning. It sets out key parameters for climate scenarios 
+which include the importance of NET assumptions. Table 4 in Appendix 2 summarises a subset of the key 
+parameters for the climate scenarios considered in this paper. 
+Climate scenarios’ underlying emissions pathways and assumptions can differ dramatically, although they 
+may share similar temperature targets. This report considers Paris-aligned climate scenarios that limit global 
+warming to a 1.5–2oC temperature rise by 2100. These are IPR FPS, IPCC P1–P4, NGFS Order and Disorderly, 
+and Below 2 Degrees (B2D) and Sustainable Development Scenario (SDS) from the IEA. Figure 3 presents the 
+CO2 emissions pathways of the selected climate scenarios. Although IPCC P1–P4 and NGFS 1.5oC Orderly and 
+Disorderly scenarios have the same 1.5oC temperature target with 66% probability, their CO2 emissions 
+pathways differ considerably (IPCC, 2018; NGFS, 2020). The selected climate scenarios reach net zero 
+emissions by 2039 at the earliest and 2060 at the latest, a difference of two decades. Overshoot emissions in 
+the net zero year range from 55 GtCO2 to 483 GtCO2, a difference that corresponds to the remaining CO2 
+budget over 2018–2100 to stabilise global warming at 1.5oC with 66% probability. 
+ 
+ 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+10 
+Figure 3 
+The climate scenarios differ in their emissions pathways although they have similar temperature targets 
+ 
+Note: 
+The IPCC P1 scenario is presented in pink as it has the lowest overshoot in the year it reaches net zero 
+among the IPCC P1–P4 scenarios. It is a scenario in which social, business and technological innovations 
+result in lower energy demand while living standards rise, and its reliance on NETs is low compared with 
+the other climate scenarios. 
+                      The NGFS 2oC scenarios are also known as the Representative scenarios, and the NGFS 1.5oC scenarios as 
+the Alternative scenarios. 
+Source: 
+Vivid Economics, using IPCC data (IAMC & IIASA, 2019), NGFS data (IIASA, 2020), IPR data (IPR, 2019b), 
+and IEA data (‘Energy Technology Perspectives 2017’, no date; IEA, 2019) 
+Almost all climate scenarios rely on NETs to reach net zero emissions and limit global warming to 1.5–2oC, 
+but NETs alone will not be enough to reach a well-below 2oC pathway, and decarbonisation of power, 
+industry and transport are needed as a first measure, with NETs covering biogenic and hard-to-abate 
+emissions. Figure 4 shows the shares of NETs and abatement in total emissions reduction for the selected 
+scenarios. IPR FPS, which models a forceful, abrupt, and disorderly policy response to climate change by 
+2025 and is aligned to a 2oC pathway, shows that NETs are needed to offset biogenic GHG emissions and 
+emissions from agriculture and fertiliser use to reach global net zero emissions. In IPR FPS, global CO2 
+emissions decrease relative to 2020 by 26 GtCO2/year in 2050, while the NETs share in total emissions 
+reductions is around 7%. Climate scenarios that stabilise global warming at 1.5oC may require more negative 
+emissions to reach their temperature targets. Regarding the IPCC P1–P4 scenarios, even the most ambitious 
+P1 relies on NETs to sequester 2.5 GtCO2/year in 2050, accounting for 7% of the total emissions reduction. As 
+policy responses to reduce emissions are delayed, NETs will inevitably grow in importance for keeping global 
+temperature rise to well below 2oC. In P4, total NETs emissions are 16 GtCO2 with a far higher share of 42% 
+in the total emissions reduction. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+11 
+Figure 4 
+All climate scenarios rely on NETs to reach a well-below 2oC pathway, but abatement is also needed 
+ 
+Note: 
+The abatement element shows the emissions reduction from abatement from 2020 to 2050 and 2020 to 
+2100. The NETs element shows total negative emissions from NBS and technical solutions in 2020 and 
+2050. 
+Source: 
+Vivid Economics, using IPCC data (IAMC & IIASA, 2019), NGFS data (IIASA, 2020), IPR data (IPR, 2019b), 
+and IEA data (‘Energy Technology Perspectives 2017’, no date; IEA, 2019) 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+12 
+3 Companies are committing to net zero and realise 
+the need for NETs to decarbonise their value 
+chains 
+Corporate climate action is gaining momentum. In line with the Paris-aligned climate scenarios, mounting 
+investor pressure and changing consumer preferences are contributing to an increase in net zero 
+commitments, particularly among heavy emitters in the oil & gas, utilities, steel, cement, and aviation 
+sectors. Already, over half of global GDP, 2.6 billion people and a quarter of carbon emissions are covered by 
+a national net-zero target (ECIU, 2020).  Since late 2019, the number of companies committed to net zero 
+increased by three-fold from 500 recorded in 2019 to 1,541 in 2020, while the increase for cities was eight-
+fold from 100 recorded in 2019 to 823 more in 2020 (UNFCCC, 2020). At Climate Week NYC 2020, 17 new 
+companies announced science based net zero commitments, including LafargeHolcim the world’s largest 
+cement company and C.P.Group, one of Asia’s leading conglomerates. 
+Despite the Covid-19 pandemic and the global economic slowdown, more companies are committing to 
+climate action, and the trend is expected to persist. Since the beginning of 2020, more multinational 
+companies have announced net zero targets by 2030–50. Since January 2020, 379 companies have 
+committed to science-based climate action and joined the Science Based Targets initiative (SBTi) list. This 
+increases the total number of companies that are taking science-based climate action to 1009 as of October 
+2020 (Science Based Targets, 2020). 
+Companies realise that NETs such as NBS and technical solutions – BECCS and DACCS – are needed in 
+addition to continuing to decarbonise their value chains. While some companies plan to utilise technical 
+solutions, such as Microsoft considering BECCS and DACCS (Smith, 2020) and British Airways’ parent IAG 
+exploring DACCS (Otley, 2020), most companies are likely to invest in NBS to offset their CO2 emissions. Table 
+1 (and Table 2 in the Appendix 1) sets out how selected companies plan to deliver their net zero 
+commitments. Column 6 presents the NETs that companies plan to utilise, while column 7 shows emissions 
+reductions considered by companies alongside NETs. The assessment of 42 corporate net zero commitments 
+announced over 2019–20 shows that 26 referred to NETs in their net zero commitments, and 24 of these 
+companies refer to NBS (Vivid Economics using American University, 2020). 
+ 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+13 
+Table 1 
+Companies’ net zero targets and measures to achieve them 
+Company 
+Sector 
+Market 
+capitalisation 
+Date of 
+announcement 
+Net zero 
+year 
+How to achieve it 
+ 
+NETs 
+Other measures 
+Apple 
+Technology 
+US$1,821bn 
+July 2020 
+2030 
+● Partnership with the non-
+governmental organisation (NGO) 
+Conservation International to 
+restore mangrove trees 
+● Recover materials of devices returned 
+for recycling 
+● Solar panel projects to power data 
+centres 
+● Carbon-free aluminium-smelting 
+process 
+● Energy efficiency 
+P&G 
+Consumer 
+products 
+US$325bn 
+June 2020 
+2030 
+● Offset or eliminate 30 MtCO2 
+● Partner with the NGO Conservation 
+International and WWF 
+● Afforestation 
+● Restore peatlands, wetlands 
+● Protecting mangroves 
+● 100% renewable energy use 
+● CCS 
+Shell 
+Oil & gas 
+US$116bn 
+April 2020 
+2050 
+● Afforestation 
+● Reforestation 
+● Energy efficiency 
+● Using lower-carbon energy products 
+● CCS 
+Microsoft 
+Technology 
+US$1,540bn 
+January 2020 
+2030 
+(carbon 
+negative) 
+● DACCS 
+● BECCS 
+● Soil carbon sequestration 
+● Afforestation and reforestation 
+● Eliminate dependency on diesel 
+● Internal carbon tax 
+● 100% supply of renewable energy 
+● Includes Scope 3 emissions 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+14 
+Company 
+Sector 
+Market 
+capitalisation 
+Date of 
+announcement 
+Net zero 
+year 
+How to achieve it 
+BA 
+Airline 
+US$3bn (IAG) January 2020 
+2050 
+● Offset carbon emissions: protection 
+of rainforests and reforestation 
+● DACCS: Partnering with start-up 
+that has created an innovative 
+absorbent material to remove CO2 
+emissions directly from the 
+atmosphere 
+● Sustainable aviation fuel 
+● Replacing older aircraft 
+Repsol 
+Oil & gas 
+US$22bn 
+December 2019 
+2050 
+● Reforestation 
+● Other nature-based solutions (if 
+goals cannot be reached via other 
+means) 
+● Scaling up renewable energy portfolio 
+● CCS 
+● Increasing production of biofuels and 
+chemical products with low-carbon 
+footprints 
+● Producing green hydrogen 
+● Linking management pay to emission 
+reductions 
+● Includes Scope 3 emissions 
+Qantas 
+Airlines 
+US$11bn 
+November 2019 
+2050 
+● Carbon-offsetting activities: 
+protecting the Great Barrier Reef, 
+reducing wildfires in Australia and 
+securing 7,000 ha of Tasmanian 
+forest 
+● Develop sustainable aviation fuels 
+● More fuel-efficient aircraft 
+Amazon 
+E-commerce 
+US$1,586bn 
+September 2019 
+2040 
+● Reforestation 
+● Electric delivery vehicles 
+● Use of renewable energy 
+● Reduced packaging 
+ 
+Source: 
+Vivid Economics using information from company announcements and press releases (Qantas, 2019; UN PRI, 2019; British Airways, 2019; IKEA, 2019; Nestlé, 2019; 
+Amazon, 2020a; Ambrose, 2020; Shell, 2020a; Total, 2020; Apple, 2020; Bass, 2020; Casey, 2020; Environment & Energy Leader, 2020; Evans, 2020). 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+15 
+4 Climate scenarios rely largely on BECCS, but it is 
+unlikely to deliver projected negative emissions 
+In almost all Paris-aligned climate scenarios, BECCS is the leading NET as it offers double gains through 
+energy generation and CO2 sequestration. The climate scenarios utilise BECCS, afforestation, and other NBS 
+for negative emissions but at different levels. Figure 5 presents annual CO2 emissions removed from the 
+atmosphere by these three NETs in 2050 and 2100 for the selected climate scenarios. IPR FPS uses realistic 
+assumptions about sustainable deployment of the NETs. BECCS accounts for only 0.8 GtCO2/year by 2050 but 
+rises to 8 GtCO2/year by 2100, increasing its share from 40% to 80% of the total negative emissions. 
+Regarding the IPCC scenarios, at one extreme, P1 and P2 act early in abatement and do not significantly 
+overshoot their carbon budget. That is why, in these scenarios negative emissions do not reach 5 GtCO2/year 
+by 2100. At the other extreme, IPCC P4 acts late to reduce emissions and relies only on BECCS to chip away 
+at the emissions overshoot. Negative emissions by BECCS exceed 16 GtCO2/year by mid-century, 
+corresponding to around half of today’s CO2 emissions from combustion of fossil fuels. IPCC P3 and the NGFS 
+scenarios lie between these two extremes and utilise BECCS and NBS – i.e. afforestation and other NBS. 
+These scenarios deploy BECCS and NBS at comparable levels by 2050, but negative emissions from BECCS 
+surpass negative emissions from afforestation and other NBS by the end of the century. 
+BECCS’ contribution to cumulative negative CO2 emissions is significant. In IPR FPS, cumulative BECCS is 
+1.3 GtCO2 in 2050, growing to 54.5 GtCO2 in 2100, which is much lower compared with the IPCC scenarios. 
+Cumulative BECCS until 2100 in the IPCC scenarios ranges from 151 GtCO2 in IPCC P2 – which has an 
+incredibly ambitious decarbonisation pathway, halving emissions from 37 GtCO2 to 19 GtCO2 between 2020 
+and 2030 – to 1,191 GtCO2 in IPCC P4. In IPCC P4, 724 Mha of land, corresponding to more than half of the 
+world’s arable land – about 15% of all agricultural land – today, would need to be covered by bioenergy 
+crops by mid-century.8   
+ 
+ 
+8 Arable land is only about 30% of all agricultural land, while the rest is pasture land (FAO, 2020). 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+16 
+Figure 5 
+The deployment of BECCS and NBS varies across the climate scenarios 
+ 
+Note: 
+Other NBS are NBS excluding afforestation. 
+The dotted lines show the lower and upper ranges of annual CO2 removal potential of BECCS from Fuss et 
+al. (2018). 
+ 
+IEA B2D reports only CO2 emissions from fuel combustion for energy and heat generation, whereas the 
+IPCC and NGFS scenarios report combustion and process CO2 emissions. 
+                       The NGFS 2oC scenarios are also known as the Representative scenarios and the NGFS 1.5oC scenarios as 
+the Alternative scenarios. 
+IEA SDS does not include NETs. 
+Source: 
+Vivid Economics, using IPCC data (IAMC & IIASA, 2019), NGFS data (IIASA, 2020), IPR data (IPR, 2019b), 
+and IEA data (‘Energy Technology Perspectives 2017’, no date) 
+The reliance of the climate scenarios on BECCS is an issue as large-scale deployment of BECCS is likely to 
+push the world to its planetary boundaries in terms of water and land availability, threatening biodiversity 
+and fuelling social tensions. BECCS requires large areas of land and could lead to deforestation and 
+conversion of protected areas to plantations. Biomass plantations could replace food production and lower 
+food supply, thereby increasing food prices. While  plantations and BECCS power plants would increase 
+water demand, water pollution from fertiliser use could affect supplies. Pressure on water and land could 
+threaten the biodiversity depending on these resources. As regards land tenure, large bioenergy producers 
+may outcompete small farmers, forcing them to sell their land to the former. Food price inflation and 
+pressure on land tenure are likely to impact the most vulnerable groups that rely on agriculture for income 
+and spend a large share of their income on food, raising concerns about a just transition to a low-carbon 
+economy (FAO, 2010). These negative impacts require limiting the use of BECCS to a sustainable level.  
+When deployed at a sustainable scale, BECCS is likely to fall short of delivering the negative emissions 
+projected by most of the climate scenarios. Fuss et al. (2018) estimate that the CO2 removal potential of 
+sustainable BECCS could range from 0.5 GtCO2/year to 5 GtCO2/year in 2050, as shown by the dashed lines in 
+Figure 5 above. Reid et al. (2019) argue that the yearly CO2 removal potential of sustainable BECCS could 
+decline in the second half of the century as competition for land intensifies due to population growth and 
+the transferral of biomass production from land that has become arid to more fertile land, exacerbating the 
+gap between the projections of the climate scenarios and the CO2 removal potential of sustainable BECCS. 
+0
+5
+10
+15
+20
+25
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+2050
+2100
+IPCC P1
+IPCC P2
+IPCC P3
+IPCC P4
+NGFS 1.5
+Orderly
+NGFS 1.5
+Disorderly
+NGFS 2C
+Orderly
+NGFS 2C
+Disorderly
+IEA B2D
+Annual CO2 sequestration (GtCO2/yr)
+Negative CO2 emissions by BECCS and NBS
+Biomass with CCS
+Other NBS
+Afforestation
+Lower end of the sustainable BECCS range in 2050
+Upper end of the sustainable BECCS range in 2050
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+17 
+5 A portfolio of NETs with immediate forestry action 
+is required to limit global warming at 1.5–2oC  
+BECCS needs to be combined with other NETs to deliver negative emissions projected by the climate 
+scenarios because its CO2 removal potential is limited when deployed at a sustainable level. This section 
+considers six NETs that are widely cited and have potential to deliver significant negative emissions by 2050. 
+These are BECCS, DACCS, re/afforestation, soil carbon sequestration, biochar, and enhanced weathering.  
+The literature has diverging views on NETs because their scalability is untested and some of them are still in 
+their infancy. Appendix 3 – NETs synthesises findings from literature focusing on the criteria required for 
+feasibility and scalability of these technologies: (i) functional mechanism; (ii) technological maturity; (iii) 
+global CO2 removal potential; (iv) cost; (v) permanence of CO2 storage; (vi) constraints; and (vii) potential 
+side effects. Appendix 4 – Feasibility of NETsprovides a comparison of the selected NETs based on the review 
+criteria. Information on the review criteria is compiled from Fuss et al. (Fuss et al., 2018), which reviews and 
+synthesises the recent literature on NETs and is widely recognised and cited, and is adjusted to reflect recent 
+research where available (Griscom et al., 2017; EASAC, 2018, 2019; Fajardy et al., 2019; Reid, Ali and Field, 
+2019). 
+Deploying each NET at scale may cause significant negative impacts on the planet, biodiversity, and society. 
+Figure 5 presents positive and negative side effects of the selected NETs discussed in the literature. In term 
+of technical solutions, BECCS may have a number of negative side effects, such as high land and water 
+demand putting pressure on biodiversity and food security, while the negative effects of DACCS are 
+negligible. NBS also have negative side effects, such as water and chemical pollution from fertiliser use, and 
+changes in albedo and cloud cover; however, sustainably managed NBS projects have positive side effects, 
+such as improved soil quality and biodiversity, which are significantly greater in magnitude than the 
+negatives. Most of these positive benefits are externalities, and the development of financial instruments is 
+required in order to monetise these externalities and compensate private parties for action taken which 
+leads to substantial social benefit. Appendix 3 – NETs provides more detail on the positive and negative side 
+effects of the selected NETs. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+18 
+Figure 6 
+Each NET has its own characteristics in terms of technological maturity, side effects, constraints, and future 
+cost and carbon removal potential trends 
+ 
+Note: 
+N2O, nitrous oxide; CH4, methane. 
+Source: 
+Vivid Economics, based on Minx et al. (2018) 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+19 
+High uncertainty associated with costs and CO2 removal potential exacerbates risks and other uncertainties 
+around the NETs. Figure 7 presents the wide ranges for costs and CO2 removal potential of the selected NETs 
+(Fuss et al., 2018). These are largely due to most of the NETs not yet being tested at scale. More research 
+and demonstration projects are needed to understand the constraints and side effects associated with these 
+technologies. Moreover, as stated in Geden and Schenuit (2020), adoption of the technologies across the 
+globe may depend on criteria other than costs, CO2 removal potential and side effects, such as geographic 
+conditions (particularly for storage) and local politics, thereby adding to uncertainty. 
+Figure 7 
+Afforestation and reforestation, and soil carbon sequestration have the lowest costs among the NETs 
+ 
+Source: 
+Vivid Economics, based on Fuss et al. (2018)  
+A portfolio of NETs deployed at a sustainable scale could help to meet net zero targets. As shown in Figure 6 
+and Figure 7, all NETs have considerable uncertainties around their CO2 removal potential and costs, and 
+deploying them at large scale may cause significant negative impacts on biodiversity and society. Deploying a 
+portfolio of multiple NETs at a sustainable scale would provide a hedge and limit exposure to the 
+uncertainties and negative impacts associated with a large-scale application of each NET. 
+Investors can reap gains from NBS in the short term, especially by avoiding emissions from deforestation 
+while investing in sequestering emissions from re/afforestation in the short-term. Afforestation and 
+reforestation are the least costly NETs, as shown in Figure 6. The approach is already widely applied, and it 
+can be immediately extended to larger areas of land. Deforestation continues to release significant amounts 
+of CO2 into the atmosphere. From 2011 to 2015 net forest conversion added 2.9 GtCO2 per year to the 
+atmosphere(Federici et al., 2015). Reversing deforestation now would stop these emissions, and retained 
+forest would serve as a carbon sink and continue to sequester CO2 from the atmosphere. Re/afforestation 
+need to start now because forests take time to grow and reach their CO2 removal potential. As forests get 
+saturated and their CO2 removal potential decreases over time, they could be harvested and replanted to 
+sequester additional CO2. Harvested material could be used in construction or as fuel for BECCS to store CO2 
+permanently. Investing in forest-related NBS would also decrease overshoot emissions and exposure to risky 
+NETs in the long term. 
+In the long term, technology-focused NETs, such as DACCS, could be economically viable alternatives to 
+BECCS by mid-century as their costs are falling – if investors and corporates channel funds towards further 
+research and deployment (Fuss et al., 2018; Realmonte et al., 2019).9 However, more research and 
+ 
+9 We do not discuss DACCS in detail in this report but will be producing a separate study. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+20 
+development and pilot projects, alongside financial incentives, are needed to reduce costs of these 
+technologies further and assess their side effects and scalability. 
+ 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+21 
+6 Companies and investors have already started to 
+invest in forest-related NBS projects 
+Companies have already started to channel their resources towards forest-related NBS projects. As shown in 
+Table 1, while some companies plan to utilise technical solutions, such as Microsoft considering BECCS and 
+DACCS (Smith, 2020) and British Airways’ parent IAG exploring DACCS (Otley, 2020), more companies, such 
+as O&G, technology and retail majores, are likely to invest in NBS to offset their CO2 emissions – see Figure 8. 
+Shell forecasts that roughly a quarter of emissions reductions to reach net zero will come from natural sinks 
+and has started to invest in forest-related projects, such as the planting of 5 million trees in the Netherlands 
+and regenerating an 800 ha forest in Australia (Shell, 2019, 2020b). BP is currently running seven offset 
+programmes, one of which is focused on forestry, protecting 40,000 ha in Zambia. Total is committed to 
+investing US$100 million per year in forest protection (IOM3, 2019; BP, 2020). Technology companies are 
+also pursuing similar projects. Apple is protecting an 11,000 ha mangrove forest in Colombia, and Microsoft 
+is partnering with a start-up that uses satellite imaging to identify the appropriate forest projects (Peters, 
+2019; Catanoso, 2020). Microsoft will finance the identified projects by paying US$15/tCO2 for CO2 stored – 
+higher than the global average of $10/tCO2 (Catanoso, 2020). Amazon has launched the Right Now Climate 
+Fund, investing US$100 million in NBS. The first project of $10 million was announced in April 2020, to 
+restore and conserve 1.6 Mha forest in the US, removing 18 million MtCO2 from the atmosphere (Amazon, 
+2020b). EasyJet claims to have offset all of its emissions from fossil fuel use in 2019, investing more than 
+US$30 million in afforestation and reforestation projects (Ecosystem Marketplace, 2019a). 
+Figure 8 
+Companies have already started to channel their resources to forest-related NBS projects 
+ 
+Source: 
+Vivid Economics 
+The flurry of corporate climate action has boosted the voluntary offset market, and the upward trend is 
+expected to continue. The voluntary offset market represents 65% of the total number of annual carbon 
+credits issued in 2019 – an almost fourfold increase from 17% in 2015 – and outnumbers the mandatory 
+offset market (World Bank, 2020). From 2017 to 2018, the voluntary offset market doubled in volume from 
+approximately 50 million to 100 million offsets, and in value from US$150 million to $300 million (Gross, 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+22 
+Hook and Powley, 2019b). In 2019, Verra, a carbon credit standard, issued around 100 million voluntary 
+carbon credits, over twice the amount issued previously in a single year (Verra, 2020b). This upward trend is 
+expected to continue. A 2020 analysis of 38 large global companies, including major corporations such as 
+Shell, Bosch and EasyJet, reported that these companies had pledged to offset around 90 MtCO2e per year, 
+50% higher than the total volume traded in the market in 2016 (EcoSecurities, 2020). By 2050, the value of 
+the global voluntary offset market could reach US$200 billion, increasing by around a quarter every year 
+(Watson, 2020). 
+There is a shift to NBS within the offset market as most corporate net zero targets rely on NBS projects to 
+offset their emissions. From 2017 to 2018, the value of forestry and land-use-related credits traded in the 
+voluntary offset market tripled to US$172 million, increasing the share of forestry and land-use-related 
+offsets in the total voluntary offset market from 52% to 64% (Ecosystem Marketplace, 2019b). In the wider 
+offset market, forestry-related projects accounted for 42% of the all credits issued over the past five years 
+(‘State and Trends of Carbon Pricing 2020’, 2020).10 As forestry projects facilitate the growth of the offset 
+market, this market could provide an enabling platform encouraging the scaling of NBS (Henderson et al., 
+2020).  
+ 
+10 The wider offset market encompasses three types of market: international; independent; and regional, national and subnational mechanisms. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+23 
+7 Investors can act now to unlock investment 
+opportunities 
+NETs are the next investment frontier and offer trillion dollar upside opportunities for investors.11 Within 
+NETs, forest-related NBS could generate US$800 billion in annual revenues by 2050. From today’s vantage 
+point, emerging NBS investments are worth US$1.2 trillion in NPV terms (see Box 1), surpassing the current 
+market capitalisation of the oil & gas majors.12  Hence an entire new industry would emerge that values 
+carbon stored in vegetation and soil, unlocking new business models and investment opportunities for 
+avoided deforestation, reforestation and afforestation (hereinafter re/afforestation), and land restoration. 
+Thanks to its low cost, natural forest restoration looks likely to emerge as the earliest feasible investment 
+opportunity. Technical solutions, such as DACCS and BECCS, could generate an additional annual revenue of 
+US$625 billion by 2050.13  
+Box 1 
+The size of the investor opportunity in NBS 
+To estimate the feasible size of the investor opportunity in NBS we created a very simple cash flow model 
+to represent the global NBS market. First, we estimated the possible revenue growth of the market over 
+time by using the IPR Forecast Policy Scenario’s forward assessment of the number of hectares of 
+reforestation globally, the amount of carbon sequestered, the possible carbon price they would secure, 
+and small ancillary revenues from sustainable forest management. Revenues associated with NBS are 
+driven strongly by the expected carbon price (see graph). 
+In order to generate estimates of returns (or cashflows), we also need to estimate costs – land, capital, 
+and operational costs. These cashflows then need to be discounted to generate an estimate of the 
+possible NPV of these investments (roughly equivalent to market capitalisation). These will vary 
+significantly by location and need estimating on that basis – global high level averages would be 
+misleading for any single project but can provide an indicative number for investors. 
+ 
+11 Also known as carbon dioxide removal (CDR). NETs are technical solutions and Nature Based Solutions (NBS) that sequester carbon from the 
+atmosphere. 
+12 As of June 2020. Oil & gas majors include BP, Chevron, China National Offshore Oil, ConoccoPhilips, Enterprise Product Partners, EOG Resources, 
+ExxonMobil, Kinder Morgan, Occidental Petroleum, Petrobas, PetroChina Company, Santos, Schlumberger, Sinopec, Suncor Energy, and Total. 
+13 The annual revenue is estimated for annual CO2 sequestration of 5 GtCO2/year at a cost of US$125 per tCO2 and considers only revenue from 
+sequestered CO2 emissions. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+24 
+We used a 9% discount rate, which is consistent with discount rates used in the past for the valuation of 
+forest projects,14 and estimated an indicative set of costs based on existing sources for reforestation 
+projects.15 Based on this analysis, we estimate a possible NPV of NBS investments of US$1.2 trillion, with 
+an internal rate of return of 18%. These NPV calculations are very rough, and subject to a number of 
+uncertainties, especially around the price of land, the actual price of carbon secured, and the appropriate 
+discount rate given the possible risk levels associated with these investments in different markets. 
+Nevertheless, they provide an early indication to investors of the possible scale of asset value represented 
+by the NBS opportunity.  
+ 
+Given the advantages of forestry over other NETs, investors can prioritise NBS in the short term and monitor 
+developments regarding technical solutions, such as DACCS, for investment opportunities in longer term. 
+Section 5 demonstrated that re/afforestation are the least costly among the NETs. The approach, already 
+widely applied, could be immediately extended to larger areas of land. DACCS and other NETs could become 
+economically viable alternatives in the longer term, but, as discussed, there are significant uncertainties and 
+risks around their costs and CO2 removal potential. More research and demonstration projects are needed to 
+lower costs and test the large-scale deployment of these technologies.  
+Figure 9 
+In the nearterm, NBS and particularly forestry provide investment opportunities while focusing on RD&D 
+for other NETs and deploy a feasible amount of BECCS in the long run 
+ 
+Source: 
+Vivid Economics 
+The credibility of re/afforestation projects depends on strong regulation to end deforestation. To mitigate 
+climate change, the total forest-covered area needs to increase significantly over the coming years. If 
+re/afforestation projects fail to turn out a, at least regionally, net-gain in forestry cover, their benefits may 
+be questioned, undermining forestry business models and threatening credibility carbon credits for forestry 
+projects. As mentioned below, there are ways of addressing the credibility issue, such as focusing on 
+jurisdictional programmes and promoting a global standard fror NBS, including standards such as the 
+Architecture for REDD+ Transactions’ (ART) The REDD+ Environmental Excellence Standard (TREES), but 
+ending deforestation remains a key factor for credibility. 
+To unlock investment opportunities, investors need to: 
+● Pressure companies to commit to climate action. Various investor initiatives encourage large 
+companies to reduce emissions and strengthen climate-related financial disclosures. Urging 
+companies to commit to climate action would decrease investor exposure to carbon-intensive 
+ 
+14 See Bullard, S. H. and Straka (2011); and Ferguson (2018). 
+15 For example Summers, D., Bryan, B., Martin, N. and Hobbs (2015); and Zorrilla-Miras, P., Marcos, C., Mulligan, M., Giordano, R., Graveline, N., 
+Máñez-Costa, M., Pengal, P., van der Keur, P., Altamirano, M., Matthews, J. and Lopez-Gunn (2018). 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+25 
+markets. It would also increase the demand for NBS and other NETs projects, facilitating these 
+technologies and supporting their markets, as many companies are likely to rely on NBS and other 
+NETs to offset their emissions. As discussed in Section 3, since January 2020, 379 companies have 
+committed to science-based climate action and joined the SBTi list, increasing the number of 
+companies that are taking science-based climate action to 1009 as of October 2020 (Science Based 
+Targets, 2020), and companies have already started to channel their resources towards forest-
+related NBS projects, creating a new market for forestry. Last but not least, investors need to 
+pressure companies to commit to using deforestation-free supply chains. 
+● Stop investing in companies with deforestation in their supply chain. Deforestation is a major 
+contributor to global warming. From 2011 to 2015 net forest conversion added 2.9 GtCO2 per year to 
+the atmosphere (Federici et al., 2015). Companies with deforestation in their supply chain expose 
+investors to significant financial risk in terms of potential regulatory action, loss of market access, loss 
+of customers in the short term, and failing to adapt to the transition to a low-carbon economy in the 
+longer term (Ceres, 2020). As shown in Figure 10, risks associated with legal action, market access, 
+and consumer pressure could decrease a company’s valuation by around 15%. 
+Figure 10 Deforestation across a company’s supply chain jeopardises its valuation 
+ 
+Note: 
+Case studies from the Chain Reaction Research and Ceres provided information on maximum threshold 
+for consumer pressure, market access and legal risks as a share of current valuation. 
+Source: 
+IPR (2019a) 
+● Move early in the rapidly growing NBS market. Investors should develop innovative business models, 
+financing mechanisms (as listed below) and expertise to position themselves in an emerging market 
+so they can benefit from a potential large green upside. A way to channel private finance to NBS 
+projects could be through large agricultural and forestry companies, specialist funds that focus on 
+NBS projects, and local agricultural and forestry lenders. Some emissions-heavy companies can also 
+provide exposure to forestry projects as they plan to invest in these to offset their emissions. 
+● Support NBS market and institutional development by engaging with policymakers. Investors can 
+shape the design of the expanding NBS market to suit the needs of private financing. In the short 
+term, this could involve developing new financial models with the government through concessional 
+finance, re-risking activities that transfer risk from investors to government or development banks, 
+and providing technical assistance. Investors could also promote the adoption of carbon pricing as it 
+would provide NBS projects with a sustained return and a price signal for future projects.  
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+26 
+● Promote a global standard for NBS projects. The current offset market is fragmented due to the 
+variety of available standards. A lack of consensus about accounting of sequestered emissions causes 
+complexity, incurs expenses and creates risks for investors, thus discouraging investment in forest-
+based carbon sequestration projects (Wise et al., 2019). A global standard for NBS projects, such as 
+the Architecture for REDD+ Transactions (ART) and The REDD+ Environmental Excellence Standard 
+(TREES), and a carbon credit ESG rating could align existing standards and ensure additionality and 
+permanence of CO2 savings while avoiding double counting and leakage. It could therefore help to 
+achieve a global agreement on accounting standards, addressing a major failure that has hindered 
+progress of REDD+ and re/afforestation (Carton et al., 2020). It could also help to create a global 
+market for NBS projects and allow them to benefit from a large pool of global investors, decreasing 
+financing costs and improving liquidity. 
+● Promote sustainability standards for BECCS. A sustainability standard could ensure that low-carbon 
+agricultural and sustainable land-use practices are deployed in biomass production that limit 
+emissions from supply chains and land-use change. It would also ensure that land and water 
+resources are deployed at a sustainable level, thus protecting biodiversity. This would address 
+stakeholder concerns and possible opposition to BECCS projects and hence accelerate the scale-up of 
+finance dedicated to these. 
+● Monitor developments in the DACCS space. DACCS may emerge as the key NET in the medium term. 
+The technology has no known negative side effects and does not put pressure on land and water 
+resources, ecosystems, or biodiversity. However, due to the low CO2 concentration in the 
+atmosphere its energy consumption is too high, inflating its costs. More research and demonstration 
+projects may address these challenges, making it a viable option for removing CO2 emissions from 
+the atmosphere. 
+New financing mechanisms are emerging that would allow private investors to channel finance towards 
+forest-related NBS projects. As carbon markets extend their geographical coverage and incorporate NBS, 
+more revenue streams will be unlocked from forest-related projects. Consequently, market-based 
+mechanisms will be developed to manage these revenue streams, and the forest finance market will deepen 
+in terms of volume and the number of players. These developments are expected to facilitate much-needed 
+private investment in forest finance. Examples for emerging financing mechanisms are: 
+● Distressed asset, where investors purchase and restore deforested or degraded public and private 
+land to benefit from the carbon stock it produces, with the potential to sell the land on to other 
+investors or to the government for conservation purposes. Restoration can be implemented by a 
+land management company contracted by the investor. 
+● Stewardship model, where an investor leases deforested or degraded land without an ownership 
+change, and the leaseholder receives the benefits flowing from the carbon stock associated with 
+restorative management before returning it to the previous owner. Restoration can be implemented 
+by a land management company contracted by the investor. 
+● Carbon farming agreements, where an investor supports the ‘farming’ of carbon through forest 
+growth by providing the land manager with financing for the initial land purchase and planting costs. 
+In return, the investor receives payments tied to the carbon stock increases. Such a model can be 
+used to finance large land holders or cooperatives of smallholders, reducing the risk to those 
+cooperatives while simultaneously reducing the administrative burden on investors. 
+● Sustainable farming agreements, where an investor supports traditional crop farming practices that 
+reduce emissions or sequester carbon (e.g. in soils) by financing farmers’ land or capital cost.  
+Investors receive payments when the carbon-reduction certificates are created and sold on the 
+market. This too can be used to finance large farmers or cooperatives of small farmers. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+27 
+● Green bonds, where investors can purchase securitised forest sequestration and carbon-reduction 
+projects. This can allow investors to take stakes in projects already developed by others, and they can 
+be used to aggregate projects that are of insufficient scale for investors, or that are developed by a 
+government or NGO.  
+● Forest insurance provision, a disaster insurance against carbon losses from extreme weather, 
+disease, or forest fires, which can improve carbon credit ratings and allow for risk sharing. This 
+financing mechanism is currently provided predominantly through public funds, but presents an 
+increasingly viable business for private insurers as the market grows. 
+● Carbon off-taker guarantees, financial instruments guarantee a future price for carbon credits, 
+reducing carbon price volatility and risk for developers. Like insurance, they allow for risk sharing, 
+and can be underwritten by public or private financial institutions. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+28 
+Appendix 1 – Corporate net zero announcements 
+Table 2 
+Companies’ net zero targets and measures to achieve them  
+Company 
+Sector 
+Market 
+capitalisation 
+Date of 
+announcement 
+Net zero 
+year 
+How to achieve it 
+ 
+NETs 
+Other measures 
+BCG 
+Business 
+services 
+US$8.5bn 
+(revenue) 
+September 2020 
+2030 
+● 
+Nature-based and engineered solutions at 
+an annual average of $80 per tonne by 
+2030 
+● 
+Renewable energy 
+● 
+Energy efficiency 
+Total 
+Oil & gas 
+US$98bn 
+May 2020 
+2050 
+No evidence 
+● 
+Reducing carbon intensity of products 
+BP 
+Oil & gas 
+US$73bn 
+February 2020 
+2050 
+● 
+Nature-based solutions: protecting, 
+restoring and creating natural sinks, such 
+as peatland and forests 
+● 
+Reducing carbon intensity of products 
+● 
+Methane measurements 
+● 
+Reducing methane intensity 
+Nestlé 
+Consumer 
+products 
+US$310bn 
+September 2019 
+2050 
+● 
+Reforestation 
+● 
+Soil carbon sequestration: collaborate with 
+farmers to restore land 
+● 
+Produce more environmentally friendly 
+products 
+● 
+Use 100% renewable electricity 
+Ikea 
+Consumer 
+products 
+US$19.5bn 
+September 2019 
+2030 
+● 
+Afforestation 
+● 
+Reforestation 
+● 
+Explore ways to remove CO2 and store it in 
+forests, agriculture and products 
+● 
+Improve energy efficiency 
+● 
+100% renewable energy use 
+● 
+More sustainable materials 
+Thyssen-
+Krupp 
+Steel 
+US$7bn 
+July 2019 
+2050 
+No evidence 
+● 
+Capturing emissions from steel mills and 
+converting them into chemicals 
+● 
+Replacing coal with hydrogen 
+Heidelberg 
+Cement 
+Cement 
+US$13bn 
+May 2019 
+2050 
+● 
+CCS: develop new technologies for CO2 
+sequestration in the cement-making 
+process 
+● 
+Improve energy efficiency 
+● 
+Increase use of alternative fuels and raw 
+materials 
+Source: 
+Vivid Economics, using (Nestlé, 2019; Qantas, 2019; UN PRI, 2019; British Airways, 2019; IKEA, 2019; Amazon, 2020a; Ambrose, 2020; Shell, 2020a; Total, 2020; Apple, 
+2020; Bass, 2020; BCG, 2020; Casey, 2020; Environment & Energy Leader, 2020; Evans, 2020) 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+29 
+Appendix 2 – Climate scenarios 
+Climate scenarios rely on different assumptions and architecture, and they can be compared for investor 
+purposes when assessing a range of metrics. The PRI-commissioned paper Pathways to Net Zero: Scenario 
+Architecture for strategic resilience testing and planning sets out the key metrics that determine climate 
+scenario characteristics. Table 3 presents a subset of these metrics. Scenario characteristics are crucial for 
+understanding the ambitions and pathways of each climate scenario, as well as the financial impact, and can 
+be used by investors for portfolio construction.  
+Table 3 
+Metrics and descriptions used to compare climate pathway scenarios 
+Metrics 
+Description 
+Target temperature (oC) 
+This describes the temperature above pre-industrial levels with which 
+the scenario is consistent. In most cases this is a constraint reflected in 
+the carbon budget and therefore the pathway. 
+Probability (%) 
+This is the probability of achieving a particular temperature outcome. It 
+is a critical datapoint, as the uncertainties within climate science lead to 
+wide ranges of outcomes that can be presented only in probabilistic 
+ways. 
+Carbon budget over  
+2018–2100 (GtCO2) 
+This is the remaining amount of carbon that can be emitted to fulfil a 
+specific temperature and probability combination.  
+Emission peak year 
+The year in which CO2 emissions peak. 
+Carbon budget is reached 
+(year) 
+The year when the carbon budget modelled is first exceeded starting 
+from 2018. 
+Temperature return year 
+The year when the temperature again falls to, for example, 1.5°. The 
+scenario is unlikely to be at net zero at this point; it will most likely be 
+net negative. 
+Net zero year 
+The year in which the scenario has zero net emissions, which means that 
+any residual direct emissions are offset by Carbon Dioxide Removal 
+(CDR) (e.g. CCS, NETS including BECCS).  
+Overshoot at the net zero year 
+(GtCO2) 
+The amount of emissions in excess of the carbon budget (potentially 
+driving a temperature overshoot) as at the net zero year.   
+Emissions reduction in the 
+modelled end year relative to 
+2018 (%) 
+This is the percentage reduction in emissions highlighted in the scenario 
+at its end year measured against 2018. 
+Source: 
+Fulton (2020) 
+Looking at a number of these metrics highlights the differences in scenario architecture, and particularly the 
+role that NETs play in climate scenarios. Table 4 shows the assessment of each of the selected climate 
+scenarios against the metrics presented in Table 3, and helps investors to compare the different scenario 
+pathways, observe the role of NETs within each, and understand the risks and opportunities to inform 
+business and portfolio planning.
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+30 
+Table 4 
+Pathway scenario comparison 
+Organisation 
+IPCC 
+IEA 
+NGFS 
+IPR 
+Scenario/Metric 
+P1 
+P2 
+P3 
+P4 
+SDS 
+ETP B2Ds 
+Orderly 
+Disorderly Orderly 
+Disorderly 
+FPS 
+Target 
+temperature 
+(oC) 
+1.5 
+1.5 
+1.5 
+1.5 
+1.8 
+1.75 
+2 
+2 
+1.5 
+1.5 
+Below 2 
+Probability (%) 
+66 
+66 
+66 
+66 
+66 
+50 
+66 
+66 
+66 
+66 
+- 
+Carbon budget 
+over 2018–
+2100 (GtCO2) 
+420 
+420 
+420 
+420 
+8801 
+7202 
+1,0003 
+1,0003 
+4003 
+4003 
+- 
+Emissions peak 
+(year) 
+2020 
+2020 
+2020 
+2020 
+2025 
+2025 
+2020 
+2020 
+2020 
+2020 
+2025 
+Carbon budget 
+is reached 
+(year) 
+2033 
+2033 
+2030 
+2028 
+No 
+overshoot 
+No 
+overshoot 
+No 
+overshoot 
+No 
+overshoot 
+2028 
+2030 
+- 
+Temperature 
+return (year) 
+2059 
+2053 
+2074 
+2084 
+- 
+- 
+- 
+- 
+2076 
+2053 
+- 
+Net zero year 
+2060 
+2055 
+2058 
+2051 
+2070 
+2060 
+2064 
+2050 
+2050 
+2039 
+- 
+Overshoot at 
+the net zero 
+year (GtCO2) 
+144 
+145 
+271 
+483 
+No 
+overshoot 
+No 
+overshoot 
+No 
+overshoot 
+No 
+overshoot 
+279 
+55 
+- 
+Emissions 
+reduction in the 
+modelled end 
+year relative to 
+2018 (%) 
+109 
+112 
+132 
+155 
+53 
+100 
+121 
+111 
+137 
+114 
+98 
+Cumulative CCS 
+until 2100 
+(GtCO2) 
+0 
+348 
+687 
+1,218 
+- 
+225 (until 
+2060) 
+698 
+461 
+834 
+547 
+- 
+of which BECCS 
+until 2100 
+(GtCO2) 
+0 
+151 
+414 
+1,191 
+ 
+72 (until 
+2060) 
+428 
+343 
+632 
+417 
+257 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+31 
+Organisation 
+IPCC 
+IEA 
+NGFS 
+IPR 
+Land area of 
+bioenergy crops 
+in 2050 (Mha) 
+22 
+93 
+283 
+724 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Land area of 
+bioenergy crops 
+in 2100 (Mha) 
+158 
+154 
+750 
+802 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+AFOLU CO2 
+emissions in 
+2100 (GtCO2) 
+-4,343 -3,614 -4,162 -1,201 
+- 
+- 
+-4,182 
+-1,078 
+-5,232 
+-966 
+-1,663 
+Change in 
+AFOLU CO2 
+emissions in 
+2100 relative to 
+2010 (%) 
+-181 
+-178 
+-158 
+-129 
+- 
+- 
+-179 
+-120 
+-198 
+-117 
+-150 
+AFOLU N2O 
+emissions in 
+2100 (kt 
+N2O/yr) 
+6,116 
+4,243 
+4,007 
+8,915 
+- 
+- 
+7,099 
+6,013 
+7,286 
+5,942 
+3,117 (in 
+MtCO2/yr) 
+Change in 
+AFOLU N2O 
+emissions in 
+2100 relative to 
+2010 (%) 
+-5 
+-37 
+-38 
+-14 
+- 
+- 
+-12 
+-25 
+-10 
+-26 
+8 
+AFOLU CH4 
+emissions in 
+2100 (Mt 
+CH4/yr) 
+78 
+41 
+69 
+110 
+- 
+- 
+135 
+134 
+135 
+132 
+3,993 (in 
+MtCO2/yr) 
+Change in 
+AFOLU CH4 
+emissions in 
+2100 relative to 
+2010 (%) 
+-48 
+-77 
+-54 
+-36 
+- 
+- 
+-26 
+-26 
+-26 
+-27 
+-27 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+32 
+Note: 
+1 From Dalman (2020), and until 2070. 2 The 2015–2100 carbon budget (‘Energy Technology Perspectives 2017’, no date). 3 The 2011–2100 carbon budget (NGFS, 
+2020). AFOLU, agriculture, forestry and other land use.  
+Source: 
+Vivid Economics, using IPCCS, NGFS, and IEA 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+33 
+Appendix 3 – NETs 
+NETs, also known as CDR), are technologies that can remove CO2 emissions from the atmosphere. NETs are 
+an essential element of the climate scenarios analysed in this report and are used for two reasons: 
+● to balance CO2 emissions from hard-to-abate sectors, such as aviation and industry, and reach net 
+zero emissions; and 
+● to reduce the level of CO2 emissions in the atmosphere. This may be needed if historical CO2 
+emissions in the atmosphere overshoot the carbon budget. 
+NETs can be classified under the two general categories : technical solutions; and nature-based solutions 
+(NBS). The focus is on the technologies that are widely studied and that have high potential to deliver 
+feasible and sustainable solutions at scale. These are BECCS, DACCS, afforestation and reforestation, soil 
+carbon sequestration, biochar, and enhanced weathering. Figure 11 presents the selected NETs and their 
+functional mechanisms. 
+Figure 11 NETs can be classified under technical solutions and nature-based solutions 
+ 
+Source: 
+Vivid Economics, based on Fuss et al. (2018) and Minx et al. (2018) 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+34 
+Technical solutions linked with storage of CO2 
+Technical solutions rely on the permanent underground storage of CO2 removed from the atmosphere. The 
+two widely cited technical solutions are: (i) BECCS; and (ii) DACCS. 
+(i) BECCS 
+BECCS combines bioenergy with CCS. Bioenergy is a form of renewable energy that is derived from organic 
+materials known as biomass, which can be used to produce transportation fuels, heat, electricity, and 
+products. Forests or energy crops, such as fast-growing perennial grasses and short-rotation coppicing, can 
+be considered as biomass. The major BECCS technologies are mature, but deployment has been slow. In 
+2019 there were only five operating facilities actively using BECCS, capturing 1.5 million MtCO2 per year 
+(Consoli, 2019). Europe’s first two BECCS pilots are under construction in the UK (Drax Group, 2020).  
+BECCS plays a major role in most climate scenarios as it offers double gains. Biomass replaces fossil fuels as a 
+source of thermal energy and removes CO2 from the atmosphere. Depending on the use as biofuel or 
+bioelectricity, CO2 released during fuel conversion or combustion is captured by CCS and stored 
+underground, resulting in negative emissions.  
+However, BECCS may not be able to deliver the negative emissions projected by the climate scenarios as 
+concerns about its CO2 balance and sustainability limit its CO2 removal potential. The costs and CO2 removal 
+potential of BECCS are widely studied in the literature, and the consensus is on the lower end of the 
+estimated range. Fuss et al. (2018) report that the CO2 removal potential of sustainable BECCS would range 
+from 0.5 GtCO2/year to 5 GtCO2/year. Achieving the higher end of the range would require a globally 
+coordinated effort for land governance that accounts for local concerns. This could prove challenging given 
+the low levels of global coordination today. The need for greater global coordination and intensive land 
+management to ensure sustainability is likely to increase costs to US$100–$200/tCO2. 
+The CO2 balance of BECCS depends on the use of bioenergy and emissions from the biomass supply chain 
+and land use change. Bioenergy can be used to generate electricity or produce biofuels. At the current 
+efficiency and CO2 capture rates, bioelectricity has higher CO2 reduction potential than biofuels. However, 
+when the limited availability of sustainable biomass is considered, aviation biofuels may need to be 
+prioritised over bioelectricity as aviation has no alternatives to fossil fuel, thus reducing the CO2 removal 
+potential of BECCS (The Committee on Climate Change, 2011, 2018). The biomass supply chain produces 
+additional CO2 emissions as it includes steps that consume energy such as production, harvesting, 
+processing, and transportation of biomass. Conversion of land for biomass production may cause direct and 
+indirect emissions. Direct Land-Use Change (LUC) emissions result from the decrease in the total carbon 
+stock of the converted land, whereas indirect LUC emissions are due to changes in land use elsewhere as the 
+previous activity on the converted land is relocated. When all these emissions and the lower CO2 capture 
+rate of biofuels are considered, the CO2 balance of BECCS may end up being carbon-positive. 
+Delivering BECCS projected by the climate models is likely to push the world to its planetary boundaries in 
+terms of water and land availability, threatening biodiversity and socially sensitive issues, such as food supply 
+and land tenure. Requiring large areas of arable land, bioenergy could replace food production and reduce 
+food supply, increasing food prices locally and globally. As regards land tenure, large bioenergy producers 
+would reach economies of scale and are likely to outcompete small farmers, forcing the latter to sell their 
+land to large landowners, such as agriculture companies. Food price inflation and reduced land tenure are 
+likely to impact the most vulnerable groups that rely on agriculture for income and spend a large share of 
+their income on food, raising concerns about a just transition to a low-carbon economy (FAO, 2010). 
+Moreover, biomass production could put pressure on water resources as water used for crops, pollution 
+from fertilisers, and water use in BECCS power plant may threaten supplies. 
+Agricultural intensification and cultivation of marginal land may relieve the pressure on land. The adoption of 
+modern agriculture practices and expansion of irrigation infrastructure could enhance agricultural 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+35 
+productivity, allowing the same amount of food to be produced on a smaller area of arable land. However, 
+agricultural intensification also increases the use of fertilisers, pesticides and other chemicals, resulting in 
+rising biochemical flows and greater biodiversity loss. Marginal land, instead of arable land, could be 
+converted to produce biomass. However, it is hard to predict the area of available marginal land and its 
+biomass productivity as it varies in quality and type. According to Turner et al. (2018), the area of land that is 
+suitable for sustainable BECCS (i.e. devoid of forest, not used for food production, and in close proximity to 
+geological CO2 storage sites) corresponds to only 10% of the land utilised for BECCS in the climate scenarios 
+that target a temperature rise of less than 2oC.16 
+Bioenergy is likely to have other unintended side effects, such as changes in albedo, evapotranspiration, and 
+cloud cover. Changes in albedo result from activities that alter the properties of land surfaces and hence the 
+reflection of solar radiation. The production of biomass alters land properties and can have a positive or 
+negative effect on albedo depending on the geographic location and the permanency of the land-use 
+change. For example, if dead trees are harvested, this increases snow exposure and can result in a cooling 
+effect (Bernier and Bright, 2017). If biomass is cultivated at higher latitudes, replacing snow cover, there will 
+be a warming effect and this offsets climate mitigation (Fuss et al., 2018). A study of 11 land-use change 
+scenarios for the cultivation of biomass found two scenarios with a warming effect and nine with a cooling 
+effect (Caiazzo et al., 2014). 
+(ii) DACCS 
+Direct air capture of CO2 combined with CCS captures CO2 from ambient air by chemical processes and then 
+stores it underground. The technologies for DACCS already exist and are in the deployment and commercial 
+development stage. The first commercial DACCS plants are operational in Switzerland, Italy, Iceland, the USA, 
+and Canada. However, they use the captured CO2 for industrial processes, instead of storing it underground, 
+due to commercial viability. 
+Forecasts in the literature suggest that, by 2050, costs could fall to as low as US$100–$300/tCO2 removed. 
+As supply chains are established and infrastructure issues resolved, the costs of this technology are expected 
+to decrease gradually from today’s US$600–$1,000/tCO2. Additional research and upscaling deployment 
+could reduce costs even further (Fuss et al. ,2018).  
+The CO2 removal potential of DACCS would be limited to 0.5–5 GtCO2/year by 2050. However, if costs 
+decline as expected, energy needs are met by renewables, and no unexpected negative impacts emerge, the 
+technology’s CO2 removal potential could increase to 30 GtCO2/year by the end of the century (Realmonte et 
+al., 2019). 
+The CO2 removal potential of DACCs is constrained by its high energy demand, large facility size, and 
+availability of geological CO2 storage. Low concentrations of CO2 in the ambient atmosphere mean that large 
+facilities with high energy demand are needed to capture CO2. According to Realmonte et al. (2019), 
+removing 30 GtCO2/year by DACCS would require around 50 EJ/year of electricity and 250 EJ/year of heat, 
+corresponding to more than half of today’s global total primary energy supply. Large facilities would have 
+large material and labour needs for construction and need to be located far from residential centres. This is 
+also reflected in the high cost of the approach relative to other methods that deploy CCS, such as BECCS, 
+which capture CO2 from flue gases with considerable higher CO2 concentration. Depending on the process 
+utilised, water demand could be also substantial and lead to water stress in areas with limited supplies. As 
+the process decreases CO2 concentration in the ambient air, it may have negative impacts on local 
+vegetation. 
+ 
+16 Turner et al. (2018) explore land-use transformations described in the IPCC AR5, evaluating a subset of scenarios from multiple models that report 
+land use, such as GCAM 3.0, IMAGE 2.4, and REMIND 1.5. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+36 
+Nature-based solutions 
+NBS rely on natural processes to increase CO2 stored in the biosphere. The four widely studied natural 
+solutions are: (i) re/afforestation; (ii) land management to increase and fix carbon in soils; (iii) biochar; and 
+(iv) enhanced weathering. 
+(iii) Reforestation and afforestation 
+Re/afforestation capture CO2 through photosynthesis and store it within plant biomass. Afforestation refers 
+to establishing forest cover on land devoid of any trees, while reforestation involves the expansion of forest 
+in recently deforested areas. The approaches are already widely applied and can be immediately extended to 
+larger areas of land.  
+Re/afforestation require large land areas, raising concerns about land competition. Land competition could 
+negatively impact vulnerable groups through rising food prices since less land would be available for food 
+production, and through changes in land tenure since they tend to rely on agriculture for their income. 
+Moreover, other NETs, such as BECCS, will also require land for biomass plantations, further increasing 
+competition for land.  
+Planting trees is a low-cost measure, but land competition constrains the global CO2 removal potential of 
+re/afforestation. Keeping land competition in mind, Fuss et al. (2018) conclude that around 500 Mha of land 
+that was previously forested but is not currently, if used productively, would be available for 
+re/afforestation. This limits the global CO2 removal potential from 0.5 to 3.6 GtCO2/year in 2050, but the 
+global CO2 removal potential is expected to decline to zero by the end of the century as forests reach 
+saturation. Costs are likely to be low around US$5–$50/tCO2. Griscom et al. (2017) estimate that the 
+maximum CO2 removal potential of re/afforestation could reach 17.9 GtCO2/year if the land available is 
+constrained by human demand for food and fibre, but not costs. However, reaching this potential would 
+require significant dietary shifts in order to release free grazing land for forestry. 
+The approach has other potential problems. Re/afforestation may increase water demand in already water-
+constrained areas, as well as water pollution through fertiliser use. A global meta-analysis reviewing 43 
+studies from 13 countries found that that re/afforestation projects reduced annual river flows nearby by 25% 
+within five years of implementation. After 25 years, the water levels of rivers fallen by 40%, and in some 
+cases dried up entirely. However, this is highly dependent on annual precipitation, the area of forest cover 
+and type of land (Bentley and Coomes, 2020). The use of nitrogen fertilisers may also increase NOx emissions 
+with high global warming potential. Other negative side effects include changes in evapotranspiration 
+through land-use change, and changes in cloud cover and albedo. In terms of positive impacts, forestry may 
+benefit biodiversity, but it is case-dependent and may vary according to local conditions. 
+There are also uncertainties around the permanent storage of CO2. Human and natural disturbances, such as 
+legal and illegal logging, fires, attacks by pests, and drought may release CO2 stored in forests, requiring 
+additional resources for protection and maintenance of large forest areas. Moreover, associated land-use 
+changes may release CO2 emissions stored elsewhere.  
+(iv) Soil carbon sequestration  
+Soil carbon sequestration increases organic carbon content of soils through land management practices, 
+leading to CO2 sequestration. Land management involves agricultural practices that increase carbon input 
+and decrease carbon losses of soil. Carbon input can include leaf litter, residues, roots and manure, whereas 
+carbon losses occur through respiration resulting from activities such as tilling and deep ploughing. The 
+technology can be deployed immediately as farmers and land managers are already familiar with various 
+land management practices and can readily adopt new ones.  
+The technology is low-cost at US$0–$100/tCO2, and its CO2 removal potential ranges from 2.9 to 5.7 
+GtCO2/year. CO2 removal potential estimates from the literature vary widely due to differing assumptions 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+37 
+about the land area that is available for soil carbon sequestration practices. Although the annual CO2 
+removal potential of soil carbon sequestration is promising, its cumulative CO2 removal potential until 2100 
+is severely constrained by sink saturation. Depending on soil type, soil may be saturated after 0–100 years 
+and ceases to sequestrate CO2 from the atmosphere.  
+The positive side effects are likely to outweigh the negative ones. Positive impacts include improvements in 
+soil quality and health and hence better crop yield. The technology could therefore contribute to food 
+security through increased food supply and a reduction in the cost of food production as it would eliminate 
+the need for intensive management of land. The technology does not require any change in land use, and its 
+water and energy requirements and impact on albedo are negligible. Potential negative impacts include 
+increased N2O and CH4 emissions and water pollution if fertilisers and nutrients run off, but these are limited 
+to a subset of practices. 
+The CO2 storage is reversible (non-permanent) and requires constant maintenance even after a sink 
+becomes saturated, potentially adding to the costs of this technology. 
+(v) Biochar 
+Biochar is charcoal produced by pyrolysis of biomass – in other words, heating it in the absence of oxygen – 
+and it can hold CO2 for many years. Biochar can be used as a soil additive to improve soil fertility and store 
+CO2 in soil. The practice is currently in limited use for improving soil quality due to a lack of incentives and 
+experience with large-scale plants. More research is needed to understand how the method performs 
+against the review criteria. 
+Biochar can remove around 0.3–2 GtCO2 per year by 2050 at a cost of US$90–$120/tCO2 removed. The 
+availability of biomass for biochar production is the main constraint to the CO2 removal potential of the 
+method. Both cost and CO2 removal potential estimates are highly uncertain as feedstock availability, 
+production technologies, and application strategies require more research. 
+Biochar has both positive and negative side effects. Biochar can increase yield, lower N2O and CH4 emissions, 
+and increase the water balance of soil, but these positive impacts vary with soil type, application method and 
+management conditions. One negative impact is that biochar can darken the colour of arable land and 
+decrease its albedo. As a result, more sunlight is absorbed by the soil, increasing the surface temperature. 
+Fine biochar particles blown by wind can decrease radiative forcing further, reducing the benefits of CO2 
+being sequestered by biochar. 
+The permanence of CO2 sequestration depends on temperature. The residence time varies from a few 
+decades in tropical and subtropical regions with high temperatures, to centuries in cooler regions. 
+(vi) Enhanced weathering 
+Enhanced weathering involves extensive use of carbonate and silicate rocks to accelerate geochemical 
+processes on land and in oceans. The process accelerates biogeochemical cycling which sequesters CO2 from 
+the atmosphere. Spreading the ground rock over land is already practised to counteract soil acidification and 
+could also help to reduce acidity of the oceans due to increased CO2 concentration.  
+Depending on the technique used, the CO2 removal potential could range from 2 to 4 GtCO2/year by 2050 at 
+a cost of US$50–$200/tCO2 removed. Reported CO2 removal potential in the literature varies widely and is 
+highly uncertain since it depends on a variety of assumptions and application characteristics. Research on 
+enhanced weathering is at a nascent stage and more evidence is needed on the advantages, disadvantages, 
+and economic and technical feasibility of the method employed at scale. 
+Enhanced weathering is considered to have low negative impacts, but these need to be studied more. The 
+application of large amounts of rock may have unforeseen impacts on soil properties and water sources, 
+affecting local ecosystems. The method requires the mining, grounding and spreading of large volumes of 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+38 
+minerals. The estimates range from 1 to 3 Gt of rock per GtCO2 removed, requiring large infrastructure 
+investments and mobilisation of resources. A positive impact is that it can serve as a nutrient source and 
+enhance soil quality and productivity, especially in tropical areas. This may increase the CO2 removal 
+potential of BECCS when both measures are used together, but the impact of the method on the carbon 
+content of biomass is poorly studied and needs more attention. 
+The sequestered CO2 would be stored permanently in soil or water. In low concentrations, weathering 
+products can be stored as alkalinity – in other worlds dissolved inorganic carbon. In high concentrations, 
+carbonate minerals can form and be stored in soil or washed out to sea, gravitating to the ocean floor.
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+39 
+Appendix 4 – Feasibility of NETs 
+Table 5 
+Overview of carbon removal potential, costs, constraints, and side effects of NETs 
+NET 
+Sustainable CO2 
+removal potential 
+per year in 2050 
+(GtCO2) 
+Cost in 2050 
+($/tCO2) 
+Constraints 
+Positive impacts 
+Negative impacts 
+Technical solutions 
+BECCS 
+0.5–5 
+(0.5–32 (2100)) 
+100–200 
+(15–400) 
+Land availability;  
+CO2 storage availability 
+- 
+Supply chain and LUC emissions; 
+water scarcity; soil depletion; 
+pollution due to fertiliser use; 
+impacts on food supply and land 
+tenure 
+DACCS 
+2050: 0.5–5 
+2100: up to 30 
+(0.5–30) 
+100–300 
+(30–1,000) 
+Capital cost; energy demand; 
+material and labour demand 
+for construction; water 
+demand (depends on 
+process) 
+- 
+Low CO2 concentrations in local 
+vegetation 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+40 
+NET 
+Sustainable CO2 
+removal potential 
+per year in 2050 
+(GtCO2) 
+Cost in 2050 
+($/tCO2) 
+Constraints 
+Positive impacts 
+Negative impacts 
+Nature-based solutions 
+Afforestation 
+and 
+reforestation 
+0.5–3.6 
+(0.5–17.9) 
+5–50 
+(2–237) 
+Land competition;  
+water and nutrients 
+requirements 
+Increases biodiversity (depends 
+on the case) 
+NOx emissions from nitrogen 
+fertilisers; changes in 
+evapotranspiration, albedo and 
+cloud cover; water scarcity 
+Soil carbon 
+sequestration 
+2.9–5.7 
+(0.4–13) 
+0–100 
+(-45–100) 
+Sink saturation;  
+land availability 
+Better soil quality and health; 
+food security 
+Higher N2O and CH4 emissions 
+and water pollution (limited to a 
+subset of practices 
+Biochar 
+0.3–2 
+(0.03–6.1)  
+90–120 
+(-173–225)  
+Biomass feedstock availability Higher yield; lower N2O and CH4 
+emissions; higher soil’s water 
+balance 
+Lower albedo and radiative 
+forcing 
+Enhanced 
+weathering 
+2–4 
+(0.2–88) 
+50–200 
+(15–1,000) 
+Mining, transport, and 
+utilisation of large amounts 
+of minerals; logistical costs 
+Nutrient source;  
+soil quality 
+Ecological impacts of mineral 
+extraction and transport 
+Note: 
+In columns 2 and 3, the main ranges come from Fuss et al. (2018) and are for 2050. The numbers in parentheses show the minimum and maximum values observed in 
+the wider literature and are not year-specific. Figure 12 and Figure 13 below present the ranges and sources in more detail. 
+Source: 
+Griscom et al. (2017); Martin et al. (2017); Psarras et al. (2017); EASAC (2018, 2019); Fuss et al. (2018); Realmonte et al. (2019); Reid, Ali and Field (2019)
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+41 
+Figure 12 The range of CO2 removal potential per year for each NET 
+ 
+Note: 
+The graph shows the range of CO2 removal potential estimates for each NET. The rectangular boxes are 
+the 2050 ranges from Fuss et al. (2018). The lines represent the wider estimates from the literature and 
+are not year-specific. 
+The letters represent estimates from the wider literature: A = EASAC (2018); B = EASAC (2019);  
+C = Keith et al. (2018); D = Martin et al. (2017); E = Psarras et al. (2017); F = Reid, Ali and Field (2019);  
+G = Smith et al. (2016); H = Realmonte et al., (2019); I = Fuss et al. (2018); J = Griscom et al. (2017). 
+                       Not all letters are presented in this graph, but they represent the same sources as in Figure 13. The 
+letters are the same to facilitate comprehensiveness. 
+                       If a letter is shown twice, it means that the source reports a range. 
+Source: 
+Vivid Economics, based on Table 5 above and other sources from the literature.  
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+42 
+Figure 13 The range of CO2 sequestration cost in 2050 for each NET 
+ 
+ 
+Note: 
+The graph shows the range of CO2 removal potential estimates for each NET. The rectangular boxes are 
+the 2050 ranges from Fuss et al. (2018). The lines represent the wider estimates from the literature and 
+are not year-specific. 
+The letters represent estimates from the wider literature: A = EASAC (2018); B = EASAC (2019);  
+C = Keith et al. (2018); D = Martin et al. (2017); E = Psarras et al. (2017); F = Reid, Ali and Field (2019);  
+G = Smith et al. (2016); H = Realmonte et al. (2019); I = Fuss et al. (2018); J = Griscom et al. (2017). 
+                       Not all letters are presented in this graph, but they represent the same sources as in Figure 12. The 
+letters are the same to facilitate comprehensiveness.  
+                       If a letter is shown twice, it means that the source reports a range. 
+Source: 
+Vivid Economics, based on Table 5 above and other sources from the literature. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+43 
+References 
+Amazon (2020a) Amazon Sustainability. 
+Amazon (2020b) As Part of Its Plan to be Net Zero Carbon by 2040, Amazon Commits $10 Million to Restore 
+and Conserve 4 Million Acres of Forest in the Appalachians and other U.S. Regions in Partnership with The 
+Nature Conservancy, Press release. 
+Ambrose, J. (2020) ‘Shell unveils plans to become net-zero carbon company by 2050’, The Guardian. 
+American University (2020) Carbon Removal Corporate Action Tracker, Institute for Carbon Removal Law and 
+Policy. 
+Apple (2020) Apple commits to be 100 percent carbon neutral for its supply chain and products by 2030. 
+Bass, D. (2020) Inside Microsoft’s Mission to Go Carbon Negative, Bloomberg. 
+BCG (2020) BCG’s Net-Zero Pledge. 
+Bentley, L. and Coomes, D. A. (2020) ‘Partial river flow recovery with forest age is rare in the decades 
+following establishment’, Global Change Biology, 26(3), pp. 1458–1473. doi: 10.1111/gcb.14954. 
+Bernier, P. and Bright, R. (2017) Albedo Effects of Biomass Production: a Review. 
+BP (2020) Our carbon offset project portfolio. 
+British Airways (2019) British Airways to offset carbon emissions on flights within the UK from 2020. 
+Bullard, S. H. and Straka, T. J. (2011) Basic concepts in forest valuation and investment analysis. 
+Caiazzo, F. et al. (2014) ‘Quantifying the climate impacts of albedo changes due to biofuel production: A 
+comparison with biogeochemical effects’, Environmental Research Letters, 9(2). doi: 10.1088/1748-
+9326/9/2/024015. 
+Carton, W. et al. (2020) ‘Negative emissions and the long history of carbon removal’, WIRES: Climate Change, 
+e671, pp. 1–25. doi: 10.1002/wcc.671. 
+Casey, J. P. (2020) More questions than answers: BP’s plan for net-zero emissions, Offshore Technology. 
+Catanoso, J. (2020) Success of Microsoft’s ‘moonshot’ climate pledge hinges on forest conservation, 
+Mongabay. 
+Ceres (2020) The Investor Guide to Deforestation and Climate Change. 
+Consoli, C. (2019) Bioenergy and carbon capture and storage. 
+Dalman, A. (2020) Carbon budgets: Where are we now?, Carbon Tracker. 
+Drax Group (2020) New BECCS pilot project under development at Drax Power Station, Biomass Magazine. 
+EASAC (2018) Negative emission technologies: What role in meeting Paris Agreement targets?, EASAC Policy 
+Report. 
+EASAC (2019) Forest bioenergy, carbon capture and storage, and carbon dioxide removal: an update. doi: 
+10.1080/14693062.2018.1509044. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+44 
+ECIU (2020) Net Zero Ambition Globally. Available at: https://eciu.net/analysis/infographics/global-net-zero-
+ambition. 
+EcoSecurities (2020) ‘International Offsets Newsletter’, (May). 
+Ecosystem Marketplace (2019a) EasyJet Says it’s Now Carbon Neutral. 
+Ecosystem Marketplace (2019b) Financing Emissions Reductions for the Future: State of the voluntary carbon 
+markets 2019. Washington, DC. 
+‘Energy Technology Perspectives 2017’ (no date). 
+Environment & Energy Leader (2020) P&G Says Global Operations to Be Carbon Neutral within the Decade. 
+EPA (2020) Carbon Dioxide Emissions Associated with Bioenergy and Other Biogenic Sources. Available at: 
+https://19january2017snapshot.epa.gov/climatechange/carbon-dioxide-emissions-associated-bioenergy-
+and-other-biogenic-sources_.html#:~:text=Biogenic CO2 emissions are,processing of biologically based 
+materials. 
+Evans, J. (2020) P&G urged to match best in class to avoid ‘greenwash’ label, Financial Times. 
+Fajardy, M. et al. (2019) BECCS deployment: a reality check, Grantham Institute. 
+FAO (2010) Bioenergy and Food Security: The BEFS Analytical, The Bioenergy and Food Security Project. 
+Rome. 
+Federici, S. et al. (2015) ‘New estimates of CO2 forest emissions and removals: 1990-2015’, Forest Ecology 
+and Management. Elsevier B.V., 352, pp. 89–98. doi: 10.1016/j.foreco.2015.04.022. 
+Ferguson, I. (2018) ‘Discount rates for corporate forest valuations’, Australian forestry, 3(81), pp. 142–147. 
+Fern (2018) Six problems with BECCS. 
+Fulton, M. (2020) Pathways to Net Zero: Scenario Architecture for strategic resilience testing and planning. 
+Fuss, S. et al. (2018) ‘Negative emissions - Part 2: Costs, potentials and side effects’, Environmental Research 
+Letters, 13(6). doi: 10.1088/1748-9326/aabf9f. 
+Geden, O. and Schenuit, F. (2020) Unconventional Mitigation: Carbon Dioxide Removal as a New Approach in 
+EU Climate Policy, Stiftung Wissenschaft und Politik. 
+Griscom, B. W. et al. (2017) ‘Natural climate solutions’, Proceedings of the National Academy of Sciences of 
+the United States of America. National Academy of Sciences, 114(44), pp. 11645–11650. doi: 
+10.1073/pnas.1710465114. 
+Gross, A., Hook, L. and Powley, T. (2019) ‘Boom times are back for carbon offsetting industry’, Financial 
+Times. 
+Henderson, K. et al. (2020) Climate math: What a 1.5-degree pathway would take, McKinsey Quarterly. 
+IAMC & IIASA (2019) IAMC 1.5°C Scenario Explorer hosted by IIASA (release 2.0). doi: 
+https://doi.org/10.5281/zenodo.3363345. 
+IEA (2019) ‘World Energy Outlook 2019’. 
+IIASA (2020) NGFS Scenario Explorer hosted by IIASA release 1.0. 
+IKEA (2019) What does being climate positive mean for IKEA? 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+45 
+IOM3 (2019) French energy provider Total announces forest project. 
+IPBES (2019) Global assessment report on biodiversity and ecosystem services of the Intergovernmental 
+Science-Policy Platform on Biodiversity and Ecosystem Services. Available at: https://ipbes.net/global-
+assessment. 
+IPCC (2018) Mitigation Pathways Compatible with 1.5°C in the Context of Sustainable Development. 
+IPR (2019a) Impacts of the inevitable policy response on equity markets. 
+IPR (2019b) The Inevitable Policy Response: Forecast Policy Scenario. 
+Keith, D. et al. (2018) ‘A Process for Capturing CO2 from the Atmosphere’, Joule. 
+Martin, D. et al. (2017) Carbon Dioxide Removal Options: a Literature Review Identifying Carbon Removal 
+Potentials and Costs. doi: 10.2307/j.ctt1ffjdpw.3. 
+Minx, J. C. et al. (2018) ‘Negative emissions - Part 1: Research landscape and synthesis’, Environmental 
+Research Letters, 13(6). doi: 10.1088/1748-9326/aabf9b. 
+Nestlé (2019) Nestlé accelerates action to tackle climate change and commits to zero net emissions by 2050. 
+NGFS (2020) Climate Scenarios Database: Technical Documentation. 
+Otley, T. (2020) Sustainability: British Airways aims for net zero emissions by 2050, Business Traveller. 
+Peters, A. (2019) Inside Apple’s plan to protect a 27,000-acre forest in Colombia, Fast Company. 
+Psarras, P. et al. (2017) ‘Slicing the pie: how big could carbon dioxide removal be ?’, WIREs Energy Environ, 
+e253, pp. 1–21. doi: 10.1002/wene.253. 
+Qantas (2019) Qantas group to slash carbon emissions. 
+Realmonte, G. et al. (2019) ‘An inter-model assessment of the role of direct air capture in deep mitigation 
+pathways’, Nature Communications. Springer US, 10(1), pp. 1–12. doi: 10.1038/s41467-019-10842-5. 
+Reid, W. V, Ali, M. K. and Field, C. B. (2019) ‘The Future of Bioenergy.’, Global change biology, (October 
+2019), pp. 274–286. doi: 10.1111/gcb.14883. 
+Science Based Targets (2020) Meet the companies already setting their emissions reduction targets in line 
+with climate science. 
+Shell (2019) Nature’s role in the fight against climate change. 
+Shell (2020a) Shell’s ambition to be a net-zero emissions energy business. 
+Shell (2020b) What is Shell’s net carbon footprint ambition? 
+Smith, B. (2020) Microsoft will be carbon negative by 2030, Official Microsoft Blog. 
+Smith, P. et al. (2016) ‘Biophysical and economic limits to negative CO2 emissions’, Nature Climate Change, 
+6(1), pp. 42–50. doi: 10.1038/nclimate2870. 
+‘State and Trends of Carbon Pricing 2020’ (2020). doi: 10.1596/978-1-4648-1586-7. 
+Summers, D., Bryan, B., Martin, N. and Hobbs, T. (2015) ‘The costs of reforestation: a spatial model of the 
+costs of establishing environmental and carbon plantings’, Land Use Policy, (44), pp. 110–121. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+46 
+The Committee on Climate Change (2011) Bioenergy Review. 
+The Committee on Climate Change (2018) Biomass in a low-carbon economy. 
+Total (2020) Total adopts a new climate ambition to get to net zero by 2050. 
+Turner, P. A. et al. (2018) ‘Unprecedented rates of land-use transformation in modelled climate change 
+mitigation pathways’, Nature Sustainability. Springer US, 1(5), pp. 240–245. doi: 10.1038/s41893-018-0063-
+7. 
+UN PRI (2019) Seven major companies that committed to net-zero emissions in 2019. 
+UNFCCC (2020) Commitments to Net Zero Double in Less Than a Year, UN Climate Press Release. 
+Verra (2020) ‘Data and Insights: VCS Quarterly Update, Issue #2 - Q1 2020’, Verra Reports. 
+Watson, F. (2020) Global carbon offsets market could be worth $200 billion by 2050: Berenberg, S&P Global 
+Platts. 
+Wise, L., Marland, E., Marland, G. et al. (2019) ‘Optimizing sequestered carbon in forest offset programs: 
+balancing accounting stringency and participation’, Carbon Balance Management, 14(16). doi: 
+https://doi.org/10.1186/s13021-019-0131-y. 
+World Bank (2020) State and Trends of Carbon Pricing 2020, World Bank Group. Washington, D.C.: World 
+Bank Group. 
+Zorrilla-Miras, P., Marcos, C., Mulligan, M., Giordano, R., Graveline, N., Máñez-Costa, M., Pengal, P., van der 
+Keur, P., Altamirano, M., Matthews, J. and Lopez-Gunn, E. (2018) ‘Nature Insurance value: Assessment and 
+Demonstration’, NAIAD project (European H2020), p. 19698. 
+ 
+ 
+ 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+ 
+47 
+Acknowledgements 
+ 
+ 
+ 
+ 
+ 
+ 
+This paper was funded by the Gordon and Betty 
+Moore Foundation through the Finance Hub, which 
+was created to advance sustainable finance. 
+ 
+An investor guide to negative emission technologies and the importance of land use 
+Contact us 
+Vivid Economics Limited 
+163 Eversholt Street  
+London NW1 1BU 
+United Kingdom 
+T: +44 (0)844 8000 254 
+enquiries@vivideconomics.com  
+Company profile 
+Vivid Economics is a leading strategic economics consultancy with global reach. We strive to create lasting 
+value for our clients, both in government and the private sector, and for society at large. 
+We are a premier consultant in the policy-commerce interface and resource- and environment-intensive 
+sectors, where we advise on the most critical and complex policy and commercial questions facing clients 
+around the world. The success we bring to our clients reflects a strong partnership culture, solid foundation 
+of skills and analytical assets, and close cooperation with a large network of contacts across key 
+organisations. 

@@ -1,0 +1,1822 @@
+ 
+ 
+ 
+On behalf of Hirwaun Power Ltd. 
+ 
+Project Ref: 28777 | Issue 02 | August 2014 
+ 
+ 
+Office Address: Caversham Bridge House, Waterman Place, Reading, Berkshire RG1 8DN 
+T: +44 (0)118 950 0761 F: +44 (0)118 959 7498 E: reading@peterbrett.com  
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy Issue 2 
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+ii 
+Document Control Sheet 
+Project Name: 
+Hirwaun Power Project 
+Project Ref:   
+28777-3001 
+Report Title:   
+Outline Lighting Strategy 
+Doc Ref: 
+  
+Issue 02 
+Date: 
+  
+August 2014 
+ 
+ 
+Name 
+Position 
+Signature 
+Date 
+Prepared by: 
+Neil Young 
+Environmental 
+Scientist 
+(N.Y) 
+07/02/2014 
+Reviewed by: 
+Jenny Allen 
+Associate 
+(J.A) 
+07/02/2014 
+Chris Leach 
+Associate 
+(C.L) 
+07/02/2014 
+Approved by: 
+Philip Wright 
+LLP Director 
+(P.W) 
+28/02/2014 
+For and on behalf of Peter Brett Associates LLP 
+ 
+Revision 
+Date 
+Description 
+Prepared
+Reviewed Approved
+Issue 2 
+15/08/2014 
+Baseline Update 
+EH 
+NY/JA 
+PW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Peter Brett Associates LLP disclaims any responsibility to the Client and others in respect of 
+any matters outside the scope of this report. This report has been prepared with reasonable 
+skill, care and diligence within the terms of the Contract with the Client and generally in 
+accordance with the appropriate ACE Agreement and taking account of the manpower, 
+resources, investigations and testing devoted to it by agreement with the Client. This report is 
+confidential to the Client and Peter Brett Associates LLP accepts no responsibility of 
+whatsoever nature to third parties to whom this report or any part thereof is made known. 
+Any such party relies upon the report at their own risk. 
+ 
+© Peter Brett Associates LLP 2014 
+Hirwaun Power Project 
+Outline Lighting Strategy Issue 2 
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+iii 
+Contents 
+Glossary of Terms ................................................................................................................................. 5 
+Executive Summary .............................................................................................................................. 7 
+1 
+Introduction ................................................................................................................................. 9 
+1.1 
+Background ................................................................................................................... 9 
+1.2 
+Site Location .................................................................................................................. 9 
+1.3 
+Proposed Project ........................................................................................................... 9 
+1.4 
+Scope of Work ............................................................................................................. 10 
+2 
+Policy and Guidance ................................................................................................................. 11 
+2.1 
+National Policy ............................................................................................................. 11 
+2.2 
+Wales Policy ................................................................................................................ 12 
+2.3 
+Local Policy ................................................................................................................. 12 
+2.4 
+Other Guidance ........................................................................................................... 13 
+2.5 
+Legislation ................................................................................................................... 14 
+3 
+Methodology .............................................................................................................................. 15 
+3.1 
+Establishment of Baseline ........................................................................................... 15 
+3.2 
+Outline Lighting Strategy ............................................................................................. 15 
+4 
+Existing Conditions................................................................................................................... 17 
+4.1 
+The Site ....................................................................................................................... 17 
+4.2 
+Existing Lighting .......................................................................................................... 19 
+4.3 
+Sensitive Receptors..................................................................................................... 22 
+4.4 
+Lighting Designation – ILP Guidance .......................................................................... 23 
+5 
+Lighting Requirements ............................................................................................................. 24 
+5.1 
+Introduction .................................................................................................................. 24 
+5.2 
+Demolition, Construction and Decommissioning Lighting Requirements ................... 24 
+5.3 
+Operational Lighting Requirements ............................................................................. 25 
+6 
+Design Objectives ..................................................................................................................... 27 
+6.1 
+Demolition, Construction and Decommissioning ......................................................... 27 
+6.2 
+Operation ..................................................................................................................... 28 
+7 
+Conclusions and Recommendations ...................................................................................... 31 
+References ........................................................................................................................................... 32 
+ 
+Tables 
+Table 3.1 Lighting classifications described in the ILP Guidance ......................................................... 16 
+Table 4.1 Existing Operational Lighting on Site .................................................................................... 19 
+Table 4.2 Street Lighting Surrounding the Site ..................................................................................... 21 
+Table 4.3 Existing Sensitive Receptors ................................................................................................. 22 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy Issue 2 
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+iv 
+Figures 
+Figure 4.1 Location of External Lighting on Site………………………………………………………........21 
+Figure 4.2 Type X1 (left) and X2 (right) Stree Lighting on Main Avenue………………………………... 21 
+Figure 4.3 Type X3 Street Lighting (left) on Fourth Ave and Type X2 Street Lighting (right) on 
+Fourteenth Ave Gas Connection ......................................................................................... 21 
+ 
+Appendices 
+Appendix A  Plans ................................................................................................................................. 33 
+Appendix B  LVIA Viewpoint 8 – Night-time Photographs ..................................................................... 34 
+Appendix C  Existing Lighting on Site .................................................................................................... 35 
+Appendix D  ILP Lighting Specifications for Zones E0 to E4 ................................................................. 44 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+5 
+Glossary of Terms   
+Bat Conservation Trust (BCT): The leading Non-Governmental Organisation or 
+charity devoted to the conservation of bats and the landscapes on which they rely; 
+ 
+Brecon Beacons National Park Authority: A non-governmental body setup to carry 
+out the statutory purposes and duty of National Parks as set out in the 1995 
+Environment Act; 
+Cutoff lighting system: A luminaire having a light distribution in which the candela 
+per 1000 lamp lumens does not numerically exceed 25 (2.5%) at or above an angle 
+of 90 deg above the nadir; 
+Development Consent Order (DCO) Application: the application for a DCO made 
+to the Secretary of State under section 37 PA 2008 in respect of the Project, required 
+pursuant to section 31 PA 2008 because the Project constitutes a Nationally 
+Significant Infrastructure Project under section 14 (1)(a) and section 15 PA 2008 by 
+virtue of being an onshore generating station in England or Wales of 50 MWe 
+capacity or more; 
+Department for Communities and Local Government (DCLG): UK Government 
+department responsible for UK policy in building regulations, community cohesion, 
+decentralisation, fire services and community resilience, housing, local government, 
+planning, race equality, the Thames Gateway and urban regeneration 
+Draft Development Consent Order (DCO): the draft DCO which accompanies the 
+DCO Application (Document Number 3.1); 
+Electrical Connection: a new underground electrical cable connection to export 
+electricity from the Power Generation Plant into the national electricity transmission 
+system at the Rhigos Substation (Work No. 5 in the Draft DCO);  
+Full cutoff lighting system: A term used to describe luminaires that have no direct 
+uplight (no light emitted above horizontal); 
+Gas Connections: a new underground gas pipeline connection to bring natural gas 
+to the Power Generation Plant from the existing high pressure gas network NTS in 
+the vicinity of the proposed Project Site including the Above Ground Installation (AGI) 
+for the gas pipeline at the point of connection to the NTS, as well as a new 
+permanent access to the AGI (Works No. 3 & 4 in the Draft DCO); 
+High Pressure Sodium Lantern:  a gas-discharge lamp that uses sodium in an 
+excited state to produce light at high pressure with other elements such as mercury; 
+Institution of Lighting Professionals: The UK and Ireland's largest lighting 
+association, dedicated solely to excellence in lighting; 
+Landscape and Visual Impact Assessment (LVIA) looks at the landscape and 
+visual aspects of a proposed development; 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+6 
+Low Pressure Sodium Lantern: a gas-discharge lamp that uses sodium in an 
+excited state to produce light. These lamps have a borosilicate glass gas discharge 
+tube containing solid sodium, a small amount of neon, and argon gas in a Penning 
+mixture to start the gas discharge; 
+Post-curfew: After the time when stricter requirements (for the control of obtrusive 
+light) will apply. If not otherwise stated, 23.00 hours is suggested. 
+Power Generation Plant Site: the site of the Power Generation Plant (Work No. 2 in 
+the Works Plan); 
+Power Generation Plant: a Simple Combined Gas Turbine gas fired ‘peaking’ power 
+generating plant capable of providing up to 299 MWe (Work No. 2 in the Draft DCO); 
+Pre-Curfew: Before the time when stricter requirements (for the control of obtrusive 
+light) will apply. If not otherwise stated, 23.00 hours is suggested. 
+Project Site: the site of the Project corresponding to the Order Limits of the Draft 
+DCO; 
+Project: the Power Generation Plant, the Electrical Connection and the Gas 
+Connection together; 
+Rhondda Cynon Taf County Borough Council (RCT): The governing body for the 
+borough of Rhondda Cynon Taf; 
+Semi cutoff lighting system: A luminaire having a light distribution in which the 
+candela per 1000 lamp lumens does not numerically exceed 50 (5%) at or above an 
+angle of 90 deg above the nadir; 
+Simple cycle gas turbine (SCGT): The generating technology used for the Power 
+Generation Plant. A gas plant technology system comprising Gas Turbine(s) fuelled 
+by natural gas. The hot exhaust gases are routed directly to the stack without 
+passing through a secondary steam turbine; 
+ 
+Site of Importance for Nature Conservation (SINC): An area of local importance 
+for nature conservation protected by planning policy; 
+ 
+Site of Special Scientific Interest (SSSI): A geological or biological conservation 
+designation denoting a protected area in the United Kingdom; 
+ 
+SOX: Low Pressure Sodium Lantern. 
+ 
+SON: High Pressure Sodium Lantern, 
+ 
+Special Area of Conservation (SAC): Areas of protected habitats and species as 
+defined in the European Union's Habitats Directive (92/43/EEC); 
+ 
+The Developer: means Hirwaun Power Limited; 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+7 
+Executive Summary 
+Peter Brett Associates LLP (PBA) has been commissioned by Hirwaun Power Ltd. 
+(HPL) to develop an Outline Lighting Strategy for a new Power Generation Plant, 
+Electrical Connection and Gas Connection on land at the Hirwaun Industrial Estate, 
+Hirwaun, Rhondda Cynon Taf, south Wales (hereafter referred to as the proposed 
+Project). 
+The proposed Project is entirely within the administrative boundary of Rhondda 
+Cynon Taf County Borough Council and lies 250 m south of the Brecon Beacons, an 
+area that is administered by the Brecon Beacons National Park Authority. 
+The Power Generation Plant Site is currently occupied by industrial units which are 
+owned and operated by International Greetings UK Ltd. Land over which the 
+Electrical Connection is situated is characterised by minor roads and hardstanding 
+within Hirwaun Industrial Estate. Land over which the Gas Connection route corridor 
+would cross is hardstanding, agricultural land, improved grassland and semi-natural 
+habitats. 
+A qualitative assessment of the existing levels of lighting in the area has been 
+established through a Site survey undertaken on 14th August 2014, desk based 
+review of daytime photographs and aerial photography. 
+The site is currently not used to its full capacity. The current occupier’s main 
+operation is undertaken from Building 1. Buildings 3, 4 and 6 are currently not in use. 
+No operational external lighting was identified on Building 4 and 6. 
+The main sources of external artificial lighting include metal halide security lighting, 
+and fluorescent tubes in the service yard. Most external lighting is currently not in use 
+and considered sub-standard for existing operations and would result in obtrusive 
+lighting (sky glow and light spill) typical for lights of their age. 
+A viewpoint in the National Park was specifically examined during the night-time to 
+assess the visual effects of existing artificial lighting within the Site on the Brecon 
+Beacons National Park. Street lighting and security lighting within the settlement of 
+Hirwaun and Hirwaun Industrial Estate were visible at night-time. However, no glare 
+or sky-glow was perceived at this distance.   
+The three main elements of the proposed Project comprise: 
+(a) simple cycle gas turbine power generation plant capable of providing 50 - 299 
+MWe (the Power Generation Plant);  
+(b) an integral underground electrical cable connection line to export electricity 
+from the power generation plant into the National Grid at Rhigos Substation; 
+and  
+(c) an integral underground gas connection to bring natural gas to the power 
+generation plant from the existing high pressure gas network (including an 
+above ground installation and new access).  
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+8 
+The proposed Project Site and surrounding areas are considered to be located in a 
+rural area of low district brightness and therefore falls within ILP Environmental 
+Zone E2. This is with the exception of a Special Area of Conservation (SAC), Site of 
+Special Scientific Interest (SSSI), two Sites of Importance for Nature Conservation 
+(SINC) and the Brecon Beacons National Park. All of these designated sites are 
+considered to be natural areas that are intrinsically dark and lie within ILP 
+Environmental Zone E1. 
+The Outline Lighting Strategy for the proposed Project Site is based on a number of 
+design objectives that consider national, regional and local planning policies, and 
+light sensitive receptors identified by guidance documents. 
+A key design objective of the Outline Lighting Strategy is that lighting levels should 
+not normally exceed levels above the ILP classification that has been defined for that 
+area. 
+Additional design objectives of this Outline Lighting Strategy relate to good practice 
+measures during demolition, construction and decommissioning. 
+Overall, the lighting design should result in less light trespass and light spill from the 
+existing sources of lighting on the proposed Project Site. The potential for obtrusive 
+light to arise from the proposed Project is negligible if the design objectives identified 
+in this report are adopted and the limits in the recommended ILP environmental 
+zones can be achieved.  
+Specific design objectives to minimise the adverse effects of lighting through 
+operation will be controlled by terms of the DCO and during demolition, construction 
+and decommissioning through the Environmental Management Plan. 
+On the basis of this assessment and subject to the incorporation of the 
+recommendations set out in this report, it is considered that external lighting should 
+not pose a material constraint to the Proposed Development. 
+This Executive Summary contains an overview of the key findings and 
+conclusions. However, no reliance should be placed on any part of the 
+executive summary until the whole of the report has been read. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+9 
+1 
+Introduction  
+1.1 
+Background 
+1.1.1 Peter Brett Associates LLP (PBA) has been commissioned by Hirwaun Power 
+Ltd. (HPL) to develop an Outline Lighting Strategy for a new Power 
+Generation Plant, Electrical Connection and Gas Connection (hereafter 
+referred to as the proposed Project) on land at the Hirwaun Industrial Estate, 
+Hirwaun, Rhondda Cynon Taf, South Wales. 
+1.1.2 The proposed Project constitutes a Nationally Significant Infrastructure Project 
+(NSIP) and therefore the Outline Lighting Strategy will support the 
+development consent order (DCO) for submission to the Secretary of State 
+(the DCO Application). 
+1.1.3 A Lighting Design will be prepared during the Detailed Design stage of the 
+proposed Project when further information is available. The Lighting Design 
+will follow the recommendations that have been set-out in this Outline Lighting 
+Strategy. This is likely to form part of the requirements of the DCO. 
+1.2 
+Site Location  
+1.2.1 Hirwaun Industrial Estate is located adjacent to the A465 Heads of the Valley 
+dual carriageway and is approximately 29 miles north-west of Cardiff and 5 
+miles west of Merthyr Tydfil. The industrial estate lies entirely in the county 
+borough of Rhondda Cynon Taf. 
+1.2.2 The proposed Power Generation Plant site is in a central location within 
+Hirwaun Industrial Estate. It occupies an area of approximately 9.4 hectares 
+and is centred on Grid Reference (NGR) SN 938 061. The Gas Connection 
+route corridor is approximately 900 m in length between the Power Generation 
+Plant Site and its connection to the National Transmission System to the 
+south. The Electrical Connection route is approximately 680 m in length 
+between the Power Generation Plant Site and the new Rhigos Substation to 
+the west. A Location Plan of the proposed Project Site is provided in 
+Appendix A of this document (outline strategy environmental zone plan). 
+1.3 
+Proposed Project 
+1.3.1 The proposed Project consists of a Power Generation Plant, Gas Connection 
+and Electrical Connection. These three elements are all integral to the 
+generation of electricity and the subsequent export of that electricity to the 
+National Grid. The DCO Application includes the whole of the proposed 
+Project. 
+1.3.2 The three main elements of the proposed Project are shown in Appendix A of 
+this document (outline strategy environmental zone plan) and comprise:  
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+10 
+ A simple cycle gas turbine power generation plant capable of providing 50 
+- 299 MWe (the Power Generation Plant);  
+ 
+ an integral underground electrical cable connection line to export electricity 
+from the power generation plant into the National Grid at Rhigos 
+Substation; and  
+ 
+ an integral underground gas connection to bring natural gas to the power 
+generation plant from the existing high pressure gas network (including an 
+above ground installation and new access).  
+ 
+1.3.3 A more detailed description of the lighting infrastructure associated with the 
+development is provided in Section 5. 
+1.4 
+Scope of Work  
+1.4.1 This report describes a qualitative assessment of the existing levels of 
+external lighting in and surrounding the proposed Project Site and establishes 
+ambient night-time Environmental Zone classifications set out in the Institution 
+of Lighting Professionals (ILP) guidelines (ILP, 2011). 
+1.4.2 The potential requirement for external lighting arising from the operational 
+phases of the proposed Project is also considered, with obtrusive light control 
+measures recommended where appropriate. 
+1.4.3 The temporary effect of external lighting during the demolition, construction 
+and decommissioning stages of the proposed Project is only considered in 
+outline. This is because the location of this lighting by its nature is uncertain, 
+depending on the detailed programming of works. Nevertheless, obtrusive 
+light control measures are recommended, where relevant, for both temporary 
+activities and during operation of the proposed Project. 
+1.4.4 The recommendations set out in this report will be used to prepare a detailed 
+Lighting Design for the proposed Project Site during the Detailed Design 
+stage.  
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+11 
+2 
+Policy and Guidance  
+2.1 
+National Policy  
+2.1.1 Section 104 of the Planning Act (2008) provides that in making decisions on 
+DCO applications, the Secretary of State must have regard to any relevant 
+National Planning Statements (NPS) and must decide applications in 
+accordance with it unless the adverse impacts of the proposal would outweigh 
+its benefits (or in certain other limited circumstances).  
+2.1.2 The NPS that is most relevant to the consideration of the DCO Application for 
+the proposed Project in terms of the lighting strategy is EN-1. 
+NPS EN-1 (Dust, odour, artificial light, smoke, steam and insect 
+infestation) 
+2.1.3 Paragraph 5.6.5: “Assessment in the ES should describe: 
+ the type, quantity and timing of emissions; 
+ aspects of the development which may give rise to emissions; 
+ premises or locations that may be affected by the emissions; 
+ effects of the emission on identified premises or locations;  
+ and measures to be employed in preventing or mitigating the 
+emissions” 
+2.1.4 Paragraph 5.6.7: “The IPC [Secretary of State] should satisfy itself that: 
+ an assessment of the potential for artificial light, dust, odour, smoke, 
+steam and insect infestation to have a detrimental impact on amenity 
+has 
+been 
+carried 
+out; 
+and 
+ 
+ that all reasonable steps have been taken, and will be taken, to 
+minimise any such detrimental impacts.” 
+ 
+Landscape and visual (NPS EN-1) 
+ 
+2.1.5 In relation to developments outside nationally designated areas which might 
+affect them the following paragraphs apply. 
+2.1.6 Paragraph 5.9.12: “The duty to have regard to the purposes of nationally 
+designated areas also applies when considering applications for projects 
+outside the boundaries of these areas which may have impacts within them. 
+The aim should be to avoid compromising the purposes of designation and 
+such projects should be designed sensitively given the various siting, 
+operational, and other relevant constraints” 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+12 
+2.1.7 Paragraph 5.9.11 continues: “The fact that a proposed project will be visible 
+from within a designated area should not in itself be a reason for refusing 
+consent” 
+2.2 
+Wales Policy 
+2.2.1 Planning Policy Wales (Edition 5, November 2012) (PPW) and Associated 
+Technical Advice Notes (TAN) sets out the land use planning policies of the 
+Welsh Government (WG) and is supplemented by 21 topic based Technical 
+Advice Notes (TANs).  
+2.2.2 Chapter 13 (Minimising and Managing Environmental Risks and Pollution), 
+Section 13.13 (Reducing noise and light pollution) states:  
+“13.13.2: There is a need to balance the provision of lighting to enhance safety 
+and security to help in the prevention of crime and to allow activities like sport 
+and recreation to take place with the need to:  
+ protect the natural and historic environment including wildlife; 
+ retain dark skies where appropriate; 
+ prevent glare and respect the amenity of neighbouring land uses; and 
+ reduce the carbon emissions associated with lighting. 
+Lighting to provide security can be particularly important in rural areas” 
+“13.15.3 Local authorities can attach conditions to planning permissions for 
+new developments that include the design and operation of lighting systems 
+(for example, requiring energy-efficient design) and prevent light pollution.”  
+2.3 
+Local Policy 
+Rhondda Cynon Taf Local Development Plan up to 2021 (2011) 
+2.3.1 The Rhondda Cynon Taf Local Development Plan up to 2021 was adopted by 
+the Council in March 2011 and sets out “.....the framework for decisions to be 
+made up until 2021 on how land is used in the County Borough, for example 
+what type of development is appropriate or desirable and how best to protect 
+our environment”. 
+2.3.2 Policy AW10 (Environmental Protection and Public Health) “Development 
+proposals will not be permitted where they would cause or result in a risk of 
+unacceptable harm to health and / or local amenity because of…(3) Light 
+Pollution …or any other identified risk to the environment, local amenity and 
+public health or safety unless it can be demonstrated that measures can be 
+taken to overcome any significant adverse risk to public health, the 
+environment and/or impact upon local amenity.” 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+13 
+Brecon Beacons National Park International Dark Sky Reserve - Lighting 
+Management Plan 
+2.3.3 The Brecon Beacons National Park has duties under the Environment Act to 
+protect the special qualities of the National Park and also is designated as an 
+International Dark Sky Reserve. The management plan for the Dark Sky 
+Reserve forms a base document of advice and recommendations for the 
+Brecon Beacons National Park Authority. 
+2.3.4 The Brecon Beacons National Park Authority has set guidance for lighting 
+levels within 5 miles of the park boundary called an External Zone. 
+2.3.5 Typical Obtrusive Light recommendations for the External Zone include: 
+ ILP Environmental Zone E1 (ILP, 2011) – for lamp lumens > 20,000 
+(includes the use of full cut-off installations). 
+ ILP Environmental Zone E2 (ILP, 2011) - For 5 miles beyond park 
+boundary limit with rural setting (includes the use of semi-Cut-off 
+installations). 
+2.4 
+Other Guidance  
+2.4.1 The Institution of Lighting Professionals (ILP) Guidance Notes for the 
+Reduction of Obtrusive Light (2011) provides advice on lighting including the 
+recommendation to local planning authorities to specify Environmental Zones 
+for exterior lighting based on the existing external lighting levels in the area. 
+These documents also provide design guidance including maximum lighting 
+level limits for each ambient night-time Environmental Zone – focusing on sky 
+glow light intrusion (into windows) and glare (intensity) in particular. 
+2.4.2 The Department for Communities and Local Government (DCLG) Guidance 
+on Lighting in the Countryside: Towards Good Practice (1997) provides advice 
+on the assessment of lighting schemes in the countryside and recommends 
+good practice measures for England and Wales. The document provides 
+advice on the principles of lighting and the effects on people and the 
+environment; gives guidance on how to prepare, design and assess lighting 
+schemes 
+and 
+suggests 
+how 
+local 
+authorities 
+can 
+implement 
+the 
+recommendations within their policies. 
+2.4.3 The document Assessment of the Problem of Light Pollution from Security and 
+Decorative Light produced by Temple and NEP Lighting Consultancy on 
+behalf of Defra is a summary of current legislation and guidance relating to 
+external artificial lighting. The document is aimed at providing advice to 
+English and Welsh local authority officers on assessing whether lighting is 
+causing a statutory nuisance, and providing advice on how to mitigate such 
+impacts. 
+2.4.4 The Bat Conservation Trust document Bats and Lighting in the UK (May, 
+2009) is designed to provide guidance on general principles of lighting to 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+14 
+mitigate adverse effects on areas where bats are known to be present and / or 
+commuting to feeding areas. The document sets out advice for bat workers 
+and lighting designers to ensure that both parties work together to achieve the 
+most effective solution in delivering an appropriate lighting solution whilst 
+minimising the adverse effects on bats. 
+2.4.5 The Bat Conservation Trust (BCT) – Statement on the Impact and Design of 
+Artificial Light on Bats. A supplemental to the May 2009 document cited 
+above, this statement summarises the key issues associated with bats and 
+artificial lighting, as well as summarising the main mitigation methods to 
+reduce the adverse effects of lighting. 
+2.5 
+Legislation  
+2.5.1 The Clean Neighbourhoods and Environment Act 2005 (CNEA) amended the 
+Environmental Protection Act 1990 to include within section 79 (statutory 
+nuisance) “…artificial light emitted from premises so as to be prejudicial to 
+health or a nuisance…” Therefore since 6 April 2006, artificial light can be 
+considered to be a statutory nuisance. If a light nuisance is considered by a 
+local authority to exist, the local authority must serve a notice on the person 
+responsible requiring the abatement of the nuisance, and/or restricting or 
+prohibiting its recurrence. Public street lighting is not considered as a statutory 
+nuisance. 
+2.5.2 Section 62(2) of the Environment Act 1995 imposes a duty on all public bodies 
+(including The Rhondda Cynon Taf County Borough Council) to have regard 
+to National Park purposes when making their decisions or carrying out 
+activities in relation to or so as to affect land within a National Park. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+15 
+3 
+Methodology 
+3.1 
+Establishment of Baseline 
+3.1.1 The lighting baseline at the proposed Project Site has been established from a 
+site survey, consultation with the current site owner and a desk based study of 
+daytime 
+photographs 
+and 
+aerial 
+photography 
+of 
+the 
+existing 
+industrial/distribution complex.   
+3.1.2 The current site owner was consulted and a site walkover undertaken on 12th 
+August 2014. During the daytime (16:20-19.00hrs) the weather conditions 
+were variable with some sunny spells and cloud with intermittent rain showers.  
+3.1.3 Sunset was at 20:34 and the night-time survey was undertaken between 21:40 
+and 00:20hrs. The weather conditions at night-time were also variable. The 
+survey was undertaken during a dry period and a bright waning gibbous moon 
+and stars were clearly visible.  
+3.1.4 Establishing the existing external lighting baseline allows the impacts of the 
+proposed Project to be compared and/or combined with the existing quality of 
+the ambient night-time lighting environment. This will ensure an informed 
+qualitative assessment of the potential impacts and allow the identification of 
+the most appropriate mitigation which could be employed to minimise any 
+adverse impacts. 
+3.1.5 Viewpoint 8 from the Landscape and Visual Impact Assessment (LVIA) 
+[Document reference 6.1.0 Section 11] within the Brecon Beacons National 
+Park to the north of the Site was also examined during the night-time survey 
+on 12th August 2014 to assess the visual effects of existing artificial lighting 
+from the existing Site. 
+3.1.6 The lighting baseline of the proposed Project Site has also been related to the 
+definitions of various ambient night-time ‘Environmental Zones’ for lighting 
+which are set out in the ILP guidance note on the reduction of obtrusive light 
+(2011). 
+3.1.7 The ILP guidance classifies various environments into five ambient night-time 
+Environmental Zones (E0 to E4), based on the nature and extent of artificial 
+lighting that is present in an area. The definition of each classification is set out 
+in Table 3.1 below and, in the absence of quantitative measurement the 
+descriptors provide the best tool for classifying a given locality in terms of the 
+existing lighting environment. 
+3.2 
+Outline Lighting Strategy  
+3.2.1 The Outline Lighting Strategy for the proposed Project Site is based on a 
+number of design objectives (see Section 6) designed to limit obtrusive light to 
+light sensitive receptors (see Section 4.3) while considering national, regional 
+and local planning policies (see Section 2). 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+16 
+Table 3.1 Lighting classifications described in the ILP Guidance 
+Zone 
+Surrounding 
+Lighting 
+Environment 
+Examples 
+E0 
+Protected 
+Dark 
+UNESCO Starlight 
+Reserves, IDA Dark Sky 
+Parks 
+E1 
+Natural 
+Intrinsically dark 
+National Parks, Areas of 
+Outstanding Natural Beauty 
+etc. 
+E2 
+Rural 
+Low district 
+brightness 
+Village or relatively dark 
+outer suburban locations 
+E3 
+Suburban 
+Medium district 
+brightness 
+Small town centres or 
+suburban locations 
+E4 
+Urban 
+High district 
+brightness 
+Town/city centres with high 
+levels of night- time activity 
+ 
+3.2.2 The following three components of artificial light in open spaces contribute to 
+the potential for obtrusive light: 
+ Sky glow – this is the general illumination of the night sky above 
+conurbations and any areas where there are large amounts of artificial 
+light. It comprises aspects of reflected light from illuminated surfaces, direct 
+upward light from lighting installations and spill light, which is light which 
+falls outside the specific area to be lit.  
+ Glare – this is the brightness of a light source when viewed against a dark 
+background. Glare is most often experienced when the light source itself 
+(i.e. the bulb or tube) is directly visible and is not covered by a shield, cowl 
+or directed by a suitable lens / reflector arrangement.  
+ Light Intrusion (or ‘trespass’) is light which affects areas beyond those 
+which are supposed to be lit by a particular source and which, depending 
+on the nature of the receptor affected, has the potential to cause nuisance 
+and disturbance.  
+3.2.3 General principles considered to prevent obtrusive light and protect the 
+sensitive receptors surrounding the proposed Project Site have been provided 
+in this Outline Lighting Strategy. A Lighting Design for the proposed Project 
+will subsequently be prepared. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+17 
+4 
+Existing Conditions 
+4.1 
+The Site 
+Summary Site Description 
+4.1.1 The proposed Project is entirely within the administrative boundary of 
+Rhondda Cynon Taf County Borough Council (RCTCBC), although it is also 
+lies 250 m south of the Brecon Beacons, an area that is administered by the 
+Brecon Beacons National Park Authority (BBNPA).  
+4.1.2 The Power Generation Plant Site would be situated entirely within the Hirwaun 
+Industrial Estate. The Industrial Estate currently accommodates several 
+industrial units including a metal recycling facility and an industrial plant hire 
+business. The  Power Generation Plant Site is currently occupied by industrial 
+units which are owned and operated by International Greetings UK Ltd. The 
+largest unit being 300 m in length and 10 m high.    
+4.1.3 The Power Generation Plant Site is accessed via Main Avenue and Fourth 
+Avenue, which both run through the Hirwaun Industrial Estate. These roads 
+connect to Thirteenth Avenue and Fifth Avenue respectively, which in turn 
+connect to Rhigos Road (to the south of the  Power Generation Plant Site). 
+4.1.4 Land over which the Electrical Connection is situated is characterised by 
+minor roads (Main Avenue and Fourteenth Avenue) and hardstanding within 
+Hirwaun Industrial Estate. 
+4.1.5 Land over which the Gas Connection route corridor would cross is initially 
+similar to the Power Generation Plant Site (i.e. industrial in nature) although 
+the final two thirds of the route run through agricultural land, improved 
+grassland and semi-natural habitats. The route includes one major road 
+crossing, two minor road crossings, no major water crossings (i.e., Main 
+Rivers) and four minor water crossings (e.g. field drains). 
+4.1.6 Existing development in the area that is of relevance to the assessment 
+include the National Grid 400kV Rhigos substation extension (ref. 10/0113/10) 
+to the north-west of the proposed Project Site which at the time of writing this 
+report is in the process of being built. 
+Visual Amenity 
+4.1.7 A LVIA [Document reference 6.1.0 Section 11] has been undertaken for the 
+proposed Project Site and has identified potential for effects on visual amenity 
+at night-time from publically accessible viewpoints to the north of the proposed 
+Project Site in the Brecon Beacons National Park. It should be noted however 
+that many views from public road and footpaths are partially screened by 
+vegetation. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+18 
+4.1.8 Viewpoint 8 of the LVIA was specifically examined during the night-time to 
+assess the visual effects of existing artificial lighting within the Site on the 
+Brecon Beacons National Park. The view was widely screened by seasonal 
+vegetation. In order to allow better views towards the site, additional 
+photographs were taken just south of LVIA Viewpoint 8. The photographs 
+undertaken during the survey of viewpoint 8 are included in Appendix B. 
+Street lighting and security lighting within the settlement of Hirwaun and 
+Hirwaun Industrial Estate were visible at night-time. However, no glare or sky-
+glow was perceived at this distance during the night-time survey.    
+4.1.9 The Brecon Beacons National Park is designated as an International Dark Sky 
+Reserve. Any views from the National Park are not considered to be from the 
+Core Zone of the Dark Sky Reserve. However, the proposed Project Site falls 
+within an ‘External Zone’ designated as five miles from the National Park 
+boundary. 
+Ecology 
+4.1.10 An Ecological Assessment, has been undertaken for the proposed Project Site 
+the findings of which are docemented in the Environmental Statement 
+[Document reference 6.1.0 Section 8]. The assessment confirms that the 
+habitat provided by the existing buildings on the Power Generation Plant site 
+is of local importance for bats. The identified bats are  sensitive to external 
+lighting. 
+4.1.11 The proposed Gas Connection crosses agricultural land, improved grassland 
+and some semi-natural habitats, part of which is designated as Hirwaun 
+Common Site of Importance for Nature Conservation (SINC).  Bats have also 
+been recorded foraging and commuting within these areas.  Streams and 
+ponds within this area are also used by foraging otters. 
+4.1.12 To the north-east of the proposed Project Site is Blaen Cynon, an area of wet 
+grassland, wet heath, bog pools and swamp that is designated as a Special 
+Area of Conservation (SAC) and Site of Special Scientific Interest (SSSI).  The 
+SAC is designated for supporting a substantial population of marsh fritillary 
+butterfly. 
+4.1.13 To the north-west of the proposed Project Site, close to the Rhigos substation, 
+the Industrial Estate gives way to marshy, waterlogged grassland comprising 
+some rushes and reeds. This area is outside of the proposed Project Site but 
+is designated as a Site of Importance for Nature Conservation (SINC). The 
+habitats support breeding birds and bats that are potentially sensitive to 
+lighting impacts. 
+ 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+19 
+4.2 
+Existing Lighting 
+Proposed Power Generation Plant Site 
+4.2.1 The site is currently not used to its full capacity. The current occupier’s main 
+operation is undertaken from Building 1. Buildings 3, 4 and 6 are currently not 
+in use. No operational external lighting was identified on Building 4 and 6. 
+4.2.2 The main sources of external artificial lighting include metal halide security 
+lighting, fluorescent tubes in the service yard to the north and low level 
+emergency exit lighting over doorways. Most external lighting is currently not 
+in use and considered sub-standard for existing operations and would result in 
+obtrusive lighting (sky glow and light spill) typical for lights of their age. 
+4.2.3 According to the current site owner there are 26 metal halide security lights on 
+site only eight of which are currently operational. The lights identified during 
+the survey are illustrated in figure 4.1. A further eight lights are being repaired 
+and will soon return into service, before winter when the seasonal business 
+undertaken is more intensive, and days are shorter. 
+4.2.4 Table 4.1 shows the type of lighting recorded during the site walkover:  
+Table 4.1 Existing Operational Lighting on Site 
+Type 
+Identifier 
+Type 
+Location  
+Height 
+(approx.) 
+Directionality 
+Power* 
+A 
+White, 
+Double-
+Asymmetrical 
+Metal Halide,  
+North and East 
+Side of 
+Building 1 
+5.5 m 
+Down facing 
+(<70°) 
+150 Watt 
+B1 
+Black 
+Asymmetrical 
+Metal Halide, 
+(tube) 
+South and 
+East Side of 
+Building 1 
+5.5 m 
+Down facing 
+(<70°) 
+Data not 
+available 
+B2 
+Black 
+Asymmetrical 
+Metal Halide,  
+(bulb) 
+Building 1 
+Near reception
+5.5 m 
+Down facing 
+(<70°) 
+150 Watt 
+C 
+Black 
+Asymmetrical 
+Metal Halide 
+with aged 
+cover 
+Security 
+Building Gate 
+1 
+2.5 m 
+Down facing 
+(>70°) 
+Data not 
+available 
+D 
+Fluorescent 
+tubes 
+Building 1 
+Service Yard 
+to the North, 
+underneath 
+roof 
+5.5 m 
+Down facing, 
+shielded by roof 
+125 Watts 
+E 
+Emergency 
+Exit light tube 
+North Site of 
+Building 1 
+2.5 m 
+Horizontal, 180° 
+Data not 
+available 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+20 
+Type 
+Identifier 
+Type 
+Location  
+Height 
+(approx.) 
+Directionality 
+Power* 
+F 
+Emergency 
+Exit light bulb 
+South Side 
+2.5 m 
+Horizontal, 180° 
+Data not 
+available 
+G 
+Amenity 
+Lighting at 
+Entrance 
+Doors 
+Building 3 
+2.5 m 
+Horizontal, 360° 
+Data not 
+available 
+* Information provided by current owner 
+4.2.5 The car park to the south of Main Road is not illuminated except for existing 
+Street Light on Main Avenue (see further information below).  
+4.2.6 The figures shown in Appendix C illustrate the main types of lighting found on 
+Site as well as the eight external lights that were operational on the date of the 
+survey.  
+4.2.7 Figure 4.1 shows the locations of the existing security lighting within the site. 
+ 
+Figure 4.1: Location of External Lighting on Site 
+4.2.8 The current site owner stated that the external security lights are computer 
+operated and programmed to switch on at 10pm, which is outside of the 
+operating hours of the Site. 
+Electrical Connection (Street Lighting on Main Avenue/ Fourteenth Avenue) 
+4.2.9 The Street Lighting on Fourteenth and Fourth Avenue adjacent to the site 
+boundary was not operational on the day of the survey.  
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+21 
+4.2.10 A description of public Street Lighting on roads surrounding the Site is shown 
+in Table 4.2 and Figures 4.2 to 4.3. 
+Table 4.2 Street Lighting Surrounding the Site 
+Type Identifier 
+Type (A/B/C) 
+Location  
+Height  
+(approx. m) 
+Directionality 
+X1 
+High-Pressure 
+Sodium 
+Main Avenue 
+8 m 
+Down facing <70°
+X2 
+Low-Pressure 
+Sodium 
+Fourteenth 
+Avenue, Main 
+Avenue 
+8 m 
+Down facing <70°
+X3 
+Heritage Style 
+Fourth Avenue  
+4.5 m 
+Horizontal, 360° 
+shielded towards 
+sky  
+ 
+ 
+Figure 4.2: Type X1 (left) and X2 (right) Street Lighting on Main Avenue 
+ 
+  
+ 
+Figure 4.3 Type X3 Street Lighting (left) on Fourth Ave and Type X2 Street Lighting (right) on Fourteenth Ave Gas Connection 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+22 
+4.2.11 The proposed route of the Gas Connection crosses Rhigos Road south of the 
+Power Generation Plant Site. Rhigos Road is not illuminated with street 
+lighting and so it is thought that it will remain a relatively dark corridor as it is 
+enclosed by trees that screen the corridor from light from the industrial site to 
+the north. This is with the exception of a small gap in the trees to be created 
+level where new bus stop will be located, corresponding to the route of the 
+proposed gas pipeline and its root protection requirements. 
+4.2.12 The Gas Connection crosses arable fields, improved grassland and semi-
+natural habitats further south where there is no external lighting and it is 
+assumed that the area would naturally be dark. It is thought that any light 
+sources would be screened by vegetation but sky glow would be visible on the 
+horizon to the north from the industrial estate. 
+4.2.13 The Above Ground Installation is located adjacent to the A4061 (Rhigos Road) 
+that is not illuminated by street lighting and so it is assumed that the area is 
+relatively dark, although lighting will be visible and sky glow possible from the 
+industrial estate to the north. 
+4.3 
+Sensitive Receptors 
+4.3.1 Receptors and locations with the potential to be sensitive to lighting 
+associated with the proposed Project and existing sources of obtrusive lighting 
+on the proposed Project Site are listed in Table 4.3. The locations have been 
+identified in accordance with the frameworks set out in the guidance 
+documents reviewed as part of this assessment (see Section 2.3). 
+Table 4.3 Existing Sensitive Receptors 
+Receptor 
+Information 
+Existing local residents 
+(off-Site)  
+Existing residents at Rhigos (1.3km south west); 
+Hirwaun (1.4km east); Penderyn (1.8km north); 
+Pen Y Waun (3.5km east); and Aberdare (5km 
+east).  
+Motorist, cyclists & 
+pedestrians 
+Using the Main Avenue, Fourteenth Avenue, 
+Rhigos Road and the A4061 (Rhigos Road). 
+Visual amenity 
+View from the Brecon Beacons National Park 
+International Dark Sky Reserve. 
+Ecology 
+Habitats for nesting birds, otters and bats.  
+Bats are particularly sensitive to light and 
+therefore, any new lighting can affect social flying; 
+and change feeding behaviour (some are 
+attracted to lighting but others are not).. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+23 
+4.4 
+Lighting Designation – ILP Guidance 
+4.4.1 The ILP guidance classifies various environments into five environmental 
+zones (E0 to E4), based on the nature and extent of artificial lighting that is 
+present. The definition of each classification is set out in Table 3.1 and, in the 
+absence of quantitative measurement the descriptors provide the best tool for 
+classifying a given locality in terms of the existing lighting environment. 
+ 
+4.4.2 Referring to Section 4.2 and in the context of the Site and the surroundings, 
+which is located in a relatively rural area of low district brightness and the 
+‘external zone’ of the Brecon Beacons National Park Dark Sky Reserve, it is 
+reasonable to conclude that the proposed Project Site lies within the following 
+zone: 
+ Lighting Zone E2 (Rural) Low district brightness 
+4.4.3 This is with the exception of a SAC/SSSI to the north-east, two Sites of 
+Importance for Nature Conservation (SINC), one of which is immediately to 
+the north of the proposed Project Site and the other to the south which is 
+crossed by the proposed Gas Connection. These are considered to be natural 
+areas that are intrinsically dark and so it is reasonable to conclude that they lie 
+within the following zone:  
+ Lighting Zone E1 (Natural) of Intrinsically Dark Lighting Environment 
+4.4.4 The land at the boundary of the Brecon Beacons National Park is not within 
+the core zone of the Dark Sky Reserve. However, it is considered to be a 
+natural area that is intrinsically dark and so it is reasonable to conclude that it 
+lies within the following zone: 
+ Lighting Zone E1 (Natural) of Intrinsically Dark Lighting Environment 
+4.4.5 An Environmental Zone Plan showing the location of the ambient night-time 
+Environmental Zones is shown in Appendix A. 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+24 
+5 
+Lighting Requirements 
+5.1 
+Introduction 
+5.1.1 Lighting during demolition, construction, decommissioning of the proposed 
+Project Site may have different effects on sensitive receptors than lighting 
+required during operation of the proposed Project Site. Therefore, the lighting 
+requirements of these phases of the proposed Project are described 
+separately in Sections 5.2 and 5.3.  
+5.2 
+Demolition, Construction and Decommissioning Lighting Requirements 
+5.2.1 Lighting during demolition, construction and decommissioning is likely to be 
+focused around either end of the pipelines, the secured entrance, site offices, 
+compounds, welfare facilities, parking, laydown area (south of Main Avenue), 
+fuel and plant storage areas.  
+5.2.2 However, task specific lighting to aid working in the dark (or more likely 
+evening and morning working during the winter months) will be more variable 
+and will vary according to the phase of the demolition, construction or 
+decommissioning programme, weather conditions and the particular tasks 
+being undertaken. This is particularly true during installation of the 
+underground Electrical Connection and the underground Gas Connection, 
+where temporary activities take place, (This can include topsoil stripping, pipe 
+stringing and welding, trench excavation, pipe laying, back filling and re-
+instatement of the land) depending on the progress of the open-cut pipeline. It 
+is assumed that watercourses around the Gas Connection will not be lit during 
+the evening, overnight or early morning (i.e. outside approximately one hour 
+before dusk and one hour after dawn). 
+5.2.3 Generally speaking, the demolition, construction and decommissioning of 
+lighting facilities tends to lead to more obtrusive lighting (glare, light trespass 
+and sky glow) than operational lighting because of its temporary nature, and 
+the type of lighting equipment used. For ease of deployment and use, lighting 
+tends to be mobile, and focus on providing the widest coverage of light from 
+the fewest possible units – in order to minimise time spent maintaining and 
+installing the equipment. This, along with the fact that it is often inadequately 
+directed or installed, can result in problems with obtrusive light unless 
+appropriately controlled. 
+5.2.4 Lighting associated with vehicles or cranes can similarly result in adverse 
+effects for similar reasons. In addition, vehicles often deploy flashing lights and 
+strobes when operating which can cause additional adverse effects, and this is 
+particularly relevant here, because of its urban location and the proximity of 
+parts of the Site to sensitive receptors. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+25 
+5.3 
+Operational Lighting Requirements 
+5.3.1 Operational lighting is required throughout the Site for operational activities; to 
+prevent crime and meet set safety standards. During operation, it is likely that 
+the following distinct requirements for lighting associated with the development 
+will emerge, although this will be confirmed during the Detailed Design 
+process. 
+Power Generation Plant 
+5.3.2 The Power Generation Plant would include between one and five simple cycle 
+gas turbines (SCGT) and these items of plant are likely to require external 
+lighting as maintenance activities could be undertaken during the day and 
+night-time. 
+5.3.3 The exhaust gasses and waste heat from the power generation plant would be 
+discharged to the atmosphere by a 30-35 m stack for each of the SCGTs. The 
+stacks are under the threshold requiring safety lighting to prevent contact with 
+aircraft and so will not be illuminated. 
+5.3.4 Additional plant required to support the Power Generation Plant include a 
+demineralised process water tank, a raw/fire water tank and a blackstart diesel 
+generator. It is not expected that these items of plant will require external 
+lighting.  
+5.3.5 An administration building, control building; workshop and store building will 
+be required to support the workforce who will operate and maintain the Power 
+Generation Plant. It is likely that lighting columns will be required to illuminate 
+access tracks and walkways, ‘courtesy’ lights to illuminate building entrances 
+and external security lighting to improve safety and security around the 
+buildings. 
+5.3.6 A Switchyard/Banking Compound containing up to eight transformers and 
+other equipment to connect the electrical infrastructure from the Power 
+Generation Plant to transformers before export to the National Grid will require 
+column mounted lighting positioned outside of the security fencing.  
+5.3.7 A Natural Gas Receiving Station and Compound will feed the Site of the 
+proposed Power Generation Plant and will include a control and 
+instrumentation kiosk. It is likely the instrumentation kiosk will require internal 
+lighting to complete maintenance activities. The Natural Gas Compound will 
+require column mounted lighting positioned outside of the security fencing. 
+5.3.8 Security infrastructure will be required including security cameras, perimeter 
+fencing and a gatehouse at the main entrance to provide safety and security 
+and restrict and log site attendance, deliveries etc. It is likely that the access 
+road in front of the gatehouse will need to be illuminated to maintain the safety 
+of staff and allow the secure recognition of vehicles and visitors. Other site 
+accesses will also require similar security lighting. It should be noted that this 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+26 
+lighting already exists on the proposed Project Site but will be upgraded during 
+construction. 
+5.3.9 Lighting infrastructure will be required around internal roadways and parking 
+areas to maintain the safety of site operatives during operational hours only, 
+and to reduce the risk of accidents throughout the night. 
+5.3.10 It is proposed that the permissive path between the Power Generation Plant 
+and the bus stop on Rhigos Road will be retained for operatives of the Power 
+Generation Plant to use. Lighting on along the route of the path may need to 
+be provided to reduce the fear of crime. The lighting will also consider the 
+sensitivity of the area for bats. 
+Electrical Connection 
+5.3.11 The underground electrical connection will have no operational lighting 
+requirements. 
+Gas Connection 
+5.3.12 The underground gas pipeline that forms part of the Gas Connection will have 
+no operational lighting requirements. 
+5.3.13 The proposed Above Ground Installation will require lighting to illuminate the 
+access track, internal footways, instrumentation and electrical kiosks to 
+provide safe access during operation (pre-curfew) in the hours of darkness. 
+Security lighting and cameras will also be required (post-curfew) as the facility 
+is in a remote location. The Ecological Management Plan as detailed in 
+Requirement 10 and the Lighting Strategy required by Requirement 16 of 
+Schedule 2 of the Development Consent Order would ordinarily need to have 
+regard to the ecological sensitivity of the area. 
+  
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+27 
+6 
+Design Objectives 
+6.1 
+Demolition, Construction and Decommissioning 
+General Design Objectives 
+6.1.1 The general design objectives that will be used to ensure that adverse effects 
+of lighting associated with demolition, construction and decommissioning of 
+the proposed Project are minimised are listed below: 
+ Design luminaires for the task at hand. Use louvres and shields to prevent 
+undesirable light break-out. 
+ Demolition and Construction lighting will be directed away from all the 
+sensitive receptors identified in Table 4.3. 
+ Preference will be given to several lower lighting units rather than tall, wide 
+beam lighting units to illuminate large areas as it will limit light trespass, 
+glare and sky glow from the plant. 
+ Vehicle lights will be properly directed (conforming to MOT requirements) 
+and lenses must be intact to prevent unnecessary glare and light intrusion. 
+ Lighting will be reduced or switched off when not required for safety 
+purposes. Security lighting will be kept at the minimum level needed for 
+visual and security protection.  
+ If appropriate, the use of infra-red floodlighting and CCTV systems will be 
+considered for security to reduce the need for visible lighting outside 
+working hours. These technologies reduce potential adverse effects of 
+artificial lighting.  
+6.1.2 These measures to minimise the adverse effects of demolition, construction 
+and decommissioning of lighting will be included within the Environmental 
+Management Plan so they can be controlled during demolition, construction 
+and decommissioning activities.  
+6.1.3 The above design objectives will be considered when developing the phased 
+demolition, construction and decommissioning programmes to prevent 
+obtrusive light affecting the adjoining areas beyond the proposed Project Site.  
+Ecological Design Objectives 
+6.1.4 Specific ecological design objectives that will be implemented through the 
+Ecological Management Plan submitted pursuant to a requirement on the 
+DCO to ensure that adverse effects of lighting associated with demolition, 
+construction and decommissioning of the proposed Project are minimised are 
+listed below: 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+28 
+ All lighting related to the works will be designed and fitted to minimise light 
+spillage onto any sensitive habitat.  The Lighting Design will be reviewed 
+by a suitably qualified Ecologist; 
+ There should be no light intrusion beyond the boundary of the proposed 
+Project Site and particularly within the SINC to the north of the proposed 
+Project Site. 
+ Where possible, there will be no night-time working outside of standard 
+working hours within Hirwaun Common SINC while construction and 
+decommissioning of the Gas Connection and Above Ground Installation 
+takes place. 
+ No task lighting will be used at night-time between the Power Generation 
+Plant to the north and the proposed laydown area (in the existing car park) 
+to the south of the Power Generation Plant to avoid fragmentation of 
+habitats at night-time. 
+ 
+The use of temporary lighting to illuminate the route along the proposed 
+Gas Connection will be minimized to avoid fragmentation of habitats used 
+by bats (at dusk, dawn and during night-time). 
+ Dark corridors will be maintained during the evening, overnight or early 
+morning (i.e. outside approximately one hour before dusk and one hour 
+after dawn) along hedgerows, watercourses and any other linear features 
+by avoiding light trespass on these areas. This will avoid the fragmentation 
+of habitat used by species such as bats and otters. 
+6.2 
+Operation  
+ILP Environmental Zone 
+6.2.1 The key design objective to this Outline Lighting Strategy is that the Lighting 
+Design for the proposed Project Site will specify lighting that is able to achieve 
+the limits set for obtrusive lighting set for the ILP ambient night-time 
+Environmental Zones. These limits are provided in Appendix D. 
+6.2.2 Below is a summary of the ILP Environmental Zones that will be maintained 
+ The proposed Project Site – ILP Environmental Zone E2; and 
+ Two Sites of Importance for Nature Conservation (SINC) one of which is 
+within the route of the proposed Gas Connection - ILP Environmental Zone 
+E1 
+General Design Objectives 
+6.2.3 General design objectives to ensure the restrictions on obtrusive light 
+(intrusion and glare) associated with the ambient night-time Environmental 
+Zone for that location can be achieved are listed below and will be taken into 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+29 
+consideration in the Design Principals Statement and, prior to construction  
+preparation of the Lighting Design: 
+ Lighting will be located away from sensitive receptors (identified in Section 
+4.3) wherever possible. 
+ Minimising light break-out above the horizontal using ‘full cutoff’, ‘cutoff’ 
+and ‘semi-cutoff’ lighting systems where required. This is achieved through 
+ensuring the lighting units are correctly placed and also by placing them at 
+a height such that they can be directed downwards rather than horizontally. 
+ Lighting will be designed to avoid reflectance from buildings and plant – so 
+external lighting will be mounted onto buildings or on lighting stands and 
+directed to the area where it is needed rather than facing building facades. 
+ Building facades will be in matt finishes and use dark colours for those 
+parts of buildings and structures that are close to light sources. 
+ Where the existing pale concrete slab is retained, it will be surfaced with 
+dark gravel where possible to reduce the reflective nature of the surface.  
+ Reducing external lighting levels outside working hours (post-curfew) to 
+levels suitable for maintaining safety and security. 
+ For security lighting, the use of infrared lighting and cameras will be 
+considered where possible to reduce the need for visible lighting outside 
+working hours (post-curfew). 
+ 
+ Use of automated devices to switch lights on and off according to 
+activity/ambient light levels. 
+6.2.4 A detailed lighting impact assessment, using computational modelling if 
+necessary, will be undertaken during detailed design to evaluate the lighting 
+specifications at the Power Generation Plant to ensure that the correct lighting 
+levels can be achieved where technically possible. 
+Visual Amenity Design Objectives 
+6.2.5 As the proposed Project Site is within the Brecon Beacons National Park Dark 
+Sky Reserve, the Lighting Design will include the following recommendations 
+as set in the Dark Sky Reserve Management Plan for facilities within 5 miles 
+of National Park boundary, called the External Zone:  
+ Lamp lumens > 20,000 - Use ILP Environmental Zone E1 (ILP, 2011) and 
+include the use of full cut-off installations. 
+ Other lamps – Use ILP Environmental Zone E2 (ILP, 2011) – and include 
+the use of Semi-Cut-off installations. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+30 
+Ecological Design Objectives 
+6.2.6 No working in Hirwaun Industrial Estate Site of Importance for Nature 
+Conservation. 
+6.2.7 Lighting within Hirwaun Common Site of Importance for Nature Conservation 
+(SINC) will remain within the limits set by ILP ambient night-time zone E1 to 
+minimise obtrusive light on habitats likely to be of particular value to breeding 
+birds and foraging or commuting bats. This is particularly relevant to the 
+Above Ground Installation where the Gas Connection connects to the national 
+network. 
+6.2.8 General principles to ensure that adverse effects of lighting on bats are 
+mitigated are listed below and will be taken into consideration during 
+preparation of the lighting design (Bat Conservation Trust, 2009) for all areas 
+of the proposed Project Site: 
+ All lighting will be designed and fitted to minimise light spillage onto any 
+suitable habitat. The Lighting Design will be reviewed by a suitably 
+qualified Ecologist; 
+ 
+ Bat roosts – Existing bat roosts and the proposed replacement roost 
+structure to the north-west of the Power Generation Plant will not be 
+directly illuminated (currently none identified on Site). 
+ 
+ Foraging and Commuting –  
+ 
+o The type of light – the impact on bats can be minimised by the use 
+of low pressure sodium lights or high pressure sodium instead of 
+mercury or metal halide lights. 
+o Luminaire - Lighting units will be directed to where the illumination 
+is needed to avoid light spill. 
+o Lighting column – The height of columns will be as short as 
+possible as light at a low level reduces ecological impact.                                     
+o Light levels – The light will be as low as is permitted when 
+considering health and safety and security guidelines. 
+o Timing of lighting – the times during which the lighting is on will be 
+limited to provide some dark periods. 
+ Security  
+ 
+o Sensors – If well installed and aimed, lighting with movement 
+sensors will reduce the amount of time a light is on each night. 
+ 
+6.2.9 Aim – The light will be aimed to illuminate only the immediate area required by 
+using as sharp a downward angle as possible (see guidance above). 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+31 
+7 
+Conclusions and Recommendations 
+7.1.1 The baseline study demonstrates that the existing lighting environment of the 
+Power Generation Plant is of older inadequately orientated lighting resulting in 
+obtrusive light (glare and light trespass) to surrounding land uses and sky glow 
+to the night sky.  
+7.1.2 The Electrical Connection is illuminated with a mixture of older SOX and 
+newer SON street lighting with sky glow and light spill typical of these lanterns. 
+The Gas Connection is in a dark unlit corridor. It is thought that sky glow would 
+be visible on the horizon to the north from Hirwaun Industrial Estate. 
+7.1.3 However, overall the proposed Project Site and surrounding areas are 
+considered to be located in a rural area of low district brightness and therefore 
+falls within ILP Environmental Zone E2. 
+7.1.4 This is with the exception of a SAC/SSSI, two Sites of Importance for Nature 
+Conservation (SINC) and the Brecon Beacons National Park. These are 
+considered to be natural areas that are intrinsically dark and lie within ILP 
+Environmental Zone E1. 
+7.1.5 The development of land at the proposed Project Site will replace the existing 
+older obtrusive lighting with new sources of light during operation. A key 
+design objective of this Outline Lighting Strategy is that the new lighting will be 
+designed to meet the limits for obtrusive light defined by the Environmental 
+Zones.  
+7.1.6 With this in mind the assessment concludes that the potential for significant 
+obtrusive light to arise from the development is negligible if the design 
+objectives (including ecology and visual amenity) are adopted and the limits in 
+the recommended ILP environmental zones can be achieved.  
+7.1.7 Overall, by setting an ILP lighting zone for the proposed Project Site, there will 
+be an improvement on the existing baseline. Appendix D presents the ILP 
+guidance on ambient night-time lighting levels.  
+7.1.8 A Lighting Design will be prepared during the Detailed Design stage to take 
+into consideration the receptors and design objectives that have been 
+identified within this report. 
+7.1.9 Specific design objectives to minimise the adverse effects of lighting through 
+operation will be controlled by terms of the Design Principals Statement and 
+during 
+demolition, 
+construction 
+and 
+decommissioning 
+through 
+the 
+Environmental Management Plan and Ecological Management Plan. 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+32 
+References 
+Bat Conservation Trust (2009) Bats and Lighting in the UK. Bats and the Built 
+Environment Series. 
+ 
+Document reference 6.1.0 Section 8- Parsons Brinkerhoff - Hirwaun Power Project 
+Environmental Statement – Ecological Assessment. Bristol. 
+ 
+Document reference 6.1.0 Section 11- Parsons Brinkerhoff, Hirwaun Power Project 
+Environmental Statement – Landscape and Visual Impact Assessment. Bristol. 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+33 
+Appendix A  
+Plans 
+ 
+ Outline Lighting Strategy – Environmental Zone Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+34 
+Appendix B  
+LVIA Viewpoint 8 – Night-time 
+Photographs 
+ 
+ 
+Dawn, Viewpoint 8, View partially screened by vegetation  
+ 
+ 
+ 
+No Night-time photograph available 
+ 
+ 
+ 
+ 
+ 
+View towards Hirwaun Industrial Estate, approx. 15 m down the road south of LVIA Viewpoint 8 
+(Dawn) 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+35 
+ 
+ 
+View towards Hirwaun Industrial Estate, approx. 15 m down the road south of LVIA Viewpoint 8 
+(Night-time)
+ 
+ 
+Existing Lighting on Site 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+36 
+ 
+Figure 0.1: Type A, located on south east corner of Bldg. 1 
+ 
+Figure 0.2: Type B1, near reception, south side of Bldg. 1 
+ 
+Figure 0.3: Type B2, located on West side of Bldg. 3 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+37 
+ 
+Figure 0.4: Type C, located on north side of Security Building (Gate 1) 
+ 
+Figure 0.5: Type D, located in Service Yard (north side of Bldg. 1) 
+ 
+Figure 0.6: Type E located on north and east side of Bldg. 1 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+38 
+ 
+Figure 0.7: Type F located on south site of Bldg. 1 
+ 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+39 
+ 
+ 
+ 
+Figure 0.8: Type G Amenity lighting at access doors on Bldg. 3 
+ 
+ 
+Figure 0.9: North-east corner of Security Bldg 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+40 
+ 
+Figure 0.10: Security Light type B1 on South side of Bldg 1, near reception 
+ 
+Figure 0.11: Type A and B light on south west corner of building 1 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+41 
+ 
+Figure 0.12: Type A light on north west corner of Bldg. 1 
+Figure 0.13: Type A lighting at south-west corner of Bldg 1 
+ 
+Figure 0.14: Type A light on North-side of Building (near tank) 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+42 
+ 
+Figure 0.15: Type D lights on north side of Building (Service Yard). 
+ 
+Figure 0.16: Lighting as seen from Gate 1 
+ 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+43 
+ 
+Figure 0.17: View down Main Avenue, facing east-bound from Gate 1 
+Hirwaun Power Project 
+Outline Lighting Strategy
+ 
+ 
+ 
+J:\28777\Lighting\Reports\28777 Hirwaun_Outline Lighting Strategy Report_140815njc 
+and MD edits EH clean version.docx 
+44 
+Appendix C  
+ILP Lighting Specifications for Zones 
+E0 to E4 
+Environmental 
+Zone 
+Sky Glow ULR 
+[Max%] 
+Light intrusion 
+(into Windows) 
+Ev [Lux] 
+Luminaire 
+Intensity I 
+[candelas] 
+Building 
+Luminance 
+pre-curfew 
+Pre 
+Curfew
+Post 
+Curfew
+Pre 
+Curfew
+Post 
+Curfew 
+Average 
+L [cd/m
+2
+] 
+E0 
+0 
+0 
+0 
+0 
+0 
+0 
+E1 
+0 
+2 
+0(1*) 
+2500 
+0 
+0 
+E2 
+2.5 
+5 
+1 
+7500 
+500 
+5 
+E3 
+5.0 
+10 
+2 
+10,000
+1,000 
+10 
+E4 
+15 
+25 
+5 
+25,000
+2,500 
+ 
+Definitions 
+ULR = Upward Light Ratio of the Installation is the maximum permitted percentage of 
+luminaire flux for that goes directly into the sky. 
+Ev = Vertical Illuminance in Lux and is measured flat on the glazing at the centre of the 
+window 
+I = Light Intensity in Cd 
+L = Luminance in Candelas per Square Metre Cd/m2 
+Curfew = The time after which stricter requirements (for the control of obtrusive light) will 
+apply; often a condition of use of lighting applied by the local planning authority.  
+(1) Upward Light Ratio – Some lighting schemes will require the deliberate and careful use 
+of upward light – e.g. ground recessed luminaires, ground mounted floodlights, festive 
+lighting – to which these limits cannot apply. However, care should always be taken to 
+minimise any upward waste light by the proper application of suitably directional luminaires 
+and light controlling attachments. 
+(2) Light Intrusion (into Windows) – These values are suggested maxima and need to 
+take account of existing light intrusion at the point of measurement. In the case of road 
+lighting on public highways where building facades are adjacent to the lit highway, these 
+levels may not be obtainable. In such cases where a specific complaint has been received, 
+the Highway Authority should endeavour to reduce the light intrusion into the window down 
+to the post curfew value by fitting a shield, replacing the luminaire, or by varying the lighting 
+level. 
+(3) Luminaire Intensity – This applies to each source in the potentially obtrusive direction, 
+outside of the area being lit. The figures given are for general guidance only and for some 
+sports lighting applications with limited mounting heights, may be difficult to achieve. 
+(4) Building Luminance – This should be limited to avoid over lighting, and related to the 
+general district brightness. In this reference building luminance is applicable to buildings 
+directly illuminated as a night-time feature as against the illumination of a building caused by 
+spill light from adjacent luminaires or luminaires fixed to the building but used to light an 
+adjacent area. 
+Reproduced from the ILP Publication: Guidance Notes for the Reduction of Obtrusive Light – 
+ILP, GN01:2011 
+ 
+ 

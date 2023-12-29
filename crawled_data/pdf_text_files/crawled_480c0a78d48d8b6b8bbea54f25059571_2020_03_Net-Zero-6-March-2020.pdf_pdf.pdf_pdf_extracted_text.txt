@@ -1,0 +1,1664 @@
+NET ZERO
+Opportunities for the power sector
+March 2020
+2
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The Commission 
+3
+Executive summary 
+5
+Recommendations from the National Infrastructure Assessment 
+8
+Modelling approach 
+13
+Net zero power systems with electrification of heat 
+16
+Net zero power systems with decarbonised gas heating 
+28
+Annex 1: Key assumptions 
+35
+Annex 2: Hydrogen and BECCS 
+36
+Annex 3: Resource constraints 
+40
+Endnotes 
+41
+Contents
+3
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The Commission’s remit
+The Commission provides the government with impartial, expert advice on major long term 
+infrastructure challenges. Its remit covers all sectors of economic infrastructure: energy, transport, 
+water and wastewater (drainage and sewerage), waste, flood risk management and digital 
+communications. While the Commission considers the potential interactions between its infrastructure 
+recommendations and housing supply, housing itself is not in its remit. Also out of the scope of the 
+Commission are social infrastructure, such as schools, hospitals or prisons, agriculture, and land use
+The Commission’s objectives are to support sustainable economic growth across all regions of the UK, 
+improve competitiveness, and improve quality of life. 
+The Commission delivers the following core pieces of work: 
+z 
+a National Infrastructure Assessment once in every Parliament, setting out the Commission’s 
+assessment of long term infrastructure needs with recommendations to the government
+z 
+specific studies on pressing infrastructure challenges as set by the government, taking into 
+account the views of the Commission and stakeholders, including recommendations to 
+government
+z 
+an Annual Monitoring Report, taking stock of the government’s progress in areas where it has 
+committed to taking forward recommendations of the Commission.
+The Commission’s binding fiscal remit requires it to demonstrate that all its recommendations for 
+economic infrastructure are consistent with, and set out how they can be accommodated within, gross 
+public investment in economic infrastructure of between 1.0% and 1.2% of GDP each year between 2020 
+and 2050. The Commission’s reports must also include a transparent assessment of the impact on costs 
+to businesses, consumers, government, public bodies and other end users of infrastructure that would 
+arise from implementing the recommendations.
+When making its recommendations, the Commission is required to take into account both the role of 
+the economic regulators in regulating infrastructure providers, and the government’s legal obligations, 
+such as carbon reduction targets or making assessments of environmental impacts. The Commission’s 
+remit letter also states that the Commission must ensure its recommendations do not reopen decision 
+making processes where programmes and work have been decided by the government or will be 
+decided in the immediate future.
+The Commission’s remit extends to economic infrastructure within the UK government’s competence 
+and will evolve in line with devolution settlements. This means the Commission has a role in relation to 
+non-devolved UK government infrastructure responsibilities in Scotland, Wales and Northern Ireland 
+(and all sectors in England). 
+The Infrastructure and Projects Authority (IPA), a separate body, is responsible for ensuring the long 
+term planning carried out by the Commission is translated into successful project delivery, once the 
+plans have been endorsed by government.
+The Commission
+4
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The Commission’s members
+Sir John Armitt CBE (Chair) published an independent review on long term infrastructure planning in 
+the UK in September 2013, which resulted in the National Infrastructure Commission. Sir John is the Chair 
+of National Express Group and the City & Guilds Group. He also sits on the boards of the Berkeley Group 
+and Expo 2020.
+Dame Kate Barker sits on the boards of Taylor Wimpey plc and Man Group plc. She also chairs the Jersey 
+Fiscal Policy Panel, is the Chairman of Trustees at the British Coal Staff Superannuation Scheme, and a 
+member of the Geospatial Commission. She was an external member of the Bank of England’s Monetary 
+Policy Committee from 2001 to 2010.  In April 2020, she will become Chair-elect of the Universities 
+Superannuation Scheme.
+Professor Sir Tim Besley CBE is School Professor of Economics and Political Science and W. Arthur 
+Lewis Professor of Development Economics at the LSE. He served as an external member of the Bank of 
+England Monetary Policy Committee from 2006 to 2009. 
+Professor David Fisk CB is the Director of the Laing O’Rourke Centre for Systems Engineering and 
+Innovation Research at Imperial College London. He has served as Chief Scientist across several 
+government departments including those for environment and transport, and as a member of the Gas 
+and Electricity Markets Authority.
+Andy Green CBE holds several Chair, Non-Executive Director and advisory roles, linked by his passion 
+for how technology transforms business and our daily lives. He chairs Lowell, a major European credit 
+management company and has served as Chair of the Digital Catapult, an initiative to help grow the UK’s 
+digital economy. 
+Bridget Rosewell CBE is a director, policy maker and economist. She served as Chief Economic Adviser 
+to the Greater London Authority from 2002 to 2012 and worked extensively on infrastructure business 
+cases. She is a Non-executive Director at Network Rail, Chair of the Atom Bank and Non-executive Chair 
+of the Driver and Vehicle Standards Agency.
+Professor Sadie Morgan OBE is a founding director of the Stirling Prize winning architectural practice 
+dRMM. She is also Chair of the Independent Design Panel for High Speed Two and one of the Mayor 
+of London’s Design Advocates. She sits on the boards of the Major Projects Association and Homes 
+England.
+Julia Prescot is a co-founder and Chief Strategy Officer of Meridiam and sits on the Executive 
+Committee of Meridiam SAS. She has been involved in long term infrastructure development and 
+investment in the UK, Europe, North America and Africa. Since 2019 she has sat on the board of the Port 
+of Tyne.
+5
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Putting the UK on the pathway to a highly renewable electricity system is 
+the best way to deliver low cost low carbon electricity for the UK.
+The net zero target makes this more urgent than ever.
+In June 2019 the government raised the UK’s ambition on tackling climate change by legislating for a net 
+zero greenhouse gas emissions target for the whole economy by 2050.1 Decarbonising the power sector 
+is integral to achieving this goal. Good progress has been made. Power sector emissions have fallen 
+by around 53 per cent in the past decade,2 and government has played a central role in supporting this 
+reduction. The government’s ambition to deploy 40 GW of offshore wind by 2030 is another welcome 
+step. This positive progress must continue. 
+Delivering low carbon electricity while keeping costs affordable to consumers is key. Currently the 
+average energy bill is around £1,200 per year3, with electricity making up around £600 of this,4 and 
+energy bills make up on average 4 per cent of household expenditure.5 For households in the bottom 10 
+per cent of the income distribution this increases to 8 per cent.6 
+Clearly, there is a lot of uncertainty when considering the UK in 2050. Accuratley knowing how people 
+are going to heat their homes or move around cities and towns 30 years from now is an unachievable 
+task. But uncertainty is not an excuse for inaction. It simply underlines the need to maintain optionality 
+and flexibility in how the UK power system evolves.
+That is why, in the National Infrastructure Assessment, the Commission set out clear, robust and 
+achievable actions for government to take in the near term to support the decarbonisation of the power 
+sector. These actions focused on setting the UK on the pathway to a highly renewable system. This is the 
+best way to reduce emissions, keep costs low, and maintain optionality in a rapidly changing sector.
+Modelling of the total cost of the power system in a net zero economy, carried out for the Commission 
+by Aurora Energy Research,7 demonstrates that increasing the proportion of renewables on the system 
+does not materially impact the cost of the system. Future system costs may even be lower if action is 
+taken to test the feasibility of deploying hydrogen turbines, an emerging technology for the power 
+sector. 
+Executive summary
+6
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 1: Costs of net zero power systems (average annual costs from 2030 to 2050)
+0
+10
+20
+30
+40
+50
+60
+70
+60%
+70%
+80%
+90%
+Total electricity system costs £bn (2016)
+Proportion of renewables
+Baseline
+With hydrogen turbines
+Note: the costs at 70% renewables  have been estimated and not modelled. 
+Table 1: Scenarios, cost and level of nuclear deployment
+Level of renewable 
+penetration in 2050 
+Total system costs (£2016)
+Nuclear capacity deployed 
+in addition to already 
+contracted capacity 
+60 per cent 
+£59bn
+24 GW, approximately 7 Hinkley 
+Point C sized plants. 
+80 per cent
+£59bn
+7 GW, approximately 2 Hinkley 
+Point C sized plants. 
+90 per cent
+£53bn
+3 GW, approximately, 1 Hinkley 
+Point C sized plant.
+Recommendations from the National Infrastructure 
+Assessment
+The analysis and insights summarised in this paper reaffirm the case for the Commission’s 
+recommendation to deliver at least 50 per cent renewable generation by 2030, as part of the transition 
+to a highly renewable generation mix. Since the National Infrastructure Assessment, reductions in the 
+cost of renewables have outstripped forecasts. 
+7
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The latest modelling results also show that a highly renewable power system, combined with flexible 
+technologies including hydrogen powered generation, could be substantially cheaper than alternatives 
+that rely heavily on a fleet of nuclear power plants. There is considerable uncertainty around modelling 
+over such a long time period and in a sector with so much technological change. It does not make sense 
+to fully commit now to a system dominated by one technology, whether that is nuclear, offshore wind or 
+another. Making such decisions now, for example by committing to a fleet of nuclear power plants, rules 
+out a more diverse future generation mix and the potential this has to reduce costs to consumers.
+That is why the Commission recommends that the government take action to ensure the UK is running 
+on at least 50 per cent renewable generation by 2030, as part of the transition to a highly renewable 
+system. A renewables based system looks like a safer bet at present than constructing multiple new 
+nuclear plants. But a large amount of uncertainty does remain. Cancelling the nuclear programme 
+entirely risks a ‘stop start’ approach which is likely to be highly inefficient. Agreeing support for no more 
+than one more nuclear plant before 2025 allows the UK to pursue a highly renewable mix without closing 
+off the nuclear alternative.
+Modelling approach
+The work carried out for the Commission analyses the total electricity system costs of delivering a 
+net zero compatible electricity system out to 2050. This involves modelling an electricity system that 
+balances supply and demand for every half hour of the year. The costs presented include the costs of 
+building, connecting and operating generation technology. 
+There are two different electricity demand scenarios assumed. One scenario assumes electrification 
+of heating and the other assumes hydrogen for heating (‘Greener Gas’). The modelling compares 
+electricity systems with upwards of 50 per cent renewable generation beyond 2030 given current 
+government commitments and the previous recommendation of the Commission. 
+Additionally, this work considers the impact that either hydrogen or bioenergy with carbon capture and 
+storage could have if deployed in the power sector. Natural gas, which is used for producing hydrogen in 
+some scenarios, is assumed to be available at current forecast prices.
+Net zero power systems with electrification of heat 
+Highly renewable systems are still a low cost option in a net zero world. The analysis once again finds 
+that electricity system costs are broadly flat across a range of different levels of renewable penetrations. 
+If hydrogen is deployed, providing low carbon and flexible generation, it could further reduce the costs 
+of highly renewable systems, by up to 30 per cent in some scenarios modelled here. 
+If bioenergy with carbon capture and storage is deployed in the power sector, it is likely to be used to 
+generate baseload. This leads to lower levels of nuclear, further highlighting the risks of committing to 
+an extensive new nuclear fleet now.
+Net zero power systems with Greener Gas 
+The conclusions also hold in a lower demand scenario where heating has been decarbonised using 
+hydrogen. This demonstrates that the Commission’s analysis, and recommendations, are robust to 
+uncertainty.
+8
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The Commission considers that the UK electricity system should be 
+running on at least 50 per cent renewable generation by 2030, as part of 
+the transition to a highly renewable electricity supply. To achieve this, 
+the government should set out a pipeline of Contracts for Difference 
+auctions to deliver the needed generation. Recent analysis for the 
+Commission also highlights the potential for hydrogen technology in 
+the power sector, which further supports the case for pursuing a highly 
+renewable system.
+The government’s ambition to deploy 40 GW of offshore wind will go a long way to delivering at least 
+50 per cent renewable generation by 2030. This positive progress needs to continue. Delivering the 
+Commission’s recommendations would allow government to take the needed concrete action in the 
+near term, whilst not closing down options for the future. 
+The Commission’s recommendations deliver a 21st century 
+power system
+In the National Infrastructure Assessment the Commission recommended that government:
+z 
+set out a pipeline of pot 1 Contracts for Difference auctions, to deliver at least 50 per cent 
+renewable generation by 2030, as part of the transition to a highly renewable generation mix
+z 
+move technologies that have recently become cost competitive, such as offshore wind, to 
+pot 1 following the next Contracts for Difference auction in Spring 2019. Pot 1 should be used 
+for the overwhelming majority of the increase in renewable capacity required
+z 
+publish indicative auction dates and budgets for the next decade by 2020
+z 
+over time take whole systems costs into account in Contracts for Difference auctions, as far 
+as possible
+z 
+consider whether there is a case for a small-scale, pot 2 auction in the 2020s, if there are 
+technologies which are serious contenders for future pot 1 auctions
+z 
+not agree support for more than one nuclear power station beyond Hinkley Point C, before 
+2025.
+Recommendations from 
+the National Infrastructure 
+Assessment
+9
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The considerations underpinning these recommendations are:
+z 
+The analysis carried out for the Commission of future electricity system costs finds 
+that systems with high penetrations of renewables are as cost effective as other 
+systems (Figure 1). This was true under the previous 2050 emissions target and it is still 
+true with the new, more ambitious, net zero target. While there are uncertainties in any 
+modelling, it is clear that ruling out the highest penetrations of renewables now would be 
+counterproductive.
+z 
+Renewable costs have consistently fallen faster than forecast. The analysis summarised 
+above uses informed and expert forecast of future technology costs, capturing a central 
+view of how these costs could evolve. However, over the past decade renewables costs have 
+consistently fallen faster than forecast. The latest Contracts for Difference auction once 
+again demonstrated the rapid cost reductions in renewables (Figure 2), as the Commission 
+suggested it might in its Assessment. Whilst this does not mean the Commission expects this 
+to continue to happen, this presents an upside risk that renewables are even cheaper than 
+currently expected. Other technologies that are key to low cost highly renewable systems, 
+such as short term batteries, have also seen significant cost reductions over the past decade.8 
+z 
+In contrast, nuclear plants have not yet demonstrated consistent cost reduction. Figure 3 
+shows the construction costs of nuclear power stations in various countries, by construction 
+start date. With many decades of experience this data still shows no discernible trend in 
+construction costs over time. This is true even for countries, such as France, that have built 
+fleets of similarly designed reactors. 
+z 
+Emerging technologies, such as hydrogen, could further reduce the costs of highly 
+renewable systems. The Commission’s latest analysis demonstrates that, if deployed, 
+hydrogen, either generated from electrolysers using curtailed generation or gas reforming 
+with carbon capture and storage (CCS), has the potential to materially reduce the cost of 
+highly renewable electricity mixes. In some scenarios costs are reduced by up to 30 per cent. 
+z 
+If bioenergy with carbon capture and storage (BECCS) is deployed in the power sector, it 
+will likely displace other baseload technologies such as nuclear. The Committee on Climate 
+Change have set out that BECCS will likely be needed to generate negative emissions. If 
+deployed in the power sector the Commission’s analysis finds it will likely generate baseload 
+and therefore displaces some nuclear capacity. 
+z 
+Keeping options open in a rapidly evolving sector is important and putting the UK on 
+the pathway to a highly renewable system does just this. Costs and operability of different 
+technologies will continue to change rapidly, and the UK must be responsive to this. 
+Policy decisions that lock the UK consumer into paying for large scale programmes with 
+long construction times risk missing opportunities that may emerge. In contrast to other 
+technologies renewables have short construction timelines. Therefore, if action is taken to 
+put the UK power system on a highly renewable pathway, and evidence emerges that makes 
+the case for alternative technologies, it will be possible to change course. The potential cost 
+savings from hydrogen in the power sector is one example that underlines the importance of 
+this. 
+10
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+z 
+New low carbon capacity is needed over the next decade and renewables can deliver this. 
+As the Commission argued in the first Assessment, due to current plant retirements, in the 
+2020s there will be a gap in electricity generating capacity, that needs to be filled.9 It must be 
+the case that low carbon generation fills this gap. Given their short lead times, renewables are 
+ideally placed to do this. With the exception of Hinkley Point C, nuclear power stations would 
+likely only be able to deliver new capacity in the early 2030s. It therefore makes sense for 
+government to take action to deploy renewables now. 
+Figure 2: Price reductions in offshore wind in the UK10
+0
+20
+40
+60
+80
+100
+120
+140
+160
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2
+cir e £ s 201
+p e
+kirts 
+fD
+C
+Delivery years
+Note: Similar cost trajectories have been demonstrated for both onshore wind and solar. For example, An analysis of the 
+potential outcome of further ‘Pot 1’ CfD auction in GB estimated the price of onshore wind at around £45/MWh in £2012.11 
+However, this chart only covers prices agreed in signed Contracts for Difference in the UK. This trend is not just UK based, 
+with cost reductions in onshore wind, offshore wind, and solar evidenced around the globe.12 
+11
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 3: Construction costs of nuclear power stations over time13
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+9,000
+1950
+1960
+1970
+1980
+1990
+2000
+2010
+construction cost equivalent -£/kW (£2016)
+construction start year
+Korea
+US
+France
+Japan
+UK
+The Commission’s recommendations are robust to future 
+change and uncertainty
+The analysis presented in this paper makes estimates of the behavior of complex systems over long 
+periods of time and in the context of rapid technological change. These estimates are inevitably 
+uncertain. It is important to consider this uncertainty when drawing conclusions from any such 
+modelling. Small differences in total costs in 2050 should not be used to justify the case for individual 
+technologies, and significant policy decisions should not be taken on the basis of marginal differences in 
+costs over the long term. 
+The Commission’s recommendations are robust to this type of uncertainty. By focusing on high-level 
+trends, and not on individual numbers or small cost differences, the Commission has accounted for 
+the level of uncertainty to 2050. Moreover, the actions that the Commission recommends government 
+take do maintain optionality and avoid excessive technological lock-in, allowing the UK to be reactive to 
+future change.
+12
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Box 1: A level playing field for onshore wind
+The Commission  recommended in the Assessment that cost competitive technologies such as offshore 
+wind should be moved to pot 1 in the Contracts for Difference (CfD) auctions. A pipeline of pot 1 
+auctions should then be set out to deliver at least 50 per cent renewable generation by 2030, as part of 
+the transition to a highly renewable generation mix. This would provide a genuine route to market for 
+onshore wind and support the UK to deploy a low cost renewable generation mix. 
+Recently, the government has announced that it will once again run pot 1 auctions, giving onshore wind 
+and solar a pathway to at scale deployment in the UK. This is positive progress towards meeting the 
+Commission’s recommendations on the power sector and is very welcome.
+The additional challenge of a net zero target makes it even more crucial that government levels the 
+playing field to enable all cost competitive renewable technologies to come forward. The modelling 
+discussed in this paper shows that a significant increase in onshore capacity would support the least cost 
+generation mix. 
+For each of the scenarios, there is a significant increase in onshore capacity by 2030 of between 2.8 – 4.3 
+GW, increasing from a 2020 baseline of 12.6 GW.
+This is supported by a range of other analyses: Cornwall Insight’s long-term power market model shows 
+that the onshore wind capacity likely to be needed is between 16GW and 22GW by 2030 for net zero 
+scenarios,14 and the central scenario analysis commissioned for the Committee on Climate Change’s net 
+zero report from Vivid Economics shows 20GW onshore wind by 2025.15
+With government support this is achievable. The government’s Renewable Energy Planning Database, 
+tracking renewable electricity projects, shows that there is 4.7 GW of onshore wind capacity awaiting 
+construction having had planning permission granted.16 The appropriate policy support would create a 
+route to market for these projects that are ready to build in the 2020s.
+13
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The electricity system modelling carried out for the National 
+Infrastructure Assessment has been updated to account for the net zero 
+emissions target. The Commission has also used this updated modelling 
+to investigate the impact that some emerging technologies could have if 
+deployed in the power sector.
+Aurora Energy Research was commissioned to carry out updated electricity system modelling. The 
+approach taken is the same as was taken for the National Infrastructure Assessment. The modelling 
+analyses the costs of delivering a net zero compatible electricity system with different levels of 
+renewable generation.
+The net zero target requires emissions, after accounting for greenhouse gas (GHG) removals, to be zero 
+by 2050. It does not require each sector in and of itself to produce zero emissions. In its indicative net 
+zero consistent scenario the Committee on Climate Change (CCC) allowed for 2.9 MtCO2 (4.5gCO2/
+kWh) of emissions from the power sector.17 This is used as a benchmark for the power sector in the 
+analysis presented in this paper. Whilst there may be debate about the exact level of decarbonisation 
+required in the power sector, the Commission considers that this accurately represents a very low 
+emissions electricity system. 
+The Commission has investigated the cost of running an electricity system with different proportions 
+of renewable generation. The modelling considered systems with 60, 80 and 90 per cent renewable 
+penetrations in 2050. The least cost mix of renewables, between onshore wind, offshore wind and 
+solar, is analysed in the modelling. The remaining generation is optimised economically based on 
+profit maximisation, within the limits of emissions and operability constraints assumed. This modelling 
+work involves analysing the electricity system for every half hour of the year and aggregating costs for 
+meeting demand throughout. 
+The Commission has only considered renewable mixes above 50 per cent in this latest work. This 
+approach is taken in light of recent government announcements on delivering 40 GW of offshore wind 
+capacity and the Commission’s recommendations to government that the UK should be running on at 
+least 50 per cent renewable by 2030.  
+The modelling provides the following outputs for each scenario:
+z 
+total costs in £2016 of constructing and running the electricity systems, averaged over the 
+years 2030 to 2050.
+z 
+capacity and generation for each type of technology.
+The electricity system costs are further broken down into the following five categories:
+z 
+Wholesale market costs: The costs of electricity generation, including a carbon price. 
+The carbon price is set at the value required to meet the emissions constraint under each 
+scenario. 
+Modelling approach
+14
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+z 
+Capacity market costs: Costs of procuring enough capacity to meet assumed security of 
+supply constraints. 
+z 
+Balancing market costs: These costs cover the actions required to ensure that the electricity 
+system always balances supply and demand. 
+z 
+Network costs: The cost of building new network cables to connect and support additional 
+generation capacity. 
+z 
+Subsidy costs: Any additional cost on top of the above four categories required to deploy the 
+set amount of renewable capacity. 
+A more detailed overview of the modelling approach used by Aurora Energy Research is outlined in Net 
+zero electricity systems modelling with the full data and assumptions from this analysis.18 A table of key 
+assumptions is set out in Annex 1. 
+Demand scenarios
+The future pathway for decarbonised heat in the UK is not yet set built it will have a significant impact 
+on the demands on the power system. Uncertainties around cost, technology, and consumer behavior 
+means that it is difficult to decide the cheapest way to replace natural gas to meet future climate targets 
+now. But uncertainty is not an excuse for inaction in the near term. The Commission has previously made 
+a number of recommendations for developing the evidence base on low carbon heating options. Doing 
+so will give the government, industry, and others the confidence to invest in the best solution at the 
+right time. 
+In the absence of a single pathway, the Commission’s power sector analysis considers two heating 
+pathways: 
+z 
+Electrification: represents a future in which most of the heating sector has been 
+decarbonised largely by using heat pumps. 
+z 
+Greener gas: represents a future in which heat is primarily provided by low carbon hydrogen. 
+The approach used in this updated analysis is similar to the one used for the analysis underpinning the 
+Assessment. The assumptions for the heating demand scenarios are based on Cost analysis of future 
+heat infrastructure options.19 The results for each scenario are presented separately in the following 
+chapters.
+Emerging technologies for 21st century power systems
+The net zero target will impact not just the electricity sector but the whole economy, changing which 
+technologies are available and economic to use in the power sector. As the Committee on Climate 
+Change set out in their report Net zero: the UK’s contribution to stopping global warming,20 action 
+across all sectors is needed for the UK economy to fully decarbonise. 
+Hydrogen, a zero carbon energy carrier, could be used to decarbonise areas of transport, heating, 
+industry and potentially aviation and shipping. The CCC have stated that “By 2050, a new low carbon 
+industry is needed with UK hydrogen production capacity of comparable size to the UK’s current fleet of 
+gas-fired power stations”.21
+15
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Similarly, bioenergy with carbon capture and storage (BECCS), with its ability to generate negative 
+emissions, will also be needed to meet the net zero target. The CCC have argued that BECCS will be 
+needed “whether for power generation, hydrogen production or production of biofuels for areas that 
+cannot move away from hydrocarbon fuels (e.g. aviation)”.22
+Given this, the Commission has now undertaken analysis of the impact that these two technologies 
+could have if deployed in the power sector. This paper sets out that work. However, the paper does not 
+consider the wider impact these technologies would have across the economy. Nor does it consider the 
+case for using these technologies in the power sector compared to other sectors in the economy. It is 
+only analysing the impact these technologies would have if deployed for electricity generation. 
+Hydrogen technology in the power sector
+The Commission has previously made recommendations on hydrogen for heating and use in fuel cells 
+for heavy goods vehicles.2324 But the heightened ambition of moving to a net zero economy may mean 
+that hydrogen is used in other sectors as well. The CCC included 270 TWh of low carbon hydrogen in its 
+indicative net zero pathway.25 
+This paper uses two scenarios to analyse the impact that hydrogen could have if deployed in the power 
+sector:
+z 
+A flexible source of low carbon electricity to complement renewables: hydrogen, 
+generated from gas reforming with CCS, burning in hydrogen turbines where this lowers the 
+costs of the electricity system. 
+z 
+Electrolysis in the power system: hydrogen produced from electrolysers using curtailed 
+generation, which is then burned for electricity at a later date. 
+This analysis has not considered the impacts or costs of the transmission or storage of hydrogen gas. 
+More detail on the approach is set out in Annex 2. 
+Bioenergy with carbon capture and storage
+Burning biomass combined with CCS technology has the potential to generate both electricity and 
+negative emissions (see box 5). But due to the high capital and fuel costs this technology is unlikely to be 
+cost-effective in the power sector unless it receives revenue for the negative emissions it generates or 
+provides value to the system by running flexibly.26 
+This analysis considers the impact of deploying BECCS in the power sector. This analysis is separate 
+from the hydrogen scenarios described above. The quantity of BECCS assumed is based on estimates 
+of the required amount of negative emissions in the economy by 2050.27 In the scenarios presented 
+here around 50 MtCO2 is captured by BECCS in power.* This is equivalent to around 135 TWh primary of 
+biomass feedstock – well within current estimates for available supply.28  
+More detail on the approach is set out in Annex 2.
+*This is not the full total of negative emissions that the CCC, and others, suggest the UK will need to generate. Additional 
+negative emissions could be generated from other sources (see box 5). 
+16
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+This chapter presents the results of the power sector analysis with the 
+electrification of heat demand scenario. 
+Highly renewable systems are still a low cost option in a net 
+zero world
+The modelled electricity system costs are lowest in the highest renewables scenarios (Figure 4). 
+However, the cost difference is less than 10 per cent of total costs. This variability is well within 
+reasonable tolerance levels given the uncertainty inherent in modelling out to 2050. The Commission 
+has taken a prudent and sensible approach to uncertainty, not overly fixating on small 2050 cost 
+differentials. Therefore the overall electricity system costs across the scenarios should be considered 
+as broadly flat across the 60, 80 and 90 per cent scenarios. These estimates are similar to others in the 
+literature.29  
+Scenarios with higher renewable deployment have lower wholesale market costs but this is largely offset 
+through increases in other cost categories (Figure 4). As the renewables considered here are close to 
+zero marginal cost, they significantly depress wholesale market prices, but some of this cost is shifted to 
+increased subsidy levels. Higher balancing mechanism and network costs also occur. This is due to the 
+inherent variability of renewables increasing the costs of balancing supply and demand, and the need for  
+increased network capacity to connect more renewables. 
+Net zero power systems with 
+electrification of heat
+17
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 4: Costs of net zero power systems
+0
+10
+20
+30
+40
+50
+60
+70
+60% Renewables
+80% Renewables
+90% Renewables
+Total electricity system costs £bn (2016)
+Subsidy costs
+Balancing market costs
+Capacity market costs
+Network costs
+Wholesale market costs
+Box 2: Intermittency cost estimates
+Variable renewables, specifically wind and solar, are a low-cost technology option for supplying 
+electricity. Indeed, the Commission believes that a highly renewable mix could be the lowest cost 
+electricity system for meeting consumers’ needs from 2030 onwards. However, each of these 
+technologies relies on variable weather patterns, driving up uncertainty and placing additional strain on 
+the electricity system. 
+This cost has often been calculated as the “intermittency cost” in the literature.30 This cost can be broken 
+down into components in several different ways. For example, the Committee on Climate Change 
+have suggested that it can be understood as the interaction of the following four, albeit overlapping, 
+components:31
+z 
+Meeting peak demand: costs of procuring back-up capacity for periods of peak demand and 
+low renewable output.
+z 
+Balancing requirements: costs of paying for flexible technologies to be on the system that 
+can ramp quickly to meet short-term electricity shortfalls. 
+z 
+Additional network costs: costs of constructing additional transmission and distribution 
+networks to connect renewable generation to demand.  
+z 
+Curtailment: costs of generation that must be constrained due to too much surplus 
+electricity. This should be distinguished from curtailment due to network constraints, which 
+is not considered here.
+The full system cost of intermittent generation will vary depending on the penetration of renewables on 
+the system. Estimates range between £5/MWh to £50/MWh for renewable penetration up to around 65 
+per cent.32 From this latest analysis the Commission can estimate the cost of renewable integration at 90 
+per cent penetration levels. This is set out in table 2 below. 
+18
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The Commission’s analysis does not find that these costs increase substantially with higher levels of 
+renewable penetration. This is in line with the conclusion that highly renewable systems are at least as 
+cost effective as those with lower proportions of renewables for providing the UK’s long term electricity 
+supply. As with all estimates for 2050 electricity systems, these are uncertain. As more renewables are 
+deployed on the electricity system these costs will become more certain.  
+It is also the case that inflexible technologies, such as nuclear, or particularly large assets, such as 
+interconnectors, may impose separate costs on the electricity system. These should also be considered.  
+Table 2: Intermittency cost calculations
+Technology mixes in net zero power systems
+The Commission’s analysis of 2050 generation and capacity mixes has not significantly changed in light 
+of the net zero target. The same technologies, in broadly similar quantities, are still likely to be needed in 
+the long term (Figure 5, Figure 6). Across all scenarios, significant  solar, onshore wind, and offshore wind 
+capacity is needed:
+z 
+Between 129 –237 GW of renewable capacity is in operation by 2050, generating between 360 
+– 530 TWh of electricity across the scenarios modelled. This includes 56 – 121 GW of solar, 18 
+–27 GW of onshore wind, and 54 – 86 GW of offshore wind. 
+z 
+To ensure security of supply there is still a significant capacity  of unabated thermal plant on 
+the system by 2050 (between 45 - 54 GW). However, this only provides around 3 – 4 TWh of 
+annual generation as it is primarily deployed as back up capacity. 
+z 
+At least 18 GW of gas CCS capacity is needed by 2050 across all scenarios, generating 
+upwards of 23 TWh of electricity. By 2050 it is primarily playing a peaking role in the electricity 
+system, with annual load factors of between 14 – 16 per cent.  The residual emissions from 
+not capturing 100 per cent of the CO2 is likely to limit its role in providing bulk baseload 
+generation in a net zero power system, unless higher capture rates are achieved. 
+19
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+z 
+As little as 8 GW of nuclear capacity has been deployed in some scenarios, suggesting that 
+it is possible to meet demand in electricity systems without significant capacity of inflexible 
+baseload generation in the long-term. This is broadly equivalent to one additional nuclear 
+plant beyond Hinkley Point C, in line with the Commission’s recommendation. 
+z 
+All technologies deployed here fall within the maximum potential capacity deployable in the 
+UK. This is further discussed in Annex 3. 
+Figure 5: Capacity mix of modelled scenarios in 2050
+0
+50
+100
+150
+200
+250
+300
+350
+400
+60% Renewables
+80% Renewables
+90% Renewables
+Capacity GW
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+Figure 6: Generation mix of modelled scenarios in 2050
+-100
+0
+100
+200
+300
+400
+500
+600
+700
+60% Renewables
+80% Renewables
+90% Renewables
+Generation TWh
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+20
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Curtailment in highly renewable power systems
+Increasing deployment of renewables is likely to result in more curtailment, but this does not stop highly 
+renewable systems from being a low cost option. Due to their reliance on weather patterns renewables 
+may generate at times when the electricity system already has enough electricity to meet demand. 
+When this happens, the excess generation may need to be curtailed. This curtailment is different from 
+curtailment in the current system which happens largely due to constraints on the transmission or 
+distribution grid. The maximum level of curtailment in the scenarios modelled here is around 90 TWh 
+(Figure 7). However, whilst this does increase the unit costs of renewables, capital and operating cost 
+estimates are now low enough that highly renewable systems are still low cost. 
+It is unlikely that significant volumes of curtailed generation would go unused in the long run. New 
+technologies or business models that will be able to make economic use of this curtailment are 
+likely to be deployed. Therefore, it is better to see this curtailment not as a cost to the system but an 
+opportunity. One technology that could take advantage of this opportunity is hydrogen production. 
+Figure 7: Curtailment of renewables across modelled scenarios
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+TWh curtailed renewable generation 
+60% Renewables
+80% Renewables
+90% Renewables
+Box 3: The role of system flexibility
+Flexible technologies, those that can help balance supply and demand, will be integral to providing 
+the UK with a power system fit for the 21st Century and securing low cost, low carbon electricity for UK 
+consumers. The Commission recognised this in Smart Power published in 2016.33 Smart Power set out a 
+range of actions for government and regulators to take to position the UK as a world leader in electricity 
+system flexibility. Analysis carried out for the Commission estimated that achieving a highly flexible 
+electricity system could save UK consumers up to £8bn by 2030.34 Subsequent analysis has reinforced 
+this and argued that this saving is likely to be even higher by 2050.35 The analysis presented in this paper 
+further bolsters this case. 
+21
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Specifically, the Smart Power report called for the UK to become a world leader in electricity storage 
+systems, interconnection and demand side response. A significant capacity of these three technologies 
+are deployed in the analysis presented here, highlighting their importance to the system:36 
+z 
+Across all scenarios 17.9 GW of interconnection comes online, performing a key role in 
+balancing the system, especially in periods of low renewable output. This is in line with the 
+pipeline of interconnectors that are either in operation, under construction, or have been 
+given regulatory approval from Ofgem.37
+z 
+Large volumes of storage, primarily lithium-ion batteries, and demand side response are 
+included in the mix based on being able to make sufficient economic returns. 
+One key challenge for future electricity systems is the ability to meet peak demands, especially through 
+the winter months. In the 60 per cent renewables scenario the higher capacity of baseload generation, 
+in the form of nuclear and gas CCS, make these peaks relatively straightforward to meet (Figure 8). But 
+a very highly renewables system can also meet these peaks. Figure 9 demonstrates how the peaks are 
+met during the modelled 2050 January. With 90 per cent of annual generation coming from renewables 
+they contribute the majority of this. However, when renewable output is low, nuclear, gas CCS, storage, 
+interconnection and demand side response all stack up to meet the majority of these peaks. Some small 
+amount of gas CCGT generation is still occasionally required but this only makes up around 4TWh of 
+annual generation using 2MtCO2
+38 of 2.9MtCO2 emissions constraint. 
+All future electricity systems need to be robust to extreme weather conditions, especially in a changing 
+climate. The Commission recognised the importance of fully understanding weather impacts on 
+electricity systems and has commissioned the Met Office to undertake research on this. An initial 
+literature review conducted by the Met Office suggested that there are four key areas of uncertainty:39
+Peak winter residual demand: a combination of low temperatures in winter driving high energy 
+demands, combined with low windspeeds leading to low renewable wind energy, and potential limits on 
+solar generation.
+Summer wind drought: high pressure heatwaves in summer which could lead to a drought of wind 
+supply, exacerbated by possible very low wind speeds, increasing the reliance on solar generation.
+Surplus solar:  combination of low demand and high solar generation output, leading to residual 
+demand frequently dropping below zero and leading to surplus generating supply.
+Wind and solar ramping: major changes in wind speed or solar irradiance over short time periods, both 
+of which could lead to short term surplus and a requirement to curtail supply.
+The review also highlighted the benefits of the UK having a diverse mix of renewables to help manage 
+variable meteorological conditions. Additionally, ensuring that the UK’s renewable generators are spread 
+across the country to take advantage of complementary weather patterns could also be key.  
+The Commission will look to work with the Met Office, and others, to further build this evidence base in 
+the coming years. 
+22
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 8: Model outputs for generation mix of January 2050 in 60% renewables electrification 
+scenarios
+Figure 9: Model outputs for generation mix of January 2050 in 90% renewables electrification 
+scenarios
+Note: the demand profiles differ across Figure 8 and Figure 9 due to when storage, interconnection and 
+DSR are importing electricity from the system alongside different electric vehicle charging profiles.
+23
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+A flexible source of low carbon electricity to complement 
+renewables
+Deploying hydrogen turbines at scale, as a complement to renewable technologies, significantly reduces 
+overall systems costs. Across the three different levels of renewable penetration, savings of between 10 
+–30 per cent are seen (Figure 10). It is still the case that the higher penetration renewable scenarios are 
+the cheapest, suggesting that a highly renewable mix is still likely to be at least as cost effective as those 
+with higher baseload capacity. But deploying hydrogen turbines at scale could further lower costs. 
+Figure 10: Electricity system costs with hydrogen from gas reforming in the power sector 
+0
+10
+20
+30
+40
+50
+60
+70
+60% Renewables
+60% Renewables
+80% Renewables
+80% Renewables
+90% Renewables
+90% Renewables
+Total electricity system costs £bn (2016)
+Baseline
+With hydrogen in the power sector
+The hydrogen turbines displace many other non-renewable forms of generation and flexibility, 
+reducing the capacity of these technologies needed, and hence system costs (Figure 11 and Figure 12). 
+Specifically, hydrogen gas turbines:
+z 
+Displace nuclear by providing cheaper baseload generation. Nuclear capacity decreases by 
+up to 11 GW with a low of around 5 GW across the scenarios.  
+z 
+Completely displace all gas CCS from the scenarios. Hydrogen turbines provide both 
+baseload generation and flexible supply at lower cost than gas CCS, completely replacing it in 
+the modelling. 
+z 
+Significantly decrease the amount of thermal back up capacity needed. As outlined earlier, 
+the scenarios have a large capacity of traditional thermal generation which is needed for 
+security of supply but very rarely runs. As hydrogen turbines also provide firm power, they 
+replace much of this thermal plant. Capacity of thermal plant falls by between 13 – 16 GW 
+across the scenarios.   
+z 
+Decrease the amount of electricity that is imported from connected EU markets during high 
+price periods. Net imported generation falls by up to 20 TWh across all scenarios.
+24
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+z 
+The hydrogen turbines provide low carbon baseload generation, low carbon flexibility 
+and firm power, which are normally provided in the modelling by a range of different 
+technologies. By combining all of these services in one technology, this significantly lowers 
+the amount of capacity needed and therefore the capital investments required. This lowers 
+overall system costs.   
+Figure 11: Capacity mix with hydrogen from gas reforming in the power sector in 2050
+0
+50
+100
+150
+200
+250
+300
+350
+400
+60% renewables
+80% renewables
+90% renewables
+Capacity GW
+Hydrogen turbines
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+Figure 12: Generation mix with hydrogen from gas reforming in the power sector in 2050 
+-100
+0
+100
+200
+300
+400
+500
+600
+700
+60% renewables
+80% renewables
+90% renewables
+Annual generation TWh
+Hydrogen turbines
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+Note: If the UK is net exporting electricity this appears on the chart as a negative figure below the x-axis.
+25
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Electrolysis in the power sector 
+The Commission’s analysis finds that some electrolyser capacity does have the potential to reduce 
+system cost, by up to 7 per cent (Figure 13), through using curtailed renewable generation. This is most 
+likely in systems with higher renewables deployment and hence higher levels of curtailment, as this 
+allows the electrolysers to achieve higher load factors. 
+Figure 13: Electricity system costs with electrolysis in the power sector
+0
+10
+20
+30
+40
+50
+60
+70
+60% Renewables
+60% Renewables
+80% Renewables
+80% Renewables
+90% Renewables
+90% Renewables
+Total electricity system costs £bn (2016)
+Baseline
+With hydrogen from electrolysis
+Electrolysers in this analysis capture 90 per cent of the curtailed renewable generation. In lower 
+renewable penetration scenarios deployment of electrolysers is found to marginally increase costs 
+as there is not enough curtailed generation to cover the capital investment required to build the 
+electrolysers.
+z 
+The utilisation rate of the electrolysers has a significant impact on how cost-effective they 
+are. Curtailment of renewables varies dramatically throughout the year (Figure 14). To capture 
+all curtailed generation, including the largest of these peaks, would require around 95 GW 
+capacity of electrolysers. But these would be achieving a utilisation rate of less than 1 per cent 
+and would therefore be uneconomic. In this analysis, electrolysers are sized to capture 90 per 
+cent of curtailed generation, leading to annual utilsation rates of around 15 per cent.
+z 
+The hydrogen produced from these electrolysers is burned in hydrogen compatible 
+gas turbines. These hydrogen gas turbines then primarly displace nuclear and gas CCS 
+generation.
+This work only highlights one potential use of curtailed generation. Other technologies, for example 
+inter-seasonal storage such as compressed air storage,40 may find an economic use for curtailed 
+generation. The value proposition for electrolytic hydrogen outside the power sector, such as for use 
+in heavy goods vehicles, also needs to be fully understood. But this analysis highlights that curtailed 
+generation should not be considered as a cost in isolation as it is highly likely that economic uses of it will 
+emerge.
+26
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 14: Profile of curtailed renewable generation in modelled April 2050
+0
+20
+40
+60
+80
+100
+120
+Output GW
+1st April to 30 April 2050
+60% renewables
+80% renewables
+90% renewables
+Bioenergy with carbon capture and storage in power 
+The analysis concludes that deploying bioenergy with carbon capture and storage in the power sector 
+has little impact on total electricity system costs, but that it would likely weaken the case for a large 
+nuclear fleet in the long term.(Figure 15).
+Figure 15: Change in capacity in 2050 when introducing BECCS into the electricity system
+-15
+-10
+-5
+0
+5
+10
+15
+60% Renewables
+80% Renewables
+90% Renewables
+Capacity (GW)
+BECCS
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+27
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The modelling finds that BECCS will likely run baseload – meaning it would aim to generate constant 
+output rather than flex to meet demand. As a result, it displaces other inflexible technologies such as 
+nuclear that compete for baseload. Whilst BECCS has the technical capability of providing some system 
+flexibility, the costs of building additional capacity outweigh the potential revenue from capturing peak 
+prices. The Commission has not considered whether BECCS should be deployed in the power sector but 
+sought to understand the impacts if it was: 
+z 
+The BECCS deployed runs baseload in all scenarios. The analysis finds that the cost of building 
+extra BECCS capacity to allow a plant to run flexibly, by ramping up and down to meet 
+demand, exceeds any revenue gained from capturing peak prices. This is compounded as 
+BECCS is unlikely to be as flexible as other technologies such as traditional CCS plants.41
+z 
+As a result, introducing BECCS into the generation mix reduces the capacity of nuclear by 
+3 – 7 GW across all scenarios, and reduces the capacity of gas CCS by up to 7 GW across all 
+scenarios.
+z 
+There could be other sectors that BECCS may have more value in. Similar in depth analysis 
+needs to be conducted on a sector by sector basis to provide insight into where BECCS has 
+the highest value across the whole economy. 
+Conclusions
+Highly renewable electricity systems are at least as cost effective as those with lower proportions 
+of renewables. This conclusion is unchanged from the analysis conducted for the Assessment. As is 
+expected when carrying out modelling exercises there have been some changes at the margins, with 
+capacity mixes and deployment timelines of various technologies changing slightly. But these have not 
+affected the overall conclusion used to inform the Commission’s recommendations. 
+The modelling also finds that there could be a role for either hydrogen or BECCS in the power 
+system, with hydrogen offering the potential to lower electricity system costs:
+z 
+Hydrogen gas turbines, with a plentiful supply of cheap low carbon hydrogen could play a 
+major role in future power systems. They can act as a natural complement to renewables, 
+helping to reduce whole system costs, but further action is required to demonstrate the 
+technology at scale.
+z 
+Electrolysis, producing hydrogen from curtailed electricity, could help to reduce system costs 
+in highly renewable mixes. However, it will be challenging to absorb all curtailed renewable 
+generation at low cost due to the volatility of its production.
+z 
+Deploying BECCS in the power sector has little impact on costs, but it would likely displace 
+other baseload generation such as nuclear. 
+28
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+This chapter summarises the results from the power sector analysis with 
+the Greener Gas demand scenario. As set out in table 1, the two primary 
+changes are lower demand, at around 465 TWh, and a corresponding 
+tighter emissions constraint of 1 MtCO2. All other assumptions, including 
+technology costs, are held the same. The results in this section are 
+similar to the results for the electrification of heat demand scenarios and 
+therefore only the key results are presented. 
+Power system in the Greener Gas scenario
+The modelling finds that the costs of low carbon electricity systems, averaged between 2030 and 2050, 
+are again broadly flat across the 60, 80 and 90 per cent renewables penetration scenarios (Figure 16).
+z 
+The overall system costs of the electrification of heat and greener gas scenarios should not 
+be directly compared. The costs of providing low carbon electricity for heat are included in 
+the electrification of heat analysis (Figure 4) but the costs of generating low carbon hydrogen 
+for heating are not included in the greener gas scenario (Figure 16). 
+Figure 16: Costs of net zero power systems
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+60% Renewables
+80% Renewables
+90% Renewables
+Total electricity system costs £bn (2016)
+Subsidy costs
+Balancing market costs
+Capacity market costs
+Network costs
+Wholesale market costs
+Net power systems with 
+decartbonised gas heating
+29
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The generation (Figure 18) and capacity (Figure 17) mixes in the Greener Gas scenario have similar 
+proportions of technologies to the electrification of heat scenarios but lower overall levels. As the 
+demand for electricity in these scenarios is lower, less capacity is built out to meet it:
+z 
+Across the three scenarios  57 – 124 GW of solar, 15 – 22 GW of onshore wind, and 41 –62 GW 
+of offshore wind are deployed by 2050. 
+z 
+To ensure security of supply there is still a significant capacity of unabated thermal plants 
+on the system by 2050. However, this only provides up to 2 TWh of annual generation as it is 
+primarily deployed as back up capacity. 
+z 
+At least 5 GW of gas CCS capacity is needed by 2050 across all scenarios. Similarly to the 
+electrification scenarios this is primarily playing a peaking role by 2050 due to the residual 
+emissions of generating baseload.  
+z 
+Between  5 – 21 GW of nuclear capacity is deployed by 2050 across the three scenarios.
+z 
+The capacity of all technologies is lower in the Greener Gas scenarios than in the 
+electrification of heat. The capacities therefore fall within the resource constraints discussed 
+in Annex 3.  
+With a significantly smaller power sector there is less overall curtailed generation (Figure 19). However, 
+there is little difference in the percentage levels of curtailed renewables. In the electrification of heat 
+scenarios between 1 – 17 per cent of renewable generation is curtailed. In the Greener Gas scenario this 
+is around 0 – 14 per cent. 
+Figure 17: Capacity mix in 2050 of modelled scenarios 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+60% Renewables
+80% Renewables
+90% Renewables
+Capacity GW
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+30
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 18: Generation mix in 2050 of modelled scenarios
+-100
+0
+100
+200
+300
+400
+500
+600
+700
+60% Renewables
+80% Renewables
+90% Renewables
+Generation TWh
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+Figure 19: Curtailment of renewables across modelled scenarios
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+TWh curtailed renewable generation 
+60% Renewables
+80% Renewables
+90% Renewables
+31
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Hydrogen technology in the power sector
+Hydrogen technologies are once again found to have the potential to materially reduce overall 
+electricity system costs:
+z 
+Gas reforming can significantly reduce costs by 21 – 28 per cent (Figure 20). However, 
+costs still reduce with higher levels of renewables suggesting that at scale hydrogen is a 
+complement to rather than replacement for renewables. 
+z 
+Electrolysis reduces costs marginally at the highest levels of renewable deployment, by 
+around 2 per cent, but at lower penetrations there is not enough curtailment to make it 
+economic (Figure 21). 
+z 
+The hydrogen generation displaces many other forms of non renewable generation and 
+capacity (Figure 22, Figure 23). Up to 8 GW of nuclear capacity is displaced and all gas CCS 
+capacity is replaced by hydrogen gas turbines.
+Figure 20: Electricity system costs with hydrogen from gas reforming in the power sector
+0
+10
+20
+30
+40
+50
+60
+70
+60% Renewables
+60% Renewables
+80% Renewables
+80% Renewables
+90% Renewables
+90% Renewables
+Total electricity system costs £bn (2016)
+Baseline
+With hydrogen in the power sector
+32
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 21: Electricity system costs with electrolysis in the power sector
+0
+10
+20
+30
+40
+50
+60
+70
+60% Renewables
+60% Renewables
+80% Renewables
+80% Renewables
+90% Renewables
+90% Renewables
+Total electricity system costs £bn (2016)
+With hydrogen from electrolysis
+Baseline
+Figure 22: Capacity mix with hydrogen from gas reforming in the power sector in  2050 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+60% renewables
+80% renewables
+90% renewables
+Capacity GW
+Hydrogen turbines
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+33
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Figure 23: Generation mix with hydrogen from gas reforming in the power sector in 2050 
+-100
+0
+100
+200
+300
+400
+500
+600
+700
+60% renewables
+80% renewables
+90% renewables
+Annual generation TWh
+Hydrogen turbines
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+Note: If the UK is net exporting electricity this appears on the chart as a negative figure below the x-axis.
+34
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Bioenergy with Carbon Capture and Storage in the Power 
+Sector
+The analysis finds that deploying BECCS in power will marginally increase overall power systems cost 
+due to the relatively higher capital costs and again displaces nuclear capacity (Figure 24). Similarly to the 
+electrification of heat scenarios, the BECCS capacity runs baseload in all scenarios.
+Figure 24: Change in capacity in 2050 when introducing BECCS into the electricity system
+-15
+-10
+-5
+0
+5
+10
+15
+60% Renewables
+80% Renewables
+90% Renewables
+Capacity (GW)
+BECCS
+DSR
+Storage
+Interconnection
+Thermal
+CCS
+Nuclear
+Renewables
+35
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Annex 1: Key assumptions
+Table 1: Key assumptions for the electrification scenario
+Parameter/Scenario
+Assumptions for 
+electrification 
+Assumptions for 
+Greener Gas 
+Comments
+Annual generation 
+(TWh)
+595
+465
+These total demand scenarios are 
+comparable to the demand in the 
+CCC indicative net zero scenario 
+(650 TWh)42 and the National Grid 
+ESO Future Energy Scenarios 2019 
+(400 – 450 TWh)43 
+Emissions constraint 
+(MtCO2)
+2.9
+1
+In the electrification scenarios as 
+demand is similar to that in the 
+CCC indicative net zero pathway 
+a 2.9 MtCO2 constraint is used, 
+as the Greener Gas scenario has 
+a smaller power sector a lower 
+emissions constraint of 1 MtCO2 is 
+used.
+Electric vehicle 
+deployment 
+Assumed 100% new 
+sales are EVs by 2030
+Assumed 100% 
+new sales are EVs 
+by 2030
+In line with recommendations 
+made in the Assessment by 2030 
+100 per cent of new car sales are 
+electric vehicles. 
+Number of 
+heatpumps 
+33 million 4kW 
+heatpumps are 
+installed in homes
+N/A
+These assumptions are based 
+on Cost analysis of future heat 
+infrastructure option44
+Energy efficiency 
+measures
+Heat demand is lowered by around 100 
+TWh against the counterfactual from 
+energy efficiency measures.  
+These assumptions are based 
+on Cost analysis of future heat 
+infrastructure options45
+Gas prices
+BEIS central gas prices are assumed, 
+reaching 63p/therm by 2050. 
+BEIS fossil fuel price assumptions46
+Interconnector 
+capacity assumed 
+17.9 GW
+17.9 GW
+This is based on the capacity of 
+interconnectors either already 
+in operation, under construction 
+or with regulatory approval from 
+Ofgem47
+Baseline level of 
+nuclear to 2050
+4.6 GW
+4.6 GW
+Assuming Sizewell B and Hinkley 
+Point C are both online in 2050 
+36
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Annex 2: Hydrogen and BECCS 
+Hydrogen assumptions and methodology 
+In each of the two scenarios modelled the hydrogen generated is burned in a 100 per cent hydrogen 
+compatible gas turbine to generate electricity. Gas turbines, specifically combined cycle gas turbines 
+(CCGT), are a mature technology which generate a significant amount of the UK’s electricity.48 These 
+plants burn natural gas to generate electricity. However, engineering assessments have suggested 
+that natural gas could be replaced with up to 100 per cent hydrogen at little additional cost.49 Whilst 
+this may result in high NOx emissions, which have significant air quality impacts, NOx capture facilities 
+or diluted fuels could likely be used to mitigate this impact.50 A number of organisations have made 
+public commitments to developing hydrogen turbines in the 2020s.51 Siemens have already developed a 
+prototype turbine capable of running on 100 per cent hydrogen.52 
+Given the lack of technical maturity of this technology similar costs and running parameters to 
+a traditional CCGT plant are assumed in this analysis (Table 4). Further research, development 
+and deployment is needed to increase confidence and certainty in the technical capability of this 
+technology. The UK has the opportunity to be at the leading edge of this. 
+Table 4: H2 CCGT running parameters in 2050
+Parameter
+Value
+Capital costs 
+£700/kW
+Fixed operating costs
+£25/kW
+Variable operating costs 
+£1/MWh
+Efficiency 
+50%
+The costs and running parameters of low carbon hydrogen technology are highly uncertain. There is 
+currently little hydrogen produced from gas reforming with CCS globally (see Box 4),53 and no at scale 
+deployment of 100 per cent hydrogen combusting gas turbines.54 To fully assess the viability of a future 
+power system with a significant role for hydrogen, and the cost savings it can bring, this must change. 
+With near-term action the UK can be at the leading edge of proving the viability of this technology.
+In the Assessment the Commission recommended that government support the development of a 
+hydrogen production plant using gas reforming with carbon capture and storage by 2023, as part of 
+a large scale trial to supply hydrogen for heating to at least 10,000 homes. Successful delivery of such 
+a plant would significantly reduce levels of uncertainty and build confidence that future systems with 
+hydrogen used at scale are realisable. 
+A flexible source of low carbon electricity to complement renewables
+Flexible low carbon generation is the ideal complement to renewable generation as it can respond to 
+changing weather and demand patterns – hydrogen burning gas turbines could play this role. Baseload 
+technologies, those that run at a near constant output throughout the year, are not as flexible. 
+37
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+The Commission has modelled a power sector which has both low carbon hydrogen available and 
+hydrogen compatible gas turbines to burn this hydrogen. The work assumes that hydrogen is produced 
+from gas reforming with CCS, as this is currently likely to be the cheapest source of hydrogen. To ensure 
+this is consistent with economy wide decarbonisation, the emissions from producing the hydrogen 
+used to generate electricity are accounted for in the power sector while maintaining net zero compliant 
+emissions in the power sector. 
+Electrolysis in the power system
+Curtailed renewable generation could be used by electrolysers to generate zero carbon hydrogen. 
+At periods where generation significantly exceeds demand the surplus electricity can be absorbed by 
+electrolysers and turned into hydrogen for combustion in the power sector at a later date. Not only 
+could this help to reduce wasted electricity, and hence costs, but it may also provide an effective long-
+term storage option for the power sector. 
+38
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Box 4: Producing low carbon hydrogen
+Hydrogen is a zero carbon gas capable of replacing natural gas, and other energy carriers, in a range 
+of different processes. There is currently around 2000 TWh of hydrogen produced globally,55 but this is 
+largely made through high carbon emissions processes. There are two primary routes through which 
+low carbon hydrogen can be produced:
+ 
+z Gas Reformation with CCS: combines natural gas and water and converts these to hydrogen and carbon 
+dioxide. Gas reformation is currently significantly cheaper than any other method of hydrogen production 
+and is the most widely used method today. This production method needs to be paired with carbon capture 
+and storage, otherwise it still emits significant amounts of carbon dioxide. Additionally, if the future costs 
+assumptions used in this analysis are to be realised it is likely that novel reforming methods, such as Auto 
+Thermal Reforming, would need to be developed and deployed at scale.56 
+ 
+z Electrolysis: uses an electric current to split water into hydrogen and oxygen. Provided that the electricity 
+is from a low carbon source electrolysis has the potential to produce hydrogen with minimal carbon 
+emissions. However, this is a more expensive and energy intensive method of hydrogen production than gas 
+reformation.57
+These assumptions for hydrogen production technologies are based on Hydrogen Supply Chain 
+Evidence Base58 and are similar to those used in other analysis.59 Throughout, this analysis has, in order 
+to better demonstrate the potential benefits of hydrogen in the power sector at scale, used ambitious 
+cost assumptions for hydrogen technologies.
+The overall cost of hydrogen production will also depend on gas prices, a globally traded commodity. 
+If prices significant diverge from those assumed here, this could materially impact the conclusions of 
+the analysis.
+Table 5: Assumptions for advanced gas reforming with CCS in 2050
+Parameter
+Value
+Capital costs 
+£455/kW
+Fixed operating costs 
+£49/kW
+Variable operating costs 
+£0/MWh, excluding the electricity price
+Efficiency 
+74%
+Table 6: Assumptions for electrolysis in 2050
+Parameter
+Value
+Capital costs 
+£455/kW
+Fixed operating costs 
+£49/kW
+Variable operating costs 
+£0/MWh, excluding the electricity price
+Efficiency 
+74%
+39
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Bioenergy with carbon capture and storage methodology
+Double counting negative emissions generated from biomass is a risk in a sector specific approach. It 
+is likely that, if there is a limited supply of negative emissions, these will be needed to offset emissions 
+in sectors other than power – some of which are outside the Commission’s remit. Therefore, the same 
+net zero compliant emissions target for the power sector, used elsewhere in this analysis, is assumed. 
+The negative emissions and any associated revenue streams are not included in this work. The implicit 
+assumption is that the negative emissions are accounted for, and remunerated, elsewhere in the 
+economy. Based on this, the modelling captures the lowest cost way to capture 50 MtCO2 emission from 
+BECCS used in the power system in 2050
+Box 5: Biomass with carbon capture and storage technology
+Biomass, when considered in the context of generating energy, primarily refers to: crops grown 
+specifically for energy, forest and agricultural residues, and organic wastes.60 It can be used to generate 
+electricity through combusting in a power plant. In 2018 biomass plants generated around 35 TWh of 
+electricity in the UK.61 
+Carbon capture and storage is the process of capturing carbon from high carbon processes and storing 
+it underground, instead of allowing it to be released into the atmosphere. 
+When combined with biomass, CCS technology can produce negative emissions, drawing down carbon 
+from the atmosphere and storing it underground. Detailed consideration and lifecycle assessments 
+would need to be made to ensure that this is creating a genuine carbon reduction – this is not the topic 
+of this paper. 
+A key parameter when considering CCS technology is the capture rate, the amount of carbon dioxide 
+that would have otherwise been released that is captured. This has a significant impact on the role that 
+various CCS technologies could play in a net zero economy. For this analysis a 90 per cent capture rate is 
+assumed – this is consistent with the range of current estimates.62 
+There are many other sources of generating negative emissions, including afforestation and 
+reforestation, soil carbon sequestration, enhanced terrestrial weathering, and direct air capture.63 
+However, these do not directly relate to the power sector and are therefore not the subject of this paper.
+40
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Annex 3: Resource constraints 
+There will be an upper limit on the amount of each technology that can be deployed in the UK. For 
+example, land or seabed availability will limit the amount of capacity of some technologies in the UK. 
+The modelled levels of capacity fall within the current theoretical estimates of the total capacity of each 
+technology that can be deployed in the UK. However, barriers may emerge in practice that need to be 
+better understood going forward:
+z 
+A range of factors must be accounted for when considering resource constraints for 
+renewables, these include land and seabed availability, solar irradiance, wind speeds, and 
+water depths. The capacity of onshore wind, offshore wind and solar built across the full 
+range of scenarios considered here fall well within current resource estimates.64 However, 
+in practice, more granular constraints may emerge. A better understanding of competing 
+uses of the seabed and visual impacts of renewables will be needed to reach the upper end of 
+capacity deployed in these scenarios. 
+z 
+There are a range of different factors and constraints that need to be considered when 
+assessing whether a specific location is viable and safe for a large scale nuclear plant to be 
+deployed.65 This limits the number of plants that could theoretically be constructed in the UK. 
+Estimates suggest that currently identified nuclear sites could support up to 35 GW of nuclear 
+capacity by 2050.66 Nuclear capacity in all scenarios presented here falls within this limit. 
+z 
+The primary resource constraint on deploying CCS in the UK is likely to be the capacity 
+of CO2 storage. CO2 is likely to be stored offshore in depleted oil and gas fields or saline 
+aquifers. Current estimates suggest the UK has between 1.5 – 78 GtCO2 storage capacity67 
+– significantly more than the upper limit of 7 MtCO2 annually captured in any scenarios 
+presented here.
+41
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+Endnotes
+1 
+UK Government (2019), UK becomes first major economy to pass net zero emissions law 
+2 
+Department for Business, Energy and Industrial Strategy (2020), Final UK greenhouse gas emissions national statistics: 
+1990 to 2018
+3 
+Ofgem (2020), Bills, prices and profits 
+4 
+Ofgem (2020), Bills, prices and profits
+5 
+Ofgem (2018), Energy spend as a percentage of total household expenditure (UK)
+6 
+Ofgem (2018), Energy spend as a percentage of total household expenditure (UK) 
+7 
+Aurora Energy Research (2020), Net zero electricity systems modelling 
+8 
+International Renewable Energy Agency (2019), Renewable Power Generation Costs in 2018, International Renewable 
+Energy Agency (2015), Battery Storage for Renewables: Market Status and Technology Outlook
+9 
+National Infrastructure Commission (2018), National Infrastructure Assessment 
+10 Low Carbon Contracts Company, Department for Energy and Climate Change (2015), Contracts for Difference (CFD) 
+Allocation Round One Outcome, Department for Business, Energy and Industrial Strategy (2017), Contracts for 
+Difference Second Allocation Round Results, Department for Business, Energy and Industrial Strategy (2019), Contracts 
+for Difference Allocation Round 3 Results
+11 
+Baringa (2017), An analysis of the potential outcome of a further ‘Pot 1’ CfD auction in GB
+12 International Renewable Energy Agency (2019), Renewable Power Generation Costs in 2018 
+13 
+Constructed by the Commission using data from Lovering J. R; Yip A.; Nordhaus T. (2016), Historical construction costs of 
+global nuclear power reactors. Costs calculated on an ‘overnight’ basis, rebased from 2010 prices
+14 Cornwall Insight (2020), A marathon and a sprint? What next for onshore renewables? 
+15 
+Vivid Economics (2019), Accelerated electrification and the GB electricity system 
+16 BEIS (2020), Renewable Energy Planning Database: December 2019
+17 
+Committee on Climate Change (2019), Net zero technical report
+18 Aurora Energy Research (2020), Net zero electricity systems modelling
+19 Element Energy and E4Tech (2018), Cost analysis of future heat infrastructure options
+20 Committee on Climate Change (2019), Net Zero The UK’s contribution to stopping global warming 
+21 Committee on Climate Change (2019), Net Zero The UK’s contribution to stopping global warming  
+22 Committee on Climate Change (2019), Net Zero The UK’s contribution to stopping global warming
+23 National Infrastructure Commission (2018), National Infrastructure Assessment 
+24 National Infrastructure Commission (2019), Better Delivery: The Challenge for Freight 
+25 Committee on Climate Change (2019), Net Zero Technical report  
+26 Aurora –Energy Research (2020), Net zero electricity systems modelling 
+27 The Royal Society and Royal Academy of Engineering (2018), Greenhouse gas removal 
+28 Committee on Climate Change (2018), Biomass in a low-carbon economy
+29 Imperial College London (2018), Analysis of Alternative UK Heat Decarbonisation Pathways
+30 Committee on Climate Change (2019), Technical Annex: Integrating variable renewables into the UK electricity system 
+31 Committee on Climate Change (2019), Technical Annex: Integrating variable renewables into the UK electricity system 
+32 Imperial College London and NERA Economic Consulting (2015), Value of Flexibility in a Decarbonised Grid and System 
+Externalities of Low-Carbon Generation Technologies, OECD and NEA (2019), The Costs of Decarbonisation: System 
+Costs with High Shares of Nuclear, The UK Energy Research Centre (2017), The costs and impacts of intermittency – 
+2016 update
+33 National Infrastructure Commission (2016), Smart Power
+34 National Infrastructure Commission (2016), Smart Power
+35 Carbon Trust and Imperial College London (2016), An analysis of electricity system flexibility for Great Britain  
+36 Aurora Energy Research (2020), Net zero electricity systems modelling 
+37 Department for Business Energy and Industrial Strategy (2019), The UK’s Draft Integrated National Energy and Climate 
+Plan (NECP) 
+38 Aurora Energy Research (2020), Net zero electricity systems modelling 
+39 Met Office (2019), Weather and Climate Related Sensitivities and Risks in a Highly Renewable UK Energy System: A 
+Literature Review 
+40 International Energy Agency (2014), Technology Roadmap – Energy Storage
+41 Viktor Johansson, Mariliis Lehvteer, Lisa Goransson (2019), Biomass in the electricity system: A complement to variable 
+renewables or a source of negative emissions? Energy 
+42 Committee on Climate Change (2019), Net Zero Technical report 
+43 National Grid ESO (2019), Future Energy Scenarios
+42
+National Infrastructure Commission | Net Zero: Opportunities for the power sector
+44 Element Energy and E4Tech (2018), Cost analysis of future heat infrastructure options  
+45 Element Energy and E4Tech (2018), Costs analysis of future heat infrastructure options  
+46 Department for Business, Energy and Industrial Strategy (2018), BEIS 2018 Fossil Fuel Price Assumptions
+47 Department for Business, Energy and Industrial Strategy (2012) The UK’s Draft Integrated National Energy and Climate 
+Plan (NECP) 
+48 Department for Business, Energy and Industrial Strategy (2019), DUKES 2019 Chapter 5: Electricity 
+49 ETN Global (2020), Hydrogen Gas Turbines 
+50 ETN Global (2020), Hydrogen Gas Turbines
+51 ETN Global (2020), Hydrogen Gas Turbines 
+52 ETN Global (2020), Hydrogen Gas Turbines
+53 Committee on Climate Change (2018), Hydrogen in a low-carbon economy 
+54 ETN Global (2020), Hydrogen Gas Turbines 
+55 Committee on Climate Change (2018), Hydrogen in a low-carbon economy 
+56  Jacobs and Element Energy (2018), Hydrogen supply chain evidence base 
+57 Jacobs and Element Energy (2018), Hydrogen supply chain evidence base
+58 Jacobs and Element Energy (2018), Hydrogen supply chain evidence base 
+59 Imperial College London (2018), Analysis of Alternative UK Heat Decarbonisation Pathways and Sustainable Gas 
+Institute, Imperial College London (2017), A Greener Gas Grid: What Are The Options? 
+60 Committee on Climate Change (2018), Biomass in a low-carbon economy 
+61 Department for Business Energy and Industrial Strategy (2020), Energy Trends: UK electricity 
+62 Sara Budinis, Samuel Krevor, Niall MacDowell, Nigel Brandon, Adam Hawkes (2018), An assessment of CCS costs, barriers 
+and potential Energy Strategy Reviews
+63 The Royal Society and Royal Academy of Engineering (2018), Greenhouse gas removals 
+64 Vivid Economics and Imperial College London (2019), Accelerated electrification and the GB electricity system  
+65 Department of Energy and Climate Change (2011), National Policy Statement for Nuclear Power Generation (EN-6) 
+Volume 1 of 2
+66 Energy Technology Institute (2015), Nuclear The role for nuclear within a low carbon energy system 
+67 Energy Technologies Institute (2017), Taking stock of UK CO₂ Storage 
+National Infrastructure Commission 
+Finlaison House 
+15-17 Furnival Street 
+London 
+EC4A 1AB 
+@NatInfraCom
+nic.org.uk
+NatInfraCom
+March 2020

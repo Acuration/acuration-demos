@@ -1,0 +1,1058 @@
+Presentation of  a potential design 
+Prepared by KPMG LLP for Drax Corporate 
+Limited
+CONFIDENTIAL
+27 December 2021
+kpmg.com/uk
+Long-duration storage 
+and flexibility
+Income Stabilisation 
+Mechanism
+1
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+IMPORTANT NOTICE
+This Summary Report (the “Report”) on proposals for an Income Stabilisation Mechanism for long-duration storage and flexibility has
+been prepared by KPMG LLP (“KPMG”) in accordance with the specific terms of reference agreed between Drax Corporate Limited
+(“the Company”) and KPMG and to address the scope of work outlined in Appendix 3.
+KPMG has agreed that we may disclose the attached Report, on the basis set out below.
+KPMG wishes you to be aware that the work it carried out for the Company was designed to meet our agreed requirements and
+particular features of the engagement determined by our needs at the time. The Report should not be regarded as suitable to be used or
+relied on by any party wishing to acquire any rights against KPMG other than the Company for any purpose or in any context.
+In consenting to the disclosure of the Report to you KPMG does not assume any responsibility to you in respect of its work for the
+Company, the Report or any judgments, conclusions, opinions, findings or recommendations that KPMG may have formed or made and,
+to the fullest extent permitted by law, KPMG will accept no liability in respect of any such matters to you. Should you choose to rely on
+the Report, you will do so at your own risk.
+2
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Key messages
+•
+KPMG was retained by Drax Corporate PLC to investigate whether any market challenges existed that may limit the development of long-duration 
+energy storage and, if those challenges existed what options may exist to address those challenges
+•
+The GB energy transition to Net Zero by 2050 has the potential to result in the Electricity System Operator (ESO) having a greater requirement for 
+flexible, long-duration1 storage and dispatchable plant:
+•
+The level and profile of electricity demand is changing as result of increasing uptake of Electric Vehicles (EVs) and electric space heating;
+•
+Increased renewable generation, and its intermittency, has the potential to increase the ESO’s requirement for dispatchable generation;
+•
+Flexible, long-duration storage has a role in managing these two trends.
+•
+A limited number of market characteristics can present challenges to securing efficient finance for long-duration storage projects, specifically:
+•
+Revenue and cost uncertainty;
+•
+Long lead times for project development; and
+•
+High up front capital expenditure requirements.
+•
+It is generally accepted that there are a number of options for market intervention to support flexibility and long-duration storage: including RAV 
+models, contracts for Differences (CfDs), a modified form of the capacity mechanism, a cap and floor regime.
+•
+An assessment of these available options using a set of selection criteria is presented on page 8. Based on this assessment while most approaches 
+have some advantages, a cap and floor revenue support mechanism has the potential to be suitable for long-duration storage projects because:
+•
+It can address the market challenges described above without distorting the market;
+•
+It is an approach recognised by investors (and the regulator) given its application elsewhere in the sector (e.g. interconnectors); and
+•
+It would incentivise the asset to be operated in accordance with system need and maximum efficiency.
+•
+A cap and floor mechanism will require a number of specific design features to reflect the nature of flexibility and long duration storage projects. 
+Specifically:
+•
+Pass through the costs of charging/pumping;
+•
+Flexibility to reflect the different long-duration storage technologies; and
+•
+Ensuring revenue stabilisation does not reduce incentives to deliver market efficient outcomes.
+1. We recognise that a formal definition of long-duration storage is yet to be formulated by BEIS and for the purposes of this analysis we regard long-duration storage as aligning with BEIS comment that 
+“storage across days, weeks and months could greatly reduce the costs of reaching Net Zero” BEIS (2021) “Facilitation the deployment of large-scale and long-duration electricity storage: call for 
+evidence.”
+3
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Net Zero is likely to require more flexible, long-duration storage
+The level and profile of electricity demand is changing…
+•
+Government’s 10 Point Plan for a Green Industrial Revolution aims to 
+accelerate deployment of Low Carbon Technologies (LCTs). 
+•
+The deployment of EVs and heat pumps in particular, is expected to 
+accelerate over the coming decade and beyond and will impact peak 
+demand. 
+•
+By 2050, peak demand is estimated (by the National Grid Energy 
+System Operator - ESO) to be at least 30GW higher than current 
+levels, and over 50GW higher in a world of high heat pump uptake.
+… and the focus on renewable generation increases 
+intermittency…
+•
+Government is targeting 40GW of offshore wind capacity by 2030.
+•
+Increasing wind capacity and reductions in capacity of other 
+dispatchable plant has the effect of making less dispatchable 
+generation available to the ESO (see right)
+•
+Greater variability of demand on the transmission network will 
+emerge, resulting from some renewables being connected to 
+distribution, exacerbating the balancing challenge for the ESO.
+ESO balancing costs are already increasing to manage the 
+situation: Year-to-date balancing costs in 2020-21 stand at £1.68bn; 
+close to 30% higher than 2019-20 and over 40% higher than 2018-19. 
+40
+50
+60
+70
+80
+90
+100
+110
+120
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+GW
+Electricity System Peak Demand Scenarios
+History
+Consumer Transformation
+System Transformation
+Leading the Way
+Steady Progression
+Source: National Grid ESO, Future Energy Scenarios 2021, Data workbook, FL.4
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2020
+2030
+2050
+Installed electricity generation 
+capacity (GW)
+Storage
+Other
+renewables
+Onshore wind
+Offshore wind
+Solar
+Fossil Fuel
+Hydrogen
+Nuclear
+BECCS
+Biomass
+20.0
+22.0
+24.0
+26.0
+28.0
+30.0
+32.0
+34.0
+00:30
+02:30
+04:30
+06:30
+08:30
+10:30
+12:30
+14:30
+16:30
+18:30
+20:30
+22:30
+Demand GW
+Time
+Transmission System Demand –
+high-solar vs low-solar day 
+High solar day (14/4/19)
+Low solar day (04/06/2019)
+Source: National Grid ESO, Summer Outlook Data 
+Workbook 2020, Figure 4 Embedded Solar
+Source: KPMG analysis and National Grid ESO, Future 
+Energy Scenarios 2021, Data workbook FL.13 and SV.22
+4
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Net Zero potentially requires more flexible, long-duration storage
+The ESO is already forecasting an increasing requirement for long-
+duration storage
+•
+National Grid Future Energy Scenarios (FES) projects an increase 
+from 2.8 GW storage capacity today to between 4.5 GW (Steady 
+Progression) and 15 GW (Leading the Way) by 2050.  This is 
+additional to Vehicle to Grid (V2G) or battery storage.
+•
+In the ESO FES analysis, 37-45% of storage (GW) is modelled as 
+long-duration storage, with an additional 1.5 GW of pumped hydro 
+needed by early 2030s. 
+Long duration storage also has the potential for system wide 
+economic benefits: 
+•
+Long-duration storage and flexibility, such as Pumped Storage 
+Hydro (PSH), can help the ESO manage the system (and keep 
+costs to consumers under control) in a variety of different ways, 
+including by providing stability services and by reducing the 
+curtailment of wind. 
+•
+According to Imperial College, investment in long-duration 
+flexibility can help to reduce total system costs by between £44m 
+and £316m per annum by 2050, depending on the amount and 
+location of long-duration flexibility deployed. 
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+14.0
+16.0
+Capacity (GW)
+Storage capacity (GW) – ESO Future Energy Scenarios
+Consumer Transformation
+Leading the Way
+Steady Progression
+System Transformation
+Source: KPMG analysis of  National Grid ESO, Future Energy Scenarios 2021, Data 
+workbook, FLX1
+5
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Market challenges may limit financeability of long-duration storage
+Barrier
+Description
+Implication for project
+Revenue 
+uncertainty
+Revenues from the provision of flexibility and long-duration storage 
+services can be uncertain and volatile with no longer term certainty 
+regarding the levels of likely revenues.
+In assessing whether to provide debt financing for a project (and at what cost) debt 
+providers analyse what are likely to be the minimum available cashflows from the 
+project available to cover the interest payments on any loans due. Variable or uncertain 
+revenues or costs may result in uncertainty over cashflows available to service any 
+debt in the project which may explain why such projects have faced challenges 
+securing finance to date.
+Cashflow 
+uncertainty
+Long-duration storage projects (such as PSH) face variable costs of 
+charging, such as pumping of water back up to the reservoir.  The 
+price of the energy to do this is driven by the market, can be highly 
+variable and therefore also has an effect on the uncertainty of 
+cashflows.
+Long project 
+development 
+lead times
+For some long-duration storage projects (such as PSH) there can 
+be long project development lead times (e.g. 5 to 7 years) and over 
+this period it is not certain as to what revenues the developer will 
+earn once operational (see below.)
+Without an understanding of the likely revenue profile, lenders may potentially be 
+unwilling to provide debt finance to project developers.
+High capital 
+requirements
+New-build long-duration flexibility is capital intensive. On its own 
+the cost of new-build long-duration flexibility is high. On its own 
+this is not an investment barrier. However, a high capex 
+requirement compounds the revenue uncertainty and cashflow 
+uncertainty and further increases the risk profile of the project.
+Projects with high capital costs combined with revenue and cashflow uncertainty are 
+likely to have a risk profile which exceeds the level of risk at which investors or lenders 
+are willing to provide finance2.
+Potential barriers to successful financing and delivery of long-duration storage
+Revenue stream
+6+ yr
+5 yr
+4 yr
+3 yr
+2 year
+1 year
+1m
+1w
+24hr
+1hr
+Capacity Market
+Black Start
+Fast Reserve
+Dynamic Containment
+Market Arbitrage
+Balancing Mechanism
+Pumped storage build-time
+Existing support mechanisms do not align with the development timescales for some long-duration storage such as PSH
+2. Ofgem “Cap and Floor regime: unlocking investment in interconnectors.”
+6
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Potential approaches to address the market challenges
+Regime Type
+High-level description
+Contract for 
+Difference
+If wholesale power prices fall below a defined level during 
+certain time periods, providers receive a £MWh strike-price 
+for electricity discharged onto the system.
+RAV Model
+Long-duration storage assets become directly regulated 
+with allowed revenues determined by Ofgem based on a 
+Regulated Asset Value (RAV) and a regulated allowed cost 
+of capital.
+Reformed 
+Capacity 
+Market
+The existing capacity market (CM) could be reformed to 
+send stronger long-term price signals for low-carbon 
+flexibility. This could include a new T-[x] auction for 
+technologies with longer lead times. It could also include 
+split auctions allocating low carbon capacity first, allowing a 
+potentially higher clearing price.
+Cap and Floor
+Revenues (or margins) are subject to minimum and 
+maximum levels. Below the ‘floor’ customers would top-up 
+revenues, and earnings above the ‘cap’ would be returned 
+(in whole or in part) to customers.
+•
+Based on existing literature and our understanding of the GB 
+energy market, we identified existing regime types with 
+potential to address the investment barriers identified on the 
+previous page;
+•
+The four shortlisted options are described in the table to the 
+right
+•
+We also considered:
+•
+A ‘Market-only’ model: this would have the potential to 
+perpetuate the financing issues for long-duration storage 
+that we observe today; and
+•
+Directly funded grants, these did not necessarily have 
+the potential to meet Government value for money 
+criteria.
+Potential revenue support regimes subject to evaluation
+7
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Below is the framework we used to evaluate the four options to identify a preferred regime type to overcome the financeability challenges 
+facing capital intensive long-duration storage and flexibility projects. This assessment framework is based on a range of published 
+Government and Ofgem documents regarding the selection of appropriate energy policy options3.
+Assessing the approaches: framework
+Advancing the low carbon economy
+In the places which stand to benefit 
+the most by boosting productivity and 
+driving regional growth.
+Maintaining security of supply
+Protecting the delivery of energy to 
+consumers is a welfare issue which 
+transcends cost and decarbonisation 
+challenges on the political agenda. 
+Achieving value for money
+Costs to implement and run must be 
+outweighed by benefits to consumers 
+through lower bills; can include through 
+long-term economic benefits of a low 
+carbon economy.
+Levelling up: Jobs & Investment
+This transition to Net Zero provides 
+Government with a real opportunity to 
+invest in regions across the UK to grow 
+jobs and investment. 
+Incentivise efficiency
+Compatible with price signals that 
+promote short run efficiency (best 
+utilisation of existing assets) as well as 
+low long run marginal cost in new 
+technologies.
+Avoid market distortions
+The GB power market has multiple 
+existing and overlapping market 
+frameworks. This regime needs to 
+interact with these without inefficient 
+or distortive market behaviours. 
+Risk apportionment
+Allocation of technology and delivery 
+risk should be appropriately distributed 
+across consumers, industry and 
+government.
+Competitive pressure
+The regime should reveal the best 
+solutions and should be: technology 
+neutral; compatible with competitive 
+tendering; have a pipeline of potential 
+participants.
+Demonstrate 
+that the 
+proposed 
+regime for 
+long-duration 
+storage and 
+flexibility can 
+meet 
+requirements 
+of policy-
+makers, 
+investors, and 
+customers
+Facilitate system needs
+The regime needs to support new 
+projects in a way that maximises 
+delivery of future system needs. This is 
+core to justification of the case for 
+intervention.
+Complexity (and cost) to establish
+Regimes which are complex and costly 
+to develop are less likely to gain 
+traction; unless they have a clear and 
+significantly better benefits case than 
+alternatives.
+Address the market challenge
+The regime and design need to 
+effectively address the market failure –
+i.e. solve the problem faced by long-
+duration storage projects.
+…align with wider government energy 
+and economic policy objectives.
+… take into account market 
+fundamentals…
+A suitable regime 
+must…
+… be deliverable and effective at 
+bringing forward new long-duration 
+storage and flexibility…
+The first three criteria regarding effectiveness and 
+deliverability are treated as ‘essential’. 
+Any regime-type scoring a ‘red’ against one of 
+these is considered not suitable, irrespective of 
+how it scores against the remaining criteria.
+3. See BEIS (2021) “Facilitation of the deployment of large-scale and long-duration electricity storage: call for evidence.”, Ofgem “Cap and Floor regime: unlocking investment in interconnectors and HM 
+Government (2020) “The 10 point plan for a Green Industrial Revolution.”
+8
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Assessing the approaches: findings
+A Cap and Floor income stabilisation mechanism has a number of 
+characteristics that have the potential to address the market challenges 
+facing capital intensive long duration energy storage projects. The basis 
+behind our analysis is summarised below.
+•
+The Cap and Floor regime has the potential to provide sufficient certainty 
+to investors that income will cover the cost of debt which has the potential 
+for unlocking finance for new projects to go ahead.
+•
+While a reformed Capacity Mechanism can provide stable minimum 
+revenue streams, it is not the preferred option because CM-payments 
+appear unlikely to be sufficient to service debt costs for large-scale 
+investment (see the summary of our analysis on page 14.)
+•
+The RAV-model may be unlikely to provide sufficient incentives for asset 
+operators to respond to market signals and carries minimal competitive 
+pressure to drive efficiency. 
+•
+Contract for Difference (CFD) has the potential to be unsuitable because 
+this type of regime typically incentivises export of power irrespective of 
+market conditions and therefore may not reflect the operating 
+characteristics (or value) of storage assets. Equally a Dispatchable CFD (as 
+being considered for Power CCS projects) is likely to be overly complex 
+and risk market distortion.
+CFD
+RAV Model
+Reformed 
+CM
+Cap and 
+Floor
+Deliverable and effective*
+Complexity and cost
+Facilitates system needs
+Solves market failure
+Market fundamentals
+Risk apportionment
+Incentivise efficiency
+Competitive pressure
+Avoid market distortions
+Policy objectives
+Value for money
+Advance low carbon economy
+Jobs and investment
+Security of supply
+Rating
+Description
+Regime type strongly aligns with the criteria. Or, where the regime type does not align with the criteria, potential mitigations are easily identifiable.
+Regime type does not fully align with the criteria but mitigations are possible. However, potential mitigations may either only partially resolve the issue or may be 
+complex to implement. 
+Regime type does not align with the criteria and suitable mitigations not readily identifiable.
+The regime type neither algins with nor undermines the criteria relative to the status quo.
+Summary of assessment of income support mechanisms
+Key to assessment framework
+*The deliverability and effectiveness are treated as ‘essential’ criteria. Any regime-type scoring a ‘red’ 
+against one of these is considered not suitable, irrespective of how it scores against the remaining criteria.
+9
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Developing cap and floor for long-duration storage
+The Cap and Floor regime currently in operation for 
+interconnectors has been successful in attracting private 
+sector investment into the sector.
+A similar regime would be beneficial in facilitating 
+investment into long-duration storage and flexibility. 
+However, there are specific design issues to consider:
+•
+The costs of “charging” storage, should be excluded 
+from the Cap and Floor and netted off from revenue.
+This is because these costs tend to be determined by 
+the market and are therefore unpredictable. This cost 
+unpredictability (shown for Cruachan 1 in the figure to 
+the right) together with volatility of revenue is unlikely to 
+secure finance.
+•
+The assessment framework for projects in their 
+development phases and eligibility criteria need to 
+be specified with an element of flexibility to adapt to 
+the wide range of available long-duration storage
+and flexibility solutions that could be made available 
+under the scheme.
+•
+A mechanism (a ‘system efficiency incentive’) will be 
+needed to incentivise operators’ to ensure efficient 
+operation of the asset and maximising system and 
+consumer benefits.
+A framework of this design is likely to significantly increase 
+the potential for projects to access cost effective debt 
+funding and allow the project development to move 
+forwards.
+Variability of ‘charging costs’ for pumped storage hydro
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+Power / cost of charging
+1.0 = Long-run 
+average monthly 
+pumping costs
+Monthly 
+pumping cost 
+approx. 350% 
+of the long run 
+average
+Monthly pumping 
+cost approx. 10% of 
+the long run average
+Source: KPMG analysis of Cruachan 1 operational data
+Sharing factors provide a finite incentive above the cap
+1.00
+1.05
+1.10
+1.15
+1.20
+1.25
+Revenue
+Cap
+Revenue
+Post Sharing Factor Total
+0.9 sharing factor 
+applied to first 5%
+of revenue above 
+the cap…
+Ratcheting sharing 
+factors result in an 
+effective up-side 
+limit of 10% above 
+the Cap 
+0.75 sharing 
+factor applied up 
+to 10% above 
+the cap….
+0.25 sharing 
+factor up to 15%
+…
+0.1 sharing 
+factor up to 
+20%
+Revenue over the incentive 
+paid back to customers
+No further 
+sharing above 
+20%
+Source: KPMG Analysis
+10
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Summary design of the cap and floor regime 
+Aspect
+Description
+The basics
+Objective of the regime
+•
+Regime seeks to de-risk large scale, capital intensive long-duration flexibility projects.
+Regime length
+•
+25-years
+Reconciliation
+•
+Annual reconciliation of revenue against the Cap and Floor
+Eligibility
+Capital intensive
+•
+Minimum capital intensity of £0.5m/MW
+Large-scale
+•
+Minimum response capacity 100MW (indicative, pending further assessment of system need)
+Longer-duration
+•
+Minimum response duration of at least 5-hours
+Low Carbon
+•
+Maximum 0g CO2/kWh carbon intensity of direct emissions when exporting to the grid
+Flexible response
+•
+Maximum response time to full-output not more than 15mins
+Assessment and award process
+Process
+•
+Three stage assessment process administered in application windows by Ofgem
+Assessment
+•
+Projects require individually positive cost benefit analysis results (CBA) as well as collective positive CBA for all projects 
+within the window
+Cap and Floor
+Cap
+•
+Revenues recover capex, opex and an allowed cost of equity (with system efficiency incentive above the cap)
+Floor
+•
+Provides recovery of debt service requirements
+‘Net off’ charging costs
+•
+Developers protected from volatility of costs to ‘charge’ storage assets
+Availability and incentive
+Availability target
+•
+Minimum availability target of 75%
+Penalty for low availability
+•
+No floor payments in years where availability target not met
+Investor protection
+•
+Loan scheme available to cover cost of debt if floor payments not received – up to a limit of 4x the floor level
+System efficiency incentive
+•
+Up to 10% incentive above the cap to maximise system benefits – shared with consumers through sharing factor
+Recommended key characteristics of a Cap and Floor regime for long-duration storage and flexibility
+More detail on subsequent pages.
+11
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Implementation
+The regime would be awarded to projects via an administrative 
+process led by Ofgem.
+•
+We are proposing that the award process would include three stages, 
+similar to the existing interconnector cap and floor regime:
+•
+Initial assessment;
+•
+Cost assessment; and 
+•
+Post-construction review.
+•
+An administrative process is likely to be more appropriate:
+•
+Long-duration projects tend to have diverse characteristics 
+making competition challenging; and
+•
+Ofgem would assess the cost benefit of the proposed 
+projects to ensure alignment with the regime objective and 
+value for money to consumers. 
+•
+The regime would be available to developers through application 
+windows to be set by the regulator.
+•
+The award process would be supported by annual reporting both 
+during the construction and operation phases.
+•
+Aligning the implementation of a cap and floor regime for long-
+duration storage with existing regimes (such as for interconnectors) 
+has the advantage of being understood and trusted by developers 
+and investors.
+•
+The implementation of the process will be subject to delivery of legal 
+and regulatory approval.
+12
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Summary 
+•
+The cap and floor regime may offer a relatively straightforward solution to the current market challenges;
+•
+It may have the potential to  de-risk investment, enabling cheaper financing, without unduly favouring or subsidising a particular asset type; and
+•
+It is complementary to the existing market framework, avoiding distortion and incentivising efficient system outcomes.
+A1
+Appendix
+14
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+Cap and Floor versus Reformed Capacity Market
+A Cap and Floor is expected to be a more economic and effective means of supporting long-duration flexibility  than a reformed CM. 
+We understand that there is an increasing debate in the industry and with policy makers as to whether modifications to the existing CM would be a 
+sufficient long term solution to the issue of revenue support for long-duration storage. Further development of the CM to reflect the changing 
+requirements of the energy market is likely to be necessary given the extent and nature of the changes required to deliver Net Zero by 2050. In the 
+specific case of support for long-duration flexibility, there are additional merits associated with a revenue Cap and Floor (which is complementary to the 
+CM)  compared with a CM-only approach. These are set out below.
+Reformed Capacity Mechanism 
+Cap and Floor
+Solves 
+market 
+failure
+•
+Long-duration flexibility can provide a range of services but may not be able to bid 
+economically into a capacity mechanism at a price that is cost effective on a capacity-only 
+basis. As such, long-duration would not necessarily receive support in a competition design to 
+procure capacity at lowest cost.
+•
+This is demonstrated by the fact that existing clearing prices have been insufficient to address 
+the market failure of providing the revenue certainty required to unlock financing for long-
+duration flexibility projects. 
+•
+Addressing this draw-back would impact on the value for money delivered through a capacity 
+mechanism. 
+•
+Under a Cap and Floor, only the absolute 
+minimum level of underwriting is provided 
+by customers to enable financing 
+requirements to be met. 
+•
+The regime is set on the basis that assets 
+are competing across multiple revenue 
+streams – including provision of capacity. 
+This provides improved value for money 
+for customers compared with relying 
+solely on the capacity mechanism.
+•
+In addition, the 25 year time horizon of the 
+proposed Cap and Floor also spreads the 
+underwriting of the capital costs over a 
+longer period, reducing the potential 
+burden to customers in any single year. 
+Value for 
+money
+•
+A reformed capacity mechanism could be developed to enable long-duration flexibility to 
+compete successfully (for example through separate auction pots - similar to the CFD ‘Pot 
+2’). This would result in a higher clearing price for these technologies. 
+•
+This could enable a clearing price that is high enough to meet the minimum requirements for 
+financing. However, in years where other non-capacity revenues streams are sufficient, 
+consumer payments under the CM to long-duration flexibility would be uneconomic (i.e.  
+consumers would be overpaying for the capacity procured through the CM). 
+Facilitate 
+system needs
+•
+A capacity mechanism is focused on ensuring the provision of sufficient capacity to meet 
+peak demand. Therefore, an efficient CM would not bring forward any flexibility of greater 
+than 4 hours, unless high de-rating factors are applied across the curve. 
+•
+The proposed Cap and Floor approach 
+targets those projects that have the 
+technical capabilities to provide a range of 
+system benefits and actively appraises the 
+value of these to consumers through the 
+CBA and Ofgem-led assessment process. 
+A2
+Appendix – Potential 
+design blueprint
+16
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Potential income stabilisation mechanism
+Mechanism Design
+Summary
+Objective of the regime
+•
+Regime seeks to de-risk large scale, capital intensive long-duration flexibility projects.
+Eligibility requirements
+•
+Capital intensive: Minimum capital intensity of £0.5m/MW
+•
+Large-scale: Minimum response capacity 100MW (indicative; pending further assessment of system need)
+•
+Longer-duration: Minimum response duration of at least 5-hours
+•
+Low Carbon: Maximum carbon intensity of 0g CO2/kWh
+•
+Flexible response: Maximum response time to full-output not more than 15mins
+Assessment and award process
+•
+Three stage assessment process administered in application windows by Ofgem; (1) Initial Assessment, (2) Cost 
+Assessment, (3) Post-construction Review
+•
+Projects require individually positive CBA as well as collective positive CBA for all projects within the window
+Regime duration and start dates
+•
+Regime length of 25 years
+•
+Regime starts at the earlier of the full commissioning date, or 12-months after the planned commissioning date
+Setting the Cap and Floor
+•
+Cap and Floor levels to be set ex ante (finalised at Post Construction Review)
+•
+Annualised and flat in real terms to provide consistent levels over the life of the regime
+•
+Cap and Floor set on the basis of the established building blocks approach (with an incentive on efficient outcomes at the 
+cap)
+System efficiency incentive
+•
+Up to 10% incentive above the cap to maximise system benefits – shared with consumers through sharing factor
+Relevant revenues
+•
+All revenues earned by projects to be considered relevant for purposes of comparison to the Cap and Floor levels
+•
+This includes; Wholesale market arbitrage; Capacity Market; Balancing Mechanism; Balancing Services and other 
+Ancillary Services. 
+Cost of Debt 
+(returns at the Floor) 
+•
+Two approaches to cost of debt available for developers to identify at the Initial Assessment
+•
+‘Actual’ and ‘Notional’ Cost of Debt approaches available
+Cost of Equity
+(returns at the Cap)
+•
+Cost of Equity calculated on basis of the established CAPM approach
+•
+Project specific considerations (incl. Betas) to be applied
+Refinancing
+•
+A refinancing gainshare of 50:50 in place for projects which opt for the ‘actual’ cost of debt approach
+17
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Mechanism Design
+Summary
+Availability
+•
+Availability Target of 75%
+•
+No floor payments available in years where availability target is not reached
+Force Majeure
+•
+Unforeseen costs beyond the developers control may be added to the Cap and Floor levels following an ex post  review 
+by Ofgem 
+Depreciation
+•
+Straight-line depreciation over 25-years of the regime
+•
+Depreciation fully recovered within the regime period
+Assessment period
+•
+Annual reconciliation against Cap and Floor levels
+Regulatory reporting
+•
+Annual submission of costs and progress against timelines during construction
+•
+Annual submission of revenue and availability data for reconciliation assessment
+•
+Reporting on charging costs (e.g. pumping costs for pumped storage hydro) 
+Decommissioning
+•
+Cost assessed ex ante and included in Cap and Floor levels
+•
+Re-opener only in the event of legislative change
+Tax
+•
+Allowance included in Cap and Floor levels ex ante
+•
+Re-opener only in the event of legislative change
+Potential income stabilisation mechanism
+18
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Area of uncertainty
+Uncertainty Mechanism
+Variable opex volatility
+•
+Pumping costs netted-off revenue before determining performance against Cap and Floor levels through annual 
+reconciliation. 
+Non-controllable costs
+•
+Pass-through. Ex post adjustment of Cap and Floor levels through annual reconciliation based on actual costs incurred.
+Decommissioning
+•
+Re-opener. Ex ante allowance; a review may be triggered by legislative change.
+Tax
+•
+Re-opener. Ex ante allowance; a review may be tiggered by legislative change.
+Availability
+•
+Ex post review through annual reconciliation. Adjustment by actual availability for ‘Exception Outages’ and ‘Allowed 
+Outages’. 
+Force Majeure
+•
+Ex post review through annual reconciliation. Adjustments to Cap and Floor level for efficiently incurred unforeseen costs 
+beyond developers control. 
+Refinancing
+•
+Gainshare applied through annual reconciliation. (Only applicable under ‘actual cost of debt’ approach). 
+Potential income stabilisation mechanism
+A3
+Appendix – Scope of 
+services and basis of 
+preparation
+20
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global organisation of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved
+Document Classification: KPMG Confidential
+CONFIDENTIAL
+LONG DURATION STORAGE: INCOME STABILISATION MECHANISM
+LONG-DURATION STORAGE: INCOME STABILISATION MECHANISM
+Scope of services summary
+Step 
+Scope
+Mobilisation meeting
+-
+Confirm timelines and form of deliverables
+-
+Confirm key contacts and internal stakeholders
+Part 1: KPMG to prepare an independent analysis of:
+i.
+the extent to which changes in the GB 
+energy market could impact the demand 
+for long-duration storage and flexibility;
+ii.
+identify potential market challenges to 
+the provision of that flexibility; and
+iii.
+Identify options for addressing those 
+challenges. 
+-
+Analysis by KPMG regarding:
+-
+Case for longer-duration flexibility
+-
+Existing challenges to investment
+-
+Options and assessment criteria for potential stabilisation mechanism.
+-
+Short summary document covering the following:
+-
+Existing challenges to investment 
+-
+Objectives for the new stabilisation mechanism
+Part 2: KPMG independent assessment of the relative 
+merits of the different options for addressing those 
+challenges from an energy market perspective.
+-
+KPMG prepare detailed proposals for design of the new support mechanism
+-
+Overview of market impacts and potential mitigations
+Draft Report
+and Power Point
+-
+Draft KPMG report
+-
+Prepare 10-12 page KPMG summary of key findings
+KPMG was retained by Drax Corporate PLC to investigate whether any market challenges existed that may limit the development of long-duration 
+energy storage and, if those challenges existed what options may exist to address those challenges
+Disclaimer
+This presentation summarises KPMG’s findings to assist Drax in determining design proposals for a income stabilisation mechanism for long-
+duration flexibility. This report has been prepared on the basis set out in the Agreement Letter (19 April 2021).
+Our work was conducted between April and May 2021 and this document prepared in June 2021 as part of our overall engagement to provide a
+report on the design for a proposed income stabilisation mechanism.
+This presentation has been prepared solely in connection with and for use in accordance with the terms of our Agreement with Drax. This
+presentation is provided on the basis that it is for Drax’s information only and that it will not be copied or disclosed to any third party or otherwise
+quoted or referred to, in whole or in part, without our prior written consent.
+Limitations
+We have not verified the reliability or accuracy of any information obtained in the course of our work, other than in the circumstances set out in
+the Agreement dated 19 April 2021. We have indicated within this report the sources of the information provided. We have not sought to verify
+independently those sources unless otherwise stated within the document.
+This report has not been designed to be of benefit to anyone except Drax. In preparing this report we have not taken into account the interests,
+needs or circumstances of anyone apart from Drax, even though we may have been aware that others might read this document. We have
+prepared this document for the benefit of Drax alone.
+This document is not suitable to be relied on by any party wishing to acquire rights against KPMG LLP (other than Drax) for any purpose or in any
+context. Any party other than Drax that obtains access to this document or a copy (under the Freedom of Information Act 2000, the Freedom of
+Information (Scotland) Act 2002, through Drax’s publication or otherwise) and chooses to rely on this document (or any part of it) does so at its
+own risk. To the fullest extent permitted by law, KPMG LLP assumes no responsibility or liability in respect of this report to any party other than
+Drax.
+In particular, and without limiting the general statement above, since we have prepared this report for the benefit of Drax alone, this document
+has not been prepared for the benefit of any other public body nor for any other person or organisation who might have an interest in the matters
+discussed in this report.
+Please note that, except as required by law, the report is not intended to be copied, referred to or disclosed, in whole or in part. The document is
+confidential. Any disclosure of the document beyond Drax may substantially prejudice KPMG LLP’s commercial interests.
+Confidentiality
+This document is confidential. Any product of the services released to Drax in any form or medium shall be supplied by us on the basis that it is
+for Drax’s benefit and information only and that, save as may be required by law or by a competent regulatory authority (in which case Drax shall,
+unless prohibited by law, inform us in advance), it shall not be copied, referred to or disclosed, in whole (save for Drax’s own internal purposes) or
+in part, without our prior written consent.
+Basis of Preparation
+This document has been prepared solely in connection with and for use in accordance with the 
+terms of our Agreement dated 19 April 2021. This document is provided on the basis that it is for 
+Client’s information only and that it will not be copied or disclosed to any third party or otherwise 
+quoted or referred to, in whole or in part, without our prior written consent.
+We have not verified the reliability or accuracy of any information obtained in the course of our 
+work, other than in the circumstances set out in the Agreement dated 19 April 2021. We have 
+indicated within this document the sources of the information provided. We have not sought to 
+verify independently those sources unless otherwise stated within the document.
+This document has not been designed to be of benefit to anyone except the Client. In preparing 
+this document we have not taken into account the interests, needs or circumstances of anyone 
+apart from the Client, even though we may have been aware that others might read this 
+document. We have prepared this document for the benefit of the Client alone.
+© 2021 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG global 
+organisation of independent member firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved
+The KPMG name and logo are registered trademarks or trademarks of KPMG International.

@@ -1,0 +1,4456 @@
+Chapter 6
+Air Quality
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-1 
+ 
+CONTENTS 
+6. 
+Air Quality .......................................................................................................... 2 
+6.1 Introduction ............................................................................................... 3 
+6.2 Changes since the 2014 PEIR .................................................................. 3 
+6.3 Legislation, policy and guidance ............................................................... 4 
+6.4 Methodology ............................................................................................ 13 
+6.5 Baseline Environment ............................................................................. 35 
+6.6 Embedded Mitigation ............................................................................... 37 
+6.7 Assessment of Effects ............................................................................. 37 
+6.8 Mitigation and Monitoring ........................................................................ 47 
+6.9 Residual Effects ...................................................................................... 47 
+6.10 Cumulative and In-Combination Effects .................................................. 50 
+6.11 References .............................................................................................. 50 
+ 
+TABLES 
+Table 6-1: A summary of Changes since the 2014 PEIR to the Air Quality Assessment 
+4 
+Table 6-2: EU Limit Values ......................................................................................... 6 
+Table 6-3 - UK Air Quality Objectives ......................................................................... 7 
+Table 6-4: Environmental Assessment Levels (EALs) ................................................ 8 
+Table 6-5: IED Emission Limit Values for Gas turbines (including CCGT), using natural gas 
+as fuel ...................................................................................................................... 10 
+Table 6-6: Summary of consultation responses that have informed the scope and 
+methodology of the Air Quality assessment ............................................................. 14 
+Table 6-7: Stack properties and Emission Parameters ............................................. 18 
+Table 6-8: Building Parameters ................................................................................ 20 
+Table 6-9: Modelled Human Health Receptors ......................................................... 21 
+Table 6-10: Types of Impacts from Emissions of Particulate Matter ......................... 27 
+Table 6-11: Sensitivity of the Area to Dust Soiling Effects on People and Property .. 27 
+Table 6-12: Sensitivity of the Area to Human Health Impacts ................................... 28 
+Table 6-13: Sensitivity of the Area to Ecological Impacts ......................................... 28 
+Table 6-14: Defra Guidance on Where the Air Quality Objectives Should Apply ...... 29 
+Table 6-15: IAQM Potential Dust Emission Magnitude ............................................. 30 
+Table 6-16: Risk of Dust Impacts .............................................................................. 31 
+Table 6-17: Descriptors Applied to the Predicted Effects of Fugitive Emissions of Particulate 
+Matter ....................................................................................................................... 32 
+Table 6-18: Effects Descriptors at Individual Receptors – Annual Mean Impacts ..... 33 
+Table 6-19: Effects Descriptors at Individual Receptors – Short-term Impacts ......... 33 
+Table 6-20: CMS Site Details ................................................................................... 35 
+Table 6-21: CMS Monitored NO2 Concentrations (µg/m3) ........................................ 35 
+Table 6-22: CMS Monitored PM10 Concentrations (µg/m3) ....................................... 35 
+Table 6-23 : CMS Monitored PM2.5 Concentrations (µg/m3) ..................................... 36 
+Table 6-24: Defra Mapped Annual Background Pollutant Concentrations (µg/m³) at the 
+Application Site in 2016 ............................................................................................ 36 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-2 
+ 
+Table 6-25: 2016 Mapped vs Monitored Annual Mean Background NO2 Concentrations 
+(µg/m3) ..................................................................................................................... 37 
+Table 6-26: Summary Assessment of Dust Emissions Class ................................... 38 
+Table 6-27: Summary Assessment of Dust Emissions Class ................................... 39 
+Table 6-28: Summary Assessment of Dust Emissions Class ................................... 40 
+Table 6-29: Maximum Operational Impacts Over Five Years for a Stacks of 35 m Above 
+Ground at Off-Site Locations for Annual Mean NO2 ................................................. 41 
+Table 6-30: Maximum Operational Impacts Over Five Years for a Stack height of 35 m 
+Above Ground at Off-Site Locations for 99.79th Percentile NO2 ............................... 43 
+Table 6-31: Maximum Operational Impacts Over Five Years for a Stack height of 35 m 
+Above Ground at Off-Site Locations for Maximum 8 Hour Rolling CO ..................... 44 
+Table 6-32: Summary Assessment of Dust Emissions Class ................................... 46 
+Table 6-33: Air Quality Summary of Effects Arising During Construction Phase ....... 48 
+Table 6-34: Air Quality Summary of Effects Arising during Operational Phase ......... 49 
+ 
+FIGURES 
+Figure 6.1: Wind Roses 
+Figure 6.2: Buildings Modelled 
+Figure 6.3: Modelled Sensitive Human Receptors 
+Figure 6.4: Contour Plot of Maximum Annual Mean Nitrogen Dioxide Concentrations  
+Figure 6.5: Contour Plot of Maximum 99.79th Percentile Hourly Mean Nitrogen Dioxide 
+Concentrations  
+Figure 6.6: Contour Plot of Maximum Rolling 8-Hour CO Concentrations  
+ 
+APPENDICES 
+Appendix 6.1: Approach to Air Quality Dispersion Modelling 
+Appendix 6.2: Stack Height Determination  
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-3 
+ 
+6. 
+Air Quality  
+6.1 
+Introduction 
+6.1.1 
+This chapter identifies and assesses the preliminary findings of the potential effects 
+that the Project, as described in Chapter 3: Project and Site Description, may 
+have on air quality within the study area (detailed in Section 6.4 (c)) and identifies 
+the mitigation measures that will be implemented to prevent or reduce potential 
+adverse air quality effects, where possible.   
+6.1.2 
+The effects of the Project have been assessed using a detailed dispersion model to 
+predict the effects of the proposed operational Open Cycle Gas Turbine (OCGT) 
+exhaust stack emissions, based on the emission limit values set out in the Industrial 
+Emissions Directive (IED) (Ref. 6.1).   
+6.1.3 
+In addition to air quality effects from the proposed OCGT stack emissions, an 
+assessment has been undertaken of the potential for dust generation from the 
+construction phase.  
+6.1.4 
+Potential effects on air quality are interrelated with impacts on ecological receptors.  
+This chapter should be read in conjunction with Chapter 8: Ecology and Chapter 
+12: Traffic, Transport and Access of this PEIR.   
+a) Objectives of the assessment 
+6.1.5 
+The objectives of the assessment were to: 
+ 
+Assess impacts during the construction phase of the Project in terms of 
+construction dust; 
+ 
+Determine the appropriate stack height for the Generating Equipment so as to 
+overcome building downwash effects and minimise off-site air quality impacts; 
+and 
+ 
+Assess the impacts of the Generating Equipment stack emissions on air 
+quality, in terms of human health and ecological impacts, based on the 
+optimum stack height selected. 
+6.2 
+Changes since the 2014 PEIR 
+6.2.1 
+There have been changes to the design as a result of design evolution and 
+consultation as detailed in Chapter 3: Project and Site Description. To aid the 
+reader, Table 6-1 below outlines the changes to this assessment compared with the 
+2014 PIER.  
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-4 
+ 
+Table 6-1: A summary of Changes since the 2014 PEIR to the Air Quality Assessment 
+Section 
+Changes since the 2014 
+PEIR 
+Section Reference 
+Baseline 
+Additional baseline data has 
+become available since the 
+2014 PEIR was prepared. 
+Updated baseline data for 
+2014, 
+2015 
+and 
+2016 
+is 
+presented in Section 6.5 
+Methodology 
+The 
+EPUK 
+significance 
+criteria has been updated by 
+IAQM//EPUK since the 2014 
+PEIR was prepared.   
+The 
+updated 
+IAQM//EPUK 
+significance criteria has been 
+used to derive the significance 
+criteria 
+for 
+assessing 
+operational impacts are detail 
+in Section 6.4 (g)(ii) 
+The proposed Project has 
+been changed and rather 
+than 5 gas turbines each 
+served by a stack, the 
+project will consist of a 
+single gas turbine and single 
+stack. 
+An 
+updated 
+stack 
+height 
+determination 
+has 
+been 
+undertaken for the revised 
+scheme and this is presented 
+in Appendix 6.2. 
+Additional Receptors have 
+been included within the 
+modelling 
+The receptors assessed are 
+detailed in Table 6-9. 
+Updated meteorological data 
+has 
+been 
+used 
+in 
+the 
+assessment. 
+The meteorological data used 
+in the assessment is detailed 
+in Section 6.4 (d)(ii) 
+Significance of Effect 
+Updated modelling has been 
+undertaken since the 2014 
+PEIR. 
+The result of the updated 
+modelling using more recent 
+meteorological data and the 
+revised stack height of a 
+minimum 35 m is detailed in 
+Section 6.7 (b), with detail on 
+the Rochdale Envelope being 
+applied on the Project as a 
+whole in Section 6.4. 
+ 
+6.3 
+Legislation, policy and guidance  
+b)  National and European Air Quality Legislation and Policy 
+i. 
+Local Air Quality Management 
+6.3.1 
+The provisions of Part IV of the Environment Act 1995 establish a national 
+framework for air quality management, which requires all local authorities in 
+England, Scotland and Wales to conduct local air quality reviews. Section 82(1) of 
+the Act requires these reviews to include an assessment of the current air quality in 
+the area and the predicted air quality in future years. Should the reviews indicate 
+that the objectives prescribed in the Air Quality Strategy for England, Scotland, 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-5 
+ 
+Wales and Northern Ireland (Ref. 6.2) and the Air Quality Standards (Wales) 
+Regulations 2010 (Ref. 6.3) will not be met, the local authority is required to 
+designate an Air Quality Management Area (AQMA). Action must then be taken at a 
+local level to ensure that air quality in the area improves. This process is known as 
+‘local air quality management’ or LAQM and the approach to be followed by Welsh 
+Local Authorities is detailed within the Local Air Quality Management in Wales 
+Policy Guidance (Ref. 6.4). 
+ii. Air Quality Strategy 
+6.3.2 
+The Air Quality Strategy (AQS) identifies nine ambient air pollutants that have the 
+potential to cause harm to human health, with the exception of ozone which is 
+instead considered to be a regional problem, and two for the protection of 
+vegetation and ecosystems. The AQS defines objectives for these pollutants that 
+aim to reduce the impacts of these pollutants to negligible levels. The objectives 
+are not mandatory but rather policy intentions made by the UK Government and its 
+Devolved Administrations which set targets that local authorities should try to 
+achieve.  
+6.3.3 
+The current AQS was published in July 2007 and updates the original strategy to 
+set out new objectives for local authorities in undertaking their local air quality 
+management duties. The AQS objectives are based on the evidence supporting the 
+identification of the limit values and, in some instances, objectives in the current 
+AQS may be more onerous than the limit values set out within the relevant 
+European Union (EU) Directives and the Air Quality Standards (Wales) Regulations 
+2010. It is not a specific legal requirement to comply with objectives set within the 
+AQS except where equivalent limit values are set within the EU Directives and Air 
+Quality Standards (Wales) Regulations 2010. 
+iii. European Air Quality Directives 
+6.3.4 
+The Air Quality Framework Directive (96/62/EC) (Ref. 6.5) on ambient air quality 
+assessment and management defines the policy framework for 12 air pollutants 
+known to have a harmful effect on human health and the environment. The limit 
+values for the specific pollutants are set through a series of Daughter Directives.  
+ 
+Directive 1999/30/EC (the 1st Daughter Directive) sets limit values (values not 
+to be exceeded) for sulphur dioxide, nitrogen dioxide and oxides of nitrogen, 
+particulate matter (dust) and lead in ambient air; 
+ 
+Directive 2000/69/EC (the 2nd Daughter Directive) establishes limit values for 
+concentrations of benzene and carbon monoxide in ambient air; 
+ 
+Directive 2002/3/EC (the 3rd Daughter Directive) establishes long-term 
+objectives, target values, an alert threshold and an information threshold for 
+concentrations of ozone in ambient air; 
+ 
+Directive 2004/107/EC (the 4th Daughter Directive) establishes a target value 
+for the concentration of arsenic, cadmium, nickel and benzo(a)pyrene in 
+ambient air so as to avoid, prevent or reduce harmful effects of arsenic, 
+cadmium, nickel and polycyclic aromatic hydrocarbons on human health and 
+the environment as a whole.  
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-6 
+ 
+6.3.5 
+The Air Quality Standards (Wales) Regulations 2010 (Ref. 6.6) came into force on 
+11th June 2010, replacing the previous Air Quality Standards (Wales) Regulations 
+2007.  The 2010 regulations transpose into national legislation the requirements of 
+Directive 
+2008/50/EC 
+and 
+Directive 
+2004/107/EC. 
+Directive 
+2008/50/EC 
+consolidates existing air quality legislation apart from the 4th Daughter Directive 
+and provides a new regulatory framework for PM2.5. 
+6.3.6 
+It makes provision under Article 22 for Member States to postpone attainment 
+deadlines and allow an exemption from the obligation to limit values for certain 
+pollutants, subject to strict conditions and assessment by the European 
+Commission. 
+iv. Air Quality Objectives and Limit Values 
+6.3.7 
+The air quality objectives and limit values currently applying to the UK can therefore 
+be split into two groups.  Each has a different legal status and is therefore handled 
+differently within the framework of UK air quality policy. These are: 
+ 
+EU limit values transcribed into UK legislation for which compliance is 
+mandatory; and 
+ 
+AQS objectives set down in regulations for the purposes of local air quality 
+management. 
+6.3.8 
+The AQS objectives and EU limit values relevant to this assessment are set out in 
+Table 6-2 and Table 6-3.  It should be noted that while PM10 and PM2.5 are included 
+in the following tables these are only relevant to construction dust and road vehicle 
+emission as particulate matter emission from burning natural gas is considered to 
+be negligible. 
+Table 6-2:  EU Limit Values 
+Pollutant 
+Limit Value 
+Measured as 
+Date to be achieved1 
+Carbon monoxide 
+(CO) 
+10.0 mg/m3 
+Maximum Daily 
+8-Hour Mean 
+updated hourly 
+1 January 2005 
+Nitrogen dioxide 
+(NO2) 
+200 µg/m3 not to be 
+exceeded more than 
+18 times per year 
+1 Hour Mean 
+1 January 2010 
+Nitrogen dioxide 
+(NO2) 
+40 µg/m3 
+Annual Mean 
+1 January 2010 
+Nitrogen Oxides 
+(NOx) [assuming as 
+nitrogen dioxide] 
+30 µg/m3 (for the 
+protection of 
+vegetation) 
+Annual Mean 
+19 July 2001 
+Particle matter 
+(PM10) [gravimetric] 
+50 µg/m3 not to be 
+exceeded more than 
+35 times per year 
+24 Hour Mean 
+1 January 2005 
+                                                                                                                     
+1 Date to be achieved and maintained thereafter. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-7 
+ 
+Pollutant 
+Limit Value 
+Measured as 
+Date to be achieved1 
+Particle matter 
+(PM10) [gravimetric] 
+40 µg/m3 
+Annual Mean 
+1 January 2005 
+Particle matter 
+(PM2.5) [exposure 
+reduction] 
+Target value 25 µg/m3
+Annual Mean 
+2010 
+Particle matter 
+(PM2.5) 
+25 µg/m3 
+Annual Mean 
+2015 
+Particle matter 
+(PM2.5) 
+20 µg/m3 
+Annual Mean 
+2020 
+Particle matter 
+(PM2.5) [exposure 
+reduction] 
+Target of 20% 
+reduction in 
+concentrations at 
+urban background 
+Annual Mean 
+Between 2010 and 
+2020 
+ 
+Table 6-3: UK Air Quality Objectives 
+Pollutant 
+Concentration 
+Measured as 
+Date to be 
+achieved2 
+Carbon monoxide (CO) 
+10.0 mg/m3 
+Maximum Daily 
+8-Hour Mean 
+31.12.2003 
+Nitrogen dioxide (NO2) 
+200 µg/m3 not to be 
+exceeded more than 18 
+times per year 
+1 Hour Mean 
+31.12.2005 
+Nitrogen dioxide (NO2) 
+40 µg/m3 
+Annual Mean 
+31.12.2005 
+Nitrogen Oxides (NOx) 
+30 µg/m3 (for the protection 
+of vegetation) 
+Annual Mean 
+31.12.2000 
+Particle matter (PM10) 
+[gravimetric] 
+50 µg/m3 not to be 
+exceeded more than 35 
+times per year 
+24 Hour Mean 
+31.12.2004 
+Particle matter (PM10) 
+[gravimetric] 
+40 µg/m3 
+Annual Mean 
+31.12.2004 
+Particle matter (PM2.5) 
+[exposure reduction] 
+25 µg/m3 
+Annual Mean 
+2020 
+Particle matter (PM2.5) 
+[exposure reduction UK 
+urban areas] 
+Target of 15% reduction in 
+concentrations at urban 
+background 
+Annual Mean 
+Between 2010 
+and 2020 
+ 
+v. Environmental Permitting Regulations 
+6.3.9 
+EU Directive 96/61/EC (Ref. 6.7) concerning Integrated Pollution Prevention and 
+Control (“the IPPC Directive”) applies an integrated environmental approach to the 
+                                                                                                                     
+2 Date to be achieved and maintained thereafter. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-8 
+ 
+regulation of certain industrial activities. The Environmental Permitting Regulations 
+(EPR) 2016 (Ref. 6.8) implement the IPPC Directive relating to installations in 
+England and Wales. The Regulations define activities that require an Environmental 
+Permit from NRW.  
+6.3.10 EPR is a regulatory system that employs an integrated approach to control the 
+environmental impacts of certain listed industrial activities including the generation 
+of energy. The intention of the regulatory system is to ensure that Best Available 
+Techniques (BAT), required by the IPPC Directive, are used to prevent or minimise 
+the effects of an activity on the environment, having regard to the effects of 
+emissions to air, land and water via a single permitting process. 
+6.3.11 To gain a permit, operators have to demonstrate in their applications that the 
+techniques they are using or are proposing to use are the BAT for their installation 
+and meet certain other requirements taking account of relevant local factors. The 
+permitting process also places a duty on the regulating body to ensure that the 
+requirements of the Industrial Emissions Directive 2010/75/EU (IED) (Ref. 6.1) are 
+included for permitted sites to which these apply. 
+6.3.12 The essence of BAT is that the techniques selected to protect the environment 
+should achieve a high degree of protection of people and the environment taken as 
+a whole. Indicative BAT standards are laid out in national guidance and where 
+relevant, should be applied unless a different standard can be justified for a 
+particular installation. NRW, as the regulating body, is legally obliged to require 
+more than BAT requirements where EU Air Quality Limit Values may be exceeded 
+by an existing operator. 
+6.3.13 The Environment Agency’s (EA) “Air emissions risk assessment for your 
+environmental permit” guidance (Ref. 6.9) (as applied by NRW), sets out the 
+approach that should be followed when assessing the potential air quality impacts 
+of a development. This comprises of an initial screening assessment making it 
+possible to identify emissions that result in “insignificant” impacts and therefore 
+further assessment is not required. 
+6.3.14 The EA guidance provides further assessment criteria in the form of EALs. The 
+EALs are additional assessment criteria outside of those that are set out in the AQS 
+objectives/limit values and are used for regulatory purposes to assess emissions 
+that are not under local authority control or receptors, such as ecological sites, 
+which can cover extensive areas outside of the local authority boundary.  
+6.3.15 Table 6-4 presents the EALs relevant to this assessment. 
+Table 6-4: Environmental Assessment Levels (EALs) 
+Pollutant 
+EAL 
+Measured as 
+Reason 
+Nitrogen oxides 
+(NOx) 
+75 µg/m3 
+Daily 
+For the protection of 
+vegetation and 
+ecosystems 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-9 
+ 
+vi. Critical Loads and Levels for Sensitive Ecological Receptors 
+6.3.16 The UK is bound by the terms of the European Birds and Habitats Directives (Ref. 
+6.10) and the Ramsar Convention (Ref. 6.11). The Conservation of Habitats and 
+Species Regulations 2010 (Ref. 6.12) provides for the protection of European sites 
+created under these polices, i.e. Special Areas of Conservation (SACs) designated 
+pursuant to the Habitats Directive, Special Protection Areas (SPAs) classified under 
+the Birds Directive, and Ramsar Sites designated as wetlands of international 
+importance. The 2010 Regulations apply specific provisions of the European 
+Directives to SACs, SPAs, candidate SACs (cSACs) and proposed SPAs (pSPAs), 
+which require them to be given special consideration and further assessment by 
+any development which is likely to lead to a significant effect upon them. 
+6.3.17 The impact of emissions from the Generating Equipment on sensitive ecological 
+receptors are quantified within this assessment in two ways: 
+ 
+As direct impacts arising due to increases in atmospheric pollutant 
+concentrations; assessed against Critical Levels (i.e. NOx), and 
+ 
+Indirect impacts arising through deposition of acids and nutrient nitrogen to the 
+ground surface, assessed against Critical Loads. 
+6.3.18 The critical levels for NOx for the protection of vegetation and ecosystems are 
+30 µg/m3 as an annual mean and 75 µg/m3 as a daily mean.  The critical levels 
+apply at all relevant ecological areas regardless of habitat type.  These values have 
+been adopted as the assessment criteria for the impact of the Generating 
+Equipment on designated nature sites. 
+6.3.19 Critical load are set to assess the impacts of a development on the ecological 
+feature of interest in terms of eutrophication (deposition of nutrient nitrogen) and 
+acidification (deposition of nitrogen and sulphur) and are dependent on the habitat 
+type and species present, and are specific to the sensitive receptors considered 
+within the assessment. The critical loads are set out on the Air Pollution Information 
+System (APIS) website (Ref. 6.13).   
+6.3.20 Critical loads are set at levels below which significant harmful effects do not occur.  
+For eutrophication critical loads are given in terms of the mass of nitrogen 
+deposited per unit area over a year (kgN/ha/yr) and are given as a range e.g. 10-15 
+kgN/ha/yr.  For acidification the critical load is assessed relevant to a Critical Load 
+Function (CLF) which assesses the relative contributions of nitrogen and sulphur 
+and the sensitivity of the habitat in question to each pollutant.  To determine the 
+CLF the sulphur deposition is plotted vs nitrogen deposition based on the following 
+three quantities: 
+ 
+Maximum critical load for sulphur - CLmax(S); 
+ 
+Minimum critical load for nitrogen - CLmin(N); and 
+ 
+Maximum critical load for nitrogen - CLmax(N). 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-10 
+ 
+6.3.21 Some habitat types are not considered sensitive to eutrophication or acidification 
+and for these habitats there is no relevant critical load against which contributions 
+from a development can be assessed. 
+6.3.22 The APIS website also provides background NOx concentrations and nitrogen/acid 
+deposition rates for use in assessing the impacts of a development on ecological 
+sites where the Process Contributions (PC) from the development exceed the 
+relevant screening criteria. 
+6.3.23 The critical load criteria adopted for the sensitive ecological receptors considered 
+by this assessment are presented in the Habitats Regulation Assessment which 
+accompanies Chapter 8: Ecology.  
+vii. Industrial Emission Directive (IED) Emission Limits 
+6.3.24 The Project will be designed and operated in accordance with the requirements of 
+the IED, which requires adherence to emission limits for a range of pollutants. 
+Emission Limit Values (ELVs) are maximum concentrations of residual pollutants 
+that can be released at source usually from a stack from the Project.  The relevant 
+ELVs for the Generating Equipment are set out in Annex V Part 1 of the IED. The 
+IED emission limits applicable to the Project are set out in Table 6-5. 
+Table 6-5:  IED Emission Limit Values for Gas turbines (including CCGT), using natural gas as fuel 
+Pollutant 
+Units 
+Emission limit Value (ELV) 
+NOx 
+mg/Nm3 
+50 
+CO 
+mg/Nm3 
+100 
+Note: Concentrations are normalised to a referenced temperature 273.15 K, pressure 101.3 kPa, 15% oxygen, dry gas. 
+c) Planning Policy 
+i. 
+National Policy Statements 
+6.3.25 The overarching National Policy Statement for Energy (EN-1) (Ref. 6.14), the 
+National Policy Statement for Fossil Fuel Electricity Generating Infrastructure (EN-
+2) (Ref. 6.15), the National Policy Statement for Gas Supply Infrastructure, Gas and 
+Oil Pipelines (EN-4) (Ref. 6.16), and the National Policy Statement for Electricity 
+Networks Infrastructure (EN-5) (Ref. 6.17) were adopted by Parliament in July 
+2011. EN-1 describes the requirements for an air quality assessment for energy 
+and electricity infrastructure projects and identifies traffic emissions, air pollution, 
+dust and odour as issues for human health that need to be taken into account in 
+the assessment of any proposed schemes, along with the effects of nuisance on 
+sensitive receptors. EN-2 and EN-4 do not set out additional guidance for air 
+quality, referring the reader back to the overarching guidance and approach set out 
+in EN1.  EN-5 does not specifically reference air quality.  EN-1 specifically 
+references the issue of air quality, and these are set out below.   
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-11 
+ 
+Paragraph 5.2.1 states:  
+“Infrastructure development can have adverse effects on air quality. The 
+construction, operation and decommissioning phases can involve emissions to air 
+which could lead to adverse impacts on health, on protected species and habitats, 
+or on the wider countryside.”  
+Paragraph 5.2.2 states that: 
+"the Government has determined that CO2 emissions are not reasons to prohibit 
+the consenting of projects" and that the "[IPC] does not, therefore, need to assess 
+individual applications in terms of carbon emissions against carbon budgets and 
+this section [NPS EN-1, Section 5.2 Air quality and emissions] does not address 
+CO2 emissions.” 
+Paragraph 5.2.7 states:  
+“The ES should describe: 
+ 
+Any significant air emissions, their mitigation and any residual effects 
+distinguishing between the project stages and taking account of any significant 
+emissions from any road traffic generated by the project; 
+ 
+The predicted absolute emission levels of the proposed project, after mitigation 
+methods have been applied; 
+ 
+Existing air quality levels and the relative change in air quality from existing 
+levels;  
+ 
+Any potential eutrophication impact.” 
+ii. Planning Policy Wales 
+6.3.26 Current land use policies for Wales are set out in Planning Policy Wales (‘PPW’) 
+(9th Edition, November 2016) (Ref. 6.18). The policy document is supplemented by 
+a series of Technical Advice Notes (‘TANs’).  Paragraph 13.12.1 of PPW states that: 
+“The potential for pollution affecting the use of land will be a material consideration 
+in deciding whether to grant planning permission.  Material considerations in 
+determining applications for potentially polluting development are likely to include: 
+ 
+Location, taking into account such considerations as the reasons for selecting 
+the chosen site itself; 
+ 
+Impact on health and amenity; 
+ 
+The risk and impact of potential pollution from the development, insofar as this 
+might have an effect on the use of other land and the surrounding environment 
+(the environmental regulatory regime may well have an interest in these 
+issues, particularly if the development would impact on an Air Quality 
+Management Area or a SAC); 
+ 
+Prevention of nuisance; 
+ 
+Impact on the road and other transport networks, and in particular on traffic 
+generation; and  
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-12 
+ 
+ 
+The need, where relevant, and feasibility of restoring the land (and water 
+resources) to standards sufficient for an appropriate after use. (Powers under 
+the Pollution Prevention and Control Act 1999 require an operator to return a 
+site to a satisfactory state on surrender of an Integrated Pollution Prevention 
+and Control Permit).” 
+iii. Local Planning Policy – City and County Swansea 
+6.3.27 City and County Swansea’s (CCS’s) Unitary Development Plan (UDP) (Ref. 6.19), 
+adopted on 10th November 2008, is the councils most up to date Development 
+Plan that will be used in the determination of planning applications.  CCS submitted 
+the Swansea Local Development Plan (LDP) (Ref. 6.20) to the Ministers of the 
+Welsh Government for independent examination, in 28 July 2017.  If approved and 
+once adopted by CCS, this will replace the UDP. 
+6.3.28 CCS’s UDP includes Policy EV40, which states, “Development proposals will not 
+be permitted that would cause or result in significant harm to health, local amenity, 
+natural heritage, the historic environment or landscape character because of 
+significant levels of air, noise or light pollution” the policy further states that, 
+“planning permission will not be granted for developments that would cause 
+significant harm to air quality by virtue of emissions from the development itself or 
+the additional new traffic movements it would generate.” 
+iv. City and County Swansea Air Quality Action Plan 
+6.3.29 CCS declared parts of the lower Swansea Valley an AQMA in 2001, for exceedance 
+of annual mean NO2 objective. The originally declared AQMA was amended in 
+2010 due to further exceedance of NO2 objective occurring within the Sketty and 
+Fforestfach areas. The latest published Air Quality Progress report for year 2016 
+(Ref. 6.21) states that the latest monitoring indicates areas of exceedances of the 
+NO2 annual mean objective outside the current AQMA. Therefore CCS has 
+proposed to undertake a Detailed Assessment study for an area located within City 
+Centre.  At the time of writing the results of the Detailed Assessment have not been 
+published, however given the distance of the Project Site from the City Centre the 
+impacts of any emissions from the Generating Equipment on any potential AQMA is 
+anticipated to be negligible.  
+6.3.30 CCS published the Air Quality Action Plan (AQAP) in 2004 (Ref. 6.22) which 
+outlined air quality improvement measures for declared AQMA. The AQAP 
+incorporates work already undertaken by the CCS in the Local Transport Plan and 
+Unitary Development Plan. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-13 
+ 
+6.4 
+Methodology 
+a) Scope of the assessment 
+6.4.1 
+The scope of this assessment has been determined through a formal EIA scoping 
+opinion given by the Secretary of State. Comments raised on the EIA Scoping 
+Report have been taken into account in the development of the assessment 
+methodology and these are detailed where relevant in this chapter.  Responses to 
+the comments raised in the EIA Scoping Opinion can be found in Appendix 4.3 and 
+Table 6-6. 
+6.4.2 
+The approach to the assessment of emissions from the Project will involve the 
+following key elements: 
+ 
+Establish appropriate air quality assessment criteria for the Project in terms of 
+EU Limit values, AQS objectives and EALs. 
+ 
+Establishing the background ambient concentrations of each relevant pollutant. 
+ 
+Qualitative assessment of construction phase dust and PM10 emissions in 
+terms of the Power Generation Plant, Gas Connection and Electrical 
+Connection.  The assessment will consider dust nuisance, human health 
+impacts and ecological impact. 
+ 
+Detailed consideration of stack height for the Generating Equipment. 
+ 
+Quantitative assessment of the operational effects on local air quality from 
+stack emissions utilising a “new generation” Gaussian dispersion model 
+assessed in terms of process contributions (PC) from the site in isolation, and 
+assessment of resultant predicted environmental concentrations (PEC) taking 
+into account cumulative impacts through incorporation of the background 
+concentration. Modelling will consider: 
+ 
+For Human Health, NO2 and CO concentrations will be predicted and 
+compared with the relevant standard.  
+ 
+For sensitive ecosystems, concentrations of NOx, and will be modelled along 
+with nitrogen and acid depositions at the closest sensitive ecological receptor 
+sites. 
+ 
+An assessment of the significance of the potential impacts of the development 
+will be made with reference to appropriate air quality assessment criteria and 
+critical loads and critical levels set out in the APIS system for ecological 
+receptors. 
+6.4.3 
+The following items have been scoped out of further consideration: 
+ 
+Operational emissions from the Gas Connection and Electrical Connection; 
+ 
+Construction and operation traffic emissions; and  
+ 
+Odour. 
+i. 
+Traffic Emissions 
+6.4.4 
+In order to assess potential traffic impacts during construction, operation, 
+maintenance and decommissioning the EPUK/IAQM Land-Use guidance (Ref. 23) 
+provides indicative criteria to aid in determining if an air quality assessment is 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-14 
+ 
+required.  The IAQM/EPUK guidance states that in terms of road traffic and 
+assessment is required where the development will: 
+ 
+Cause a significant change in Light Duty Vehicle (LDV) traffic flows on local 
+roads with relevant receptors. (LDV = cars and small vans <3.5 t gross vehicle 
+weight). A change in LDV flows is considered to be an increase of more than 
+100 Annual Average Daily Traffic (AADT) movements within or adjacent to an 
+AQMA or more than 500 AADT elsewhere. 
+ 
+Cause a significant change in Heavy Duty Vehicle (HDV) flows on local roads 
+with relevant receptors. (HDV = goods vehicles + buses >3.5 t gross vehicle 
+weight). A change in LDV flows is considered to be an increase of more than 
+25 AADT within or adjacent to an AQMA or more than 100 AADT elsewhere. 
+ 
+Realign roads, i.e. changing the proximity of receptors to traffic lanes. Where 
+the change is 5 m or more and the road is within an AQMA. 
+6.4.5 
+The Project is located over 5 km from the closest AQMA and is not anticipated to 
+lead to a change in traffic flows on any roads covered by an AQMA, as such the 
+factors related to non-AQMA changes are applicable to this assessment.  The 
+traffic assessment, Chapter 12: Traffic, Transport and Access, sets out predicted 
+changes in traffic flows associated with the construction, operational and 
+decommissioning phases of the development.  The predicated increase in LDV and 
+HDV movements associated with the Project is well below the limits set out in the 
+EPUK/IAQM guidance. Therefore impacts from vehicle emissions during 
+construction, operation and decommissioning have been scoped out (see Appendix 
+6.1). 
+ii. Odour Assessment 
+6.4.6 
+The Project will operate using natural gas.  There is no residual odour associated 
+with the combustion of natural gas and as such, odour has not been considered 
+further within this assessment. 
+b) Consultation 
+6.4.7 
+The scope of the assessment has also been informed by ongoing consultation with 
+statutory consultees throughout the design and assessment process, including 
+CCS. 
+6.4.8 
+A summary of the comments raised and responses are detailed in Table 6-6. 
+Table 6-6: Summary of consultation responses that have informed the scope and methodology of the 
+Air Quality assessment 
+Consultee 
+Date 
+Comment 
+Response 
+Secretary of 
+State (SoS) 
+(Scoping Report 
+paragraph 3.22) 
+August 
+2014 
+The 
+SoS 
+considers 
+that 
+adverse change to air quality 
+should be assessed in relation 
+to compliance with European 
+air quality limit values and any 
+impact upon AQMA 
+This 
+has 
+been 
+addressed in Section 
+6.3 and Section 6.7 (b) 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-15 
+ 
+Consultee 
+Date 
+Comment 
+Response 
+SoS (Scoping 
+Report 
+paragraph 3.23) 
+August 
+2014 
+There is the need to consider 
+potential related effects due to 
+an 
+increase 
+in 
+airborne 
+pollution including fugitive dust 
+especially 
+during 
+site 
+preparation, 
+demolition 
+and 
+construction 
+This 
+has 
+been 
+addressed in Section 
+6.7 (a)  
+SoS (Scoping 
+Report 
+paragraph 3.24) 
+August 
+2014 
+The ES should also include an 
+assessment of potential air 
+quality impacts on the Lower 
+Lliw Reservoir as a result of 
+both deposition and affected 
+rainfall. The SoS notes the 
+comments 
+of 
+Dwr 
+Cymru 
+(Welsh Water) in this respect. 
+Detailed modelling has 
+been 
+undertaken 
+to 
+assess 
+impacts 
+at 
+ecological receptors  in 
+terms of both NOx 
+Concentrations 
+and 
+acid/nitrogen 
+deposition 
+and 
+the 
+details 
+of 
+this 
+assessment 
+are 
+presented in the HRA 
+Appendix of Chapter 
+8: Ecology 
+SoS (Scoping 
+Report 
+paragraph 3.25) 
+August 
+2014 
+The air quality assessment 
+should use the APIS critical 
+load function tool in order to 
+calculate 
+acid 
+deposition 
+process 
+contributions/exceedances. 
+The SoS draws attention to the 
+comments of NRW in this 
+respect. 
+Detailed modelling has 
+been 
+undertaken 
+to 
+assess 
+impacts 
+at 
+ecological receptors  in 
+terms of both NOx 
+Concentrations 
+and 
+acid/nitrogen 
+deposition 
+and 
+the 
+results 
+assessed 
+against the critical load 
+calculation 
+methodology set out in 
+the 
+APIS 
+website. 
+Details 
+of 
+this 
+assessment 
+are 
+presented in the HRA 
+Appendix of Chapter 
+8: Ecology 
+SoS (Scoping 
+Report 
+paragraph 3.26) 
+August 
+2014 
+The assessment should take 
+account of the air emissions 
+from 
+the 
+proposed 
+development and emissions 
+related 
+to 
+vehicular 
+movements associated with 
+the 
+proposal. 
+The 
+SoS 
+recommends 
+that 
+the 
+implications of stack height 
+and 
+dispersion 
+of 
+the 
+discharge be clearly explained 
+Traffic 
+movements 
+associated 
+with 
+the 
+Project are below the 
+levels set out in the 
+IAQM/EPUK screening 
+levels, as such the 
+assessment of vehicle 
+movements have been 
+scoped out of further 
+assessment.  A stack 
+height 
+determination 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-16 
+ 
+Consultee 
+Date 
+Comment 
+Response 
+within the ES. 
+assessment has been 
+undertaken and this is 
+detailed in Appendix 
+6.2. 
+SoS (Scoping 
+Report 
+paragraph 3.27) 
+August 
+2014 
+The SoS recommends that the 
+Applicant agrees all modelling 
+receptor locations with the City 
+and County of Swansea and 
+also that the Applicant consults 
+the 
+City 
+and 
+County 
+of 
+Swansea 
+regarding 
+the 
+proposed data inputs for the air 
+quality model. 
+Detailed 
+discussions 
+have been held with 
+CCS 
+to 
+agree 
+the 
+methodology 
+to 
+be 
+applied 
+to 
+the 
+dispersion 
+modelling. 
+These 
+consultations 
+are 
+summarised 
+in 
+Appendix 6.1. 
+SoS (Scoping 
+Report 
+paragraph 3.28) 
+August 
+2014 
+The SoS recommends that the 
+Applicant 
+agrees 
+which 
+pollutants are to be modelled 
+and the meteorological data to 
+be used with the City and 
+County of Swansea. 
+Detailed 
+discussions 
+have been held with 
+CCS 
+to 
+agree 
+the 
+methodology 
+to 
+be 
+applied 
+to 
+the 
+dispersion 
+modelling. 
+These 
+consultations 
+are 
+summarised 
+in 
+Appendix 6.1. 
+SoS (Scoping 
+Report 
+paragraph 3.29) 
+August 
+2014 
+The SoS recommends that 
+dispersion modelling considers 
+a range of possibilities and 
+seeks to ensure that the ‘worst 
+case’ scenario is assessed, for 
+example the ‘worst case’ may 
+occur as a short term impact. 
+Detailed modelling has 
+looked at both annual 
+and 
+short-term 
+contributions 
+of 
+pollutants against their 
+respective 
+AQS 
+objective/EU 
+Limit 
+Values.  The result of 
+this are presented in 
+both the stack height 
+determination 
+Appendix 6.2 and in 
+Section 6.7 (b). 
+SoS (Scoping 
+Report 
+paragraph 3.29) 
+August 
+2014 
+The SoS notes the comments 
+of NRW in relation to the 
+village of Llangyfelach in this 
+respect. The SoS recommends 
+that the Applicant consider 
+extending the proposed air 
+quality 
+study 
+area 
+to 
+incorporate this village. 
+Receptors 21 and 22 
+have 
+been 
+included 
+within the dispersion 
+modelling to represent 
+impacts of the Project 
+on 
+the 
+village 
+of 
+Llangyfelach 
+SoS (Scoping 
+Report 
+paragraph 3.30) 
+August 
+2014 
+The SoS recommends that air 
+quality and dust levels are 
+considered not only on site but 
+also off site, including along 
+access roads, local footpaths 
+This 
+has 
+been 
+addressed in Section 
+6.7 (a) 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-17 
+ 
+Consultee 
+Date 
+Comment 
+Response 
+and other public rights of way. 
+Consideration should also be 
+given to appropriate mitigation 
+measures and to monitoring 
+dust complaints. 
+CCS & NRW 
+October 
+2017 
+Detailed discussions have been held with CCS to agree 
+the methodology to be applied to the dispersion 
+modelling and also with NRW regarding the monitoring 
+station to be used. These consultations are summarised 
+in Appendix 6.1. 
+ 
+c) Study Area 
+6.4.9 
+The study areas are defined separately for the construction and operational phases 
+and for the different Project components. Impacts during decommissioning are 
+considered to mirror construction impacts and the study area is as defined for the 
+construction phase. 
+6.4.10 The study area for the assessment of impacts during construction and 
+decommissioning is defined on the following criteria detailed in the IAQM guidance: 
+ 
+Human receptors within 350 m of potential dust sources and 50 m of the 
+routes used by construction vehicles on the public highway; and  
+ 
+Ecological receptors within 100 m of potential dust sources and 50 m of the 
+routes used by construction vehicles on the public highway. 
+6.4.11 The potential dust sources include areas of specific construction activities, the 
+routes of the Gas Connection and Electrical Connection, and also roads within 500 
+m of potential construction works (taken to be the junction of public roads and the 
+Project Site). 
+6.4.12 Outside of the study area defined above it is reasonable to conclude that 
+construction impacts will be negligible.  
+6.4.13 The study area for the assessment of impacts during the operational phase 
+depends on the receptors being considered.  For ecological sites the EA guidance 
+requires that air quality impacts are assessed at all special protection areas (SPAs), 
+special areas of conservation (SACs), Ramsar sites (protected wetlands) within 10 
+km of the site. While sites of special scientific interest (SSSIs) and local nature sites 
+(ancient woods, local wildlife sites and national and local nature reserves) should 
+only be assessed if within 2 km of the application site. 
+6.4.14 There are no limits set for the assessment of human health, however, 
+representative receptors have been selected from amongst the closest residential 
+properties, and these have been discussed and agreed with CCS (see Appendix 
+6.2). In addition a grid of receptors has been modelled extending 10 km from the 
+Project Site boundary to assess maximum ground level concentrations. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-18 
+ 
+d) Assessment of Stack Emission Effects 
+6.4.15 The assessment of emissions from the Generating Equipment has been 
+undertaken using the latest version of Atmospheric Dispersion Modelling System 
+(ADMS) (V5.2.1.0), supplied by Cambridge Environmental Research Consultants 
+Limited (CERC) (Ref. 6.24). ADMS is a modern dispersion model that has an 
+extensive published validation history for use in the UK. This model has been 
+extensively used throughout the UK to demonstrate regulatory compliance. 
+i. 
+Model Inputs 
+6.4.16 The physical stack properties and emission parameters used in the modelling are 
+summarised in Table 6-7.  
+Table 6-7: Stack properties and Emission Parameters 
+Variable 
+Input 
+Stack Locations - OS co-ordinates (m) 
+265576, 201324 
+Stack Height 
+The stack height determination (see Appendix 6.2)
+has considered a range of heights from 20 to 50 m 
+increasing in 2 metre increments. A final minimum 
+stack height of 35 m was selected for the Human 
+Health and Ecological modelling.  
+Stack Diameter (m) 
+7.00 
+Flue temperature (°C) 
+589.9 
+Actual Volumetric Flow (m3/sec) 
+1,742.0 
+Stack velocity (m/s) 
+45.26 
+Reference Volumetric Flow, dry, 0°C, 
+1 atm, 15% O2 (Nm3/sec) 
+639.1 
+NOx emission concentration (mg/Nm3) 
+50 
+NOx mass emission rate (g/s) 
+31.96 
+CO emission concentration (mg/Nm3) 
+100 
+CO mass emission rate (g/s) 
+63.91 
+ii. Meteorological Data 
+6.4.17 Hourly sequential data from Cwm Level Park for the years 2012 to 2016 inclusive, 
+provided by CCS, were used in this study. The station is situated approximately 
+5 km to the south of the Project Site and is considered to be representative of 
+meteorological conditions at the point of release.  The Cwm Level Park data was 
+supplemented with data from the Mumbles Head meteorological station located 
+approximately 15 km to the south of the Project Site. The Mumbles Head 
+meteorological station is located on a headland on the far side of Swansea Bay to 
+the Project Site and, as such, the Cwm Level Park meteorological data is 
+considered to be much more representative of meteorological conditions on the 
+Project Site. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-19 
+ 
+6.4.18 A visual representation of the meteorological data used in the assessment is shown 
+in the wind roses presented in Figure 6-1. 
+iii. Terrain 
+6.4.19 Terrain data has been included within the dispersion modelling.  A site specific 
+terrain file has been generated for the site which accounts for the final site platform 
+height, upon which the buildings and stack will be built, with detailed terrain data 
+used for the area immediately off-site with more distant terrain data derived from 
+the open OS terrain data off-site.  All terrain files have been generated based on 
+the maximum sampling resolution allowable within the ADMS terrain file creator of 
+64x64 points with the model run with a corresponding resolution. 
+iv. Surface Roughness 
+6.4.20 A surface roughness of 0.3 m was used to represent the conditions of the land 
+surrounding the Project Site and fits the description of the landscape between the 
+emission points and the closest sensitive receptors. A surface roughness value of 
+0.5 m was used to represent conditions at the meteorological observation site 
+which is in a suburban park. 
+v. Building Downwash Effects 
+6.4.21 When wind passes over buildings or other structures, turbulent eddies are formed 
+in the downwind side of the building. Those eddies can cause a plume from a stack 
+located within about five times the height of a nearby building or structure to be 
+forced down to the ground much sooner than it would if a building or structure were 
+not present. The net effect of such turbulence can be to entrain emissions and to 
+reduce the effective release height of the emission. 
+6.4.22 The effect can greatly increase the resulting near-by ground-level pollutant 
+concentrations downstream of the building or structure.  This phenomenon is 
+known as building downwash.  Where building heights are greater than about 30% 
+- 40% of the stack height, downwash effects can be significant.  The buildings that 
+make up the main structure of the Generating Equipment buildings have therefore 
+been included within the dispersion model as detailed in Table 6-8 and illustrated in 
+Figure 6-2, please note that these are indicative dimensions.  These buildings have 
+the greatest influence on air flow across the Project Site and have the potential to 
+generate turbulence which will effect stack dispersion. The buildings that have been 
+included within the dispersion modelling are presented in Figure 6.2. 
+6.4.23 The ADMS buildings effect module has been used to take account of building 
+downwash effects as part of the modelling procedure.  The air inlet house 
+(Building 1) has been selected as the main building to effect dispersion as it is the 
+tallest building on the Project Site. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-20 
+ 
+Table 6-8: Building Parameters* 
+Building 
+National Grid Reference 
+of Centre Point* 
+Height 
+(m)* 
+Length 
+(m)* 
+Width 
+(m)* 
+Angle 
+from 
+North (°) 
+X 
+Y 
+Building 1 - Air inlet 
+filter    
+265551.8 
+201288.3 
+27.0 
+17.8 
+16.0 
+124.5 
+Building 2 - Air inlet 
+ducts   
+265557.5 
+201296.5 
+19.5 
+15.3 
+3.92 
+124.5 
+Building 3 - Gas 
+turbine 
+compartment  
+265562.3 
+201303.5 
+15.0 
+13.1 
+12.8 
+124.5 
+Building 4 - 
+Exhaust  Diffuser 
+265569.5 
+201314.1 
+11.0 
+10.0 
+12.5 
+124.5 
+Building 5 - Stack  
+265576.5 
+201324.2 
+14.0 
+12.0 
+12.0 
+124.5 
+* Indicative dimensions. 
+vi. Modelled Domain 
+6.4.24 The dispersion model output is reported at specific receptors and as a nested grid 
+of values. Three separate grid resolutions have been used: 
+ 
+A 30 m resolution covering a 1.5 km radius around the Project Site, centred on 
+the stack location, used for the stack height determination modelled at a height 
+of 1.5 m. This has been based on ensuring that the grid spacing is 1.5 times 
+the shortest stack height modelled (1.5 x 20 m = 30 m) and well below the 
+resolution for the maximum stack height modelled (1.5 x 50 m = 75 m). 
+ 
+A 50 m resolution grid covering all ecological areas within 10 km of the Project 
+Site covering only ecological areas ensure that each ecological site had more 
+than 2 receptors within it.  Additional receptors were manually added to ensure 
+that each site was sufficiently represented. Modelled concentrations were at 0 
+m. 
+ 
+A 200 m resolution grid covering a 10 km radius around the Project Site, 
+centred on the stack location, modelled at a height of 1.5 m and used for 
+creating contour plots.  
+6.4.25 Ground-level concentrations of the modelled pollutants relevant to human health 
+have been predicted at discrete air quality sensitive receptors, detailed in Table 6-9 
+The locations of the sensitive human receptors are displayed in Figure 6-3. The 
+receptors have been selected to be representative of residential dwellings closest 
+to the Project Site covering each compass direction. For sensitive human 
+receptors, the flagpole height has been set at 1.5 m. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-21 
+ 
+Table 6-9:  Modelled Human Health Receptors 
+Receptor 
+Number 
+Description 
+National Grid 
+Reference 
+Defra Mapped Background 
+Concentration (µg/m3) 
+X 
+Y 
+NO2 
+PM10 
+PM2.5 
+CO 
+1 
+Abergelli Farm 
+265122 
+201644 
+6.8 
+10.8 
+7.2 
+220 
+2 
+Building SW of Abergelli 
+Farm 
+264981 
+201510 
+6.6 
+10.7 
+7.1 
+215 
+3 
+Building SW of Abergelli 
+Farm 
+264948 
+201482 
+6.6 
+10.7 
+7.1 
+215 
+4 
+Lletty Morfil Farm 
+264751 
+201064 
+6.6 
+10.7 
+7.1 
+215 
+5 
+Pen-y-waun-fach 
+Cottage 
+264297 
+200950 
+8.1 
+11.0 
+7.3 
+226 
+6 
+Cefn-betingau 
+266028 
+201497 
+7.3 
+11.2 
+7.6 
+226 
+7 
+Pen-y-fedw 
+266462 
+201408 
+7.3 
+11.2 
+7.6 
+226 
+8 
+Felin-Wen-Court 
+266331 
+201052 
+7.3 
+11.2 
+7.6 
+226 
+9 
+Property SE of the Site 
+265959 
+200657 
+8.5 
+11.3 
+7.6 
+233 
+10 
+Maes-eglwys 
+265447 
+200694 
+8.5 
+11.3 
+7.6 
+233 
+11 
+Rhyd-y-Pandy 
+266614 
+202169 
+6.4 
+11.4 
+7.7 
+204 
+12 
+Gwynfa 
+266562 
+202531 
+6.4 
+11.4 
+7.7 
+204 
+13 
+Cynghordy 
+266316 
+203076 
+5.8 
+10.6 
+7.1 
+198 
+14 
+Salem Cottage 
+265900 
+203100 
+5.7 
+10.6 
+7.1 
+195 
+15 
+Lletty’r Bugail 
+265658 
+202821 
+6.1 
+10.8 
+7.2 
+199 
+16 
+Brynheulog 
+265501 
+202654 
+6.1 
+10.8 
+7.2 
+199 
+17 
+Property N of the Site 
+265472 
+202426 
+6.1 
+10.8 
+7.2 
+199 
+18 
+Morriston Hospital 
+266308 
+200262 
+9.6 
+11.6 
+7.8 
+239 
+19 
+Pant-Iasau 
+266059 
+200427 
+9.6 
+11.6 
+7.8 
+239 
+20 
+Pant-Iasau 
+265924 
+200116 
+8.5 
+11.3 
+7.6 
+233 
+21 
+Llangyfelach 
+264916 
+199082 
+13.2 
+12.4 
+8.1 
+235 
+22 
+Bryn-tywod 
+264452 
+199157 
+13.2 
+12.4 
+8.1 
+235 
+23 
+Tircoed 
+262443 
+199926 
+13.6 
+12.4 
+8.0 
+217 
+24 
+Tircoed 
+262237 
+200332 
+7.9 
+11.1 
+7.3 
+214 
+25 
+Brynawel 
+263895 
+201256 
+6.5 
+10.7 
+7.1 
+210 
+26 
+Gellyfeddan 
+264131 
+201807 
+6.6 
+10.7 
+7.1 
+215 
+27 
+Area 5 of CCS LDP 
+264348 
+200043 
+8.1 
+11.0 
+7.3 
+226 
+28 
+Area 11 of CCS LDP 
+263931 
+200814 
+7.9 
+10.9 
+7.2 
+218 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-22 
+ 
+vii. Ecological Receptors 
+6.4.26 The study area includes numerous nature conservation sites relevant to the air 
+quality assessment. The list of designated sites, their habitat and background levels 
+of nitrogen and sulphur deposition are presented within the Habitat Regulation 
+Assessment (HRA) will accompany Chapter 8: Ecology and as such are not 
+repeated within this chapter. 
+viii. Oxides of nitrogen to nitrogen dioxide conversion 
+6.4.27 Emissions of NOx from the stack will consist mainly of nitric oxide (NO) at the point 
+of release. A number of mechanisms are known that result in an increasing 
+proportion of the oxides of nitrogen being in the form of nitrogen dioxide with 
+increasing distance from the point of release. 
+6.4.28 The approach undertaken in the assessment of effects from continuously operating 
+power plant is to use conversion rates recommended by the Environment Agency’s 
+Air Quality Modelling and Assessment Unit (Ref. 6.25), which are: 
+ 
+To assume 70% of oxides of nitrogen present as NO2 at ground level, plus the 
+background NO2 concentration in the calculation of long-term annual mean 
+calculations; and 
+ 
+To assume 35% oxides of nitrogen present as NO2 at ground level, plus 
+double the background NO2 concentration in the calculation of short-term 
+hourly concentrations. 
+ix. Acid and Nitrogen Deposition 
+6.4.29 The deposition of nitrogen is modelled using a deposition velocity approach, where 
+the surface flux of pollutants is modelled by multiplying the ground level 
+concentration by a pollutant specific deposition velocity. The velocity used in the 
+assessment of nitrogen deposition from NO2 was 1.5 mm/s for short vegetation and 
+3.0 mm/s for tall vegetation.  
+6.4.30 For the emissions from the Generating Equipment, only nitrogen deposition need 
+be considered. Impacts due to emissions of sulphur dioxide and, by inference 
+deposition of sulphur, have not been assessed as natural gas is an inherently low 
+sulphur fuel. However, background levels of sulphur deposition are considered in 
+the assessment of acidification. 
+6.4.31 Relevant Critical Loads (acid and nitrogen) for each sensitive ecological area are 
+detailed within the HRA which accompanies the Chapter 8: Ecology and as such 
+are not repeated within this chapter. 
+x. Specialised Model Treatments 
+6.4.32 Emissions have been modelled such that they are not subject to dry and wet 
+deposition or depleted through chemical reactions. The assumption of continuity of 
+mass is likely to result in an overestimation of impacts at receptors. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-23 
+ 
+xi. Realistic Worst Case Scenario for Assessment of Stack Emissions 
+6.4.33 In accordance with PINS Advice Note 9 (Rochdale Envelope) (Ref. 6.26), the 
+assessments presented in this PEIR are based on an assessment of the realistic 
+'worst case' scenario. This allows flexibility for APL whilst ensuring that the likely 
+significant environmental effects are identified and adequately assessed. The 
+realistic worst case scenario is set out in each topic chapter for clarity and 
+transparency. 
+6.4.34 Taking the above into consideration, it has been determined that for all topic areas 
+to be addressed in the EIA apart from socio-economics, a realistic ‘worst case’ 
+scenario from the perspective of environmental effects will be one gas turbine 
+generator unit. In addition, for all topic areas except air quality and ecology, the 
+highest stack height (45 m) represents the 'worst case'. For air quality the minimum 
+stack height (35 m) represent the 'worst case' due to lower dispersion from the 
+stack. This in turn results in higher predicted ground-level concentrations at both 
+human health and ecological receptors and predicted levels of nitrogen and acid 
+deposition at ecological receptors locations.  
+6.4.35 The Power Generation Plant is a peaking plant and will therefore only operate 
+during periods of high power demand.  It is therefore anticipated that the 
+Generating Equipment will normally operate for 1,500 hours per year, estimated as 
+a rolling average over 5 years, but may operate for up to a maximum of 2,250 
+hours per year as a realistic worst-case for any given year.  The maximum number 
+of hours that the plant can operate will be set out in the site's Environmental Permit 
+and this operating period cannot be exceeded. 
+6.4.36 The assessment of impacts takes into account the anticipated maximum operating 
+hours which the plant will operate under i.e. is based on a realistic worst case.  It is 
+not possible to specify which hours of the year the plant will operate, the method by 
+which this is taken into account in the dispersion modelling is dependent on the 
+metric being assessed i.e. annual, daily, 8-hour or hourly mean concentrations. 
+6.4.37 The impacts of the Project on short term (8 hours or less) pollutant concentrations 
+were modelled with the OCGT assumed to be operating at full load continuously for 
+a whole year. This is appropriate since the UK objectives and EU limit values for 
+hourly NO2 and 8 hourly CO are based on the 18 highest and highest 
+concentrations respectively over a year and, with 2,250 hours of operation, it is 
+likely that operations will, at times, coincide with examples of the poorest dispersion 
+conditions. 
+6.4.38 In relation to long term (annual mean) concentrations assuming full load operation 
+for the year will be unrealistic. Therefore, long term impacts were estimated by 
+scaling the results for continuous full load operation by the likely operating time i.e. 
+2,250 �maximum hours of operation�
+8,760 �total hours in a year�
+�  0.257 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-24 
+ 
+6.4.39 This approach is appropriate and is based on the assumption that the range of 
+meteorological conditions under which the generators will operate will, over the 
+2,250 hours, be statistically similar to those experienced over a year.  The annual 
+stack contributions have been adjusted when presenting both the impacts at 
+human health receptors close to the Project Site and for the ecological modelling 
+when considering annual NOx concentrations and annual nitrogen/acid deposition.  
+To ensure a level of conservativeness both the human health and ecological 
+assessments have been calculated based on the maximum annual concentrations 
+predicted at each location from the 5 years of meteorological data used in the 
+modelling. 
+6.4.40 The assessment of daily mean concentrations, applicable to the ecological 
+assessment, falls between the cases for long and short-term concentrations. 
+Nevertheless to ensure a conservative assessment daily mean concentrations are 
+assessed on the basis of continuous operation. 
+xii. Impacts During Start Up and Shut Down 
+6.4.41 The start-up and shut down periods do not warrant specific assessment for the 
+Project and impacts during these periods are robustly considered in the 
+assessment by the assumed 2,250 hours of full load operation for the Plant, i.e. 
+maximum annual operations rather than the anticipated normal operating hours of 
+1,500 per year. 
+6.4.42 The main element of the Generating Equipment is the Gas Turbine Generator. The 
+OCGT is designed to meet short-term changes in electricity demand and is, 
+therefore, specifically designed for rapid start up and shut down to benefit for these 
+short-term changes in demand. Typical start up procedures will take around ten 
+minutes to complete, and combustion fuel will not be introduced into the system 
+until two to three minutes of the start-up have elapsed. During the next seven to 
+eight minutes, fuel will be introduced into the system, first at a low rate and then at 
+an increasing rate, up to full load operations. 
+6.4.43 During start up, whilst the concentration of pollutants in the engine exhaust (at 
+reference conditions) may be higher than under partial or full load operation during 
+the first few minutes (e.g. minutes two to eight, at <75% load), the pollutant mass 
+release rate will actually be lower than under full load operations due to the overall 
+lower flow rates of exhaust gases. Note: the mass release rate (mg/s) is calculated 
+as the concentration of pollutant (mg/Nm3) times the exhaust gas flow rate (Nm3/s). 
+Furthermore, the concentration of pollutants decreases rapidly as start-up proceeds 
+and, by around 8 minutes into start up, has decreased to levels equivalent to full 
+load operations. 
+6.4.44 In relation to air quality impacts, the mass release rate of pollutants is more 
+important than the initial exhaust gas concentration of pollutants, since ground level 
+impacts are proportional to the total mass release. This takes into consideration the 
+competing effects of lower pollutant mass release rate during start up, but reduced 
+plume buoyancy at low load (during early start up). 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-25 
+ 
+6.4.45 Impacts during start-up are likely to be imperceptibly different from those during full 
+load operation.  Similar conclusions hold for impacts during the ramping down from 
+full load operations, i.e. emission rates fall as the fuel flow rate is decreased but 
+impacts of this decrease are countered by the effects of reduced plume buoyancy. 
+xiii. Demolition and Construction Phase Fugitive Emissions of Particulate Matter 
+6.4.46 Fugitive emissions (i.e. emissions which are not associated with a single fixed 
+release point of airborne particulate matter) are readily produced through the action 
+of abrasive forces on materials and therefore a wide range of demolition and 
+construction activities have the potential to generate this type of emission (although 
+not all relevant to this Project), including: 
+ 
+Demolition work: 
+ 
+Earthworks, including the handling, working and storage of materials; 
+ 
+Construction activities; and 
+ 
+The transfer of dust-making materials from the Project Site onto the local road 
+network (Track-out). 
+6.4.47 Particulate matter in the air is made up of particulates of a variety of sizes, and the 
+concept of a ‘size fraction’ is used to describe particulates with sizes in a defined 
+range. These definitions are based on the collection efficiency of specific sampling 
+methods and each of the size fractions is especially associated with different types 
+of impacts. In this assessment the term ‘dust’ is used to mean particulate matter in 
+the size fraction 1 µm – 75 µm in diameter, as defined in BS 6069:1994 (Ref. 6.27). 
+The size fraction called ‘PM10’ is composed of material with an aerodynamic 
+diameter of less than 10 µm in diameter and overlaps with the size fraction for dust.  
+6.4.48 The assessment has been undertaken in accordance with the methodology set out 
+in the IAQM (Ref. 6.28) guidance. Dust impacts are considered in terms of the 
+change in airborne concentration and the change in the rate of deposition of dust 
+onto surfaces. The IAQM adopts a broad definition of dust that includes the 
+potential for changes in airborne concentration, changes in deposition rates and the 
+risk to human health and public amenity, when considering the significance of 
+effects from emissions of fugitive particulate matter. In this assessment, specific 
+reference is made to the impacts associated with specific size fractions (dust, 
+PM10), before considering the overall effect on receptors. 
+6.4.49 For the Project this will include the areas of specific construction associated with 
+the Power Generation Plant and also the routes of the Access Road, Gas 
+Connection and Electrical Connection. Outside of this study area it is reasonable to 
+conclude that construction impacts will be Negligible. 
+6.4.50 A qualitative assessment has been undertaken to assess the significance of any 
+effects on sensitive receptors associated with the demolition and construction 
+phase.  
+6.4.51 For each activity the following steps are applied with respect to identifying the 
+potential impacts, before coming to an overall conclusion about the significance of 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-26 
+ 
+the effects predicted. The approach to the assessment involves the following 
+process: 
+ 
+Identify the nature, duration and the location of activities being carried out;  
+ 
+Establish the risk of significant effects occurring as a result of these activities;  
+ 
+Review the proposed or embedded mitigation against good site practice; 
+ 
+Identify additional mitigation measures, if necessary, to reduce the risk of a 
+significant adverse effect occurring at receptors; and  
+ 
+Summarise the overall effect of the works with respect to fugitive emissions of 
+particulate matter and then report the significance of the effects.  
+6.4.52 The emphasis of the regulation and control of construction dust should be the 
+adoption of good working practices as standard. Good practice is a process that is 
+informed by the assessment, which seeks to avoid the potential for adverse effects. 
+This approach assumes that this environmental management, beyond those 
+mitigation measures inherent in the proposed design, will be implemented during 
+works to ensure potential significant adverse effects do not occur.  
+6.4.53 Examples of accepted good site practice include the IAQM guidance. It has been 
+assumed that good site practice will be implemented on-site when assessing 
+potential dust impacts. An outline Construction Environmental Management Plan 
+(CEMP) has been prepared for the Project (Appendix 3.1) and includes measures 
+comprising good site practice to avoid or reduce the potential for dust impacts. 
+e) Sensitivity 
+i. 
+Construction Dust 
+6.4.54 According to the IAQM, an assessment will normally be required where there are:  
+ 
+Human receptors within 350 m of potential dust sources and 50 m of the 
+routes used by construction vehicles on the public highway, up to 500 m from 
+the Project Site entrance; and 
+ 
+Ecological receptors within 50 m of potential dust sources and 50 m of the 
+routes used by construction vehicles on the public highway, up to 500 m from 
+the Project Site entrance.  
+6.4.55 The nature of particulate impact for demolition and construction works varies 
+between different types of receptors based on their sensitivity, as summarised in 
+Table 6-10 below. Professional judgement is required when assessing sensitivities 
+as some hi-technology industries and horticultural activities are particularly dust 
+sensitive.  
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-27 
+ 
+Table 6-10: Types of Impacts from Emissions of Particulate Matter 
+Nature of Impact 
+Receptor Types Affected 
+Relative Sensitivity 
+Human Health – 
+i.e. change in 24 
+hour mean PM10 
+concentrations 
+Residential properties, schools, hospitals and 
+residential care homes 
+High 
+Offices and shops , but will generally not 
+include workers occupationally exposed to 
+PM10, as protection is covered by Health and 
+Safety at Work legislation 
+Medium 
+Public footpaths, playing fields, parks and 
+shopping streets 
+Low 
+Dust Soiling – i.e. 
+change in the rate 
+at 
+which 
+dust 
+accumulates 
+on 
+property 
+Residential properties, museums and other
+culturally important collections, car showrooms 
+and medium / long term car parks 
+High 
+Parks and places of work 
+Medium 
+Playing fields, Farmland (unless commercially
+sensitive horticultural), footpaths and short 
+term car parks 
+Low 
+Change in the rate 
+at which mineral 
+material 
+is 
+deposited 
+onto 
+vegetation 
+Internationally 
+or 
+nationally 
+designated 
+ecological sites where the designated feature 
+may be affected by dust soiling 
+High 
+Nationally designated ecological sites, e.g. 
+SSSI, that may be affected by dust deposition 
+Medium 
+Locally designated site, e.g. LNR, that may be 
+affected by dust deposition 
+Low 
+ 
+6.4.56 Once the sensitivity of the Receptors within the assessment areas are determined 
+the IAQM methodology requires that the number of sensitive receptors, distance of 
+each receptor from the construction activity and background PM10 concentrations 
+be considered.  The IAQM Sensitivity Criteria are presented in Table 6-11 to Table 
+6-13.  
+Table 6-11: Sensitivity of the Area to Dust Soiling Effects on People and Property 
+Receptor 
+Sensitivity 
+Number of 
+Receptors 
+Distance from the Source (m) 
+<20 
+<50 
+<100 
+<350 
+High 
+>100 
+High 
+High 
+Medium 
+Low 
+10-100 
+High 
+Medium 
+Low 
+Low 
+1-10 
+Medium 
+Low 
+Low 
+Low 
+Medium 
+>1 
+Medium 
+Low 
+Low 
+Low 
+Low 
+>1 
+Low 
+Low 
+Low 
+Low 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-28 
+ 
+Table 6-12: Sensitivity of the Area to Human Health Impacts 
+Receptor 
+Sensitivity 
+Annual Mean 
+PM10 
+Concentrations 
+Number 
+of 
+Receptors
+Distance from the Source (m) 
+<20 
+<50 
+<100 
+<200 
+<350 
+High 
+>32 µg/m3 
+>100 
+High 
+High 
+High 
+Medium 
+Low 
+10-100 
+High 
+High 
+Medium 
+Low 
+Low 
+1-10 
+High 
+Medium 
+Low 
+Low 
+Low 
+28-32 µg/m3 
+>100 
+High 
+High 
+Medium 
+Low 
+Low 
+10-100 
+High 
+Medium 
+Low 
+Low 
+Low 
+1-10 
+High 
+Medium 
+Low 
+Low 
+Low 
+24-28 µg/m3 
+>100 
+High 
+Medium 
+Low 
+Low 
+Low 
+10-100 
+High 
+Medium 
+Low 
+Low 
+Low 
+1-10 
+Medium 
+Low 
+Low 
+Low 
+Low 
+<24 µg/m3 
+>100 
+Medium 
+Low 
+Low 
+Low 
+Low 
+10-100 
+Low 
+Low 
+Low 
+Low 
+Low 
+1-10 
+Low 
+Low 
+Low 
+Low 
+Low 
+Medium 
+>32 µg/m3 
+>10 
+High 
+Medium 
+Low 
+Low 
+Low 
+1-10 
+Medium 
+Low 
+Low 
+Low 
+Low 
+28-32 µg/m3 
+>10 
+Medium 
+Low 
+Low 
+Low 
+Low 
+1-10 
+Low 
+Low 
+Low 
+Low 
+Low 
+24-28 µg/m3 
+>10 
+Low 
+Low 
+Low 
+Low 
+Low 
+1-10 
+Low 
+Low 
+Low 
+Low 
+Low 
+<24 µg/m3 
+>10 
+Low 
+Low 
+Low 
+Low 
+Low 
+1-10 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+- 
+1+ 
+Low 
+Low 
+Low 
+Low 
+Low 
+ 
+Table 6-13: Sensitivity of the Area to Ecological Impacts 
+Receptor Sensitivity 
+Distance from the Source (m) 
+<20 
+<50 
+High 
+High 
+Medium 
+Medium 
+Medium 
+Low 
+Low 
+Low 
+Low 
+ 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-29 
+ 
+ii. Operational Emissions 
+6.4.57 While there is no specific guidance as to the specific sensitivity of different receptor 
+types, Defra’s LAQM, TG(16) (Ref. 6.29) provides the following details, Table 6-14, 
+as to where Air Quality Objectives should apply. 
+Table 6-14: Defra Guidance on Where the Air Quality Objectives Should Apply 
+Averaging 
+Period 
+Objectives should apply at 
+Objectives should generally not 
+apply at 
+Annual 
+mean 
+All locations where members of the 
+public might be regularly exposed. 
+Building façades of residential 
+properties, schools, hospitals, care 
+homes etc.  
+Building façades of offices or other 
+places of work where members of the 
+public do not have regular access.  
+Hotels, unless people live there as 
+their permanent residence. 
+Gardens of residential properties. 
+Kerbside 
+sites 
+(as 
+opposed 
+to 
+locations at the building façade), or 
+any other location where public 
+exposure is expected to be short 
+term. 
+24-hour 
+mean and 
+8-hour 
+mean 
+All locations where the annual 
+mean 
+objective 
+would 
+apply, 
+together with hotels. 
+Gardens of residential properties. 
+Kerbside 
+sites 
+(as 
+opposed 
+to 
+locations at the building façade), or 
+any other location where public 
+exposure is expected to be short 
+term.  
+1-hour 
+mean 
+All locations where the annual 
+mean and 24 and 8-hour mean 
+objectives apply. Kerbside sites 
+(for example, pavements of busy 
+shopping streets). 
+Those parts of car parks, bus 
+stations and railway stations etc. 
+which are not fully enclosed, where 
+members of the public might 
+reasonably be expected to spend 
+one hour or more. 
+Any 
+outdoor 
+locations 
+where 
+members of the public might 
+reasonably expected to spend one 
+hour or longer. 
+Kerbside sites where the public would 
+not be expected to have regular 
+access. 
+15-min 
+mean 
+All locations where members of the 
+public 
+might 
+reasonably 
+be 
+exposed for a period of 15 minutes 
+- 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-30 
+ 
+f) 
+Magnitude 
+i. 
+Construction Impacts 
+6.4.58 The IAQM provides assessment criteria against which the magnitude of any impact 
+can be assessed.  These differ dependent on the type of construction activity being 
+undertaken and are presented in Table 6-15. The dust emission magnitude is 
+based on the scale of the anticipated works and is classified as Small, Medium, or 
+Large. 
+Table 6-15: IAQM Potential Dust Emission Magnitude 
+Activity 
+Magnitude 
+Criteria 
+Demolition 
+Large 
+Total building volume >50,000 m3; 
+Potentially dusty construction material (e.g. concrete); 
+On-site crushing and screening; or 
+Demolition activities >20 m above ground level. 
+Medium 
+Total building volume 20,000 m3 – 50,000 m3; 
+Potentially dusty construction material; or 
+Demolition activities 10-20 m above ground level. 
+Small 
+Total building volume <20,000 m3; 
+Construction material with low potential for dust release 
+(e.g. metal Cladding or timber), demolition activities <10 
+m above ground; or 
+Demolition during wetter months. 
+Earthworks 
+Large 
+Total site area >10,000 m2; 
+Potentially dusty soil type (e.g. clay, which will be prone 
+to suspension when dry due to small particle size); 
+>10 heavy earth moving vehicles active at any one time; 
+Formation of bunds >8 m in height; or 
+Total material moved >100,000 tonnes. 
+Medium 
+Total site area 2,500 m2  – 10,000 m2; 
+Moderately dusty soil type (e.g. silt); 
+5-10 heavy earth moving vehicles active at any one 
+time; 
+Formation of bunds 4 m - 8 m in height; or 
+Total material moved 20,000 tonnes – 100,000 tonnes. 
+Small 
+Total site area <2 ,500 m2; 
+Soil type with large grain size (e.g. sand); 
+<5 heavy earth moving vehicles active at any one time; 
+Formation of bunds <4 m in height; 
+Total material moved <20,000 tonnes; or 
+Earthworks during wetter months. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-31 
+ 
+Activity 
+Magnitude 
+Criteria 
+Construction 
+Large 
+Total building volume >100, 000 m3 
+On site concrete batching; or 
+Sandblasting. 
+Medium 
+Total building volume 25,000 m3 – 100,000 m3; 
+Potentially dusty construction material (e.g. concrete); or 
+On site concrete batching. 
+Small 
+Total building volume <25,000 m3; or 
+Construction material with low potential for dust release 
+(e.g. metal cladding or timber). 
+Trackout 
+Large 
+>50 HDV (>3.5t) outward movements in any one day; 
+Potentially dusty surface material (e.g. high clay 
+content); or 
+Unpaved road length >100 m. 
+Medium 
+10-50 HDV (>3.5t) outward movements in any one day; 
+Moderately dusty surface material (e.g. high clay 
+content); or 
+Unpaved road length 50 m – 100 m. 
+Small 
+<10 HDV (>3.5t) outward movements in any one day; 
+Surface material with low potential for dust release; or 
+Unpaved road length <50 m. 
+g) Effect Definitions 
+i. 
+Construction Dust  
+6.4.59 The level of risk is defined based on the relative sensitivity of the area vs the 
+magnitude of the identified impact from the phase of construction works.  This is 
+determined based on the matrix set out in Table 6-16. 
+Table 6-16: Risk of Dust Impacts 
+Phase of Works 
+Sensitivity of Area 
+(see Table 6-11 to 
+Table 6-13) 
+Dust Emission Magnitude (see Table 6-15) 
+Large 
+Medium 
+Small 
+Demolition 
+High 
+High Risk 
+Medium Risk 
+Medium Risk 
+Medium 
+High Risk 
+Medium Risk 
+Low Risk 
+Low 
+Medium Risk 
+Low Risk 
+Negligible 
+Earthworks 
+High 
+High Risk 
+Medium Risk 
+Low Risk 
+Medium 
+Medium Risk 
+Medium Risk 
+Low Risk 
+Low 
+Low Risk 
+Low Risk 
+Negligible 
+Construction 
+High 
+High Risk 
+Medium Risk 
+Low Risk 
+Medium 
+Medium Risk 
+Medium Risk 
+Low Risk 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-32 
+ 
+Phase of Works 
+Sensitivity of Area 
+(see Table 6-11 to 
+Table 6-13) 
+Dust Emission Magnitude (see Table 6-15) 
+Large 
+Medium 
+Small 
+Low 
+Low Risk 
+Low Risk 
+Negligible 
+Trackout 
+High 
+High Risk 
+Medium Risk 
+Low Risk 
+Medium 
+Medium Risk 
+Low Risk 
+Negligible 
+Low 
+Low Risk 
+Low Risk 
+Negligible 
+ 
+6.4.60 For effects on amenity (including those associated with dust), the aim is to bring 
+forward a demolition  and construction phase, including mitigation measures if 
+necessary, that avoids the potential for complaints to be generated as a result of 
+the Project. 
+6.4.61 Experience in the UK is that good site practice is capable of mitigating the impact of 
+fugitive emissions of particulate matter effectively, so that in all but the most 
+exceptional circumstances, effects at sensitive receptors can be controlled to 
+ensure that effects are of negligible or minor adverse significance (i.e. ‘not 
+significant’) (see Table 6-17). This process can be managed through the 
+implementation of the CEMP (Appendix 3.1). 
+6.4.62 The scale of the risk of adverse effects occurring due to each type of demolition or 
+construction activity, with mitigation in place is described using the terms ‘high’, 
+‘medium’ and ‘low’ risk. The basis for the choice of description is set out for each 
+activity, comprising demolition, earthworks, construction and track-out, and is 
+consistent with the IAQM’s Guidance.  
+Table 6-17: Descriptors Applied to the Predicted Effects of Fugitive Emissions of Particulate Matter 
+Risk level 
+Description 
+High 
+A significant effect that is likely to be a material 
+consideration in its own right. 
+Medium 
+A significant effect that may be a material consideration in 
+combination with other significant effects, but is unlikely to 
+be a material consideration in its own right. 
+Low 
+An effect that is not significant but that may be of local 
+concern. 
+Negligible 
+An effect that is not significant change. 
+ 
+6.4.63 Construction dust effects generally occur when high risk dust generating activities 
+coincide with adverse meteorological conditions. Therefore, even without 
+mitigation, any impact would be limited to events that are infrequent and short-term 
+in nature. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-33 
+ 
+6.4.64 A significant impact can be anticipated should the assessment conclude 
+unmitigated impacts are of medium or high risk, however, only if suitable mitigation 
+measures not be applied to control dust emissions with even sites where only a low 
+risk of impacts requiring  mitigation to ensure that impacts are not significant.  Once 
+appropriate dust controls are applied then the residual impacts of construction dust 
+should be not significant.  On this the IAQM states, “Once the risk of dust impacts 
+has been determined and the appropriate dust mitigation measures identified the 
+final step is to determine whether there are significant effects arising from the 
+construction phase of a proposed development. For almost all construction activity, 
+the aim should be to prevent significant effects on receptors through the use of 
+effective mitigation. Experience shows that this is normally possible. Hence the 
+residual effect will normally be ‘not significant’.”  
+ii. Operational Impacts 
+Human Health Receptors 
+6.4.65 With regard to stack emissions, the change in pollutant concentrations has been 
+described at receptors that are representative of exposure to impacts on local air 
+quality within the study area. For consideration of a change an assessment criteria 
+has been derived from the IAQM/EPUK (Ref. 6.24) significance criteria guidance. 
+These are presented in Table 6-18 and Table 6-19 respectively.  
+Table 6-18: Effects Descriptors at Individual Receptors – Annual Mean Impacts 
+Background 
+NO2 (µg/m3) 
+Change in Annual Mean Concentration of NO2 (µg/m3) and 
+Percentage (%) as a proportion of the Objective 
+<0.2 µg/m3 
+(0%) 
+0.2-<0.6 
+µg/m3 (1-2%)
+0.6-<2.2 
+µg/m3 (2-5%)
+2.2 -<4 µg/m3 
+(6% - 10% 
+>4 µg/m3 
+(>10% 
+≤30.2 
+Negligible 
+Negligible 
+Negligible 
+Minor 
+Moderate 
+30.2 – 37.8 
+Negligible 
+Negligible 
+Minor 
+Moderate 
+Moderate 
+37.8 – 41.0 
+Negligible 
+Minor 
+Moderate 
+Moderate 
+Major 
+41.0 – 43.8 
+Negligible 
+Moderate 
+Moderate 
+Major 
+Major 
+≥43.8 
+Negligible 
+Moderate 
+Major 
+Major 
+Major 
+ 
+Table 6-19: Effects Descriptors at Individual Receptors – Short-term Impacts  
+Criteria 
+Predicted Peak Hourly 
+Mean NO2 Process 
+Contribution (µg/m3) 
+Predicted Peak 8-Hour 
+Rolling CO Process 
+Contribution (µg/m3) 
+Effect 
+Descriptor 
+<10% 
+< 20 
+<1,000 
+Negligible 
+10 – 20% 
+20 – 40 
+1,000 – 2,000 
+Minor 
+20 – 50% 
+40 – 100 
+2,000 – 5,000 
+Medium 
+>50% 
+> 100 
+>5,000 
+Major 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-34 
+ 
+6.4.66 The EA’s Risk Assessment guidance (Ref. 6.29) defines a development as having 
+an insignificant impact where: 
+ 
+Predicted Contributions (PC) <1% of the Environmental Standard or EAL, or 
+the Predicted Environmental Concentrations (PEC) <70% of the Environmental 
+Standard or EAL for long term releases; 
+ 
+PC <10% of the Environmental Standard or EAL, or the PEC is less than 20% 
+of the Environmental Standard minus twice the long term background 
+concentration, for short term releases. 
+6.4.67 Impacts of the proposed Project have been assessed relative to both the adapted 
+IAQM/EPUK criteria and EA screening criteria.  
+Ecological Receptors  
+6.4.68 For European sites (SPA, SAC or Ramsar sites) an assessment is made as to 
+whether the installation is “likely to have a significant effect”, and whether this could 
+lead to an “adverse effect on site integrity”. 
+6.4.69 For Sites of Special Scientific Interest (SSSIs) the assessment needs to determine 
+whether the installation is “likely to damage” the Project Site. 
+6.4.70 The EA’s Risk Assessment guidance (Ref. 6.9) screening criteria for significance of 
+the emission have been applied to the outcome of the dispersion modelling for both 
+European and SSSIs. The predicted PCs have been compared with the appropriate 
+Critical Level to determine the significance of the pollutant emission. 
+6.4.71 The total pollutant emission is defined in the EA’s Risk Assessment guidance as 
+being insignificant where: 
+ 
+PC <1% of the Critical Level, or the PEC <70% of Critical Level for long term 
+releases; 
+ 
+PC <10% of the Critical Level for short term releases. 
+6.4.72 For all other nature conservation sites, i.e. LNRs, NNRs, SINCs and ancient 
+woodlands, the assessment needs to determine whether the installation will result 
+in “significant pollution” i.e. where Critical Levels are exceeded. Therefore if the 
+long and short term PC is less than 100% of the relevant Critical Level, it is 
+considered to be not significant. 
+6.4.73 The assessment against Critical Loads has been carried out in accordance with 
+AQTAG06 ‘Technical guidance on detailed modelling approach for an appropriate 
+assessment for emissions to air’ (Ref. 6.29).  However, it should be noted that this 
+does not provide definitive advice on interpreting the likely effects on different 
+habitats of changes in air quality. 
+6.4.74 As with Critical Levels where process contributions of nitrogen and acid are less 
+than 1% of the Critical Load impacts can be considered to be insignificant.  Should 
+PCs be greater than 1% of the critical load then there is the potential for the effects 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-35 
+ 
+to be significant, depending upon the context, i.e. sensitivity of the habitat to 
+acid/nitrogen or other factors such as buffering capacity of the local soils. 
+6.5 
+Baseline Environment 
+a) CCS Air Quality Monitoring and Reporting 
+6.5.1 
+A review of existing baseline air quality has been undertaken using information 
+presented within the CCS Progress Report 2016 (Ref. 6.21), information published 
+on an official CCS Air Quality website and Defra website. 
+6.5.2 
+There are a number of Continuous Monitoring Stations (CMS) in the administrative 
+area of CCS. A summary of the monitoring stations and last five years of monitoring 
+data from each, are presented in Table 6-20 to Table 6-23.  
+Table 6-20: CMS Site Details 
+CMS name 
+Type 
+Location 
+Distance to Application 
+Site (m) 
+X 
+Y 
+Swansea AURN 
+Roadside 
+265299
+194470
+5.5 km south 
+Morriston Groundhog 
+Roadside 
+267210
+197674
+4 km south 
+Cwm Level Park 
+Urban Background
+265912
+195890
+5 km south 
+ 
+Table 6-21: CMS Monitored NO2 Concentrations (µg/m3)  
+CMS name 
+Annual Mean NO2 Concentration (µg/m3) / Number of Daily 
+Means > 200 µg/m3 in Parentheses 
+2012 
+2013 
+2014 
+2015 
+2016 
+Swansea AURN 
+26.0 (0) 
+26.8 (0) 
+25.0 (0) 
+23.0 (0) 
+26.3 (0) 
+Morriston Groundhog 
+23.4 (0) 
+23.2 (0) 
+21.1 (0) 
+20.5 (0) 
+26.6 (0) 
+Cwm Level Park 
+19.6 (0) 
+18.5 (0) 
+17.1 (0) 
+14.8 (0) 
+14.5 (0) 
+ 
+Table 6-22: CMS Monitored PM10 Concentrations (µg/m3) 
+CMS name 
+Annual Mean PM10 Concentration (µg/m3) / Number of Daily 
+Means > 50 µg/m3 in Parentheses 
+2012 
+2013 
+2014 
+2015 
+2016 
+Swansea AURN 
+17.8 (4) 
+19.0 (2) 
+20.3 (2) 
+20.2 (2) 
+20.3 
+Morriston Groundhog 
+13.9 (0) 
+15.3 (0) 
+13.2 (1) 
+- 
+- 
+ 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-36 
+ 
+Table 6-23 : CMS Monitored PM2.5 Concentrations (µg/m3) 
+CMS name 
+Annual Mean PM2.5 Concentration (µg/m3) 
+2012 
+2013 
+2014 
+2015 
+2016 
+Swansea AURN 
+11.5 
+11.9 
+12.8 
+12.8 
+16.0 
+ 
+6.5.3 
+Additionally CCS managed a network of diffusion tube monitoring sites focused on 
+roadside locations mainly at busy junctions and along narrow and congested roads. 
+The Project Site is at a rural location and therefore monitoring data from the NO2 
+diffusion tube network are not considered relevant to inform the air quality baseline 
+at the Project Site. 
+b) Defra Mapped Background Data 
+6.5.4 
+A large number of small sources of air pollutants exist, which individually may not 
+be significant, but collectively, over a large area, need to be considered in the 
+modelling process. Pollutant emissions from these sources contribute to 
+background air quality, which when added to modelled emissions allow estimates of 
+total ambient pollutant concentrations to be made.   
+6.5.5 
+Defra has produced maps of background pollutant concentrations covering the 
+whole of the UK for use by local authorities and consultants in the completion of 
+LAQM reports and Air Quality Assessments where local background monitoring is 
+unavailable or inappropriate for use.  The current maps are based on a background 
+year of 2015 and provide background pollutant concentrations for NO2, PM10 and 
+PM2.5 for each 1 km grid square within the UK for all years between 2015 and 2030.  
+Defra also provides historic mapped estimates from 2001 for CO.  While the Defra 
+mapped backgrounds have not been updated this data is still considered 
+appropriate to use as it will give an indication of the background concentrations in 
+the study area, though it is anticipated that these will be conservative. The mapped 
+Defra NO2, PM10 and PM2.5 concentrations at the Project Site are presented in 
+Table 6-24 for 2016. 
+Table 6-24: Defra Mapped Annual Background Pollutant Concentrations (µg/m³) at the Application Site 
+in 2016 
+Pollutant 
+Mapped Grid Square 
+Annual Mean Concentrations 
+(µg/m³) 
+X 
+Y 
+NO2 
+265500 
+201500 
+6.8 
+PM10 
+10.8 
+PM2.5 
+7.2 
+CO 
+220 
+6.5.6 
+Table 6-25 presents a comparison of measured concentrations at the CCS Cwm 
+Level Park urban background CMS site, presented in Table 6-21, versus Defra 
+mapped background concentration for the corresponding grid square.   
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-37 
+ 
+Table 6-25: 2016 Mapped vs Monitored Annual Mean Background NO2 Concentrations (µg/m3)  
+Monitoring 
+Site 
+Monitored NO2 
+Concentration 
+(µg/m3) 
+Mapped Grid Square 
+Mapped NO2 
+Concentration 
+(µg/m3) 
+X 
+Y 
+Cwm Level 
+Park 
+14.5 
+265500 
+195500 
+12.5 
+Note: The DEFRA background concentrations were downloaded in November 2017 from the 2015 reference year 
+background maps. 
+6.5.7 
+The available CCS monitoring data are likely to overestimate pollutant 
+concentrations in the study area since the area is predominantly rural in 
+comparison to the more urban nature of Cwm Level Park. The comparison shows 
+that the Defra mapped values are slightly lower than the monitored background 
+concentration at Cwm Level Park. However, given the rural nature of the Project 
+Site it is not considered appropriate to use the Cwm Level Park monitoring to 
+represent background concentrations to inform the wider study, especially when 
+considering Sensitive Receptors which are located in rural areas.  Background NO2 
+concentrations in for this study will, therefore, be based on the 2016 mapped Defra 
+estimates for the relevant grid square in which the receptor is located. The use of 
+the Defra mapped background data to represent air quality at each modelled 
+receptor location was agreed as part of the scoping agreement with CCS, as set 
+out in Appendix 6.1. 
+6.5.8 
+CCS does not undertake any background monitoring for PM10 or PM2.5.  As such, 
+background concentrations will be established based on Defra mapped background 
+concentrations for 2016. 
+6.6 
+Embedded Mitigation 
+6.6.1 
+As detailed in Chapter 3: Project and Site Description, a number of embedded 
+mitigation measures have been identified through the iterative EIA process and 
+have been incorporated into the design and construction planning of the Project.   
+6.6.2 
+As these mitigation measures have been embedded into the design, are legal 
+requirements or are standard practices that will be implemented, the assessment of 
+likely significant effects assumes that they are in place. 
+6.7 
+Assessment of Effects 
+a) 
+Construction Phase 
+i. 
+Generation Plant Site  
+6.7.1 
+The sensitivity of the human receptors to the Generation Plant Site is classed as 
+low in terms of both nuisance and health impacts as the closest receptors (Abergelli 
+Farmhouse and Maes-eglwys) are over 20 m from activities on-site. In relation to 
+ecology the sensitivity is classed as low as the only ecological sites close to dust 
+generating activities, Lletty Morfil SINC and an area of Ancient Woodland, are 
+locally designated and not considered to be sensitive to dust deposition. PM10 
+concentrations are at low likelihood of exceedences of the air quality objective in 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-38 
+ 
+the area of construction activities are mainly associated with larger particles rather 
+than fine particles like PM10. Existing PM10 concentrations are well below the 
+relevant objective and are, therefore, unlikely to be exceeded due to the 
+construction of the Generation Plant Site.  
+6.7.2 
+There are no existing buildings on the Project Site and, as such, there are no 
+demolition activities associated with the construction of the Power Generation 
+Plant. The dust emission potential for construction of the Power Generation Plant is 
+assessed as being large during earthworks due to the scale of the Power 
+Generation Plant Site and the construction of a new Access Road from the 
+Substation to the Generating Equipment Site. Construction emissions are classed 
+as small due to the internal area of the buildings on-site, <25,000 m3, and the 
+expectation that a number of the buildings/structures will be prefabricated. 
+Emissions from trackout have a large dust magnitude due to the number of vehicles 
+which may be operating at the Power Generation Plant Site. 
+6.7.3 
+Table 6-26 sets out the assessment of dust emission class from demolition 
+activities, earthworks, construction and trackout from the Access Road (to the west 
+from the B4489). 
+Table 6-25: Summary Assessment of Dust Emissions Class 
+Phase 
+Magnitude 
+Dust Risk 
+Nuisance (Low 
+Receptor 
+Sensitivity) 
+Human Health 
+(Low Receptor 
+Sensitivity) 
+Ecology (Low 
+Receptor 
+Sensitivity) 
+Demolition 
+N/A 
+N/A 
+N/A 
+N/A 
+Earthworks 
+Large 
+Low 
+Low 
+Low 
+Construction 
+Small 
+Negligible 
+Negligible 
+Negligible 
+Trackout 
+Large 
+Low 
+Low 
+Low 
+Using the IAQM construction dust assessment criteria the dust emission magnitude is combined with the distance to and 
+sensitivity of the nearest receptors to assess the risk of effects associated with the construction phase of the Power 
+Generation Plant with no mitigation.  
+6.7.4 
+Table 6-26 shows the risk of effects with no mitigation is negligible or low in terms 
+of human health, nuisance and ecological impacts. Impacts are, therefore, 
+anticipated to be not significant, given the low risk identified and once the 
+imbedded mitigation already proposed, as set out in the Outline CEMP, is taken into 
+account. 
+ii. Gas Connection 
+6.7.5 
+The sensitivity of the human receptors to the Gas Connection is classed as low in 
+terms of both nuisance and health impacts as the closest receptors (Abergelli 
+Farmhouse and Maes-eglwys) are over 20 m from activities on-site. In relation to 
+ecology the sensitivity is classed as low as the only ecological sites close to dust 
+generating activities, Lletty Morfil SINC and an area of Ancient Woodland, are 
+locally designated and not considered to be sensitive to dust deposition.  
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-39 
+ 
+6.7.6 
+The dust emission potential for construction of the Gas Connection is assessed as 
+being large during earthworks due to the size of the corridor affected, which is 
+approximately 1,400 m long and a maximum of 50 m wide, the number of earth 
+moving machines that may be required and the volume of material that will be 
+excavated to form the trench into which the gas pipe will be laid. Construction 
+emissions are classed as small which is considered to be conservative given the 
+prefabricated nature of installing the gas pipe. Emissions from trackout have a large 
+dust potential due to the number of vehicles operating.  There is no demolition 
+associated with this phase of the works. 
+6.7.7 
+Table 6-27 sets out the assessment of dust emission class from demolition 
+activities, earthworks, construction and trackout as a function of the works 
+associated with the Gas Connection.  
+Table 6-27: Summary Assessment of Dust Emissions Class 
+Phase 
+Magnitude 
+Dust Risk 
+Nuisance (Low 
+Receptor 
+Sensitivity) 
+Human Health 
+(Low Receptor 
+Sensitivity) 
+Ecology (Low 
+Receptor 
+Sensitivity) 
+Demolition 
+N/A 
+N/A 
+N/A 
+N/A 
+Earthworks 
+Large 
+Low 
+Low 
+Low 
+Construction 
+Small 
+Negligible 
+Negligible 
+Negligible 
+Trackout 
+Large 
+Low 
+Low 
+Low 
+6.7.8 
+Using the IAQM construction dust assessment criteria the dust emission magnitude 
+is combined with the distance to and sensitivity of the nearest receptors to assess 
+the risk of effects associated with the construction phase of the Gas Connection 
+with no mitigation.  
+6.7.9 
+Table 6-27 shows the risk of effects with no mitigation is Negligible or Low in terms 
+of human health, nuisance and ecological impacts.  Impacts are, therefore, 
+anticipated to be not significant, given the low risk identified and once the 
+imbedded mitigation already proposed, as set out in the Outline CEMP, is taken into 
+account. 
+iii. Electrical Connection 
+6.7.10 The sensitivity of the human receptors to the Electrical Connection is classed as 
+low in terms of both nuisance and health impacts as the closest receptors (Abergelli 
+Farmhouse and Maes-eglwys) are over 20 m from activities on-site. In relation to 
+ecology the sensitivity is classed as low as the only ecological sites close to dust 
+generating activities, Lletty Morfil SINC and an area of Ancient Woodland, are 
+locally designated and not considered to be sensitive to dust deposition.  
+6.7.11 The dust emission potential for construction of the Electrical Connection is 
+assessed as being small during earthworks and construction considering that the 
+earthworks are confined to small area and construction emissions will be 
+moderated by the largely prefabricated nature of the installation. Emissions from 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-40 
+ 
+trackout have a small dust potential due to the number of vehicles operating and 
+the fact there will be minimal amount of excavation/trenching needed. There is no 
+demolition associated with this phase of the works.  
+6.7.12 Table 6-28 sets out the assessment of dust emission class from demolition 
+activities, earthworks, construction and trackout as a function of the works 
+associated with the Electrical Connection. 
+Table 6-28: Summary Assessment of Dust Emissions Class 
+Phase 
+Magnitude 
+Dust Risk 
+Nuisance (Low 
+Receptor 
+Sensitivity) 
+Human Health 
+(Low Receptor 
+Sensitivity) 
+Ecology (Low 
+Receptor 
+Sensitivity) 
+Demolition 
+N/A 
+N/A 
+N/A 
+N/A 
+Earthworks 
+Small 
+Negligible 
+Negligible 
+Negligible 
+Construction 
+Small 
+Negligible 
+Negligible 
+Negligible 
+Trackout 
+Small 
+Negligible 
+Negligible 
+Negligible 
+6.7.13 Using the IAQM construction dust assessment criteria the dust emission magnitude 
+is combined with the distance to and sensitivity of the nearest receptors to assess 
+the risk of effects associated with the construction phase of the Electrical 
+Connection with no mitigation. 
+6.7.14 Table 6-28 shows the risk of effects with no mitigation is Negligible in terms of 
+human health, nuisance and ecological impacts. Impacts are therefore anticipated 
+to be not significant. 
+b) Operational Phase 
+i. 
+Stack Height Determination 
+6.7.15 Stack height sensitivity testing was undertaken using meteorological data from 
+2012 to 2016 with the maximum ground-level concentrations predicted across a 
+grid of receptors with a model resolution of 30 m.  
+6.7.16 Dispersion model runs were undertaken for various stack heights between 20 m 
+and 50 m with the stack height models in 2 m incremental heights. The modelling 
+demonstrated no significant improvement in ground-level concentrations of NO2 
+with a stack height greater than 34 m.  As such a minimum stack height of 35 m 
+has been selected and has been used in all subsequent modelling.  Further details 
+of the stack height determination process are presented in Appendix 6.2. 
+ii. Impacts on Human Health 
+6.7.17 In this section, the modelled contributions of the Power Generation Plant are 
+presented as maximum ground-level concentrations of NO2 and CO at a height of 
+1.5 m and at the closest sensitive receptors included within the dispersion 
+modelling also predicted at a height of 1.5 m. 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-41 
+ 
+6.7.18 For comparison with the air quality objectives, all hourly concentrations of NO2 are 
+presented as the 99.79th percentile of hourly mean concentrations. This represents 
+the 19th highest hourly concentration in the year which takes into account the 18 
+exceedances of the standard allowed under EU and UK regulations. 
+6.7.19 Furthermore, the model results are presented as the contribution of the Generating 
+Equipment Plant on its own, termed the Process Contribution (PC), and in 
+combination with background concentrations, termed the Predicted Environment 
+Concentration (PEC). All process contributions are modelled with the Generating 
+Equipment operating at full load limited to the maximum annual operations of 2,250 
+hours.  
+6.7.20 Table 6-29 presents the maximum predicted impacts anywhere across the grid of 
+modelled receptor locations taken over the five meteorological years tested (2012 
+to 2016) for a stack height of 35 m (see Figure 6.3 for illustrated Receptor 
+Location). The data are shown as predicted PC and total PEC (i.e. PC in addition to 
+Defra mapped background concentrations) for comparison against the relevant 
+AQS objective. 
+Table 6-29: Maximum Operational Impacts Over Five Years for a Stacks of 35 m Above Ground at Off-
+Site Locations for Annual Mean NO2 
+Receptor 
+Annual Mean NO2 
+PC 
+(µg/m3) 
+PC as % of 
+AQS 
+Objective 
+Significance 
+assessed 
+against 
+Adapted 
+IAQM/EPUK 
+Criteria 
+PEC 
+PEC as % 
+of AQS 
+Objective 
+Screen Out 
+in 
+Accordance 
+with EA 
+Guidance? 
+Maximum 
+Off-site 
+0.1 
+0.2% 
+Negligible 
+6.9 
+17.2% 
+Yes 
+1 
+<0.1 
+0.1% 
+Negligible 
+6.8 
+17.1% 
+Yes 
+2 
+<0.1 
+<0.1% 
+Negligible 
+6.6 
+16.5% 
+Yes 
+3 
+<0.1 
+<0.1% 
+Negligible 
+6.6 
+16.5% 
+Yes 
+4 
+<0.1 
+<0.1% 
+Negligible 
+6.6 
+16.5% 
+Yes 
+5 
+<0.1 
+<0.1% 
+Negligible 
+8.1 
+20.3% 
+Yes 
+6 
+<0.1 
+0.1% 
+Negligible 
+7.3 
+18.4% 
+Yes 
+7 
+0.1 
+0.1% 
+Negligible 
+7.4 
+18.4% 
+Yes 
+8 
+<0.1 
+<0.1% 
+Negligible 
+7.3 
+18.3% 
+Yes 
+9 
+<0.1 
+<0.1% 
+Negligible 
+8.5 
+21.3% 
+Yes 
+10 
+<0.1 
+<0.1% 
+Negligible 
+8.5 
+21.3% 
+Yes 
+11 
+<0.1 
+0.1% 
+Negligible 
+6.4 
+16.1% 
+Yes 
+12 
+<0.1 
+0.1% 
+Negligible 
+6.4 
+16.1% 
+Yes 
+13 
+<0.1 
+<0.1% 
+Negligible 
+5.8 
+14.5% 
+Yes 
+14 
+<0.1 
+<0.1% 
+Negligible 
+5.7 
+14.3% 
+Yes 
+15 
+<0.1 
+<0.1% 
+Negligible 
+6.1 
+15.3% 
+Yes 
+16 
+<0.1 
+<0.1% 
+Negligible 
+6.1 
+15.3% 
+Yes 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-42 
+ 
+Receptor 
+Annual Mean NO2 
+PC 
+(µg/m3) 
+PC as % of 
+AQS 
+Objective 
+Significance 
+assessed 
+against 
+Adapted 
+IAQM/EPUK 
+Criteria 
+PEC 
+PEC as % 
+of AQS 
+Objective 
+Screen Out 
+in 
+Accordance 
+with EA 
+Guidance? 
+17 
+<0.1 
+<0.1% 
+Negligible 
+6.1 
+15.3% 
+Yes 
+18 
+<0.1 
+<0.1% 
+Negligible 
+9.6 
+24.0% 
+Yes 
+19 
+<0.1 
+<0.1% 
+Negligible 
+9.6 
+24.0% 
+Yes 
+20 
+<0.1 
+<0.1% 
+Negligible 
+8.5 
+21.3% 
+Yes 
+21 
+<0.1 
+<0.1% 
+Negligible 
+13.2 
+33.0% 
+Yes 
+22 
+<0.1 
+<0.1% 
+Negligible 
+13.2 
+33.0% 
+Yes 
+23 
+<0.1 
+<0.1% 
+Negligible 
+13.6 
+34.0% 
+Yes 
+24 
+<0.1 
+<0.1% 
+Negligible 
+7.9 
+19.8% 
+Yes 
+25 
+<0.1 
+<0.1% 
+Negligible 
+6.5 
+16.3% 
+Yes 
+26 
+<0.1 
+<0.1% 
+Negligible 
+6.6 
+16.5% 
+Yes 
+27 
+<0.1 
+<0.1% 
+Negligible 
+8.1 
+20.3% 
+Yes 
+28 
+<0.1 
+<0.1% 
+Negligible 
+7.9 
+19.8% 
+Yes 
+ 
+6.7.21 The results in Table 6-29 show that even based on the maximum predicted 
+concentrations across the grid of receptors PCs are below 0.2 µg/m3 and as such 
+can be screened out as Negligible in accordance with the adapted IAQM/EPUK 
+planning guidance and the EA screening criteria.  Despite the PC being well below 
+1% of the AQS objective Table 6-29 also presents the PEC to illustrated total 
+annual mean NO2 concentrations and to show that they are also well below the 
+AQS objective even once the contributions from the Generating Equipment are 
+included. 
+6.7.22 Table 6-30 presents the maximum predicted 99.79th percentile of hourly NO2 
+impacts anywhere across the grid of modelled receptor locations taken over the five 
+meteorological years tested (2012 to 2016) for a stack of 35 m (see Figure 6.3 for 
+illustrated Receptor Location).  
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-43 
+ 
+Table 6-30: Maximum Operational Impacts Over Five Years for a Stack height of 35 m Above Ground at 
+Off-Site Locations for 99.79th Percentile NO2 
+Receptor 
+99.79th Percentile Hourly NO2 
+PC 
+(µg/m3) 
+PC as % of 
+AQS 
+Objective 
+Significance 
+assessed 
+against 
+Adapted 
+IAQM/EPUK 
+Criteria 
+PEC 
+PEC as % 
+of AQS 
+Objective 
+Screen Out 
+in 
+Accordance 
+with EA 
+Guidance 
+Maximum 
+Off-site 
+4.4 
+2.2% 
+Negligible 
+4.8 
+2.4% 
+Yes 
+1 
+3.1 
+1.5% 
+Negligible 
+3.4 
+1.7% 
+Yes 
+2 
+2.2 
+1.1% 
+Negligible 
+2.5 
+1.3% 
+Yes 
+3 
+1.9 
+0.9% 
+Negligible 
+2.2 
+1.1% 
+Yes 
+4 
+2.4 
+1.2% 
+Negligible 
+2.8 
+1.4% 
+Yes 
+5 
+2.2 
+1.1% 
+Negligible 
+2.6 
+1.3% 
+Yes 
+6 
+3.9 
+1.9% 
+Negligible 
+4.3 
+2.1% 
+Yes 
+7 
+3.5 
+1.8% 
+Negligible 
+3.9 
+2.0% 
+Yes 
+8 
+2.3 
+1.1% 
+Negligible 
+2.6 
+1.3% 
+Yes 
+9 
+1.4 
+0.7% 
+Negligible 
+1.9 
+0.9% 
+Yes 
+10 
+0.3 
+0.1% 
+Negligible 
+0.7 
+0.3% 
+Yes 
+11 
+2.8 
+1.4% 
+Negligible 
+3.2 
+1.6% 
+Yes 
+12 
+2.7 
+1.4% 
+Negligible 
+3.0 
+1.5% 
+Yes 
+13 
+2.1 
+1.0% 
+Negligible 
+2.4 
+1.2% 
+Yes 
+14 
+1.7 
+0.8% 
+Negligible 
+2.0 
+1.0% 
+Yes 
+15 
+1.3 
+0.6% 
+Negligible 
+1.6 
+0.8% 
+Yes 
+16 
+1.4 
+0.7% 
+Negligible 
+1.7 
+0.9% 
+Yes 
+17 
+1.5 
+0.7% 
+Negligible 
+1.8 
+0.9% 
+Yes 
+18 
+1.6 
+0.8% 
+Negligible 
+2.1 
+1.0% 
+Yes 
+19 
+1.4 
+0.7% 
+Negligible 
+1.9 
+1.0% 
+Yes 
+20 
+1.1 
+0.6% 
+Negligible 
+1.5 
+0.8% 
+Yes 
+21 
+0.1 
+0.1% 
+Negligible 
+0.8 
+0.4% 
+Yes 
+22 
+0.4 
+0.2% 
+Negligible 
+1.1 
+0.5% 
+Yes 
+23 
+1.0 
+0.5% 
+Negligible 
+1.7 
+0.9% 
+Yes 
+24 
+1.0 
+0.5% 
+Negligible 
+1.3 
+0.7% 
+Yes 
+25 
+1.6 
+0.8% 
+Negligible 
+1.9 
+1.0% 
+Yes 
+26 
+1.7 
+0.8% 
+Negligible 
+2.0 
+1.0% 
+Yes 
+27 
+2.0 
+1.0% 
+Negligible 
+2.4 
+1.2% 
+Yes 
+28 
+1.9 
+0.9% 
+Negligible 
+2.3 
+1.1% 
+Yes 
+6.7.23 The results in Table 6-30 show that even based on the maximum predicted 
+concentrations across the grid of receptors PCs are well below 10% of the hourly 
+maximum AQS objective of 200 µg/m3 and as such can be screened out as 
+Negligible in accordance with the adapted IAQM/EPUK planning guidance and the 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-44 
+ 
+EA screening criteria.  Despite the PC being well below 10% of the AQS objective, 
+Table 6-30 also presents the PEC to illustrated total PECs are also well below the 
+AQS objective even once the contributions from the Generating Equipment are 
+included. 
+6.7.24 Table 6-31 presents the maximum 8 hour rolling CO impacts anywhere across the 
+grid of modelled receptor locations taken over the five meteorological years tested 
+(2012 to 2016) for a stack height of 35 m (see Figure 6.3 for illustrated Receptor 
+Location). 
+Table 6-31: Maximum Operational Impacts Over Five Years for a Stack height of 35 m Above Ground at 
+Off-Site Locations for Maximum 8 Hour Rolling CO 
+Receptor 
+Maximum 8 hour Rolling CO 
+PC 
+(µg/m3) 
+PC as % of 
+AQS 
+Objective 
+Significance 
+assessed 
+against 
+Adapted 
+IAQM/EPUK 
+Criteria 
+PEC 
+PEC as % 
+of AQS 
+Objective 
+Screen Out 
+in 
+Accordance 
+with EA 
+Guidance 
+Maximum 
+Off-site 
+50.1 
+0.5% 
+Negligible 
+490.1 
+4.9% 
+Yes 
+1 
+18.3 
+0.2% 
+Negligible 
+458.3 
+4.6% 
+Yes 
+2 
+21.0 
+0.2% 
+Negligible 
+451.0 
+4.5% 
+Yes 
+3 
+26.2 
+0.3% 
+Negligible 
+456.2 
+4.6% 
+Yes 
+4 
+13.5 
+0.1% 
+Negligible 
+443.5 
+4.4% 
+Yes 
+5 
+11.2 
+0.1% 
+Negligible 
+463.2 
+4.6% 
+Yes 
+6 
+24.4 
+0.2% 
+Negligible 
+476.4 
+4.8% 
+Yes 
+7 
+25.7 
+0.3% 
+Negligible 
+477.7 
+4.8% 
+Yes 
+8 
+15.4 
+0.2% 
+Negligible 
+467.4 
+4.7% 
+Yes 
+9 
+13.4 
+0.1% 
+Negligible 
+479.4 
+4.8% 
+Yes 
+10 
+6.9 
+0.1% 
+Negligible 
+472.9 
+4.7% 
+Yes 
+11 
+16.2 
+0.2% 
+Negligible 
+424.2 
+4.2% 
+Yes 
+12 
+14.1 
+0.1% 
+Negligible 
+422.1 
+4.2% 
+Yes 
+13 
+11.7 
+0.1% 
+Negligible 
+407.7 
+4.1% 
+Yes 
+14 
+8.2 
+0.1% 
+Negligible 
+398.2 
+4.0% 
+Yes 
+15 
+8.0 
+0.1% 
+Negligible 
+406.0 
+4.1% 
+Yes 
+16 
+9.3 
+0.1% 
+Negligible 
+407.3 
+4.1% 
+Yes 
+17 
+11.0 
+0.1% 
+Negligible 
+409.0 
+4.1% 
+Yes 
+18 
+10.1 
+0.1% 
+Negligible 
+488.1 
+4.9% 
+Yes 
+19 
+14.7 
+0.1% 
+Negligible 
+492.7 
+4.9% 
+Yes 
+20 
+7.7 
+0.1% 
+Negligible 
+473.7 
+4.7% 
+Yes 
+21 
+2.6 
+0.0% 
+Negligible 
+472.6 
+4.7% 
+Yes 
+22 
+6.1 
+0.1% 
+Negligible 
+476.1 
+4.8% 
+Yes 
+23 
+5.4 
+0.1% 
+Negligible 
+439.4 
+4.4% 
+Yes 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-45 
+ 
+Receptor 
+Maximum 8 hour Rolling CO 
+PC 
+(µg/m3) 
+PC as % of 
+AQS 
+Objective 
+Significance 
+assessed 
+against 
+Adapted 
+IAQM/EPUK 
+Criteria 
+PEC 
+PEC as % 
+of AQS 
+Objective 
+Screen Out 
+in 
+Accordance 
+with EA 
+Guidance 
+24 
+5.1 
+0.1% 
+Negligible 
+433.1 
+4.3% 
+Yes 
+25 
+9.1 
+0.1% 
+Negligible 
+429.1 
+4.3% 
+Yes 
+26 
+11.8 
+0.1% 
+Negligible 
+441.8 
+4.4% 
+Yes 
+27 
+13.8 
+0.1% 
+Negligible 
+465.8 
+4.7% 
+Yes 
+28 
+9.6 
+0.1% 
+Negligible 
+445.6 
+4.5% 
+Yes 
+6.7.25 The results in Table 6-31 show that even based on the maximum predicted 
+concentrations across the grid of receptors PCs are well below 10% of the AQS 
+objective of 10,000 µg/m3 and, as such, can be screened out as Negligible in 
+accordance with the adapted IAQM/EPUK planning guidance and the EA screening 
+criteria.  Despite the PC being well below 10% of the AQS objective, Table 6-31 
+also presents the PEC to illustrated total PECs are also well below the AQS 
+objective even once the contributions from the Power Generation Plant are 
+included. 
+6.7.26 Contour plots of the process contribution of annual mean NO2, 99.78th percentile 
+hourly NO2 and the 8 hour rolling CO are provided in Figure 6-4 to Figure 6-6. The 
+annual and 99.78th percentile contour plots have been prepared using 2015 
+meteorological data from Cwm Level Park as this gave the highest maximum 
+ground-level concentrations, while the 8 hour rolling CO contour plot has been 
+prepared using meteorological data from 2012. 
+6.7.27 Annual mean and 99.79th Percentile NO2 impacts are concentrated to the north-
+east of the stack reflecting the prevailing south-westerly winds in all years, whereas 
+the rolling eight hour mean CO impacts are concentrated to the north stack.  
+6.7.28 The maximum impacts of the Project occur away from major roads and urban 
+areas. It is therefore unlikely that there will be cumulative impacts at either roadside 
+location. Likewise, impacts are located to the north east and away from the closest 
+AQMA which is located approximately 5 km away to the south of the Project Site in 
+central Swansea.  As such, no impacts are anticipated in the nearest AQMA.  
+6.7.29 In summary, the magnitude of the impacts on pollutant concentrations are 
+considered to be negligible for all pollutant and averaging periods considered within 
+the dispersion modelling. As such, impacts on air quality as a result of the Project 
+are therefore not considered to be significant. 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-46 
+ 
+iii. Impacts on Ecosystems 
+6.7.30 The HRA has concluded that no likely significant effects are predicted to occur from 
+the Project.  
+c) 
+Decommissioning 
+6.7.31 The sensitivity of the human receptors to the Power Generation Plant is classed as 
+low in terms of both nuisance and health impacts as the closest receptors (Abergelli 
+Farmhouse and Maes-eglwys) are over 20 m from activities on-site. In relation to 
+ecology the sensitivity is classed as low as the only ecological sites close to dust 
+generating activities, Lletty Morfil SINC and an area of Ancient Woodland, are 
+locally designated and not considered to be sensitive to dust deposition. It should 
+be noted that it is assumed that no additional receptors are introduced within the 
+assessment area, or new sensitive ecological sites declared prior to the site being 
+decommissioned.   
+6.7.32 The decommissioning phase will involve the demolition of the Generating 
+Equipment and removal or hardstanding and restoration of the site to its pre-
+development condition.  There is no construction associated with the restoration 
+phase.  The emission potential for demolition of the Power Generation Plant is 
+assessed as being large small due to the internal area of the buildings on-site, 
+<25,000 m3, and the expectation that a number of the buildings/structures will be 
+prefabricated and of metal construction rather than cement.  Emission during 
+earthworks are anticipated to be large due to the size of the Power Generation 
+Plant site and the need to restore the Access Road from the Substation to the 
+Generating Equipment Site, however, it is anticipated that the Gas Connection will 
+be closed off but not extracted and that there will be minimal works required to 
+remove the electrical connection. Trackout is anticipated to have a large magnitude 
+due to the number of vehicles anticipated to be operating at the Power Generation 
+Plant Site.   
+6.7.33 Table 6-32 sets out the assessment of dust emission class from demolition 
+activities, earthworks, construction and trackout from the Access Road (to the west 
+from the B4489). 
+Table 6-32: Summary Assessment of Dust Emissions Class 
+Phase 
+Magnitude 
+Dust Risk 
+Nuisance (Low 
+Receptor 
+Sensitivity) 
+Human Health 
+(Low Receptor 
+Sensitivity) 
+Ecology (Low 
+Receptor 
+Sensitivity) 
+Demolition 
+Small 
+Negligible 
+Negligible 
+Negligible 
+Earthworks 
+Large 
+Low 
+Low 
+Low 
+Construction 
+N/A 
+N/A 
+N/A 
+N/A 
+Trackout 
+Large 
+Low 
+Low 
+Low 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-47 
+ 
+6.7.34 Using the IAQM construction dust assessment criteria the dust emission magnitude 
+is combined with the distance to and sensitivity of the nearest existing 
+receptors/designated ecological sites to assess the risk of effects associated with 
+the restoration phase of the Power Generation Plant with no mitigation. Table 6-32 
+shows the risk of effects with no mitigation is Negligible or Low in terms of human 
+health, nuisance and ecological impacts. Impacts are, therefore, anticipated to be 
+not significant, given the low risk identified and once the imbedded mitigation 
+already proposed, as set out in the CEMP, is taken into account. 
+6.8 
+Mitigation and Monitoring 
+6.8.1 
+As a general rule, additional mitigation measures have been proposed where a 
+significant effect is predicted to occur.  Embedded mitigation measures, which have 
+been incorporated within the design of the Project or are standard practice 
+measures that have been committed to are summarised in Chapter 3: Project and 
+Site Description. 
+a) Construction/Decommissioning 
+6.8.2 
+The construction dust assessment concluded that nuisance dust, human health 
+impacts and ecological impacts will be negligible to low.  As such no additional 
+mitigation or monitoring is proposed. 
+b) Operation 
+6.8.3 
+The air quality assessment has demonstrated that air quality impacts as a result of 
+the Project are negligible.  As such, no additional mitigation is proposed.  Emissions 
+from the stack will be monitored by a Continuous Emission Monitoring System 
+(CEMS) which will be required to obtain an Environmental Permit to operate. 
+6.9 
+Residual Effects 
+6.9.1 
+The following tables present a summary of the Air Quality assessment. They 
+identify the receptor/s likely to be impacted, the level of effect and, where the effect 
+is deemed to be significant, the tables include the mitigation proposed and the 
+resulting residual effect.  
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+6-48 
+ 
+Table 6-33: Air Quality Summary of Effects Arising During Construction Phase 
+Receptor 
+Description of Effect 
+Classification 
+of Effect 
+Additional Mitigation  
+Classification of 
+Residual Effect 
+Significant / Not 
+Significant 
+Power Generation Plant 
+Residential 
+Properties 
+Deposited dust 
+Nuisance 
+None 
+Negligible 
+Not Significant 
+Increase in PM10 
+Concentrations 
+Human Health 
+None 
+Negligible 
+Not Significant 
+Designated 
+Ecological Sites 
+Deposited dust 
+Ecological Harm
+None 
+Negligible 
+Not Significant 
+Gas Connection 
+Residential 
+Properties 
+Deposited dust 
+Nuisance 
+None 
+Negligible 
+Not Significant 
+Increase in PM10 
+Concentrations 
+Human Health 
+None 
+Negligible 
+Not Significant 
+Designated 
+Ecological Sites 
+Deposited dust 
+Ecological Harm
+None 
+Negligible 
+Not Significant 
+Electrical Connection 
+Residential 
+Properties 
+Deposited dust 
+Nuisance 
+None 
+Negligible 
+Not Significant 
+Increase in PM10 
+Concentrations 
+Human Health 
+None 
+Negligible 
+Not Significant 
+Designated 
+Ecological Sites 
+Deposited dust 
+Ecological Harm
+None 
+Negligible 
+Not Significant 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+ 
+Prepared for:  Home and Communities Agency    
+ 
+AECOM 
+6-49 
+ 
+ 
+Table 6-34: Air Quality Summary of Effects Arising during Operational Phase 
+Receptor 
+Description of Effect 
+Classification of 
+Effect 
+Additional Mitigation 
+Classification of 
+Residual Effect 
+Significant / Not 
+Significant 
+Generating Equipment 
+Residential 
+Properties 
+Increase in NO2 and CO 
+Concentrations 
+Human Health 
+None 
+Negligible 
+Not Significant 
+Hospital 
+Increase in NO2 and CO 
+Concentrations 
+Human Health 
+None 
+Negligible 
+Not Significant 
+Designated 
+Ecological Sites 
+Increase in NOx 
+Concentrations and 
+Acid/Nitrogen Deposition 
+Ecological Harm 
+None 
+Negligible 
+Not Significant 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-50 
+ 
+a) Project ‘“in combination” Effects 
+6.9.2 
+The combined impacts from the Power Generation Plant, Gas Connection and 
+Electrical Connection upon receptors to air quality are limited to those assets listed 
+in Table 6-33 and Table 6-34, and as such no significant impacts are predicted from 
+the Project.  
+6.10 
+Cumulative and In-Combination Effects 
+a) Construction/Decommissioning 
+6.10.1 There are no other permitted or proposed developments within the study area 
+which may result in any air quality impacts during construction.  As such, no 
+cumulative construction effects with other Project are anticipated. 
+b) Operation 
+6.10.2 There are no other permitted or proposed developments within the study area that 
+are not currently in operation.  As such, all other large combustion sources are 
+considered to be accounted for within the background selected for this project.  The 
+results have illustrated the PECs for the Generating Equipment are all within the 
+relevant AQS objectives and, as such, in combination impacts are considered to be 
+not significant. 
+6.11 
+References 
+Ref. 6.1 
+Directive 2010/75/EU on industrial emissions (integrated pollution prevention 
+and control). The Industrial Emissions Directive. Available at: http://eur-
+lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0075 
+Ref. 6.2 
+Department for Environment Food and Rural Affairs (Defra) (2007). The Air 
+Quality Strategy for England, Scotland, Wales and Northern Ireland. 
+Ref. 6.3 
+H.M. Government (2010). The Air Quality Standards Regulations, SI 1001.  
+Ref. 6.4 
+Local Air Quality Management in Wales Policy Guidance June 2017, 
+PG(W)(17). Available at: http://gov.wales/docs/desh/publications/170614-
+policy-guidance-en.pdf 
+Ref. 6.5 
+Council of European Communities (1996), Framework Directive ambient air 
+quality assessment and management, European Council, 96/62/EC 
+Ref. 6.6 
+Air 
+Quality 
+Standards 
+(Wales) 
+Regulations 
+2010. 
+Available 
+at: 
+http://gov.wales/docs/desh/policy/100624airqualityregsen.pdf 
+Ref. 6.7 
+EU Directive 96/61/EC on Integrated Pollution Prevention and Control (IPPC) 
+(1996). 
+Available 
+at: 
+http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0061:en:HTML 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-51 
+ 
+Ref. 6.8 
+Environmental Permitting Regulations (England and Wales) (2016). Available 
+at: https://www.legislation.gov.uk/uksi/2016/1154/pdfs/uksi_20161154_en.pdf 
+Ref. 6.9 
+Environment Agency (2016). Air emissions risk assessment for your 
+environmental 
+permit. 
+Available 
+at: 
+https://www.gov.uk/guidance/air-
+emissions-risk-assessment-for-your-environmental-permit 
+Ref. 6.10 
+The Habitats Directive EC 92/43/EEC (1992). Available at: http://eur-
+lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0043 
+Ref. 6.11 
+Ramsar Convention on Wetlands of International Importance especially as 
+Waterfowl Habitat, 1971. 
+Ref. 6.12 
+H.M. Government (2010). The Conversion of Habitats and Species 
+Regulations 2010. SI1490. 
+Ref. 6.13 
+Centre for Ecology and Hydrology (CEH) (2017). Air Pollution Information 
+System (APIS), www.apis.ac.uk 
+Ref. 6.14 
+Department of Energy and Climate Change (2011). Overarching National 
+Policy Statement for Energy (EN-1). 
+Ref. 6.15 
+Department of Energy and Climate Change (2011). National Policy Statement 
+for Fossil Fuel Electricity Generating Infrastructure (EN-2) 
+Ref. 6.16 
+Department of Energy and Climate Change (2011). National Policy Statement 
+for Gas Supply Infrastructure and Gas and Oil Pipelines (EN-4) 
+Ref. 6.17 
+Department of Energy and Climate Change (2016). National Policy Statement 
+for Electricity Networks Infrastructure (EN-5). 
+Ref. 6.18 
+Planning 
+Policy 
+Wales 
+9th 
+Edition. 
+November 
+2016. Available 
+at: 
+http://gov.wales/docs/desh/publications/161117planning-policy-wales-edition-
+9-en.pdf 
+Ref. 6.19 
+City and County Swansea’s Unitary Development Plan. November 2008. 
+Available 
+at:  
+file:///C:/Users/froggattp/Downloads/UDP_Written_Statement_Final_Version.p
+df 
+Ref. 6.20 
+City 
+and 
+County 
+Swansea’s 
+Local 
+Development. 
+Available 
+at: 
+http://www.swansea.gov.uk/ldp 
+Ref. 6.21 
+City and County of Swansea, Air Quality Progress Report (2016). Available at: 
+http://www.swansea.gov.uk/media/20406/Progress-Report-
+2016/pdf/Swansea_Progress_Report_2016.pdf 
+Abergelli PEIR 2018 – CHAPTER 6: AIR QUALITY 
+ 
+Prepared for:  Abergelli Power Limited 
+ 
+AECOM 
+6-52 
+ 
+Ref. 6.22 
+City and County of Swansea, Air Quality Action Plan (AQAP) (2004). Available 
+at: 
+http://www.swansea.gov.uk/media/2640/Air-Quality-Action-
+Plan/pdf/Swansea_Action_Plan_2004.pdf 
+Ref. 6.23 
+Institute of Air Quality Management (IAQM) and Environmental Protection 
+United Kingdom (EPUK) (2016). Guidance on land-use planning and 
+development control: Planning for air quality 2016. 
+Ref. 6.24 
+Cambridge Environmental Research Council (CERC) (2016). ADMS 5 
+Validation Papers, Cambridge Environmental Research Consultants Limited, 
+accessed 
+20th 
+December 
+2016. 
+Available 
+at: 
+http://www.cerc.co.uk/environmental-software/model-validation.html 
+Ref. 6.25 
+Air Quality Modelling and Assessment Unit, Conversion Ratios for NOx and 
+NO2. 
+Available 
+at: 
+http://www.environment-
+agency.gov.uk/static/documents/Conversion_ratios_for__NOx_and_NO2_.pdf 
+Ref. 6.26 
+The Planning Inspectorate. Planning Advice Note Nine: Rochdale Envelope. 
+(April 2012). 
+Ref. 6.27 
+BSI, BS 6069 (Part 2) (1994). Characterisation of Air Quality – Glossary. 
+Ref. 6.28 
+IAQM (2014). Guidance on the assessment of dust from demolition and 
+construction, February 2014. Institute of Air Quality Management. 
+Ref. 6.29 
+Environment Agency  (2014).  AQTAG06 Technical guidance of detailed 
+modelling approach for an appropriate assessment for emissions to air. 
+ 
+ 

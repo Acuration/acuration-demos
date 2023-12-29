@@ -1,0 +1,1928 @@
+Appendix 9.2
+Water Framework Directive
+(WFD) Assessment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Water Framework Directive 
+(WFD) Screening Assessment 
+Abergelli Power Station 
+ 
+ 
+Abergelli Power Ltd. 
+ 
+ 
+Project Reference: Abergelli WFD 
+  
+60542910 
+ 
+19 December 2017 
+ 
+   
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd. 
+ 
+AECOM 
+ 
+ 
+Quality information 
+Prepared by 
+ 
+Checked by 
+ 
+Approved by 
+ 
+ 
+ 
+ 
+ 
+ 
+James North 
+Senior Hydrogeologist 
+ 
+Michael Oluku 
+Principal Hydrogeologist 
+ 
+Neil Mackenzie 
+Associate Hydrogeologist 
+ 
+ 
+ 
+Revision History 
+Revision 
+Revision date 
+Details 
+Authorized 
+Name 
+Position 
+1 
+18/12/2017 
+DRAFT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Distribution List 
+# Hard Copies  
+PDF Required 
+Association / Company Name 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd. 
+ 
+AECOM 
+ 
+ 
+ 
+Prepared for: 
+Abergelli Power Ltd. 
+ 
+ 
+Prepared by: 
+ AECOM Infrastructure & Environment UK Limited 
+Midpoint 
+Alencon Link 
+Basingstoke 
+Hampshire RG21 7PP 
+UK 
+ 
+T: +44(0)1256 310200 
+aecom.com 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+© 2017 AECOM Infrastructure & Environment UK Limited. All Rights Reserved.   
+This document has been prepared by AECOM Infrastructure & Environment UK Limited (“AECOM”) for sole use 
+of our client (the “Client”) in accordance with generally accepted consultancy principles, the budget for fees and 
+the terms of reference agreed between AECOM and the Client. Any information provided by third parties and 
+referred to herein has not been checked or verified by AECOM, unless otherwise expressly stated in the 
+document. No third party may rely upon this document without the prior and express written agreement of 
+AECOM. 
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd. 
+ 
+AECOM 
+ 
+ 
+Table of Contents 
+1. 
+Introduction .................................................................................................................................................. 5 
+1.1 
+Background ...................................................................................................................................... 5 
+1.2 
+Legislative Context ........................................................................................................................... 5 
+1.3 
+Structure of this report ...................................................................................................................... 5 
+2. 
+WFD Screening............................................................................................................................................ 5 
+3. 
+Water Body Status ....................................................................................................................................... 7 
+3.1 
+Background to Surface Water Body Status....................................................................................... 7 
+3.1.1 Chemical Status ............................................................................................................................... 8 
+3.1.2 Ecological Status or Potential ........................................................................................................... 8 
+3.2 
+Relevant Surface Water Bodies and Status ...................................................................................... 8 
+3.3 
+Background to Groundwater Body Status ......................................................................................... 9 
+3.3.1 Quantitative Status ........................................................................................................................... 9 
+3.3.2 Chemical Status ............................................................................................................................. 10 
+3.4 
+Relevant Groundwater Bodies and Status ...................................................................................... 11 
+4. 
+Assessment Methodology .......................................................................................................................... 11 
+4.1 
+Introduction ..................................................................................................................................... 11 
+4.2 
+No Deterioration Assessment ......................................................................................................... 12 
+4.2.1 Defining 'No Deterioration' .............................................................................................................. 12 
+4.2.2 Surface Water No Deterioration Assessment.................................................................................. 12 
+4.2.3 Groundwater No Deterioration Assessment .................................................................................... 13 
+4.3 
+Future Status Objectives ................................................................................................................ 14 
+5. 
+Water Framework Directive Compliance Assessment................................................................................ 14 
+5.1 
+General Approach and Project Assumption .................................................................................... 14 
+5.2 
+No Deterioration Assessment ......................................................................................................... 15 
+5.2.1 Llan – headwaters to tidal limit ....................................................................................................... 15 
+5.2.2 Carmarthen Carboniferous Coal Measures .................................................................................... 16 
+5.3 
+Future Good Status ........................................................................................................................ 16 
+6. 
+Conclusion ................................................................................................................................................. 17 
+7. 
+References ................................................................................................................................................ 18 
+Appendix A Water Framework Directive Assessment Sheets ................................................................................ 19 
+ 
+Figures 
+Figure 2-1   WFD Water Bodies……………………………………………………………………………………………19 
+Figure 3-1.  WFD classification elements for surface water body status (Environment Agency, 2015) ................... 7 
+Figure 3-2.  WFD Classification Elements for Groundwater Body Status (Environment Agency, 2015) ................ 10 
+ 
+Tables 
+Table 2-1 WFD water bodies located within the study area ..................................................................................... 6 
+Table 2-2 Screening of WFD water bodies located within the study area ................................................................ 6 
+Table 3-1 Llan Surface water body assessments in 2009 Cycle 1 and 2015 Cycle 2.............................................. 9 
+Table 3-2 Carmarthen Carboniferous Coal Measures Groundwater body assessments in 2009 Cycle 1 and 2015 
+Cycle 2 .................................................................................................................................................................. 11 
+Table 4-1.  Surface Water Assessment Matrix ....................................................................................................... 13 
+Table 4-2.  Groundwater Assessment Matrix ......................................................................................................... 13 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+5 
+ 
+1. 
+Introduction 
+1.1 
+Background 
+AECOM has prepared this Water Framework Directive (WFD) Screening Assessment on behalf of Abergelli 
+Power Limited (APL) as part of the Preliminary Environmental Impact Report (PEIR) for the proposed Abergelli 
+Power Station hereafter referred to as ‘the ‘Project’.  
+This WFD Screening Assessment has been prepared in response to comments received from Natural Resources 
+Wales (NRW) to the 2014 PEIR. This WFD Screening Assessment is contained as an Appendix to the 
+Preliminary Environmental Information Report (PEIR) and specifically to supplement the Water Quality and 
+Resources Chapter (Chapter 9) of the PEIR and should, therefore, be read together with this chapter.  
+The Project Site is situated on open land located approximately 2 km north of junction 46 of the M4 within the 
+administrative area of the City and County of Swansea Council (CCS).  The central grid reference for the site is 
+SN 6528 0143 and the location of the Project Site is shown in Figure 1-1 or the PIER. A detailed Project 
+description is provided in Chapter 3: Project and Site Description.  
+This Preliminary WFD Assessment Screening Assessment aims to identify the relevant WFD groundwater and 
+surface water bodies located in the proximity of the Project Site and to undertake an assessment on the WFD 
+features identified which could potentially be impacted by the Project.  
+1.2 
+Legislative Context 
+The Water Framework Directive (WFD) aims to protect and enhance the quality of the water environment across 
+all European Union (EU) member states. It takes a holistic approach to the sustainable management of water by 
+considering the interactions between surface water (including transitional and coastal waters, rivers, streams and 
+lakes), groundwater and water-dependent ecosystems. Further details of the WFD are set out in sections 9.3.3, 
+9.5 and 9.8 of the Water Quality and Resources Chapter of the PEIR.  
+Under the WFD, ‘water bodies’ are the basic management units and are defined as all or part of a river system or 
+aquifer. These water bodies form part of a larger ‘river basin districts’ (RBD), for which ‘River Basin Management 
+Plans’ (RBMPs) are developed by EU member states and environmental objectives are set. RBMPs are 
+produced every six years, in accordance with the river basin management planning cycle. Summary documents 
+for the second cycle of plans were published by Natural Resources Wales (NRW) in December 2015, whilst water 
+body objectives and measures were updated in 2017. 
+The WFD requires all EU member states to classify the current condition or ‘status or potential’ of surface and 
+groundwater bodies and to set a series of objectives for maintaining or improving conditions so that water bodies 
+maintain or reach ‘good status or potential’ during the next river basin management planning cycle. NRW is the 
+competent authority for implementing the WFD in Wales. As part of its role, NRW must consider whether 
+proposals for new developments have the potential to: 
+ 
+Cause a deterioration of a water body from its current status or potential; and/ or 
+ 
+Prevent future attainment of good status or potential where not already achieved.  
+As a result, new developments that have the potential to impact on current or predicted WFD status are required 
+to assess their compliance against the WFD objectives of the potentially affected water bodies. 
+1.3 
+Structure of this report 
+Section 2 of this report, provides a summary of the WFD screening process. While Section 3 provides information 
+on the current WFD status of water bodies that have the potential to be impacted by the Project. The no 
+deterioration assessment methodology is described in Section 4 and the WFD Assessment is provided in Section 
+5. 
+2. 
+WFD Screening 
+Screening has identified four WFD surface water bodies and two WFD groundwater bodies of relevance located 
+in proximity to the Project Site (i.e. within a 1km buffer set around the Project Site). The water bodies are listed in 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+6 
+ 
+Table 2-1 and the locations are presented in Figure 2-1 with the exception of Burry Inlet Channel, a downstream 
+surface water body, which is located approximately 7 km southwest of the Project Site. 
+ 
+Table 2-1 WFD water bodies located within the study area 
+Type 
+WFD 
+Classification 
+Waterbody Name / ID 
+Location 
+Surface Water 
+Body 
+River 
+Afon Llan – headwaters to tidal 
+limit 
+(GB110059032070) 
+Located on the southern edge of the Project Site boundary, 
+flow is to the southwest towards Burry Inlet Channel 
+(Estuary). 
+River 
+Lliw - headwaters to confluence 
+with Llan 
+(GB110059032100) 
+Located approximately 800m northwest from the most 
+northern edge of Project Site, flows is southwest towards 
+Burry Inlet Channel (Estuary). 
+Lake 
+Lower Lliw Reservoir 
+(GB31041177) 
+On line reservoir on the Lliw located approximately 1 km 
+north of the most northern edge of the Project Site 
+boundary. 
+Transitional 
+Burry Inlet Channel 
+(GB531005913500) 
+Estuary located approximately 7 km southwest of Project 
+Site, located downstream of Llan and Lliw rivers. 
+Groundwater 
+Body 
+Groundwater 
+Carmarthen Carboniferous Coal 
+Measures  
+(GB41002G200600) 
+Groundwater body immediately underlying the Project Site. 
+Groundwater 
+Swansea Carboniferous Coal 
+Measures  
+(GB41002G201000) 
+Groundwater body located approximately 800 m southeast 
+from the southern edge of the Project Site boundary.  
+ 
+With consideration of the construction and operational phases of the Project and taking into account the 
+mitigation embedded within the Project’s design (as detailed in Chapter 3: Project Site and Description) it is 
+considered in professional judgement that of the WFD water bodies identified in Table 2-1, only the Afon Llan 
+River body (GB11059032100) and Carmarthen Carboniferous Coal Measures (GB41002G200600) should be 
+carried through into the WFD Screening Assessment.  It is considered that the water bodies screened out before 
+the assessment are very unlikely to be impacted by the Project.  Justifications for their exclusion are included in 
+Table 2-2.  
+Table 2-2 Screening of WFD water bodies located within the study area 
+Type 
+WFD 
+Classification 
+Waterbody Name / ID 
+Inclusion in 
+Assessment 
+ 
+Justification 
+Surface Water 
+Body 
+River 
+Llan – headwaters to tidal limit 
+(GB110059032070) 
+Yes 
+The Project Site is located within the 
+catchment of the Llan. Drains and springs 
+located on or in close proximity to the 
+Project Site flow to the south and are 
+directly linked to this water body.  
+River 
+Lliw - headwaters to 
+confluence with Llan 
+(GB110059032100) 
+No 
+The Project Site is not in close proximity 
+and is located in a different river 
+catchment (Llan); therefore the water body 
+is very unlikely to be impacted by the 
+Project. 
+Lake 
+Lower Lliw Reservoir 
+(GB31041177) 
+No 
+The Project Site is not in close proximity 
+and is located in a different river 
+catchment (Llan); therefore the water body 
+is very unlikely to be impacted by the 
+Project. 
+Transitional 
+Burry Inlet Channel 
+(GB531005913500) 
+No 
+The water body is located over 7 km 
+downstream of the Project Site and is 
+therefore very unlikely to be impacted. 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+7 
+ 
+Type 
+WFD 
+Classification 
+Waterbody Name / ID 
+Inclusion in 
+Assessment 
+ 
+Justification 
+Groundwater 
+Body 
+Groundwater 
+Carmarthen Carboniferous 
+Coal Measures  
+(GB41002G200600) 
+Yes 
+The Project Site immediately overlies the 
+groundwater body. Springs and drains 
+identified nearby may be linked; 
+preliminary assessment required to 
+consider potential impacts of the Project to 
+groundwater.  
+Groundwater 
+Swansea Carboniferous Coal 
+Measures  
+(GB41002G201000) 
+No 
+The Project Site is not located in proximity 
+and is in a different catchment; therefore 
+the water body is very unlikely to be 
+impacted by the Project. 
+ 
+3. 
+Water Body Status 
+3.1 
+Background to Surface Water Body Status 
+Under the WFD, surface water body status is classified on the basis of chemical and ecological status or 
+potential. Ecological status is assigned to surface water bodies that are natural and considered by the NRW not 
+to have been significantly modified for anthropogenic purposes. Ecological potential is assigned to artificial and 
+man-made water bodies (such as canals), or natural water bodies that have undergone significant modification; 
+these are termed Heavily Modified Water Bodies (HMWBs). The term ‘ecological potential’ is used as it may be 
+impossible to achieve good ecological status because of modification for a specific use, such as navigation or 
+flood protection. The ecological potential represents the degree to which the quality of the water body 
+approaches the maximum it could achieve. The worst case classification is assigned as the overall surface water 
+body status, in a ‘one-out all-out’ system. This system is summarised below in Figure 3-1. 
+ 
+Figure 3-1.  WFD classification elements for surface water body status (Environment Agency, 2015) 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+8 
+ 
+3.1.1 
+Chemical Status 
+Chemical status is defined by compliance with environmental standards for chemicals that are priority substances 
+and/or priority hazardous substances, in accordance with the Environmental Quality Standards Directive 
+(2008/105/EC). This is assigned on a scale of good or fail. Surface water bodies are only monitored for priority 
+substances where there are known discharges of these pollutants; otherwise surface water bodies are reported 
+as being at good chemical status. 
+3.1.2 
+Ecological Status or Potential 
+Ecological status or potential is defined by the overall health or condition of the watercourse. This is assigned on 
+a scale of High, Good, Moderate, Poor or Bad, and on the basis of four classification elements or ‘tests’ 
+(Environment Agency, 2013), as follows: 
+ 
+Biological: This test is designed to assess the status indicated by a biological quality element such as the 
+abundance of fish, invertebrates or algae and by the presence of invasive species. The biological quality 
+elements can influence an overall water body status from Bad through to High. 
+ 
+Physico-chemical: This test is designed to assess compliance with environmental standards for supporting 
+physicochemical conditions, such as dissolved oxygen, phosphorus and ammonia. The physicochemical 
+elements can only influence an overall water body status from Moderate through to High. 
+ 
+Specific pollutants: This test is designed to assess compliance with environmental standards for 
+concentrations of specific pollutants, such as zinc, cypermethrin or arsenic. As with the physico-chemical 
+test, the specific pollutant assessment can only influence an overall water body status from Moderate 
+through to High. 
+ 
+Hydromorphology: For natural, non-HMWBs, this test is undertaken when the biological and physico-
+chemical tests indicate that a water body may be of High status. It specifically assesses elements such as 
+water flow, sediment composition and movement, continuity, and structure of the habitat against reference 
+or ‘largely undisturbed’ conditions. If the hydromorphological elements do not support High status, then the 
+status of the water body is limited to Good overall status. For artificial or HMWBs, hydromorphological 
+elements are assessed initially to determine which of the biological and physico-chemical elements should 
+be used in the classification of ecological potential. In all cases, assessment of baseline hydromorphological 
+conditions are an important factor in determining possible reasons for classifying biological and physico-
+chemical elements of a water body as less than Good, and hence in determining what mitigation measures 
+may be required to address these failing water bodies. 
+3.2 
+Relevant Surface Water Bodies and Status 
+There is one surface water body to be considered in the WFD assessment: the river water body of the Afon Llan 
+(Water body ID GB110059032070).  The water body encompasses the headwaters of the river to the tidal limit 
+and flows in a general south-westerly direction in proximity of the Project. The Llan flows into the Burry Inlet 
+Channel transitional water body (estuary) which is not considered to be affected by the Project given that it is 
+located more than 7 km downstream.  Information on the Llan water body has been taken from the 2015 Western 
+Wales River Basin Management Plan (NRW, 2015) and summarised as follows: 
+ 
+The overall objective of the surface water body is Good by 2015 (and to remain so). 
+ 
+Objective is Good with respect to chemical quality and quantity. 
+ 
+Objective is Good with respect to ecological quality and quantity.  
+The Natural Resources Wales Watch Water Gallery1  (NRW website, accessed November 2017) indicates that 
+under the latest 2015 assessment (Cycle 2) the status of the Llan is ‘good’ and therefore the objective in the 
+RBMP has been met.  A summary of the 2009 Cycle 1 and 2015 Cycle 2 assessment is reproduced in Table 3-1. 
+ 
+ 
+                                                                                                                     
+1 Natural Resources Wales website, accessed November 2017 at http://waterwatchwales.naturalresourceswales.gov.uk/en/ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+9 
+ 
+Table 3-1 Llan Surface water body assessments in 2009 Cycle 1 and 2015 Cycle 2 
+Parameter 
+Llan - headwaters to tidal limit 
+2009 
+2015 
+Water Body ID 
+GB110059032070 
+Water Body Area 
+41.26 km2 
+Water Body Type 
+River 
+Hydromorphological Designation 
+Not designated artificial or heavily modified 
+Overall Status 
+Moderate 
+Good 
+Ecological Status 
+Moderate 
+Good 
+Chemical Status 
+DNRA 
+Good 
+Biological Elements 
+Macrophytes and phytobenthos 
+- 
+Good 
+Invertebrates 
+Good 
+Good 
+Fish 
+Moderate 
+Good 
+Supporting Elements 
+Ammonia (Physio-Chemical) 
+High 
+High 
+Dissolved Oxygen 
+High 
+High 
+pH 
+High 
+High 
+Phosphate 
+High 
+High 
+Temperature 
+High 
+High 
+Copper 
+High 
+Good 
+Zinc 
+High 
+- 
+Specific Pollutants (Annex 8) 
+High 
+High 
+Hydromorphological 
+Supporting Elements 
+Hydrological Regime 
+Supports Good 
+Supports Good 
+River Continuity (Flow) 
+Pass 
+Pass 
+Morphology 
+Supports Good 
+Supports Good 
+ 
+3.3 
+Background to Groundwater Body Status 
+Under the WFD, groundwater body status is classified on the basis of quantitative and chemical status. Status is 
+assessed primarily using data collected from the NRW monitoring network; therefore, the scale of assessment 
+means that groundwater status is mainly influenced by larger scale effects such as significant abstraction or 
+widespread/ diffuse pollution. The worst case classification is assigned as the overall groundwater body status, in 
+a ‘one-out all-out’ system. This system is summarised in Figure 3-2. 
+3.3.1 
+Quantitative Status 
+Quantitative status is defined by the quantity of groundwater available as baseflow to watercourses and water-
+dependent ecosystems, and as ‘resource’ available for use as drinking water and other consumptive purposes. 
+This is assigned on a scale of Good or Poor, and on the basis of four classification elements or ‘tests’ as follows: 
+ Saline or other intrusions: This test is designed to identify groundwater bodies where the intrusion of poor 
+quality water, such as saline water or water of different chemical composition, as a result of groundwater 
+abstraction is leading to sustained upward trends in pollutant concentrations or significant impact on one or 
+more groundwater abstractions. 
+ Surface water: This test is designed to identify groundwater bodies where groundwater abstraction is leading 
+to a significant diminution of the ecological status of associated surface water bodies. 
+ Groundwater Dependent Terrestrial Ecosystems (GWDTEs): This test is designed to identify groundwater 
+bodies where groundwater abstraction is leading to “significant damage” to associated GWDTEs (with 
+respect to water quantity). 
+ Water balance: This test is designed to identify groundwater bodies where groundwater abstraction exceeds 
+the “available groundwater resource”, defined as the rate of overall recharge to the groundwater body itself, 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+10 
+ 
+as well as the rate of flow required to meet the ecological needs of associated surface water bodies and 
+GWDTEs. 
+3.3.2 
+Chemical Status 
+Chemical status is defined by the concentrations of a range of key pollutants, by the quality of groundwater 
+feeding into watercourses and water-dependent ecosystems and by the quality of groundwater available for 
+drinking water purposes. This is assigned on a scale of Good or Poor, and on the basis of five classification 
+elements or ‘tests’ as follows: 
+ Saline or other intrusions: This test is designed to identify groundwater bodies where the intrusion of poor 
+quality water, such as saline water or water of different chemical composition, as a result of groundwater 
+abstraction is leading to sustained upward trends in pollutant concentrations or significant impact on one or 
+more groundwater abstractions. 
+ Surface water: This test is designed to identify groundwater bodies where groundwater abstraction is leading 
+to a significant diminution of the chemical status of associated surface water bodies. 
+ Groundwater Dependent Terrestrial Ecosystems (GWDTEs): This test is designed to identify groundwater 
+bodies where groundwater abstraction is leading to “significant damage” to associated GWDTE’s (with 
+respect to water quality). 
+ Drinking Water Protected Areas (DrWPAs): This test is designed to identify groundwater bodies failing to 
+meet the DrWPA objectives defined in Article 7 of the WFD or at risk of failing in the future. 
+ General quality assessment: This test is designed to identify groundwater bodies where widespread 
+deterioration in quality has or will compromise the strategic use of groundwater. 
+ 
+ 
+Figure 3-2.  WFD Classification Elements for Groundwater Body Status (Environment Agency, 2015) 
+ 
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+11 
+ 
+3.4 
+Relevant Groundwater Bodies and Status 
+There is one groundwater body to be considered in the WFD assessment: the Carmarthen Carboniferous Coal 
+Measures (ID: GB41002G200600). Information on the status of this water body is available from the 2015 
+Western Wales River Basin Management Plan (NRW, 2015) and summarised as follows: 
+ 
+The overall objective of the groundwater body is Poor by 2015 (technically infeasible – no known technical 
+solution available due to legacy metal mine contamination). 
+ 
+The 2015 Cycle 2 Quantitative Status is Good. 
+ 
+The 2015 Cycle 2 Qualitative Status is Poor. 
+The Natural Resources Wales Watch Water Gallery2  (NRW website, accessed November 2017) indicates that 
+under the latest 2015 assessment (Cycle 2) the status of the Carmarthen Carboniferous Coal Measures is ‘poor’.  
+A summary of the 2009 Cycle 1 and 2015 Cycle 2 assessment is reproduced in Table 3-2. 
+ 
+Table 3-2 Carmarthen Carboniferous Coal Measures Groundwater body assessments in 2009 Cycle 1 and 
+2015 Cycle 2 
+Parameter 
+Carmarthen Carboniferous Coal Measures 
+2009 
+2016 
+Water Body ID 
+GB41002G200600 
+Water Body Area 
+547.95 km2 
+Water Body Type 
+Groundwater 
+Protected Area Designation 
+Drinking Water Projected Area, Special Areas of 
+Conservation 
+Overall Status 
+Poor 
+Poor 
+Quantitative Status 
+Good 
+Good 
+Chemical Status 
+Poor 
+Poor 
+Quantitative 
+Elements  
+Saline or other intrusions 
+Good 
+Good 
+Surface Water 
+Good 
+Good 
+Groundwater Dependent Terrestrial 
+Ecosystems (GWDTEs) 
+Good 
+Good 
+Water Balance 
+Good 
+Good 
+Chemical 
+Elements 
+Saline or other intrusions 
+Good 
+Good 
+Surface Water 
+Poor 
+Poor 
+GWDTEs 
+Good 
+Good 
+Drinking Water Protected Areas 
+(FrWPAs) 
+Good 
+Good 
+General Chemical Test 
+Good 
+Good 
+ 
+4. 
+Assessment Methodology 
+4.1 
+Introduction 
+Proposed developments that have the potential to impact on current or predicted WFD status are required to 
+assess their compliance against the objectives defined for potentially affected water bodies. As part of its role, 
+NRW must consider whether proposals for new developments have the potential to: 
+ 
+Cause a deterioration of a water body from its current status or potential; and/ or 
+ 
+Prevent future attainment of Good status (or potential where not already achieved).  
+                                                                                                                     
+2 Natural Resources Wales website, access November 2017 at http://waterwatchwales.naturalresourceswales.gov.uk/en/ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+12 
+ 
+4.2 
+No Deterioration Assessment 
+4.2.1 
+Defining 'No Deterioration' 
+'No deterioration' was defined by the Environment Agency in its Position Paper (Environment Agency, 2013). 
+Steps are required to prevent deterioration of the ecological status, ecological potential and chemical status of 
+surface water and the qualitative status and quantitative status of groundwater.  
+Originally deterioration was defined by the Environment Agency as deterioration from one status class to a lower 
+one, however following a ruling by the Court of Justice of the European Union (CJEU) in July 2015 (C-461/13), 
+this has been redefined.  The CJEU ruling clarified that: 
+ 
+“deterioration of the status” of the relevant water body includes a fall by one class of any element of the 
+“quality elements“ even if the fall does not result in the a fall of the classification of the water body as a 
+whole;  
+ 
+ ‘Any deterioration’ in quality elements in the lowest class constitutes deterioration; and  
+ 
+Certainty regarding a project’s compliance with the Directive is required at the planning consent stage; 
+hence, where deterioration ‘may’ be caused, derogations under Article 4.7 of the WFD are required at this 
+stage.  
+While deterioration within a status class does not contravene the requirements of the WFD, (except for Drinking 
+Water Directive parameters in drinking water protected areas), the WFD requires that action should be taken to 
+limit within-class deterioration as far as practicable. For groundwater quality, measures must also be taken to 
+reverse any environmentally significant deteriorating trend, whether or not it affects status or potential. 
+The no deterioration requirements are applied independently to each of the elements that come together to form 
+the water body classification as required by Annex V of the Water Framework Directive and Article 4 of the 
+Groundwater Daughter Directive. 
+ 
+Surface water: To manage the risk of deterioration of the biological elements of surface waters, the no 
+deterioration requirements are applied to the environmental standards for the physico-chemical elements, 
+including those for the Moderate/Poor and Poor/Bad boundaries. 
+ 
+Groundwater: The no deterioration requirements are applied to each of the four component tests for 
+quantitative status and the five component tests for chemical status. The no deterioration requirement may 
+not apply to elements at High status and elements at High status may be permitted to deteriorate to Good 
+status, provided that: 
+─ 
+The water body’s overall status is not High; 
+─ 
+The RBMP has not set an objective for the water body of High status; 
+─ 
+The objectives and requirements of other domestic or European Community legislation are complied 
+with; and 
+─ 
+Action is taken to limit deterioration within High or Good status or potential classes as far as 
+practicable. 
+The no deterioration baseline for each water body is the status that is reported in Tables 3-1 and 3-2.  
+4.2.2 
+Surface Water No Deterioration Assessment 
+Table 4-1 presents the matrix used to assess the effect of the Project on surface water status or potential class. It 
+ranges from a major beneficial effect (i.e. a positive change in overall WFD status) through no effect to 
+deterioration in overall status class. The colour coding used in Table 4-1 is applied to the spreadsheet 
+assessment in Appendix A. 
+ 
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+13 
+ 
+Table 4-1.  Surface Water Assessment Matrix 
+ Effect 
+Description/criteria 
+Outcome 
+Major beneficial   
+Impacts that taken on their own or in combination 
+with others have the potential to lead to the 
+improvement in the ecological status or potential of a 
+WFD quality element for the entire waterbody 
+Increase in status of one or more WFD 
+element giving rise to a predicted rise in 
+status class for that waterbody. 
+Light Blue - Minor /localised 
+beneficial 
+Impacts when taken on their own or in combination 
+with others have the potential to lead to a minor 
+localised or temporary improvement that does not 
+affect the overall WFD status of the waterbody or any 
+quality elements 
+Localised improvement, no change in 
+status of WFD element 
+Green (no impact) 
+No measurable change to any quality elements.  
+No change 
+Yellow -Localised/ 
+temporary adverse effect 
+Impacts when taken on their own or in combination 
+with others have the potential to lead to a minor 
+localised or temporary deterioration that does not 
+affect the overall WFD status of the waterbody or any 
+quality elements. Consideration will be given to 
+habitat creation measures. 
+Localised deterioration, no change in 
+status of WFD element when balanced 
+against mitigation measures embedded in 
+the Project. 
+Orange -adverse effect on 
+class of WFD element  
+Impacts when taken on their own or in combination 
+with others have the potential to lead to the 
+deterioration in the WFD status class of one or more 
+biological quality elements, but not in the overall 
+status of the waterbody.  Consideration will be given 
+to habitat creation measures. 
+Decrease in status of WFD element when 
+balanced against positive measures 
+embedded in the Project. 
+Red – adverse effect on 
+overall WFD class of 
+waterbody 
+Impacts when taken on their own or in combination 
+with others have the potential to lead to the 
+deterioration in the ecological status or potential of a 
+WFD quality element, which then lead to a 
+deterioration of status/potential of waterbody. 
+Decrease in status of overall WFD 
+waterbody status when balanced against 
+positive measures embedded in the 
+Project. 
+4.2.3 
+Groundwater No Deterioration Assessment 
+Table 4-2 presents the matrix used to assess the effect of the Project on groundwater status class. It ranges from 
+a beneficial effect but no change in status to deterioration in overall status class. The colour coding used in Table 
+4-2 is applied to the spreadsheet assessment in Appendix A. 
+Table 4-2.  Groundwater Assessment Matrix 
+Magnitude of Impact of Project 
+Element on WFD Element i.e. in 
+individual cells 
+Effect on WFD Element within the 
+assessment boundary i.e. at end of 
+row  
+Effect on Status of WFD element at 
+the Groundwater Body Scale 
+Impacts lead to beneficial effect 
+Combined impacts have the potential to 
+have a beneficial effect on the WFD 
+element.  
+Improvement but no change to status of 
+WFD element 
+No measurable change to groundwater 
+levels or quality. 
+No measurable change to WFD 
+elements.  
+No change and no deterioration in status 
+of WFD element 
+Impacts when taken on their own have 
+the potential to lead to a minor localised 
+or temporary effect  
+Combined impacts have the potential to 
+lead to a minor localised or temporary 
+adverse effect on the WFD element.  
+Combined impacts have the potential to 
+lead to a minor localised or temporary 
+effect on the WFD element. No change 
+to status of WFD element and no 
+significant deterioration at groundwater 
+body scale. 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+14 
+ 
+Magnitude of Impact of Project 
+Element on WFD Element i.e. in 
+individual cells 
+Effect on WFD Element within the 
+assessment boundary i.e. at end of 
+row  
+Effect on Status of WFD element at 
+the Groundwater Body Scale 
+Impacts when taken on their own have 
+the potential to lead to a widespread or 
+prolonged effect.   
+Combined impacts have the potential to 
+have an adverse effect on the WFD 
+element.  
+Combined impacts have the potential to 
+have an adverse effect on the WFD 
+element, resulting in significant 
+deterioration but no change in status 
+class at groundwater body scale.  
+Impacts when taken on their own have 
+the potential to lead to a significant 
+effect. 
+Combined impacts in combination with 
+others have the potential to have a 
+significant adverse effect on the WFD 
+element. 
+Combined impacts in combination with 
+others have the potential to have an 
+adverse effect on the WFD element AND 
+change its status at the groundwater 
+body scale 
+4.3 
+Future Status Objectives 
+RBMPs are used to outline water body pressures and the actions that are required to address them. The future 
+status objective assessment considers the ecological potential of a surface water body and the mitigation 
+measures that defined the ecological potential. Assessments in this project are based on mitigation measures 
+defined in the 2015 RBMP. Information on WFD measures available from the NRW website (accessed November 
+20173) have also been reviewed. The assessment considers whether the Project has the potential to prevent the 
+implementation or impact the effectiveness of the defined measures. 
+5. 
+Water Framework Directive Compliance Assessment 
+5.1 
+General Approach and Project Assumption 
+The WFD compliance assessment uses a spreadsheet tool to assess the effects of the Project on each of the 
+WFD elements (biological, physico-chemical and hydromorphological surface water elements, and quantitative 
+and chemical groundwater elements).  
+Both the surface water assessment and the groundwater assessment examine the potential effects of the Project, 
+which includes the Power Generation Plant, and Gas and Electricity Connections. The works plans are shown in 
+Figure 3.2 of the PEIR.  
+The Power Generation Plant in summary will comprise the Generating Equipment, Laydown Area and Access 
+Road.  The Generating Equipment will be an OGCT designed to operate where there is a surge in demand and a 
+stack. An existing Access Road will be upgraded between the B4489 and the Swansea North Substation and a 
+new Access Road constructed between the Substation and the Generation Equipment Site.   
+The Gas Connection will be a new above ground installation and approximately 1.4 km of underground pipeline 
+to connect to the existing high pressure National Transmission System.  The Electrical Connection will comprise 
+elements to enable power to be exported via underground cable to the Substation of approximately 900 m in 
+length.  As the Project Site is remote a foul water drainage system will either drain to a septic tank or a package 
+treatment plant, and will discharge onsite or to a nearby watercourse.  A surface water drainage system 
+incorporating drainage ditches will perimeter the Project Site and prevent ponding.  Attenuation ponds will 
+maintain greenfield runoff flows with emergency overflow. 
+Key assumptions for the assessment are as follows: 
+ 
+Ground Works: It is assumed that ground works will comprise excavation and levelling for foundations, 
+piling (if required) and laying of Gas and Electric Connections and erection of the Generating Equipment.  
+ 
+Dewatering: It is assumed that no groundwater dewatering is required as part of the Project. 
+                                                                                                                     
+3Natural Resources Wales website, access November 2017 at http://waterwatchwales.naturalresourceswales.gov.uk/en/ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+15 
+ 
+ 
+Outline Construction Environmental Management Plan (CEMP): It is assumed that suitable plans will be 
+put in place through the Outline CEMP (secured in the development consent order) in order to reduce risks 
+to the environment.       
+ 
+Surface Water Run-off: It is assumed that drainage from the Project will not have an impact on surface 
+water run-off (and therefore water quality) into the Llan WFD water body.  
+ 
+For surface water, the potential effects identified are as a result of: 
+ 
+Noise and vibration during construction of foundations and piling during the construction phase; 
+ 
+Temporary land-take during the construction phase; 
+ 
+Pollution due to discharges or spillages during the construction phase; 
+ 
+Scour during the construction phase; 
+ 
+Temporary diversion of tributary drains during construction phase; 
+ 
+Permanent land take during the operational phase; and 
+ 
+Permanent diversion of tributary drains during operation. 
+ 
+For groundwater, the potential effects identified are as a result of: 
+ 
+Pollution due to discharges or spillages during the construction phase; 
+ 
+Piling and below ground working causing mobilisation of contaminants during the construction and 
+operational phases; and 
+ 
+Damming of groundwater flow behind sheet piles (decreasing groundwater contributions and potentially 
+mobilising contamination). 
+Appendix A contains the surface water and groundwater assessments where the above potential effects are 
+considered. The colour coded system referred to in Table 4-1 and Table 4-2  is used to give a visual impression 
+of the compliance assessment. 
+5.2 
+No Deterioration Assessment 
+5.2.1 
+Llan – headwaters to tidal limit 
+The Project is located in proximity to tributary drains of the Afon Llan River with only the southern edge of the 
+Project Site outline in proximity of the Afon Llan WFD body.   
+There is the potential for localised effects from land take and scour as a result of construction close to tributary 
+drains which may cause a loss of habitat. However, this is unlikely to be significant at waterbody scale and it is 
+considered that habitats will recover naturally.  The impacts are not expected to be significant at water body scale 
+and the system would recover naturally. 
+There is the potential for localised temporary impacts on water quality in the Llan from the mobilisation of 
+contaminated sediment or groundwater into surface water through piling below ground workings.  The impact is 
+not expected to increase at the waterbody scale and any impacts are likely to be minor and localised on the 
+tributary drains.  Should any unforeseen water quality issues be identified during future ground investigations, 
+which are likely to follow the granting of planning permission , further mitigation measures will be embedded into 
+the design to limit any adverse impacts on the surface water body. 
+The Outline CEMP will mitigate potential impacts on the Afon Llan from spillages during construction.   
+There is potential for minor impacts on habitat, water quality and hydromorphology as a result of diversion of 
+tributary drains during the construction and operation phases.  Any impacts are likely to be localised to the 
+tributary drains and are not expected to be significant at the water body scale. 
+Therefore, overall the Project is not expected to result in significant deterioration or change in surface water body 
+status.  
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+16 
+ 
+5.2.2 
+Carmarthen Carboniferous Coal Measures 
+The Project is not anticipated to involve dewatering, which limits the potential construction impacts of the Project 
+on the groundwater body. There is believed to be potential for contamination with respect to land quality, although 
+the potential to impact the WFD status of the groundwater body is minor as the impacts will be localised 
+especially given the likely presence of low permeability superficial deposits.  Should any unforeseen water quality 
+issues be identified during future ground investigations, which are likely to follow the granting of planning 
+permission, further mitigation measures will be embedded into the design to limit any adverse impacts on the 
+groundwater body. 
+Any proposed piling and below ground working may have the potential to reduce groundwater contributions to 
+surface water or dependent ecosystems.  However, it is not expected that the interaction between groundwater-
+and surface water is a key driver given the likely low permeability superficial deposits in the study area.  
+Therefore, piling and below ground activities are no anticipated to have a measurable impact on the status of the 
+groundwater body throughout the construction and operational phases. 
+The Outline CEMP will mitigate potential adverse impacts on the Carmarthen Carboniferous Coal Measures 
+groundwater body from spillages during construction. 
+Overall, the Project is not expected to result in significant deterioration or change in groundwater body status. 
+5.3 
+Future Good Status 
+The status objective for the Llan water body as reported within the 2015 RBMP is Good by 2015, therefore the 
+objective is currently met.  The focus of the NRW programme of measures is to prevent deterioration of status in 
+all water bodies which is assessed in Section 5.2. 
+The objective of the Carmarthen Carboniferous Coal Measures is Poor by 2015.  This objective is classified as 
+less than Good by 2027 in the 2015 RBMP (a less stringent objective) because a Good objective is technically 
+infeasible due to legacy metal mine contamination. 
+At present there are no local targeted measures within the catchments to maintain or achieve improvements to 
+the status of the water bodies.  National Measures set by NRW in the 2015 RBMP to achieve the objectives of 
+the plan relate to: 
+ 
+Physical Modifications; 
+ 
+Management of pollution from sewage and waste water; 
+ 
+Management of pollution from towns, cities and transport; 
+ 
+Changes to natural flow and levels of water; 
+ 
+Managing invasive non-native species; 
+ 
+Managing pollution from rural areas; 
+ 
+Managing the impacts of acidification; 
+ 
+Managing pollution from mines. 
+Based on the above information it is not considered that any of the aspects of the Project will prevent the WFD 
+objectives from being achieved. 
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+17 
+ 
+6. 
+Conclusion  
+The WFD assessment indicates that, based on the current understanding of the Project, there is potential for 
+minor localised effects on the Afon Llan River surface water body.  However, it has been assessed that it is 
+unlikely that the Project will cause any significant deterioration or change in water body status or prevent 
+attainment, or potential to achieve, future good status.   
+The WFD assessment indicates that there is potential for minor temporary or localised effects on the Carmarthen 
+Carboniferous Coal Measures groundwater body.  However, it has been assessed that it is unlikely that the 
+Project will cause any significant deterioration or change in water body status or prevent attainment, or potential 
+to achieve the WFD objectives.  
+No further assessment of WFD is recommended given that no significant deterioration or change in water body 
+status is expected based on the current understanding.   
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+18 
+ 
+7. 
+References 
+Environment Agency, 2013. Water Framework Directive – no deterioration. Position Paper 200_13. Issued 
+01/05/2013 
+Environment Agency 2015, Water Framework Directive, Groundwater Chemical Status Assessment 
+(Classification) and Trend Assessment – Method Statements. 
+Environment Agency 2015, Water Framework Directive, Groundwater Quantitative Status Assessment 
+(Classification) and Trend Assessment – Method Statements. 
+Environment Agency 2015, Rules for assessing Surface Water Body Status and Potential, version 2.0. 
+Environment Agency, 2017. https://www.gov.uk/guidance/water-framework-directive-assessment-estuarine-and-
+coastal-waters. 
+Natural Resource Wales, December 2015. Western Wales River Basin District River Basin Management Plan.  
+Natural Resources Wales Water Watch Explorer, 2017. Natural Resources Wales website, access November 
+2017 at http://waterwatchwales.naturalresourceswales.gov.uk/en/. 
+ 
+ 
+ 
+ 
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+19 
+ 
+Appendix A Water Framework Directive Assessment Sheets 
+ 
+ 
+ 
+Formal WFD Assessment: Carmarthen Carboniferous Coal Measures
+Risk screening of potential to cause deterioration of current WFD status
+GB41002G200600
+Phase (Construction /
+Operation)
+Construction
+Construction & Operation
+Operation
+Carmarthen Carboniferous Coal
+Measures
+Identified quantitative
+impacts
+Pollution from Spillages
+Piling and below ground working
+causing mobilisation of
+contamination
+Damming of groundwater flow behind
+piles or foundations (decreasing
+groundwater contributions and
+potentially mobilising contamination)
+1.Saline or other intrusions.
+To identify groundwater bodies where the
+intrusion of poor quality water as a result of
+groundwater abstraction is leading to
+sustained upward trends in pollutant
+concentrations or significant impact on one
+or more groundwater abstractions.
+N/A (no dewatering anticipated)
+Construction of piling and foundations
+could potentially cause intrusion of poor
+quality water although impacts considerd to
+be unlikely given low permeability
+superficial deposits underlying the site.
+Piling and foundations could potentially cause
+intrusion of poor quality water although impacts
+considerd to be unlikely given low permeability
+superficial deposits underlying the site.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+2. Surface water.
+To assess the impact of groundwater
+abstractions on the ecological status of
+surface water bodies.
+N/A (no dewatering anticipated)
+N/A (no dewatering anticipated)
+Possible minor loss of groundwater baseflow from
+piling close to tributary drains and springs.
+Impacts considered unlikely given presence of low
+permeability superficial deposits.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+3. Groundwater Dependent Terrestrial
+Ecosystems (GWDTE's).
+To assess the impact of groundwater
+abstractions on the condition of  GWDTE'S.
+N/A (no dewatering anticipated)
+N/A (no dewatering anticipated)
+Possible minor loss of contributions from
+groundwater to Sites of Importance for Nature
+Conservation and Anscient Woodland which may
+be groundwater dependent.  Impacts considered
+unlikely given prescence of low permeability
+superficial deposits.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+4. Water balance.
+To identify groundwater bodies where
+abstractions exceed the available resource.
+N/A (no dewatering anticipated)
+N/A (no dewatering anticipated)
+N/A (no dewatering anticipated)
+N/A (no dewatering)
+None required
+1. Saline or other intrusions.
+To identify groundwater bodies where the
+intrusion of poor quality water as a result of
+groundwater abstraction is leading to
+sustained upward trends in pollutant
+concentrations or significant impact on one
+or more groundwater abstractions.
+N/A (no dewatering anticipated)
+Construction of piling and foundations
+could potentially cause intrusion of poor
+quality water although impacts considerd to
+be unlikely especially given low
+permeability superficial deposits underlying
+the site.
+Piling and foundations could potentially cause
+intrusion of poor quality water although impacts
+considerd to be unlikely given low permeability
+superficial deposits underlying the site.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+2. Surface water.
+To assess the impact of groundwater on
+the chemical and ecological status of
+surface water bodies.
+CoCP and best practice for design,
+construction and operations reduce risks to
+water quality. No measureable change to
+element anticipated
+Potential for below ground workings to
+encounter any contaminated ground that
+may be present.  Overall minor potential for
+contamination to impact WFD status
+especially given lower permeability
+superficial deposits underlying the site.
+Possible minor loss of baseflow although
+considered to be unlikely given low permeability
+superficial deposits.  Water quality likely to be
+dominated by runoff from upstream catchment.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+3. GWDTE's.
+To assess the impact of nutrient
+concentrations in groundwater (primarily
+phosphates) on GWDTE's.
+CoCP and best practice for design,
+construction and operations reduce risks to
+water quality. No measureable change to
+element anticipated
+Potential for below ground workings to
+mobilse contaminated ground to Sites of
+Important for Nature Conservation and
+Anscient Woodland which may be
+groundwater dependent.  Overall minor
+potential for contamination to impact WFD
+status especially given lower permeability
+superficial deposits underlying the site.
+Potential for below ground structures to mobilse
+contaminated ground to Sites of Important for
+Nature Conservation and Anscient Woodland
+which may be groundwater dependent.  Impacts
+considered unlikely given low permeabilty
+deposits.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+4. Drinking Water Protected Areas
+(DrWPAs).
+To identify groundwater bodies failing to
+meet the DrWPA objectives defined in
+Article 7 of the WFD or at risk of failing in
+the future.
+CoCP and best practice for design,
+construction and operations reduce risks to
+water quality. No measureable change to
+element anticipated
+Potential for below ground workings to
+encounter contaminated ground.  Overall
+minor potential for contamination to impact
+WFD status especially given lower
+permeability superficial deposits underlying
+the site.
+Potential for below ground workings to encounter
+contaminated ground.  Overall minor potential for
+contamination to impact WFD status especially
+given lower permeability superficial deposits
+underlying the site.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+5. General quality assessment.
+To identify groundwater bodies where
+widespread deterioration in quality has or
+will compromise the strategic use of
+groundwater.
+CoCP and best practice for design,
+construction and operations reduce risks to
+water quality. No measureable change to
+element anticipated
+Potential for below ground workings to
+encounter contaminated ground.  Overall
+minor potential for contamination to impact
+WFD status especially given lower
+permeability superficial deposits underlying
+the site.
+Potential for below ground workings to encounter
+contaminated ground.  Overall minor potential for
+contamination to impact WFD status especially
+given lower permeability superficial deposits
+underlying the site.
+Potential localised minor
+impacts not considered
+signficant at water body
+scale.
+Impact unlikely to be be significant at water body scale.
+Assessment to be confirmed when further detailed information
+(e.g. detailed design, detailed drainage strategy, ground
+investigation, risk assessments and surveys) is available.
+Overall impact
+Further WFD Assessment or Mitigation
+(to retain or promote good status)
+Quantitative Elements
+Predicted change to status elements
+Chemical Quality
+Groundwater
+Scheme Elements
+Abergelli Power Station - Power Generation Plant including temporary construction compound, access
+road and new gas and electric connections
+Formal WFD Assessment: Llan - Headwaters to Tidal Limit
+Risk screening of potential to cause deterioration of current WFD Ecological status
+GB110059032070
+Phase (Construction /
+Operation)
+Construction
+Construction
+Construction
+Construction
+Construction
+Operation
+Operation
+Llan - headwaters to tidal limit
+Identified quantitative
+impacts
+Noise and vibration from foundations and
+piling
+Temporary landtake
+Pollution due to discharges
+Scour
+Diversion of tributary drains
+Permanent landtake
+Diversion of tributary drains
+Macrophytes and phytobenthos -
+combined
+Insensitive to impact. No measureable change to
+element anticipated
+Possible temporary effects from construction
+close to tributary drains due to the loss of habitat
+during works on the bankside.  This is unlikely to
+be significant at the waterbody scale and likely to
+recovery naturally.
+Possible minor impact where works close to tributary
+drains including below ground workings may possibly
+mobilise contaminated sediments into the tributary
+drains.  Unlikely to affect the status at a water body
+scale following implimentation of CoPC / CEMP.
+Potential for increase in scour caused by works close
+to or from diversion of tributary drains may affect
+ecological habitats.  Unlikely to be significant at water
+body scale.
+Diversion of tributary drains will result in loss of
+habitat on tributary drains which are likely to be
+temporary.  Impacts considered unlikely to be
+significant at the water body scale.
+Landtake will be mean some loss of habitat
+in proximity of the tributary drains although
+unlikely to be significant at the water body
+scale.
+No significant impact anticipated
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Macroinvertebrates
+Insensitive to impact. No measureable change to
+element anticipated
+Possible temporary effects from construction
+close to tributary drains due to the loss of habitat
+during works on the bankside.  This is unlikely to
+be significant at the waterbody scale and likely to
+recovery naturally.
+Possible minor impact where works close to tributary
+drains including below ground workings may possibly
+mobilise contaminated sediments into the tributary
+drains.  Unlikely to affect the status at a water body
+scale following implimentation of CoPC / CEMP.
+Potential for increase in scour caused by works close
+to or from diversion of tributary drains may affect
+ecological habitats.  Unlikely to be significant at water
+body scale.
+Diversion of tributary drains will result in loss of
+habitat on tributary drains which are likely to be
+temporary.  Impacts considered unlikely to be
+significant at the water body scale.
+Landtake will be mean some loss of habitat
+in proximity of the tributary drains although
+unlikely to be significant at the water body
+scale.
+No significant impact anticipated
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Fish
+Possible temporary effects from construction close to
+tributary trains.  Mitigation may include construction only
+within non-migratory periods.
+Possible temporary effects from construction
+close to tributary drains due to the loss of habitat
+during works on the bankside.  This is unlikely to
+be significant at the waterbody scale and likely to
+recovery naturally.
+Possible minor impact where works close to tributary
+drains including below ground workings may possibly
+mobilise contaminated sediments into the tributary
+drains.  Unlikely to affect the status at a water body
+scale following implimentation of CoPC / CEMP.
+Potential for increase in scour caused by works close
+to or from diversion of tributary drains may affect
+ecological habitats.  Unlikely to be significant at water
+body scale.
+Diversion of tributary drains will result in loss of
+habitat on tributary drains which are likely to be
+temporary.  Impacts considered unlikely to be
+significant at the water body scale.
+Landtake will be mean some loss of habitat
+in proximity of the tributary drains although
+unlikely to be significant at the water body
+scale.
+No significant impact anticipated
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Physico-Chemical status
+Ammonia (Physio-Chemical)
+No measureable change to element anticipated
+No measureable change to element anticipated
+Dissolved Oxygen
+No measureable change to element anticipated
+No measureable change to element anticipated
+pH
+No measureable change to element anticipated
+No measureable change to element anticipated
+Phosphate
+No measureable change to element anticipated
+No measureable change to element anticipated
+Temperature
+No measureable change to element anticipated
+No measureable change to element anticipated
+Copper
+No measureable change to element anticipated
+No measureable change to element anticipated
+Zinc
+No measureable change to element anticipated
+No measureable change to element anticipated
+Specific Pollutants (Annex 8)
+No measureable change to element anticipated
+No measureable change to element anticipated
+Hydromorphological status
+Quantity and dynamics of river flow
+No measureable change to element anticipated
+No measureable change to element anticipated
+No measureable change to element anticipated
+No measureable change anticipated
+Potential for minor impact during construction and
+limited to tributary drains.  Unlikely to be sinificant
+impact at the water body scale.
+No measureable change anticipated
+Potential for minor impact on tributary drains.
+Unlikely to be significant impact at the water body
+scale.
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Connection to Groundwater
+No measureable change to element anticipated
+No measureable change to element
+Possible minor impact where foundations or piling into
+groundwater may possibly mobilise contaminated
+sediments into the tributary drains and springs.
+Unlikely to affect the status at a water body scale.
+Construction of foundations and piling in proximity to
+tributary drains and springs may have possible minor
+impact.  Unlikely to be significant at water body scale.
+Potentially minor loss of baseflow in tributary
+drains and flow from springs although unlikely to
+be significant on water body scale.
+New foundations or piling may have possible
+minor impact on connection between
+groundwater and surface water in vicinity of
+tributary drains and springs but unlikely to be
+significant on water body scale.
+Potentially minor loss of baseflow in tributary drains
+although unlikely to be significant on water body
+scale.
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+River continuity
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+River depth and width variation bed
+No measureable change to element anticipated
+There is potential for minor impacts due to
+changes in local hydraulics and substrate transport
+caused by temporary land take which is likely to
+recover naturally.  Unlikely to be significant at
+waterbody scale.
+No measureable change to element anticipated
+No measurable change to element anticipated
+Potential for minor impact during construction and
+limited to tributary drains.  Unlikely to be sinificant
+impact at the water body scale.
+No measureable change anticipated
+No measureable change anticipated
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Structure and substrate of river bed
+No measureable change to element anticipated
+There is potential for minor impacts due to
+changes in local hydraulics and substrate transport
+caused by temporary land take which is likely to
+recover naturally.  Unlikely to be significant at
+waterbody scale.
+No measureable change to element anticipated
+Potentially increased scour caused by works close to
+or from diversion of tributary drains although likely to
+recovery naturally.  Unlikely to be significant on water
+body scale.
+Potential for minor impact during construction and
+limited to tributary drains.  Unlikely to be sinificant
+impact at the water body scale.
+No measureable change anticipated
+No measureable change anticipated
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Structure of riparian zone
+No measureable change to element anticipated
+There is potential for minor impacts due to
+changes in local hydraulics and substrate transport
+caused by temporary land take which is likely to
+recover naturally.  Unlikely to be significant at
+waterbody scale.
+No measureable change to element anticipated
+Potentially increased scour caused by works close to
+or from diversion of tributary drains although likely to
+recovery naturally.  Unlikely to be significant on water
+body scale.
+Potential for minor impact during construction and
+limited to tributary drains.  Unlikely to be sinificant
+impact at the water body scale.
+Landtake in proximity of tributary drains may
+have minor detrimental impacts compared to
+existing conditions, however unlikely to be
+any significant impact at the waterbody
+scale.
+Diverson of tributary drains may have minor
+detrimental impacts compared to existing
+conditions, however unlikely to be any significant
+impact at the waterbody scale.
+Potential localised impacts, but
+no deterioration anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+No measureable change to element
+anticipated as new construction is not
+expected to increase surface water run-off
+following implimentation of drainage plan.
+No measureable change to element anticipated.
+Although impact unlikely to be be significant at water body scale,
+assessment to be confirmed when further detailed information (e.g.
+detailed design, detailed drainage strategy, ground investigation, risk
+assessments and surveys) is available.
+Hydromorphological Elements
+Predicted change to status elements (green = none, amber = possibly, red = likely)
+Overall impact
+Further WFD Assessment or Mitigation
+(to retain or promote good status)
+Abergelli Power Station - Power Generation Plant including temporary construction compound, access road and new gas and electric connections
+River
+Scheme Elements
+WFD classification elements
+Supporting Elements
+Predicted change to status elements (green = none,
+amber = possibly, red = likely)
+Predicted change to status elements
+(green = none, amber = possibly, red =
+likely)
+Implementation of CoCP and
+Best Practice Measures during
+construction and operation will
+ensure potential impacts to
+water quality are limited to
+temporary, spatially limited
+and/or minor impacts in relation
+to the overall size of the water
+body.  No deterioration of status
+anticipated
+Possible minor impact where removal or topsoil and
+works close to tributary drains including below ground
+workings may possibly mobilise contaminated
+sediments into the tributary drains.  Unlikely to affect
+the status at a water body scale following
+implimentation of CoPC / CEMP.
+Possible minor impact where scour caused by works
+close to or from diversion of tributary drains may
+possibly mobilise contaminated sediments.
+Possible minor impacts caused mobilisation of
+sediments during realignment works on tributary
+drains. Unlikely to affect the status at a water
+body scale following implimentation of CoPC /
+CEMP.
+Lower Lliw Reservoir
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+t y Fendrod - headwaters to conf with Tawe
+Filename: C:\GIS\Abergelli\Abergelli GIS\Layout\Site Location WFD.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+FIGURE 2-1
+SITE LOCATION
+001
+Scale at A3: 1:25,000
+FIGURE 2-1
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+MO
+Date:
+App'd:
+NM
+16/11/17
+Site Boundary
+1 km Site Buffer
+WFD Rivers
+Other Watercourses
+WFD Lakes
+Lower Lliw Reservoir
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Carmarthen Carboniferous Coal Measures
+Swansea Carboniferous Coal Measures
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+Nant y Fendrod - headwaters to conf with Tawe
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\WFD - Water\WFD_3_Groundwater bodies.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+FIGURE 2-1
+WFD WATER BODIES
+001
+Scale at A3: 1:25,000
+FIGURE 2-1
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+ABERGELLI POWER 
+LTD.
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+GM
+Date:
+App'd:
+CA
+27/10/17
+Site Boundary
+1 km Buffer
+Inferred Water Flow
+Groundwater
+Surface Water
+WFD Lakes
+Moderate
+WFD Rivers
+Good
+Moderate
+WFD Groundwater Chemistry
+Poor
+Preliminary WFD Assessment 
+   
+  
+ 
+ 
+ 
+Prepared for:  Abergelli Power Ltd.   
+ 
+AECOM 
+20 
+ 
+ 
+ 
+ 
+  
+ 
+aecom.com   
+ 
+ 
+ 
+ 

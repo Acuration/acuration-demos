@@ -1,0 +1,512 @@
+Chapter 17
+Cumulative Impacts
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-1 
+ 
+ 
+CONTENTS 
+17. Cumulative Effects ............................................................................................. 2 
+17.1 Introduction ............................................................................................... 2 
+17.2 Summary of Relevant Legislation, Planning Policy and Guidance ............ 2 
+17.3 Methods .................................................................................................... 5 
+17.4 Consultation .............................................................................................. 5 
+17.5 Intra-project Effects ................................................................................... 6 
+17.6 Assessment of Potential Intra-project effects ............................................ 7 
+17.7 Inter-project Effects ................................................................................... 7 
+17.8 Summary ................................................................................................... 9 
+17.9 References ................................................................................................ 9 
+ 
+TABLES 
+Table 17-1: Consultation summary for cumulative effects .......................................... 5 
+Table 17-2: Intra-Project Cumulative Effects .............................................................. 7 
+ 
+ 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-2 
+ 
+17. 
+Cumulative Effects 
+17.1 
+Introduction 
+17.1.1 This chapter provides a summary of the likely significant cumulative effects 
+associated with the Project, both for intra-project (where a single receptor is 
+affected by multiple aspects of a project, worsening the effect) and inter-project 
+effects (where effects are exacerbated due to other reasonably foreseeable 
+projects either in construction, consented or yet to be built).  
+17.1.2 Chapter 4: Approach to Environmental Impact Assessment described the 
+processed used to assess cumulative effects in this chapter. This chapter also 
+provides the approach to the cumulative effects assessment, which has been 
+included within Chapters 6-14 in the individual topic areas. A description of the 
+Project is provided in Chapter 3: Project and Site Description,  
+17.2 
+Summary of Relevant Legislation, Planning Policy and Guidance 
+17.2.1 Chapter 2: Regulatory and Policy Background outlines the legislation and 
+planning policy associated with the project, and that relevant to cumulative 
+assessment is detailed below. 
+a) EIA Regulations 
+17.2.2 The EIA Regulations require a description of the likely significant effects of the 
+Project on the environment, which should cover cumulative effects (Schedule 4 
+Section 5) The inter relationship of likely significant effects of the Project therefore 
+needs to be assessed. Overarching National Policy Statement for Energy (EN-1).  
+17.2.3 The Overarching National Policy Statement for Energy (NPS EN-1) (Ref 17.1) 
+states the following in relation to requirements for the assessment of cumulative 
+effects: 
+Section 4.2.5 - ‘When considering cumulative effects, the Environmental Statement 
+(ES) should provide information on how the effects of the applicant’s proposal 
+would combine and interact with the effects of other developments (including 
+projects for which consent has been sought or granted, as well as those already in 
+existence).’   
+17.2.4 Inter-relationships between effects are also referred to as follows: 
+Section 4.2.6 - ‘The Infrastructure Planning Commission (IPC) (now the Planning 
+Inspectorate 
+(PINS)) 
+should 
+consider 
+how 
+the 
+accumulation 
+of, 
+and 
+interrelationship between, effects might affect the environment, economy or 
+community as a whole, even though they may be acceptable when considered on 
+an individual basis with mitigation measures in place.’ 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-3 
+ 
+17.2.5 In considering any proposed development, and in particular when weighing its 
+adverse impacts against its benefits, the Secretary of State should take into 
+account: 
+17.2.6 Section 4.1.3: 'its potential adverse impacts, including any long-term and 
+cumulative adverse impacts, as well as any measures to avoid, reduce or 
+compensate for any adverse impacts' 
+b) Guidance 
+17.2.7 Guidance that is applicable to each specific topic assessment is identified in the 
+relevant Chapters (Chapter 6 to 14 of this Preliminary Environmental Impact Report 
+(PEIR)). 
+17.2.8 PINS Advice Note Nine: Using the 'Rochdale Envelope' (Ref 17.2) states that: 
+ 
+‘The inter-relationship between aspects of the proposed development should be 
+assessed and careful consideration should be given by the developer to explain 
+how inter-relationships have been assessed in order to address the environmental 
+impacts of the proposal as a whole.’ 
+17.2.9 Advice Note Nine provides a definition of cumulative effects which are described as 
+considering ‘…other proposed development within the context of the site and any 
+other reasonably foreseeable proposals in the vicinity 
+17.2.10 Advice Note Nine also establishes that ‘other developments’ and more specifically 
+‘major developments’ need to be identified to assess the probable significant 
+effects against the baseline position. Built and operational developments are 
+included in this baseline. The ‘major developments’ that should be considered 
+within the cumulative assessment include those that are: 
+ Under construction; 
+ Permitted application(s), but not yet implemented; 
+ Submitted applications(s) not yet determined; 
+ Projects on the Planning Inspectorate’s Programme of Projects; 
+ Identified in the relevant Development Plan; and 
+ Identified in other plans and programmes (as appropriate) which set the 
+framework 
+for 
+future 
+development 
+consents/approvals, 
+where 
+such 
+development is reasonably likely to come forward. 
+17.2.11 This list is also included in the document Planning Act 2008: Guidance on the Pre-
+Application Process (Ref 17.3). This document acknowledges that it is not always 
+easy for applicants to assess potential cumulative effects due to the lack of 
+information available and that a pragmatic approach should therefore be taken 
+when determining what is feasible and reasonable.   
+17.2.12 PINS Advice Note Seventeen: Cumulative effects assessment (Ref. 17-4) provides 
+advice on a ‘staged process that applicants may wish to adopt in cumulative effects 
+assessment for NSIPs. The four assessment stages comprise: 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-4 
+ 
+1. 
+Establish the NSIPs zone of influence and identify a ‘long list’ of other 
+developments which could potentially have effect interactions with the NSIP. 
+This long list is presented in Table 4-6 of Chapter 4: Approach to 
+Environmental Impact Assessment; 
+2. 
+Develop a ‘short list’ of other developments which could potentially have 
+effect interactions with the NSIP. Essentially analysing the ‘long list’ 
+developed in stage 1 in more detail in order to include only those 
+developments that have potential to give rise to significant cumulative effects 
+by virtue of overlaps in temporal scope; due to the scale and nature of the 
+‘other development’/receiving environment; or any other relevant Factors. 
+The projects for inclusion in each technical assessment (the ‘short list’) have 
+been noted where applicable in the cumulative effects section of Chapters 6-
+14; 
+3. 
+Gather available information on the shortlisted developments; and  
+4. 
+Assessment of likely significant impacts arising as a result of the NSIP 
+cumulatively with the short listed developments identified during stage 2 and 
+available information gathered in stage 3. 
+17.2.13 Table 3 of Advice Note Seventeen describes potential schemes for cumulative 
+assessment in three tiers and recognises that for each tier, there is a decreasing 
+level of detail likely to be available. The three tiers are: 
+ 
+Tier 1 – Projects under construction 
+ 
+ Permitted application(s), whether under the PA 2008 or other regimes, but not 
+yet implemented; and 
+ Submitted application(s) whether under the PA 2008 or other regimes but not 
+yet determined; 
+ 
+Tier 2 
+ 
+ Projects on the Planning Inspectorate’s Programme of Projects where a 
+scoping report has been submitted. 
+ 
+Tier 3 
+ 
+ Projects on the Planning Inspectorate’s Programme of Projects where a 
+scoping report has not been submitted; 
+ Identified in the relevant Development Plan (and emerging Development Plans 
+with appropriate weight being given as they move closer to adoption) 
+recognising that much information on any relevant proposals would be limited; 
+and 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-5 
+ 
+ Identified in other plans and programmes (as appropriate) which set the 
+framework 
+for 
+future 
+development 
+consents/approvals, 
+where 
+such 
+development is reasonably likely to come forward. 
+17.3 
+Methods 
+17.3.1 The methodology for cumulative assessment is outlined in Chapter 4: Approach 
+to Environmental Impact Assessment, and summarised below. 
+17.3.2 The cumulative effects assessment for the Project follows the guidelines as set by 
+the Institute of Environmental Management and Assessment (IEMA) and advice 
+from PINS.  
+17.3.3 IEMA’s guidelines recognise two major sources of cumulative effects: 
+ Intra-project effects – These occur where a single receptor is affected by 
+more than one source of effect arising from different aspects of the Project. An 
+example of an intra-project effect would be where a local resident is affected by 
+dust, noise and traffic disruption during the construction of a scheme, with the 
+result being a greater nuisance than each individual effect alone; and 
+ Inter-project effects – These effects occur as a result of a number of past, 
+present or reasonably foreseeable proposed developments, which individually 
+might not be significant, but when considered together could create a 
+significant cumulative effect on a shared receptor, and could include 
+developments separate from and related to the Project. 
+17.4 
+Consultation 
+17.4.1 Consultation regarding cumulative development undertaken in relation to the 
+Project is listed in Table 17-1 below. 
+17.4.2 Through the Scoping Report and ongoing consultation with CCS, a long list was 
+agreed for this PEIR, as presented in Table 4-6.  
+Table 17-1: Consultation summary for cumulative effects 
+Organisation 
+Comment 
+Response 
+SoS 
+(Scoping 
+Opinion,paras.3.69-
+3.70) 
+The SoS recommends that the 
+Applicant consider the inclusion of 
+the following developments identified
+by CCS: Mynydd y Gwair Wind 
+Farm; 
+Felindre 
+Business 
+Park;
+,Brynwhilach 
+Solar 
+Park; 
+and 
+proposed sustainable urban village 
+at Felindre 
+These proposals have been 
+considered 
+in 
+relevant 
+cumulative assessments and 
+where still current are listed in 
+Chapter 
+4: 
+Approach 
+to 
+Environmental 
+Impact 
+Assessment of the PEIR. This 
+is described in section 17.6 in 
+further detail.  
+CCS (email dated 
+23/10/17) 
+Email response from CCS giving 
+agreement 
+on 
+an 
+updated 
+cumulative scheme list (from 2014 to 
+The cumulative scheme list has 
+been 
+updated 
+to 
+include 
+additional schemes, as listed in 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-6 
+ 
+Organisation 
+Comment 
+Response 
+October 2017) and details of the 
+inclusion of additional schemes to 
+consider. 
+Table 
+4-6 
+in 
+Chapter 
+4: 
+Approach to Environmental 
+Impact Assessment. 
+17.5 
+Intra-project Effects 
+17.5.1 For the purpose of this chapter, consideration will be given to the additive or 
+amplified effects resulting from environmental effects on ‘shared receptors’ and also 
+where sources of effect from different components of the Project may combine to 
+be of greater significance than when considered alone. Each of the topic specific 
+chapters from Chapter 6 – 14 has outlined the cumulative effects from that specific 
+individual topic including the mitigation required. These measures will be 
+incorporated in the Outline CEMP in Appendix 3.1 where appropriate or via specific 
+DCO Requirements to be agreed.  
+17.5.2 As outlined in Chapters 6-14, there are unlikely to be any intra-project effects from 
+the operation and decommissioning phases of the Project and so these are not 
+considered further. 
+a) Shared Receptors  
+17.5.3 Shared receptors from individual elements of the Project (e.g. construction of 
+Power Generation Plant, Gas Connection and Electrical Connection) are likely to 
+be limited to nearby residential dwellings.  
+17.5.4 Potential effects at these shared receptors may comprise of the following: 
+ Noise effects;  
+ Views from residential dwellings; 
+ Potential effects on waterbodies and water based receptors from increased risk 
+of sediment runoff and polluted discharges during the construction phase; 
+ Traffic effects from increased vehicle numbers during the construction phase; 
+and 
+ Production of dust during the construction phase. 
+17.5.5 Due to the application of embedded and additional mitigation measures (such as 
+the avoidance of habitats, the CEMP and topic specific management plans) which 
+ensure that likely significant effects on shared receptors are unlikely, or the 
+absence of any effects on shared receptors, the following topics are scoped out 
+from the intra-cumulative assessment:  
+ Ecology - due to the embedded and additional mitigation, there is unlikely to be 
+any cumulative effects from multiple components of the Project working 
+simultaneously affecting several species. In addition, the total permanent 
+habitat loss will be mitigated by the creation of the Ecological Mitigation Area 
+and / or enhancements via the Landscaping and Reinstatement Plan; 
+ Socio-economic; 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-7 
+ 
+ Historic Environment; and 
+ Geology, Ground Conditions and Hydrogeology.  
+b) Assessment of Potential Intra-project effects 
+17.5.6 Table 17-2 outlines the potential intra-project cumulative effects from the Project. 
+As previously described in Chapters 6-14, it is considered unlikely that there will be 
+any intra-project effects during operation or decommissioning, and so the 
+assessment only considers construction stage effects. 
+Table 17-2: Intra-Project Cumulative Effects 
+Receptor with 
+potential for 
+multiple effects 
+Potential 
+Intra-
+Project 
+Effects 
+Comments 
+Residential  
+Dust, Noise, 
+Traffic, 
+Landscape   
+Construction of the whole Project will result in 
+construction activity not previously present and additional 
+vehicles along access routes. This creates an increase in 
+traffic flows for all Project components, disruption of 
+views and potential production of noise, dust and air 
+pollutants from the Project as a whole during the 
+construction period.  
+This may have an effect on local communities and 
+nearby 
+residential 
+dwellings. 
+As 
+embedded 
+and 
+additional mitigation is proposed within the individual 
+topic chapters (such as a CTMP and CEMP), this will 
+result in a Minor adverse in-combination effect, which is 
+not significant 
+17.6 
+Inter-project Effects 
+17.6.1 A review of the planning applications and proposed developments within a 5 km 
+study area around the Project was undertaken to scope any other projects that 
+were considered to constitute ‘major development’ schemes. A further review was 
+undertaken to determine which developments had the potential to result in likely 
+significant cumulative effects with the Project within each individual technical 
+chapter.   
+17.6.2 Further to the SoS comments received within the Scoping Opinion, the projects 
+listed in Table 17-1 have been reviewed and are included within those listed in 
+Table 4-6.  
+17.6.3 Further to liaison with CCS, a “long list” of consented, in construction, or consented 
+but not yet implemented developments, in addition to those allocated within the 
+Local Development Plan (LDP), was agreed. The “long list” was then reviewed and 
+refined, resulting in the following developments being identified as having likely 
+cumulative effects. There are no other major developments, Tier 1, Tier 2 or Tier 3 
+developments or applications present within the 5 km study area.    
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-8 
+ 
+17.6.4 The Mynydd Y Gwair windfarm (planning reference 2012/1221) is currently in 
+construction and will be operational prior to the commencement of this Project. 
+Therefore the potential cumulative effects are restricted to landscape and visual 
+during operation. Construction traffic from the Project will not have any cumulative 
+effects with operational traffic from the windfarm. It is considered that there will be 
+no cumulative effects with the Mynydd y Gwair windfarm due to the intervening 
+topography ensuring that there is no cumulative visual impact (as shown on the 
+ZTV in Figure 11-8).  
+17.6.5 Proposed sustainable urban village at Felindre and other allocated sites have been 
+scoped out of the cumulative assessment as there are very limited details about the 
+scale and nature of the proposed developments in which to form a robust basis for 
+assessment.  
+17.6.6 The Brynwhilach Solar Park (2014/1022) is also under construction and will be 
+installed and operational during the determination period of this Project. The 
+potential cumulative effects are limited to landscape during the operation of both 
+this Solar Park and the Project, and this is discussed within paragraphs 11.10.22 to 
+11.10.32 of Chapter 11: Landscape & Visual.  
+17.6.7 The Felindre Business Park is currently under construction (planning reference 
+2006/0773) with a second application (planning reference 2013/1835) approved but 
+not yet implemented for the car park and share facility. The potential cumulative 
+effects to relates principally to traffic and transport on the B4489 during the 
+operation phase of the Business Park and construction traffic for the Project, and 
+landscape and visual, however there are no shared receptors. The cumulative 
+effects related specifically to landscape and visual and traffic and transport are 
+discussed within Chapter 11: Landscape & Visual and Chapter 12: Traffic, 
+Transport & Access.  
+17.6.8 To summarise, the Landscape Character around the Project Site and visual 
+amenity viewpoints 9 and 15 are expected to experience cumulative effects with the 
+Felindre Business Park during the construction phase of the Project due to views 
+contained construction equipment, lighting and construction activities. This is 
+expected to result in Minor adverse effects, which is not significant. During 
+operation, both developments would experience cumulative effects due to changes 
+in landscape character, landform and presence. However these are also 
+considered to be Minor adverse, and therefore not significant. 
+17.6.9 As the construction traffic cumulative assessment assumes all developments, the 
+residual cumulative effect for pedestrian experience will be Minor to Moderate 
+adverse. There will also be a moderate adverse effect on driver delay on the 
+B4489 (North) and a major adverse effect on the B4489 (South). Whilst these 
+effects are significant, no mitigation is considered to be required due to the 
+temporary effect during construction. 
+17.6.10 As detailed within the cumulative assessment of Chapters 6 to14, no other projects 
+were considered to have potential to cause cumulative effects with the Project 
+Abergelli PEIR 2018 – CHAPTER 17: CUMULATIVE EFFECTS 
+ 
+ 
+ 
+Prepared for:  Abergelli Power Limtied 
+ 
+AECOM 
+17-9 
+ 
+either in terms of shared receptors, shared access routes or simultaneous 
+construction or operational phases. Therefore, it is unlikely that there will be any 
+inter-project effects from other Projects in Table 4-6 and so effects are considered 
+to be not significant. 
+17.7 
+Summary  
+17.7.1 The assessment of intra-effects of the Project on shared receptors has concluded 
+that the effects are Minor adverse, and therefore are not significant.   
+17.7.2 The assessment of inter-project effects have been described, summarised and 
+assessed in this chapter. It is concluded that the cumulative effects on shared 
+receptors from individual topics and also cumulatively with the Project and other 
+proposed developments are mostly Minor adverse effects, with the exception of 
+cumulative effects relating to pedestrian experience and driver delay as these are 
+considered to be Moderate adverse, which is significant. However as these 
+effects are temporary during construction, no further mitigation is required, and they 
+do not add to the overall significance of the effects of the Project.  
+17.8 
+References 
+Ref. 17.1 
+Department of Energy and Climate Change. (2011). Overarching National 
+Policy Statement for Energy (EN-1).[Online]. 
+Available: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/
+47854/1938-overarching-nps-for-energy-en1.pdf  
+[Accessed: 26/10/17]. 
+Ref. 17.2 
+ The Planning Inspectorate. (2012). Advice Note Nine: Rochdale Envelope. 
+Version 2. [Online].  
+Available: https://infrastructure.planninginspectorate.gov.uk/wp-
+content/uploads/2013/05/Advice-note-9.-Rochdale-envelope-web.pdf 
+[Accessed: 30/10/17]. 
+Ref. 17.3 
+Department for Communities and Local Government. (2015). Planning Act 
+2008: Guidance on the Pre-Application Process. [Online]. 
+Available: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/
+418009/150326_Pre-Application_Guidance.pdf 
+[Accessed: 31/10/17].  
+Ref. 17.4 
+The Planning Inspectorate (2015). Advice Note Seventeen: Cumulative 
+Effects Assessment [Online].  
+Available: https://infrastructure.planninginspectorate.gov.uk/legislation-and-
+advice/advice-notes/ 
+[Accessed: 19/12/17]. 

@@ -1,0 +1,2827 @@
+Biomass carbon impacts 
+ 
+Carbon impacts of 
+biomass consumed 
+in the EU 
+Supplementary analysis      
+and interpretation for the 
+European Climate Foundation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Robert Matthews, Geoff Hogan and Ewan Mackie 
+ 
+Biomass carbon impacts 
+ 
+ 
+ 
+Biomass carbon impacts 
+ 
+i    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Forest Research is the Research Agency of the Forestry Commission and is the leading 
+UK organisation engaged in forestry and tree related research.  The Agency aims to 
+support and enhance forestry and its role in sustainable development by providing 
+innovative, high quality scientific research, technical support and consultancy services. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Carbon impacts of biomass consumed in the EU: 
+Supplementary analysis and interpretation for 
+the European Climate Foundation 
+ 
+Robert Matthews, Geoff Hogan and Ewan Mackie (2018) 
+Carbon impacts of biomass consumed in the EU: Supplementary analysis and 
+interpretation for the European Climate Foundation 
+Project report for ECF 
+Biomass carbon impacts 
+ 
+ii    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Contents 
+Executive Summary ........................................................................................... iii 
+1. Introduction ................................................................................................... 1 
+2. Aim of the project ........................................................................................... 2 
+3. Approach to quantitative assessment ............................................................. 2 
+3.1. Life cycle assessment (LCA) .......................................................................... 3 
+3.2. Models ....................................................................................................... 4 
+3.3. Approach to modelling land-based carbon impacts ........................................... 4 
+3.3.1. The “virtuous circle” argument ................................................................ 5 
+3.3.2. The “no-use option” argument ................................................................ 7 
+3.3.3. The “maintaining/strengthening vigour” argument .................................... 9 
+3.3.4. The “growth more than harvest” argument ............................................ 12 
+3.3.5. The “no stemwood/roundwood” argument .............................................. 15 
+3.4. Approach to representing ILUC .................................................................... 18 
+4. Scenarios ...................................................................................................... 19 
+4.1. Definition of scenarios: overall bioenergy consumption .................................. 20 
+4.2. Definition of scenarios: approaches to land management and biomass utilization22 
+4.2.1. Agricultural land management .............................................................. 23 
+4.2.2. Forest management and wood utilization ............................................... 23 
+5. Key findings.................................................................................................. 28 
+5.1. Total annual GHG emissions ....................................................................... 28 
+5.2. GHG impacts of key energy sources ............................................................. 29 
+5.2.1. Observations on results for 2030 .......................................................... 31 
+5.2.2. Conclusions on results for broad contributions to GHG impacts ................. 32 
+5.3. GHG impacts of forest bioenergy ................................................................. 32 
+5.4. Cost and technical implications of scenarios .................................................. 36 
+5.5. Measures to support forest bioenergy consumption with low GHG emissions ..... 37 
+6. Implications for regulation of bioenergy ...................................................... 39 
+6.1. General guidelines for bioenergy sources ...................................................... 40 
+6.2. Biomass in the RED and proposed REDII ...................................................... 49 
+6.2.1. REDII proposal and calculation of GHG impacts....................................... 50 
+6.2.2. Implications of proposed calculation methodology ................................... 51 
+6.2.3. Other sustainability criteria in the proposed REDII .................................. 52 
+6.2.4. Assessment of criteria in proposed REDII ............................................... 54 
+6.3. Relevance to bioenergy regulation of national and international action on LULUCF55 
+6.3.1. Forest biomass ................................................................................... 57 
+7. Discussion .................................................................................................... 58 
+Biomass carbon impacts 
+ 
+iii    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+ 
+Executive Summary 
+This report was commissioned from Forest Research by the European Climate Foundation 
+(ECF) to provide an elaborated analysis to clarify the findings of a project undertaken for 
+the European Commission (DG ENER), known as Carbon Impacts of Biomass Consumed 
+in the EU, and latterly referred to as the “Bioimpact Project”. 
+The ECF asked Forest Research to further analyse the results gained from the Bioimpact 
+Project to deliver insights on 3 key questions pertinent to EU bioenergy policy design: 
+Comparison of Bioenergy Scenarios - Based on the Bioimpact Project, provide 
+simplified conclusions on the types of bioenergy scenario that will deliver relatively 
+higher or lower GHG reductions compared to the baseline scenario. 
+Statement of Risk of EU Bioenergy Policy - Based on the answer to the first 
+question, provide a statement of the risks associated with EU bioenergy policy, both with 
+and without specific measures to ensure sustainable supply. 
+Criteria to ensure GHG reductions - Provide a practical set of sustainability criteria to 
+ensure that those bio feedstocks used to meet EU bioenergy goals deliver GHG 
+reductions, and assess whether the RED II covers these issues. 
+1 Comparison of Bioenergy Scenarios 
+The scenarios used in this project were the same as in the original Bioimpact project. 
+These scenarios were subjected to Consequential Life Cycle Analysis (CLCA). The 
+purpose of CLCA is to determine the total collective consequences of a course of action 
+or a policy, compared to a counterfactual situation (i.e. in which the action or policy is 
+not pursued), without attempting to attribute specific GHG emissions to individual 
+components of the system (e.g. specific biomass feedstocks). The following summarises 
+the modelling results: 
+The scenario of unconstrained bioenergy use (B) and the scenario with higher imported 
+wood (C1) achieve the lowest GHG reductions because they emphasize forest 
+management and wood utilization practices involving additional harvesting and they 
+place less emphasis on the utilization of small/early thinnings, forest residues and 
+industrial residues (which deliver higher GHG reductions). 
+The scenario that emphasizes domestic forest bioenergy (C3) performs relatively well 
+because it emphasizes forest management and wood utilization practices involving 
+utilization of small/early thinnings, forest residues and industrial residues (which deliver 
+higher GHG reductions) and places less emphasis on additional harvesting above 
+baseline levels.  
+Biomass carbon impacts 
+ 
+iv    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+The scenario that backs away from bioenergy (D) performs best in terms of GHG 
+reductions because the level of forest bioenergy production is lower than in the 
+Reference Scenario as a result of the de-prioritization of bioenergy consumption. 
+However, there are additional financial costs associated with this scenario. 
+The essential implications of these conclusions are that: 
+Bioenergy production involving additional harvesting, even if that involves co-production 
+as part of additional harvesting, can involve significant risks of high GHG emissions. 
+Bioenergy production involving utilization of small/early thinnings, forest residues and 
+industrial residues involves low risks and should lead to low GHG emissions. 
+2 Statement of Risk of EU Bioenergy Policy  
+If a cautious position were to be taken, the project findings lead to the following 
+tentative conclusion: 
+Unless appropriate policy measures are taken to support sustainable bioenergy supply 
+(in terms of impacts on GHG emissions), particularly in the case of forest bioenergy 
+supply, a significant increase in bioenergy use in the EU is likely to lead to a net 
+increase, rather than decrease, in GHG emissions being contributed from bioenergy 
+sources. 
+Whilst such a conclusion is reasonable based on the project findings, it should be 
+clarified that, strictly, the results should not be interpreted to imply that the increased 
+use of bioenergy in the EU must inevitably involve increased GHG emissions. Rather, 
+the results strongly indicate that there are significant risks of increases in GHG 
+emissions associated with greater bioenergy use, in particular forest bioenergy use, 
+unless there are appropriate checks and balances on the supply and consumption of 
+bioenergy sources with regard to associated GHG emissions.  Hence, the corollary of this 
+conclusion is that: 
+If specific measures are taken to ensure only sustainable bioenergy (in terms of impacts 
+on GHG emissions) is incentivized, a net decrease, rather than increase, in GHG 
+emissions is likely to be associated with bioenergy sources.  
+3 Criteria to ensure GHG reductions 
+The key findings and conclusions of this project would appear to suggest two major 
+policy options with regard to renewable energy and the potential contribution of 
+bioenergy towards achieving significant near-term reductions in GHG emissions 
+compared to fossil fuels. 
+One option would involve de-prioritizing bioenergy in order to avoid potential risks 
+associated with some bioenergy sources, whilst noting that this would be likely to require 
+at least some of the following: 
+Biomass carbon impacts 
+ 
+v    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• The increased use of other renewable energy sources (particularly solar and wind 
+power) 
+• More concerted efforts towards energy efficiency or demand-side response in the EU 
+region across all sectors, but particularly in the residential and transport sectors 
+• Increased use of nuclear power (involving both current and assumed future 
+technologies) 
+• Increased reliance on imports of natural gas, nuclear fuels and electricity into the EU 
+region from elsewhere 
+• Some increased deployment of carbon capture and storage technologies (compared 
+with scenarios involving higher bioenergy use). 
+The alternative option would be to carry on with supporting a contribution from 
+bioenergy sources towards targets for renewable energy and GHG emissions reductions, 
+whilst putting in place a policy framework capable of ensuring that bioenergy sources 
+genuinely lead to significant near-term reductions in GHG emissions compared to fossil 
+fuels. 
+If this alternative bioenergy option were to be pursued, it is important to recognize that 
+this study has identified that bioenergy, and forest bioenergy in particular, can be a 
+potential contributor to increased GHG emissions.  However, this is not inevitable if a 
+framework is adopted to ensure only agricultural and forest biomass sources that deliver 
+genuine emissions reductions are used for energy purposes. The following 15 criteria 
+have been proposed provisionally as the basis for such a framework. There are 5 criteria 
+concerned with forest management that are optional to take into account. There are 2 
+criteria concerned with wood supply and feedstocks which must be considered. If the 
+optional forest management criteria are not applied, and in some circumstances 
+depending on the outcome of applying these criteria, then 8 conditional criteria related 
+to feedstocks must also be taken into account. 
+Optional forest management criteria 
+1) Deforestation - Disallow supplies of forest bioenergy that lead to deforestation 
+2) Afforestation - Strongly favour supplies of forest bioenergy where these are 
+explicitly associated with afforestation activities. However, avoid afforestation activities: 
+• On soils with existing high organic carbon content  
+• That lead to high risks of indirect land-use change. 
+3) Improvement of growing stock - Strongly favour supplies of forest bioenergy 
+where these are explicitly associated with activities to conserve and enhance forest 
+growing stock, carbon stocks and forest productivity  
+Biomass carbon impacts 
+ 
+vi    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+4) Growth rate - Disfavour forest bioenergy production from forest areas with low 
+growth rates. Tentatively, low growth rate is defined as 2 m3 ha-1 yr-1 or less. Possible 
+exemptions in some cases, e.g. disease infested forest areas. 
+5) Thinning and clear felling - If the level of supply of forest bioenergy from thinning 
+and felling activities in forest areas is consistent with long-term historical levels, and 
+with the principle of sustainable yield, then risks of issues with GHG emissions are low. If 
+the level of forest bioenergy from thinning and felling activities in forest areas involves 
+increased supply compared with long-term historical levels, then favour production from 
+thinning over production from felling, with the aims of: 
+• Improving the quality of the remaining growing stock 
+• Minimising disturbance of litter and soil carbon. 
+If, and only if, the level of forest bioenergy from thinning and felling activities in forest 
+areas involves increased supply compared with long-term historical levels, then it is 
+necessary to consider the conditional criteria as well as the mandatory criterion 
+regarding use of wood feedstocks for bioenergy. 
+Mandatory wood supply and feedstock criteria 
+6) Scale of forest bioenergy use - Aim for levels of forest bioenergy use that are well 
+within the long-term sustainable-yield capacity of the supplying forest areas. When 
+setting levels for bioenergy use, take account of the consumption of biomass for other 
+uses (i.e. materials) and levels of biomass consumption outside the EU region. 
+7) Stumps including roots - Strongly disfavour supplies of forest bioenergy from 
+stumps including roots. 
+Conditional wood feedstock criteria 
+8) Post-consumer waste wood - Strongly favour supplies of forest bioenergy from 
+post-consumer waste wood. Particularly favour such sources where the waste wood 
+would otherwise be burnt or put in landfill without energy recovery. Also favour use of 
+waste wood at levels that do not compete with current levels of consumption of such 
+feedstocks for material uses (e.g. wood-based panels). 
+9) Industrial residues - Strongly favour supplies of forest bioenergy from industrial 
+residues. Particularly favour such sources where the residues would otherwise be burnt 
+as waste without energy recovery. Also favour use of industrial residues at levels that do 
+not compete with current levels of consumption of such feedstocks for material uses 
+(e.g. wood-based panels). 
+10) Forest residues - Strongly favour supplies of bioenergy from fast-decaying forest 
+residues (i.e. apart from stumps including roots or other large residues) provided this 
+Biomass carbon impacts 
+ 
+vii    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+avoids levels of extraction of forest residues that lead to high risks of degradation of 
+site/soil quality. 
+11) Salvage logging - Favour supplies of wood biomass from salvage logging where a 
+simply calculated but robust estimate of GHG emissions meets a defined minimum 
+threshold. 
+12) Whole tree stems - Restrict supplies of forest bioenergy from whole tree stems to 
+small/early thinnings with the aim of improving the quality of the remaining growing 
+stock. Favour situations in which, otherwise, there would be limited incentives to thin 
+and improve forest stands.  
+Alternatively, favour supplies of wood biomass from small/early thinnings where a simply 
+calculated but robust estimate of GHG emissions meets a defined minimum threshold. 
+13) Small Roundwood - Favour supplies of forest bioenergy from small roundwood at 
+levels that do not compete with current levels of consumption of such feedstocks for 
+material uses. Particularly favour such sources where the small roundwood would 
+otherwise be burnt without energy recovery or sent to landfill. 
+14) Sawn timber - Strongly disfavour supplies of forest bioenergy from wood 
+feedstocks suitable for use for sawn timber products. 
+15) Co-production - Strongly favour the supply of forest bioenergy as a by-product of 
+wood harvesting for the supply of long-lived material wood products. However, it is very 
+important to ensure that flanking measures are in place to ensure that other feedstock 
+criteria above are met and to encourage the disposal of material wood products at end of 
+life with energy recovery and/or in a way that ensures low GHG emissions. 
+The ECF asked Forest Research to review the RED II in its current form and to give an 
+indication of whether the above criteria are represented. The RED II makes no specific 
+provisions for 9 out of the 15 recommended criteria. For 3 of the 15 recommended 
+criteria the RED II might be expected to deliver some indirect, but non-specific, support. 
+In 3 of the 15 recommended criteria, the RED will deliver a direct policy signal. 
+It is important that those countries seeking to implement the RED II are aware of the 
+relevance of the above sustainability criteria for the implementation of the RED II, 
+because if the EU bioenergy policy is to meet its stated goal of reducing GHG emissions, 
+such criteria will need to be implemented within national policy.
+Biomass carbon impacts 
+ 
+1    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+1. Introduction 
+This report was commissioned from Forest Research by the European Climate Foundation 
+(ECF) to provide an elaborated analysis to clarify the findings of a project undertaken for 
+the European Commission (DG ENER), known as Carbon Impacts of Biomass Consumed 
+in the EU, and latterly referred to as the “Bioimpact Project”. 
+The original project was commissioned by the European Commission (EC) to gain a 
+better understanding of the greenhouse gas (GHG) emissions associated with the use of 
+biomass for energy in the EU.  The project was a consortium of research institutions in 
+the EU consisting of: Forest Research (UK), North Energy Associates (UK), Alterra 
+(Netherlands) and VTT Technical Research Centre of Finland. 
+In recent years reports of life cycle assessment (LCA) studies of biomass for energy have 
+been published that arrive at differing, and sometimes conflicting conclusions about the 
+net impact on GHG emissions, and the timescale over which these impacts (negative or 
+positive) may be experienced.  At face value it appeared that there was considerable 
+uncertainty in the scientific community as to whether the use of bioenergy could lead to 
+genuine reductions in GHG emissions or not.  The Bioimpact Project aimed to: 
+• Clarify the causes of variability in published estimates of GHG emissions from 
+bioenergy use (through a critical review of relevant scientific literature), and 
+• Evaluate the potential for bioenergy to contribute towards achieving GHG emissions 
+reductions in the EU (through life cycle assessment of selected scenarios for future 
+bioenergy use in the EU). 
+The outcomes of the project have been documented in a Task 1 report1, presenting the 
+review of literature and in a final project report2.  The size of these reports and the scale 
+and complexity of the analyses presented can make it difficult to identify the key 
+conclusions and messages about the benefits or otherwise of specific bioenergy sources, 
+in terms of impacts on GHG emissions.  The purpose of this report is to provide further 
+                                       
+1 Matthews, R., Sokka, L., Soimakallio, S., Mortimer, N., Rix, J., Schelhaas, M-J., Jenkins, T., 
+Hogan, G., Mackie, E., Morris, A. and Randle, T. (2014a) Review of literature on biogenic carbon 
+and life cycle assessment of forest bioenergy. Final Task 1 report, EU DG ENER project 
+ENER/C1/427, ‘Carbon impacts of biomass consumed in the EU’. Forest Research: Farnham. At: 
+http://ec.europa.eu/energy/sites/ener/files/2014_biomass_forest_research_report_.pdf. 
+2 Matthews, R.W., Mortimer, N.D., Lesschen, J.P., Lindroos, T.J., Sokka, L., Morris, A., Henshall, 
+P.A., Hatto, C., Mwabonje, O., Rix, J., Mackie, E.D., and Sayce, M. (2015) Carbon impacts of 
+biomass consumed in the EU: quantitative assessment. Final project report, project: DG 
+ENER/C1/427. Part A, Main Report and Part B, Appendices. Forest Research: Farnham, United 
+Kingdom.  At: 
+https://ec.europa.eu/energy/sites/ener/files/documents/EU%20Carbon%20Impacts%20of%20Bi
+omass%20Consumed%20in%20the%20EU%20final.pdf 
+https://ec.europa.eu/energy/sites/ener/files/documents/EU%20Carbon%20Impacts%20of%20Bi
+omass%20Consumed%20in%20the%20EU%20Appendices%20final.pdf 
+Biomass carbon impacts 
+ 
+2    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+analysis and exploration of the project result, highlighting the critical findings and points 
+arising from the project regarding bioenergy use in the EU as a contribution towards 
+achieving reductions in GHG emissions.  The implications of the conclusions are also 
+considered in the context of relevant legislation under development and implementation 
+in the EU. 
+2. Aim of the project 
+The aim of the Bioimpact Project was to perform a qualitative and quantitative 
+assessment of the direct and indirect GHG emissions associated with the different types 
+of solid and gaseous biomass used in electricity and heating/cooling in the EU under a 
+number of scenarios, focussing on the period to 2030 but with indicative projections up 
+to 2050, in order to provide objective information on which to base further development 
+of policy on the role of biomass as a source of energy with low associated GHG 
+emissions.  The qualitative assessment was based on the literature review published as 
+the Task 1 report and the quantitative assessment involved the LCA of a set of defined 
+scenarios for future bioenergy use in the EU, published in the main report. 
+It is very important to recognize the aims that the qualitative and quantitative 
+assessments were intended to address, and also what these assessments could not 
+directly or comprehensively address. 
+The qualitative assessment aimed to draw insights about the causes of variability in 
+published estimates of GHG emissions associated with the use of specific bioenergy 
+sources.  The scope of the qualitative assessment was restricted to forest bioenergy 
+sources which were the subject of considerable debate at the time of the project.  
+Because of the scope specified, and because the assessment was based on a review of 
+existing literature, it did not provide a comprehensive and systematic analysis of the 
+sensitivity of GHG emissions with respect to different biomass feedstocks and production 
+pathways. 
+The quantitative assessment aimed to evaluate the impacts on global GHG emissions 
+resulting from certain specified future scenarios for bioenergy use in the EU.  The 
+scenarios were defined to explore sensitivities to choices amongst major bioenergy 
+feedstocks (e.g. types of agricultural biomass and forest biomass) and approaches to 
+managing land to include biomass production.  These scenarios represented illustrative 
+cases for future bioenergy use in the EU; the project did not attempt to identify or model 
+possible optimal scenarios in terms of GHG emissions reductions. 
+3. Approach to quantitative assessment 
+The quantitative assessment undertaken in the Bioimpact Project set out to identify the 
+total impact on global GHG emissions as a result of adopting a number of alternative 
+scenarios for bioenergy use, and comparing these with a reference scenario representing 
+Biomass carbon impacts 
+ 
+3    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+the current trajectory, with no additional measures introduced after 2020.  The task was 
+to assess the total consequence on GHG emissions of adopting each scenario, including 
+all direct and indirect emissions, and movements of biogenic carbon between reservoirs 
+including the atmosphere. 
+3.1. Life cycle assessment (LCA) 
+The quantitative assessment involved the application of life cycle assessment (LCA).  
+LCA is a powerful tool that can be used for different purposes and in different ways but it 
+is vital it is used correctly.  If an LCA study is to be of value there are a number of 
+critical components that must be in place, without which the results will be ambiguous, 
+open to misinterpretation, or simply not provide the information intended or expected. 
+To be of value it is vital that the LCA purpose is stated, and the goal and scope are 
+unambiguously defined in the context of this purpose, and this requirement forms part of 
+the ISO 14040 Standard3 for LCA.  Insufficient attention to defining the purpose, goal 
+and scope can lead to LCA studies giving results that are ambiguous, open to 
+misinterpretation, or simply not providing the information intended or expected. 
+The project purpose, or aim, set by the EC (see Section 2) was translated into an LCA 
+goal, which was formally stated as: to quantify the global emissions of prominent GHGs 
+(CO2, CH4 and N2O) from all relevant sources, resulting from implementation of possible 
+EU policies, represented by defined scenarios adopted for supplying and consuming 
+energy, especially bioenergy, in the EU between 2010 and 2050. 
+This goal implicitly specified that the quantitative assessment needed to be based on a 
+particular approach to LCA known as consequential LCA (CLCA).  The purpose of CLCA is 
+to determine the total collective consequences of a course of action or a policy, 
+compared to a counterfactual situation (i.e. in which the action or policy is not pursued), 
+without attempting to attribute specific GHG emissions to individual components of the 
+system (e.g. specific biomass feedstocks).  It is important to distinguish CLCA from 
+another major LCA approach known as attributional LCA (ALCA).  The purpose of ALCA is 
+to attribute and quantify impacts (e.g. emissions) to individual products or services.  
+ALCA, therefore, is most appropriate when attempting to choose a preferred product or 
+service, such as in the context of a regulatory measure; CLCA is most appropriate when 
+assessing policy options to inform policy development and was therefore appropriate to 
+apply in this project.  However, as will be seen in Section 5.2, the adoption of CLCA, in 
+conjunction with the specified research goal, meant that the results of the project were 
+suitable for addressing some key questions about bioenergy but not optimal for 
+addressing certain other questions. 
+                                       
+3 “Environmental Management – Life Cycle Assessment – Principles and Framework” ISO 14040, 
+International Organisation for Standardisation, Geneva, Switzerland, 1997, revised 2006 
+Biomass carbon impacts 
+ 
+4    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+3.2. Models 
+The quantitative assessment involved integrating the outputs of a number of different 
+models and tools. 
+The VTT-TIAM model is a model of the global energy system.  It attempts to calculate an 
+equilibrium situation based on minimizing costs, within the constraints of the inputs, 
+making use of an extensive database of energy technologies.  As inputs it requires the 
+quantities and marginal costs of energy resources, data on energy and emissions 
+reduction technologies, including costs, lifetimes, emissions factors etc., energy 
+demands, and the policy environments, including energy taxes and emissions targets.  
+In addition to these inputs, further constraints may be introduced, such as GHG 
+emissions reduction targets, prices for emissions and any limits of certain types of 
+technologies. 
+For each scenario the VTT-TIAM model produces outputs including energy flows and GHG 
+emissions (for each energy source, region, time step, etc.), information about energy 
+and emissions reduction technologies employed, atmospheric GHG concentration, 
+radiative forcing and temperature increase. 
+Alongside VTT-TIAM, the MITTERA-Europe model from Alterra and the CARBINE model 
+from Forest Research were used to model changes in vegetation and soil carbon stocks 
+and future carbon sequestration associated with the provision of agricultural and forest 
+bioenergy feedstocks both from within the EU and beyond. 
+Finally, detailed LCA calculation workbooks developed by North Energy Associates were 
+used to evaluate the indirect GHG emissions from all relevant bioenergy pathways. 
+3.3. Approach to modelling land-based carbon impacts 
+When wood is harvested from forests, for use as bioenergy or for other applications, this 
+can have impacts on the overall reservoirs of carbon in forests (the “carbon stocks”), 
+and also on the capacity of the forests to absorb CO2 and retain more carbon in the 
+future (“carbon sequestration”). 
+When wood is harvested from forests, for use as bioenergy or for other applications, this 
+has impacts on the overall reservoirs of carbon in forests (the “carbon stocks”), and also 
+on the capacity of the forests to absorb CO2 and retain more carbon in the future 
+(“carbon sequestration”). 
+There can be similar impacts on the carbon stocks and potential future carbon 
+sequestration of cropland and grassland, particularly in relation to soil carbon, if such 
+land is managed to produce bioenergy. 
+Biomass carbon impacts 
+ 
+5    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+The Bioimpact project took great care to include the modelling of these impacts as part 
+of the quantitative assessment, indeed this was a clear requirement based on the 
+research question that was posed. 
+Currently, the subject of the impacts of bioenergy production on land-based carbon 
+stocks and carbon sequestration is still very contentious and discussions on the subject 
+amongst stakeholders can be very intense and occasionally acrimonious. It is important 
+to understand the basis of the conflicting positions taken by stakeholders and to clarify 
+how relevant issues were handled in the modelling for the Bioimpact project. This is best 
+explained by taking some of the arguments often put forward by different stakeholders 
+on this subject and then clarifying the position taken in the project with regard to each 
+of them. The ensuing discussion of such issues tends to focus on forests, forest 
+harvesting and the use of wood for bioenergy, as currently this is a strongly contested 
+area and also best illustrates the arguments expressed by stakeholders and the extent to 
+which scientific understanding supports them. 
+Different stakeholders hold strongly differing views on the impacts of wood harvesting on 
+forest carbon stocks and sequestration and the key examples of positions argued for can 
+be labelled as follows: 
+• The “virtuous circle” argument 
+• The “no-use option” argument 
+• The “maintaining/strengthening vigour” argument 
+• The “growth more than harvest” argument 
+• The “no stemwood/roundwood” argument. 
+These critical points are considered briefly in turn below. As will be seen, there is some 
+truth in each of them, but none tells a complete story. The first four points are closely 
+related and a full understanding of relevant issues is best obtained by considering the 
+combined discussion of all four points. 
+Further discussion of many points underlying this subject can be found in the Task 1 
+Report of the Bioimpact project. 
+3.3.1. The “virtuous circle” argument 
+This argument essentially states that, “when trees are harvested from forests, new trees 
+grow (or are planted) in their place, so there is no net impact on forest carbon stocks or 
+sequestration”. 
+In simple terms, this statement is true, provided that forest management ensures that 
+trees regenerate or are replanted to replace trees that are harvested. It is also 
+necessary to ensure that the extraction of wood from forests, including in the form of 
+forest residues, does not deplete the productive potential of the forests (e.g. through 
+Biomass carbon impacts 
+ 
+6    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+depletion of nutrient inputs to soils). Such conditions are generally considered to be 
+amongst essential requirements for forest management to be regarded as “sustainable”. 
+Whilst the “virtuous circle” argument is true in simple terms, it conceals the fact that 
+there can be significant impacts on forest carbon stocks and sequestration when the 
+level or intensity of harvesting in forests is changed, as compared with harvesting as 
+practised historically. The details depend on timescale and the existing status and 
+management of the affected forest areas and how forest management is changed to 
+produce more wood from the forests. In some situations, forest carbon stocks and rates 
+of sequestration may be increased as a result of active forest management to produce 
+more wood. However, there are many situations in which carbon stocks and possibly 
+rates of carbon sequestration will be reduced as a result of increased wood production, 
+even when the associated forest management is fully consistent with the principles of 
+sustainability. (This point is clarified further in Sections 3.3.3 and 3.3.4.)  
+In the Bioimpact project, the modelling of forests, croplands and grasslands reflected the 
+understanding of the “virtuous circle” argument outlined above as follows: 
+• Where the projected supply of forest biomass (for bioenergy or other uses), as 
+represented in the project scenarios, did not involve changes in the management of 
+forest areas (compared with historical practice), it was assumed there were no 
+consequent impacts on GHG emissions as a result of changes in forest carbon stocks 
+and sequestration.  
+• However, impacts on forest carbon stocks and sequestration needed to be assessed in 
+situations where forest management practices were changed to meet projected 
+increases (or decreases) in supplies of forest bioenergy. 
+• On a separate related point, it was also necessary to consider whether changes 
+occurred in patterns of wood utilisation as a result of demand for bioenergy, for 
+example diverting it from use for paper or wood-based panels, and whether this would 
+lead to impacts on overall GHG emissions. 
+• Similarly, and in the same way as for the modelling of forests, where the management 
+of cropland or grassland was assumed not to change as a result of the demand for 
+agricultural biomass for energy, there were assumed to be no consequent impacts on 
+GHG emissions as a result of changes in land-based carbon stocks or sequestration.  
+• However, impacts on land-based carbon stocks and sequestration needed to be 
+considered in situations where the management of cropland and/or grassland was 
+changed to meet projected increases (or decreases) in supplies of agricultural 
+biomass. 
+• It was also necessary in the modelling to consider whether changes occurred under 
+the different bioenergy scenarios in the supply of agricultural biomass for other 
+Biomass carbon impacts 
+ 
+7    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+purposes (e.g. for animal feed) and whether this would lead to impacts on overall 
+GHG emissions. 
+3.3.2. The “no-use option” argument 
+An experienced forestry and bioenergy researcher has commented, ‘when someone asks 
+the question, “what are the impacts on GHG emissions of using forest bioenergy?” I 
+always reply, “compared to what?”…’.  
+Essentially, the “no-use option” argument states that, “the scenario against which to 
+compare harvesting or extraction of biomass for use as energy should always be the 
+scenario of not using the biomass for energy”.  
+Some stakeholders interpret “no use” even more narrowly as meaning “no harvesting of 
+trees” or “leaving trees in the forest”. 
+The case for comparing bioenergy use against the alternative scenario of not using the 
+bioenergy is consistent with a key principle of CLCA, i.e. that the impacts of a scenario in 
+which a specified policy or commercial decision is taken (in this context, to produce or 
+use a defined level of bioenergy), should be compared against a counterfactual scenario 
+in which the policy or commercial decision is not taken. The “no-use option” argument 
+asserts that the counterfactual scenario when assessing the utilisation of biomass for 
+energy should always be not using biomass for energy or more narrowly not producing 
+or harvesting biomass.  This is extended by some stakeholders, including some 
+researchers, to mean no use of any bioenergy at all (i.e. not even at historically 
+produced levels) and also no harvesting of wood for any purposes. 
+As already discussed, the principles of CLCA were adopted for the quantitative 
+assessment of the Bioimpact project. Hence, the policy scenarios involving increased or 
+decreased biomass energy consumption were always compared against a consistent 
+counterfactual scenario (the baseline scenario) in which no such changes occurred.   It is 
+important to distinguish this approach from comparison against a counterfactual scenario 
+of absolutely no use or harvesting. The choice of counterfactual scenario depends on the 
+system being studied and, crucially, the LCA research question being addressed. It is 
+suggested here that the more generally valid research question to pose (such as adopted 
+for this project) should take the generic form: 
+“What are the impacts on GHG emissions of producing and consuming a specified source 
+of biomass for energy, compared to what would have happened otherwise?” 
+In some situations, “what would have happened otherwise” might indeed involve not 
+producing or consuming the biomass at all, and might mean not harvesting the biomass 
+at all, but this does not hold universally.  For example, in some situations, “producing 
+and consuming a specified source of biomass for energy” might be exactly the same as 
+“what would have happened otherwise”.  In such situations, the modelling of the 
+Biomass carbon impacts 
+ 
+8    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+biomass use would assume no net impacts on GHG emissions (neither increases, nor 
+reductions). 
+The research question as formulated above informed the approach taken to the 
+quantitative assessment of the Bioimpact project and the selection of the counterfactual 
+scenario to bioenergy consumption: 
+• In situations (occurring within scenarios) where levels and types of biomass consumed 
+as energy were consistent with historical practice, this was taken to imply no change 
+from the counterfactual scenario, hence there was no requirement to consider impacts 
+on GHG emissions arising from changes in land-based carbon stocks or sequestration. 
+In effect, the “virtuous circle” argument was taken to apply in these situations. 
+However, by the same token, there are no “savings” of GHG emissions (relative to the 
+baseline) in such situations as a result of the use of the biomass for energy. 
+• In situations (occurring within scenarios) where levels and types of biomass consumed 
+for energy involved a change from historical practice (i.e. the baseline), this was 
+assessed by comparison with a counterfactual scenario involving no such change. 
+Depending on the detailed modelling of cropland, grassland and forests within a 
+scenario, in some situations the level of biomass harvesting was higher (and 
+sometimes lower) than for the counterfactual scenario.  This could also involve 
+changes to the timing with which trees were harvested in the case of forests. In other 
+situations it involved changes in the utilisation of the biomass for other purposes, e.g. 
+agricultural biomass for animal feed or harvested wood for paper or wood-based 
+panels. Assumptions related to this aspect of the modelling were particularly 
+important for forest bioenergy sources and this subject is discussed further in Section 
+4.2.2. 
+It is important to stress the absolute necessity of making assessments relative to a 
+counterfactual scenario when undertaking CLCA. For example, by analogy, when 
+deciding whether to make a commercial investment using economic analysis, it is 
+standard practice to include the opportunity costs of the investment decision as part of 
+the balance of costs and revenues, i.e. to take account of the counterfactual scenario of 
+not making the investment. The counterfactual scenario in CLCA serves a similar 
+purpose and not referring to one would mean that the full impacts of a policy or 
+commercial decision would not be properly evaluated. 
+“No use” and forest disturbance 
+The disturbance of forest areas (e.g. as a result of storms, disease, fire) generally has 
+negative consequences for carbon stocks. The risks of significant, large-scale disturbance 
+events tend to be mitigated by the systematic control of levels of growing stock in forest 
+stands, which is associated with management involving harvesting. It is particularly 
+important to consider the possible consequences of disturbance when assessing the 
+option of minimising or complete avoidance of forest management (notably harvesting). 
+Biomass carbon impacts 
+ 
+9    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+There is limited knowledge of future forest carbon sequestration under scenarios in 
+which all harvesting is avoided. 
+In the Bioimpact project, the modelling of forests represented disturbance processes, 
+where these were relevant to the project scenarios, and allowed for the possibility that 
+some areas of disturbed forest might be “salvage-logged” for wood production, with 
+some of the harvested biomass being utilized for energy. 
+3.3.3. The “maintaining/strengthening vigour” argument 
+This argument applies more specifically in the context of forestry and is ultimately based 
+on the observation that, as populations of trees grow older, their rates of growth and 
+carbon sequestration decline significantly when compared with younger trees (i.e. stands 
+of trees less than approximately 50 to 70 years old in the context of temperate and 
+boreal forests). In essence, the argument states that, “the sustainable management of 
+forests for wood production is essential for maintaining and strengthening carbon 
+sequestration by forests”. In this context, “sustainable forest management” is equated 
+with sustainable tree harvesting for wood production. 
+There is some truth in this argument. If stands of relatively old or mature trees are 
+felled and replaced by actively regenerated or replanted younger stands of trees, then 
+within 10 to 20 years these younger stands will grow at faster rates than the older 
+stands they replace, so they will sequester carbon at faster rates. For example, in a 
+paper4 arguing the case for wood production from sustainably managed forests, a graph 
+is presented that shows how the mean rate of biomass growth in forests representative 
+of Northern Europe varies with the rotation age (i.e. age of clearfelling) applied to the 
+stands forming the forest.  The graph in the paper appears to draw attention to the 
+possibility of shortening the rotations of relevant spruce stands in Sweden from 100 
+years to 70 years, indicating a consequent increase in the rate of carbon sequestration.  
+Relevant results, derived from Figures 1 and 2 in the paper, are shown in Table 3.1.  For 
+rotation ages of 70 and 100 years, the mean rates of carbon sequestration in forest 
+biomass over the rotation are 2.1 and 1.7 tonnes carbon per hectare per year, 
+respectively. 
+By implication, shortening the rotation ages in such forests to 70 years where they are 
+currently managed on rotations of 100 years should increase the rate of carbon 
+sequestration. 
+At the same time, managing rotations in the way described above can increase the level 
+of overall wood production from forests (see Table 3.1). The harvested wood can be 
+used to provide a range of useful products. Some of these, like bioenergy, will be 
+consumed and release the sequestered carbon immediately but others (such as 
+                                       
+4 Hektor, B., Backéus, S. and Andersson, K. (2016) Biomass and Bioenergy 93 1-5. 
+Biomass carbon impacts 
+ 
+10    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+structural timber) may be very long-lived and will continue to retain the carbon 
+sequestered in the original trees. 
+Table 3.1 Dependence of forest carbon sequestration, stemwood production 
+and mean carbon stocks on rotations in spruce stands in Sweden1 
+Stand age or 
+rotation 
+(years) 
+Carbon 
+sequestration 
+rate in year2 
+(tC ha-1 yr-1) 
+Mean carbon 
+sequestration 
+rate over 
+rotation2     
+(tC ha-1 yr-1) 
+Stemwood 
+production 
+over rotation 
+(m3 ha-1 yr-1) 
+Mean carbon 
+stock over 
+rotation      
+(tC ha-1) 
+100 
+0.8 
+1.7 
+5.1 
+87 
+70 
+1.2 
+2.1 
+5.4 
+74 
+Gain/loss3 (+/-) 
++0.4 
++0.4 
++0.3 
+-13.6 
+% gain/loss 
++44% 
++21% 
++6% 
+-16% 
+Notes to Table 3.1: 
+1 All results derived from Figures 1 and 2 in Hektor et al., (2016), see footnote 4.  Original results were 
+based on all above ground forest biomass but these have been converted to units of carbon and adjusted 
+to allow for contributions from roots. 
+2 These results represent rates of carbon sequestration in forest biomass before subtracting losses of forest 
+biomass as a result of harvesting. 
+3 Gain or loss as a result of adjusting rotation from 100 years to 70 years 
+ 
+What the “maintaining/strengthening vigour” argument ignores is that carbon stocks in 
+older/more mature forests are, by nature much larger than carbon stocks in young 
+forests. Increasing the rate of harvesting in older forests and replacing them with 
+younger forests inevitably leads to a reduction in the average age of the trees in the 
+forests, hence to a reduction in the average carbon stocks of the forests (potentially in 
+soil and litter as well as in living trees). This is true even if the management of forests is 
+to the highest standards of sustainability.  The impact on carbon stocks in forest biomass 
+of shortening rotations from 100 years to 70 years in the example spruce stands in 
+Sweden is shown in Table 3.1. 
+It is also important to recognize that, whilst the management of forests involving 
+shortening of rotations can significantly increase the rate of carbon sequestration over 
+the medium term, the harvesting of sequestered carbon is also increased, so that the 
+net impact on forest carbon stocks and sequestration is not so beneficial when the 
+balance between increased sequestration and increased harvesting is allowed for. 
+It should be recognized that there are also some cases in which increasing wood 
+production from forests can lead to the maintenance of, or an increase in, forest carbon 
+stocks (see for example Section 4.2.2).  Whilst these cases are quite specific, there are 
+real-life examples where such outcomes have been achieved. 
+Biomass carbon impacts 
+ 
+11    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+When forest management is changed, for example by adjusting the rotations of forest 
+stands as illustrated, this can have impacts not only on carbon stocks and rates of 
+carbon sequestration and wood production in the forest, but also on: 
+• The amount of carbon sequestered in harvested wood products (i.e. the carbon 
+physical contained in products such as sawn timber, wood-based panels and paper) 
+• The GHG emissions associated with the counterfactuals to wood products, for example 
+plastic, steel, brick or concrete products that may be displaced by using wood 
+products instead, or that may be consumed if wood is not produced. 
+Hence, it is necessary also to consider these contributions to overall changes in GHG 
+emissions that may occur when changing forest management. 
+Carbon sequestered in harvested wood products 
+An initial question thus arises: If older stands of trees are replaced with younger stands 
+of trees through harvesting and regeneration/replanting, what is the overall impact on 
+carbon stocks, allowing for the carbon in forests and also for carbon physically contained 
+in harvested wood products, including those that are long-lived? 
+In fact this question was answered nearly 30 years ago in some of the initial research on 
+the role of forests and their management in the carbon balance5. A significant body of 
+relevant research shows that, even after allowing for the carbon retained in harvested 
+wood products, in many situations the overall effect of “intensifying” forest management 
+to increase wood production is a net reduction in carbon stocks. 
+Interactions between wood and counterfactual products 
+In the context of the Bioimpact project, the full assessment of any scenario for increased 
+forest biomass supply and consumption needed to allow for the effects of intensified 
+forest management on: 
+• Forest carbon stocks and sequestration 
+• Carbon physically sequestered in wood products 
+• The potential savings of GHG emissions through the increased utilisation of wood as a 
+source of bioenergy and materials, in place of fossil fuels and alternative 
+(counterfactual) materials such as metals, plastics, bricks and concrete. 
+                                       
+5 See for example: Thompson, D.A. and Matthews, R.W. (1989) The storage of carbon in trees 
+and timber, Forestry Commission Research Information Note 160, Forestry Commission, 
+Edinburgh; Harmon, M.E., Ferrell, W.K. and Franklin, J.F. (1990) Effects on carbon storage of 
+conversion of old-growth forests to young forests, Science, 247, 699-702; Matthews, R.W. 
+(1991) Biomass production and carbon storage by British forests, In: Aldhous, J.R. (ed.) Wood for 
+energy: the implications for harvesting, utilisation and marketing, Proceedings of ICF discussion 
+meeting, 5-7 April 1991, Heriot-Watt University, Edinburgh, ICF, Edinburgh, 162-177. 
+Biomass carbon impacts 
+ 
+12    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Research on this subject indicates that the outcomes of increased harvesting and 
+utilisation of wood are very sensitive to the mix of specific applications for which the 
+wood is consumed (e.g. energy, paper, wood-based panels and structural timber) and 
+the counterfactual energy sources and materials displaced (see Section 3.3.5). 
+Overall approach of Bioimpact project 
+In the Bioimpact project, the assessment of GHG emissions impacts in relation to 
+changes in forest management to supply more (or less) biomass for energy allowed for 
+all of the effects outlined above, i.e. in summary: 
+• Increased rate of forest carbon sequestration in cases where forest management was 
+changed to increase wood production (but also recognising that much if not all of this 
+additional sequestered carbon would be harvested) 
+• Where relevant, reduced carbon stocks in forests, for example where forest rotations 
+were adjusted to enhance forest growth and wood production 
+• Where relevant, increased carbon stocks and sequestration in wood products co-
+produced with increased biomass supplied for use as energy 
+• Impacts of increased supply of biomass from forests for energy, and associated co-
+products, through the displacement of counterfactual energy sources and material 
+products. 
+Possible forest management approaches that might lead to maintained or enhanced 
+carbon stocks in association with increased bioenergy production from forests were not 
+represented in the main Bioimpact project scenarios, but were considered to an extent in 
+a set of alternative scenarios, as part of a sensitivity analysis. Further details of 
+assumptions about forest management made in the Bioimpact project are given in 
+Sections 4.2.2 and 4.2.3. 
+3.3.4. The “growth more than harvest” argument 
+This argument states that, ‘the production of biomass from crops or forests for utilisation 
+as energy is “carbon-neutral” (i.e. no net GHG emissions as a result of burning the 
+biomass) or better, provided that the rate of growth of the crops or forests is greater 
+than or equal to the level of harvesting’. 
+Alternatively, the argument can be stated ‘the production of biomass from crops or 
+forest for utilisation as energy is “carbon-neutral” or better, provided that the rate of 
+carbon sequestration of the crops or forest is greater than or equal to the amount of 
+carbon removed by harvesting’. 
+The rationale for this argument is derived from a basic measure of sustainable forest 
+management and is best illustrated by an example, as follows. 
+Biomass carbon impacts 
+ 
+13    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Consider a large area of forest, formed of a population of many stands of trees of 
+different ages. Suppose that surveys of the forest have shown that in the recent past 
+(say, the previous 10 years), the forest area has grown on average by 4.8 cubic metres 
+of stemwood per hectare per year. (Note that this measure of the growth of trees does 
+not allow for any losses of stemwood as a result of harvesting, which are calculated as a 
+separate measure.)  
+Suppose also that trees were harvested from the forest during the previous 10 years 
+(through thinning or clearfelling) at an average rate of 3.6 cubic metres of stemwood per 
+hectare per year. 
+The “growth more than harvest” argument asserts that any wood being harvested from 
+the forest area is “carbon-neutral” or better, provided that the first measure described 
+above (4.8 in this case) is greater than or equal to the second measure (3.6 in this 
+case). 
+The two measures are sometimes expressed as a ratio, in this case 4.8/3.6 = 1.33. The 
+ratio is known as the “growth-drain” ratio and may be used as an indicator of sustainable 
+management, the aim generally being to keep the ratio at 1.0 or above. 
+Note that similar measures could be calculated for the forest based on tree biomass or 
+carbon, expressed in tonnes of wood (about 1.9 and 1.4) or carbon (about 0.96 and 
+0.72) per hectare per year. 
+The balance between the rate of growth and level of harvesting in individual stands 
+forming a forest area may vary considerably from this average result: harvesting greatly 
+exceeding growth in older stands that are clearfelled during the 10 year period referred 
+to in the above example, whilst growth may greatly exceed harvesting in younger 
+stands. However, it is argued that what matters is the overall balance between growth 
+and harvesting across all the stands forming the complete forest area. 
+It is undeniable that achieving a good balance between growth (or carbon sequestration 
+rate) and the harvesting (or carbon losses) of agricultural and forest land is a 
+fundamental indicator of, and minimum requirement for, sustainable management. 
+However, it is a serious mistake to assume that this guarantees the “carbon-neutrality” 
+of any biomass produced from crops or forest. When dealing with climate change, what 
+matters is the impact of actions on net emissions to, or sequestration from the 
+atmosphere. This point is best illustrated by continuing the example described above. 
+In the example, the trees forming the forest area absorbed about 0.96 tonnes carbon 
+per hectare per year on average over the previous 10 years. The average level of 
+harvesting was 0.72 tonnes carbon per hectare per year. In this case, it could be argued 
+that the impact of harvesting the wood may be regarded as at least “carbon-neutral”, 
+noting that there was net carbon sequestration of 0.96 – 0.72 = 0.24 tonnes carbon per 
+hectare per year over the previous ten years. 
+Biomass carbon impacts 
+ 
+14    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+This could also be argued for future wood production in certain circumstances. For 
+example, suppose that in the forthcoming 10 year period, the forest is expected to 
+continue to absorb 0.96 tonnes carbon per hectare per year and the level of harvesting 
+is also expected to remain at about the same level as in the previous 10 year period 
+(0.72 tonnes carbon per hectare per year). In this situation, again it could be argued 
+that the wood that is planned to be harvested from the forest could be regarded as at 
+least “carbon-neutral”. 
+Now suppose that plans have been made to increase the level of wood harvesting to 
+0.93 tonnes carbon per hectare per year (e.g. as part of efforts to “develop a 
+bioeconomy”). If the rate at which the forest absorbs carbon does not change, then the 
+net carbon sequestration from the atmosphere will be 0.96 – 0.93 = 0.03 tonnes carbon 
+per hectare per year, whereas otherwise the net sequestration would have been 0.96 – 
+0.72 = 0.24 tonnes carbon per hectare if the decision to increase harvesting had not 
+been taken. In other words, because wood harvesting from the forest is to be intensified 
+compared to historical levels, there will be negative impact on the net carbon 
+sequestration contributed by the forest. Note also that if all the extra wood harvested is 
+used for energy, the carbon in this harvested wood will be released to the atmosphere 
+very quickly. These conclusions are consistent with the observations already made 
+regarding the “virtuous circle” argument (see Section 3.3.1). 
+Some stakeholders may challenge the above discussion by pointing out that generally it 
+will be wrong to assume that the rate of carbon absorption by the forest (0.96 tonnes 
+carbon per hectare per year in this example) will be unchanged and that, in fact, carbon 
+absorption should be increased by intensified forest management. This is the 
+“maintaining/strengthening vigour” argument (see Section 3.3.3). However, as already 
+explained in Section 3.3.3, this argument ignores the negative impacts on forest carbon 
+stocks which are likely to be involved in intensifying the management of forests to 
+enhance growth and carbon absorption. Furthermore, claiming higher carbon 
+sequestration rates associated with intensified forest management overlooks the 
+fundamental motivation for intensifying management, which is to utilize more of the 
+potential of forests to produce wood, i.e. to narrow the gap between levels of harvesting 
+and the potential for wood production implied by rates of growth (and carbon 
+absorption) of forests. Continuing the previous example, intensified forest management 
+might increase the rate of carbon absorption of forests from 0.96 to 1.73 tonnes carbon 
+per hectare per year, whilst the associated level of harvesting could be very close to this, 
+say 1.70 tonnes carbon per hectare per year, giving net carbon sequestration of 0.03 
+tonnes carbon per hectare per year. Hence intensified management is likely to reduce 
+net carbon sequestration (compared to what would have occurred in the absence of 
+intensification) even if carbon absorption is enhanced by management. 
+It is clear from the preceding account (see also Sections 3.3.1 and 3.3.3) that decisions 
+to change forest management, or consume more (or less) harvested wood have impacts 
+on the balance between rates of forest carbon sequestration (or “carbon sinks”) and 
+Biomass carbon impacts 
+ 
+15    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+rates of carbon loss (or “carbon sources”). The same point applies for other types of 
+managed land such as cropland and grassland. This point is particularly pertinent to 
+commitments made by countries under the Paris Agreement (see Article 4.1) which 
+entered into force in 2016,  
+“to achieve a balance between anthropogenic emissions … and … sinks of greenhouse 
+gases in the second half of this century …”  
+Putting aside the possibility of developing industrial-scale carbon capture and storage 
+technologies, the only major global carbon sink over which humans can exercise some 
+direct control is that due to land-based vegetation and soil. Hence, a key goal of the 
+Paris Agreement could be missed if the intensification of biomass harvesting goes too 
+far, without putting in place suitable safeguards to sustain land-based carbon stocks and 
+potential future carbon sequestration. 
+It remains the case that a key criterion for sustainable land management involves 
+ensuring that harvesting does not exceed growth, when assessed over an appropriate 
+time period.  However, fundamentally, a simplistic comparison of rates of growth and 
+levels of harvesting is not a robust way to ensure low impacts of bioenergy sources on 
+GHG emissions.  
+In the Bioimpact project, the assessment of GHG emissions impacts allowed for the 
+factors outlined above by adopting a methodology as already described in Sections 3.3.1 
+to 3.3.3. 
+3.3.5. The “no stemwood/roundwood” argument 
+This argument states that, “harvesting and utilising tree stemwood or roundwood for 
+energy is bad for climate change because of the lost forest carbon sequestration 
+involved”. 
+Sometimes the same argument is also expressed referring to “whole trees” or “complete 
+trees”. 
+Any discussion of this argument depends on good definitions for terms such as 
+“stemwood”, “roundwood”, “whole trees” and “complete trees”. Definitions for 
+“stemwood” and “roundwood” and a number of other terms referred to in the following 
+discussion, such as “sawlogs”, are provided later in this report (see Section 4.2.2, in 
+particular Box 1). In this discussion, the terms “whole trees” and “complete trees” refer 
+to the majority of tree biomass above ground, i.e. in the main stem, bark, and branches, 
+either with or without foliage attached, but generally not including tree stumps and roots 
+(see Box 1 for definitions of these latter terms). 
+For the purposes of the discussion below, the term “stemwood” is used to refer 
+interchangeably to stemwood and roundwood.  
+Biomass carbon impacts 
+ 
+16    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+One of the origins of this argument was a position paper6 which presented an 
+interpretation of some LCA research results for wood production from UK forests, from 
+an earlier report written by members of the Bioimpact project team7. The position paper 
+focused on one result, for a scenario in which all wood (including all stemwood) 
+harvested from forests at all times during the life cycle of forest stands was utilized for 
+energy only (i.e. no wood was utilized to produce materials). It was very apparent from 
+the original report that this particular scenario involved the highest GHG emissions 
+compared with all other scenarios, including a scenario of not harvesting any wood from 
+the forests. This was true even if the harvested wood was consumed as energy instead 
+of burning coal. 
+The position paper omitted to discuss the fact that the original research report presented 
+results for nearly 120 scenarios for wood production from UK forests, of which between 
+one third and more than one half (depending on the timescale considered) involved net 
+GHG emissions savings, or were “at least as good”, compared to not harvesting wood 
+from forests. Furthermore, nearly all of these “low-emissions” scenarios involved the 
+consumption of some stemwood for energy (either directly from raw stemwood or 
+indirectly as a by-product of the manufacture of sawnwood products), with 
+approximately one quarter of these scenarios involving some direct use of stemwood for 
+energy. 
+It follows that the consumption of stemwood for energy is neither universally good nor 
+universally bad in terms of impacts on GHG emissions. The results can be variable, 
+depending on the details, and this issue requires careful consideration. 
+A thorough interpretation of the full results of the original research has suggested that, 
+generally, over climate policy relevant timescales (30 years, and in most cases 
+significantly less): 
+• Using all of the stemwood from forests (i.e. from all of early thinnings, later thinnings 
+and from clearfelling) directly for energy leads to net increases in GHG emissions, 
+even compared to burning coal. 
+• Using all of the sawlog part of stemwood directly for energy leads to net increases in 
+GHG emissions. However, using the industrial residues (generated by producing sawn 
+timber from sawlogs) as an energy source can lead to net decreases in GHG emissions 
+compared to fossil fuels, provided that this does not involve significant negative 
+                                       
+6 Searchinger, T. (2012) Sound principles and an important inconsistency in the 2012 UK 
+Bioenergy Strategy. Position paper. At: 
+http://ww2.rspb.org.uk/Images/Searchinger_comments_on 
+_bioenergy_strategy_SEPT_2012_tcm9-329780.pdf 
+7 Matthews, R., Mortimer, N., Mackie, E., Hatto, C., Evans, A., Mwabonje, O., Randle, T., Rolls, 
+W., Sayce, M. and Tubby, I. (2014) Carbon Impacts of Using Biomass in Bioenergy and Other 
+Sectors: Forests. Final Report for Department of Energy and Climate Change. Revised 2014. 
+Forest Research: Farnham. 
+Biomass carbon impacts 
+ 
+17    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+impacts on the availability of industrial residues as a feedstock for manufacturing 
+certain material products, e.g. wood-based panels. 
+• Using the small roundwood part of stemwood directly for energy can lead to net GHG 
+emissions savings compared to fossil fuels, particularly if this occurs in conjunction 
+with co-producing sawn timber from sawlogs and other materials from industrial 
+residues, such as wood-based panels, alongside consumption of some industrial 
+residues for energy. 
+• Using forest residues as an energy source can lead to net GHG emissions savings 
+compared to fossil fuels, provided that the extraction of residues from forest sites is 
+constrained to minimize negative impacts on the carbon balance, nutrient status and 
+acidity of forest soils, as well as ensuring protection of habitats. 
+The full results also indicated that the GHG impacts of utilising forest biomass for energy 
+were also sensitive to certain other factors, in particular the types of forest involved in 
+wood production, as characterized by tree species, potential growth rates, existing 
+carbon stock levels and approaches taken to forest management (e.g. the rotation 
+between clearfelling, regeneration or replanting events). 
+Despite the large number of scenarios considered in the original research, there were 
+some important cases that were not covered. One case that was excluded involved the 
+extraction of tree stumps and roots for use as a bioenergy feedstock. This case was 
+regarded as involving such evident negative impacts on soil carbon processes and other 
+soil properties that modelling was not needed to establish the impacts on GHG 
+emissions. 
+There was an entire class of scenarios that was not considered in the original research, 
+involving patterns in the way wood is utilized from the various harvesting events over 
+the life cycle of trees forming a forest. An important example of such a case consists of: 
+• The stemwood of small/early thinnings utilized for energy 
+• The stemwood (possibly including small roundwood) of later thinnings utilized to 
+produce sawn timber, wood-based panels and other material products, with some 
+industrial residues utilized for energy 
+• The stemwood harvested from clearfelling utilized in the same way as later thinnings. 
+The above type of scenario could be relevant in situations where there are limited 
+market incentives for undertaking early thinning operations. It can be important to 
+encourage thinning in young stands of trees to improve the quality of the remaining 
+growing stock, thereby ensuring the stands of trees produce high quality timber later in 
+the rotation, suitable for manufacturing long-lived products. 
+The harvesting of trees as thinnings reduces the carbon stocks in forest stands, certainly 
+in the short term.  Often the remaining trees will respond to the growing space released 
+Biomass carbon impacts 
+ 
+18    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+by the thinning, and their rate of growth (and rate of carbon absorption) will be 
+increased. This can provide some compensation for the impacts of the thinning on 
+carbon stocks, also in the relatively short term. 
+There are some situations in which utilising harvested wood for energy, as part of more 
+general measures to develop a bioeconomy, can lead to net GHG emissions savings, 
+regardless of which parts of the tree (above ground) are used for this purpose. Generally 
+these are situations where the forest management associated with wood production 
+leads to improvements in rates of carbon sequestration and neutral or positive impacts 
+on carbon stocks. The main relevant examples are: 
+• Afforestation of marginal land through tree planting or regeneration, with the 
+objective of increasing wood production 
+• Enhancing the growth rates of existing forest areas through tree species selection or 
+tree breeding and, in some situations fertilisation of forest soils. 
+There are real-life examples of such practices taking place but it must be acknowledged 
+that these are specific cases. 
+All of the factors described above were represented in the modelling for the Bioimpact 
+project and further information is given in Section 4.2.2 of this report. 
+As explained above, ignoring certain specific cases, if all of the stemwood harvested 
+from a forest were to be utilized exclusively to produce energy, this is very likely to lead 
+to significant increases in GHG emissions compared to burning fossil fuels including coal. 
+A key question is: Would/does such a scenario ever actually occur in practice? At 
+present, this subject is strongly contended, with some stakeholders insisting that such 
+practices would never occur or would be exceptional, whilst others are claiming that this 
+is already happening. There is a critical need for an impartial assessment of the existing 
+extent or likelihood (and if relevant the potential scale) of such activities. This was well 
+beyond the scope of the Bioimpact project. 
+3.4. Approach to representing ILUC 
+The possibility of ILUC has been presented by some scientists and commentators as a 
+crucial influence on the overall GHG impacts of certain land use and land management 
+options aimed at mitigation of GHG emissions. The focus tends to be on the agriculture 
+sector and in particular the potential impacts of converting land used for production of 
+food over to production of biomass crops for energy use. Questions regarding ILUC can 
+also occasionally arise when considering forestry.  
+Studies which have attempted to quantify the potential impacts arising from ILUC on 
+activities aimed at reducing GHG emissions, generally through management of 
+agricultural land, have shown that results are highly sensitive to the detailed 
+Biomass carbon impacts 
+ 
+19    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+assumptions made in carrying out analyses, with estimated emissions arising from ILUC 
+ranging from zero to very large. 
+The issue of ILUC is most likely to arise in scenarios involving land use change as an 
+essential theme, e.g. where demands for bioenergy are met through planting of biofuel 
+or energy crops (or for that matter afforestation activities) that result in land use change 
+elsewhere, e.g. increased deforestation or reduced re-forestation. The approach taken in 
+the Bioimpact project to dealing with ILUC for such scenarios was to constrain the 
+relevant activities with the intention of avoiding significant risks of ILUC. This was done 
+by: 
+• Not allowing for the importation of solid agricultural biomass to the EU for use as 
+energy 
+• Not allowing for afforestation activities outside the EU in the main project scenarios 
+(see Section 4.2.2) 
+• In the EU region, limiting the planting of biofuel or energy crops and afforestation 
+activities in all scenarios to an area estimated to be consistent with avoiding negative 
+impacts on future food supply, as informed by the assessments in several studies8. 
+4. Scenarios 
+Six scenarios, labelled A, B, C1, C2, C3 and D, were developed for the purposes of this 
+project as described in the ensuing discussion.  Each scenario was designed to represent 
+a specific, realistic, self-consistent approach to energy decarbonisation, with differences 
+chosen to allow the relative impact of certain components of biomass use for energy to 
+be compared.  These were not intended to be predictions but to represent possible 
+pathways, consistent with existing modelling that could provide insights into the overall 
+impacts of a few specific classes of biomass. The six different scenarios developed for 
+this project consisted of a reference scenario representing existing policies (Scenario A) 
+and five decarbonisation scenarios that each delivered emissions reductions by 2050 of 
+80%] but that took different approaches to bioenergy use (Scenarios B to D). 
+                                       
+8 Elbersen, B.S., Staritsky, I., Hengeveld, G., Schelhaas, M.J., Naeff, H. and Böttcher, H. (2012) 
+Atlas of EU biomass potentials. Deliverable 3.3: Spatially detailed and quantified overview of EU 
+biomass potential taking into account the main criteria determining biomass availability from 
+different sources. Report for Task 3 in Biomass Futures project. At: 
+http://www.biomassfutures.eu/work_packages/WP3 
+Supply/D_3_3__Atlas_of_technical_and_economic_biomass_potential_FINAL_Feb_2012.pdf; 
+Elbersen, B., Fritsche, U. Petersen, J.-E., Lesschen, J.P., Böttcher, H. and Overmars, K. (2013) 
+Assessing the effect of stricter sustainability criteria on EU biomass potential. Biofuels, 
+Bioproducts and Biorefining, 7, 173–192; European Commission (2013) Prospects for Agricultural 
+Markets and Income in the EU 2013-2023. Directorate-General for Agriculture and Rural 
+Development: Brussels; Britz, W. and Witzke, P. (2012) CAPRI Model Documentation 2012. Bonn 
+University: Bonn.  At: http://www.capri-model.org/docs/capri_documentation.pdf 
+Biomass carbon impacts 
+ 
+20    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+The LCA goal of this project specified that GHG emissions needed to be quantified for 
+“defined scenarios [emphasis added] adopted for supplying and consuming energy, 
+especially bioenergy, in the EU between 2010 and 2050” (see Section 3.1).  For this 
+reason the success of the project depended upon the comprehensive and thorough 
+specification of the scenarios to be assessed. 
+Each scenario was defined in terms of: 
+• Overall bioenergy consumption 
+• Approaches to the management of forests and agricultural land to supply the 
+biomass 
+• Interactions between the use of biomass for energy and its use for other purposes 
+(e.g. for animal feed, soil remediation or to manufacture paper, wood based panels or 
+sawn wood). 
+When interpreting the results of this project it is critically important to understand what 
+assumptions were made in developing the scenarios, firstly about the overall levels of 
+biomass consumption, and secondly about the approaches to forest and agricultural land 
+management and interactions amongst different uses of biomass.  These two aspects of 
+scenario definition are discussed in Sections 4.1 and 4.2 below. 
+4.1. Definition of scenarios: overall bioenergy 
+consumption 
+The setting of overall biomass use in each scenario involved defining, for each year until 
+2050: 
+• The total quantity of biomass consumed in the EU for energy 
+• The relative emphasis on biomass supply from either crops or forests 
+• The relative emphasis on biomass supply from different geographical origins to the 
+EU. 
+In terms of overall targets set for the six different scenarios developed for this project: 
+• Scenario A (‘Reference’) represented the continuation of existing EU energy 
+policy and measures up to 2020, but with no additional measures to be adopted 
+thereafter.  Hence existing 2020 targets for GHG emissions and renewable energy 
+consumption were assumed to be met, after which annual biomass consumption 
+increased only very slightly up to 2050.  Certain other efforts towards GHG emissions 
+reductions were assumed to continue to deepen after 2020, through the continued 
+tightening of targets set as part of the EU Emissions Trading System (ETS), which is 
+why this scenario involves modest ongoing reductions in GHG emissions over time 
+Biomass carbon impacts 
+ 
+21    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+after 2020.  This was chosen as a baseline with which other scenarios could be 
+compared, representing business as usual. 
+• Scenarios B, C1-3 and D were all ‘decarbonisation’ scenarios, in which the model 
+was required, amongst other things, to meet a 2050 emissions reduction target of 
+80%, which is the lower end of the range mentioned in the 2050 Roadmap that the 
+Commission published in 2011. They differed from one another with regard to the 
+assumptions or constraints on bioenergy, as described below.    
+• Scenario B (‘Carry on, unconstrained use’) represented increased bioenergy 
+consumption after 2020 compared to Reference Scenario A, with the highest use of 
+biomass for energy from all sources and with limited constraints on the types of 
+sources consumed.  Essentially, the consumption of biomass sources for energy was 
+determined principally by the relative estimated costs of different biomass feedstocks, 
+otherwise placing no emphasis on consumption of specific feedstocks (e.g. agricultural 
+or forest biomass). The main additional constraints involved limiting the consumption 
+of solid agricultural biomass to sources originating within the EU, not allowing the 
+supply of woody biomass for energy through activities leading to deforestation, 
+avoiding the use of tree stumps and roots, avoiding the use of woody biomass suitable 
+for use in long-lived structural products, and assuming that the consumption of 
+biomass for energy provided no stimulus for enhanced afforestation activities in the 
+EU or elsewhere (in the main project scenarios, see Section 4.2.2). 
+• Scenario C1 (‘Carry on, imported wood’) represented increased bioenergy 
+consumption after 2020 compared to Reference Scenario A whilst emphasizing the 
+consumption of imported forest bioenergy, allowing for some constraints. Examples 
+of constraints applied in the scenario in addition to those applied in Scenario B 
+included limiting the planting of biofuel or energy crops in the EU with the intention of 
+avoiding significant risks of indirect land-use change (see Section 3.4). 
+• Scenario C2 (‘Carry on, domestic crops’) represented increased bioenergy 
+consumption after 2020 compared to Reference Scenario A whilst emphasizing the 
+consumption of bioenergy from biofuel or energy crops and agricultural biomass 
+grown in the EU region, with some constraints as discussed for Scenario C1. 
+• Scenario C3 (‘Carry on, domestic wood’) represented increased bioenergy 
+consumption after 2020 compared to Reference Scenario A whilst emphasizing the 
+consumption of forest bioenergy, supplied from forests in the EU region, with some 
+constraints as discussed for Scenario C1. 
+• Scenario D (‘Back off’) represented a situation in which the consumption of 
+bioenergy as a renewable energy source would be de-prioritized after 2020. 
+Hence the overall biomass consumption in the EU associated with meeting GHG 
+emissions and renewable energy targets for 2020 was assumed to be met, after which 
+annual biomass consumption was constrained and required to decrease compared to 
+Biomass carbon impacts 
+ 
+22    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Reference Scenario A.   Consequently, the scenario also involved greater use of other 
+low-carbon solutions after 2020 than in the Reference scenario, including energy 
+efficiency and various non-biomass low-carbon energy sources. 
+The setting of overall levels for bioenergy consumption for the six scenarios, as well as 
+constraints or emphasis placed on consumption of specific bioenergy sources in each 
+scenario, was the subject of extensive consultation with the European Commission and  
+the characteristics of (and differences between) the scenarios were stated 
+unambiguously. 
+4.2. Definition of scenarios: approaches to land 
+management and biomass utilization 
+Whilst it was very important to set clear and agreed overall levels of bioenergy 
+consumption in defining the six scenarios, it was equally important to define what 
+approaches to land management and biomass utilization would be involved in achieving 
+the overall GHG emissions and renewable energy targets.  It will be appreciated that 
+agricultural land management and forest management at the scale of whole countries or 
+regions is highly complex.  For example, the management of forests for wood production 
+will not be uniform across forest areas within a country but will reflect many factors such 
+as accessibility, forest type (e.g. tree species), growth rate etc.  It was therefore 
+necessary for this heterogeneity to be represented in the modelling undertaken for this 
+project.  It is difficult to provide a simple and accessible summary description of all of 
+the assumptions involved in this aspect of defining the scenarios, however an attempt is 
+made below to provide such a description, because this is absolutely essential to the 
+subsequent interpretation of the results. 
+For the purposes of this project, the term “approach” was used to refer to a set of 
+assumptions about the ways in which agricultural land and forests would be managed, 
+and/or particular biomass feedstocks might be utilized (for energy and/or for other 
+purposes), as part of meeting the overall levels of biomass consumption (from all 
+sources) specified in the scenarios. 
+In theory there is an almost infinite number of approaches that might be taken in 
+different countries to supply the biomass needed to meet the levels of bioenergy 
+consumption set for the six scenarios specified in this project.  It is unclear how to 
+identify confidently those approaches that are “most likely” to be involved in supplying 
+biomass for energy use in the EU in the future, as opposed to those approaches that are 
+“unlikely”.  Indeed, this subject continues to be vigorously debated by stakeholders.  
+However, it is known with reasonable certainty that the choice of approaches to biomass 
+supply for energy use can lead to widely varying impacts on GHG emissions, ranging 
+from significant net GHG savings to significant increases in GHG emissions.   
+Biomass carbon impacts 
+ 
+23    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Two contrasting approaches were defined for the purposes of the Bioimpact project, with 
+the aim of giving an indication of the possible range of outcomes in terms of GHG 
+emissions impacts.  These two approaches were called the “Precautionary” approach, 
+representing basic sustainability safeguards, and the “Synergistic” approach, 
+representing a more intensive approach to ensuring sustainability and the mitigation of 
+negative impacts. The scenarios and ultimate results based on the Precautionary 
+approach were regarded as the main scenarios and results of the Bioimpact project, 
+literally taking a precautionary position of not allowing for the possibilities for more 
+intensive efforts towards sustainability (and the use of mitigating measures) as part of 
+the consumption of biomass for energy in the EU. 
+4.2.1. Agricultural land management 
+In all scenarios, it was assumed that supplies of bioenergy from agricultural sources 
+would be produced from within the EU region.  The management of agricultural land was 
+represented in the same way in both the Precautionary and Synergistic approaches, 
+since the two approaches were intended to investigate sensitivities to ways of supplying 
+forest bioenergy sources.  
+Potentials and costs were estimated for a range of agricultural sources of bioenergy, 
+including a number of dedicated biofuel or energy crops, residues from agricultural 
+production and manure. The use of these various bioenergy sources in each scenario 
+was determined, via the VTT-TIAM model, by finding the combination of supplies of 
+agricultural bioenergy sources that met the requirements for energy supply defined in 
+each scenario at least cost (see earlier discussion). 
+It should be noted that, in all scenarios, the planting of biofuel/energy crops on 
+agricultural land was constrained with the intention of avoiding indirect land-use change 
+(ILUC), as already discussed in Section 3.4. 
+4.2.2. Forest management and wood utilization 
+The definitions of the Precautionary and Synergistic approaches focussed on forest 
+biomass sources, as a result of the considerable interest amongst stakeholders regarding 
+the role (positive or negative) of forest biomass. In essence: 
+• The Precautionary approach avoided some of the most extreme options for forest 
+biomass supply (e.g. leading to deforestation, through failure to ensure replanting or 
+regeneration of forest areas following harvesting or through subsequent conversion of 
+felled forest areas to agricultural land or some other land use).  Otherwise the supply 
+was broadly related to the magnitudes of different potentials of forest biomass 
+resources available within each country, with limited consideration of whether these 
+different resources may lead to beneficial or deleterious outcomes in terms of impacts 
+on GHG emissions. 
+Biomass carbon impacts 
+ 
+24    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• The Synergistic approach involved some very similar assumptions to the 
+Precautionary approach but with a further constraint on options for forest biomass 
+supply (specifically avoiding harvesting in forest areas with very low growth rates).  In 
+addition, it was assumed that the increased utilization of forest biomass for energy 
+was accompanied by activities relating to forest management and biomass utilization 
+that could lead to beneficial outcomes in terms of impacts on GHG emissions.  
+Examples of such activities include afforestation (constrained with the intention of 
+avoiding ILUC, see Section 3.4), improvement of the growing stock of degraded forest 
+areas and greater emphasis on the supply of forest biomass for use as energy as a co-
+product of the supply of material wood products, as part of general efforts to build a 
+bioeconomy (see Section 5.5).  No assumption was made as to whether these 
+activities take place because of economic incentives arising from additional demand 
+for biomass, or as a result of regulatory measures.  Rather, the Synergistic approach 
+was intended to give an indication of the potential of such activities to influence the 
+contribution to GHG savings that might be made by the forestry sector and forest 
+bioenergy consumers. 
+All scenarios, including Reference Scenario A, were modelled for both the Precautionary 
+and Synergistic approaches in all geographical regions represented in the project as 
+supplying the EU region with bioenergy. As already explained, the scenarios and results 
+based on the Precautionary approach were taken as the main scenarios and results of 
+the Bioimpact project. 
+Regional differences between forest biomass sources 
+Separately from the Precautionary and Synergistic approaches, the modelling also took 
+into account differences between supplying regions as regards forest management and 
+wood utilisation practices. Table 4.1 gives a qualitative summary of the differences in 
+emphasis in forest management practices and wood utilization assumed for the four 
+regions supplying biomass to the EU, as modelled in this project (EU domestic wood 
+production, Canada, the USA and Brazil).  The table refers to abbreviated names for 
+different aspects of forest management and wood utilization practices, which are defined 
+in Box 1. These definitions are also referred to in Table 6.1 later in this report. The 
+emphasis on different practices varies slightly between scenarios; the descriptions in 
+Table 4.1 are based on the scenario which is most pertinent for each region, as indicated 
+in the table. 
+More details of specific assumptions about forest management and wood utilization 
+practices made for each supplying region are given Section 4.8.3 and 4.8.4 of the final 
+project report. Table 4.1 also shows the weight given to the various practices in the 
+synergistic approach within each region. 
+ 
+ 
+Biomass carbon impacts 
+ 
+25    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 4.1  Qualitative description of representation of forest management and 
+wood utilization associated with forest bioenergy supply from different regions 
+(see Box 1 for descriptions of abbreviated names) 
+Abbreviated 
+name for 
+practice 
+Geographical region supplying forest bioenergy (and scenario 
+referred to) 
+EU (C3) 
+USA (C1) 
+Canada (C1) 
+Brazil (Any) 
+Additional 
+harvesting 
+● 
+●● 
+●●● 
+0 
+Small/early 
+thinnings 
+●●● 
+●● 
+● 
+0 
+Forest 
+residues 
+●●● 
+● 
+● 
+0 
+Industrial 
+residues 
+●● 
+● 
+● 
+0 
+Co-production 
+● 
+●● 
+●●● 
+0 
+Additional practices in the Synergistic approach 
+Co-production 
+●● 
+●●● 
+●●●● 
+0 
+Afforestation 
+●●● 
+0 
+0 
+●●● 
+Improvement 
+of growing 
+stock 
+●● 
+● 
+0 
+0 
+Avoid very 
+low growth 
+rates 
+● 
+● 
+● 
+Not relevant 
+Key to qualitative descriptions in Table 4.1: 0 no representation; ● limited representation; ●● 
+moderate representation; ●●● strong representation; ●●●● very strong representation. 
+ 
+Box 1.  Definitions for abbreviated terms for forest management                    
+and wood utilization practices referred to in Table 4.1 (also Table 6.1)                        
+including definitions for supporting terms 
+Additional harvesting: Harvesting of trees (by thinning and particular clearfelling) to meet 
+demand from bioenergy, that would not otherwise have been harvested (at any time). 
+Small/early thinnings: Trees harvested as thinnings with total stemwood volume having less 
+than either 5% or 10% material of sawlog dimensions (depending on the scenario). 
+Forest residues: The woody biomass of trees which may be discarded in the forest following 
+tree harvesting (if not extracted for use as a bioenergy feedstock) as being unsuitable for 
+technical or economic utilisation for the manufacture of sawn wood, wood-based panels or paper, 
+typically consisting of branchwood, stem tops, defective tree stem pieces and stem offcuts but 
+Biomass carbon impacts 
+ 
+26    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+excluding tree stumps and roots. 
+Co-production: As part of additional harvesting (see definition above), the production of an 
+assortment of outputs, including both long and short lived wood products, and biomass for 
+energy, rather than solely harvesting for bioenergy. 
+Industrial residues: Wood generated as a by-product by the wood processing and associated 
+industries, including offcuts, sawdust, sawmill chips, etc., which may be disposed of or used as a 
+feedstock for wood-based panels or bioenergy. 
+Afforestation: The establishment of new forest areas on marginal land (constrained with the 
+intention of avoiding ILUC) with the purpose of producing forest bioenergy, either as a dedicated 
+bioenergy product (Brazil) or through co-production (see above) when harvesting. 
+Improvement of growing stock: Activities to enhance the carbon stocks and the productive 
+potential of forest areas, e.g. restoring the growing stock of degraded forest areas or increasing 
+forest growth rates through tree species choices, soil fertilization, etc. 
+Avoid very low growth rates: Exclusion of forest areas with very low growth rates (e.g. 2 m3 
+ha-1 yr-1 and lower) from the introduction of additional harvesting to produce bioenergy. 
+Sawlog: Roundwood of sufficient dimensions to be sawn lengthways for the manufacture of sawn 
+wood or used for the production of veneer (mainly by peeling or slicing). 
+Roundwood: All stemwood, with or without bark, including wood in its round form, or split, 
+roughly squared or in other form, which is extracted during harvesting operations in a forest.  For 
+the purposes of this project, roundwood can be regarded as the same as stemwood, as defined 
+below. 
+Stemwood: Whilst other definitions exist, in this context, this is woody material forming the 
+above ground main growing shoot(s) of a tree or stand of trees, including all woody volume 
+above ground with a diameter greater than 7 cm over bark, and wood in major branches where 
+there is at least 3 m of “straight” length to 7 cm top diameter. 
+Small roundwood (relevant to criteria in Table 6.1): Small roundwood may be defined as 
+stemwood of small diameter, which does not fall into the category of sawlog, but which may 
+typically be used to make fencing, or chipped to make wood-based panels, pulped to make paper, 
+or used in bioenergy applications. 
+Stumps: The stemwood left above ground after a tree is felled, generally still attached to the 
+roots. 
+Roots: In the context of this discussion, the main/coarse structural roots of a tree. 
+ 
+Regional differences under the Precautionary approach 
+For the Precautionary approach, as already noted, the supply of forest bioenergy from 
+different regions was broadly related to the magnitudes of different potentials of forest 
+biomass resources available within each country, with limited consideration of whether 
+these different resources may lead to beneficial or deleterious outcomes in terms of 
+impacts on GHG emissions.  More specifically, the variation in assumptions for the 
+Biomass carbon impacts 
+ 
+27    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+different regions reflected the composition of the forest resources in each country (see 
+Section 4.8.4 of the final project report). For example, whilst not universally the case, 
+the forest resource in a significant number of EU Member States is already under quite 
+intensive management, i.e. involving practices such as the regular thinning and felling of 
+trees, with national-scale regulation to ensure regeneration or replanting of forests and 
+the maintenance of a productive forest growing stock, as part of sustainable forest 
+management.  In comparison to the EU, generally, forests in Canada are also managed 
+according to the principles of sustainable forest management, and some forest areas are 
+managed in a very similar way to that described previously for certain EU Member 
+States. However, there are also large area of forests in Canada which may not be under 
+such regular intensive management, but in which harvesting (and subsequent 
+regeneration) could still occur, if the right economic circumstances were to be met. 
+Hence, one of the consequences for this project of the different compositions of forests 
+in the EU and Canada was that there was more emphasis on bioenergy production from 
+small early thinnings in forests in the EU region, whilst there was more emphasis on 
+bioenergy production arising from additional harvesting in forests in Canada. 
+It should be apparent that the modelling of forest management and wood utilization to 
+supply bioenergy from forests under the Precautionary approach took a “neutral” 
+position with regard to the forest resource in each country; there was no selection of 
+particular types of forest for supplying bioenergy, which might lead either to better or 
+worse outcomes in terms of impacts on GHG emissions.  In reality, if it were possible to 
+identify those forest management and wood utilization practices that led to better 
+outcomes, then these practices could be preferred over those that lead to worse 
+outcomes.  However, for defining the Precautionary approach in this project, the project 
+team considered it inappropriate to make any presumption that certain forest areas or 
+practices would be preferred over others in supplying forest bioenergy from the different 
+countries. 
+Regional differences under the Synergistic approach 
+Regarding the positive activities assumed to take place under the Synergistic approach: 
+• Such activities were assumed to make a significant contribution towards bioenergy 
+supply from forests in the EU region 
+• There was only limited representation of such activities in the USA.  The main activity 
+represented was increased co-production of wood for material uses alongside energy, 
+with some representation of improvements to forest growing stock and no additional 
+afforestation activities 
+• There was no representation of such activities in Canada, apart from increased co-
+production of wood for material uses alongside energy 
+• Afforestation activities related to bioenergy supply to the EU from outside the EU 
+region were represented solely by assuming that the increased demand for bioenergy 
+Biomass carbon impacts 
+ 
+28    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+in the EU region would lead to a market response involving the establishment of high-
+productivity plantations dedicated to bioenergy production on formerly degraded 
+agricultural land in Brazil. 
+The varying assumptions for different regions reflected cautiousness in defining the 
+activities represented in the Synergistic approach, notably with regard to Canada and 
+the USA.  Specifically, it was considered important not to overstate the potential for 
+introducing or encouraging positive activities in the forest sector in conjunction with 
+increased biomass supply from regions outside the EU. 
+The various assumptions made in defining the forest management and wood utilization 
+practices involved in supplying bioenergy, from the different supplying regions and for 
+the different scenarios, had consequences for the main project results, i.e. the estimated 
+impacts on GHG emissions. This point is explored further in Section 5, in particular 
+Section 5.3. 
+5. Key findings 
+As already explained in Section 4.2, the main results presented in the final project report 
+were based on the scenarios involving the Precautionary approach to forest management 
+and wood utilization.  It follows that the main results do not allow for the possibility that 
+increased supply of forest biomass for energy use could be accompanied by additional 
+constraints or activities aimed at ensuring beneficial impacts on GHG emissions. 
+The main project results, and the key findings drawn from them, are summarized here in 
+Sections 5.1 to 5.4 below. 
+5.1. Total annual GHG emissions 
+Figure 5.1 shows the results obtained for the trajectories of the total annual GHG 
+emissions in the EU region over the period 2010 to 2050 for all scenarios, assuming 
+basic sustainability safeguards (Precautionary approach).  As the original report to the 
+EC highlighted, in all cases the net result is of deepening emissions reductions over the 
+period for all scenarios, with varying magnitude. In the case of the Reference Scenario 
+(A), the continuing reductions in GHG emissions after 2020 are mainly as a result of 
+strengthening of targets under the EU ETS. 
+It can also be seen that from 2020 onwards, all the four scenarios of continued 
+bioenergy use, as well as the scenario that represents reduced bioenergy use, achieve 
+greater total GHG emissions reductions than the Reference Scenario (A).  This reflects 
+the setting of much more ambitious targets for GHG emissions reductions after 2020 in 
+the decarbonisation scenarios, requiring the adoption of more ambitious climate and 
+energy policies and implementation mechanisms compared to the Reference Scenario.  
+The deeper GHG emissions reductions achieved in the decarbonisation scenarios are 
+Biomass carbon impacts 
+ 
+29    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+related to changes in the types of bioenergy and non-bioenergy sources and conversion 
+technologies that are represented in the energy mix in the different scenarios.  
+ 
+Figure 5.1. Total annual GHG emissions. 
+It is important to recognize that these results reflect the totality of all measures included 
+in each scenario (i.e. with regard to both bioenergy use and the use of other energy 
+sources or improvements in energy efficiency).  Hence it is not possible to tell 
+directly from the figure whether bioenergy use in each of the scenarios is 
+contributing towards, or detracting from, the estimated GHG emissions 
+reductions. 
+5.2. GHG impacts of key energy sources 
+In order to better inform the interpretation of the results of the Bioimpact Project, the 
+project team undertook more detailed analysis of the results with the aim of clarifying 
+the reasons for the differences between scenarios.  However it must be recalled that a 
+CLCA methodology was applied in this project, because the principal aim was to 
+determine the total collective consequences of defined policy options.  CLCA does not 
+involve attributing specific GHG emissions to individual components of the system (e.g. 
+specific biomass feedstocks or other sources of energy).  Nevertheless it was possible to 
+estimate the contributions to total GHG emissions reductions in the different 
+decarbonisation scenarios, compared to the Reference Scenario, arising from broadly 
+Biomass carbon impacts 
+ 
+30    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+defined types of energy source of interest to this project, i.e. “Fossil”, “Bioenergy” and 
+“Other” sources.  Table 5.1 shows the results obtained for the year 2030. 
+Table 5.1 Changes in total annual GHG emissions in 2030 relative                      
+to the Reference Scenario (A) 
+Scenario 
+GHG emissions 2030 (MtCO2-eq.yr-1) 
+Fossil 
+Bioenergy 
+Other 
+Total 
+B (Carry on, 
+unconstrained use) 
+-456 
+77 
+2 
+-378 
+C1 (Carry on, 
+imported wood) 
+-458 
+108 
+-11 
+-360 
+C2 (Carry on, 
+domestic crops) 
+-460 
+0 
+-17 
+-478 
+C3 (Carry on, 
+domestic wood) 
+-460 
+64 
+-18 
+-415 
+D (Back off) 
+-454 
+-95 
+41 
+-508 
+ 
+It is necessary to clarify what the broad energy types referred to in Table 5.1 actually 
+represent: 
+• “Fossil” consists of the GHG emissions reported in the project results as “EU emissions 
+(non-biomass)” and consists mainly, but not entirely, of GHG emissions as a result of 
+the use of fossil fuels 
+• “Bioenergy” consists of the sum of GHG emissions associated with bioenergy sources; 
+specifically, the categories, “Agricultural biomass”, “Energy crops” (which includes 
+biofuel crops) and the various categories of “Wood Fuel/HWP Co-products”, as 
+reported in the project results 
+• “Other” consists of the sum of contributions for all other categories reported in the 
+project results, notably “Imported Fossil Fuel and Nuclear Fuels, and Electricity”. 
+The GHG emissions reported under the category Bioenergy include several contributions: 
+• Biogenic emissions due directly to the combustion of biomass 
+• Biogenic emissions/sequestration as a result of changes in vegetation, litter and soil 
+carbon dynamics of agricultural and forest land, arising from bioenergy production 
+(see detailed discussion in Sections 3.3 and 3.4) 
+• Emissions as a result of the processing of bioenergy sources and conversion systems 
+• Emissions arising from the manufacture of co-products of the bioenergy sources, 
+including for example animal feed and notably wood co-produced for the manufacture 
+of material products 
+Biomass carbon impacts 
+ 
+31    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• Changes in emissions, which may be a reduction, as a result of counterfactual 
+products being displaced by the co-products of the bioenergy sources (see previous 
+point) 
+• Biogenic emissions from the disposal of material wood co-products at end of life, also 
+allowing for changes in emissions as a result of displacing of counterfactual products. 
+The results in Table 5.1 for the Bioenergy and Other categories do not include the GHG 
+emissions savings achieved through the consumption of these energy sources in place of 
+alternative (counterfactuals). These savings are included in the results for the Fossil 
+category and contribute towards the GHG emissions reductions reported for this 
+category. 
+5.2.1. Observations on results for 2030 
+The results in Table 5.1 show that: 
+• The GHG emissions in the Bioenergy category vary significantly between scenarios as 
+a result of the amount and type of bioenergy assumed to be used.  There is a strong 
+positive relationship between these emissions and the level of bioenergy consumption 
+in the scenarios, compared to the Reference Scenario, particularly forest bioenergy 
+consumption (i.e. the higher the levels of forest bioenergy consumption in the 
+scenario the higher the GHG emissions).  For the scenarios that represent continued 
+bioenergy use, the emissions vary between 0 MtCO2-eq for the scenario with the 
+lowest use of forest bioenergy in 2030 (C2) and 108 MtCO2-eq for the scenario with 
+the highest use of forest bioenergy in 2030 (C1). 
+• GHG emissions in the Fossil category are very similar for all scenarios, i.e. a reduction 
+of the order of 460 MtCO2-eq per annum.  The reduction in emissions in this category 
+is the result of all the activities contributing towards the intended policy targets 
+assumed in each scenario, including increased or decreased consumption of bioenergy 
+and other non-fossil energy sources.  GHG emissions increases in the Bioenergy 
+category for the Carry on scenarios are always of considerably smaller magnitude 
+than the emissions reductions in the Fossil category.  However, in the scenarios with 
+relatively high forest bioenergy consumption, the emissions increases in the Bioenergy 
+category represent between 14% and 24% of the emissions reductions in the Fossil 
+category.   
+• In the scenario that represents backing away from bioenergy (D), GHG emissions in 
+the Bioenergy category are reduced as a result of lower consumption of bioenergy 
+(particularly forest bioenergy), compared with the Reference Scenario.  However, 
+emissions in the Other category are increased as a result of greater use of these 
+energy sources, although the magnitude of this emissions increase is smaller than the 
+increases in the Bioenergy category for the high bioenergy scenarios (with one 
+exception). 
+Biomass carbon impacts 
+ 
+32    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+5.2.2. Conclusions on results for broad contributions to GHG impacts 
+Bearing in mind the caveats attached to results presented in Table 5.1, based on the 
+main results, it may be concluded that: 
+• The decarbonisation scenarios can be ranked according to the total GHG emissions 
+reductions achieved 
+• Generally, the greater the contribution made by forest bioenergy, the smaller the 
+magnitude of total GHG emissions reductions 
+• The scenario that represents backing away from bioenergy (D) delivers the greatest 
+GHG emissions reductions 
+• All decarbonisation scenarios lead to fairly similar reductions in overall EU emissions ; 
+at most, the difference between the best (scenario D) and the worst (C1) is only a 3% 
+reduction in total EU GHG emissions 
+• In 2050, by which time the level of bioenergy consumption in the bioenergy scenarios 
+is very high, the additional reduction in total GHG emissions achieved by Scenario D in 
+comparison with Scenarios B to C3 is more significant, respectively, 20%, 18%, 8% 
+and 8%. 
+Scenario D (Back off) achieves GHG emissions reductions with less bioenergy 
+consumption, and instead involves greater efforts towards deployment of a range of 
+other low-carbon energy solutions. 
+5.3. GHG impacts of forest bioenergy 
+One of the key findings of the discussion in Section 5.2 concerned the apparent 
+importance of the contribution of forest bioenergy in determining the magnitude of GHG 
+emissions reductions in the different decarbonisation scenarios.  As a result this topic 
+was further investigated through additional detailed analysis, as described in Section 6.9 
+of the final project report, in particular Section 6.9.4. 
+Looking in more detail at the impact of forest bioenergy specifically on the net difference 
+in GHG emissions between the scenarios and Reference Scenario A shows some 
+interesting variation. Figure 5.2, below, shows the net difference in GHG emissions 
+relative to Reference Scenario A solely as a result of forest biomass consumption 
+for energy.   
+Biomass carbon impacts 
+ 
+33    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+ 
+Figure 5.2. Range of net differences in GHG emissions as a result of forest 
+bioenergy relative to Reference Scenario A. 
+In order to illustrate the range of results, for each of the four decarbonization scenarios, 
+a ‘high’ and ‘low’ emissions situation was modelled.  The main difference between these 
+two is in the choice of fossil energy counterfactuals, natural gas in the ‘high’ case, coal in 
+the ‘low’ case.   
+Figure 5.2 presents a lot of information in one graph and it is not always easy to follow 
+the trajectories for individual scenarios.  To assist with interpretation, Figures 5.3, 5.4 
+and 5.5 show snapshots of the results for different scenarios for each of the years 2030, 
+2040 and 2050 respectively. 
+-100
+-50
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2010
+2015
+2020
+2025
+2030
+2035
+2040
+2045
+2050
+Net difference in GHG emissions (MtCO2-eq. yr-1)
+Year
+Scenario B; Low
+Scenario B; High
+Scenario C1; Low
+Scenario C1; High
+Scenario C2; Low
+Scenario C2; High
+Scenario C3; Low
+Scenario C3; High
+Scenario D; Low
+Scenario D; High
+Biomass carbon impacts 
+ 
+34    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+ 
+Figure 5.3. Range of net differences in GHG emissions in 2030 as a result of 
+forest bioenergy relative to the Reference Scenario (A). 
+ 
+Figure 5.4. Range of net differences in GHG emissions in 2040 as a result of 
+forest bioenergy relative to the Reference Scenario (A). 
+ 
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+Net difference in GHG emissions    
+(MtCO2-eq yr-1)
+Scenario
+B
+C1
+C2
+C3
+D
+-100
+-50
+0
+50
+100
+150
+200
+Net difference in GHG emissions   
+(MtCO2-eq yr-1)
+Scenario
+B
+C1
+C2
+C3
+D
+Biomass carbon impacts 
+ 
+35    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+ 
+Figure 5.5. Range of net differences in GHG emissions in 2050 as a result of 
+forest bioenergy relative to the Reference Scenario (A). 
+From Figures 5.2 to 5.5 it is possible to make certain observations about the impacts on 
+GHG emissions as a result of forest bioenergy as represented in the decarbonisation 
+scenarios: 
+• It can be seen that in the scenarios where bioenergy use is unconstrained, or comes 
+largely from imported wood (Scenarios B and C1), GHG emissions as a result of forest 
+bioenergy increase over time, compared to the Reference Scenario A, and are 
+significantly greater by 2040. 
+• Scenario C2 (Carry on, domestic crops) does not display any substantial differences in 
+terms of GHG emissions from forest bioenergy use compared to Reference Scenario A 
+until after about 2040, when there is an increase. 
+• The scenario that emphasizes bioenergy supply from forests in the EU region 
+(Scenario C3) delivers GHG reductions as a result of forest bioenergy in the near term 
+that are comparable to those that are estimated for forest bioenergy in Scenario D, 
+which represents a strategy of backing away from bioenergy.  However, after 2040, 
+by which time the level of forest bioenergy consumption represented in the Carry on 
+scenarios has become very high, the net GHG emissions as a result of forest 
+bioenergy start to rise relative to the Reference Scenario (and also Scenario D). 
+• Scenario D (Back off) also shows deepening GHG emissions reductions from forest 
+bioenergy compared to Reference Scenario A over most of the period to 2050. 
+-100
+-50
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Net difference in GHG emissions   
+(MtCO2-eq yr-1)
+Scenario
+B
+C1
+C2
+C3
+D
+Biomass carbon impacts 
+ 
+36    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+The results appear to suggest important differences in the GHG impacts of forest 
+bioenergy supplied from forests in the EU region and forest bioenergy imported from 
+other countries.  However this is not a basis for drawing simplistic conclusions about the 
+impacts of consuming domestically produced and imported forest bioenergy sources. 
+As explained in Section 4, notably in Section 4.2.2, the modelling of forest bioenergy 
+supply from different geographical regions involved detailed assumptions about forest 
+management and wood utilization, which varied significantly between regions. 
+Based on the results presented above, and description of scenarios in Section 4, notably 
+in Section 4.2.2 and in Table 4.1, it may be tentatively concluded that, with specific 
+regard to forest bioenergy sources (see definitions of practices in Box 1, Section 
+4.2.2): 
+• The scenario of unconstrained bioenergy use (B) and the scenario with higher 
+imported wood (C1) achieve the lowest GHG reductions because they emphasize 
+forest management and wood utilization practices involving additional harvesting and 
+place less emphasis on the utilization of small/early thinnings, forest residues and 
+industrial residues 
+• The scenario that emphasizes domestic forest bioenergy (C3) performs relatively well 
+because it emphasizes forest management and wood utilization practices involving 
+utilization of small/early thinnings, forest residues and industrial residues and places 
+less emphasis on additional harvesting 
+• The scenario that backs away from bioenergy (D) also performs best in GHG 
+reductions because the level of forest bioenergy production is lower than in the 
+Reference Scenario, as a result of the de-prioritization of bioenergy consumption. 
+The implications of these conclusions are that (see definitions of practices in Box 1, 
+Section 4.2.2): 
+• Bioenergy production involving additional harvesting, even if that involves co-
+production as part of additional harvesting, involves significant risks of high GHG 
+emissions 
+• Bioenergy production involving utilization of small/early thinnings, forest residues and 
+industrial residues involves low risks and should lead to low GHG emissions. 
+5.4. Cost and technical implications of scenarios 
+The main final report for the Bioimpact project included in Section 6.8 an assessment of 
+the economic costs associated with the different scenarios. The assessment appeared to 
+suggest that the scenario involving a backing away from bioenergy (D) involved greater 
+costs than the scenarios involving increased consumption of bioenergy (B, C1, C2 and 
+C3). The discussion of the cost results explained that this result was obtained because 
+biomass energy sources were estimated to be relatively low cost. The assessment 
+Biomass carbon impacts 
+ 
+37    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+allowed for the existence of other low-cost, low-carbon energy options, including the 
+deployment of solar and wind energy where appropriate. However, according to the 
+assessment, when future consumption of bioenergy was constrained such as in Scenario 
+D, the remaining low-cost energy options were not sufficient to meet future targets for 
+renewable energy consumption and GHG emissions reduction. Hence, some higher-cost 
+options needed to be included as part of actions taken to meet the targets. There was 
+also some increased reliance on imported energy sources. 
+The Bioimpact project team made considerable efforts to compile the best possible cost 
+estimate for different energy sources, including bioenergy and the team considers that 
+the cost assessment was reasonably robust. However, this view is not shared by all 
+stakeholders and it must be accepted that estimating the relative cost of energy sources 
+up to 35 years into the future involves speculation. It must also be acknowledged that 
+certain costs likely to be involved with more sophisticated deployment of certain 
+bioenergy sources were not considered as part of the assessment (see Section 5.5) and 
+that costs of wind and solar have fallen unexpectedly fast in recent years.. 
+5.5. Measures to support forest bioenergy 
+consumption with low GHG emissions 
+In addition to presenting the main project results, the final report of the Bioimpact 
+project also considered results for scenarios involving the synergistic approach to forest 
+management and wood utilization. The interpretation of these results was complex and 
+has been contended by some stakeholders, hence, a simplified analysis and 
+interpretation is presented here, limited to result for forest bioenergy produced from EU 
+forests (this means the analysis excludes any contributions arising from forest biomass 
+supplied to the EU through afforestation activities in Brazil, and as a result of limited 
+changes in forestry activities in Canada and the USA, mainly involving more emphasis on 
+co-production of wood for use as materials alongside bioenergy). 
+Compared to the main project results, across all scenarios, the results for the 
+Synergistic approach modelled for EU forests indicate reductions in GHG emission could 
+be achieved, amounting to about 40, 110 and 140 MtCO2 yr-1 in 2020, 2030 and 2040 
+onwards, respectively. These reductions, achieved solely through activities involving 
+wood production from EU forests, would: 
+• More than compensate for the net increases in GHG emissions estimated for forest 
+bioenergy consumption, where these occur in the main project results for the 
+scenarios emphasizing bioenergy supplied from agricultural or forest sources in the EU 
+region (C2 and C3), giving net GHG savings 
+• Give deeper GHG savings for the scenario involving backing away from bioenergy 
+consumption (D). 
+Biomass carbon impacts 
+ 
+38    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+For the scenario emphasizing consumption of imported forest bioenergy sources (C1), 
+the GHG emissions reductions estimated for the Synergistic approach would give overall 
+net GHG savings until about 2040, after which the high levels of forest bioenergy 
+consumption in the scenario would lead to a net increase in GHG emissions. 
+Taken superficially, the results for the Synergistic approach seem to suggest that forest 
+biomass can be used as an energy source with low GHG emissions, if the types of 
+activities represented under the Synergistic approach for EU forests can be promoted in 
+the EU and possibly more widely, as part of bioenergy production. This view is reinforced 
+when it is noted that not all possible activities that could be involved in producing 
+biomass from forests with low carbon impacts were represented in the modelling for the 
+Synergistic approach (an important example is the enhancement of forest growth rates 
+as part of maintaining and restoring forest growing stock). However, such a simple 
+conclusion could be viewed as seriously flawed. As already pointed out, the GHG 
+emissions reductions estimated for the Synergistic approach are similar for all scenarios, 
+including the scenario involving backing away from bioenergy consumption (D). This 
+raises the question: couldn’t activities such as represented in the Synergistic approach 
+just be promoted anyway, without any association with increased bioenergy 
+consumption, for example as part of measures aimed at climate change mitigation in the 
+land use sector? 
+It is true that, in many (but not all) cases, relevant activities in the forest sector are not 
+inevitably connected with bioenergy production and could be carried out regardless of 
+any commitment to supplying forest biomass for use as an energy source. 
+Notwithstanding, it remains the case that these activities are likely to require a 
+framework to support their adoption, since this would be unlikely to occur as a result of 
+simple commercial decisions about forest management. It follows that there is a choice 
+to be made between: 
+• Not supporting such activities 
+• Supporting relevant activities through a suitable framework covering land use and 
+forestry (i.e. not connected specifically with the consumption of forest biomass for 
+energy or other purposes) 
+• Supporting relevant activities through a suitable framework covering the consumption 
+of forest biomass (for energy and possibly for materials) 
+• Supporting relevant activities through an integrated approach to frameworks covering 
+land use, forestry and the consumption of forest biomass for materials and energy. 
+It is the view of the Bioimpact project team that an important opportunity would be 
+missed if an integrated approach were not to be taken to supporting climate change 
+mitigation activities involving land use, forestry and forest biomass consumption, 
+particularly if the consumption of forest biomass for energy is viewed as a potential 
+problem. Furthermore, there is an existing strong interest in the EU to increase forest 
+Biomass carbon impacts 
+ 
+39    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+biomass production as part of the development of a low-carbon “bioeconomy”, hence 
+there is a natural opportunity to link such developments to support for low-carbon 
+impact approaches to forest management and wood consumption. Supporting 
+frameworks could be developed solely from the point of view of land use and forestry, 
+but these may cost more if the existing impetus towards a bioeconomy is not harnessed. 
+It should however be noted that while the EU has a relatively strong influence over 
+energy policies, the forestry policies of individual Member States are largely a national 
+competence and so the scope for EU directed action is limited, even within the EU. 
+Two important caveats must be attached to the previous points. 
+Firstly, forests in different EU Member States are very variable (e.g. in terms of tree 
+species, growth rates, levels and types of management and risks of natural 
+disturbances). As a consequence, opportunities for (and challenges to) the production of 
+forest bioenergy with low carbon impacts occur unevenly across Member States. In 
+principle, this could be addressed by managing efforts cooperatively at the scale of the 
+EU and allowing for variations in the contributions made by individual Member States. 
+Such an approach could be challenging to implement but could overcome potential 
+barriers at national scale. 
+Secondly, the Bioimpact project did not include an assessment of any additional costs 
+associated with the types of activities covered by the Synergistic approach. It may be 
+speculated that the application of a mechanism to support these types of activities in 
+conjunction with forest bioenergy supply would be likely to “even out” the relative 
+performance of the scenarios involving increased bioenergy consumption (C1, C2 and 
+C3) and the scenario involving backing away from bioenergy consumption (D), in terms 
+of GHG impacts but also in terms of costs. 
+6. Implications for regulation of 
+bioenergy 
+The key findings and conclusions of this project, as presented in Section 5, would appear 
+to suggest two major policy options with regard to renewable energy and the potential 
+contribution of bioenergy. 
+One option would involve de-prioritizing bioenergy in order to avoid potential risks 
+associated with some bioenergy sources, whilst noting that this would be likely to require 
+at least some of the following: 
+• The increased use of other renewable energy sources (particularly solar and wind 
+power) 
+• More concerted efforts towards energy efficiency or demand-side response in the EU 
+region across all sectors, but particularly in the residential and transport sectors 
+Biomass carbon impacts 
+ 
+40    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• Increased use of nuclear power (involving both current and assumed future 
+technologies) 
+• Increased reliance on imports of natural gas, nuclear fuels and electricity into the EU 
+region from elsewhere 
+• Some increased deployment of carbon capture and storage technologies. 
+The alternative option would be to carry on with supporting a contribution from 
+bioenergy sources towards targets for renewable energy and GHG emissions reductions, 
+whilst putting in place a policy framework capable of ensuring that bioenergy sources 
+genuinely lead to significant near-term reductions in GHG emissions compared to fossil 
+fuels. 
+If the bioenergy option were to be pursued, it is important to recognize that this study 
+has identified that bioenergy, and forest bioenergy in particular, can be a potential 
+contributor to increased GHG emissions.  However, this is not inevitable if a framework 
+is adopted to ensure only agricultural and forest biomass sources that deliver genuine 
+emissions reductions are used for energy purposes. 
+6.1. General guidelines for bioenergy sources 
+Certain general guidelines for agricultural and forest bioenergy supply can be identified: 
+• Avoid serious risk of ILUC 
+• Keep levels of supply within sustainable yield capacity 
+• Limit negative impacts on carbon stocks of agricultural soils and forests (trees, litter 
+and soils) and their capacity for future carbon sequestration 
+• In the case of forest bioenergy, avoid negative impacts on the potential supplies of 
+wood for manufactured wood products, where these pathways have clearly lower-
+carbon impacts compared to using the wood for bioenergy. 
+In addition, for forest bioenergy sources, it is important to ensure that these sources 
+provide genuine GHG emissions reductions within relatively short time scales (e.g. 
+before 2050 and preferably sooner).  Because of the complexity of forestry systems, 
+their management and the many ways in which harvested wood is utilized, it is 
+challenging to develop a simple guide to forest bioenergy sources that should ensure 
+that GHG emissions reductions are achieved over timescales relevant to avoiding 
+runaway climate change and supporting the temperature goals established by the Paris 
+Agreement. 
+The final project report for the Bioimpact project included a proposed approach based on 
+a decision tree (Section 2.4 and Appendix 1), for the assessment of forest bioenergy 
+sources, in terms of the likelihood of achieving reductions in GHG emissions compared to 
+Biomass carbon impacts 
+ 
+41    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+fossil fuels, or risks of causing GHG emissions increases. This approach was welcomed 
+by some stakeholders but considered too complicated by others. Below, an alternative 
+approach is suggested, based on an extremely simplified decision tree (Figure 6.1) and a 
+supporting table of criteria related to aspects of forest management and wood utilization 
+for energy (Table 6.1). 
+The decision tree allows the assessor the option of first considering a set of criteria 
+concerned with aspects of forest management associated with the harvesting of wood for 
+energy purposes. These criteria are listed in part (a) of Table 6.1. 
+If the outcome of the assessment based on part (a) is immediately positive, a 
+requirement to consider a second set of criteria (concerned with the utilization of specific 
+wood feedstocks for energy) is significantly relaxed. (Specifically, it is then necessary to 
+consider only two “mandatory” criteria related to wood feedstocks.) 
+In many situations it may be challenging for assessors to establish the nature of forest 
+management involved in the supply of wood for utilization as energy (for example, there 
+may be difficulties in tracing parcels of harvested wood back to the areas of forest that 
+they originated from). In these circumstances, the assessor has the option of not 
+referring to part (a) of Table 6.1 but instead proceeding directly to considering the full 
+second set of criteria concerned with wood feedstocks. These criteria are listed in part 
+(b) of Table 6.1. 
+Often, the outcome of the assessment based on forest management criteria in part (a) 
+of Table 6.1 will require the assessor also to consider the full list of wood feedstock 
+criteria in part (b). 
+The above approach could be relevant when evaluating other existing or proposed 
+approaches to regulating bioenergy consumption in the EU.  The examples of greatest 
+current relevance in the context of this discussion are: 
+• The existing EU Renewable Energy Directive (RED) 
+• A “Proposal for a Directive of the European Parliament and the Council on the 
+promotion of the use of energy from renewable sources (recast)”, otherwise referred 
+to as the REDII proposal 
+• Of indirect relevance, but potentially high importance, the framework adopted for 
+accounting for Forest Land in national GHG emissions inventories after 2020. 
+Table 6.1 also includes a comparison of the various provisions of the REDII proposal with 
+the criteria derived from this project; this is discussed further in Section 6.2. 
+As with the decision tree presented in the original final project report, the designs of the 
+decision tree and table of criteria presented here are provisional and likely to require 
+further refinement. 
+Biomass carbon impacts 
+ 
+42    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+ 
+Figure 6.1  Decision flow diagram for application of criteria in Table 6.1. 
+Start
+Do you want to consider 
+the option of forest 
+management criteria?
+No
+Yes
+Refer to 
+criteria in Part 
+(a) of Table 3
+From the assessment 
+based on Part (a), is it 
+necessary to consider the 
+conditional criteria in 
+Part (b)?
+Yes
+No
+Refer to 
+mandatory 
+criteria in   
+Part (b) only
+Refer to both 
+mandatory and 
+conditional 
+criteria in Part (b)
+Biomass carbon impacts 
+ 
+43    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 6.1 Tentative criteria for forest management and wood utilization aimed at bioenergy supply with low risks of 
+increased GHG emissions compared to fossil fuels: Part (a) – Forest management 
+Criterion 
+Practice 
+Representation under proposed REDII 
+Deforestation 
+Disallow supplies of forest bioenergy that lead to 
+deforestation. 
+Article 26 para 5 requires that “forest regeneration of 
+harvested areas takes place” 
+Article 26 para 3 addressing agricultural production 
+requires that “biomass fuels […] shall not be made from 
+raw material obtained from land with high carbon stock, 
+namely land that had one of the following statuses in 
+January 2008 and no longer has that status: […] 
+continuously forested areas […];  
+land spanning more than one hectare with trees […] unless 
+evidence is provided that [the calculated GHG savings 
+would be sufficient]” (text in square brackets added for 
+clarity). 
+Afforestation 
+Strongly favour supplies of forest bioenergy where these 
+are explicitly associated with afforestation activities (see 
+Sections 4.2.2 and 5.5). However, avoid afforestation 
+activities: 
+● On soils with existing high organic carbon content  
+● That lead to high risks of indirect land-use change. 
+No specific proposals for promoting desirable activities 
+other than general GHG emissions criteria (Article 26 para 
+7 (d)), see also discussion in Sections 6.2.1 and 6.2.2 
+See separate discussion of regulation of LULUCF (Section 
+6.3) 
+ 
+ 
+ 
+Biomass carbon impacts 
+ 
+44    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 6.1 Tentative criteria for forest management and wood utilization aimed at bioenergy supply with low risks of 
+increased GHG emissions compared to fossil fuels: Part (a) – Forest management (continued) 
+Criterion 
+Practice 
+Representation under proposed REDII 
+Improvement of 
+growing stock 
+Strongly favour supplies of forest bioenergy where these 
+are explicitly associated with activities to conserve and 
+enhance forest growing stock, carbon stocks and forest 
+productivity (see Sections 4.2.2 and 5.5). 
+There have been several previous discussions of the types 
+of forest management involved in improving growing stock.  
+Examples may be found in Schelhaas et al. (2006) and 
+Sections 8.3 to 8.5 of Matthews et al. (2017)9. 
+No specific proposals for promoting desirable activities 
+other than general GHG emissions criteria (Article 26 para 
+7 (d)), however, positive impacts on carbon stocks not 
+explicitly covered as no land-use change takes place, see 
+Sections 6.2.1 and 6.2.2 
+See separate discussion of regulation of LULUCF (Section 
+6.3) 
+Growth rate 
+Disfavour forest bioenergy production from forest areas 
+with low growth rates. Tentatively, low growth rate is 
+defined as 2 m3 ha-1 yr-1 or less. Possible exemptions in 
+some cases, e.g. disease infested forest areas. 
+Not explicitly covered as no land-use change takes place, 
+see Sections 6.2.1 and 6.2.2, however, 
+Article 26 para 5 requires that “harvesting does not exceed 
+the long-term production capacity of the forest” which 
+would tend to disfavour harvesting in areas with low 
+growth rates 
+ 
+ 
+ 
+                                       
+9 Schelhaas, M.J., Cienciala, E., Lindner, M., Nabuurs, G.J., and Meyer, J. (2006) Survey of technical and management-based mitigation measures 
+in forestry. MEACAP WP4 D13. At: https://ieep.eu/publications/meacap-survey-of-technical-and-management-based-mitigation-measures-in-
+forestry; 
+Matthews, R.W., Mackie, E.D. and Sayce, M. (2017) Natural Resources Wales Carbon Positive Project: greenhouse gas emissions and removals 
+from woodlands on the NRW estate. Final project report to Natural Resources Wales. Forest Research: Farnham (awaiting publication by NRW). 
+Biomass carbon impacts 
+ 
+45    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 6.1 Tentative criteria for forest management and wood utilization aimed at bioenergy supply with low risks of 
+increased GHG emissions compared to fossil fuels: Part (a) – Forest management (continued) 
+Criterion 
+Practice 
+Representation under proposed REDII 
+Thinning and 
+(clear)felling 
+If the level of supply of forest bioenergy from thinning and 
+felling activities in forest areas is consistent with long-term 
+historical levels, and with the principle of sustainable yield, 
+then risks of issues with GHG emissions are low. 
+If the level of forest bioenergy from thinning and felling 
+activities in forest areas involves increased supply 
+compared with long-term historical levels, then favour 
+production from thinning over production from felling, with 
+the aims of: 
+● Improving the quality of the remaining growing stock 
+● Minimising disturbance of litter and soil carbon. 
+If, and only if, the level of forest bioenergy from 
+thinning and felling activities in forest areas involves 
+increased supply compared with long-term historical 
+levels, then it is necessary to consider the 
+conditional criteria as well as the mandatory criteria 
+regarding use of wood feedstocks for bioenergy in 
+Part (b). 
+Possible impacts on forest carbon stocks not explicitly 
+covered as no land-use change takes place, see Sections 
+6.2.1 and 6.2.2 
+See separate discussion of regulation of LULUCF (Section 
+6.3) 
+ 
+ 
+ 
+Biomass carbon impacts 
+ 
+46    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 6.1 Tentative criteria for forest management and wood utilization aimed at bioenergy supply with low risks of 
+increased GHG emissions compared to fossil fuels: Part (b) – Wood supply and feedstocks 
+Criterion (feedstock) 
+Practice 
+Representation under proposed REDII 
+Scale of forest 
+bioenergy use: 
+Mandatory criterion 
+Aim for levels of forest bioenergy use that are well within 
+the long-term sustainable-yield capacity of the supplying 
+forest areas. 
+When setting levels for bioenergy use, take account of the 
+consumption of biomass for other uses (i.e. materials) and 
+levels of biomass consumption outside the EU region.. 
+Article 26 para 5 requires that  
+“harvesting does not exceed the long-term production 
+capacity of the forest” 
+Stumps including roots: 
+Mandatory criterion 
+Strongly disfavour supplies of forest bioenergy from 
+stumps including roots. 
+No specific provisions in REDII. 
+Likely negative impacts on forest carbon stocks not 
+explicitly covered as no land-use change takes place, see 
+Sections 6.2.1 and 6.2.2 
+Post-consumer waste 
+wood: Conditional 
+criterion 
+Strongly favour supplies of forest bioenergy from post-
+consumer waste wood. Particularly favour such sources 
+where the waste wood would otherwise be burnt or put in 
+landfill without energy recovery. Also favour use of waste 
+wood at levels that do not compete with current levels of 
+consumption of such feedstocks for material uses (e.g. 
+wood-based panels). 
+Article 26 para 1 states “biomass fuels produced from 
+waste and residues, other than agricultural, aquaculture, 
+fisheries and forestry residues, need only fulfil the 
+sustainability greenhouse gas emissions saving criteria” 
+Provided that process and transport GHG emissions are 
+small, this should encourage use of post-consumer waste 
+where technical challenges, e.g. contamination, are not an 
+issue 
+Industrial residues: 
+Conditional criterion 
+Strongly favour supplies of forest bioenergy from industrial 
+residues. Particularly favour such sources where the 
+residues would otherwise be burnt as waste without energy 
+recovery. Also favour use of industrial residues at levels 
+that do not compete with current levels of consumption of 
+such feedstocks for material uses (e.g. wood-based 
+panels). 
+See above, industrial residues generated in the wood 
+processing sector are explicitly excluded from the definition 
+of forestry residues (Article 2) 
+No explicit requirement to avoid feedstock competition with 
+other products 
+There is a possibility that some feedstock could be derived 
+from unsustainable forestry activities 
+Biomass carbon impacts 
+ 
+47    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 6.1 Tentative criteria for forest management and wood utilization aimed at bioenergy supply with low risks of 
+increased GHG emissions compared to fossil fuels: Part (b) – Wood supply and feedstocks (continued) 
+Criterion (feedstock) 
+Practice 
+Representation under proposed REDII 
+Forest residues: 
+Conditional criterion 
+Strongly favour supplies of bioenergy from fast-decaying 
+forest residues (i.e. apart from stumps including roots or 
+other large residues) provided this avoids levels of 
+extraction of forest residues that lead to high risks of 
+degradation of site/soil quality (e.g. carbon stocks, nutrient 
+status, water balance). 
+No specific provisions in the REDII 
+Possible impacts on forest carbon stocks not explicitly 
+covered as no land-use change takes place, see Sections 
+6.2.1 and 6.2.2 
+Salvage logging: 
+Conditional criterion 
+Favour supplies of wood biomass from salvage logging 
+where a simply calculated but robust estimate of GHG 
+emissions meets a defined minimum threshold. 
+The use of specific forest biomass feedstocks is neither 
+encouraged nor discouraged in the sustainability criteria 
+Possible impacts on forest carbon stocks not explicitly 
+covered as no land-use change takes place, see Sections 
+6.2.1 and 6.2.2 
+Whole tree stems: 
+Conditional criterion 
+Restrict supplies of forest bioenergy from whole tree stems 
+to small/early thinnings, with the aim of improving the 
+quality of the remaining growing stock. Favour situations in 
+which, otherwise, there would be limited incentives to thin 
+and improve forest stands. 
+Alternatively, favour supplies of wood biomass from 
+small/early thinnings where a simply calculated but robust 
+estimate of GHG emissions meets a defined minimum 
+threshold. 
+No specific provisions in REDII. 
+Possible impacts on forest carbon stocks as a result of 
+increased thinning not explicitly covered as no land-use 
+change takes place, see Sections 6.2.1 and 6.2.2 
+ 
+ 
+ 
+Biomass carbon impacts 
+ 
+48    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Table 6.1 Tentative criteria for forest management and wood utilization aimed at bioenergy supply with low risks of 
+increased GHG emissions compared to fossil fuels: Part (b) – Wood supply and feedstocks (continued) 
+Criterion (feedstock) 
+Practice 
+Representation under proposed REDII 
+Small roundwood: 
+Conditional criterion 
+Favour supplies of forest bioenergy from small roundwood 
+at levels that do not compete with current levels of 
+consumption of such feedstocks for material uses. 
+Particularly favour such sources where the small 
+roundwood would otherwise be burnt without energy 
+recovery or sent to landfill. 
+No specific provisions in REDII. 
+No explicit requirement to avoid feedstock competition with 
+other products 
+Where harvesting (thinning or felling) is increased, possible 
+impacts on forest carbon stocks not explicitly covered as 
+no land-use change takes place, see Sections 6.2.1 and 
+6.2.2  
+Sawn timber, especially 
+suitable for construction 
+uses: Conditional 
+criterion 
+Strongly disfavour supplies of forest bioenergy from wood 
+feedstocks suitable for use for sawn timber products. 
+No specific provisions in REDII. 
+Co-production: 
+Conditional criterion 
+Strongly favour the supply of forest bioenergy as a by-
+product of wood harvesting for the supply of long-lived 
+material wood products. However, it is very important to 
+ensure that flanking measures are in place to ensure that 
+other feedstock criteria above are met and to encourage 
+the disposal of material wood products at end of life with 
+energy recovery and/or in a way that ensures low GHG 
+emissions. 
+No specific provisions in REDII. Where harvesting (thinning 
+or felling) is increased, possible impacts on forest carbon 
+stocks not explicitly covered as no land-use change takes 
+place, see Sections 6.2.1 and 6.2.2 
+ 
+Biomass carbon impacts 
+ 
+49    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+6.2. Biomass in the RED and proposed REDII 
+The EU Renewable Energy Directive (RED) is the principal current regulation addressing 
+bioenergy consumption in the EU of relevance to this discussion.  The stated aim of the 
+RED is to establish “a common framework for the promotion of energy from renewable 
+sources”. It sets mandatory national targets for the overall share of energy from 
+renewable sources in gross final consumption of energy and for the share of energy from 
+renewable sources in transport. It lays down rules relating to statistical transfers 
+between Member States, joint projects between Member States and with third countries, 
+guarantees of origin, administrative procedures, information and training, and access to 
+the electricity grid for energy from renewable sources. It establishes sustainability 
+criteria for biofuels and bioliquids”.  It follows that the RED specifically aims to address 
+the sustainability of consumption of “biofuels” (defined as “liquid or gaseous fuel for 
+transport produced from biomass”) and “bioliquids” (defined as “liquid fuel for energy 
+purposes other than for transport, including electricity and heating and cooling, produced 
+from biomass”).  This includes setting minimum levels for life-cycle GHG savings (for 
+processing and transport emissions but excluding ILUC and impacts on vegetation and 
+soil carbon stocks and forgone carbon sequestration) to be achieved by biofuels and 
+bioliquids and a methodology for their calculation.  The sustainability of the utilization of 
+solid biomass for heating, cooling and electricity is not within the scope of the current 
+RED. 
+A set of proposals has been drafted to update the RED, and these are referred to as 
+REDII.  In REDII, Article 26 proposes sustainability and GHG emissions saving criteria for 
+biofuels, bioliquids and also “biomass fuels”, the latter defined as “gaseous and solid 
+fuels produced from biomass”.  This would include setting GHG emissions savings (for 
+processing and transport emissions but excluding methane emissions from stored 
+biomass fuels, ILUC and impacts on vegetation and soil carbon stocks and forgone 
+carbon sequestration) to be achieved through the use of solid biomass fuels for heating, 
+cooling and electricity generation.  Agricultural and forest biomass sources are explicitly 
+included in the REDII proposals.  However there is an exemption for all small and 
+medium-sized plant: “Biomass fuels shall have to fulfil the sustainability and greenhouse 
+gas emissions saving criteria […] only if used in installations producing electricity, 
+heating and cooling or fuels with a fuel capacity equal to or exceeding 20 MW in case of 
+solid biomass fuels and with an electrical capacity equal to or exceeding 0.5 MW in case 
+of gaseous biomass fuels”, however “Member States may apply the sustainability and 
+greenhouse gas emission saving criteria to installations with lower fuel capacity”. 
+In order for energy from biomass sources to contribute to EU or member state 
+renewable energy targets, compliance with renewable energy obligations or to be eligible 
+for financial support, they would need to meet certain sustainability and GHG emissions 
+criteria (for processing and transport emissions but excluding methane emissions from 
+stored biomass fuels, ILUC and impacts on vegetation and soil carbon stocks and 
+Biomass carbon impacts 
+ 
+50    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+forgone carbon sequestration) and to comply with certain land use carbon accounting 
+criteria.  In the case of wastes and residues, other than agricultural or forestry residues, 
+they would need only to meet the specified GHG emissions requirements. 
+6.2.1. REDII proposal and calculation of GHG impacts 
+Article 28 sets out how the GHG impact of biofuels, bioliquids and biomass fuels would 
+be assessed, with the details given in Annex V (for biofuels and bioliquids) and Annex VI 
+for biomass fuels.  Article 28 specifies how actors would calculate GHG impact, either: 
+• Using default values, as provided in Annex VI Part A for biomass fuels; or 
+• By calculating explicitly, using the methodology set out for biomass fuels in Annex VI 
+Part B. 
+The calculation in Annex VI Part B is essentially the same as specified in Annex V of the 
+proposed REDII and in the existing RED for biofuels and bioliquids.  The ultimate result 
+of the calculation is the total GHG emissions attributed to a biomass fuel source, which is 
+made up of a number of contributions.  One of these contributions is defined as “the 
+annualized emissions from carbon stock changes caused by land-use change”.  If the 
+calculated value of this contribution is zero or negative (which would imply no carbon 
+stock change or a net carbon stock increase caused by land-use change), then it would 
+be permitted to use the default values for estimating the total GHG emissions.  The 
+default values have been calculated based on an assumption of a zero value for the 
+contribution arising from carbon stock changes. 
+By implication, the calculation of a non-zero value for carbon stock changes is only 
+required in cases where biomass production involves land-use change.  However, no 
+definition is given for land-use change and it is not always clear under what 
+circumstances land-use change would be considered to have taken place. 
+In circumstances where it is necessary to calculate a value for carbon stock changes, the 
+methodology specified in the RED and proposed REDII involves a number of significant 
+simplifications.  Specifically: 
+• The calculation of carbon stock changes is deliberately simplified (involving assumed 
+default values for initial and final carbon stocks) and is constrained to considering 
+stock changes occurring over a maximum of 20 years 
+• The carbon stock changes are annualized over a standard 20 year period 
+• Where biomass produced for energy purposes is co-produced with biomass utilized for 
+other purposes (e.g. sawn timber, wood based panels and/or paper), the annualized 
+carbon stock change is allocated to the co-products on the basis of their biomass 
+energy content 
+Biomass carbon impacts 
+ 
+51    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• The result of the above calculation steps for bioenergy sources may be adjusted by a 
+“bonus” value, in situations where the biomass production is achieved by restoring 
+“degraded land” according to certain conditions. 
+It should be apparent that the calculation methodology proposed in REDII is not directly 
+comparable with that of this study, or with other CLCA studies.  The methodology 
+proposed in REDII uses a hybrid of attributional and consequential LCA approaches.  This 
+is particularly pertinent when considering how the proposed REDII methodology refers to 
+counterfactuals and/or allocates GHG emissions between co-products.  Reference to 
+counterfactuals for products is only made for the fossil energy comparator to the 
+bioenergy source(s).  For other co-products, allocation is based on energy content.  This 
+methodology is fundamentally different to CLCA and will necessarily yield different 
+results10. 
+6.2.2. Implications of proposed calculation methodology 
+There are two potentially very significant implications of the methodology proposed for 
+REDII as discussed in Section 6.1.1, for calculating the contribution of carbon stock 
+changes towards GHG impacts of bioenergy sources: 
+1 Significant changes in land management may have taken place as part of the 
+production of bioenergy, but it is possible there will be no deemed change in land use.  
+Consequently the change in carbon stock is assumed to be zero, leading to no 
+contribution from carbon stock changes to calculated GHG emissions; 
+2 Where land-use change is deemed to have taken place, and a calculation of carbon 
+stock change is required, the methodology is simplified and consequently, frequently 
+the result for an individual biomass fuel will differ from that derived from a CLCA. 
+It follows that it cannot be guaranteed that the calculation methodology proposed for 
+REDII will always give results for GHG impacts of bioenergy sources that are consistent 
+with an evaluation for policy purposes based on CLCA.  Indeed, it should be clear from 
+the preceding two points that there will be many cases where the proposed REDII 
+methodology will give a very different result to that obtained from CLCA.  For instance: 
+                                       
+10 The text of the REDII proposal (and also the original RED text) includes the statement, “Co-
+products from the production and use of fuels should be taken into account in the calculation of 
+greenhouse gas emissions. The substitution method [i.e. reference to counterfactual products] is 
+appropriate for the purposes of policy analysis, but not for the regulation of individual economic 
+operators and individual consignments of transport fuels. In those cases the energy allocation 
+method is the most appropriate method, as it is easy to apply, is predictable over time, minimizes 
+counter-productive incentives and produces results that are generally comparable with those 
+produced by the substitution method…”.  (Text in square brackets added for clarification.)  
+However, no basis is given for these claims.  In the experience of the Bioimpact project team, the 
+“energy allocation method” and the “substitution method” can, and frequently do, give 
+significantly different results for the GHG emissions impacts of bioenergy sources in conjunction 
+with other co-products. 
+Biomass carbon impacts 
+ 
+52    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• Most obviously (due to point 1) bioenergy sources produced through the 
+intensification of harvesting or extraction of biomass from agricultural or forest land, 
+but with no change of land use considered to have taken place, will be estimated to 
+have no GHG impacts arising from carbon stock changes associated with them.  
+Hence, in many cases, the full GHG impacts of these bioenergy sources will not be 
+counted. 
+• More generally, because of the simplification of calculations (point 2), the GHG 
+savings achieved by bioenergy sources produced with associated carbon stock 
+changes (losses or sequestration), and/or involving changes in the supply of non-
+energy co-products may be overestimated or underestimated, depending on the 
+details of the management of agricultural or forest land and how the harvested 
+biomass is being utilized. 
+If policy is developed using analysis based on one calculation methodology, and 
+regulation is implemented using verification based on a different calculation 
+methodology, then the regulation is unlikely to deliver the policy as intended. 
+This issue could be addressed by amending the regulatory calculation methodology to 
+ensure better consistency with the intended policy outcomes.  However, the need for 
+practicality in regulatory mechanisms must also be acknowledged, a point stressed in 
+the text of the RED and proposed REDII.  To an extent, it may be possible to ameliorate 
+significant inconsistencies in a regulatory methodology and desired outcomes by 
+specifying further sustainability criteria, as proposed in Figure 6.1 and Table 6.1. 
+6.2.3. Other sustainability criteria in the proposed REDII 
+Post-consumer waste biomass 
+Post-consumer waste biomass (including post-consumer waste wood) is covered in the 
+REDII proposals, implicitly through a provision in Article 26 which requires such sources 
+only to meet criteria set for GHG emissions savings (as opposed to any other 
+sustainability criteria, see below).  However, for reasons explained near the start of 
+Section 6.2, the GHG emissions saving criteria only apply to power, heating and cooling 
+installations with a (solid) biomass fuel capacity of 20 MW or more.  Where the 20 MW 
+scale threshold is exceeded, demonstration of minimum GHG emissions reductions 
+relative to a fossil fuel counterfactual (for heat, electricity or transport fuel) is required, 
+and this increases over time.  For electricity, heat and cooling it increases from 80% to 
+85% between 2021 and 2026 (based on the REDII calculation methodology – see 
+above). 
+Agricultural biomass 
+Agricultural biomass is covered in the REDII proposals and there are a number of 
+measures proposed in Article 26 to attempt to ensure sustainability and GHG emissions 
+Biomass carbon impacts 
+ 
+53    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+savings from its use. However, these only apply to power, heating and cooling 
+installations with a (solid) biomass fuel capacity of 20 MW or more. 
+Where the 20 MW scale threshold is exceeded, demonstration of minimum GHG 
+emissions reductions is required, similarly to post-consumer waste biomass. 
+In addition, land that had high biodiversity value on or after January 2008, including 
+primary forest and highly biodiverse grassland, is precluded from the production of 
+agricultural biomass fuels, as is land with high carbon stocks, including wetlands and 
+forested areas and peatland. 
+There are also provisions to address crop based biofuels, by which the Commission has 
+proposed a cap on the contribution of first-generation biofuels at 2017 levels, with a 
+maximum contribution to the EU energy target of 7% in road and rail transport in 2020, 
+reducing to 3.8% in 2030. 
+Forest biomass 
+Sustainability of biomass fuels produced from forests are also addressed in the REDII 
+proposals, however again exemption for plants smaller than 20 MW (fuel capacity) 
+applies to solid biomass fuels consumed for power generation, heating or cooling. 
+Various requirements for the land from which forest biomass is sourced, are proposed: 
+• Harvesting is legal and covered by a permit (precise details of implementation will 
+vary depending on national regulatory frameworks) 
+• Forest regeneration of harvested areas takes place 
+• Areas of high conservation value, including wetlands and peatlands, are protected 
+• Impacts of forest harvesting on soil quality and biodiversity are minimized 
+• Harvesting does not exceed the long-term production capacity of the forest. 
+It is also required that the country in which the forest biomass is produced meets a 
+number of commitments to manage and monitor GHG emissions and removals in the 
+Land Use, Land-Use Change and Forestry (LULUCF) Sector, specifically: 
+• The country is a Party to, and has ratified, the Paris Agreement 
+• It has submitted a Nationally Determined Contribution (NDC) to the United Nations 
+Framework Convention on Climate Change (UNFCCC), covering emissions and 
+removals from agriculture, forestry and land use which ensures that either changes in 
+carbon stock associated with biomass harvest are accounted towards the country's 
+commitment to reduce or limit greenhouse gas emissions as specified in the NDC, or 
+there are national or sub-national laws in place, in accordance with Article 5 of the 
+Paris Agreement, applicable in the area of harvest, to conserve and enhance carbon 
+stocks and sinks 
+Biomass carbon impacts 
+ 
+54    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+• It has a national system in place for reporting greenhouse gas emissions and 
+removals from land use including forestry and agriculture, which is in accordance with 
+the requirements set out in decisions adopted under the UNFCCC and the Paris 
+agreement 
+• Or, in cases where the above criteria are not fulfilled, that “management systems are 
+in place at forest holding level to ensure that carbon stocks and sinks levels in the 
+forest are maintained”. 
+The role of national and international action on, and monitoring of, GHG emissions and 
+carbon sequestration is an important topic and is discussed in Section 6.3. 
+6.2.4. Assessment of criteria in proposed REDII 
+Agricultural biomass 
+A lot of the discussion in Sections 6.2.1 to 6.2.3 is concerned with forest bioenergy 
+sources. However, as noted in Section 6.2.2, a key concern for biomass produced 
+through use or intensification of the management of agricultural land is the likelihood 
+that, in cases where no land-use change will be involved, no account is taken under EU 
+legislation of issues such as ILUC, impacts on vegetation or soil carbon stocks or forgone 
+carbon sequestration. There are also concerns relating to soil fertility aspects (e.g. 
+removal of straw from cropland as opposed to its incorporation into the soil). If such 
+cases are not deemed to involve land-use change then the likelihood is that the GHG 
+savings achieved by these bioenergy sources will be overestimated. 
+Forest biomass 
+As mentioned in Section 6.1, the final column of Table 6.1 (Section 6.1) presents a 
+comparison of the various provisions of the REDII proposal with the criteria derived from 
+this project.  There is also a qualitative assessment in Table 6.1 of the extent to which 
+the features of the proposed REDII would support the desired outcomes suggested by 
+this project (or discourage the undesirable outcomes). In addition to giving cross 
+reference to relevant draft articles of the proposed REDII, the entries in the final column 
+of Table 6.1 are also colour-coded to indicate where provisions of the proposed REDII 
+strongly support, weakly support or do not support the outcomes indicated for each 
+criterion suggested by the findings of this project (see key in Table 6.2). 
+Table 6.2 Key to colour codes of qualitative assessment in Table 6.1 
+Colour code 
+Support for criterion 
+ 
+Strongly supports outcome indicated for criterion 
+ 
+Weakly supports outcome indicated for criterion 
+ 
+Does not support outcome indicated for criterion 
+ 
+Biomass carbon impacts 
+ 
+55    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+For the criteria in Table 6.1 addressing aspects of forest management: 
+• The worst practices (unsustainable harvesting, deforestation) are regulated against 
+• Forest management practices that could lead to significant GHG emissions savings are 
+weakly supported or not supported 
+• Forest management practices that could involve variable risks with regard to GHG 
+emissions are not addressed. 
+Most importantly, (although with a few exceptions), the criteria in Table 6.1 addressing 
+aspects of the use of specific wood feedstocks are not addressed in the proposed REDII. 
+6.3. Relevance to bioenergy regulation of national and 
+international action on LULUCF  
+As noted in the discussion of forest biomass in Section 6.2.3, the proposed REDII 
+includes a sustainability criterion that a country supplying forest biomass for use as 
+energy in the EU needs to meet a number of commitments to manage and monitor GHG 
+emissions and CO2 sequestration in the LULUCF sector. These include the supplying 
+country or forest holding area having a system in place for managing forest carbon 
+stocks and sequestration and/or reporting GHG emissions and CO2 sequestration from 
+land use including forestry and agriculture.  
+Two potential issues arise if the purpose of this provision in the sustainability criteria is 
+to ensure the safeguarding of land-based carbon stocks, where land management is 
+evolved to supply more biomass for use as energy. 
+First of all, the purpose of accounting for GHG emissions and CO2 sequestration 
+associated with the LULUCF sector is to ensure that countries participating in 
+international agreements on climate action (such as the UNFCCC and the Paris 
+agreement) account fully and transparently for emissions and/or sequestration in that 
+sector, including any contribution from land management towards meeting national 
+commitments to net GHG emissions reductions. The accounting system is intended to 
+give incentives to these countries to pursue the management of land-based carbon 
+stocks and sequestration in such a way as to avoid increasing net emissions and/or to 
+enhance CO2 sequestration. It follows that LULUCF accounting in this context operates at 
+the scale of nations: it does not provide a framework of incentives for individual actors 
+(e.g. the actual producers and consumers of biomass for use as energy or for other 
+applications). Effectively, countries or groups of countries have to create a separate 
+complementary framework to encourage individual actors to make the right choices 
+when producing and consuming biomass, to ensure that biomass utilisation generally 
+leads to net savings in GHG emissions, rather than increases. However, in the context of 
+the EU, the relevant frameworks are the existing RED and proposed REDII and the 
+potential issues with these have already been discussed above. At most, relying on 
+Biomass carbon impacts 
+ 
+56    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+LULUCF accounting would ensure the impacts of biomass use on GHG emissions were 
+registered (either by the country producing the biomass or by the consuming country); it 
+would not explicitly support actions towards the desired outcome of GHG emissions 
+savings. 
+The second potential issue concerns the specific approaches taken to accounting, i.e. the 
+methods used to calculate accounted emissions increases or reductions associated with 
+impacts of land management on land-based carbon stocks and sequestration. This 
+subject could warrant an entire report in its own right but the essential points are 
+outlined below. 
+Essentially the approach taken to accounting for emissions and CO2 sequestration 
+associated with the vegetation and soils of cropland and grassland is consistent with the 
+approach used when accounting for burning fossil fuels. Taking the example of cropland 
+in an individual country, the accounting approach involves the following steps: 
+• Calculate the total annual net emissions and sequestration associated with cropland in 
+a historical base year or base period, say for a base year of 1990 or 2005 (call this the 
+“base-year result”) 
+• Calculate the total annual net emissions and sequestration associated with cropland 
+on average during an accounting period, say 2013 to 2020 or 2021 to 2025 (call this 
+the “accounting-period result”) 
+• The accounted GHG emissions or sequestration are calculated as the difference 
+between the accounting-period result and the base-year result. 
+In principle, this accounting approach for cropland and grassland should work, provided 
+that: 
+• Changes over time in emissions and sequestration associated with cropland and 
+grassland occur mainly as a result of the management of these lands (rather than for 
+unrelated reasons, such as natural processes of carbon accumulation in soil) 
+• Systems for calculating and reporting emissions and removals associated with 
+cropland and grassland are capable of registering the effects of the management of 
+these lands. For example, if the removal of straw from cropland leads to net losses of 
+carbon from the soil or a reduction in sequestration, the methods for calculating and 
+reporting emissions and removals need to be sophisticated enough to enable these 
+losses to be reflected in the reported results. 
+In practice, systems for calculating the emissions and removals of cropland and 
+grassland can only fully reflect the effects of management if suitably advanced models of 
+land management and land-based carbon dynamics are applied, or if comprehensive 
+direct monitoring of cropland and grassland is carried out. National-scale monitoring 
+systems are also needed to track how the management of land may be changing over 
+Biomass carbon impacts 
+ 
+57    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+time, for example as part of activities to increase production of biomass for use as 
+energy. Currently, many countries do not have sufficiently developed monitoring and/or 
+modelling systems to meet these requirements. 
+6.3.1. Forest biomass 
+A special approach is taken to accounting for emissions and CO2 sequestration 
+associated with forest land. The reason for this is the high likelihood of needing to 
+separate out the influence of natural processes (e.g. age-related trends in tree growth) 
+from the effects of management on net emissions and removals. In its purest form, the 
+accounting approach involves the following steps: 
+• Where non-forest land has been actively converted to forest land or where 
+deforestation has occurred in the recent past (e.g. within 20 years), a country needs 
+to report the total annual emissions or sequestration associated with the land during 
+the accounting period (say 2021 to 2025) 
+• For all other forest land, make a projection of the total annual net emissions or 
+sequestration associated with the forest land during a future accounting period, say 
+2012 to 2025 (call this the “reference result”) 
+• When constructing the above projection, assume that the ways in which forests are 
+managed from the current time up until the end of the accounting period are not 
+changed, when compared with recent historical patterns of forest management (e.g. 
+levels of thinning in forests and rotations applied to forest stands) 
+• During the actual accounting period, calculate the total annual net emissions and 
+sequestration associated with the forest land (call this the “accounting-period result”) 
+• The accounted GHG emissions or sequestration are calculated as the difference 
+between the accounting-period result and the reference result. 
+The assumption is made that the accounting-period result and the reference result 
+should be the same or very similar, in the case when actual forest management has not 
+changed or evolved from the current time up to and during the accounting period. 
+Hence, if historical forest management practices in a country are continued during the 
+accounting period, then the country does not need to declare a net debit (emission), 
+neither can the country claim a net credit (sequestration) as a result of the management 
+of existing forest land. 
+If activities occur in the country aimed at improving forest carbon stocks and 
+sequestration, then the country should be able to claim a net credit (sequestration), 
+equal to the difference between the accounting-period result and the reference result. 
+If activities occur in the country that lead to reductions in forest carbon stocks and rates 
+of sequestration, then the country may need to declare a net debit (emission), equal to 
+the difference between the accounting-period result and the reference result. 
+Biomass carbon impacts 
+ 
+58    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+The above description captures the essential approach to accounting for emissions and 
+removals associated with forest land. However, typically, the detailed accounting 
+approaches for forest land agreed amongst countries as part of international climate 
+action are more complicated than outlined above. 
+The accounting approach for forest land as outlined above is complex but in principle it 
+should support efforts by countries to maintain or strengthen forest carbon stocks and 
+sequestration, or to account for impacts on carbon stocks and sequestration as a result 
+of changes in forest management, for example as a result of a significantly increased 
+requirement for forest biomass utilized for energy. However, the practical issues raised 
+with regard to accounting methods for agricultural land also apply here. 
+The accounting approach also relies heavily on an objective method for constructing the 
+projection of emissions and removals from forest land forming the basis of the reference 
+result. The method requires a clear understanding of what is involved in “existing” forest 
+management practices within a country, and how these should be allowed for when 
+making the projection. The EC Joint Research Centre has produced some preliminary 
+guidance on this subject but it is not yet clear that a general consensus has been 
+reached on the approach to be taken. This is important because, if countries take a wide 
+interpretation of the approach to the estimation of the reference result, then there could 
+be risks that significant net emissions arising from forest management (including for 
+example from harvesting wood for bioenergy) may not be accounted for. It is particularly 
+important that the future effects of relatively recent and potential future policies are not 
+allowed for when defining the representation of forest management practices. For 
+example, suppose that a country developed a policy to greatly increase the level of wood 
+production from its forests, which would require associated changes to forest 
+management. If the country were to claim that the consequent evolution of forest 
+management was part of “current” practice, and then allow for this when calculating the 
+reference result, the consequent impacts of the policy on emissions and removals 
+associated with forest land would not be accounted for. It follows that it is particularly 
+important for this accounting approach for forest land to be clearly defined, generally 
+understood by countries and stakeholders, and for its application to be based on 
+transparent data and assumptions about forest management. 
+7. Discussion 
+Inevitably, there are limits to the analysis, assessment and interpretation of the results 
+of any particular study, to arrive at specific conclusions, depending on the question(s) 
+asked.  The analysis and assessment presented in this summary report and the original 
+final project report, and the conclusions arrived at, most likely represent the full extent 
+of the inferences that may be drawn from this project about the GHG emissions impacts 
+associated with bioenergy use. 
+Biomass carbon impacts 
+ 
+59    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+If a cautious position were to be taken, the project findings lead to the following 
+tentative conclusion: 
+Unless appropriate policy measures are taken to support sustainable bioenergy supply 
+(in terms of impacts on GHG emissions), particularly in the case of forest bioenergy 
+supply, a significant increase in bioenergy use in the EU is likely to lead to a net 
+increase, rather than decrease, in GHG emissions being contributed from bioenergy 
+sources. 
+Whilst such a conclusion is reasonable based on the project findings, it should be 
+clarified that, strictly, the results should not be interpreted to imply that the increased 
+use of bioenergy in the EU must inevitably involve increased GHG emissions. Rather, the 
+results strongly indicate that there are significant risks of increases in GHG emissions 
+associated with greater bioenergy use, in particular forest bioenergy use, unless there 
+are appropriate checks and balances on the supply and consumption of bioenergy 
+sources with regard to associated GHG emissions.  Hence, the corollary of this conclusion 
+is that: 
+If specific measures are taken to ensure only sustainable bioenergy (in terms of impacts 
+on GHG emissions) is incentivized, a net decrease, rather than increase, in GHG 
+emissions is likely to be associated with bioenergy sources. 
+The view might be taken that whether one places emphasis on the tentative conclusion 
+for bioenergy use or its corollary is analogous to asking whether a glass is half empty or 
+half full, implying that this matter almost comes down to individual viewpoints.  
+However, this view would be entirely incorrect, because the assessments in this project, 
+including this summary, have indicated the outcomes that are likely to occur, in the 
+absence or presence of suitable measures to ensure the supply of bioenergy (particularly 
+forest bioenergy) with low associated GHG emissions.  This suggests the need to address 
+sustainability in the supply of bioenergy resources, as discussed in Section 6 of this 
+report. 
+The validity of the conclusions reached about implications for regulation of bioenergy use 
+and the assessment of the proposed REDII presented in Section 6 hinges on whether the 
+findings of the Task 1 report and the final report for this project are sufficiently 
+comprehensive and reliable.  It must be acknowledged that, although a considerable 
+body of research now exists on the GHG impacts of bioenergy sources, there are still 
+some gaps in knowledge and areas where understanding still needs to be clarified. 
+However, it is suggested that there is now enough scientific evidence to draw some 
+conclusions on the management of risks with regard to the use of bioenergy sources and 
+consequent impacts on GHG emissions.  The authors of this report offer the general 
+criteria set out in Section 6.1, and specifically for forest bioenergy sources in Table 6.1, 
+as their best attempt to interpret current evidence and understanding. 
+Biomass carbon impacts 
+ 
+60    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+Every effort has been made to keep the approach outlined in Section 6.1 as simple as 
+possible. The approach may be viewed as complicated and problematic to implement in 
+practice, for a number of reasons: 
+• It may prove to be very challenging for the final consumers of biomass sources to 
+know and demonstrate clear connections to particular management activities on 
+agricultural or forest land.  This would be important for providing assurance that the 
+production of certain bioenergy sources will deliver genuine emissions reductions 
+compared to fossil fuels. However, for forest bioenergy sources, this is addressed to 
+an extent in Table 6.1 (Section 6.1) by structuring the criteria and making some of 
+them optional.  It should be recalled that the designs of the decision tree and table of 
+criteria presented in Section 6.1 are provisional.  The criteria included in Table 6.1 do 
+not necessarily represent a comprehensive or definitive list and there may be scope 
+for further refinement. 
+• There appear to be difficulties in regulating forest bioenergy sources purely on the 
+basis of wood feedstock types (which the structuring of the criteria in Table 6.1 
+attempts to address).  It has proved difficult to arrive at widely understood definitions 
+for certain feedstocks. Such definitions have been provided in Box 1 in Section 4.2.2, 
+but some of these may still be regarded as ambiguous (e.g. “sawlog” and, through 
+reference to this definition, “small roundwood”). 
+• Some of the proposed criteria still require a calculation methodology for GHG 
+emissions impacts (and savings) associated with the use of different types of 
+bioenergy but this has not been defined here.  Section 6.1 discusses the possibility of 
+requiring full GHG emissions assessments for bioenergy sources but this may place a 
+very heavy burden on consumers/operators or prove impractical.  Hence, it is likely 
+that a simplified approach is still needed, for example involving the exclusion of high 
+risk feedstocks, whilst supporting the desired policy outcomes identified by CLCA of 
+policy options, such as undertaken in this project.  
+• Ideally, the findings of the quantitative assessment presented in the final project 
+report and in this summary could be used to design and construct a refined or 
+optimized scenario for biomass consumption from different sources, by determining 
+building blocks based on picking the best aspects and avoiding the worst aspects of 
+the scenarios modelled in this project. In addition, further CLCA could be undertaken 
+at a more detailed scale to clarify further the variations in GHG impacts with respect 
+to specific forest management practices, types of biomass feedstock and biomass 
+energy value chains. 
+Undoubtedly, the developers of the original RED and the proposed REDII were very 
+aware of issues and pitfalls such as those listed above, and particularly of the need for 
+any proposal to be simple enough to be practical to implement.  The question, as 
+regards the REDII, is whether some balance can be found between the need for 
+simplicity and practicality in regulation on the one hand, as addressed in the existing 
+Biomass carbon impacts 
+ 
+61    |    ECF biomass carbon impacts    |    Matthews et al.    |    May 2018 
+proposal for REDII, and the need for robustness (in terms of delivering GHG emissions 
+reductions) on the other hand, as covered in the discussion in Section 6.1 of this report.
+Biomass carbon impacts 
+ 
+ 
+ 
+ 
+Biomass carbon impacts 
+ 
+ 
+ 
+ 
+ 

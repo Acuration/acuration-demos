@@ -1,0 +1,1073 @@
+ 
+ 
+On behalf of Millbrook Power Ltd 
+ 
+ 
+Project Ref: 40334 | Rev: 1.0 | Date: May 2017 
+ 
+ 
+Office Address: 16 Brewhouse Yard, Clerkenwell, London EC1V 4LJ 
+T: +44 (0)207 566 8600   E: london@peterbrett.com 
+Millbrook Power Project 
+Preliminary Environmental Information Report (2017) – Appendices  
+Volume D 
+Air Quality 
+ 
+ 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Contents – Volume D – Air Quality Cumulative Modelling 
+6.1 – Air Quality Cumulative Modelling 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Air Quality 
+6.1 – Cumulative Dispersion Modelling Inputs 
+Emissions Data 
+The emissions data for the Covanta plant are shown in Table A.1. 
+Table A.1: Emissions Data for the Covanta RRF 
+Parameter 
+Value Per Generator 
+Type 
+EFW 
+Number of stacks (3 flues) 
+1 
+Discharge Location 
+501247, 241049 
+Discharge Height (m) 
+105 
+Equivalent Total Flue Diameter (mm) 
+3,118 
+Discharge temperature (oC) 
+137 
+Total Flow rate (m3/s) 
+144.9 
+Total Flow rate (Nm3/s, dry, reference O2) 
+117.3 
+Exit velocity (m/s) 
+18.9 
+NOx concentration (mg/Nm3) 
+200 
+Total NOx emission rate (g/s) 
+23.5 
+CO Concentration (mg/Nm3) 
+25 
+Total CO emission rate (g/s) 
+2.9 
+ 
+Table A.2: Covanta RRF Buildings Dimensions 
+Covanta 
+ 
+Height 
+Length 
+Width 
+G2 boiler house 
+38 
+34 
+33 
+G2 refuse hall 
+36 
+38 
+10 
+ 
+The Covanta buildings were included in the model of the cumulative impacts.   
+ 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+6.2 – Cumulative Impacts 
+Table A.3: Short-term Results of Stack Modelling for Human Health Sensitive 
+Receptors, with Covanta 
+ID 
+Nitrogen Dioxide (NO2) 
+Carbon Monoxide (CO) 
+Hourly mean PC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+Running 8 hour 
+mean PC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+R1 
+5.7 
+2.8 
+19.7 
+0.2 
+R2 
+5.6 
+2.8 
+23.7 
+0.2 
+R3 
+5.3 
+2.6 
+16.3 
+0.2 
+R4 
+5.5 
+2.7 
+23.1 
+0.2 
+R5 
+2.8 
+1.4 
+5.2 
+0.1 
+R6 
+3.9 
+1.9 
+7.5 
+0.1 
+R7 
+4.4 
+2.2 
+9.5 
+0.1 
+R8 
+4.6 
+2.3 
+10.9 
+0.1 
+R9 
+4.0 
+2.0 
+9.0 
+0.1 
+R10 
+3.6 
+1.8 
+10.0 
+0.1 
+R11 
+3.5 
+1.8 
+8.6 
+0.1 
+R12 
+3.6 
+1.8 
+7.4 
+0.1 
+R13 
+3.6 
+1.8 
+5.2 
+0.1 
+R14 
+4.8 
+2.4 
+6.1 
+0.1 
+R15 
+2.6 
+1.3 
+16.8 
+0.2 
+R16 
+4.8 
+2.4 
+6.3 
+0.1 
+R17 
+4.3 
+2.1 
+5.3 
+0.1 
+R18 
+3.2 
+1.6 
+4.7 
+0.0 
+R19 
+2.6 
+1.3 
+2.3 
+0.0 
+R20 
+3.6 
+1.8 
+9.8 
+0.1 
+Screening 
+Criteria 
+20 
+10 
+1,000 
+10 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Table A.4: Short-term Results of Stack Modelling for Human Health 
+Sensitive Receptors, with Covanta 
+ID 
+Nitrogen Dioxide (NO2) 
+Carbon Monoxide (CO) 
+PEC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+Running 8 
+hour mean 
+PEC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+R1 
+13.7 
+34.2 
+619.7 
+6.2 
+R2 
+14.0 
+35.0 
+623.7 
+6.2 
+R3 
+14.0 
+35.0 
+616.3 
+6.2 
+R4 
+14.0 
+35.0 
+623.1 
+6.2 
+R5 
+11.3 
+28.3 
+605.2 
+6.1 
+R6 
+11.9 
+29.8 
+607.5 
+6.1 
+R7 
+11.9 
+29.7 
+609.5 
+6.1 
+R8 
+13.0 
+32.5 
+610.9 
+6.1 
+R9 
+11.9 
+29.6 
+609.0 
+6.1 
+R10 
+13.2 
+32.9 
+610.0 
+6.1 
+R11 
+12.8 
+32.1 
+608.6 
+6.1 
+R12 
+12.8 
+32.1 
+607.4 
+6.1 
+R13 
+12.6 
+31.6 
+605.2 
+6.1 
+R14 
+11.7 
+29.3 
+606.1 
+6.1 
+R15 
+11.7 
+29.3 
+616.8 
+6.2 
+R16 
+14.0 
+35.1 
+606.3 
+6.1 
+R17 
+14.0 
+35.1 
+605.3 
+6.1 
+R18 
+12.9 
+32.3 
+604.7 
+6.0 
+R19 
+12.4 
+30.9 
+602.3 
+6.0 
+R20 
+11.8 
+29.6 
+609.8 
+6.1 
+Environmental 
+Assessment 
+Level 
+200 
+100 
+10,000 
+100 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Table A.5: Long-term Results of Stack Modelling for Human Health 
+Sensitive Receptors, with Covanta 
+ID 
+Nitrogen Dioxide (NO2) 
+Annual mean 
+PC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+Annual mean 
+PEC 
+(µg/m3) 
+Percentage of 
+EAL (%) 
+R1 
+0.19 
+0.5 
+13.7 
+34.2 
+R2 
+0.20 
+0.5 
+14.0 
+35.0 
+R3 
+0.21 
+0.5 
+14.0 
+35.0 
+R4 
+0.20 
+0.5 
+14.0 
+35.0 
+R5 
+0.06 
+0.2 
+11.3 
+28.3 
+R6 
+0.09 
+0.2 
+11.9 
+29.8 
+R7 
+0.09 
+0.2 
+11.9 
+29.7 
+R8 
+0.09 
+0.2 
+13.0 
+32.5 
+R9 
+0.08 
+0.2 
+11.9 
+29.6 
+R10 
+0.05 
+0.1 
+13.2 
+32.9 
+R11 
+0.04 
+0.1 
+12.8 
+32.1 
+R12 
+0.03 
+0.1 
+12.8 
+32.1 
+R13 
+0.02 
+0.1 
+12.6 
+31.6 
+R14 
+0.04 
+0.1 
+11.7 
+29.3 
+R15 
+0.02 
+0.0 
+11.7 
+29.3 
+R16 
+0.03 
+0.1 
+14.0 
+35.1 
+R17 
+0.03 
+0.1 
+14.0 
+35.1 
+R18 
+0.02 
+0.0 
+12.9 
+32.3 
+R19 
+0.02 
+0.1 
+12.4 
+30.9 
+R20 
+0.07 
+0.2 
+11.8 
+29.6 
+Criteria 
+0.4 
+1 
+40 
+100 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Table A.6: Long-term NOx Results of Stack Modelling for Ecological Receptors, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(µg/m3) 
+Critical Level 
+(µg/m3) 
+PC 
+(µg/m3) 
+PC/CL 
+(%) 
+PEC 
+(µg/m3) 
+PEC/CL 
+(%) 
+E1 
+Lowland mixed deciduous 
+woodland 
+15.2 
+30 
+0.08 
+0.26% 
+15.31 
+51.0% 
+Neutral grassland 
+15.2 
+30 
+0.08 
+0.26% 
+15.31 
+51.0% 
+E2 
+Lowland Heathlands 
+20.1 
+30 
+0.03 
+0.10% 
+20.11 
+67.0% 
+E3 
+Broadleaved, mixed and 
+yew woodland 
+16.3 
+30 
+0.18 
+0.60% 
+16.48 
+54.9% 
+E4 
+Calcareous grassland 
+16.3 
+30 
+0.03 
+0.09% 
+16.33 
+54.4% 
+E5 
+Neutral grassland 
+16.4 
+30 
+0.02 
+0.05% 
+16.46 
+54.9% 
+E6 
+Broadleaved, mixed and 
+yew woodland 
+20.1 
+30 
+0.03 
+0.11% 
+20.11 
+67.0% 
+E7 
+Neutral grassland 
+16.1 
+30 
+0.06 
+0.20% 
+16.20 
+54.0% 
+E8 
+Calcareous grassland 
+17.1 
+30 
+0.03 
+0.09% 
+17.15 
+57.2% 
+E9 
+Broadleaved, mixed and 
+yew woodland 
+17.1 
+30 
+0.03 
+0.09% 
+17.15 
+57.2% 
+E10 
+Broadleaved, mixed and 
+yew woodland 
+16.2 
+30 
+0.05 
+0.16% 
+16.23 
+54.1% 
+E11 
+Broadleaved, mixed and 
+yew woodland 
+19.0 
+30 
+0.20 
+0.66% 
+19.21 
+64.0% 
+E12 
+Broadleaved, mixed and 
+yew woodland 
+17.1 
+30 
+0.03 
+0.09% 
+17.15 
+57.2% 
+E13 
+Acid grassland 
+18.5 
+30 
+0.04 
+0.15% 
+18.51 
+61.7% 
+E14 
+Neutral grassland 
+21.2 
+30 
+0.03 
+0.09% 
+21.26 
+70.9% 
+E15 
+Neutral grassland 
+20.0 
+30 
+0.03 
+0.11% 
+20.08 
+66.9% 
+ 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Table A.7: Daily NOx Results of Stack Modelling for Ecological Receptors, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(µg/m3) 
+Critical Level 
+(µg/m3) 
+PC 
+(µg/m3) 
+PC/CL 
+(%) 
+PEC 
+(µg/m3) 
+PEC/CL 
+(%) 
+E1 
+Lowland mixed deciduous 
+woodland 
+15.23 
+75 
+4.9 
+6.6% 
+20.2 
+26.9% 
+Neutral grassland 
+15.23 
+75 
+4.9 
+6.6% 
+20.2 
+26.9% 
+E2 
+Lowland Heathlands 
+20.08 
+75 
+1.9 
+2.5% 
+22.0 
+29.3% 
+E3 
+Broadleaved, mixed and 
+yew woodland 
+16.30 
+75 
+10.4 
+13.8% 
+26.7 
+35.6% 
+E4 
+Calcareous grassland 
+16.30 
+75 
+6.1 
+8.2% 
+22.4 
+29.9% 
+E5 
+Neutral grassland 
+16.44 
+75 
+3.2 
+4.3% 
+19.7 
+26.2% 
+E6 
+Broadleaved, mixed and 
+yew woodland 
+20.08 
+75 
+2.5 
+3.3% 
+22.6 
+30.1% 
+E7 
+Neutral grassland 
+16.14 
+75 
+4.8 
+6.3% 
+20.9 
+27.9% 
+E8 
+Calcareous grassland 
+17.12 
+75 
+2.3 
+3.1% 
+19.4 
+25.9% 
+E9 
+Broadleaved, mixed and 
+yew woodland 
+17.12 
+75 
+2.6 
+3.4% 
+19.7 
+26.2% 
+E10 
+Broadleaved, mixed and 
+yew woodland 
+16.18 
+75 
+4.0 
+5.3% 
+20.2 
+26.9% 
+E11 
+Broadleaved, mixed and 
+yew woodland 
+19.01 
+75 
+7.5 
+10.0% 
+26.5 
+35.3% 
+E12 
+Broadleaved, mixed and 
+yew woodland 
+17.12 
+75 
+2.7 
+3.6% 
+19.8 
+26.4% 
+E13 
+Acid grassland 
+18.47 
+75 
+3.6 
+4.8% 
+22.1 
+29.4% 
+E14 
+Neutral grassland 
+21.23 
+75 
+2.3 
+3.0% 
+23.5 
+31.3% 
+E15 
+Neutral grassland 
+20.05 
+75 
+3.1 
+4.2% 
+23.2 
+30.9% 
+ 
+ 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Table A.8: Results of stack modelling for ecological sensitive receptors: nutrient nitrogen deposition, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(kgN/ha/yr) 
+Critical Load 
+(kgN/ha/yr) 
+PC 
+(kgN/ha/yr) 
+PC/CL 
+(%) 
+PEC 
+(kgN/ha/yr ) 
+PEC/CL 
+(%) 
+Lower 
+Lower 
+Lower 
+E1 
+Broadleaved, mixed and 
+yew woodland 
+29.40 
+15 
+0.016 
+0.10% 
+29.42 
+196.1% 
+Neutral grassland 
+17.20 
+20 
+0.008 
+0.04% 
+17.21 
+86.0% 
+E2 
+Lowland Heathlands 
+17.10 
+10 
+0.003 
+0.03% 
+17.10 
+171.0% 
+E3 
+Broadleaved, mixed and 
+yew woodland 
+29.40 
+10 
+0.036 
+0.36% 
+29.44 
+294.4% 
+E4 
+Calcareous grassland 
+17.22 
+15 
+0.003 
+0.02% 
+17.22 
+114.8% 
+E5 
+Neutral grassland 
+17.22 
+20 
+0.002 
+0.01% 
+17.22 
+86.1% 
+E6 
+Broadleaved, mixed and 
+yew woodland 
+29.12 
+10 
+0.007 
+0.07% 
+29.13 
+291.3% 
+E7 
+Neutral grassland 
+17.22 
+20 
+0.006 
+0.03% 
+17.23 
+86.1% 
+E8 
+Calcareous grassland 
+17.08 
+15 
+0.003 
+0.02% 
+17.08 
+113.9% 
+E9 
+Broadleaved, mixed and 
+yew woodland 
+29.12 
+10 
+0.006 
+0.06% 
+29.13 
+291.3% 
+E10 
+Broadleaved, mixed and 
+yew woodland 
+29.12 
+10 
+0.010 
+0.10% 
+29.13 
+291.3% 
+E11 
+Broadleaved, mixed and 
+yew woodland 
+29.40 
+10 
+0.040 
+0.40% 
+29.44 
+294.4% 
+E12 
+Broadleaved, mixed and 
+yew woodland 
+29.12 
+10 
+0.005 
+0.05% 
+29.13 
+291.3% 
+E13 
+Acid grassland 
+17.08 
+10 
+0.004 
+0.04% 
+17.08 
+170.8% 
+E14 
+Neutral grassland 
+17.08 
+20 
+0.003 
+0.01% 
+17.08 
+85.4% 
+E15 
+Neutral grassland 
+17.50 
+20 
+0.003 
+0.02% 
+17.50 
+87.5% 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+Table A.9: Results of stack modelling for ecological sensitive receptors: acid deposition, with Covanta 
+ID 
+Habitat Type 
+Background 
+Concentration 
+(keqN/ha/yr) 
+Critical Load 
+(keqN/ha/yr) 
+PC 
+(keqN/ha/yr) 
+PC/CL 
+(%) 
+PEC 
+(keqN/ha/yr) 
+PEC/CL 
+(%) 
+E1 
+Broadleaved, mixed and 
+yew woodland 
+2.15 
+1.890 
+0.0011 
+0.06% 
+2.151 
+113.8% 
+Neutral grassland 
+1.25 
+4.928 
+0.0006 
+0.01% 
+1.251 
+25.4% 
+E2 
+Lowland Heathlands 
+1.22 
+1.352 
+0.0002 
+0.02% 
+1.220 
+90.3% 
+E3 
+Broadleaved, mixed and 
+yew woodland 
+2.10 
+1.10 
+0.0026 
+0.24% 
+2.103 
+191.1% 
+E4 
+Calcareous grassland 
+1.23 
+4.74 
+0.0002 
+0.00% 
+1.230 
+26.0% 
+E5 
+Neutral grassland 
+1.23 
+4.74 
+0.0001 
+0.00% 
+1.230 
+26.0% 
+E6 
+Broadleaved, mixed and 
+yew woodland 
+2.08 
+1.10 
+0.0005 
+0.04% 
+2.080 
+189.1% 
+E7 
+Neutral grassland 
+1.23 
+4.74 
+0.0004 
+0.01% 
+1.230 
+26.0% 
+E8 
+Calcareous grassland 
+1.22 
+4.74 
+0.0002 
+0.00% 
+1.220 
+25.7% 
+E9 
+Broadleaved, mixed and 
+yew woodland 
+2.08 
+1.10 
+0.0004 
+0.04% 
+2.080 
+189.1% 
+E10 
+Broadleaved, mixed and 
+yew woodland 
+2.08 
+1.10 
+0.0007 
+0.06% 
+2.081 
+189.2% 
+E11 
+Broadleaved, mixed and 
+yew woodland 
+2.10 
+1.10 
+0.0028 
+0.26% 
+2.103 
+191.2% 
+E12 
+Broadleaved, mixed and 
+yew woodland 
+2.08 
+1.10 
+0.0004 
+0.04% 
+2.080 
+189.1% 
+E13 
+Acid grassland 
+1.22 
+0.68 
+0.0003 
+0.05% 
+1.220 
+179.5% 
+E14 
+Neutral grassland 
+1.22 
+4.74 
+0.0002 
+0.00% 
+1.220 
+25.7% 
+E15 
+Neutral grassland 
+1.25 
+4.74 
+0.0002 
+0.00% 
+1.250 
+26.4% 
+Millbrook Power Project PEIR (2017) 
+Technical Appendices 
+ 
+ 

@@ -1,0 +1,1433 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July to September 2022 
+Electric Insights  
+Quarterly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authors:  
+Dr Iain Staffell, Professor Richard Green, and Professor Tim Green 
+Imperial College London 
+ 
+Dr Malte Jansen 
+University of Sussex 
+ 
+Professor Rob Gross 
+UK Energy Research Centre 
+ 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Contents 
+1.  Introduction........................................................................................................... 3 
+2.  Power prices ease going into winter ........................................................................ 5 
+3.  Locational pricing for Britain’s electricity? .............................................................. 6 
+4.  No sign of Britain’s gas demand falling ................................................................... 9 
+5.  The power of turning down the thermostat ............................................................ 12 
+6.  Capacity and production statistics ....................................................................... 14 
+7.  Power system records .......................................................................................... 15 
+ 
+ 
+ 
+Electric Insights was established by Drax to help inform and enlighten the debate on 
+Britain’s electricity.  Since 2016 it has been delivered independently by a team of 
+academics at Imperial College London using data courtesy of Elexon, National Grid and 
+Sheffield Solar. 
+ 
+ 
+ 
+ 
+ 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+3 
+ 
+1.  Introduction 
+It has been all change for Britain’s energy sector over the last quarter.  Since the last 
+issue there have been two new prime ministers, meaning two new Secretaries of State 
+for BEIS, and two new sets of priorities for the regulations governing the power sector. 
+ 
+In September, Jacob Rees-Mogg took charge of energy within the Truss government.  He 
+supported lifting the ban for onshore wind and rapid expansion of the transmission 
+network to help move renewable power around the country.  However, Truss saw solar 
+farms as ‘one of the most depressing sights’ in Britain’s countryside, and looked to ban 
+ground-mounted solar PV from more than half of all farmland.  In October, Sunak took 
+over as Prime Minister with Grant Shapps leading BEIS.  The solar ban is gone, but Sunak 
+wanted to keep the ban on onshore wind.  Pressure from Conservative backbenchers has 
+brought compromise, and the ban may be overturned after a consultation period. 
+ 
+The Truss government opposed a windfall tax on the energy sector to capture some of 
+the enormous profits reaped from high gas and electricity prices.  The Sunak government 
+will instead raise the tax on oil and gas extraction to 35%, although a large caveat means 
+this can be sidestepped by investing in new oil and gas infrastructure.  BP and Shell 
+report having paid zero windfall tax thanks to investment offsets.  A new windfall tax of 
+45% on electricity generator profits will also be introduced, which will primarily hit older 
+wind farms and nuclear power stations. 
+ 
+It has also been all change for energy prices.  Our first article looks at how gas and 
+electricity prices fell through Autumn to their lowest since early 2021.  The way in which 
+power prices are defined is up for consideration as the government looks at new rules for 
+the electricity market.  Our second article looks at ‘locational pricing’, how wholesale 
+and retail prices can vary across the country according to local supply and demand. 
+ 
+Wholesale natural gas prices in the UK over the past decade (left) showing the minimum, maximum 
+and average daily price in each year, and during 2022 (right) showing daily spot prices.   
+The 2022 average of £69/MWh equates to 200 pence per therm. 
+ 
+                 Jan–Nov    
+ 
+ 
+ 
+£0
+£50
+£100
+£150
+£200
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+£/MWh
+Min/max range
+Average
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+4 
+ 
+ 
+ 
+Finally, the weather has abruptly changed as the mild start to Autumn has finally given 
+way to winter cold.  Across Europe, many countries have managed to cut their gas 
+consumption by around 15%, but our third article shows there has been no such fall in 
+the UK.  Industry’s gas demand has halved in response to high prices, but consumption 
+by households has not fallen at all when we account for the weather.  This does not bode 
+well for how exposed we are to price volatility or even shortages of gas over winter. 
+ 
+Britain’s homes could however be a major contributor to saving energy.  Our final article 
+explores how much gas British households could save in the short term.  Changing boiler 
+settings and turning the thermostat down by 1°C could together cut gas demand by up 
+to a fifth, saving the average household around £300 per year.  This is an instant win, so 
+could help over the coming winter until the mass roll-out of insulation and retrofits can 
+start to help. 
+ 
+ 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+5 
+ 
+2.  Power prices ease going into winter 
+After unrelenting bad news about energy prices spiralling upwards, they have been in 
+freefall since hitting a peak in August.  Wholesale electricity prices fell by 70% between 
+August and November on the back of much lower natural gas prices.  This fall is saving 
+the country £7 billion per month – or £10 million every single hour – in terms of natural 
+gas and electricity consumption.1 
+ 
+Pressure on the European gas market has temporarily eased thanks to an exceptionally 
+mild Autumn and concerted efforts to stockpile gas over the summer.  Imports of liquified 
+natural gas (LNG) reached an all-time high, with several LNG tankers idling off the coast  
+waiting to unload when gas demand, and thus prices, are higher again.  Wholesale gas 
+prices collapsed from a peak of £194/MWh in August to a low of just £8/MWh in October. 
+ 
+This translates into a sizable fall in the cost of generating electricity from gas.  The figure 
+below estimates this cost for an average gas-fired station in Britain, based on the fuel it 
+burns and the carbon emissions it produces.  Although the cost of carbon emissions has 
+quadrupled since 2020 to a peak of £87 per tonne in August 2022, this is only having a 
+minor impact on generation costs compared to the wild volatility in fuel prices. 
+ 
+The recent fall in power prices is welcome news as it will translate into a lower price cap 
+from Ofgem in the coming months.  This will give a much-needed respite for consumers 
+or less pressure on the public purse, depending on where that price cap sits relative to 
+the level of the ‘price freeze’ set by government.  Either way, the sums of money involved 
+are staggering.  In October and November, British homes and businesses consumed 70 
+TWh of natural gas and 47 TWh of electricity.  The national bill for this energy was £4 
+billion per month, compared to £11 billion in the two previous months.     
+ 
+This is only just the start of winter though, and gas prices started heading back upwards 
+at the end of November.  Where prices end up through the winter months will have a 
+significant impact on household and national finances alike. 
+ 
+Monthly-average wholesale cost of electricity at day-ahead prices, with the underlying cost of the fuel 
+burnt and the carbon emissions produced in generating electricity from natural gas. 
+ 
+ 
+1 Note that many generators and retailers hedge their prices in advance, so this fall will not be reflected until their contracts are renewed 
+£0
+£50
+£100
+£150
+£200
+£250
+£300
+£350
+Jan-20
+Jul-20
+Jan-21
+Jul-21
+Jan-22
+Jul-22
+£/MWh
+Carbon
+Fuel
+Electricity
+£7bn / 
+month 
+saving
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+6 
+ 
+3.  Locational pricing for Britain’s electricity? 
+The government is looking at whether to let wholesale electricity prices vary across the 
+country.  This is one part of the Review of Electricity Market Arrangements (REMA) that 
+was discussed in last quarter’s Electric Insights.  At present there is a single price for 
+electricity across the country in each half-hour trading period, regardless of where it 
+comes from or where it is consumed.  Changing this could make the system more 
+efficient, but it would create winners and losers. 
+ 
+Several European countries have separate prices in different regions, and the power 
+markets in the United States calculate hourly prices for the thousands of nodes on their 
+transmission networks. The benefit of these locational marginal prices (LMPs) is that it 
+gives generators incentives to operate in ways that do not overload the transmission 
+system.  For example, if more local generation is needed to overcome a constraint on 
+how much power can flow into an area, prices can rise in that area to encourage more 
+generators online.  Similarly, areas with surplus generation would see lower prices, 
+encouraging some stations to turn down their output.  
+ 
+With the nationwide wholesale prices we have in Britain, generators don’t have these 
+incentives and National Grid must pay them separately to change their behaviour to keep 
+the transmission system operating within safe limits.  This increases the overall cost of 
+the system: balancing actions now add £7.50/MWh to the wholesale cost of electricity, 
+in excess of £2 billion per year (see figure below).  As Britain progresses towards net-zero 
+electricity, more renewable generation located far from demand will increase flows on 
+the transmission system, and hence the risk of these costly constraints. 
+ 
+National Grid charges generators for using the transmission system, and varies this cost 
+around the country to reflect how much they would have to spend to upgrade the network 
+in each area.  These charges do not capture day-to-day changes in constraints and their 
+impact on costs, so while they might help guide investment to the right places, they don’t 
+help to make operations more efficient. 
+ 
+The cost of balancing the national grid, showing the rolling sum of the previous 12-months. 
+ 
+0.0
+0.5
+1.0
+1.5
+2.0
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+(£bn per year)
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+7 
+ 
+ 
+ 
+Locational prices can reduce the cost of dealing with constraints, but will increase the 
+financial risks faced by generators. Building a new wind farm would have a minimal effect 
+on national power prices, as it is small compared to country-wide demand.  But if it is 
+built near an existing wind farm, it may noticeably reduce that farm’s LMPs, as it is big 
+compared to local demand and transmission capacity. 
+ 
+Generators could reduce this risk using ‘financial transmission rights’: contracts that 
+offset price differences between two points on the network and can reduce generators’ 
+day-to-day risks without blocking the price signals. However, the risk reduction only lasts 
+for the life of the contract; next year’s contract will cost an amount that reflects 
+expectations of the price differences it is going to hedge, so unless someone offers very 
+long-term transmission rights, generators could be left facing the risk of newly-built 
+power stations undermining their revenue. 
+ 
+Prices don’t only vary for generators, consumers are also charged based on where they 
+live.  Electricity retail prices in Britain are a mix of the ‘postcode lottery’ and ‘postage 
+stamp’ pricing.  The ‘postcode lottery’ refers to variations in outcomes based on where 
+you live; a term often used to criticise uneven delivery of public services.  ‘Postage 
+ 
+Regional variation in the amount that households pay for electricity (left), and the amount that 
+generators are charged for providing it. 
+Household tariffs (p/kWh): 
+Generator tariff (£m per GW): 
+ 
+ 
+Shetland and Northern Ireland are not shown as they are not connected to National Grid’s transmission network. 
+The Western Isles and Orkney are blank as they do not have any generators subject to national tariffs.   
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+8 
+ 
+ 
+ 
+stamp’ pricing reflects the fact it costs the same amount to deliver a letter in the UK 
+regardless of whether it travels a short distance within the same city, or from Land’s End 
+to John O’Groats.  The former costs much less to deliver, but having a uniform national 
+price could be viewed as part of a ‘social contract’ that guarantees everyone a similar 
+service, wherever they live. 
+ 
+Each distribution network operator (DNO) has a common tariff for all domestic 
+customers in its area, so that a household in Bristol would pay the same amount, per 
+kWh and per day, as one in a small village on the coast of Cornwall at the end of much 
+longer lines – that’s the postage stamp.  The level of that tariff varies between DNOs – 
+that’s the lottery (see figure, below left).  The cost of serving a customer in reasonably 
+flat and densely populated areas like the Midlands is much lower than the cost in North 
+Wales, which is mountainous and sparsely populated. 
+ 
+While the DNOs are required to have tariffs that don’t discriminate between urban and 
+rural customers, National Grid is obliged to make its charges cost reflective. It estimates 
+how much extra investment would be needed to connect a new generator in each part of 
+the country. With electricity usually flowing from the North of Scotland to the South of 
+England, new power stations in the north would require expensive investment, while 
+those in the south would save money (see figure, below right). The Torness nuclear 
+station near Edinburgh pays about £20/kW per year to use the system, while Sizewell B 
+in Suffolk pays only about £2/kW. On the current tariff, Hinkley Point C in Somerset would 
+be paid about £5/kW, although its arrival on the system is likely to affect the calculations.   
+ 
+The reverse is true for electricity consumers.  More demand in the north of Scotland 
+would reduce National Grid’s costs, just as extra demand in London would increase 
+them.  Taking transmission and distribution charges together, the average household 
+pays around £200 per year for getting electricity from the generators to their plug sockets, 
+about 5% of current bills.  There are plenty of options available for making electricity 
+prices better reflect the different costs faced around the country.  There are pros and 
+cons to having more or less variation, but with bills being so high, any reforms which 
+could change how much people pay will be the subject of intense debate.  
+ 
+ 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+9 
+ 
+4.  No sign of Britain’s gas demand falling 
+Is Britain sleepwalking into an energy crisis this winter?  Gas and electricity bills have 
+more than doubled, and the government is footing a bill of tens of billions of pounds to 
+keep prices from rising further.  Worse still, fears of blackouts loom large, with National 
+Grid running wargame scenarios on how to cope with gas shortages this winter. 
+ 
+An obvious response to both problems would be to use less gas and electricity.  
+Conserve what we have so that supplies last longer, and the bill for getting through winter 
+is not quite so sharp.  Energy conservation has been a central part of Europe’s response 
+to this crisis.  The EU has asked member states to cut gas consumption by 15%, and this 
+appears to be working.  The seven largest countries cut gas consumption by 14% in the 
+year to September, and detailed studies in Germany and the Netherlands confirm these 
+savings are persisting after the weather turns cold. 
+ 
+Early evidence suggested that British consumers were similarly tightening their belts.  
+E.On announced that gas consumption was 10–15% lower in the UK compared to 
+seasonal averages.  However, this was only half the saving made by consumers in Europe 
+in that same month.  Through October, the four biggest nations in Europe consumed 30-
+40% less gas than in previous years, compared to only a 20% fall in Britain. 
+ 
+Over the summer, Britain’s demand for gas was only 5–10% lower than average, and in 
+September it was actually higher than in previous years (by 4%).  In contrast, German gas 
+demand was 17–33% lower, and there is a similar story across France, Italy and Spain: 
+all the largest economies in Europe have reduced the amount of gas they consume much 
+further than Britain.  Once the mild weather of October came, the savings in all countries 
+increased by a similar amount, leaving Britain still behind its neighbours.   
+ 
+The change in natural gas consumption this year versus the previous three years in Britain and the 
+larger European countries.  The bars compare gas consumption across all sectors excluding power 
+generation, and consider actual measured demand (without correcting for weather differences). 
+ 
+Data from  
+National Grid  
+and Bruegel. 
+ 
+-40%
+-30%
+-20%
+-10%
+0%
+June
+July
+August
+September
+October
+Reduction in 2022 vs. 2019-21 average
+Britain
+Germany
+France
+Italy
+Spain
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+10 
+ 
+ 
+ 
+Britain’s smaller share of industrial consumers may play a role.  Around 20% of Britain’s 
+natural gas is consumed by industry, but this figure is 30–40% in Europe.  Factories have 
+reduced output and shifted from gas to other energy sources; options to reduce gas 
+consumption that are not viable for households who rely on it for heating. 
+ 
+Not only are Britain’s gas savings smaller than those in neighbouring countries, the 
+savings seen in October and November are also not the result of conscious changes in 
+behaviour, but simply good luck with the weather.  Europe experienced an unseasonably 
+warm start to Autumn.  October saw much of the UK 3°C warmer than average, and a 
+record-breaking 30°C was recorded in Gravesend.  The first three weeks of November 
+were similar, with only one day in 21 being colder than the average for the time of year. 
+ 
+Correcting for this weather anomaly, Britain’s natural gas consumption has simply not 
+changed since pre-crisis times.  Before the crisis started, the country demanded 600 
+GWh of gas per day, plus an extra 160 GWh for every degree it falls below 15°C.   With 
+this simple relationship, Britain’s gas consumption can be accurately predicted based 
+on the prevailing weather.  Even though actual consumption through much of Autumn 
+was well below the seasonal average (compare the black and blue lines below), it was 
+almost no different to this pre-crisis estimate (compare the black and yellow lines).   
+ 
+From September through to end of November, Britain’s gas demand was 12% lower than 
+in an average year, lining up with E.On’s findings.  However, demand was just 0.3% lower 
+than what would have been expected given the mild weather – implying that relatively 
+few people and businesses have changed their behaviour in light of the gas crisis. 
+ 
+Actual natural gas consumption in Britain versus expectation.  (left) shows daily demand over the last 
+five months.  The blue line shows the seasonal average consumption for all end users excluding power 
+stations, averaged over the ten years to 2020.  The yellow line adjusts this demand for the actual 
+weather experienced in 2022, showing what demand would be with pre-crisis behaviour from 
+consumers.  The black line shows actual consumption. (right) shows the weekly-average difference 
+between actual consumption and the seasonal average, separating out the effect of weather anomalies 
+versus change in behaviour.   
+ 
+ 
+ 
+0
+500
+1000
+1500
+2000
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+GWh
+Modelled demand (pre-crisis)
+Actual demand
+Seasonal average (2011-20)
+-30%
+-25%
+-20%
+-15%
+-10%
+-5%
+0%
+5%
+10%
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Difference due to weather
+Difference due to behaviour
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+11 
+ 
+ 
+ 
+Similarly, Britain’s electricity consumption was reported as being 6% lower in 2022 than 
+during the previous five years.  Despite sounding like a strong response to the cost-of-
+living crisis, this actually does not suggest that households and businesses are behaving 
+differently than in previous years.  Electricity demand has fallen steadily by 1.5‒1.9% per 
+year since the start of the last decade, and this year is no different (see below). 
+ 
+So, Britain is an outlier on the world stage.  Despite the cost of gas and electricity soaring, 
+there has been no major contraction in demand.  For months, the British government did 
+not want to commit to an energy saving target or provide households with advice on how 
+to save energy, leaving thinktanks and television personalities to publicise energy saving 
+measures.  The incoming government has changed course, with ministers speaking to 
+the media about what households can do to save energy, funding a public education 
+campaign, and importantly providing £1 billion (over several years) to improve the houses 
+most in need. 
+ 
+With inflation at its highest in decades and a deep recession looming, it makes sense to 
+try and cut the amount we spend on importing incredibly expensive gas.  Households and 
+businesses using fuel more efficiently, or cutting back on their heating could have a 
+major impact on both the cost of weathering the energy crisis, and potentially even the 
+ability to get through winter without energy rationing and blackouts.  Clear advice on how 
+best to achieve this cannot come soon enough.  
+ 
+Average electricity demand across the four quarters of each year since 2010.  Dotted lines show the 
+linear trend in demand over the whole period.  Quarter 2 of 2020 is excluded from the trendline as 
+demand was supressed by the first (and most severe) COVID-19 lockdown.  Demand in Quarter 1 and 
+4 are higher due to electric heating. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+26
+30
+34
+38
+42
+2010
+2016
+2022
+Quarter 1
+(GW)
+‒1.9% p.a.
+2010
+2016
+2022
+Quarter 2
+COVID
+lockdown
+‒1.5% p.a.
+2010
+2016
+2022
+Quarter 3
+‒1.7% p.a.
+2010
+2016
+2022
+Quarter 4
+‒1.8% p.a.
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+12 
+ 
+5.  The power of turning down the thermostat 
+Britain’s homes, shops and offices are currently consuming as much energy as ever.  But 
+they could be a potent force in reducing the country’s reliance on imported gas and 
+exposure to volatile fuel prices.  Homes consume about three-fifths of the country’s gas, 
+with commercial buildings and industry consuming about one fifth each.  By far the 
+largest use is heating, as around five in six British homes are kept warm by a gas boiler.  
+So how much can we realistically cut gas demand in the short term? 
+ 
+Improving insulation and other home retrofits must be the starting point in any 
+conversation.  Uptake of insulation measures plummeted a decade ago after 
+government slashed support for green measures.  The installer industry then scaled 
+back, and is now stretched to the limit with households wanting to improve their 
+insulation before winter.  While insulating our homes will undoubtedly help in future 
+years, it is not going to make a large dent on consumption in the coming three months. 
+ 
+There are several ‘quick fixes’ that people can try to reduce their gas consumption.  
+Martin Lewis and others have become household names for spreading the word about 
+low-cost measures to reduce energy bills.  Draught excluders and temporary second 
+glazing can quickly cut the amount of heat lost through gaps and single-glazed windows.  
+One change that costs nothing and can be made immediately is to turn down the flow 
+temperature on gas boilers, lowering the temperature of the water entering your 
+radiators.  Often this is set high by the installer and never touched again, but it doesn’t 
+allow modern boilers to make the most of their energy-saving features.  Getting flow 
+temperatures below 50°C allows them to operate in ‘condensing mode’ and achieve their 
+full efficiency when burning gas.  This will cut gas consumption by 8–10% with no change 
+in comfort, and now that most boilers in the UK are condensing models, this could have 
+a major impact at the national scale.  If your radiators are more than pleasantly warm to 
+touch, it’s worth looking into. 
+ 
+A third option is to look at how warm we keep our homes.  This is naturally a sensitive 
+topic, as nobody wants to endure lower living standards, and many simply cannot as they 
+are already unable to afford enough warmth.  Already one third of households are 
+suffering fuel poverty, with many families only heating a single room to save money, or 
+avoiding using their heating altogether.  At the other end of the spectrum, many homes 
+are kept at summer temperatures throughout the depths of winter.  The average UK 
+house is kept at over 20°C, living up to the stereotype of people walking around in a t-
+shirt through winter.   
+ 
+Lowering room temperatures by just 1 degree (e.g. from 20 to 19°C) will reduce a typical 
+household’s gas consumption by 8–11%, saving in the region of £150–200 per year on 
+gas bills (depending on the size of house).  This puts in sharp contrast the value of some 
+energy-saving tips: turning the TV off standby mode or unplugging mobile phone chargers 
+has next to no impact on bills.  With everyone looking to cut back on energy costs this 
+winter, it is worth noting that running the Christmas tree lights will cost around ½ to 1p 
+per hour.  In contrast, turning the heating down by 1°C will save an average home around 
+£1 per day through winter. 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+13 
+ 
+ 
+ 
+If everyone in Britain lowered their household temperature by 1°C, the country would 
+save 50 TWh of natural gas over the winter months, comparable to the savings seen in 
+Germany.  This would be good news for the environment, saving around 10 million tonnes 
+of CO2 per year, or 3% of Britain’s total emissions.  It would also be good news for the 
+economy.  Households would save around £5 billion collectively, and the government 
+would save an extra £3 billion on funding the Energy Price Guarantee in the new year, 
+which would lessen the need for tax rises and spending cuts. 
+ 
+The modelled saving in gas consumption from lowering room temperatures by 1°C,  
+measured across a population of 2,000 British households. 
+ 
+ 
+Data from Staffell, Pfenninger & Johnson. 
+ 
+ 
+0
+50
+100
+150
+200
+250
+4%
+6%
+8%
+10%
+12%
+14%
+Relative saving (share of annual total)
+Number of houses
+0
+1000
+2000
+3000
+4000
+5000
+Annual saving per household
+£300
+kWh
+£500
+£400
+£200
+£100
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+14 
+ 
+6.  Capacity and production statistics 
+Britain’s most productive nuclear reactor, Hinkley Point B, 
+retired in August.  It operated for 46 years, generating 311 TWh 
+over its lifetime (enough to power the whole of Britain for a 
+year).  This closure cuts the country’s nuclear generation 
+capacity by 10% to just 7.4 GW, as now only five reactors 
+remain. Two of these are scheduled to cease operating in 
+2024. 
+ 
+Wind, solar and biomass all increased their generation over 
+the last year, together producing 20% more electricity during 
+Q3 than the same quarter last year.  Despite this, gas-fired 
+power generation was also up by 20%, and coal generation 
+remained the same.  Gas continued to supply more than twice 
+as much electricity as any other source In Q3. 
+ 
+Demand for electricity was slightly lower than in previous 
+years, mirroring the long-term downwards trend, but the shift 
+from imports to exports meant an additional 10 TWh of 
+electricity was generated in Britain over the quarter.  As a 
+result, output from British power stations rose to its highest 
+since 2014. 
+ 
+ 
+Britain’s electricity supply mix  
+in the third quarter of 2022 
+ 
+ 
+Share of the mix 
+Gas 
+45.1% 
+Wind 
+19.9% 
+Nuclear 
+15.1% 
+Biomass 
+7.3% 
+Solar 
+6.3% 
+Imports  
+4.0% 
+Coal 
+1.7% 
+Hydro 
+0.6% 
+   
+Installed capacity and electricity produced by each technology 2 3 
+ 
+Installed Capacity (GW) 
+Energy Output (TWh) 
+Utilisation / Capacity Factor 
+ 
+2022 Q3 
+Annual change 
+2022 Q3 
+Annual change 
+Average 
+Maximum 
+Nuclear 
+7.4 
+ 
+–1.0 (–12%) 
+10.2 
+ 
++0.1 (+1%) 
+57% 
+74% 
+Biomass 
+3.8 
+~ 
+5.0 
+ 
++0.4 (+9%) 
+59% 
+100% 
+Hydro 
+1.2 
+~ 
+0.4 
+ 
++0.1 (+22%) 
+17% 
+66% 
+Wind 
+26.2 
+ 
++1.6 (+7%) 
+13.5 
+ 
++3.1 (+30%) 
+24% 
+74% 
+..of which Onshore 
+13.6 
+~ 
+6.6 
+ 
++2.6 (+64%) 
+22% 
+70% 
+..of which Offshore 
+12.5 
+ 
++1.6 (+15%) 
+6.9 
+ 
++0.5 (+8%) 
+26% 
+81% 
+Solar 
+13.4 
+ 
++0.1 (+1%) 
+4.3 
+ 
++0.5 (+14%) 
+15% 
+68% 
+Gas 
+27.6 
+~ 
+30.6 
+ 
++5.2 (+21%) 
+51% 
+78% 
+Coal 
+3.8 
+~ 
+1.1 
+ 
+–0.0 (–3%) 
+14% 
+39% 
+Imports 
+7.4 
+ 
++0.7 (+10%) 
+2.5 
+ 
+–6.0 (–70%) 
+16% 
+74% 
+Exports 
+5.6 
+ 
++4.6 (+507%) 
+34% 
+72% 
+Storage discharge 
+3.1 
+~ 
+0.4 
+ 
+–0.1 (–13%) 
+6% 
+56% 
+Storage recharge 
+0.4 
+ 
+–0.0 (–9%) 
+6% 
+35% 
+ 
+ 
+ 
+ 
+2 Other sources give different values because of the types of plant they consider.  For example, BEIS Energy Trends records an additional 0.7 GW of hydro, 0.6 GW of biomass and 
+3 GW of waste-to-energy plants.  These plants and their output are not visible to the electricity transmission system and so cannot be reported on here. 
+3 We include an estimate of the installed capacity of smaller storage devices which are not monitored by the electricity market operator.  Britain’s storage capacity is made 
+up of 2.9 GW of pumped hydro storage, 0.6 GW of lithium-ion batteries, 0.4 GW of flywheels and 0.3 GW of compressed air. 
+62.1 TWh
+consumed
++5.7 TWh 
+exported
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+15 
+ 
+7.  Power system records 
+Quarter 3 saw very few records broken: just three out of the 200+ records we track.  Most 
+notably, August was by far the most expensive month ever for generating electricity.  The 
+average wholesale price reached over £350/MWh, smashing the previous record of 
+£230/MWh set back in March. 
+ 
+Exports of electricity once again reached record highs through July, peaking at the end of 
+the month with more than one-fifth of the electricity generated here sent abroad.  On the 
+1st of July, more than 10% of Britain’s electricity generation was sent to France alone. 
+ 
+Finally, on the 27th of July high winds combined with low demand to mean that less than 
+5 GW of electricity generation came from ‘conventional’ sources (i.e. not wind or solar) 
+for the first time ever.  National Grid is preparing to be ready to run a zero-carbon power 
+system (with no fossil generation at all for individual hours) by 2025.  
+ 
+The tables below look over the past decade (2009 to 2022) and report the record output 
+and share of electricity generation, plus sustained averages over a day, a month and a 
+calendar year.4  Cells highlighted in blue are records that were broken in the first half of 
+2022.  Each number links to the date it occurred on the Electric Insights website, so these 
+records can be explored visually. 
+ 
+ 
+  
+Wind – Maximum 
+ 
+ 
+ 
+Solar – Maximum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+20002 
+64.8% 
+ 
+Instantaneous 
+9680 
+33.1% 
+Daily average 
+17672 
+53.4% 
+ 
+Daily average 
+3386 
+13.6% 
+Month average 
+14525 
+40.4% 
+ 
+Month average 
+2651 
+10.0% 
+Year average 
+7817 
+24.9% 
+ 
+Year average 
+1372 
+4.4% 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+  
+Biomass – Maximum 
+ 
+  
+All Renewables – Maximum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+3831 
+16.8% 
+ 
+Instantaneous 
+27852 
+72.8% 
+Daily average 
+3316 
+12.9% 
+ 
+Daily average 
+21301 
+66.3% 
+Month average 
+2849 
+8.8% 
+ 
+Month average 
+18334 
+51.0% 
+Year average 
+2216 
+7.1% 
+ 
+Year average 
+11896 
+37.9% 
+ 
+ 
+ 
+4 The annual records relate to full calendar years, so cover the period of 2009 to 2021. 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+16 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Gross demand 
+ 
+  
+Demand (net of wind and solar) 
+Maximum (MW) 
+Minimum (MW) 
+ 
+Maximum (MW) 
+Minimum (MW) 
+Instantaneous 
+60070 
+16934 
+ 
+Instantaneous 
+59563 
+4745 
+Daily average 
+49203 
+23297 
+ 
+Daily average 
+48823 
+8385 
+Month average 
+45003 
+26081 
+ 
+Month average 
+43767 
+18017 
+Year average 
+37736 
+30709 
+ 
+Year average 
+36579 
+21520 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+Day ahead wholesale price 
+ 
+  
+Carbon intensity 
+Maximum 
+(£/MWh) 
+Minimum 
+(£/MWh) 
+ 
+Maximum 
+(g/kWh) 
+Minimum 
+(g/kWh) 
+Instantaneous 
+1983.66 
+–72.84 
+ 
+Instantaneous 
+704 
+18 
+Daily average 
+666.90 
+–11.35 
+ 
+Daily average 
+633 
+55 
+Month average 
+353.36 
+22.03 
+ 
+Month average 
+591 
+135 
+Year average 
+112.66 
+33.88 
+ 
+Year average 
+508 
+172 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+All low carbon – Maximum 
+ 
+  
+All low carbon – Minimum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+35104 
+92.1% 
+ 
+Instantaneous 
+3395 
+8.3% 
+Daily average 
+27282 
+82.5% 
+ 
+Daily average 
+5007 
+10.8% 
+Month average 
+23754 
+66.1% 
+ 
+Month average 
+6885 
+16.7% 
+Year average 
+18287 
+58.3% 
+ 
+Year average 
+8412 
+21.6% 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All fossil fuels – Maximum 
+ 
+ 
+ 
+All fossil fuels – Minimum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+49307 
+88.0% 
+ 
+Instantaneous 
+1700 
+5.3% 
+Daily average 
+43085 
+86.4% 
+ 
+Daily average 
+3476 
+11.7% 
+Month average 
+36466 
+81.2% 
+ 
+Month average 
+7382 
+24.3% 
+Year average 
+29709 
+76.3% 
+ 
+Year average 
+11336 
+36.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Nuclear – Maximum 
+ 
+ 
+ 
+Nuclear – Minimum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+9342 
+42.8% 
+ 
+Instantaneous 
+2488 
+8.1% 
+Daily average 
+9320 
+32.0% 
+ 
+Daily average 
+2665 
+10.3% 
+Month average 
+8649 
+26.5% 
+ 
+Month average 
+4232 
+12.9% 
+Year average 
+7604 
+22.0% 
+ 
+Year average 
+4956 
+15.4% 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+Coal – Maximum 
+ 
+ 
+ 
+Coal – Minimum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+26044 
+61.4% 
+ 
+Instantaneous 
+0 
+0.0% 
+Daily average 
+24589 
+52.0% 
+ 
+Daily average 
+0 
+0.0% 
+Month average 
+20746 
+48.0% 
+ 
+Month average 
+0 
+0.0% 
+Year average 
+15628 
+42.0% 
+ 
+Year average 
+499 
+1.6% 
+ 
+ 
+Drax Electric Insights Quarterly – Q3 2022 
+ 
+ 
+17 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gas – Maximum 
+ 
+  
+Gas – Minimum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+27131 
+72.6% 
+ 
+Instantaneous 
+1556 
+4.7% 
+Daily average 
+24210 
+62.2% 
+ 
+Daily average 
+3071 
+9.5% 
+Month average 
+20828 
+54.8% 
+ 
+Month average 
+6775 
+19.9% 
+Year average 
+17930 
+46.0% 
+ 
+Year average 
+9159 
+24.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Imports – Maximum 
+ 
+  
+Exports – Maximum 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+5906 
+22.5% 
+ 
+Instantaneous 
+-5662 
+-20.9% 
+Daily average 
+5047 
+17.6% 
+ 
+Daily average 
+-4763 
+-14.1% 
+Month average 
+4276 
+15.3% 
+ 
+Month average 
+-3098 
+-9.8% 
+Year average 
+3333 
+10.3% 
+ 
+Year average 
+–731 
+–1.9% 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+Pumped storage – Maximum5 
+ 
+ 
+ 
+Pumped storage – Minimum5 
+Output (MW) 
+Share (%) 
+ 
+Output (MW) 
+Share (%) 
+Instantaneous 
+2660 
+7.9% 
+ 
+Instantaneous 
+–2782 
+–10.8% 
+Daily average 
+409 
+1.2% 
+ 
+Daily average 
+–622 
+–1.7% 
+ 
+ 
+  
+ 
+ 
+5 Note that Britain has no inter-seasonal electricity storage, so we only report on half-hourly and daily records.  Elexon and National 
+Grid only report the output of large pumped hydro storage plants.  The operation of battery, flywheel and other storage sites is not 
+publicly available. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drax Group plc 
+Drax Power Station, Selby, North Yorkshire, YO8 8PH 
+www.drax.com 
+@DraxGroup 
+Imperial Consultants 
+58 Prince’s Gate, Exhibition Road, London, SW7 2PG 
+www.imperial-consultants.co.uk 
+@ConsultImperial 
+ 

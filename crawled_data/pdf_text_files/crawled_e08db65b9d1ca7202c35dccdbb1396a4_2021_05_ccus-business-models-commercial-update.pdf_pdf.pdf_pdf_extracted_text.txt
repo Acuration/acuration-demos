@@ -1,0 +1,3291 @@
+ 
+December 2020 
+Carbon Capture, Usage and 
+Storage 
+An update on business models for Carbon 
+Capture, Usage and Storage  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Crown copyright 2020 
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. 
+To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the 
+Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: 
+psi@nationalarchives.gsi.gov.uk.  
+Where we have identified any third-party copyright information you will need to obtain permission from the 
+copyright holders concerned. 
+Any enquiries regarding this publication should be sent to us at: CCUSBusinessModelsUpdate@beis.gov.uk 
+ 
+ 
+3 
+Contents 
+Disclaimer ________________________________________________________________ 5 
+List of Annexes to this document _______________________________________________ 6 
+Section 1: Introduction _______________________________________________________ 7 
+Introduction ______________________________________________________________ 7 
+Purpose of this document ___________________________________________________ 7 
+Section 2: CCUS Deployment _________________________________________________ 9 
+Introduction ______________________________________________________________ 9 
+Principles of business model design ___________________________________________ 9 
+The CCUS opportunity ____________________________________________________ 10 
+Government support for CCUS ______________________________________________ 10 
+CCUS Programme objectives _______________________________________________ 11 
+Document Structure ______________________________________________________ 13 
+Section 3: CO₂ Transport and Storage Regulatory Investment Model __________________ 15 
+Introduction _____________________________________________________________ 15 
+Objectives of the TRI Model ________________________________________________ 16 
+Revenue model _________________________________________________________ 19 
+Economic Regulatory Regime (ERR) _________________________________________ 27 
+1. Economic Regulator (“the Regulator”)_____________________________________ 27 
+2. Periodic price controls _________________________________________________ 28 
+3. Allowed revenue _____________________________________________________ 28 
+4. Managing risk through efficient allocation, outputs and incentives _______________ 32 
+Government Support Package (GSP)_________________________________________ 35 
+Consideration of risks _____________________________________________________ 37 
+Section 4: Dispatchable Power Agreement for Power CCUS_________________________ 43 
+Introduction _____________________________________________________________ 43 
+Legal and Contractual Framework ___________________________________________ 45 
+Roles and responsibilities of the power CCUS plant company ______________________ 46 
+Payment Mechanism _____________________________________________________ 46 
+Financing arrangements ___________________________________________________ 48 
+Consideration of risks _____________________________________________________ 48 
+ 
+4 
+Summary: A Power business model to meet our objectives ________________________ 56 
+Section 5: Industrial Carbon Capture ___________________________________________ 57 
+Introduction _____________________________________________________________ 57 
+Business Model/Commercial Framework ______________________________________ 61 
+Technical arrangements ___________________________________________________ 65 
+Consideration of risks _____________________________________________________ 65 
+Financing arrangements ___________________________________________________ 73 
+Section 6: Update on hydrogen business models _________________________________ 75 
+Section 7: Next Steps _______________________________________________________ 78 
+Glossary _________________________________________________________________ 79 
+ 
+. 
+ 
+ 
+5 
+Disclaimer 
+This update sets out the government’s current proposals on potential business models for 
+Carbon Capture Usage and Storage. The proposals, as set out in the document and its 
+Annexes, in whatever form they are expressed, are indicative only and do not constitute an 
+offer by government and do not create a basis for any form of expectation or reliance.  
+The proposed terms, including those within the Annexes, are not final and are subject to further 
+development by the government, and approval by Ministers, in consultation with relevant 
+regulators and the devolved administrations, as well as the development and Parliamentary 
+approval of any necessary legislative amendments, and completion of necessary contractual 
+documentation. We reserve the right to review and amend all provisions within the document 
+and its Annexes, for any reason and in particular to ensure that proposals are consistent with 
+any new subsidy control regime. 
+This update takes into account engagement that has taken place during 2020 since publication 
+of the government response to the Consultation on Business Models for Carbon Capture 
+Usage and Storage that was published in August 2020. This includes engagement with the 
+CCUS Expert Groups and relevant regulators. 
+BEIS will continue such engagement as it works to refine its proposals, including engagement 
+with the devolved administrations, to ensure that the proposed policies take account of 
+devolved responsibilities and policies across the UK. 
+ 
+ 
+ 
+ 
+ 
+6 
+List of Annexes to this document 
+Annex A – T&S Regulatory Investment (TRI) Model: Economic Licence Commercial Principles 
+Annex B – T&S Regulatory Investment (TRI) Model: Government Support Package 
+Commercial Principles 
+Annex C – Power Business Model: Detailed explanation and examples 
+Annex D – Power Business Model: Dispatchable Power Agreement Heads of Terms 
+Annex E – Industrial Business Model: Industrial Carbon Capture Heads of Terms 
+ 
+ 
+ 
+7 
+Section 1: Introduction 
+Introduction 
+Carbon Capture, Usage and Storage (CCUS) will be critical in helping the UK meet net zero. 
+To enable this, we are seeking to develop CCUS clusters with Transport and Storage (T&S) 
+networks acting as the enabling infrastructure for a range of capture projects, including gas 
+power plants, industry, low carbon hydrogen production, bioenergy, and direct air capture.  
+CCUS applications can be an engine to drive clean, sustainable growth in our industrial 
+regions and create opportunities for their low carbon economic transformation. It can also 
+stimulate the development of new UK supply chains and attract inward investment. The UK 
+has the potential to be a world-leader in the global CCUS market, including the use of our 
+significant CO₂ storage potential by providing a decarbonisation service to other countries. 
+Deploying CCUS technologies in the UK will: 
+• support the net zero transition; and 
+• contribute to the levelling up of the UK economy. 
+To put us on this pathway, our ambition (as stated in the Prime Minister’s recent Ten Point 
+Plan1) is to have a CCUS sector with an operational capability of capturing 10 MtCO₂ per year 
+by 2030. This is the equivalent of around four million cars’ worth of annual emissions or the 
+current industrial emissions of the Humber.  
+To achieve this, we will invest up to £1 billion to support the establishment of CCUS in four 
+industrial clusters, creating several ‘SuperPlaces’. These will bring together clean industry, 
+power, hydrogen, and transport in areas such as the North East, the Humber, the North West, 
+Scotland, and Wales. We aim to establish CCUS in two industrial clusters by the mid-2020s 
+and in a further two industrial clusters by 2030, subject to Value for Money (VfM) and 
+affordability considerations, and we will use consumer subsidies to support construction of at 
+least one power CCUS plant to be operational by 2030. In 2021, we will set out our approach 
+to deploy CCUS clusters. This will also help support delivering our ambition of deploying 5GW 
+of hydrogen by 2030. 
+Purpose of this document 
+This document follows the 2019 consultation, ‘Business Models for Carbon Capture, Usage 
+and Storage’2 and the response to that consultation published in August 20203. It provides an 
+ 
+1 The Ten Point Plan (November 2020) can be found at: https://www.gov.uk/government/publications/the-ten-
+point-plan-for-a-green-industrial-revolution 
+2 Business Models for Carbon Capture, Usage and Storage consultation (July 2019) can be found at: 
+https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-business-models  
+3 The government response to Business Models for Carbon Capture, Usage and Storage (August 2020) can be 
+found at: https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-business-models 
+ 
+8 
+update on the proposed commercial frameworks for T&S, power, and Industrial Carbon 
+Capture (ICC) business models. A status update on the progress of the hydrogen business 
+models is also provided.  
+It reaffirms the principles which will guide the development of the CCUS business models as 
+well as setting out their objectives. This document also provides an outline of the legal and 
+commercial frameworks for CCUS, which we assume will be applicable to all clusters.  
+We will continue to extensively engage with prospective developers and wider stakeholders in 
+2021 to test and further develop the business model designs outlined in this document. Our 
+objective is to create frameworks which deliver on our deployment ambitions and create a 
+sustainable market for CCUS infrastructure and capture services.  
+The business model update in the document is focused on development of the deployment 
+ambition as set out in the Prime Minister’s Ten Point Plan and the recently published Energy 
+White Paper4. As CCUS develops from initial deployment into a mature market at the heart of a 
+Net Zero economy we would expect the business models and broader market to evolve 
+through the 2020s based on experience and track record.  
+ 
+ 
+ 
+ 
+4 The Energy White Paper can be found at: https://www.gov.uk/government/publications/energy-white-paper-
+powering-our-net-zero-future 
+ 
+9 
+Section 2: CCUS Deployment 
+Introduction 
+This section sets out the principles that we will apply in developing the business models. It sets 
+out a number of unique challenges to CCUS and how the government aims to address those 
+challenges through the design of CCUS business models. 
+Principles of business model design 
+In the August 2019 government response to the consultation on potential business models for 
+CCUS, the following key principles were established: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decarbonisation 
+Policies should incentivise efficient capture, usage and storage of CO2 where production is necessary but should not 
+incentivise production of CO2 or result in perverse outcomes. 
+Sustainable financing 
+Policies should instil confidence among investors and attract new domestic and international entrants to the market 
+in a sustainable manner and have the potential to be subsidy free. 
+Economy 
+Policies should create value to the UK economy and support high-value jobs. 
+Cost reductions 
+Policies should harness opportunities to drive down cost through innovation, learning by doing and competition as 
+appropriate. 
+Market and flexibility 
+Policies should be market based and minimise distortions in existing markets. They should be compatible with 
+existing market frameworks but retain the flexibility to respond to market conditions and public needs as markets 
+and the economy evolve.  
+Value for money 
+Policies should be cost-efficient, providing value for money for taxpayers and consumers, and provide a risk-adjusted 
+fair return to investors whilst recognising the first of a kind (FOAK) nature of the sector that with industry, we need 
+to develop.  
+Fair and reflective costs 
+The cost of deploying CCUS should be reflective and fair to users, and not undermine UK industrial competitiveness. 
+ 
+10 
+These principles continue to guide our approach to CCUS business model design. Whilst there 
+are commonalities between CCUS and other sectors (e.g. T&S networks share similar 
+characteristics with regulated infrastructure), the fact that deployment of CCUS in the UK has 
+not been commercially demonstrated needs to be reflected in the business model design to 
+enable the transition to a fully market-led solution when the industry matures, risks evolve and 
+carbon policy is developed.  
+A key feature of our work is to ensure that the business models and the CCS Infrastructure 
+Fund (CIF) incentivise decarbonisation and cost reductions whilst minimising market distortions 
+in a way that achieves VfM for the consumer and taxpayer whilst complying with subsidy 
+control regimes and aligning with fiscal rules.  
+The CCUS opportunity 
+CCUS represents a huge opportunity for the UK economy. It will play an important part in 
+reducing the UK’s carbon emissions and reaching net zero by 2050. For some industries, 
+CCUS will represent the only viable way of reducing emissions while remaining internationally 
+competitive. 
+CCUS will require significant investment over the coming decades. This investment will 
+develop a new industry and the UK economy will be able to develop new technologies, new 
+skills, and high value employment opportunities. CCUS will be a sector in its own right and one 
+that will create opportunities for UK firms to export their expertise to other countries. In later 
+years CCUS will develop into a market-led technological solution to climate change. UK carbon 
+storage could also take carbon from other countries and contribute to global targets and create 
+a vibrant new industry for the UK. 
+CCUS represents an opportunity for investors to develop a new infrastructure at the core of a 
+net zero economy that will provide income over the long-term as the industry develops. 
+Government support for CCUS 
+The Ten Point Plan, Energy White Paper5 and National Infrastructure Strategy6 set out the 
+importance of CCUS in reaching net zero. The deployment of CCUS will be critical, enabling 
+‘SuperPlaces’ that bring together renewable energy, CCUS, low carbon industry, and hydrogen 
+production. We believe that this will create an attractive investment opportunity for the private 
+sector, enabling the decarbonisation of these areas whilst also generating local and national 
+economic benefits.  
+To support deployment the government has allocated up to £1 billion through creation of the 
+CIF. It has also committed to bring forward details in 2021 of a revenue mechanism to attract 
+ 
+5 The Energy White Paper (December 2020) can be found at: 
+https://www.gov.uk/government/publications/energy-white-paper-powering-our-net-zero-future  
+6 The National Infrastructure Strategy (November 2020) can be found at: 
+https://www.gov.uk/government/publications/national-infrastructure-strategy  
+ 
+11 
+private sector investment into ICC and hydrogen via our new business models to support these 
+projects. 
+Through our work on business models, we will create the sustainable commercial frameworks 
+that investors need. Offshore wind deployment in the UK provides an example of how 
+government action has encouraged the deployment of low carbon power generation activity, by 
+stimulating new technologies and markets and bringing down costs. 
+Alongside the new business models for CCUS, we will build on the UK’s global reputation for 
+regulatory stability and transparency by establishing independent economic regulation for CO₂ 
+T&S networks, enabling investors to earn a fair return under a predictable and stable 
+framework and recognising that any economic regulator will have a duty under the relevant 
+statutory provisions to ensure that investors can finance their activities and functions.  
+Recognising the immature nature of CCUS in the UK, we acknowledge that there are inherent 
+risks that currently the market is unable to price, or price efficiently. Where this is the case, 
+they impact investment decisions. In recognition of this, we are working to develop an 
+appropriate risk allocation framework to underpin the deployment of CCUS this decade.  
+We want to ensure that the sector is set up for success to enable our ambition to deploy CCUS 
+from the mid-2020s. That is why while the business models are being developed, through the 
+Industrial Strategy Challenge Fund (ISCF) and Industrial Decarbonisation Challenge Fund 
+(IDCF) we are providing £130 million of funding to support projects on front end project 
+development activities such as planning, design, and preparation for project execution. This 
+will help ensure that the early phase of prospective projects are deliverable and affordable 
+before commitments to provide revenue support are made by the government. 
+Our aim is to create a CCUS market that will provide investors with a fair return which 
+recognises the nature of initial deployment. However, as the sector develops and confidence 
+grows in the market, we would expect to see a reduction in the costs of deployment.  
+CCUS Programme objectives 
+With these factors in mind, business models have been developed with the following 
+overarching objectives:  
+• establishing a new CCUS sector; 
+• enabling low cost decarbonisation in multiple sectors; and 
+• developing a market for carbon capture 
+Establishing a new CCUS sector 
+We recognise that to attract investment there needs to be a clear and predictable framework 
+for project developers and investors. Given the nature of CCUS deployment, there is a need 
+for the government to address certain risks that the market, at this stage, would be unable to 
+bear. In recognition of this, government support would take several forms including: 
+ 
+12 
+• direct capital contribution through the CIF; 
+• a set of robust revenue mechanisms; 
+• business models that support CO₂ capture; and 
+• Economic Regulatory Regime (ERR) for T&S networks.  
+Furthermore, a Government Support Package (GSP) is being contemplated that would seek to 
+address high impact low probability risks for the T&S network such as stranded asset and 
+defined CO₂ leakage risk from the storage facilities. It is intended that this will be structured in 
+a way which overtime enables and stimulates market-based solutions to those risks, with the 
+aim that the required level of support may be reduced.  
+We expect elements of government support such as capital contributions and the GSP to 
+evolve over time. For example, as the market builds confidence in CCUS project development 
+and in the capture business models, we would expect the degree of government support would 
+reduce in later CCUS projects. This means government capital contribution support may be 
+most effective in early stages of the CCUS sector to kickstart the sector and build momentum 
+and confidence in the sector. We need to further assess private sector risk appetite in order to 
+make an assessment of the extent of necessary government intervention. 
+Enabling low cost decarbonisation in multiple sectors  
+CCUS can both play a critical role in the sustainability of UK industry and become a key 
+contributor to the levelling up of the UK economy by enabling ‘SuperPlaces’, sharing common 
+CO₂ T&S networks so as to enable key sectors to be competitive in a net zero economy.  
+An integrated model will be designed to accommodate all relevant sectors and therefore be 
+attractive to investors. CCUS also enables a source of low carbon power generation and 
+hydrogen production, the latter of which can be used for various purposes across the 
+economy. In order to achieve this, we are considering the following in the design of the 
+business models:  
+• reuse of existing assets and government capital contributions where appropriate; 
+• efficient allocation of risk (i.e. risk allocated to the party most appropriate to manage it);  
+• effective competition at appropriate stages, promoting clean growth whilst not damaging 
+international competitiveness;  
+• development of a model that will incentivise deployment of early projects, avoiding 
+excessive costs for early users (via government capital contributions), whilst having the 
+flexibility to evolve for later phases of deployment and being capable of supporting a 
+range of projects across different industrial sectors; and  
+• the realisation of benefits and sharing of knowledge across subsequent clusters as they 
+are developed.  
+ 
+ 
+ 
+13 
+Developing a market for carbon capture  
+When selecting initial clusters, we aim to establish ‘SuperPlaces’ to stimulate broader 
+decarbonisation spill over benefits and then expand geographic reach beyond clusters over 
+time. Intervention to support the development of a market for private sector investment 
+includes the following: 
+• a transparent process for the allocation of funding support; 
+• creation of a new asset class with multiple investment entry points depending on risk 
+appetite; 
+• long-term inflation linked revenue streams which provide a predictable revenue profile 
+over the life of an investment; 
+• a stable and coherent regulatory regime with transparent guidance on the approach to 
+regulatory decision making; and  
+• a mechanism for enabling expansion of the T&S network to meet growing demand.  
+Document Structure 
+The remainder of this document explains how we have continued to develop the business 
+models that seek to deliver our ambitions and objectives. A summary of each section is set out 
+below.  
+Section 3: CO₂ Transport and Storage Regulatory Investment (TRI) Business Model 
+The development of T&S networks will be fundamental to the delivery of CCUS. Initially there 
+will be a need for greater government intervention to support private sector investment in a 
+new and nascent sector, including potentially ensuring that T&S networks are right-sized to 
+accommodate expected future growth in CO₂ volumes captured for storage. The regulatory 
+framework will support a stable, predictable, and index-linked model which will underpin 
+investor returns, so that carbon capture can play a role in the UK’s economy for decades to 
+come supported, where needed, by appropriate levels of government intervention.  
+Section 4: Dispatchable Power Agreement (DPA) for Power CCUS 
+We have designed the DPA business model to incentivise a power CCUS plant to operate in a 
+dispatchable mode, where the plant should be incentivised to react to market prices and 
+generate during periods where this is required to meet demand. Conversely, this means that 
+the plant should reduce generation output during periods of low prices, and should not displace 
+low cost, low carbon generation capacity such as renewables or nuclear. The flexibility of 
+power CCUS should allow it to complement the intermittency of renewables by adjusting output 
+to meet changes in electricity demand whilst still capturing emissions from generation. Section 
+4 sets out how the business model has been designed to create an attractive investment 
+proposition in CCUS power.  
+ 
+14 
+Section 5: Industrial Carbon Capture (ICC) Contract for Industrial Carbon Capture 
+The proposed ICC business model has been designed to incentivise the deployment of carbon 
+capture technology for industrial users who often have no other option to achieve deep 
+decarbonisation. We expect the model to proceed with an ICC Contract which covers 
+operational expenses, T&S fees and rate of return on capital investment, with an element of 
+capital co-funding for initial projects. This is intended for first-of-a-kind (FOAK) projects and we 
+expect it to evolve as the technology and investment confidence matures. In the long-term we 
+anticipate a competitive allocation process and a market-driven carbon price to promote 
+permanent CO₂ abatement. In Section 5, we set out our ‘minded-to’ position on the commercial 
+concept to incentivise ICC in the UK, funding mechanisms to deliver early ICC projects and 
+detail on key commercial policy terms for inclusion in our proposed ICC Contract. 
+Section 6: Low Carbon Hydrogen 
+This section provides an update on the government’s approach to addressing policy 
+development relating to low carbon hydrogen business models. This builds on the response to 
+the previous CCUS business models consultation that included a chapter on hydrogen and the 
+Frontier Economics report on low carbon hydrogen production business models, published in 
+August 20207. The update notes our intention to support the development of both  
+CCUS-enabled and electrolytic hydrogen production technologies, key considerations relating 
+to policy development, and our preference at this stage for contractual over regulatory support 
+mechanisms for large scale hydrogen production. We will consult on our preferred hydrogen 
+business models in 2021. 
+ 
+ 
+ 
+7 A link to Frontier Economics Ltd’s Business Models for Low Carbon Hydrogen Production report to BEIS (August 
+2020) can be found at: https://www.gov.uk/government/publications/business-models-for-low-carbon-hydrogen-
+production  
+ 
+15 
+Section 3: CO₂ Transport and Storage 
+Regulatory Investment Model 
+Introduction 
+The T&S business model (‘TRI Model’) is based on an economic regulation funding model. 
+This approach seeks to balance the need to provide long term confidence to investors with 
+predictable and stable returns within a broadly bounded range. The features set out below are 
+derived from a range of precedents including utility regulation. We have sought to consider 
+how the framework can be best adapted to projects with the characteristics of CCUS 
+infrastructure and will be refining and developing the approach further based on engagement 
+with key stakeholders including project developers and potential investors.  
+This chapter is structured to cover the following elements of the TRI Model: 
+• the objectives of the TRI Model; 
+• revenue model; 
+• ERR; 
+• GSP; and 
+• consideration of risks. 
+We envisage that Transport and Storage Company (T&SCo) will be responsible for the 
+development, construction, financing, operation, maintenance, expansion, and 
+decommissioning of the T&S network. We will continue to give consideration of the ownership 
+model of the T&SCo as consulted in summer 2019. It will be responsible for the plant, 
+equipment, and operational resources required to ensure that the transportation and long-term 
+storage of CO₂ is safe, efficient, and compliant with defined requirements. We have outlined 
+T&SCo’s key roles below and note that further work is required to refine the roles of asset 
+owner and system operator including the following: 
+• Asset Owner: T&SCo will own the onshore and offshore network, and obtain the 
+licence for the storage site; and 
+• System Operator: T&SCo will operate the T&S network to ensure the operational 
+parameters are within specified limits, manage network access, perform network 
+planning, and administrate sector specific tasks (such as relevant connection codes). 
+As part of delivering these roles, we envisage T&SCo would review the CO₂ metering and 
+compositional analysis equipment installed by the users at the point of connection. T&SCo 
+would be responsible for health, safety, and environmental compliance related to the T&S 
+network.  
+ 
+16 
+Objectives of the TRI Model 
+We believe that T&S networks represent a unique investment opportunity to support the UK’s 
+green industrial revolution and enable the transition to net zero carbon emissions, as outlined 
+in Box 1 below.  
+Box 1: The CCUS T&S network investment proposition 
+An Environmental, Social and Governance (ESG) focused opportunity… 
+• CCUS is essential to achieve the UK’s net zero carbon emissions target by 2050.  
+• The Committee on Climate Change (CCC) project that by 2050 storage of 70 to 180 
+MtCO₂ per year will be needed in 2050,8 highlighting the expected scale of demand 
+for T&S networks.  
+• In addition to transporting and storing CO₂ captured in the UK, the T&S network has 
+the potential to benefit from global decarbonisation agenda through the provision of 
+a decarbonisation service (i.e. storage of CO₂) to other countries. 
+… with the potential to contribute to economic growth… 
+• A T&S network holds the key to unlocking clean growth potential in the UK and to 
+levelling up opportunities. 
+• Establishing T&S networks provides a strategic opportunity for other sectors to use 
+their skills and expertise to drive the energy transition.  
+• Furthermore, T&S networks provide an opportunity to leverage delivery expertise in 
+construction and position the UK as a market leader in CCUS supply chain, 
+procurement, and construction management services.  
+… in a strategic sector with potential growth… 
+• T&S networks will attract investment from a wider pool of capital as technological 
+feasibility and financial sustainability are established. Creating T&S networks will 
+unlock strategic opportunities such as industrial decarbonisation, blue hydrogen, and 
+power CCUS, and enhance the resilience of existing commodity value chains. 
+• T&S networks have significant opportunities in the future to expand their network 
+and hence asset base to meet a growing demand of their services as part of the net 
+zero transition. 
+… underpinned by a robust policy and regulatory framework  
+• T&S investors will receive a long-term inflation linked revenue stream, providing 
+investors with revenue and cash flow predictability. Revenue will be paid by T&S 
+ 
+8 The Climate Change Committee’s Sixth Carbon Budget report (December 2020) can be found at: 
+https://www.theccc.org.uk/publication/sixth-carbon-budget/  
+ 
+17 
+users that are in receipt of an ICC Contract or DPA to begin with, providing further 
+confidence in the reliability of the revenue stream. 
+• Allowed revenues will be determined based on efficient and economic costs incurred 
+and consideration of events within T&SCo reasonable control.  
+• The independent economic regulator (the Regulator) will operate and exercise its 
+functions within a defined regulatory framework, including a duty to ensure that an 
+efficient T&SCo can finance its operation and to support delivery of Government’s 
+objectives for CCUS deployment. Regulatory guidance will be provided to clarify 
+how the Regulator intends to approach any regulatory decision making providing 
+greater visibility to investors. 
+• T&SCo investors will earn returns that are commensurate with the risks that they 
+bear, with an opportunity to earn additional returns when outperforming target 
+performance. 
+• T&SCo investors will be incentivised to maintain the availability of the T&S network 
+and attract new users to connect to the T&S network. The design of such an 
+incentive to attract new users will be further considered to take into account what is 
+in the control of T&SCo.  
+  
+We have developed the TRI Model to unlock investment in T&S networks and deliver our 
+objectives for the CCUS programme (as set out in Section 2). We have drawn on learnings 
+from other industries (e.g. regulated utilities), the government’s former CCS Commercialisation 
+competition, international programmes, recommendations from the CCUS Advisory Group 
+(CAG), and our consultation on CCUS business models.  
+Our key objectives for the TRI Model and their implications for the design of the TRI Model are 
+discussed below. 
+• Attracting investment in the T&S network to establish a new CCUS sector 
+In order to establish a commercial framework that enables and supports stable investment in 
+projects that are likely to have long operating lives, it is vital that suitable financing structures 
+and funding structures are developed. This will ensure that investors have clear sight of the 
+long-term revenue model to ensure they can earn a reasonable regulated return on their 
+investment.  
+• Enabling low cost decarbonisation in multiple sectors 
+Each T&S network must be able to accommodate multiple and different types of users with 
+varying demand profiles and be sufficiently flexible to implement various potential network 
+designs and growth profiles. Developers, investors, and users of T&S networks need visibility 
+over the allocation of T&S specific risks such as stranded asset risks, varying build out rates 
+between a capture plant and T&S network and potential long-term storage leaks.  
+ 
+18 
+We understand the importance of balancing the need for anticipatory investment to address 
+future demand on the T&S network with the economic attractiveness of the network to near 
+term users. We will also consider how T&SCo can be incentivised to attract more users to their 
+T&S network in support of decarbonisation. 
+• Developing a market for carbon capture – a long-term vision 
+The Regulator will administer the ERR and ensure that costs are economic and efficient whilst 
+also incentivising T&SCo to attract more users into the T&S network to drive higher utilisation 
+and therefore spread the costs and benefit from economies of scale. The ERR would be 
+designed to have sufficient flexibility to allow for future CO₂ market expansion (potentially 
+including shipped CO₂) whilst ensuring affordability and VfM for the users.  
+Design implications 
+For T&SCo to attract stable investment, the TRI Model needs to recognise that the investment 
+proposition will evolve as the T&S network moves through different stages/phases of the 
+project/asset lifecycle and as the CCUS market develops. For initial T&S projects in the UK we: 
+• believe that the construction of the T&S network requires that techniques and skills tried 
+and tested in other sectors are applied in a new sector;  
+• consider the construction phase as the period between Final Investment Decision (FID) 
+and end of commissioning of the T&S network (i.e. Commercial Operational Date 
+(COD)) unless otherwise stated; 
+• assume the risk profile will change in the post-construction phase, once operation of the 
+T&S network and the resulting revenue streams are well established; and 
+• assume the risk profile during the steady state operational phase for T&SCo will be 
+comparable with but may not be identical to the ongoing operation of other network 
+assets.  
+The engagement with stakeholders to date has identified a number of characteristics of CCUS 
+deployment which need to be addressed in developing a sustainable business model 
+(discussed below). The objective of the outline TRI Model in this document is to provide a 
+framework for addressing these risks. The risk allocation in the business model will inform the 
+level of potential returns available for the construction and operation of the infrastructure.  
+We will continue to assess risk appetite of various sources of finance in order to make an 
+assessment of the extent of necessary government intervention during the early period of 
+CCUS deployment.  
+Benefits of the TRI Model 
+In achieving the aforementioned objectives, the TRI Model has the benefit of being able to 
+address the following risks to provide greater investment confidence: 
+ 
+19 
+• revenue risks: uncertain demand and potentially a small userbase initially means that 
+T&SCo may face a higher degree of underutilisation and counterparty risks than existing 
+gas and electricity networks; 
+• user timing mismatch risk: we envisage CO₂ capture and T&S projects being 
+developed simultaneously, which means there is a risk that anticipated early users may 
+connect to the T&S network later than planned; and 
+• CO₂ leakage risk: the long-term storage of CO₂ and the low probability of leaks from 
+the store give rise to some unique risks for T&SCo. 
+Noting the objectives and challenges outlined previously, and building on the government’s 
+response to the consultation on potential business models for CCUS published in August 2020, 
+this section sets out the government’s latest position on the following elements of the TRI 
+Model including: 
+• revenue model: a route for T&S fees to be collected from users of the T&S network and 
+potential recourse to consumers and taxpayers in limited circumstances; 
+• ERR: a framework set out in the licence for determining the allowed revenue including 
+return to T&SCo. This would be based on efficient and economic costs incurred by 
+T&SCo in respect of its duties and outputs and subject to appropriate performance 
+targets underpinned by appropriate risk allocation between T&SCo and the users; and 
+• GSP: a package providing protection, through a set of contractual arrangements for 
+investors and users against specific high impact low probability risks. 
+Details of each element are described below. The section concludes by outlining how the 
+proposed TRI Model delivers the government’s objectives, including how it addresses the key 
+challenges to a successful TRI Model. 
+Revenue model 
+The User Pays revenue model 
+We believe that the revenue stream for T&SCo needs to: 
+• provide confidence to investors that it is a reliable way to channel revenue so that 
+T&SCo is able to finance its functions;  
+• provide a predictable cost allocation which is commensurate with capacity and volume 
+to ensure that those who use or directly benefit from the T&S network make payments 
+to T&SCo for doing so; and 
+• enable future users to join the T&S network and be flexible in response to how markets 
+might change in the future. 
+The proposed revenue model for T&SCo is a User Pays model. Under this model, T&SCo’s 
+revenue stream will be made up of payments from those who use the T&S network to have 
+their captured CO₂ transported and stored. T&SCo would also have contingent recourse to 
+ 
+20 
+consumers and/or taxpayer support to ensure the revenue stream from users is predictable 
+and robust from a financing perspective. This is covered in further detail below.  
+The User Pays model can also be extended to accommodate the import of CO₂ from sources 
+external to the T&S network (i.e. by injecting CO₂ at a T&S network or storage access point) or 
+enable the reuse of CO₂ in the future, (i.e. those who connect to the T&S network to offtake 
+CO₂ will make payments to T&SCo too).  
+Figure 1 an illustration of the User Pays revenue model in the steady state operational phase 
+and associated assumptions are set out below 
+ 
+* LCCC is being considered as a potential counterparty.  
+** Revenue models for ‘blue’ hydrogen and negative emissions (i.e. bioenergy and direct air 
+capture) under development. 
+The User Pays model consists of the following elements: 
+• T&S fees: fees that are paid by users to T&SCo for using the T&S network and storage 
+site; 
+• DPA revenue and ICC Contract revenue: power and industrial users of the T&S 
+network who have entered into DPA and ICC Contract will be entitled to revenue under 
+those contracts. See Sections 4 and 5 for further details about the DPA and ICC 
+Contract respectively. The contract price would take account of the cost of the T&S fees 
+through indexation; and  
+• consumer payments and taxpayer payments: for example, consumers and taxpayers 
+will ultimately contribute to the cost of the DPA and ICC Contract, or directly through the 
+ 
+21 
+TRI Model in the event of contingent resource being required in certain limited 
+circumstances. 
+T&S fees 
+The allowed revenue would be determined under the ERR under the economic licence and 
+largely represents the cost of establishing and operating the T&S network including any 
+incentives. Further details of the ERR are set up in section below. 
+Once the allowed revenue is established, T&SCo will collect its revenue through T&S fees paid 
+by users of the T&S network. We expect the T&S fees will be determined using a methodology 
+initially developed by the government and the Regulator, informed by a set of guiding principles 
+and in consultation with industry. We expect T&SCo would administrate the methodology in the 
+future once the CCUS sector is established, including making updates to the methodology in 
+consultation with users and seeking ultimate approval from the Regulator (this is similar to 
+practices in other regulated network sectors such as gas and electricity). In addition, T&SCo 
+would have contingent recourse to taxpayers and/or consumers if there is a revenue gap to 
+ensure that T&SCo would receive income at the level of allowed revenue. 
+Further work will be undertaken on the design of the T&S fees that all users will pay, but it 
+could be structured similarly to gas network charges and include the following elements: 
+Potential elements of the T&S fees 
+The inclusion of a capacity component and a volumetric component within the overall T&S fees 
+is important to reflect the fact that T&SCo will incur both costs driven by the capacity of the 
+T&S network and costs driven by the volume of the CO₂ transported and stored. Similarly, the 
+inclusion of a connection fee is important to reflect the specific cost associated with connecting 
+a user (or a group of users) at that specific location when the T&S network and its userbase is 
+expanding. 
+Establishing a robust revenue model 
+The User Pays model will be a sustainable revenue model for T&SCo once the CCUS cluster 
+has matured (i.e. in a steady state operational phase), as is the case for gas and electricity 
+networks. However, we recognise that there are a number of areas where T&SCo may be 
+ 
+22 
+exposed to risk which need to be considered in developing a robust revenue model. These are 
+considered further below:  
+a) utilisation build-up during the early operational phase; 
+b) timing mismatch of when capture projects connect; 
+c) underutilisation of the network; and 
+d) bad debt of users. 
+The model includes various measures such as a contingent funding mechanism from 
+consumers and taxpayers in the event of non-payment by users of the network.  
+a) Utilisation build-up during the early operational phase 
+It is likely that the T&S network would initially be sized to take account of future users joining 
+the T&S network and to retain the benefit of economies of scale. We expect users will be 
+scheduled to join the T&S network in phases with the result that initially, the T&S network will 
+not be fully utilised.  
+This means that if initial users pay T&S fees that reflect the proportion of their use of the T&S 
+network, the amount of revenue that T&SCo collects during the early operational phase could 
+be less than its total allowed revenue (as illustrated in the diagram below) for the T&S network 
+as a whole. This is because a proportion of the T&S network capacity will not be used and no 
+user will be charged for that proportion, yet T&SCo will still incur costs related to that 
+proportion of T&S network capacity, (e.g. finance and maintenance costs). This creates a 
+potential revenue gap. 
+Figure 2: illustration of the impact of planned underutilisation during early operational phase 
+ 
+In order to close this potential “revenue gap” between T&SCo’s total allowed revenue and the 
+revenue it collects from users, the government is considering the following list of potential 
+options – which are not intended to be mutually exclusive nor is this an exhaustive list of 
+potential options: 
+ 
+23 
+• upfront capital contribution through the CIF: the provision of upfront capital funding 
+through the CIF would reduce the capital cost incurred by T&SCo which it has to 
+finance, and in turn this would reduce T&SCo’s annual revenue required. We are 
+considering the different forms of government capital through the CIF;  
+• TRI Model design: the allowed revenue profile overtime could be shaped to match the 
+expected utilisation profile of the T&S network, i.e. deferring revenue from the early 
+operational phase to later in the operational phase. For example, we are considering the 
+potential for profiling of the depreciation of the regulated asset value (RAV) (as is the 
+case for gas distribution networks under the RIIO regulatory regime), as opposed to 
+using straight-line depreciation. Similarly, the decommissioning accrual profile could be 
+profiled instead of using a straight-line subject to further work as part of wider CCUS 
+decommissioning policy development;  
+• T&SCo’s utilisation incentive: the ERR may contain incentives for T&SCo to find 
+and/or connect more users to the T&S network, in addition to the anchor projects9. 
+Calibration of the incentive would require further consideration including government 
+support on capture projects recognising limitation on T&SCo’s control; and 
+• contingent mechanism: if the proposals described above were not sufficient to enable 
+T&SCo to recover its allowed revenue, we will explore the potential for consumers or 
+taxpayers to pay for any remaining under recovery of allowed revenue. 
+b) User timing mismatch risk – Anchor project does not connect on time 
+T&SCo will only receive revenue from users when they connect to the T&S network and so no 
+T&S fees are payable by users until the first user is connected.  
+The risk that the first user(s) does not connect to the T&S network when expected, i.e. its 
+connection is delayed (referred to as “user timing mismatch risk”). If this risk were to 
+materialise T&SCo would not begin to earn revenue when expected. This would create a 
+potential revenue gap equal to T&SCo’s lost revenues due to the delay in the user joining the 
+T&S network and lead to a potential cashflow shortfall. This is because T&SCo will still incur 
+costs such as finance costs, salaries, and some supply chain cost, despite no T&S fees being 
+collected from users. 
+Once a user is connected to the T&S network the risk of timing mismatch dissipates as T&SCo 
+will begin collecting revenue. Beyond the first user, subsequent users failing to connect would 
+be treated as an underutilisation event, discussed further below. 
+We expect support from the government for the development of a cluster would be allocated 
+on the basis of information provided by T&SCo with regards to the timing of connection, 
+especially on the timing of anchor users. However, we understand that T&SCo generally does 
+not have significant influence over user’s construction or retrofitting programme. As such it is 
+considered that T&SCo should be provided with protection in the event this timing mismatch 
+risk materialises. However, in exchange for this protection, there will need to be some form of 
+ 
+9 Anchor projects are capture projects that will be confirmed as the first users of the network when the T&S 
+network is being constructed 
+ 
+24 
+incentive to bring on the anchor users proposed by T&SCo. The nature of this incentive and 
+how it should be calibrated requires further consideration.  
+In order to reduce the “revenue gap” that would result if the timing mismatch risk were realised, 
+the government is considering the following list of potential options – which are not intended to 
+be mutually exclusive nor is this an exhaustive list of potential options: 
+• Rolled Up Interest (RUI): the return and depreciation that T&SCo would have been 
+able to collect as part of its allowed revenue if the first user had connected to the T&S 
+network on time could be deferred and “rolled up” into the allowed revenue that T&SCo 
+can recover across the remaining operational life of the T&S network. This mechanism 
+would be in place until a user connects to the T&S network;  
+• recovery of operating expenditure (opex): T&SCo’s opex (which is determined to be 
+efficient by the Regulator) will be paid for each year until a user connects to the T&S 
+network. The opex could be paid for by consumers or taxpayers, for example, if a power 
+user was supposed to connect first, consumers would pay the opex. We are considering 
+the feasibility of this proposal, noting it would have implications for the design of the 
+DPA and ICC Contract for industrial capture projects and we will continue to review this 
+option. We are also considering the feasibility of payment from the delayed user (e.g. 
+power project or Industrial Capture project) to contribute towards opex;  
+• incentivising T&SCo to present a robust cluster plan: the allowed revenue could be 
+reduced as part of the incentive regime under the ERR until the proposed anchor users 
+are connected to the T&S network; and 
+• contingent mechanism: if the proposals described above were not sufficient to enable 
+T&SCo to recover its allowed revenue, we will explore the potential for consumers or 
+taxpayers to pay for any remaining under recovery of allowed revenue. 
+Users will also be incentivised to connect to the T&S network as planned through the DPA and 
+ICC Contract for power and industry users, respectively. For example, the DPA contains 
+provisions to incentivise the commencement of operations within a specific window, with 
+delays impacting on the term of the DPA. 
+c) Underutilisation risk  
+Once the first ‘anchor’ project has connected to the T&S network, the T&S network could still 
+risk being underutilised if: an expected user does not connect (on time or at all); a user 
+disconnects earlier than expected; or connected users do not inject as much CO₂ into the T&S 
+network as expected. 
+As T&SCo will collect its revenue largely through the T&S fees, which is expected to include a 
+capacity fee and a volumetric fee, any underutilisation will result in T&SCo receiving income 
+less than the allowed revenue leading to a potential revenue gap. 
+This risk could potentially materialise during the operational life of the T&S network. However, 
+the revenue gap that results from any underutilisation may be more significant in the early 
+ 
+25 
+operational phase compared to in the steady state operational phase, as the loss of any 
+revenue from a small user base could represent a larger proportion of total expected revenue. 
+T&SCo does not have the ability to require local emitters to join the T&S network. On that 
+basis, it would be appropriate that T&SCo should be provided with protection in the event this 
+risk materialises. However, we believe T&SCo could facilitate more emitters to connect to the 
+T&S network through promoting the T&S network and proactive engagement with potential 
+users including overseas opportunities.  
+In order to address the “revenue gap” that would result if the underutilisation risk were realised, 
+the government is considering the following list of potential options – which are not intended to 
+be mutually exclusive nor is this an exhaustive list of potential options: 
+• building a financial reserve: a financial reserve would be included as part of the 
+allowed revenue. The reserve could be held in a ring-fenced account and potentially be 
+used for mitigation of other risks such as unplanned outage and CO₂ leakage; 
+• mutualisation over the remaining userbase: T&S fees for remaining users of the T&S 
+network would be increased in order to close the revenue gap. A user’s DPA or ICC 
+Contract would be indexed to the T&S fees. This mechanism is more suitable in the 
+steady state operational phase when there will be a larger user base over which to 
+mutualise the revenue gap, compared to in the early operational phase;  
+• T&SCo’s utilisation incentive: the Regulator is expected to provide an incentive to the 
+T&SCo to connect more users to the T&S network (refer to the ERR subsection for 
+further detail). If the utilisation is below a set target, T&SCo allowed revenue could be 
+reduced as part of the incentive regime. Calibration of the incentive would require 
+further consideration including government support on capture projects recognising 
+limitation on T&SCo’s control; and 
+• a contingent mechanism: if the proposals described above were not sufficient to 
+enable T&SCo to recover its allowed revenue, we will explore the potential for 
+consumers or taxpayers to pay for any remaining under recovery of allowed revenue. 
+Figure 3: illustration of how the “revenue gap” could be addressed if there is underutilisation 
+ 
+ 
+26 
+* A user’s ICC Contract and DPA will be adjusted to cover the cost of any of these proposals 
+being adopted  
+d) Bad debt risk (non-payment) 
+Bad debt risk arises when there are unforeseen delays in payment of T&S fees or 
+non-payment by users10 (e.g. insolvency of a user). This could result in a revenue gap.  
+This risk can be realised at any point during the operational life of the T&S network. However, 
+the revenue gap that results from any bad debt may be more significant in the early operational 
+phase compared to in the steady state operational phase, as the loss of any revenue from the 
+small user base could represent a larger proportion of total expected revenue. 
+The likelihood of this risk materialising in the early operational phase may be mitigated 
+somewhat as it is expected that most users of the T&S network will receive DPA revenue or 
+ICC Contract revenue for a period of time, which will cover the costs of the T&S fees.  
+T&SCo will not have control over the financial operations of users and T&SCo should be 
+provided some protection in the event this risk materialises. In order to reduce the “revenue 
+gap” that would result if the bad debt risk were realised, the government is considering the 
+following list of potential options – which are not intended to be mutually exclusive nor is this 
+an exhaustive list of potential options: 
+• collateral: users of the T&S network could be required to post collateral equal to a 
+certain percentage of their expected annual T&S fees or users could buy insurance (if 
+available) against not being able to pay T&S fees. T&SCo would use the collateral that 
+has been posted or the money paid out from the insurance policy to close the revenue 
+gap. The right size of collateral or the appropriate insurance policy requires further 
+consideration;  
+• bad debt allowance: the ERR would include a “use it or lose it” bad debt allowance in 
+the calculation for T&SCo’s allowed revenue. T&SCo would use the allowance to close 
+the revenue gap if instances of bad debt arise, but they would not be able to use the 
+allowance otherwise. The right size bad debt allowance required may be based on 
+practice in other sectors;  
+• mutualisation over the remaining userbase: T&S fees for users of the T&S network 
+(including any user that has not been paying their T&S fees) could be increased in order 
+to close the revenue gap. A user’s DPA or ICC Contract would be indexed to the T&S 
+fees. This mechanism is more suitable in the steady state operational phase, compared 
+to in the early operational phase; and 
+• contingent mechanism: if the proposals described above were not sufficient to enable 
+T&SCo to recover its allowed revenue, we will explore the potential for consumers or 
+taxpayers to pay for any remaining under recovery of allowed revenue. 
+Figure 4: illustration of how the “revenue gap” will be addressed if bad debt arises 
+ 
+10 If this is as a result of the user becoming insolvent, the user will be subject to the normal insolvency processes 
+ 
+27 
+ 
+Economic Regulatory Regime (ERR) 
+The ERR is a framework that provides an annual allowed revenue to T&SCo, reflecting 
+efficient costs and a reasonable rate of return. As well as containing the measures described 
+above, it is also envisaged that the ERR may also include a suite of performance targets 
+(‘outputs’) and mechanisms (‘incentives’) to allocate and manage risks. It is envisaged that the 
+ERR will establish the overall framework that sets the allowed revenues and defines T&SCo’s 
+business activities monitored by the Regulator through regular price controls. The features 
+outlined below are based on a number of precedents including utility regulation with adaptions 
+for CCUS. 
+The following content sets out the key building blocks of the ERR, covering the construction 
+phase and operational phase. 
+1. Economic Regulator (“the Regulator”) 
+The Regulator’s role is to establish the ERR that provides the framework for T&SCo to earn 
+revenues for the services it provides to users. Administrative fees for the Regulator would be 
+paid by T&SCo and from revenues collected from users and potentially consumers and 
+taxpayers.  
+In practical terms this means that:  
+• an independent body (the Regulator) would be established in statute to regulate the 
+T&S sector, and its duties and objectives would be prescribed in legislation; 
+• the Regulator would be able to authorise (via a licence) T&S network companies, in this 
+case T&SCo, to perform certain activities for certain users – which would be defined 
+through a price control process; and 
+• a licenced T&SCo would be authorised to charge its network users for the services it 
+provides.  
+ 
+28 
+The duties and objectives of the Regulator are being considered further but could include 
+duties for the Regulator to protect the interests of current and future users of the T&S network, 
+to enable an economic and efficient T&SCo to finance its activities and to support the 
+deployment of CCUS to meet governments Net Zero target. The Regulator is obliged to act in 
+line with its statutory duties and obligations. The Regulator would develop full detail on the 
+licence and building blocks of the business model, ahead of a FID to provide clarity and 
+transparency to T&SCo, users and investors. Furthermore, the Regulator will develop a 
+guidance to clarify its approach to the ERR (an example of this type of guidance can be 
+observed in Ofwat’s guidance for Thames Tideway Tunnel)11.  
+2. Periodic price controls 
+Periodic price controls are the framework of rules that determine T&SCo’s activities, the level 
+of service expected and the allowed efficient and economic costs. The allowed revenue would 
+be collected from users through T&S fees and potentially consumers and taxpayers. The 
+approved price control settlement would offer revenue certainty to T&SCo over the duration of 
+the relevant settlement period subject to system availability and pre-defined revenue 
+adjustments.  
+The duration of each price control is being considered further. During the price control period, 
+in addition to some parameters of allowed revenue which are indexed, there may be a set of 
+very limited and defined in-period reopeners for elements that could not be efficiently estimated 
+during the price control review or for Force Majeure type events.  
+3. Allowed revenue 
+The allowed revenue is the revenue to which T&SCo is entitled in each year of the price control 
+period to fund T&SCo’s activities. The allowed revenue is a function of a number of ‘building 
+blocks’ as set out below: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑟𝑟𝐴𝐴𝑟𝑟𝐴𝐴𝑟𝑟𝑟𝑟𝐴𝐴 = (𝑅𝑅𝑅𝑅𝐴𝐴𝑅𝑅𝑅𝑅 𝑥𝑥 𝑅𝑅𝐴𝐴𝑅𝑅) + 𝐷𝐷𝐴𝐴𝐷𝐷𝑟𝑟𝐴𝐴𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐴𝐴𝑟𝑟 + 𝑂𝑂𝐷𝐷𝐴𝐴𝑥𝑥 + 𝐷𝐷𝐴𝐴𝐷𝐷𝐴𝐴𝐷𝐷 +  𝑇𝑇𝐷𝐷𝑥𝑥 + 𝐴𝐴𝐴𝐴𝐴𝐴𝑟𝑟𝐴𝐴𝐷𝐷𝐷𝐷𝐴𝐴𝑟𝑟𝐷𝐷𝐴𝐴 
+• RWACC: the Regulated Weighted Average Cost of Capital (RWACC) during operations 
+to compensate T&SCo for the cost of capital investment. RWACC is discussed in more 
+detail below;  
+• RAV: returns to T&SCo’s debt and equity investors would be provided through a RAV x 
+WACC building block based on established regulatory precedent. The RAV is the 
+efficiently incurred capital investment into the project including construction, asset 
+expansion and a ‘rolled up’ cost of capital (i.e. Interest During Construction (IDC)). RAV 
+is discussed in more detail below; 
+• Depreciation: the revenue collected from users to cover asset depreciation over the 
+operational period. This could be profiled to reduce payments early in the early 
+operational period to support the initial stages of the project; 
+ 
+11 https://www.ofwat.gov.uk/publication/ofwat-guidance-on-approach-to-the-economic-regulation-of-the-
+infrastructure-provider-for-the-thames-tideway-tunnel/  
+ 
+29 
+• Decom: an allowance to cover the decommissioning cost of the T&S network at the end 
+asset life (see further explanation on the proposed decommissioning regime below); and 
+• Adjustments: items that adjust the allowed revenue and includes pass-through costs 
+(e.g. insurance costs), any required true-ups and incentives such as for leakage, timely 
+connections and availability. 
+Decommissioning (includes monitoring) 
+T&SCo, as with other infrastructure owners in the oil and gas sector, is responsible for 
+decommissioning activities at the end of the project’s life. These may include asset removal, 
+sealing wells, and monitoring the integrity of the CO₂ store. Decommissioning activities would 
+be subject to regulatory and government scrutiny, and international obligations such as the 
+Convention for the Protection of the Marine Environment of the North East Atlantic (OSPAR 
+Convention) Decision 98/3.  
+Decommissioning costs are allowed as part of the building blocks forming the allowed revenue. 
+The money collected for decommissioning would build up a reserve over the operational period 
+following a short period after COD. T&SCo would be required to ring-fence the 
+decommissioning revenues to meet the future decommissioning obligation. We are considering 
+further how to address a potential shortfall in the decommissioning reserve if there is an early 
+closure of the T&S network, as part of wider CCUS decommissioning regime work. 
+Where existing oil and gas assets are transferred into the TRI Model for CCUS application, the 
+total decommissioning liability would be separated into two components: i) non-CCUS 
+decommissioning liability for hydrocarbon extraction-related activities and ii) decommissioning 
+liability associated with re-use or modification for CCUS activities. The TRI Model would only 
+fund the decommissioning liability related to CCUS activities, as is the case for new build T&S 
+assets. We are considering how the non-CCUS decommissioning liability would be covered as 
+part of wider reuse transfer.  
+We will undertake further work to develop a holistic decommissioning regime for the CCUS 
+sector and consult the proposed design in 2021. 
+RAV 
+The RAV is a regulatory construct that reflects T&SCo investment. It is calculated as follows: 
+𝑅𝑅𝐴𝐴𝑅𝑅 (𝐷𝐷𝐷𝐷 𝐷𝐷 𝐴𝐴𝐷𝐷𝐴𝐴𝐷𝐷𝐷𝐷𝑒𝑒𝐷𝐷𝐷𝐷 𝐷𝐷𝐷𝐷𝐷𝐷𝐴𝐴) = ∑ 𝐷𝐷𝐴𝐴𝑟𝑟𝐴𝐴𝑥𝑥 + ∑ 𝑅𝑅𝐷𝐷𝐷𝐷𝐴𝐴𝑥𝑥 + ∑ 𝐼𝐼𝐷𝐷𝑅𝑅 − ∑ 𝐷𝐷𝐴𝐴𝐷𝐷𝑟𝑟𝐴𝐴𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐴𝐴𝑟𝑟  
+It is considered that these investments would be established in real terms (with inflation 
+factored into their values) and on a cumulative basis (e.g. cumulative capex). Practically this 
+means an inflation uplift is added to the revenues. Development expenditure (Devex) is 
+development spend and capex is capital spend.  
+The Regulator would verify the opening RAV for the beginning of the operational phase 
+following successful commissioning of the T&S network. We are considering the feasibility of a 
+combined ex-ante and ex-post assessment of the construction for the same project. 
+ 
+30 
+• Ex-ante assessment of the construction of transport facilities: the Regulator would 
+perform an ex-ante assessment of T&SCo’s proposed costs for the transport facilities 
+and set a base case to inform the starting RAV before FID. A post-construction review 
+would be performed by the Regulator to adjust the associated transport assets RAV 
+under a very limited and defined set of conditions that are considered outside of 
+T&SCo’s reasonable control. 
+• Ex-post assessment of the construction of storage facilities: the Regulator would 
+assess the efficiency of T&SCo’s spend on storage facilities on an ex-post basis. This is 
+because construction of storage facilities could have a high degree of uncertainty, 
+compared to the transport facilities. T&SCo could price in significant risk contingency if 
+the construction cost were to be estimated on an ex-ante basis, potentially leading to an 
+overall higher cost to the users. 
+The assessment would not be a simple pass-through and the Regulator would not allow 
+any non-economic or efficient costs to be logged into the RAV. The Regulator would 
+seek to provide a base expectation at the start of construction, or assessment principles 
+for interpreting what is considered as an efficient and economic cost, to support 
+developers in managing the construction programme under an ex-post assessment. As 
+with interconnectors and Offshore Transmission Owner (OFTO) regime, the timing of 
+this ex-post assessment could be near construction completion, though the final actual 
+value will depend on the spend profile and time required for the assessment.  
+• Ex-post assessment of transferred existing assets for CCUS application: assets 
+previously deployed in the oil and gas industry may be utilised/transferred as part of 
+setting up the CCUS T&S network to save costs from building a new T&S network. As 
+the asset is already largely constructed, the capital expenditure-based methodology for 
+determining RAV as described in the above bullet points would not be suitable to be 
+applied directly on the transferred assets. We are considering the methodology for 
+determining the transferred assets RAV and would provide an update to the proposed 
+methodology in 2021.  
+• Interest During Construction (IDC): 
+𝐼𝐼𝐷𝐷𝑅𝑅 = (𝐵𝐵𝑅𝑅𝐴𝐴𝑅𝑅𝑅𝑅 𝑥𝑥 ∑ (𝑅𝑅𝐴𝐴𝑅𝑅 𝐷𝐷𝑟𝑟 𝐷𝐷𝐴𝐴𝑟𝑟𝐴𝐴𝐷𝐷𝑟𝑟𝑟𝑟𝐷𝐷𝐷𝐷𝐷𝐷𝐴𝐴𝑟𝑟 𝐷𝐷ℎ𝐷𝐷𝐴𝐴𝐴𝐴)) + 𝐴𝐴𝐴𝐴𝐴𝐴𝑟𝑟𝐴𝐴𝐷𝐷𝐷𝐷𝐴𝐴𝑟𝑟𝐷𝐷𝐴𝐴 
+as the T&SCo would not receive revenue until successful commissioning of the T&S 
+network, IDC represents an accrued interest on the capital investment in the 
+construction phase and would be ‘rolled up’ during construction and added to the 
+opening RAV. BWACC is the Weighted Average Cost of Capital (WACC) during the 
+construction phase of the project and RAV is the efficient and economic capital 
+expenditure in the construction phase.  
+During the operational phase, the RAV would be adjusted to account for further asset 
+expansion. It is likely that T&SCo will need to expand the initial T&S network during the 
+operational phase to connect new users or construct new storage assets. The Regulator will 
+provide ex-ante allowances during the periodic price control process for upcoming 
+construction. Where there is uncertainty, the Regulator may use various uncertainty 
+ 
+31 
+mechanisms to ensure T&SCo and users are not unnecessarily exposed to risks of excessive 
+gains or losses, such as the use of reopeners or potentially volume drivers. 
+WACC 
+The WACC (including RWACC and BWACC) building block represents the remuneration to the 
+T&SCo for the capital investment into the T&S network. The risks of investing in T&SCo may 
+vary over time depending on the project’s risk profile and we expect that RWACC would likely 
+be different from BWACC. 
+We are considering whether BWACC would be set through competition or, more likely for early 
+projects, a bespoke process to provide a fair rate of return to investors for the risks they bear.  
+A number of factors influence the setting of both BWACC and RWACC including benchmarking 
+where possible of analogous industries with similar levels of risk and reward. The process 
+would also need to have regard to T&S Co’s ability to finance its operations and deliver on any 
+other duties set by the Regulator.  
+RWACC would be set periodically by the Regulator through the operational price control review 
+process (described above) and similarly to BWACC, the Regulator would take into account 
+T&SCo’s financeability in setting RWACC along with any other duties and the associated 
+guidance. Other factors typically used in setting RWACC include notional gearing levels, cost 
+of capital (both debt and equity), and any adjustments for additional risks.  
+We will consider further the methodology for setting BWACC and RWACC next year. In 
+particular, we will consider how best to mitigate any uncertainties in the underlying 
+assumptions and parameters to provide investors with visibility as T&SCo progresses from 
+construction into the steady-state operational phase.  
+Refinancing 
+Following successful commissioning of the T&S network, T&SCo may look to refinance the 
+project. The Regulator would undertake careful consideration of the refinancing opportunity in 
+setting RWACC to balance between potential excessive profit and financeability. The 
+government is considering the following options (which need not be mutually exclusive):  
+• duty to ensure financeability and guidance: we expect the Regulator would have a 
+duty to ensure an efficient licensee is able to finance the activities in the economic 
+licence. This is similar to other regulated utilities. The Regulator will also set out 
+guidance on its approach to regulatory decision making which should provide additional 
+clarity to T&SCo; 
+• independent dispute resolution: if the T&SCo were to challenge the Regulator’s 
+decision, it may require the Regulator to refer the matter to an independent body. This 
+would provide an independent dispute resolution route if T&SCo considered the 
+regulatory settlement is inappropriate; 
+ 
+32 
+• extension of BWACC: the BWACC may be extended into a period following COD 
+drawing on precedents such as Thames Tideway Tunnel project specifically only in this 
+context. This would provide certainty to T&SCo on the cost of capital until a time where 
+the cluster is likely to be more established (e.g. successful operation of the T&S network 
+as designed, a robust userbase where revenue risks are reduced etc). BWACC in this 
+case would be a blended WACC reflecting the degree of risks borne by the T&SCo in 
+the construction and operational phase; 
+• gain share mechanism: a reopener may be established to share the benefits of 
+refinancing with users. The actual calibration of the gain share mechanism would be 
+explored further to achieve the balance between preventing excessive profit and 
+incentivising T&SCo to seek lower cost of capital; and/or 
+• actual gearing: the Regulator could set the RWACC based on actual financial gearing 
+ratio of the T&SCo in the early operational phase. This could potentially limit the 
+incentive for T&SCo to seek cheaper sources of capital where it is available. 
+ 
+4. Managing risk through efficient allocation, outputs and incentives  
+T&S networks are likely to have similar characteristics to other networks which are also subject 
+to economic regulation. As with other networks, in order to encourage companies to innovate 
+so they become more efficient, to minimise costs to consumers and taxpayers and invest for 
+future needs, we believe there is value in establishing appropriate incentives. Similar to other 
+regulated sectors, we consider that establishing a robust set of performance incentives for 
+T&SCo would drive better outcomes for users, taxpayers, and consumers. 
+The Regulator would set a series of key outputs and incentives through the ERR to help 
+ensure T&SCo delivers an economic and efficient service to users and to allocate risks 
+between different users. All cost incurred by T&SCo would be linked to specific outputs to 
+ensure a clear traceability between users’ cost and benefits that users receive through the 
+actions of the T&SCo.  
+The section below describes a number of the key outputs and incentives covering the early 
+phases of the T&S network. These along with other outputs and incentives, will be developed 
+and tested further.  
+We divide the key risks, outputs and incentives into construction and operation phases. 
+Construction phase: 
+a) Incentive to manage construction cost of the transport network 
+T&SCo would be responsible for any overspends and underspends relative to the initial 
+ex-ante allowance set by the Regulator. Our assessment is that construction risk is best placed 
+with the T&SCo developer and that the risks are within the bounds of a typical project. The 
+construction period returns (i.e. BWACC) would be calibrated to reflect the specific risks for 
+which T&SCo is responsible.  
+ 
+33 
+b) Incentive to manage construction cost of the storage facilities 
+We are considering the risks associated with construction of new storage facilities and how the 
+Regulator should mitigate the risk of inefficient costs during the construction period. Where the 
+efficient costs are difficult to estimate by the Regulator, we currently consider that an ex-post 
+efficiency assessment by the Regulator may be an appropriate way to calculate those costs. 
+The Regulator would only allow efficient and economic cost to be logged onto RAV. 
+c) Incentive to complete construction of the T&S network as planned 
+Any delay in commissioning the T&S network means a delay in the revenues T&SCo receives 
+from users. This forms a natural incentive for T&SCo to deliver on time. A delay in completion 
+of the T&S network could lead to a knock-on impact to the users where CO₂ captured cannot 
+be transferred away from users. As a result, the government is considering a penalty which 
+would reduce the starting RAV under a T&S network construction delay scenario. 
+Users would continue to receive support through their funding model such as a DPA and ICC 
+Contract, in the event where T&S network COD is delayed. 
+d) Incentive to reduce through-life cost when acquiring existing asset for CCUS 
+application  
+In a scenario where an existing asset is proposed to be transferred into the CCUS regulated 
+regime, T&SCo would be incentivised to propose an asset that could provide the most value to 
+the users by considering the cost saving potential over the lifecycle of the T&S network. We 
+are considering the methodology for determining the transferred assets RAV and will provide 
+an update in 2021. 
+Operations phase: 
+e) Incentive to maintain availability of the T&S network within set target 
+The T&S network should be available for users to inject CO₂. There may be planned (e.g. for 
+maintenance) and unplanned outages (e.g. caused by damage or capacity constraints). 
+T&SCo may be subject to an availability incentive that rewards higher levels of availability than 
+what is considered as industry best practice but penalise worse performance relative to a 
+pre-set target. The government is considering the following:  
+• in-year penalty: when availability falls below the set target, penalties would initially 
+reduce allowed revenue for that charging year; 
+• multi-years penalty: if availability falls below an in-year penalty threshold (e.g. to a 
+level undermining short term cash flow and financeability), T&SCo would continue to 
+incur penalties, however these could be spread over subsequent charging years; and  
+• penalty floor: if availability falls further below a floor (such that T&SCo’s financeability is 
+undermined over the price control period), lower availability would not result in additional 
+penalties. Further actions may be taken by the Regulator, with options ranging from a 
+ 
+34 
+users’ loan (to be repaid in future price control period) to eventually revoking T&SCo’s 
+economic licence if enforcement processes do not resolve the problem.  
+If the T&S network is unavailable, users would continue to receive funding support. For 
+example, power CCUS users would continue to receive an availability payment but not variable 
+payment, while industrial CCUS users would be paid for based on a deemed CO₂ captured 
+rate as defined by ICC Contract. 
+f) Incentive to maintain leakage rate within set target: 
+T&SCo would be responsible for all the cost associated with leaks from the T&S network.  
+Similarly, T&SCo would be responsible for the costs associated with leakage from storage 
+facilities during operations and following decommissioning until the site is returned to the 
+government. We expect that T&SCo would seek to transfer away a degree of leakage risks 
+from storage facilities through commercial insurance products. Where private insurance is not 
+available, or is prohibitively priced, the government is considering its role through the GSP (see 
+GSP section for details).  
+In addition, we are considering the feasibility of a reserve from which T&SCo could draw to 
+fund part of the costs associated with the leaks associated with the store if the cost is above a 
+certain threshold. 
+In the event of significant leakage from the storage facilities, the allowed revenue may include 
+a cost allowance to support T&SCo to conduct leakage repairs or regulatory intervention.  
+g) Incentive to manage expenditure of T&S network expansion (during the operational 
+phase) 
+T&SCo would be responsible for any expansion of the T&S network where required to connect 
+new users or meet an increase in overall demand. Efficient asset expansion would be funded 
+by the users as part of regulatory allowances. We expect that T&SCo will be incentivised to 
+deliver this efficiently.  
+h) Incentive to ensure anchor projects connect to the T&S network as scheduled  
+The T&S network will have anchor capture projects. Anchor projects will be expected to 
+connect and use the T&S network according to an agreed schedule. Where these users, or 
+their demand, do not materialise then T&SCo would incur a small degree of reduction in its 
+allowed revenue until all anchor projects (or users of equivalent size) have connected to the 
+T&S network. This encourages robust forecasting and submission of a robust future demand 
+scenario as part of the cluster selection process to ensure spend and timing of the T&S 
+network’s construction is efficient. Calibration of the incentive would require further 
+consideration including government support on capture projects recognising limitation on 
+T&SCo’s control. 
+i) Incentive to provide connection to users within an agreed timeframe 
+ 
+35 
+We are considering an incentive mechanism to further encourage T&SCo to ensure new users 
+are connected in a timely fashion. 
+j) Incentive to seek new users to utilise the T&S network 
+We are considering an incentive mechanism to further encourage T&SCo to take a proactive 
+approach with new connections. Calibration of the incentive would require further consideration 
+including government support on capture projects recognising limitation on T&SCo’s control. 
+k) Incentive to maintain the capacity at the level agreed with users 
+T&SCo will provide an agreed capacity to users. In the event of T&S network constraints that 
+prevent users injecting the agreed level of CO₂, T&SCo will receive less revenue from users to 
+account for the lower volumes. In addition, to incentivise T&SCo to manage constraints 
+effectively, the Regulator may impose performance penalties on T&SCo. It is intended that 
+Users that are constrained would be protected through their funding model, see “T&S capacity 
+constraint risk” in Section 4 and 5 for more details on the impact to users. 
+l) Incentive/obligation to ensure the T&S network is compliant with wider regulatory, 
+safety and legal requirements 
+We will consider the interfaces between economic regulation and wider regulation including 
+cost allowances for T&SCo to meet the wider regulatory, safety and legal requirements. We 
+are considering options such as licence obligations and financial incentives/penalties.  
+m) Incentive to manage operation expenditure  
+The Regulator will provide an allowance for efficient opex during the operational period. The 
+Regulator may consider risk sharing arrangements such as the use of reopeners (which allow 
+for adjusting revenues from users to T&SCo) under a narrow set of circumstances. 
+In addition we would expect the ERR to include detail on what an appropriate financing 
+structure would be for T&SCo – evolving over time as the nature of the asset and market 
+evolves.  
+Government Support Package (GSP) 
+If required, a GSP would offer protection to investors for specified remote high impact low 
+probability risks that the private sector would not be able to bear at an efficient price or indeed 
+any price. The GSP would also protect users of the T&S network from exposure to these risks. 
+These risks are defined leakage events of CO₂ from storage facilities and asset stranding. Our 
+intention is for the GSP (if required) to be for very remote risks, for a finite period of time, 
+limited in its response, and only for specific events. 
+Stranded asset risk 
+ 
+36 
+This is the risk that there is a complete and permanent loss of demand for the T&S network 
+such that the T&S network assets become redundant or deemed uneconomic. T&SCo would 
+lose its user revenues meaning that the T&S asset is no longer economically viable. The 
+impact on T&SCo could be the loss of remaining investment; an end to business-as-usual 
+operating expenditure, which may be offset by increased operating expenditure to preserve the 
+asset for future use, or to prepare it for accelerated decommissioning and an accelerated 
+decommissioning process resulting in a shortfall in decommissioning funding. 
+The government considers this a low probability risk but recognises that the market may 
+currently be unable to bear this risk and that some form of government support to manage it 
+may initially be required. The government will ensure taxpayer exposure is sufficiently remote, 
+for example by using the below conditions before the GSP could be triggered:  
+• where commercial insurance is unavailable or inadequate: commercial insurances 
+should be acquired by T&SCo, where available and GSP would only step in as insurer 
+of last resort for uninsurable risk or where there is insufficient capacity in the market or 
+high deductibles; 
+• where the risk has been proactively minimised through new connections: T&SCo 
+would be incentivised to seek users through the connection incentive; 
+• where regulatory involvement is inadequate: there could be potential regulatory 
+interventions at the appropriate time to support either asset repurposing or development 
+of an import market (to effectively acquire a new type of user); 
+• where further revenue options are exhausted: the options of consumers and 
+taxpayer providing revenue support in an underutilisation and timing mismatch scenario 
+is being explored; 
+• where cost profiles have been adapted to reduce the likelihood of asset stranding: 
+adjustments to the depreciation (and decommissioning) profile may be applied to match 
+the risk profile of stranded assets over the operational period; and 
+• where GSP exposure is offset by asset sale and reduced spend: sales of T&S 
+assets to recover any remaining values from the investors, as well as potentially halting 
+construction if it becomes clear that users are not demonstrating progress to build 
+capture equipment. 
+The GSP would only cover the complete stranding of assets in circumstances where it is 
+considered outside T&SCo’s reasonable control. Temporary or reduced demand risk (i.e. 
+underutilisation) would instead be mitigated through the revenue model. 
+We are considering how the GSP might act as an ‘insurer of last resort’ and compensate 
+T&SCo up to the remaining RAV, and/or any remaining critical opex associated with 
+mothballing or early decommissioning.  
+Risk of defined CO₂ leakage from storage facilities 
+ 
+37 
+T&SCo’s responsibility for leakage costs would remain until the liability is transferred to the 
+government. T&SCo should use the private insurance market where possible to mitigate this 
+exposure.  
+Where private insurance is not available, the GSP would potentially provide insurance of last 
+resort. However, before the GSP would be triggered, the government is considering the 
+following but not exhaustive mitigations to ensure taxpayer exposure is sufficiently remote:  
+• careful selection of storage sites: T&SCo is required to carry out appropriate due 
+diligence and substantiation on the containment integrity of the proposed storage 
+facilities. The government would also carry out independent due diligence on proposed 
+storage facilities, taking advice from the relevant regulatory authorities as necessary; 
+• effective incentive regime: T&SCo would be incentivised to minimise CO₂ leakage and 
+bear the risk of CO₂ leakage to a financeability threshold through ERR (see ERR 
+section for details); and 
+• use of commercial insurance: T&SCo will be required to procure commercial 
+insurances where available at an efficient cost to cover transport and storage leakage 
+risks where possible, as the government expects a commercial insurance market to 
+develop. 
+Consideration of risks 
+Management and allocation of risks is critical to the investability of the CCUS sector. This 
+section sets out how risk which could potentially affect the T&S network are dealt with in the 
+TRI Model. This includes cross-chain risks which arise where an event originating in the T&S 
+network affects power or industrial users and vice versa. We would continue to develop and 
+refine the risk allocation in the future as we engage with stakeholders. 
+Risk 
+Description 
+Allocation  
+T&S specific risks 
+T&S 
+construction 
+delay  
+Risk that the T&S 
+network is not 
+completed to 
+schedule as agreed 
+with the Regulator. 
+Delay to completion 
+could lead to users 
+having no facility to 
+transport and store 
+CO₂ (i.e. T&S timing 
+mismatch risk). 
+There would be a delay in T&SCo beginning to receive 
+revenue. The Regulator may also impose penalties on 
+T&SCo through an adjustment to the opening RAV. 
+Users would be protected from T&S timing mismatch 
+risk through the corresponding business model. See 
+T&S timing mismatch risk in Section 4 and 5 for more 
+details on user protection. 
+ 
+38 
+Risk 
+Description 
+Allocation  
+Constructio
+n cost 
+overruns 
+Risk that outturn 
+construction costs 
+are higher than 
+base case or 
+inefficient 
+construction cost 
+incurred. 
+T&SCo would bear the construction cost overruns 
+risks. Overrun above base case in an ex-ante 
+assessment for transport facilities, or inefficient cost 
+incurred in an ex-post assessment for storage facilities 
+would not be logged onto the opening RAV.  
+T&S 
+construction 
+incompletio
+n  
+Risk that the 
+construction of the 
+T&S network is not 
+completed. 
+Incompletion of T&S 
+network could lead 
+to users’ capture 
+plants becoming 
+stranded. 
+T&SCo would not be receiving any revenue or 
+compensated for capital investment if T&S network is 
+not completed, with the exception of Force Majeure 
+events. 
+Users would be protected from stranded asset risk 
+through the corresponding business model. See user 
+stranded asset risk in Section 4 and 5 for more details 
+on user protection. 
+T&S 
+unplanned 
+outage  
+T&S network is 
+unavailable to 
+transport and store 
+CO₂ from users. 
+T&S unplanned 
+outage could result 
+in a knock-on 
+impact on users 
+including unable to 
+inject CO₂ into the 
+T&S network and 
+users were forced to 
+emit CO₂ or 
+shutdown the entire 
+plant. 
+T&SCo would bear the majority of unplanned outage 
+risk. An availability incentive would reduce allowed 
+revenues in-year and across multiple years to 
+incentivise T&SCo to maintain the availability within 
+the set target. The reduction in allowed revenue would 
+be limited to ensure financeability of the T&SCo 
+through provision of a penalty floor. 
+Users would be protected from unplanned outage 
+through their corresponding business model. See T&S 
+unplanned outage risk in Section 4 and 5 for more 
+details on user protection. 
+ 
+39 
+Risk 
+Description 
+Allocation  
+T&S 
+capacity 
+constraint  
+Lower than 
+expected level of 
+capacity 
+(injection/offtake 
+rate or storage 
+volume) available in 
+the transport and/or 
+storage facility. This 
+could result in a 
+knock-on impact on 
+users including 
+injecting less CO₂ 
+into the T&S 
+network and users 
+could be forced to 
+emit CO₂. 
+T&SCo would bear the majority of capacity constraint 
+risk if within T&SCo’s reasonable control. A capacity 
+incentive would reduce allowed revenues for T&SCo if 
+the outturn capacity is less the set target.  
+Users would be protected from T&S capacity 
+constraint risk through their corresponding business 
+model. If users were causing the constraint (over 
+injection compared to the injection rate agreed with 
+T&SCo), users would be subject to a penalty. 
+See T&S capacity constraint in Section 4 and 5 for 
+more details on user protection. 
+User timing 
+mismatch 
+Timing mismatch 
+risk will arise if the 
+first users are 
+connected to the 
+T&S network later 
+than planned.  
+T&SCo would bear a small degree of user timing 
+mismatch risk. T&SCo’s return would be reduced and 
+deferred until a user connects to the T&S network. 
+T&SCo would be protected from cashflow shortfall 
+impacts for opex through compensation from the 
+delayed user or recourse from consumers and/or 
+taxpayers. 
+ 
+40 
+Risk 
+Description 
+Allocation  
+Underutilisat
+ion risk  
+Risk that T&S 
+network utilisation is 
+lower than 
+expected, leading to 
+a shortfall in 
+revenue from users 
+to T&SCo.  
+T&SCo allowed revenue would be subject to a small 
+degree of reduction if utilisation is reduced. However, 
+underutilisation risk would be shared with users and 
+government through potential government capital 
+contributions to T&SCo, provision of a financial 
+reserve, mutualisation mechanism (only triggers when 
+there is a large user base) and contingent recourse to 
+consumers and/or taxpayers. 
+There are various causes that could lead to 
+underutilisation risk including user unplanned outage, 
+user construction delay or user construction 
+incompletion. Users would bear the majority of these 
+risks. See underutilisation risk (users unplanned 
+outage, construction incompletion and delay risks) in 
+Section 4 and 5 for more details on risk to users.  
+T&S 
+stranded 
+asset risk  
+Complete and 
+permanent loss of 
+demand for the T&S 
+network as a result 
+of events outside 
+the control of 
+T&SCo (e.g. change 
+of regulation or 
+government policy) 
+such that the T&S 
+network assets 
+become 
+economically 
+redundant.  
+T&SCo would be protected from stranded asset risk in 
+certain circumstances. GSP would act as ‘insurer of 
+last resort’ and compensate T&SCo up to the 
+remaining RAV, and/or any remaining critical opex 
+associated with mothballing or early decommissioning. 
+ 
+ 
+41 
+Risk 
+Description 
+Allocation  
+CO₂ 
+leakage 
+from T&S 
+network  
+Risk of CO₂ leakage 
+from the transport or 
+storage facilities. 
+This could result in 
+a knock-on impact 
+on users similar to 
+T&S unplanned 
+outage risk. 
+T&SCo would bear the leakage risks from transport 
+facilities. For leakage from storage facilities, T&SCo 
+would bear the leakage risks up to a very remote 
+threshold. T&SCo would be expected to seek 
+commercial insurance products in the market. GSP 
+would provide insurer of last resort protection to 
+T&SCo above the remote threshold. 
+Users would be protected from CO₂ leakage from T&S 
+network risk through their corresponding business 
+model. See T&S unplanned outage risk (due to the 
+equivalent impact) in Section 4 and 5 for more details 
+on user protection.  
+General risks 
+Regulatory 
+and political 
+risk 
+General change in 
+government policy 
+or change of Law 
+during construction 
+and operation that 
+has a material 
+impact on the T&S 
+network. 
+These risks are outside the control of T&SCo and if 
+materialise, the Regulator may consider adjustment to 
+agreed base case. Further consideration would be 
+required to establish the definition and scope of 
+regulatory and political risk. 
+In the event that stranded asset risk arises from 
+change in regulation or change in government policy, 
+then T&SCo may be supported by the GSP. 
+Developme
+nt 
+ 
+Investor risk of 
+investing in the 
+development of the 
+project without the 
+certainty of 
+regulatory approval. 
+Investment would only be recoverable if the 
+prospective licensee receives an economic licence 
+and spend is deemed efficient by the Regulator. 
+Development cost risk may be shared to the extent of 
+any government support such as Industrial 
+Decarbonisation Challenge fund. 
+Force 
+Majeure 
+Extraordinary and 
+unforeseeable risks 
+that are beyond 
+reasonable control 
+by T&SCo. 
+Regulatory adjustments to the revenue, provided 
+appropriate mitigations were in place. 
+ 
+42 
+Risk 
+Description 
+Allocation  
+Inflation 
+Risk that costs 
+inflate more than 
+anticipated by the 
+price control, 
+impacting expected 
+returns. 
+T&SCo allowed revenue building blocks would be 
+linked to mitigate the risk of inflation. 
+Bad debt  
+Risk that users 
+default on T&S fees 
+payments to 
+T&SCo. 
+T&SCo would be protected from bad debt risk above a 
+threshold. T&SCo would have access the following 
+measures:  
+• users’ collateral; 
+• the bad debt allowances; 
+• mutualisation over the remaining user base 
+once sufficient users established; and  
+• potential contingent recourse to consumers 
+and/or taxpayers. 
+Decommissi
+oning 
+shortfall risk 
+There is a risk 
+where the 
+decommissioning 
+reserve is not 
+accrued sufficiently 
+to cover the 
+decommissioning 
+cost. 
+T&SCo would bear the decommissioning shortfall risk. 
+We are considering how this can be implemented as 
+part of the wider CCUS decommissioning regime.  
+In a remote scenario where shortfall remains after 
+exhausting all T&SCo measures and mitigations. We 
+would consider the role of government as a 
+‘decommissioner of last resort’. 
+ 
+ 
+ 
+ 
+43 
+Section 4: Dispatchable Power Agreement 
+for Power CCUS 
+Introduction 
+Decarbonising the power sector has led the UK’s efforts to reduce greenhouse gas emissions. 
+In 1990, electricity generation accounted for 25% of UK emissions. In 2018, it was only 15%. 
+Thirty years ago, fossil fuels provided nearly 80% of electricity supply. Today, the country gets 
+over half of its power from low carbon technologies. The rapid growth of renewables has been 
+a critical feature of this transformation. 
+The Energy White Paper sets out the government’s view of how to achieve a low cost, low 
+carbon electricity system. A low cost system is likely to be composed predominantly of 
+renewable electricity. Achieving a low cost system, which is also reliable, means renewables 
+need to be complemented by technologies which provide power when the wind is not blowing 
+or the sun does not shine. Power CCUS is one of the technologies that can provide this 
+capacity.  
+Our objective is to develop a business model which enables power CCUS to play a valuable 
+mid-merit role in our generation mix. We recognise that a plant acting in dispatchable mode will 
+have multiple features which we need to consider in deploying a business model. As power 
+CCUS plants incur fuel costs and, using current capture technologies, emit some residual CO₂, 
+we believe they should be reactive to the electricity market and should not displace low- or 
+zero-marginal cost, low carbon technologies such as renewables or nuclear power. However, if 
+we are to allow power CCUS technology to follow market movements, we understand that at 
+current carbon prices, power CCUS plants are unlikely to displace higher carbon alternative 
+equivalent capacity. A key balance in developing the business model is to provide initial plants 
+with sufficient support to give investor confidence, while ensuring that these projects are 
+affordable and represent VfM for consumers.  
+The business model set out in this section is intended to cover technologies which have CCUS 
+technology applied directly to a thermal power plant, including pre-combustion,  
+post-combustion, and oxy-fuel technologies. This encompasses both new build CCUS power 
+plants and retrofitted CCUS power plants. In addition, hydrogen-fired power plants which are 
+standalone from hydrogen production infrastructure could be considered under the power 
+CCUS business model discussed, however, this would be dependent on the development of 
+an appropriate hydrogen business model. 
+We are currently considering a DPA which could be established between the power CCUS 
+project company and the Low Carbon Contracts Company (LCCC), a government company, 
+with subsidies which may be funded by consumers through the existing framework of the 
+Supplier Obligation. The structure of this mechanism is intended to address key risks and 
+challenges associated with deploying CCUS.  
+ 
+ 
+44 
+Figure 5: a holistic overview of the DPA 
+Business
+1
+2
+3
+4
+6
+7
+Market
+Private sector 
+investment
+Transportation and Storage 
+operated by the T&SCo
+Consumers
+Low Carbon 
+Contracts Company
+Power CCUS plant 
+operated by the Generator 
+(‘the Facility’) 
+5
+ 
+1. Private sector investment and construction of facility with carbon capture technology  
+2. The Power CCUS Plant provides dispatchable, low carbon power at the market price in the 
+wholesale and balancing markets and provides ancillary services to the Electricity System 
+Operator 
+3. The Generator pays T&SCo T&S fees for captured carbon 
+4. LCCC acts as counterparty to the DPA 
+5. DPA provides the Generator with payments comprising of an availability and variable 
+payment 
+6. Consumer subsidy funds availability and variable payment 
+7. Return on investment back to private sector 
+Work undertaken by BEIS, in consultation with expert working groups from industry and 
+supporting advisers, has identified a high-level concept for the proposed DPA payment 
+mechanism structure, consisting of an availability payment and variable payment. This was set 
+out in the government’s response to the consultation CCUS Business Models in August 
+2020.12  
+Objectives of the DPA for power CCUS 
+The following objectives are being used to guide DPA design and address the key challenges 
+faced in establishing power CCUS:  
+• provide sufficient investor confidence: it is important to balance the inherent 
+uncertainty of a dispatchable role with the need for power CCUS to be an investable 
+proposition. The design of the DPA availability payment mechanism forms a basis for a 
+ 
+12 https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-ccus-business-models  
+ 
+45 
+level of revenue certainty, but investors will need to consider the revenues which they 
+can make from the wholesale electricity market and other markets such as those for 
+balancing and ancillary services when building a business case. The DPA is designed to 
+ensure the investment proposition remains without removing the incentives of the CCUS 
+project to participate efficiently in existing markets; 
+• incentivising the plant to react to the wholesale electricity market: by providing 
+availability payments which are decoupled from dispatch, the plant should be 
+incentivised to react to market prices and provide dispatchable output without 
+incentivising the power CCUS project to generate at all times, which would displace 
+lower-carbon sources of generation such as renewables and nuclear. The flexibility of 
+power CCUS projects should allow it to complement the intermittency of renewables by 
+adjusting output to meet changes in electricity demand, whilst still capturing emissions 
+from generation; 
+• displacing comparable unabated generation and reacting to carbon prices: the 
+variable payment should be designed to be sufficient to ensure that the power CCUS 
+project dispatches ahead of the unabated equivalent reference plant by accounting for 
+the difference in costs arising from installing carbon capture equipment. Incentivising a 
+power CCUS plant to displace higher carbon alternatives will maximise the contribution 
+of these plants to electricity system decarbonisation. The level of the payment should be 
+reactive to carbon prices and power plant costs, meaning that it is only paid when 
+necessary; and  
+• ensuring affordability and value for money for consumers: the link to energy bills 
+means any spend should be efficient and look to deliver VfM for consumers through 
+minimising unit costs, maximising competition and reducing barriers to entry. 
+We are considering the appropriate process for awarding DPAs to bring forward initial plants. 
+This could be a negotiated or competitive process and will be dependent, to an extent, on the 
+future deployment of CCUS clusters.  
+Regardless of the process followed for initial deployment, moving forward we will consider the 
+introduction of a competitive award process which, if designed appropriately, could contribute 
+to reducing the cost of deployment.  
+We will ensure that power CCUS fully participates in existing market frameworks where 
+possible, while achieving our objectives for the technology. In future, this participation could 
+include using wider market frameworks to drive deployment of power CCUS plants as required 
+by the electricity system. We will set out a clearly defined methodology to assess the suitability 
+of a potential market-driven approach against our objectives at regular periods. 
+Legal and Contractual Framework  
+The DPA is based on the contractual framework established for the standard Contract for 
+Difference (CfD), but with specific amendments to ensure that the mechanism meets the 
+challenges identified. We propose to replicate key provisions from the standard CfD, which 
+ 
+46 
+could provide certain protections where these may be important for FOAK projects. An 
+overview of the legal and contractual framework, highlighting key differences with the standard 
+CfD, is given at Annex C. Alongside this document we have also published the draft Heads of 
+Terms (HoT) for the DPA, at Annex D.  
+Roles and responsibilities of the power CCUS plant company 
+The Generator shall be responsible for the full lifecycle ownership of the power CCUS plant, 
+including development, financing, construction (including retrofit, if applicable), operations, 
+maintenance, and decommissioning. It is intended that the power CCUS plant shall include the 
+power generation facility and carbon capture plant, including the associated auxiliary plant to 
+enable dispatchable low carbon power generation.  
+Some of the specific areas which the Generator will be responsible for include: 
+• construction and commissioning of the power CCUS plant, upon which payments under 
+the DPA will commence;  
+• installation, configuration, registration, and maintenance of the electrical metering, CO₂ 
+metering and gas supply metering in accordance with the relevant codes and standards; 
+• installation, configuration, registration, and maintenance of the CO₂ compositional 
+analysis equipment; and 
+• supplying CO₂ at the entry point to the T&S network within the agreed limits of 
+composition, temperature, and pressure and ensuring that any out of specification CO₂ 
+is diverted to the atmosphere prior to entry to the T&S network. 
+For responsibilities of the T&SCo, refer to Section 3.  
+In order to ensure that out-of-specification CO₂ is not allowed into the T&S network, the power 
+CCUS plant shall include continuous monitoring of the export CO₂ composition and emergency 
+venting system design. The required CO₂ metering and compositional monitoring would be the 
+responsibility of the Generator, with data interface also provided to T&SCo and DPA 
+counterparty, for payment settlement purposes. 
+Payment Mechanism  
+The proposed DPA consists of two payments: an availability payment for low carbon 
+generation capacity and a variable payment. The availability payment is intended to provide 
+investors with a regular payment based on the availability of low carbon generation capacity.  
+The proposed formula is based on a constant availability payment rate (APR), but the 
+availability payment should be reduced in the case of outages of generation or capture 
+equipment, or poor performance against the expected capture rate. The proposed formula can 
+be found in Annex C.  
+ 
+47 
+The variable payment is intended to incentivise the contracted plant to generate ahead of an 
+unabated equivalent plant when demand cannot be met by low marginal cost technologies 
+such as renewables and nuclear, at times where the market would not provide sufficient 
+incentive for dispatch ahead of such an unabated plant. The variable payment will be 
+calculated by considering the difference in short run marginal cost between the power CCUS 
+plant as agreed in the DPA contract and a theoretical reference unabated plant.  
+The proposed formula, which can be found in Annex C, achieves this aim by taking into 
+account the higher gas costs, lower carbon costs, T&S volumetric fees, and other higher costs 
+faced by the power CCUS plant, ensuring that its overall short run marginal costs are less than 
+the short run marginal costs faced by an equivalent unabated plant in normal operations.  
+Further detail on the T&S fees can be found in Section 3. 
+Figure 6: the diagram below provides a holistic view of the costs and revenues associated with 
+a power CCUS plant and their structure of payment 
+   
+ 
+Gain sharing 
+A gain sharing mechanism could, in a set number of circumstances, allow for greater fairness 
+of financial returns and risk sharing between power CCUS plant investors and consumers, 
+provided that this is done in a way which aligns with fiscal rules.  
+Power CCUS   
+gas plant
+Availability payment
+Gas fuel 
+costs
+Wholesale power 
+market revenue
+Balancing 
+market revenue
+Capex
+T&S fee
+CO2
+certificates
+Capacity Market 
+revenue
+Variable payment
+Gain sharing 
+mechanism
+Ancillary 
+services revenue
+Costs
+Opex
+Revenues
+p/therm,
+efficiency %
+£/tonne, 
+capture %
+£/kW, £/MWh
+£/tCO2, 
+£/tCO2/h
+£/kW, £/MWh, 
+£/tCO2
+£/KW
+£/MWh
+£/MWh
+£/kW
+£/kW
+DPA
+Post DPA
+BEIS is considering if 
+a gain sharing 
+mechanism should be 
+part of the DPA to 
+protect consumers in 
+the event that a 
+Generator makes 
+returns that may not 
+align with the risk to 
+which they are 
+exposed
+Financing 
+costs
+Electricity 
+network 
+charges
+%
+£/kW
+£/MW
+£/MWh
+Availability of generation x 
+Availability of capture x 
+Availability payment rate
+Gas cost differential + 
+carbon cost differential + 
+extra opex + variable T&S 
+fee 
+ 
+48 
+The mechanics of such a mechanism are still to be explored but could be aimed at the 
+following types of scenarios:  
+• where build costs are lower than projections, particularly for initial projects; 
+• where operational costs are lower than projections, due to the high level of technical 
+and operational cost uncertainty with initial projects;  
+• where operational revenues from the wholesale electricity market and other energy 
+markets (including ancillary services) are higher than projections and enable the power 
+CCUS plant to recover a significant proportion of its fixed costs without the availability 
+payment; and 
+• to prevent a generator accessing excess returns that may not align with an appropriate 
+level of development risk. 
+Financing arrangements 
+It is important that the design of the DPA can unlock private sector investment, which will drive 
+large scale deployment of power CCUS plants. We believe that the proposed DPA mechanism, 
+comprising both availability and variable elements described earlier in this section, will be 
+attractive to the private sector. This is because the use of the consumer subsidy provides a 
+level of revenue certainty, mitigating the development risks associated with CCUS projects. 
+Moreover, the DPA will be based on the framework of the standard CfD, which has a tried and 
+tested commercial model.  
+In designing the DPA, we want to ensure that the roll out of power CCUS will have access to a 
+broad pool of investment in order to maximise competition and innovation. Our expectation is 
+that the DPA will attract investment from a range of different investment sources, such as 
+power operators, energy companies, infrastructure funds, and debt providers. This reflects our 
+experience of the standard CfD in attracting investment. The DPA has been designed to 
+provide long-term revenue stability, as well as to provide a degree of certainty over dispatch in 
+the wholesale market, both of which mitigate significant risks for potential power CCUS plant 
+developers. 
+Trade-offs naturally exist between the various sources of finance due to their individual 
+requirements and it is likely that the potential pricing available will vary depending on a 
+project’s risk profile and investors’ appetite to take on risk. For this reason, the next stage of 
+work on the financing approach is to engage with the market to understand the identified 
+sources further and to consider the possible availability of each.  
+Consideration of risks 
+Since publishing the government response, we have been developing a risk allocation for 
+power CCUS at each phase of the project. Risks are allocated to the party considered best 
+placed to manage the risk. Where this threatens the other objectives, particularly in relation to 
+ 
+49 
+power CCUS being financeable, deliverable, and VfM for consumers, some sharing of risk may 
+be desirable.  
+In this section, we have considered the key risks for the implementation of power CCUS and 
+possible mitigations within the business model design. Further discussion on the allocation of 
+cross-chain risks is found later in this section. 
+Risk 
+Description 
+Allocation 
+Availability and use  
+User construction 
+delay 
+Risk that the 
+construction is not 
+completed to schedule. 
+Delay to completion 
+could lead to T&S 
+having no utilisation if 
+the delayed user is the 
+anticipated first user (i.e. 
+user timing mismatch 
+risk). 
+Payments would not be made until 
+certain milestone requirements as set 
+out in the DPA are met. The Generator 
+would agree a Target Commissioning 
+Window (TCW) but can commission 
+later during a long-stop window, though 
+this would result in erosion to the term 
+of the DPA (subject to any Force 
+Majeure extensions of time).  
+The T&S capacity fees would remain 
+payable to T&SCo during any period of 
+delay beyond the TCW where the T&S 
+network has been commissioned. We 
+are considering whether this cost could 
+be met by consumers. 
+If the delayed user is the first user, we 
+are considering the feasibility of 
+payment from the delayed user to cover 
+T&S critical opex. See Section 3 for 
+more details on T&SCo protection on 
+user timing mismatch risk.  
+Development risk 
+ 
+Development 
+expenditure is 
+committed at risk before 
+entry into the DPA.  
+The Generator would not be 
+compensated for any development 
+expenditure if the project is not 
+awarded a DPA. 
+ 
+50 
+Risk 
+Description 
+Allocation 
+T&S timing 
+mismatch 
+T&S timing mismatch 
+risk will arise if the T&S 
+network is not 
+completed to schedule 
+as agreed with the 
+Regulator (i.e. T&S 
+construction delay risk), 
+with the Generator 
+unable to inject CO₂ 
+while waiting for the T&S 
+network to be 
+completed. 
+The Generator would be protected from 
+commissioning timing mismatch risk by 
+the DPA. Availability payments would 
+be paid to the Generator if 
+commissioned, available and 
+performance requirements are met 
+during the mismatch period. The 
+variable payment would not be paid in 
+this event and the Generator would be 
+allowed to operate in the market as an 
+unabated plant, and would be subject to 
+normal carbon pricing arrangements. 
+Alternatively, as the Generator’s TCW 
+may be extended (e.g. due to a T&S 
+delay), the Generator may have the 
+choice to instead delay its 
+commissioning to match the T&S 
+schedule (in which case the Generator 
+will not see the DPA term commencing 
+(and therefore will not receive any 
+payments) until it commissions). 
+T&SCo would bear the majority of T&S 
+construction overrun risk. See T&S 
+construction delay risk in Section 3 for 
+more details. 
+Demand risk 
+Changes in generation 
+mix and/ or system 
+demand over time result 
+in reduced operating 
+hours.  
+The Generator would be protected 
+against a degree of demand risk 
+through the availability payment, 
+structured such that the Generator 
+would receive relatively stable revenue 
+over the term of the DPA, subject to 
+plant availability and performance. The 
+Generator would take demand risk 
+above this level.  
+ 
+ 
+51 
+Risk 
+Description 
+Allocation 
+Power CCUS plant 
+availability risk 
+Planned or unplanned 
+outage of power CCUS 
+plant (generation and/ or 
+capture). 
+The Generator takes availability risk. 
+Availability payment would be 
+calculated relative to availability and 
+performance of the Generator (subject 
+to any specific outage event relief). 
+T&S unplanned 
+outage 
+Temporary unplanned or 
+planned outage of T&S 
+network. 
+ 
+The Generator would be protected from 
+outages outside of their control through 
+the DPA. Availability payments would 
+not be reduced for qualifying third party 
+outages. These could include those on 
+the T&S network, the electricity 
+transmission system, or the gas 
+transmission system (except in 
+instances where the outages are 
+caused by the Generator). Variable 
+payments will not be received. 
+T&SCo would bear the majority of 
+unplanned outage risk. See T&S 
+unplanned outage risk in Section 3 for 
+more details on the impact on T&SCo. 
+ 
+52 
+Risk 
+Description 
+Allocation 
+T&S capacity 
+constraint 
+Lower than expected 
+level of capacity 
+(injection/ offtake rate or 
+storage volume) 
+available in the transport 
+and/or storage facility 
+either due to T&S 
+network issues, or the 
+Generator injecting CO₂ 
+into the T&S network at 
+a rate greater than 
+agreed, leading to the 
+user and/or other users 
+being constrained. 
+ 
+The Generator would be protected from 
+T&S capacity constraint by the DPA, 
+where this is not caused by the 
+Generator. The Generator will continue 
+to receive the availability payment, 
+subject to the power CCUS plant’s 
+availability and performance.  
+The Generator would be subject to 
+penalty (governed in the agreement 
+between the Generator and the T&SCo) 
+if T&S network capacity constraints are 
+caused by over-injection by the 
+Generator.  
+T&SCo allowed revenue would be 
+reduced if capacity level is lower than 
+set target. See T&S capacity constraint 
+risk in Section 3 for more details on the 
+impact on T&SCo.  
+User stranded 
+asset 
+ 
+If the T&S network fails 
+to be constructed or is 
+abandoned post-
+commissioning, then 
+power CCUS plant 
+would become stranded. 
+The Generator would be protected from 
+stranded asset risk through the DPA. If 
+the power CCUS plant is available, the 
+Generator would continue to receive 
+availability payments, but not variable 
+payments. If the DPA is terminated, the 
+Generator would be compensated for 
+their investment at a pre-agreed pay-
+out rate as part of the DPA 
+(compensation formula TBC). 
+See T&S construction incompletion risk 
+in Section 3 for more details on the 
+impact to T&SCo. 
+Performance 
+ 
+53 
+Risk 
+Description 
+Allocation 
+Operating 
+performance risk 
+There is uncertainty over 
+the performance of a 
+power CCUS plant and 
+the impact on variable 
+costs. There is also 
+uncertainty in how this 
+performance may 
+change over time.  
+The DPA would account for the higher 
+gas costs and lower carbon costs of a 
+power CCUS plant vs an unabated 
+equivalent plant through the variable 
+payment. However, the DPA will not 
+account for any differences between 
+the power CCUS plant operational 
+performance and the performance 
+parameters agreed in the DPA (see 
+Reference plant capturability risk).  
+We are considering whether the 
+hypothetical reference plant could be 
+updated to reflect ongoing technological 
+improvements in unabated equivalent 
+plants.  
+CO₂ quality 
+Poor performance of the 
+power CCUS capture 
+plant could result in CO₂ 
+quality that is lower than 
+the standard required by 
+the T&S network.  
+The Generator would be required to 
+operate continuous quality monitoring 
+and emergency venting system to 
+ensure that no out-of-specification CO₂ 
+enters the T&S network.  
+Any vented CO₂ would not be 
+accounted for as captured CO₂ under 
+the DPA payment mechanism and 
+would be subject to carbon pricing.  
+Commercial 
+ 
+54 
+Risk 
+Description 
+Allocation 
+Commodity price 
+risk 
+Risk that the prices for 
+carbon and natural gas 
+do not follow expected 
+trajectories and leave 
+the power CCUS plant 
+out of merit relative to 
+the unabated equivalent 
+plant. 
+The Generator would be protected by 
+the DPA from impacts of commodity 
+price risk on the short run marginal cost 
+of the power CCUS plant when 
+compared to the unabated equivalent 
+plant. The natural gas price and carbon 
+price will be referenced to market price 
+indicators in the variable payment 
+formula. The Generator would take 
+commodity price capturability risk/ 
+reward (see Reference price 
+capturability risk). 
+ 
+Reference price 
+capturability risk 
+Risk that the Generator 
+does not capture 
+commodity prices 
+equivalent to reference 
+price indicators.  
+The Generator would take reference 
+price capturability risk/ reward. The 
+DPA will not take account of any 
+hedging arrangements, therefore there 
+will be an incentive for the Generator to 
+trade commodities effectively to capture 
+the best possible prices.  
+ 
+Reference plant 
+capturability risk 
+Risk that the power 
+CCUS plant (and 
+therefore the formulae 
+which calculate the cost 
+differential with the 
+unabated equivalent 
+reference plant) differs 
+significantly from the 
+asset defined in the 
+DPA. 
+The Generator would take reference 
+plant capturability risk. The DPA would 
+incorporate the assumed parameters of 
+the power CCUS plant under reference 
+conditions, reflecting the final design of 
+the plant.  
+T&S fees increase  
+T&S fees charged to 
+users are increased. 
+The Generator would be protected from 
+an increase in T&S fees by indexation 
+of these fees in the DPA. The variable 
+payment formula accounts for the T&S 
+volumetric fees (unless covered by 
+market revenues) and the availability 
+payment for the T&S capacity fees.  
+ 
+55 
+Risk 
+Description 
+Allocation 
+General 
+Regulatory and 
+political risk 
+Change in government 
+policy or change in law 
+across construction and 
+operation. 
+The Generator would be entitled to 
+specified cost/ revenue protection from 
+only Qualifying Changes in Law (e.g. 
+specific/ discriminatory changes in law, 
+with the precise scope to be 
+determined) by the DPA. 
+Construction cost 
+overruns 
+Risk that outturn 
+construction costs are 
+higher than expected at 
+time of entry into the 
+DPA.  
+The Generator takes construction risk/ 
+reward. Availability payment rate set at 
+point of entry into the DPA.  
+Construction 
+incompletion 
+Risk that construction of 
+the power CCUS plant is 
+not completed.  
+The Generator takes construction 
+completion risk. The DPA payments will 
+not commence if the power CCUS plant 
+construction is not completed.  
+Force Majeure risk 
+Extraordinary and 
+unforeseeable risks that 
+are beyond the control 
+of the Generator 
+(subject to certain 
+exceptions). 
+The Generator would be entitled to an 
+extension to key dates and relief from 
+termination for Force Majeure events 
+under the DPA.  
+Inflation risk 
+Risk that costs inflate 
+more or less than 
+anticipated. 
+The Generator would be protected from 
+inflation risk under the DPA. We are 
+considering full or partial indexation of 
+the availability payment. Market 
+indicators would be used for the input 
+costs in the variable payment formula. 
+Consumers would be protected from 
+overpayment if inflation lower than 
+expected.  
+ 
+56 
+Summary: A Power business model to meet our objectives 
+The business model will provide investor confidence  
+The DPA is designed to overcome the inherent uncertainty of operating in a dispatchable role, 
+and to incentivise investment by providing a long-term revenue stream through the availability 
+payment. The availability payment forms a basis for revenue certainty, which investors should 
+consider in addition to revenues from participating fully in the wholesale market, and balancing 
+and ancillary services markets, in building a business case for investment in a power CCUS 
+plant.  
+The DPA will incentivise the plant to react to and participate in the wholesale electricity 
+market 
+Payment on the basis of availability, rather than generation output, means that the Generator 
+does not have an incentive to constantly dispatch to maximise revenue, displacing other lower 
+carbon, low short run marginal cost sources of electricity generation. Instead, it should be 
+incentivised to respond to price signals and operate flexibly to generate in those periods in 
+which supply from lower carbon alternatives, including intermittent renewables and nuclear, is 
+insufficient to meet system demand. 
+The DPA will incentivise power CCUS plants to displace comparable unabated 
+generation 
+The variable payment formula ensures that the power CCUS plant is incentivised to dispatch 
+ahead of unabated Combined Cycle Gas Turbines (CCGT). The formula takes account of the 
+variable input costs of each generator and covers the difference in costs arising from the 
+operation of the capture unit. This includes the differences in gas cost, carbon cost, operation 
+and maintenance, and volumetric T&S fees. Where the reference plant mechanism works 
+accurately, the power CCUS plant should operate as though it were the most efficient 
+unabated CCGT on the system, thereby displacing unabated CCGTs from the merit order. 
+Our approach to deploying power CCUS will ensure affordability and value for money 
+for consumers  
+The DPA, and our ongoing approach to deployment of power CCUS technology, will drive 
+value for money. The availability payment provides a long-term revenue stream, providing a 
+sufficient level of confidence to investors and helping to lower the cost of capital. The variable 
+payment will ensure that the plant can displace higher carbon alternatives in the electricity 
+system but will only be paid when it is necessary to achieve this. Furthermore, as indicated, 
+while initial contracts may be negotiated, we will consider the introduction of a competitive 
+framework for awarding DPA contracts which we believe could further contribute to reducing 
+the costs of deployment.  
+ 
+ 
+ 
+57 
+Section 5: Industrial Carbon Capture 
+Introduction 
+Industrial Carbon Capture (ICC) could play a vital role in decarbonising the industrial sector. It 
+has the potential to secure the long-term competitiveness of energy intensive industries, 
+support clean growth around the UK, protect existing jobs, generate new jobs and economic 
+opportunities, and incentivise investment in new industrial sites. Decarbonisation of UK 
+industry represents a significant challenge, with few viable options for large scale emissions 
+abatement. ICC is seen as one of the most likely routes to providing significant emission 
+reductions in the sector.13 
+ICC however imposes costs associated with capital investment and financing, ongoing 
+operational costs for running the capture equipment and system costs including T&S fees to 
+use the T&S network. These costs are combined with no corresponding increase in product 
+value for being low carbon. This means that at present, the costs cannot be passed on to the 
+industrial facility’s consumers, although there are benefits in terms of avoidance of carbon 
+pricing and being well positioned to take account of a low carbon products market, as it 
+develops. As a FOAK application in the UK, ICC will initially have higher capital costs and a 
+risk premium may be attached to it which creates further risks and uncertainties to potential 
+investors. 
+In order to overcome these market failures and challenges, we are developing a commercial 
+offer to industry through an ICC Contract to drive decarbonisation in the sector and support the 
+competitiveness of our industrial base. This offer will be between the owner of the industrial 
+facility (or a third party on behalf of the industrial facility) and a private counterparty, acting on 
+behalf of the Secretary of State for the Department for Business, Energy and Industrial 
+Strategy. 
+Our objective is to develop a business model that can incentivise: i) existing industrial facilities 
+who have a viable future in the UK to invest in carbon capture to decarbonise, while 
+maintaining their international competitiveness and delivering value for money for the taxpayer; 
+and ii) investment in new industrial facilities in the UK, supporting our ambition to level up the 
+UK’s economy. 
+Building on our position in summer 2020, and in consultation with the Industrial Carbon 
+Capture expert group, bilateral discussions with industry and with our supporting advisers, we 
+are able to set out our ‘minded-to’ position on the commercial concept to incentivise FOAK ICC 
+in the UK. This provides provisional detail on key commercial policy terms on which detailed 
+contractual drafting will be based and which we will discuss in detail with potential projects and 
+ 
+13 All scenarios of ambition in the Committee on Climate Change’s Net Zero Technical Report cite CCUS as the 
+largest single contributor to the decarbonisation of industry. 
+ 
+58 
+investors. It confirms that capex co-funding will only be available to support construction costs 
+for initial projects.  
+The model outlined here is reflective of both the initial investment nature of ICC projects, and 
+the current immaturity of the low carbon industrial market in the UK. Therefore, the model set 
+out is for initial and early-stage ICC projects and we expect it to evolve as the technology, 
+investment confidence and market for low carbon products develops, leading to later projects 
+following a competitive allocation process and a market-driven reference price in line with that 
+which has been established for the standard CfDs in the electricity market. 
+We are looking to put in place a commercial framework that is similar to the standard CfD, 
+which has been allocated competitively since 2014, but with some alterations and specific 
+features that accommodate the sectoral and structural differences. Indicative Heads of Terms 
+(HoTs) for the ICC Contract, produced by LCCC at the request of BEIS, shows the initial 
+framework for the commercial contractual arrangements. This is included in Annex E and 
+development will now start on detailed commercial drafting of the HoTs. 
+The proposed business model has been designed to reward permanent storage of CO₂. As 
+such, it will enable the export of captured CO₂ to the T&S network, paid for by T&S fees. This 
+approach has been adopted on the basis that CO₂ produced from an ICC project should be 
+exported to the T&S network. We consider utilisation of CO₂ to be outside the scope of this 
+business model unless it leads to permanent abatement of CO2, although we do recognise 
+that utilisation could still be important in supporting cost reduction and the economics of 
+projects.  
+Key commercial components of the proposed business model for industrial carbon 
+capture for initial projects 
+For early projects the reference price for the ICC Contract will be a fixed trajectory that 
+will be defined in advance of contract negotiation and provide a stable analogue to the 
+carbon market price so that industry can price for projected carbon costs. The agreement 
+will see ETS free allowance certificates forfeited in line with capture volumes and 
+monetised against the reference price14, while residual emissions (and any remaining 
+free allowance certificates) will remain subject to the ETS. As carbon capture is 
+established and the low carbon market matures, it is intended that the reference price 
+would evolve to a market-driven carbon price. 
+The strike price will be negotiated bilaterally for initial projects, moving to a competitive 
+allocation process as the technology matures, when more CCUS clusters are operational 
+and project bid pools are sufficiently large to allow competition. 
+ 
+14 Further detail on treatment of free allowances and how the reference price trajectory will be agreed will be set 
+out in 2021 
+ 
+59 
+The ICC Contract will have an overall duration of 15-years. We are minded for this to be 
+based on a 10-year initial period covering operational expenses for running capture 
+equipment, T&S fees, and a rate of return on capital investment. Following the end of this 
+initial 10-year period, there could be an additional period of 5 years that will only outlay 
+operational costs and T&S fees. This could be delivered through either (i) an option for 
+government and the industrial facility of a 5-year extension to the initial 10-year contract 
+term, or (ii) an initial contract duration of 15-years, with a reopener on the strike price 
+after the initial 10-year period which could take account of the carbon price and 
+development of the low carbon products market in the UK by that time. Further work will 
+follow in 2021 on the capex repayment period within the 10-year period as well as the 
+process for the contract extension or reopener at year 10 to cover years 11-15. 
+Capital co-funding grants will only be available to support initial capital investment, with 
+the remainder funded through private investment sources and/or by the industrial facility’s 
+owner balance sheet. 
+The industrial facility will take on risks associated with CO₂ leakage in its part of the 
+network, decommissioning of capture plant, supply chain capability and commercial 
+financing. The private law contract would protect the industrial facility from certain 
+unforeseeable and material policy changes. 
+With respect to construction and operating risk, it is anticipated that the private sector will 
+be able to manage these risks most effectively, with some provisions to mitigate the risks 
+inherent in FOAK projects. For construction risks, this includes providing an element of 
+capital grant funding structured on a last spend basis and establishing a Target 
+Commissioning Window to provide sufficient flexibility on the operational start date. For 
+operating risks, it is anticipated that a potential operating expenditure reopener early on 
+in the project may be beneficial to both parties in FOAK projects. Further work will be 
+undertaken in these areas. Additionally, the treatment of demand risk is being further 
+evaluated, with measures to limit overall cost to the taxpayer as well as potential 
+limitations on downside risk for the industrial facility being considered. 
+The ICC Contract will be a private law contract between a government-appointed 
+counterparty to the ICC Contract and the owner of the industrial facility (or a third party 
+on its behalf). This counterparty is anticipated to be the Low Carbon Contracts Company 
+(LCCC), subject to agreement and any necessary legal and administrative changes. 
+ 
+The model laid out in this section is under development and represents the government’s 
+current ‘minded-to’ position on the commercial offer for, and handling of, the ICC Contract. This 
+work is ongoing and further updates will describe additions and clarifications to the 
+model during the formulation and drafting of commercial HoTs during 2021. This will build on 
+the high-level and indicative HoTs that have been drafted by LCCC on behalf of BEIS. 
+ 
+60 
+The engagement with industry stakeholders is, and has been, welcome and essential to this 
+process, and will continue throughout the development of the HoTs via our Industrial Carbon 
+Capture expert group and bilateral discussions with individual clusters and projects.  
+Further updates will focus on detailed commercial drafting of the HoTs in the annex, in addition 
+to answering extant policy and delivery questions, including:  
+• profiling of the reference price, including additional detail on treatment of free 
+allowances and approach to indexation; 
+• further developed thinking on the strike price approach, including possible options for 
+adjustments, T&S fee handling and sectoral banding; 
+• the quantum and form of possible capital grant support on offer such as expected 
+sharing proportions, rate of return provisions and possible accelerations of return 
+to maximise efficient use of capital; 
+• project allocation approach, criteria, and integration with wider cluster selection 
+processes; 
+• providing guidance on delivery processes and timelines for these policies; and  
+• further detail on the proposed risk allocation, in particular on demand risk.  
+The following section outlines the current ‘minded-to’ position on the approach and structure to 
+the proposed business model to support ICC in the UK. 
+Annex E published alongside this document provides an early, indicative outline of the HoTs 
+that an ICC Contract could follow and has been developed by the LCCC, coordinating with 
+BEIS. 
+ 
+Figure 7: the diagram above presents a simplified illustration of the funding mechanisms 
+involved in the delivery of early ICC projects: 
+ 
+61 
+• capital co-funding grants will be available to support capital investment for initial ICC 
+projects; 
+• an ICC Contract will be agreed bilaterally (for initial projects) between the owner of the 
+industrial facility (or third party acting on behalf of the industrial facility) and the defined 
+HMG counterparty; 
+• support payments covering operational expenses for running capture equipment, T&S 
+fees, and providing a rate of return on capital investment, are made to the industrial 
+facility;15 and 
+• metering of carbon captured at different stages will allow appropriate accounting for 
+operational payments, and monitoring the quality of gas injected into the T&S network. 
+Business Model/Commercial Framework 
+Terms 
+The Contract: the ICC Contract whose proposed and provisional terms are laid out in this 
+document and would be agreed between the owner of the industrial facility, or third party acting 
+on behalf of the industrial facility, and the HMG appointed contract counterparty. 
+Industrial Carbon Capture (ICC): the on-site capture components of the industrial application of 
+carbon capture and storage, not including T&S infrastructure. 
+Reference and Strike Price 
+Our ‘minded-to’ position is that the reference price will follow a fixed trajectory, defined before 
+the start of negotiations. The price could be analogous to the projected carbon market price for 
+the contract lifetime, though not necessarily directly derived from it. This will allow the contract 
+to predictably imitate the ‘avoided’ costs of the carbon price (i.e. those costs that the industrial 
+facility would otherwise pay to buy allowances for their unabated emissions) as well as 
+providing predictability of income and outlay for the installation of carbon capture on the 
+industrial facility and the government respectively. Detail on how BEIS will set the trajectory will 
+be set out in 2021. 
+The industrial facility will be expected to give up some portion of its current free allowances 
+under the ETS. This reflects that the plant should no longer need these allowances as the 
+model offers protection from carbon market risks in respect of abated emissions16. Further 
+work on treatment of free allowances will be set out in 2021. 
+The strike price will be, in the first projects, negotiated bilaterally and should be based on, and 
+reflective of, expected costs of carbon capture for the project (including the T&S fees and a 
+ 
+15 Decisions on routing of T&S payments routed are to be decided in 2021; the illustration of T&S funding via the 
+emitter is purely illustrative and we have also shown that T&S payments may be routed directly to the T&S 
+operator from the contract counterparty. 
+16 Note that residual emissions and any remaining free allowances will remain exposed to the ETS. 
+ 
+62 
+return on the capex investment). We will set out further details on this process, including pre-
+qualification criteria for entering into bilateral negotiations with BEIS. 
+In this way, the overall outlay of the contract will be predictable. In advance of negotiations, 
+HMG may set out banded strike prices per industrial sector to guide bilateral negotiations (and 
+in future competitive allocation processes). 
+We expect bidders to submit strike prices based upon the reference price, their costs of 
+capture, avoided carbon costs and expected return for an investment of this risk profile. 
+This model is designed to be applied to FOAK ICC projects in the UK; as the ecosystem for 
+carbon capture in the UK is established and the low-carbon market matures, the model will 
+similarly evolve to using the market price of carbon as the reference price for later projects. 
+Similarly, for these later projects we intend that the strike price be set through competitive 
+allocation, potentially via an auctioning process, though further work is needed to determine 
+potential competitive allocation methods. 
+Figure 8: Industrial Carbon Contract Model 
+ 
+ 
+Our basis for considering this reference price approach was derived from a criteria 
+assessment: 
+• provides predictability for investors: this reference price option provides predictability 
+for both investors and government for the lifetime of the contract and mitigates the 
+uncertainty risk that both parties would face were the contract based on a fluctuating 
+carbon price; 
+• subsidy reduces over time: having the level of support decline over the lifetime of the 
+contract will reduce outlay for government as the carbon price increases and low carbon 
+products market develops and gradually normalise exposure to standard market 
+conditions; 
+Industrial Carbon Contract Model
+Difference Payment
+Expected CCUS Costs
+Carbon Price
+Strike Price
+Reference Price
+ 
+63 
+• cost effective in order to reduce overall cost to HM Government: the reference 
+price should ensure that the minimum necessary level of subsidy is allocated to the 
+industrial facility so as to achieve efficient allocation of public funds which represents 
+value for money for the exchequer and should incentivise optimisation of technical and 
+operational efficiencies;  
+• provides a fair and cost reflective subsidy: the reference price should avoid the risk 
+of the industrial facility receiving excessive (or insufficient) subsidy; 
+• supports and is compatible with carbon pricing policy: the reference price approach 
+should not contradict or undermine, in practice or principle, the UK’s current or future 
+carbon pricing approach; 
+• simplicity of implementation: basing the reference price on a pre-defined trajectory 
+means that the payments are only dependent on the metered tonnage of CO₂ that is 
+captured and transferred to the T&S network, simplifying the settlement process and 
+reducing the administrative burden both for participants and the contract counterparty; 
+and 
+• provides cost certainty to the Exchequer: where possible, the reference price should 
+provide the Exchequer with a predictable and controllable outlay. 
+Payment 
+The Contract will be paid on the basis of metered output of CO₂ entering the T&S network. No 
+payment will be included for the general availability of the capture equipment. We consider that 
+a payment on the basis of metered output of CO₂, covering opex and capex, will be easier to 
+administer over the lifetime of the contract.  
+T&S fees will be paid as part of the ICC Contract by the counterparty. In principle, the industrial 
+facility will be protected from changes in T&S fees outside its control. Further work on T&S 
+fees will be undertaken in 2021. 
+We considered the alternative option of a payment based on the availability of the capture 
+equipment in respect of the capex invested by the industrial facility but concluded that the 
+availability of a CCUS-enabled industrial facility would be more difficult to measure than a 
+power CCUS plant and could be prone to gaming.  
+Contract Term 
+The generic ICC Contract will have an overall duration of 15-years. We are minded for this to 
+be based on a 10-year initial period covering operational expenses for running capture 
+equipment, T&S fees, and a rate of return on capital investment. Following the end of this initial 
+10-year period, there could be an additional period of 5 years that will only outlay operational 
+costs and T&S fees. This could be delivered through either (i) an option for government and 
+the industrial facility of a 5-year extension to an initial 10-year contract term, or (ii) an initial 
+contract duration of 15-years, with a reopener on the strike price after the initial 10-year period 
+which could take account of the carbon price and development of the low carbon products 
+market in the UK by that time. Further work will follow in 2021 on the capex repayment period 
+ 
+64 
+within the 10-year period as well as the process for the contract extension or reopener at year 
+10 to cover years 11-15. 
+Following the completion of the Contract period(s), the expectation is that the market price of 
+carbon and a sustainable and thriving low carbon products market means that the ICC project 
+will continue to operate without further subsidy support from government. 
+In considering contract length, we have taken account of a number of relevant factors, 
+including the useful life of the asset and its possible accounting treatment, the potential 
+timescale for transition to a subsidy free model, availability and cost of finance, value for 
+money and affordability for government, and the implications for T&S. A 15-year term is the 
+length of the standard CfD in the electricity market, providing a precedent for the overall 
+duration of contract with which the government and the financial community are already 
+familiar and comfortable. However, if we are accelerating capex repayment within the first 10 
+years, this may have an impact on optimum contract length. We will make a final decision on 
+this in 2021. 
+Contract Counterparty 
+The Contract will be a private law contract between a government-appointed counterparty to 
+the Contract and the owner of the industrial facility or third party acting on behalf of the 
+industrial facility. This counterparty is anticipated to be LCCC, subject to agreement and any 
+necessary legal and administrative changes. Award of the contract under bilateral negotiations 
+for initial projects will be on the direction of the BEIS Secretary of State. 
+Subsidy Control 
+The form of the revenue support for ICC projects is expected to be modelled as a subsidy, with 
+contractual terms similar to those in the standard CfD contract, to ensure that participating UK 
+industry is able to accommodate the costs associated with carbon capture. As such, the 
+policies outlined in this document are provisional on compliance with the relevant applicable 
+subsidy control regulations, including those being developed. 
+Classification 
+The policies and approach outlined here covering revenue and capital support and risk 
+allocation are minded-to positions and will undergo further policy development, including a 
+detailed analysis of the government balance sheet treatment and may therefore be subject to 
+change. It is intended that the balance of risks and rewards associated with the ICC policies 
+should lie in the majority with the private sector, reflecting that this programme is fundamentally 
+a commercial endeavour, incentivised and supported by government intervention. 
+Change in law 
+In principle, the ICC Contract will contain change-in-law provisions, the form and scope of 
+which remain to be determined, though are anticipated to be similar to those in the standard 
+ 
+65 
+CfD in the electricity market. Further detail will be set out as the contract is developed during 
+2021. 
+Technical arrangements 
+Eligibility 
+Existing industrial facilities retrofitting carbon capture (including modular carbon capture 
+technology) and new industrial facilities with carbon capture technology intrinsic to the process 
+will be eligible for an ICC Contract. The intention is for all carbon capture technologies to be 
+applicable under the process, this includes post combustion, oxyfuel, pre combustion and 
+emerging carbon capture technologies such as calcium looping, membranes, and others. We 
+would expect a capture rate (efficiency) of at least 90% of the total flowrate of the flue gas 
+stream to be achievable; however, work with technical advisors will define this in more detail in 
+2021. 
+Metering 
+Accurate metering is important for determining the CO₂ capture rate, CO₂ quality and quantity 
+of CO₂ captured from the industrial facility and sent for permanent storage. It is also important 
+for ensuring accurate payments between parties across the CCUS chain. To meet these 
+requirements, the quantity of CO₂ will need to be determined through metering at these points 
+(whichever is appropriate for systems finalised upon): 
+• the interface between the industrial facility and capture plant (for post-combustion 
+capture) – if required by the industrial facility or if owned by a third party; and 
+• the interface between the capture plant and the onshore transport network. 
+In addition to metering the CO₂ flow rate, it is important to monitor the composition of the 
+captured gas entering the T&S network. Other components beyond CO₂ can be captured as 
+well, and the presence of contaminants, such as water, oxygen, nitrogen, and other gases, can 
+damage downstream pipelines and potentially create issues for the storage site performance. 
+Mechanisms will need to be in place to prevent contaminated CO₂ entering the T&S network.  
+There will be further work to determine the specifics of metering requirements in 2021, 
+particularly relating to specifics on the interfaces between the capture plant and the T&S facility 
+and metering in other transportation methods.  
+Consideration of risks 
+Appropriate risk identification, mitigation, and allocation is critical to ensuring the success of 
+ICC projects. This work has been undertaken with the central aim of achieving the right 
+incentives, while ensuring that both the private sector and the government are not allocated 
+risks that they cannot manage or price for.  
+ 
+66 
+Therefore, risks are allocated to the party considered best placed to manage each risk, noting 
+that where this threatens the other objectives of CCUS, particularly in relation to ICC being 
+financeable, deliverable, and providing value for money, some sharing of risk may be 
+necessary. Our approach to risk allocation may evolve as the commercial frameworks mature. 
+Based on this we have identified 54 risks grouped into core risks below. The following section 
+details key risks relating to ICC, and our ‘minded-to’ position on these risks. Where our 
+‘minded-to’ position remains outstanding, we have highlighted this. 
+Risk  
+Description 
+Allocation 
+Construction cost 
+overruns 
+There is a risk that the owner of the 
+industrial facility and the supply 
+chain do not have the skills and 
+experience to deliver the carbon 
+capture plant efficiently to cost 
+predictions. 
+Furthermore, the novelty of ICC 
+means that it is challenging for the 
+industrial facility to accurately 
+predict capital expenditure, although 
+this may be mitigated by detailed 
+FEED studies. Therefore, there is a 
+risk that there are construction cost 
+overruns or savings beyond those 
+projected when agreeing the ICC 
+Contract and grant funding.  
+Further analysis is ongoing, but 
+our ‘minded-to’ position is, where 
+HMG is providing capital co-
+funding, to provide it as “last 
+spend” incentivising industry to 
+fully exploit other sources of 
+capital first, with the HMG grant 
+filling any gap between that and 
+actual construction costs up to a 
+capped amount. If this cap has 
+not been reached, the remaining 
+portion of the grant would be 
+available to repay other sources 
+of capital, subject to the grant not 
+exceeding a pre-agreed 
+percentage of total capital spend. 
+ 
+ 
+67 
+Risk  
+Description 
+Allocation 
+Other 
+construction risks 
+Risk to the effective construction of 
+the carbon capture plant due to: 
+• damage to process plant 
+during construction;  
+• difficulty of delivering capture 
+technology at the relevant 
+site; 
+• timing delays; and 
+• incomplete construction. 
+ 
+The industrial facility will bear the 
+risk if there is damage to the 
+process plant during construction 
+of the carbon capture plant or if 
+the carbon capture technology 
+cannot be delivered at the 
+relevant site.  
+In the case of any timing delays, 
+we are minded to provide 
+flexibility through an appropriate 
+Target Commissioning Window, 
+with the industrial facility bearing 
+the risks for any delays beyond 
+this. Delay to completion could 
+lead to T&S having no utilisation if 
+the delayed user is the anticipated 
+first user (i.e. user timing 
+mismatch risk). If there are any 
+delays as a result of 
+unforeseeable circumstances, 
+then a Force Majeure clause will 
+allow an extension.  
+The industrial facility will bear 
+construction completion risk. The 
+payments will not commence if 
+the carbon capture facility’s 
+construction is not completed.  
+ 
+68 
+Risk  
+Description 
+Allocation 
+Operating risk: 
+costs 
+The operating costs for capture 
+plants are likely to be significant and 
+challenging to predict, particularly 
+for first projects.  
+This creates a risk for industrial 
+carbon capture if the operational 
+costs are materially higher or lower 
+than forecast. If the subsidy fails to 
+cover the additional operating costs 
+of running abated then the plant 
+may be incentivised to operate 
+unabated, especially once the 
+capital portion of the ICC Contract 
+has ended. Conversely, the ICC 
+Contract also risks over-payment if 
+forecasted operating costs turn out 
+to be much lower once the project is 
+operational. 
+Our ‘minded-to’ position is to 
+provide a single operating 
+expenditure reopener early on, 
+once the project is in operation. 
+This would incentivise 
+management of this risk, whilst 
+protecting against uncertainty in 
+operating costs for FOAK ICC 
+projects. The industrial facility will 
+bear the risk of increased costs 
+after the reopener, although 
+consideration will be given to 
+providing protection against 
+inflation. Further work will be 
+undertaken to determine the 
+timing and process for the 
+reopener. 
+ 
+Operating 
+performance risk 
+There is uncertainty over the 
+technological performance of the 
+capture equipment and how this 
+performance may change over time 
+(linked to operating cost risk). For 
+example, poor performance of the 
+capture plant could result in CO₂ 
+quality that is lower than the 
+standard required by the T&S 
+network. In addition, the CO2 
+capture rate and plant efficiency 
+could be lower than forecast. 
+The industrial facility would bear 
+this risk. The industrial facility 
+would be required to operate 
+continuous quality monitoring and 
+emergency venting system to 
+ensure that no out-of-specification 
+CO₂ enters the T&S network. The 
+industrial facility would also be 
+responsible for ensuring minimum 
+defined capture rates are met.  
+ 
+ 
+69 
+Risk  
+Description 
+Allocation 
+Demand risk 
+Risk that the industrial facility may 
+have uncertain future demand for its 
+goods and services, leading to 
+uncertainty over the volume of 
+carbon it will deliver to the T&S 
+network. This includes where: 
+• the industrial facility has 
+lower demand for its primary 
+goods or services than was 
+forecast, resulting in 
+less CO₂ delivered to 
+T&SCo; and 
+• the industrial facility has 
+higher demand for its primary 
+goods or services than was 
+forecast, resulting in 
+more CO₂ delivered to 
+T&SCo. 
+We are looking at a variety of 
+options including: 
+• for lower demand, we could 
+potentially adjust payments 
+to ensure continued returns 
+on capex; 
+• for higher demand, we will 
+consider the viability of a 
+capture cap, restricting 
+payments above this cap.  
+We will also need to consider 
+further the impact on the T&S 
+network for both higher and lower 
+than estimated CO₂ volumes 
+being captured by the industrial 
+facility. 
+Further detail on our approach to 
+demand risk will be set out in 
+2021, including the interaction 
+with the forthcoming Industrial 
+Decarbonisation Strategy and the 
+development of the low carbon 
+products market. 
+User stranded 
+asset 
+If the T&S network fails to be 
+constructed or is abandoned post-
+commissioning, then the ICC project 
+will become stranded. 
+In the event that the T&S network 
+is never completed, or completed 
+to an unsatisfactory standard, the 
+options are still being considered, 
+but could include: 
+• the industrial facility could 
+be reimbursed for 
+legitimate costs incurred, 
+including the return of any 
+carbon allowances 
+forfeited. 
+ 
+ 
+70 
+Risk  
+Description 
+Allocation 
+T&S unplanned 
+outage 
+Temporary unplanned or planned 
+outage of T&S network. 
+In the event of a T&S network 
+outage, preventing the industrial 
+facility from using the T&S 
+network and causing captured 
+CO₂ to be emitted to the 
+atmosphere, the options are still 
+being considered, but could 
+include: 
+• the industrial facility could 
+continue to be paid for 
+capturing carbon as agreed 
+in the contract;  
+• the industrial facility could 
+be paid the capex return 
+payment if the capture 
+facility can be turned off; 
+and 
+• the contract payments 
+could be extended by the 
+period that the T&S 
+network is out. 
+T&SCo would bear the majority of 
+unplanned outage risk. See T&S 
+unplanned outage risk in Section 
+3 for more details on the impact 
+on T&SCo. 
+T&S fees 
+increase  
+T&S fees charged to industrial 
+facilities are increased. 
+The industrial facility could be 
+protected from an increase in T&S 
+fees through a variety of potential 
+measures. Further work on T&S 
+fees will be undertaken in 2021.  
+ 
+ 
+ 
+71 
+Risk  
+Description 
+Allocation 
+T&S timing 
+mismatch 
+T&S timing mismatch risk will arise 
+if the commissioning of the T&S 
+network is delayed beyond the 
+commissioning dates of the 
+industrial capture plant, with the 
+capture plant unable to transport 
+CO₂ while waiting for the T&S 
+network to be completed. 
+In the event that the T&S network 
+is not completed in time for the 
+completion of the capture plant, 
+the approach is still under 
+consideration, however, it could 
+include:  
+• the industrial facility could 
+receive their payment for 
+capturing carbon (post-
+commissioning and/or 
+dependent on capture 
+technology), as agreed in 
+the contract; 
+• the Target Commissioning 
+Window could be moved as 
+agreed with the industrial 
+facility in order to match 
+commissioning T&S 
+timelines. 
+T&SCo would bear the majority of 
+T&S construction overrun risk. 
+See T&S construction delay risk 
+in Section 3 for more details. 
+ 
+72 
+Risk  
+Description 
+Allocation 
+T&S capacity 
+constraint 
+Lower than expected volumes of 
+CO₂ available in the transport 
+and/or storage facility either due to 
+T&S network issues, or the capture 
+plant injecting CO₂ into the T&S 
+network at a rate greater than 
+agreed, leading to the industrial 
+facility and/or other industrial 
+facilities being constrained. 
+ 
+If industrial facilities are 
+constrained by a fault in the T&S 
+network, then industrial facilities 
+could choose to either release 
+CO₂ into the atmosphere (which 
+would lead to a carbon cost) 
+and/or have access to alternative 
+injection route (e.g. onsite CO₂ 
+storage vessels). The approach is 
+still under consideration, but 
+industrial facilities could be paid 
+for the carbon captured in 
+accordance with the contract. 
+Industrial facilities will agree a 
+capacity with the T&S network 
+and a penalty will be applied to 
+industrial facilities that cause a 
+capacity constraint through over-
+injection. 
+T&SCo allowed revenue would be 
+reduced if capacity level is lower 
+than set target. See T&S capacity 
+constraint risk in Section 3 for 
+more details on the impact on 
+T&SCo. 
+Change in law or 
+policy 
+Change in law that impacts the 
+costs or deliverability of carbon 
+capture. 
+The ICC Contract will set out 
+appropriate provisions to protect 
+the industrial facility from certain 
+unforeseeable and material policy 
+changes. 
+ 
+73 
+Risk  
+Description 
+Allocation 
+Carbon policy 
+and pricing 
+Changes to the UK ETS or free 
+allowances impact the commercial 
+return of plant. 
+Changes in carbon policies outside 
+of UK. 
+The industrial facility will not be 
+exposed to changes in carbon 
+price or free allowance policy in 
+respect of the carbon that it 
+captures once the contract has 
+been signed. It remains exposed 
+in respect to any residual 
+emissions.  
+Leakage risks 
+Leakage of CO₂ from the industrial 
+facility. 
+The industrial facility is expected 
+to be responsible for any leakage 
+of CO₂ in their part of the network. 
+Supply chain risk 
+Supply chain does not have the 
+capability or capacity to construct or 
+operate the capture plant. 
+The industrial facility is 
+responsible for ensuring that 
+contractors have the capability 
+and capacity to construct and 
+operate the facility. 
+Decommissioning Decommissioning costs are higher/ 
+lower than forecast. 
+The industrial facility is unable to 
+carry out the decommissioning 
+process. 
+The industrial facility is 
+responsible for decommissioning 
+capture plant in line with relevant 
+industry standards. 
+ 
+Commercial risk 
+The industrial facility is unable to 
+obtain financing on acceptable 
+terms. 
+The industrial facility has financial 
+difficulties during the construction 
+phase of the programme. 
+The industrial facility is 
+responsible for obtaining finance 
+and managing its cashflows. 
+ 
+Financing arrangements 
+The CIF is currently under development and it is expected that this fund will, in part, support 
+the capital funding of some early ICC projects and CO₂ T&S networks. This funding would be 
+delivered as capital grants to support, in part, the capital cost of capture projects, with the 
+ 
+74 
+remainder funded through private investment sources and/or the industrial facility’s owner 
+balance sheet (or a combination of both).  
+Further details on the revenue mechanism to deliver industrial carbon capture through the ICC 
+Contract will be set out in 2021. 
+ 
+ 
+75 
+Section 6: Update on hydrogen business 
+models 
+As an energy carrier with a range of potential different applications, low carbon hydrogen is 
+expected to play an important role in our plans to reduce the UK’s carbon emissions and reach 
+net zero by 2050. The Prime Minister’s recent Ten Point Plan included a number of 
+commitments to drive the growth of low carbon hydrogen including: working with industry, with 
+the aim of delivering 5GW of installed low carbon hydrogen production capacity by 2030; 
+confirmation of the intent to publish a UK Hydrogen Strategy in 2021 and a £240 million Net 
+Zero Hydrogen Fund to provide capital co-investment in early hydrogen production projects. 
+Commitments also include a consultation in 2021 on hydrogen business models and plans to 
+bring forward, next year, further details on the revenue mechanism to support them.  
+In August 2020, the government published a response to the consultation on potential 
+business models for CCUS. This confirmed our intention to develop business models to 
+overcome the cost gap between low carbon hydrogen and higher carbon counterfactual fuels, 
+one of the main barriers to adoption of low carbon hydrogen, and that business models will be 
+aimed at supporting both CCUS-enabled and electrolytic hydrogen technologies. Alongside the 
+consultation response, we published a BEIS-commissioned report from Frontier Economics 
+into possible support mechanisms for large scale hydrogen producers17. Since then, we have 
+been building on the work set out in both documents to identify a preferred way forward for low 
+carbon hydrogen business model development.  
+In August, we committed to providing a short update at the end of 2020 on our work to develop 
+the commercial frameworks to bring through low carbon hydrogen projects, ahead of our 
+planned consultation in 2021. This update does not cover government’s wider work on low 
+carbon hydrogen, including development of the UK hydrogen strategy. 
+As of today, hydrogen in the UK is primarily used as a feedstock in certain industrial processes 
+and is not low carbon. In future, hydrogen produced via low carbon technologies has potential 
+for a wide range of additional uses, such as mobility, high temperature process heat in 
+industry, heat in buildings, energy storage and electricity generation.  
+By 2050, we envisage a liquid, subsidy-free market for low carbon hydrogen competing with 
+other low carbon energy technologies. However, in the intervening period, various market 
+barriers will continue to exist. Overcoming the cost difference between low carbon hydrogen 
+and the (higher carbon) counterfactual fuel is required to address some of these barriers and 
+kick start creation of this potential future low carbon hydrogen market.  
+Despite being a nascent sector, various low carbon hydrogen deployment proposals are being 
+considered by energy market participants. These primarily include large scale CCUS-enabled 
+ 
+17 A link to Frontier Economics Ltd’s Business Models for Low Carbon Hydrogen Production report to BEIS 
+(August 2020) can be found at: https://www.gov.uk/government/publications/business-models-for-low-carbon-
+hydrogen-production 
+ 
+76 
+projects as well as standalone electrolytic hydrogen projects and as stated above our intention 
+is to support the development of both technologies. Some deployment proposals have a high 
+number of interdependencies making it important for projects and policies across CCUS, 
+electricity and low carbon hydrogen to develop in a coordinated manner.  
+There are a range of policies aimed at decarbonisation across different end use sectors which 
+could interact with any specific new commercial frameworks for low carbon hydrogen 
+deployment. Examples include the Renewable Transport Fuels Obligation in the mobility 
+sector, the Green Gas Support Scheme in the heating sector, and the standard CfDs for low 
+carbon electricity generation. We are mindful of the need to ensure consistency across 
+policies, both between any new framework(s) and existing schemes, and also consistency 
+regarding the future of existing policies which do or could have a bearing on deployment of low 
+carbon hydrogen. 
+Given the complexity of the low carbon hydrogen value chain, our twin track approach to 
+supporting CCUS-enabled and electrolytic hydrogen, and the associated policy landscape, we 
+intend to take a disaggregated approach to business model design. Different production 
+technologies, project scales, and end uses have different technical and economic 
+characteristics, and business model policy design needs to reflect these, i.e. there is unlikely to 
+be a ‘one size fits all’ approach.  
+That said, we consider that different parts of the low carbon value chain will need to develop in 
+tandem to enable supply and demand to develop jointly. This will be particularly important in 
+the first phase of market creation where risks, including demand risk and offtaker risk, are 
+highest. We are considering the available options for producer and end user support to enable 
+construction to start on low carbon hydrogen infrastructure projects in the early 2020s. Policy 
+interventions are likely to vary depending on the specifics of particular deployment projects, 
+including their production scale and target end users and we expect commercial frameworks to 
+evolve over time to adapt to market developments. A key aim throughout will be avoiding 
+double subsidies and ensuring an appropriate level of financial support. 
+With respect to specific models, Frontier Economics concluded that producer subsidies 
+through either a contractual or regulatory framework were most likely to incentivise investment 
+in hydrogen production. Were this approach to be adopted, our view is that a contractual 
+framework would be more appropriate than a regulatory framework, recognising the asset life 
+of hydrogen production assets, the likely investor profile, and our long-term aim of a subsidy-
+free market for low carbon hydrogen.  
+We are aware of the different characteristics of large-scale centralised projects and small-scale 
+distributed projects and are considering if separate mechanisms are needed for the latter and 
+the feasible options if so.  
+This work is also considering options around business model support for distribution and 
+storage of low carbon hydrogen where we expect early projects to locate. It will be important to 
+retain optionality of future hydrogen deployment beyond initial ‘point-to-point’ applications by 
+ 
+77 
+laying the foundations for establishment of a shared infrastructure to connect multiple 
+producers and users (in addition to shared T&S networks). 
+Other regulatory interventions will also be necessary at various points along the value chain 
+and these are being taken forward in parallel to business model design. For example, we are 
+progressing work on defining low carbon standards and are exploring options to enable 
+blending of hydrogen into the existing gas grid. 
+Any business models adopted will be subject to consultation with relevant stakeholders and 
+compliance with subsidy control, fiscal rules and other relevant legislation. 
+We aim to consult on a ‘preferred’ hydrogen business model, or models, in Q2 2021, in order 
+to finalise in 2022. Alongside this, we will bring forward further details in 2021 on the revenue 
+mechanism to support the business model(s). 
+We will continue to engage with stakeholders via the Hydrogen Advisory Council, Hydrogen 
+Business Models Expert Group, the investment community and directly with specific projects 
+and organisations, and welcome stakeholders to discuss with us their considerations regarding 
+business model policy development18. 
+ 
+18 Please contact us via hydrogen.businessmodels@beis.gov.uk 
+ 
+78 
+Section 7: Next Steps 
+This document reflects the work we have done to date to progress the business models design 
+following publication of the business models consultation response document. We will continue 
+to develop further the detailed structures and mechanisms of the power, T&S and industrial 
+carbon capture business models in 2021 with the aim of having completed business models in 
+place in 2022 as set out in the Ten Point Plan. 
+We will continue to engage with prospective developers of T&S and CO₂ capture projects to 
+refine the business models set out in this document. Following publication of this document we 
+will undertake a series of targeted engagements with the financial community as potential 
+investors in T&S and CO₂ capture projects. 
+In order to provide further visibility on the intended development of the business models we are 
+planning further updates during the course of 2021, set out below. 
+No 
+CCUS policies 
+Indicative date 
+1 
+Cluster consultation  
+Q1/2 2021 
+2 
+Hydrogen Business Model consultation  
+Q2 2021 
+3 
+TRI Model update (including revenue model, ERR 
+and GSP)  
+Q2 2021 
+4 
+DPA model update  
+Q2 2021 
+5 
+Industrial Carbon Capture business model update  
+Q2 2021 
+6 
+Supply chain update  
+Q2 2021 
+7 
+T&S decommissioning regime  
+Q3 2021 
+8 
+Biomass Strategy Position Paper  
+Q3 2021 
+9 
+CCUS Regulatory framework update  
+Q3 2021 
+10 
+T&S connection arrangements  
+Q3 2021 
+ 
+ 
+ 
+79 
+Glossary 
+Term 
+Description 
+APR 
+Availability Payment Rate (£/MW) 
+BWACC 
+The average return on capital employed derived from a competition or 
+determined by the Regulator in advance of Licence award. 
+CAG 
+CCUS Advisory Group 
+CCUS 
+Carbon Capture, Usage and Storage 
+CCS 
+Carbon Capture and Storage 
+CCC 
+Committee on Climate Change  
+COD 
+Commercial Operational Date 
+CfD 
+Contract for Difference 
+CIF 
+CCS Infrastructure Fund 
+CCGT 
+Combined Cycle Gas Turbine 
+DECC 
+The Department of Energy and Climate Change 
+DEVEX 
+Development expenditure 
+DPA 
+Dispatchable Power Agreement 
+ERR 
+Economic Regulatory Regime 
+EV 
+Economic Value 
+EfW 
+Energy from Waste 
+ 
+80 
+ESG 
+Environmental and Social Governance 
+ETS 
+Emissions Trading System 
+FEED 
+Front End Engineering Design 
+FID 
+Final Investment Decision 
+FX 
+Foreign Exchange  
+FOAK 
+First-Of-A-Kind 
+GSP 
+Government Support Package 
+HMG 
+Her Majesty's Government. 
+HoTs 
+Head of Terms  
+ICC 
+Industrial Carbon Capture 
+ICC 
+Contract 
+Industrial Carbon Capture Contract 
+IDC 
+Interest During Construction 
+IDCF 
+Industrial Decarbonisation Challenge Fund  
+ISCF 
+Industrial Strategy Challenge Fund 
+LCCC 
+Low Carbon Contracts Company 
+OFTO 
+Offshore Transmission Owner 
+OPEX 
+Operating Expenditure 
+Regulator 
+The independent economic regulator of the Economic Regulatory Regime 
+ 
+81 
+RAV 
+Regulated Asset Value 
+RUI 
+Rolled Up Interest 
+RWACC 
+The RWACC is the regulated average return on capital employed, determined 
+by the Regulator and adjusted by the Regulator from time to time according to 
+market conditions 
+TCW 
+Target Commissioning Window 
+T&S 
+Transport and Storage 
+T&SCo 
+A company licensed to provide transport and storage services 
+TRI 
+T&S Regulatory Investment 
+VfM 
+Value for Money 
+WACC 
+Weighted average cost of capital 
+ 
+ 
+ 
+ 
+This publication is available from: https://www.gov.uk/government/organisations/department-
+for-business-energy-and-industrial-strategy   
+If you need a version of this document in a more accessible format, please email 
+CCUSBusinessModelsUpdate@beis.gov.uk. Please tell us what format you need. It will help 
+us if you say what assistive technology you use. 

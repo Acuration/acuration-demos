@@ -1,0 +1,428 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deployment of bio-CCS: case study 
+on bioelectricity 
+Drax Power Station, United Kingdom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contribution of IEA Bioenergy Task 45 to the inter-task project Deployment of 
+bio-CCUS value chains 
+May 2021 
+ xxxx: xx 
+ 
+ 
+ 
+IEA Bioenergy: Task XX 
+Month Year 
+ xxxx: xx 
+ 
+May 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2021 IEA Bioenergy. All rights Reserved 
+ 
+Published by IEA Bioenergy 
+ 
+ 
+ 
+ 
+The IEA Bioenergy Technology Collaboration Programme (TCP) is organised under the auspices of the International Energy Agency (IEA) but is functionally and legally autonomous. 
+Views, findings and publications of the IEA Bioenergy TCP do not necessarily represent the views or policies of the IEA Secretariat or its individual member countries 
+ 
+ 
+Deployment of bio-CCS: case study on bioelectricity 
+Drax Power Station, Drax, UK 
+ 
+Author: Zoe M Harris, Imperial College London & IEA Bioenergy Task 45 
+Editor: Olle Olsson, Stockholm Environment Institute & IEA Bioenergy Task 40 
+ 
+ 
+ 
+ 
+ 
+Title of publication 
+Subtitle of publication 
+ 
+Authors and / or acknowledgements here 
+Edited by 
+ 
+ 
+ 
+Contribution of IEA Bioenergy Task 45 to the IEA Bioenergy inter-task project Deployment of bio-
+CCUS value chains 
+May 2021 
+ 
+ 
+ 
+      
+ 
+Preface 
+Substantial amounts of negative emissions may be required if global climate change is to be 
+limited to well-below 2°C above pre-industrial levels, as is the ambition of the 2015 Paris 
+Climate Agreement. Among the different negative emissions options available, bioenergy with 
+carbon capture and storage, also referred to as bio-CCS or BECCS, is arguably one of the most 
+commonly discussed in climate policy debates.  
+Up until recently, bio-CCS was primarily discussed in terms of its potential and drawbacks over 
+very long timeframes, e.g., 2050 and beyond, but there is now growing focus on more near-
+term aspects. The IEA Bioenergy inter-task project Deployment of BECCS/U value chains runs 
+2019-2021 and strives to provide insights about the opportunities and challenges pertaining to 
+taking BECCS from pilots to full-scale projects. To this end, the project puts focus not only on 
+technological aspects but also on how BECCS business models could be set up and the role that 
+public policy could play in enabling sustainable deployment of BECCS. Focus in the project is 
+on the CO2 capture, transportation and storage phases of the supply chain. Upstream biomass 
+feedstock supply systems are only touched upon very briefly, as these issues are analyzed to 
+great detail in other IEA Bioenergy work.  
+An important characteristic of BECCS is that it can be implemented in a broad range of sectors 
+- basically any setting where there are biogenic emissions of CO2 available in sizeable 
+quantities. This includes generation of heat and power in various contexts, but also industrial 
+facilities like cement production, pulp & paper mills or ethanol plants. The specifics related to 
+BECCS implementation can however vary quite substantially from sector to sector. This is partly 
+because of differences in technological factors like CO2 concentrations, but also a result of how 
+different sectors operate under widely varying commercial and regulatory conditions.  
+This case study is part of a series of studies carried out under the Deployment of BECCS/U Value 
+Chains project with the aim to highlight these sector-specific characteristics. The case studies 
+provide deeper insights into the key aspects that come into play for companies that are in the 
+process of setting up value chains for capture, transportation and sequestration or utilization 
+of biogenic CO2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+Summary 
+In the past decades, partial or full substitution of biomass for coal in power stations designed 
+for the latter have been cost-efficient and fast strategies for utilities to reduce their use of 
+fossil fuels, while being able to avoid stranding of assets. However, with trends towards 
+decreased subsidy levels and a rapid reduction of costs of other renewables, bioelectricity faces 
+challenging prospects when it comes to competing on power markets. 
+In this context, the emerging interest in negative emissions in the form of bio-CCS could present 
+a new market opportunity for biomass power stations. The largest currently in operation is Drax 
+Power Station in northern England. Here, Drax operates more than 2.5 GW of generation 
+capacity based on biomass in the form of wood pellets. With a stated ambition to become a 
+carbon-negative company by 2030, Drax are in the process of investigating and piloting the 
+setup of a bio-CCS value chain based on capturing CO2 from its four biomass-fired units.  
+Drax has invested into two pilot projects aimed at increased understanding of how the capture 
+process would be implemented in practice, one using a bespoke technology developed by a firm 
+called C-Capture and one more “off-the-shelf” solution delivered by Mitsubishi Heavy 
+Industries. Even though the scale of implementation at Drax would be well beyond what has 
+hitherto been done with these technologies, Drax do not see any major technological obstacles 
+to full-scale deployment of the CO2 capture phase of the full value chain.  
+There are however a set of key building blocks that need to be in place to take the next step. 
+First, there needs to be a transportation & storage infrastructure set up. Working towards this, 
+Drax is collaborating with other actors in the Zero Carbon Humber initiative that aims to set up 
+a CCUS cluster in the Humber region. Secondly, there needs to be a policy framework in place 
+that allows revenue generation for companies that produce negative emissions. While Drax see 
+that in the long-term, negative emissions would be incentivized through some sort of 
+international emissions trading system, complementary systems - e.g., in the form of contracts-
+for-difference - are needed in the short-term to initiate project deployment.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgments 
+We want to thank Drax for providing valuable information for this case study.  
+ 
+ 
+ 
+ 
+4 
+Contents 
+1 
+Introduction ........................................................................................................ 5 
+1.1 
+Coal-to-biomass power station conversions and CCS ........................................................ 5 
+1.2 
+Bio-CCS at Drax: Background .................................................................................... 5 
+2 
+About Drax and the project ..................................................................................... 6 
+2.1 
+Plant info and capture options ................................................................................. 6 
+2.2 
+Post-capture options ............................................................................................. 6 
+3 
+Moving to deployment? ........................................................................................... 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+1 Introduction 
+1.1 COAL-TO-BIOMASS POWER STATION CONVERSIONS AND CCS 
+For several decades, the use of biomass-based fuels in power stations originally designed for coal has been 
+a cost-efficient and fast way for utilities to reduce their use of fossil fuels, while still being able to utilize 
+existing capital assets. Implementation of this approach has tended to be done in mainly two variants: co-
+firing or conversion. In co-firing, the biomass fuel – typically wood pellets – is pulverized and combusted 
+together with pulverized coal. Up to a wood pellet percentage of around 15%, this can be done with only 
+minor additional investments in e.g., fuel handling systems. Conversion on the other hand requires more 
+extensive investments but enables the use of 100% biomass.  
+The repurposing of coal power stations for use with biomass as fuel has been implemented in many places 
+around the world, including Brazil, the US and Japan, but Europe has arguably been at the center of this 
+development (Roni et al. 2017). Rapidly decreasing costs of other forms of renewable electricity – especially 
+wind & solar – and changed policy frameworks, has meant that both co-firing and conversion projects have 
+begun to be of less interest to utilities in Europe. An important question moving forward is whether the 
+added benefit of enabling negative emissions via CCS might change this development. 
+Currently, there are about 20 power plant CCUS projects at various stages of development globally, with 
+one in North America) operating commercially. However, no project in commercial operation is based on 
+co-firing nor in coal power stations retrofitted for biomass. There is however one project that aims to do 
+the latter. UK-based Drax operates a very large power station in northern England that over the recent 
+decade has been converted from coal to biomass and is currently exploring opportunities to implement CCS 
+at its facility.  
+1.2  BIO-CCS AT DRAX: BACKGROUND 
+Drax Group plc is a vertically integrated energy company. This means that in addition to its electricity 
+generation business, Drax e.g., owns three pellet mills in the Southeastern United States as well as retail 
+operations supplying energy to a range of commercial and industrial customers. As for its generation 
+operations, Drax owns and operates  a portfolio of flexible low carbon and renewable electricity generation 
+assets across Britain, which include pumped storage, hydro and energy-from-waste assets in Scotland. Its 
+main generation site - Drax Power Station in North Yorkshire in England – is the UK’s largest power station 
+supplying around 5% of the country’s electricity.  
+Drax Power Station one of the largest power stations in Europe with a total generation capacity of almost 4 
+GW and was originally constructed, and for many years operated as, a coal-fired power station. However, a 
+series of investments beginning in 2013 have enabled it to use biomass instead of coal in four of its six 
+boilers and Drax Power Station now produces around 11%% of the UK’s renewable electricity.  
+Given the increased focus on the role of BECCS and negative emissions in reaching a net-zero target, and 
+the fact that Drax has a well-developed biomass supply chain and the technical expertise required to develop 
+capture technology, Drax has decided to invest heavily in the development of BECCS.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+2 About Drax and the project 
+2.1 PLANT INFO AND CAPTURE OPTIONS 
+As noted in section 1, in 2013 Drax began converting its coal-firing units into solely biomass-firing units and 
+to date (late 2020), four of six 645MW units have been converted to biomass generation. The fuel for the 
+four units is in the form of wood pellets primarily sourced from North America. Drax utilises a number of 
+certification schemes to ensure sustainability for wood pellets, predominantly the Sustainable Biomass 
+Program (SBP), which builds upon the Sustainable Forest Initiative (SFI), Forest Stewardship Council® 
+(FSC®)1 and the Programme for the Endorsement of Forest Certification (PEFC). In addition, Drax has its 
+own sustainable biomass sourcing policy that is overseen by an independent advisory body of scientist and 
+forestry experts.  
+Since subsidies for biomass power generation in the UK are due to end in 2027 (BEIS 2020), Drax has focused 
+on reducing the costs of its biomass by around a third to £50/MWh by 2027 to ensure it can continue to 
+operate profitably after this date. Creating a long-term future for sustainable biomass enables the 
+development of BECCS so Drax can meet its ambition to be carbon negative by 2030.  
+Drax estimates that with  BECCS it could capture up to 4 Mtonne CO2 per year per Drax unit and that, subject 
+to the right investment framework from the UK government, work to build the first two BECCS units could 
+get underway in 2024, Drax would then be capturing up to 8MtCO21, more CO2 than is emitted, thereby make 
+the company carbon negative by 2030. This means Drax could deliver 40% of the CCC’s 2050 BECCS power 
+target by 2030. This can be compared to the 50-60 Mt estimated as necessary for the UK as a whole 
+(Committee on Climate Change 2019; National Grid ESO 2020; Royal Society and Royal Academy of 
+Engineering 2018). 
+To date (late 2020), Drax has invested in two BECCS pilot projects. The first pilot project used a solvent 
+developed by C-Capture to capture 1 tonne of CO2 per day during the pilot phase. Data obtained during this 
+pilot is currently being analysed to understand the potential of the capture technology and how it can be 
+scaled up at Drax (Drax 2020a). This particular solution is relatively bespoke and one of the primary 
+challenges of this solution is working out how to scale up production of the solvent to reach the level 
+required for a full scale BECCS unit.  
+The second pilot has been up and running at Drax since late September 2020, running smoothly and capturing 
+carbon. This project uses off-the-shelf technology from Mitsubishi Heavy Industries and is testing the 
+viability of this established technology against biomass flue gases. Two solvents are being tested, KS-1 – 
+which has been delivered at 13 commercial plants, and a newly developed KS-21 – which is designed to 
+achieve significant performance improvements and cost-savings (Drax 2020b). According to Drax, the 
+technology challenges are not vast when compared to other post combustion carbon capture applications. 
+For example, compared to coal, biomass is naturally much lower in nitrogen and sulphur-based 
+contaminants.  
+2.2 POST-CAPTURE OPTIONS 
+Drax anticipates that a CO2 transportation and storage (T&S) network will be used to transport CO2 from 
+the Drax power station to a storage site under the North Sea (Endurance). The UK government is increasingly 
+focused on the development of CCUS clusters to decarbonise industrial regions (BEIS 2021). Drax is a 
+ 
+1 Note that this differs somewhat from current annual emissions from biomass generation - 12.7 MtCO2 in 2019 - due to slightly different 
+operational characteristics when in a BECCS setting.  
+ 
+ 
+ 
+7 
+founding member of the Zero Carbon Humber initiative, which aims to deploy CCUS technology across the 
+Humber cluster – the UK’s most carbon-intensive industrial cluster. This T&S network is fundamental to 
+enable wider decarbonisation with CCUS in the region, with power stations, hydrogen producers, and 
+industrial CCUS users all looking at the possibility of connecting. The group anticipates that up to 44MtCO2 
+could be captured per year in the Humber region, fairly evenly split between industrial CCUS, hydrogen 
+production, and BECCS. The company believes that Drax power station could be well placed to act as an 
+anchor project for the cluster by providing the T&S network with a stable supply of CO2.  
+ 
+ 
+ 
+ 
+ 
+8 
+3 Moving to deployment? 
+In terms of taking the step to full commercialisation, technological challenges should not be prohibitive. 
+Furthermore, in terms of having physical room for the capture units, this should not be an issue either. 
+There is ample available land on site at the Drax power station, which will be available for other uses such 
+as utilisation facilities and hydrogen production facilities, including the area where the coal is stored 
+following the end of commercial coal generation in March 2021. 
+However, the Drax BECCS project would require a support mechanism to cover the cost of negative emissions 
+and supplement the revenue that the plant could get from generating renewable electricity. Here, Drax has 
+considered a number of different policy mechanisms to support BECCS deployment, all of which attempt to 
+account for the fact that BECCS produces two useful products – renewable power and negative emissions. 
+Examples of possible mechanisms could be: 
+1. Power Contracts for Difference (CfD). Under this scheme a BECCS operator would be rewarded for 
+both low-carbon power, and negative emissions under a single power CfD price (£/MWh). This would 
+instil investor confidence as a well understood mechanism, and could be implemented in a timely 
+manner with limited administrative burden.  
+ 
+2. Carbon payment. Under this scheme a BECCS operator would be rewarded per tonne of carbon 
+sequestered on a £/tCO2 basis as rewarded through a carbon pricing regime.  
+ 
+3. Power CfD + carbon payment. This scheme is a hybrid of the two schemes. Under this scheme BECCS 
+operators would receive a payment (£/tCO2) for carbon sequestered, and a contract for difference 
+(£/MWh) payment on the low-carbon power produced.  
+ 
+Having said this, these suggestions are likely to be more important in the short term. Drax have assumed 
+that over the long term, a BECCS policy mechanism would transition to an enduring subsidy-free scheme – 
+such as the inclusion of negative emissions within an emissions trading scheme, such as an EU or UK-ETS.  
+As noted in section 1, an important incentive for Drax to pursue its BECCS project is the 2027 phase-out of 
+governmental subsidies for biomass-based electricity generation. Another workstream aimed at meeting the 
+challenge of the subsidy phase-out involves reducing biomass costs down from £75/MWh to £50/MWh. These 
+workstreams are not mutually exclusive as the £50/MWh biomass cost target applies to BECCS as well. 
+However, the operational regimes would be different depending on which objective is prioritized. If the aim 
+is to maximize negative emissions, baseload operations would be the appropriate modus operandi, whereas 
+focusing on peaking operation without BECCS would be a way to take advantage of electricity price spikes.  
+In addition to these policy-based means of generating revenue to cover the cost of BECCS, there is emerging 
+interest from private investors in purchasing negative emissions to offset their carbon emissions, a market 
+that Drax expects to develop over time.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+References 
+BEIS (2020). Contracts for Difference for Low Carbon Electricity Generation - Consultation on Proposed 
+Amendments to the Scheme. UK Department for Business, Energy and Industrial Strategy. 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/885
+248/cfd-ar4-proposed-amendments-consultation.pdf 
+BEIS (2021). Carbon Capture, Usage and Storage: Market Engagement on Cluster Sequencing. 
+https://www.gov.uk/government/consultations/carbon-capture-usage-and-storage-market-engagement-
+on-cluster-sequencing 
+Committee on Climate Change (2019). Net Zero - The UK’s Contribution to Stopping Global Warming. 
+https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-The-UKs-contribution-to-stopping-
+global-warming.pdf 
+Drax 
+(2020a). 
+Carbon 
+Dioxide 
+Now 
+Being 
+Captured 
+in 
+First 
+of 
+Its 
+Kind 
+BECCS 
+Pilot. 
+https://www.drax.com/press_release/world-first-co2-beccs-ccus/ 
+Drax (2020b). Negative Emissions Pioneer Drax and Leading Global Carbon Capture Company – Mitsubishi 
+Heavy Industries Group – Announce New BECCS Pilot. https://www.drax.com/press_release/negative-
+emissions-pioneer-drax-and-leading-global-carbon-capture-company-mitsubishi-heavy-industries-group-
+announce-new-beccs-pilot/ 
+National 
+Grid 
+ESO 
+(2020). 
+Future 
+Energy 
+Scenarios. 
+https://www.nationalgrideso.com/document/173821/download 
+Roni, M., Chowdhury, S., Mamun, S., Marufuzzaman, M., Lein, W. and Johnson, S. (2017). Biomass co-firing 
+technology with policies, challenges, and opportunities: A global review. Renewable and Sustainable Energy 
+Reviews, 78. 1089–1101. DOI: 10.1016/j.rser.2017.05.023 
+Royal 
+Society 
+and 
+Royal 
+Academy 
+of 
+Engineering 
+(2018). 
+Greenhouse 
+Gas 
+Removal. 
+https://www.raeng.org.uk/publications/reports/greenhouse-gas-removal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+Further Information

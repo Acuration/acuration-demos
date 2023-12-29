@@ -1,0 +1,177 @@
+ 
+Project 190247  27/10/2020 
+ 
+ 
+ 
+ 
+VERIFICATION STATEMENT 
+ 
+Assessment of the Drax Biomass Carbon Calculator V2.0 
+ 
+Prepared for: 
+DRAX CORPORATE LIMITED  
+Drax Power Station,  
+Selby, North Yorkshire YO8 8PH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2/4 
+Project 190247   
+Drax biomass Carbon Calculator V2.0 
+27/10/2020 
+Objectives 
+SGS Belgium has been assigned by Drax Power ltd to verify an updated version of the Drax Biomass 
+Carbon Calculator developed by the association for the calculation of GHG emissions of a wood pellet 
+supply chain. 
+ 
+The verification has been performed in accordance with ISO 14064-3 (Specification with guidance for 
+the validation and verification of greenhouse gas assertions). 
+ 
+The updated version of the calculator assessed is: Biomass Carbon Calculator V2.0.xlsm (including 
+attached user manual : Biomass Carbon Calculator User Guide V2.0.pdf) 
+ 
+GHG assertion to be verified 
+The assertion to verify is that the tool is conform to the verification criteria : 
+- 
+the calculation tool is free from material misstatement; 
+- 
+the calculation tool complies with annex VI of the Directive (EU) 2018/2001 of the European 
+Parliament and of the council of 11 December 2018 on the promotion of the use of energy 
+from renewable sources (RED recast) 
+ 
+Roles and responsibilities 
+Drax is responsible for the design and the maintenance of the Biomass Carbon Calculator. It is SGS’ 
+responsibility to express an independent GHG verification opinion on the calculation tool with regards 
+to the criteria listed above.  
+ 
+Scope 
+i) organizational boundaries: not applicable (All relevant emission sources involved in the supply chain 
+are considered, regardless which companies are in charge) 
+ 
+ii) physical infrastructure, activities, technologies and processes : 
+forestry, wood harvesting, wood processing, milling, drying, pelletizing, wood pellet use for electricity 
+and/or heat production, all transport steps of raw materials and pellets 
+ 
+iii) GHG sources, sinks and/or reservoirs: 
+- 
+direct and indirect emissions associated with fossil fuel combustion for forestry / processing / 
+handling of feedstock and product 
+- 
+indirect emissions associated with use of electricity for transport / processing / handling of 
+feedstock and product 
+- 
+direct and indirect emissions associated with biomass combustion in processing units 
+- 
+indirect emissions associated with use of additives in processing (if applicable) 
+- 
+direct and indirect emissions associated with use of electricity and/or fossil fuels in relevant 
+transport modes (road, rail, river, sea) 
+- 
+direct emissions at end use (combustion of biomass) 
+ 
+NB :  
+- 
+emissions from carbon stocks release and land use change are assumed to be zero and 
+sourced from sustainable forestry. 
+- 
+no carbon credit claimed for use of degraded land, carbon capture or electricity excess. 
+- 
+no allocation to co-product is applicable 
+ 
+iv) types of GHGs: 
+carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/4 
+Project 190247   
+Drax biomass Carbon Calculator V2.0 
+27/10/2020 
+v) time period: 
+The tool is not linked to any specific time period. It is intended to be used in conjunction with audit reports 
+from SBP certification. Those reports normally cover a 12 months production period. 
+ 
+Level of assurance and materiality 
+The level of assurance for the verification process is reasonable. The level of materiality is 1%. 
+ 
+Intended use 
+The GHG tool is intended to be used to calculate GHG intensity of wood pellets (g CO2 / MJ pellets) in 
+order to calculate GHG savings compared to the relevant fossil fuel comparator, while used for the 
+production of electricity and/or heat. 
+ 
+Overview of the work performed 
+The verification work was performed as desktop review of the calculation tool. It included: 
+- 
+Development of verification approach (verification plan and sampling plan) 
+o Identification of the most critical parameters in terms of risk of error and contribution to 
+the final result 
+o Sample parameters/formula verification accordingly. 
+- 
+Assessment of the GHG data and information including: 
+o Analytical checks of formula using excel formula auditing tools 
+o Tests of the tool using simple datasets and confirming validity of the output though 
+comparison with results obtained by an independent calculation 
+o Checking emission factors / calculation factors back to the source 
+- 
+Assessment against the criteria 
+o Completeness of the GHG emission sources as per RED recast 
+o Correct approach, scope and units as required for each component 
+o Correct default value / calculation factors, where appropriate. 
+ 
+ 
+Conclusion 
+Based on the work performed, SGS concludes with reasonable assurance that the Drax Biomass Carbon 
+Calculator tool V2.0 is free from material misstatement and complies in all material respects with the 
+applicable requirements annex VI of the Directive (EU) 2018/2001. 
+It is noted that emissions released from carbon stock in forests and from land use change (if any) are 
+not covered by the calculation tool and assumed to be zero when wood pellets are sourced from 
+sustainable forestry. 
+ 
+ 
+ 
+François Ducarme 
+Lead verifier 
+Catherine Nève 
+Technical reviewer 
+ 
+ 
+SGS BELGIUM SA - Environment, Health and Safety 
+ rue Phocas Lejeune 4 - 5032 ISNES – Belgium 
+Phone: +32 81 715 162 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/4 
+Project 190247   
+Drax biomass Carbon Calculator V2.0 
+27/10/2020 
+ 
+ 
+ 
+ 
+Disclaimer 
+ 
+Unless otherwise agreed, all orders and documents are executed and issued in accordance with our General Conditions. Upon 
+simple request the conditions will again be sent to you. Attention is drawn to the limitation of liability, indemnification and 
+jurisdiction issues defined therein. 
+Any holder of this document is advised that information contained hereon reflects SGS’ findings at the time of its intervention 
+only and within the limits of client’s instructions, if any. SGS’ sole responsibility is to its client and this document does not 
+exonerate parties to a transaction from exercising all their rights and obligations under the transaction documents. Any 
+unauthorized alteration, forgery or falsification of the content or appearance of this document is unlawful and offenders may be 
+prosecuted to the fullest extent of the law 
+ 

@@ -1,0 +1,7706 @@
+The Abergelli Power Gas Fired Generating Station 
+Order 
+6.2 Environmental Statement Appendices - Volume 
+H Ground Conditions Part IId 
+Planning Act 2008 
+The Infrastructure Planning 
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+PINS Reference Number:
+EN010069 
+Document Reference:
+6.2 
+Regulation Number: 
+5(2)(a) & Infrastructure 
+Planning (Environmental Impact 
+Assessment) Regulations 2009 
+Author:
+AECOM 
+Revision 
+Date 
+Description 
+0 
+May 2018 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix 10.2
+Landmark Information Group 
+Envirocheck Report 2017 
+Part IId
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Datasheet
+Order Details:
+Order Number:
+Customer Reference:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+Site Details:
+Client Details:
+Prepared For:
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Abergelli Fach Farm
+Felindre
+SWANSEA
+SA5 7NN
+ 
+ 
+MS J Foy
+Aecom Infrastructure & Environment UK Ltd
+Longcross Court
+47 Newport Road
+Cardiff
+CF24 0AD
+Abergelli Power Station Project
+ Report:
+Envirocheck®
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Summary
+Agency & Hydrological
+Waste
+Hazardous Substances
+Geological
+Industrial Land Use
+Sensitive Land Use
+Data Currency
+Data Suppliers
+Useful Contacts
+Introduction
+Copyright Notice
+Natural England Copyright Notice
+Ove Arup Copyright Notice
+Peter Brett Associates Copyright Notice
+Radon Potential dataset Copyright Notice
+The Environment Act 1995 has made site sensitivity a key issue, as the legislation pays as much attention to the pathways by which 
+contamination could spread, and to the vulnerable targets of contamination, as it does the potential sources of contamination. 
+For this reason, Landmark's Site Sensitivity maps and Datasheet(s) place great emphasis on statutory data provided by the Environment 
+Agency/Natural Resources Wales and the Scottish Environment Protection Agency; it also incorporates data from Natural England (and the 
+Scottish and Welsh equivalents) and Local Authorities; and highlights hydrogeological features required by environmental and geotechnical 
+consultants. It does not include any information concerning past uses of land. The datasheet is produced by querying the Landmark database 
+to a distance defined by the client from a site boundary provided by the client. 
+In the attached datasheet the National Grid References (NGRs) are rounded to the nearest 10m in accordance with Landmark's agreements 
+with a number of Data Suppliers.
+© Landmark Information Group Limited 2017. The Copyright on the information and data and its format as contained in this Envirocheck® 
+Report ("Report") is the property of Landmark Information Group Limited ("Landmark") and several other Data Providers, including (but not 
+limited to) Ordnance Survey, British Geological Survey, the Environment Agency/Natural Resources Wales and Natural England, and must not 
+be reproduced in whole or in part by photocopying or any other method. The Report is supplied under Landmark's Terms and Conditions 
+accepted by the Customer. 
+A copy of Landmark's Terms and Conditions can be found with the Index Map for this report. Additional copies of the Report may be obtained 
+from Landmark, subject to Landmark's charges in force from time to time. The Copyright, design rights and any other intellectual rights shall 
+remain the exclusive property of Landmark and /or other Data providers, whose Copyright material has been included in this Report.
+Site of Special Scientific Interest, National Nature Reserve, Ramsar, Special Protection Area, Special Conservation Area, Marine Nature 
+Reserve data (derived from Ordnance Survey 1:10000 raster) is provided by, and used with the permission of, Natural England who retain the 
+copyright and Intellectual Property Rights for the data.
+The Data provided in this report was obtained on Licence from Ove Arup & Partners Limited (for further information, contact 
+mining.review@arup.com). No reproduction or further use of such Data is to be made without the prior written consent of Ove Arup & Partners 
+Limited. The information and data supplied in the product are derived from publicly available records and other third party sources and neither 
+Ove Arup & Partners nor Landmark warrant the accuracy or completeness of such information or data.
+The cavity data presented has been extracted from the PBA enhanced version of the original DEFRA national cavity databases. PBA/DEFRA 
+retain the copyright & intellectual property rights in the data. Whilst all reasonable efforts are made to check that the information contained in 
+the cavity databases is accurate we do not warrant that the data is complete or error free. The information is based upon our own researches 
+and those collated from a number of external sources and is continually being augmented and updated by PBA. In no event shall PBA/DEFRA 
+or Landmark be liable for any loss or damage including, without limitation, indirect or consequential loss or damage arising from the use of this 
+data.
+Information supplied from a joint dataset compiled by The British Geological Survey and Public Health England.
+Report Section
+Page Number
+Contents
+Report Version v53.0
+-
+1
+16
+17
+18
+20
+22
+23
+28
+29
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Summary
+Data Type
+Page
+Number
+On Site
+0 to 250m
+251 to 500m
+Agency & Hydrological
+501 to 1000m
+BGS Groundwater Flooding Susceptibility
+Contaminated Land Register Entries and Notices
+Discharge Consents
+Prosecutions Relating to Controlled Waters
+Enforcement and Prohibition Notices
+Integrated Pollution Controls
+Integrated Pollution Prevention And Control
+Local Authority Integrated Pollution Prevention And Control
+Local Authority Pollution Prevention and Controls
+Local Authority Pollution Prevention and Control Enforcements
+Nearest Surface Water Feature
+Pollution Incidents to Controlled Waters
+Prosecutions Relating to Authorised Processes
+Registered Radioactive Substances
+River Quality
+River Quality Biology Sampling Points
+Substantiated Pollution Incident Register
+River Quality Chemistry Sampling Points
+Water Abstractions
+Water Industry Act Referrals
+Groundwater Vulnerability
+Drift Deposits
+Bedrock Aquifer Designations
+Superficial Aquifer Designations
+Source Protection Zones
+Extreme Flooding from Rivers or Sea without Defences
+Flooding from Rivers or Sea without Defences
+Areas Benefiting from Flood Defences
+Flood Water Storage Areas
+Flood Defences
+OS Water Network Lines
+Yes
+Yes
+2
+Yes
+Yes
+Yes
+n/a
+Yes
+1
+n/a
+n/a
+n/a
+n/a
+5
+Yes
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+8
+n/a
+5
+n/a
+8
+1
+2
+2
+1
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+38
+ (*4)
+(*up to 2000m)
+pg 1
+pg 4
+pg 5
+pg 5
+pg 6
+pg 7
+pg 7
+pg 8
+pg 8
+pg 9
+pg 9
+pg 9
+pg 9
+pg 10
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Summary
+Data Type
+Page
+Number
+On Site
+0 to 250m
+251 to 500m
+Waste
+Hazardous Substances
+501 to 1000m
+BGS Recorded Landfill Sites
+Historical Landfill Sites
+Integrated Pollution Control Registered Waste Sites
+Licensed Waste Management Facilities (Landfill Boundaries)
+Licensed Waste Management Facilities (Locations)
+Local Authority Landfill Coverage
+Local Authority Recorded Landfill Sites
+Potentially Infilled Land (Non-Water)
+Potentially Infilled Land (Water)
+Registered Landfill Sites
+Registered Waste Transfer Sites
+Registered Waste Treatment or Disposal Sites
+Control of Major Accident Hazards Sites (COMAH)
+Explosive Sites
+Notification of Installations Handling Hazardous Substances (NIHHS)
+Planning Hazardous Substance Consents
+Planning Hazardous Substance Enforcements
+1
+n/a
+1
+n/a
+2
+n/a
+2
+1
+1
+(*up to 2000m)
+pg 16
+pg 16
+pg 16
+pg 17
+pg 17
+pg 17
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Summary
+Data Type
+Page
+Number
+On Site
+0 to 250m
+251 to 500m
+Geological
+Industrial Land Use
+501 to 1000m
+BGS 1:625,000 Solid Geology
+BGS Estimated Soil Chemistry
+BGS Recorded Mineral Sites
+BGS Urban Soil Chemistry
+BGS Urban Soil Chemistry Averages
+CBSCB Compensation District
+Coal Mining Affected Areas
+Mining Instability
+Man-Made Mining Cavities
+Natural Cavities
+Non Coal Mining Areas of Great Britain
+Potential for Collapsible Ground Stability Hazards
+Potential for Compressible Ground Stability Hazards
+Potential for Ground Dissolution Stability Hazards
+Potential for Landslide Ground Stability Hazards
+Potential for Running Sand Ground Stability Hazards
+Potential for Shrinking or Swelling Clay Ground Stability Hazards
+Radon Potential - Radon Affected Areas
+Radon Potential - Radon Protection Measures
+Contemporary Trade Directory Entries
+Fuel Station Entries
+Points of Interest - Commercial Services
+Points of Interest - Education and Health
+Points of Interest - Manufacturing and Production
+Points of Interest - Public Infrastructure
+Points of Interest - Recreational and Environmental
+Gas Pipelines
+Underground Electrical Cables
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+2
+n/a
+3
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+1
+8
+(*up to 2000m)
+pg 18
+pg 18
+pg 18
+pg 18
+pg 18
+pg 18
+pg 19
+pg 19
+pg 19
+pg 20
+pg 20
+pg 21
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Summary
+Data Type
+Page
+Number
+On Site
+0 to 250m
+251 to 500m
+Sensitive Land Use
+501 to 1000m
+Ancient Woodland
+Areas of Adopted Green Belt
+Areas of Unadopted Green Belt
+Areas of Outstanding Natural Beauty
+Environmentally Sensitive Areas
+Forest Parks
+Local Nature Reserves
+Marine Nature Reserves
+National Nature Reserves
+National Parks
+Nitrate Sensitive Areas
+Nitrate Vulnerable Zones
+Ramsar Sites
+Sites of Special Scientific Interest
+Special Areas of Conservation
+Special Protection Areas
+World Heritage Sites
+1
+1
+1
+5
+(*up to 2000m)
+pg 22
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 1 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+(S)
+(SE)
+(S)
+(SE)
+(S)
+(SE)
+(S)
+(SE)
+(SE)
+(SE)
+(SE)
+(SE)
+C4NE
+(E)
+(SE)
+(SE)
+(SE)
+C4NW
+(SE)
+(SE)
+(SE)
+(SE)
+C8SE
+(NE)
+(S)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+21
+22
+29
+41
+48
+58
+113
+115
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding to Occur at Surface
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+265150
+201650
+265350
+201650
+265050
+201900
+265150
+202100
+265050
+201550
+265050
+202000
+265050
+201700
+265400
+201700
+265200
+201700
+265250
+201850
+265400
+201550
+265400
+201600
+265000
+202741
+265450
+201550
+265400
+202000
+265050
+202050
+264800
+202650
+265550
+202200
+265450
+201900
+265350
+202050
+265000
+202950
+264850
+202050
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 2 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+(SE)
+(S)
+(SE)
+(SE)
+(S)
+(SE)
+(S)
+(SE)
+(S)
+(SE)
+(SE)
+(S)
+C4NE
+(E)
+(SE)
+(SE)
+(SE)
+(SE)
+(SE)
+C4NE
+(E)
+(E)
+(SE)
+(SE)
+117
+132
+139
+139
+140
+168
+172
+199
+212
+228
+241
+249
+255
+264
+291
+292
+292
+311
+324
+330
+339
+341
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding to Occur at Surface
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+265500
+201850
+265000
+202000
+265550
+201650
+265550
+201700
+264750
+201550
+265550
+201800
+265000
+201550
+265750
+201800
+264850
+201950
+265650
+201800
+265650
+202150
+264850
+202000
+265000
+202750
+265900
+202050
+265700
+201950
+265700
+201900
+265700
+202050
+265900
+201700
+265050
+202800
+265250
+202850
+265700
+202200
+265750
+201950
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 3 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+BGS Groundwater Flooding Susceptibility
+(S)
+C4NE
+(E)
+C4NW
+(E)
+(SE)
+C4NE
+(E)
+(E)
+(E)
+(SE)
+C8SE
+(E)
+(SE)
+C8SE
+(E)
+(E)
+C4NE
+(E)
+(SE)
+C8SE
+(NE)
+C8SE
+(NE)
+(SE)
+C8SE
+(NE)
+(SW)
+C8SE
+(NE)
+346
+346
+347
+349
+367
+372
+379
+391
+392
+398
+412
+422
+423
+424
+428
+436
+450
+457
+466
+488
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Flooding Type:
+Potential for Groundwater Flooding to Occur at Surface
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding to Occur at Surface
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Potential for Groundwater Flooding to Occur at Surface
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding to Occur at Surface
+Limited Potential for Groundwater Flooding to Occur
+Potential for Groundwater Flooding of Property Situated Below Ground Level
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+Limited Potential for Groundwater Flooding to Occur
+264400
+201550
+265200
+202850
+264714
+202741
+265750
+202250
+265100
+202850
+265300
+202900
+265250
+202900
+265800
+202000
+265200
+202900
+265800
+202150
+265150
+202900
+265300
+202950
+265000
+202800
+265750
+202300
+265200
+202950
+265000
+202900
+265800
+202200
+265150
+202950
+263700
+201500
+265200
+203000
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 4 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+1
+2
+3
+4
+Discharge Consents
+Discharge Consents
+Discharge Consents
+Discharge Consents
+C3SE
+(SW)
+C3SE
+(SW)
+C8SE
+(NE)
+C3SW
+(W)
+534
+556
+569
+945
+2
+2
+2
+2
+Operator:
+Property Type:
+Location:
+Authority:
+Catchment Area:
+Reference:
+Permit Version:
+Effective Date:
+Issued Date:
+Revocation Date:
+Discharge Type:
+Discharge 
+Environment:
+Receiving Water:
+Status:
+Positional Accuracy:
+Operator:
+Property Type:
+Location:
+Authority:
+Catchment Area:
+Reference:
+Permit Version:
+Effective Date:
+Issued Date:
+Revocation Date:
+Discharge Type:
+Discharge 
+Environment:
+Receiving Water:
+Status:
+Positional Accuracy:
+Operator:
+Property Type:
+Location:
+Authority:
+Catchment Area:
+Reference:
+Permit Version:
+Effective Date:
+Issued Date:
+Revocation Date:
+Discharge Type:
+Discharge 
+Environment:
+Receiving Water:
+Status:
+Positional Accuracy:
+Operator:
+Property Type:
+Location:
+Authority:
+Catchment Area:
+Reference:
+Permit Version:
+Effective Date:
+Issued Date:
+Revocation Date:
+Discharge Type:
+Discharge 
+Environment:
+Receiving Water:
+Status:
+Positional Accuracy:
+Dwr Cymru Cyfyngedig
+Water Supply Grid
+Felindre Chlor.Overflow
+Natural Resources Wales
+Not Supplied
+Bp0180001
+1
+2nd October 1989
+2nd October 1989
+14th March 1994
+Unspecified
+Not Supplied
+To Land
+Consent expired
+Located by supplier to within 100m
+Dwr Cymru Cyfyngedig
+Undefined Or Other
+Felindre Wtw (Septic Tank Disc
+Natural Resources Wales
+River Loughor
+Bc0011901
+1
+22nd May 1970
+22nd May 1970
+19th October 1992
+Unspecified
+Not Supplied
+Unnamed Trib. River Lliw
+Consent expired
+Located by supplier to within 100m
+Dwr Cymru Cyfyngedig
+Water Treatment Works
+Felindre Wtw W'Water Em Emerge
+Natural Resources Wales
+River Loughor
+Be0033201
+1
+24th June 1970
+24th June 1970
+7th July 1997
+Unspecified
+Not Supplied
+Trib River Lliw
+Consent expired
+Located by supplier to within 100m
+Dwr Cymru Cyfyngedig
+Water Treatment Works
+Felindre Wtw
+Natural Resources Wales
+River Loughor
+Bc0011902
+2
+1st January 2010
+24th September 2009
+Not Supplied
+Trade Discharges - Process Effluent - Water Company (Wtw)
+Freshwater Stream/River
+Unnamed Trib. Of River Lliw
+New Consent, by Application (Water Resources Act 1991, Section 88)
+Located by supplier to within 100m
+264500
+202400
+264500
+202500
+264900
+202900
+264100
+202500
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 5 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+4
+5
+6
+6
+6
+Discharge Consents
+Prosecutions Relating to Controlled Waters
+Nearest Surface Water Feature
+Pollution Incidents to Controlled Waters
+Pollution Incidents to Controlled Waters
+Pollution Incidents to Controlled Waters
+C3SW
+(W)
+C3SE
+(SW)
+C4SE
+(SE)
+C3SE
+(SW)
+C3SE
+(SW)
+C3SE
+(SW)
+945
+489
+1
+550
+555
+556
+2
+3
+-
+3
+3
+3
+Operator:
+Property Type:
+Location:
+Authority:
+Catchment Area:
+Reference:
+Permit Version:
+Effective Date:
+Issued Date:
+Revocation Date:
+Discharge Type:
+Discharge 
+Environment:
+Receiving Water:
+Status:
+Positional Accuracy:
+Location:
+Prosecution Text:
+Prosecution Act:
+Hearing Date:
+Verdict:
+Fine:
+Cost:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Dwr Cymru Cyfyngedig
+Water Treatment Works
+Felindre Wtw
+Natural Resources Wales
+River Loughor
+BC0011902
+1
+22nd May 1970
+22nd May 1970
+31st December 2009
+Trade Discharges - Process Effluent - Water Company (Wtw)
+Freshwater Stream/River
+Unnamed Trib. Of River Lliw
+New Consent, by Application (Water Resources Act 1991, Section 88)
+Located by supplier to within 100m
+Water Treatment Works, FELINDRE, .
+Ea News Release 02/12/1999 (Ref Sm329/99lr), Two Offences Of Discharging
+Trade Effluent Into The River Lliw
+Wra91 S85(3) : Saffa75 S4
+29th November 1999
+Guilty
+7750
+3812.67
+Manually positioned to the address or location
+Not Given
+Felindre Wtw
+Environment Agency, Welsh Region
+Chemicals - Other Inorganic
+Accident
+18th April 1997
+31955
+Not Given
+Not Given
+Leakage
+Category 1 - Major Incident
+Located by supplier to within 100m
+Water Company Sewage: Water Treatment Works
+Felindre Sewage Treatment Works, FELINDRE
+Environment Agency, Welsh Region
+Crude Sewage
+Accidental Spillage/Leakage
+6th April 1991
+84
+Not Given
+Not Given
+Leakage
+Category 2 - Significant Incident
+Located by supplier to within 100m
+Water Company Sewage: Water Treatment Works
+Felindre Sewage Treatment Works, FELINDRE
+Environment Agency, Welsh Region
+Algae
+Accidental Spillage/Leakage
+6th April 1991
+427
+Not Given
+Not Given
+Leakage
+Category 3 - Minor Incident
+Located by supplier to within 100m
+264100
+202500
+264545
+202395
+265065
+202348
+264505
+202495
+264500
+202495
+264500
+202500
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 6 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+7
+8
+8
+8
+9
+10
+Pollution Incidents to Controlled Waters
+Pollution Incidents to Controlled Waters
+Pollution Incidents to Controlled Waters
+Pollution Incidents to Controlled Waters
+Pollution Incidents to Controlled Waters
+Prosecutions Relating to Authorised Processes
+C3NE
+(W)
+C3SW
+(SW)
+C3SW
+(W)
+C3SW
+(W)
+C3SW
+(SW)
+C3SE
+(SW)
+710
+895
+939
+944
+896
+504
+3
+3
+3
+3
+3
+3
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Property Type:
+Location:
+Authority:
+Pollutant:
+Note:
+Incident Date:
+Incident Reference:
+Catchment Area:
+Receiving Water:
+Cause of Incident:
+Incident Severity:
+Positional Accuracy:
+Location:
+Prosecution Text:
+Prosecution Act:
+Hearing Date:
+Verdict:
+Fine:
+Costs:
+Positional Accuracy:
+Not Given
+Penfedi, Isaf Farm, FELINDRE
+Environment Agency, Welsh Region
+Unknown
+Not Supplied
+19th May 1992
+4709
+Not Given
+Not Given
+Unknown
+Category 2 - Significant Incident
+Located by supplier to within 100m
+Water Company Sewage: Water Treatment Works
+Felindre Sewage Treatment Works, FELINDRE
+Environment Agency, Welsh Region
+Crude Sewage
+Accidental Spillage/Leakage
+5th April 1991
+475
+Not Given
+Not Given
+Leakage
+Category 2 - Significant Incident
+Located by supplier to within 100m
+Water Company Sewage: Water Treatment Works
+Penfedi Isaf, FELINDRE
+Environment Agency, Welsh Region
+Light Oil
+Not Supplied
+20th February 1991
+2451
+Not Given
+Not Given
+Unknown
+Category 3 - Minor Incident
+Located by supplier to within 100m
+Not Given
+Penfedi Isaf, FELINDRE
+Environment Agency, Welsh Region
+Filter Backwash Water
+Not Supplied
+19th February 1991
+2452
+Not Given
+Not Given
+Unknown
+Category 2 - Significant Incident
+Located by supplier to within 100m
+Water Company Sewage: Water Treatment Works
+Opposite, Felindre Water Treatment Works
+Environment Agency, Welsh Region
+Light Oil
+Not Supplied
+18th February 1991
+2480
+Not Given
+Not Given
+Unknown
+Category 2 - Significant Incident
+Located by supplier to within 100m
+Felindre Water Treatment Works, Felindre
+Mis-handling sludge waste
+Epa90 S33(1)(C)
+6th October 2006
+Guilty
+54000
+2500
+Manually positioned to the address or location
+264500
+202800
+264150
+202495
+264105
+202495
+264100
+202495
+264150
+202500
+264532
+202414
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 7 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+11
+12
+River Quality
+River Quality
+River Quality Biology Sampling Points
+River Quality Biology Sampling Points
+C8SW
+(NW)
+C8SW
+(NW)
+C8SW
+(NW)
+C8NW
+(N)
+714
+714
+716
+964
+3
+3
+3
+3
+Name:
+GQA Grade:
+Reach:
+Estimated Distance 
+(km):
+Flow Rate:
+Flow Type:
+Year:
+Name:
+GQA Grade:
+Reach:
+Estimated Distance 
+(km):
+Flow Rate:
+Flow Type:
+Year:
+Name:
+Reach:
+Estimated Distance:
+Positional Accuracy:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Name:
+Reach:
+Estimated Distance:
+Positional Accuracy:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Year:
+GQA Grade:
+Lliw
+River Quality B
+Conf.Nant Y Crimp - Conf Un Named Trib.
+4.8
+Flow less than 0.62  cumecs
+River
+2000
+Lliw
+River Quality B
+Conf Un Named Trib - Lower Lliw Res
+.5
+Flow less than 0.31 cumecs
+River
+2000
+Loughor Lliw
+Confluence Nant Y Crimp To Confluence Un Named Tributary
+4.80
+Located by supplier to within 100m
+1990
+River Quality Biology GQA Grade B - Good
+1995
+River Quality Biology GQA Grade A - Very Good
+2000
+River Quality Biology GQA Grade A - Very Good
+2002
+River Quality Biology GQA Grade Not Supplied
+2003
+River Quality Biology GQA Grade A - Very Good
+2004
+River Quality Biology GQA Grade A - Very Good
+2005
+River Quality Biology GQA Grade A - Very Good
+2006
+River Quality Biology GQA Grade A - Very Good
+2007
+River Quality Biology GQA Grade A - Very Good
+2008
+River Quality Biology GQA Grade A - Very Good
+2009
+River Quality Biology GQA Grade B - Good
+Loughor Lliw
+Confluence Un Named Tributary To Lower Lliw Reservoir
+0.50
+Located by supplier to within 100m
+1990
+River Quality Biology GQA Grade B - Good
+1995
+River Quality Biology GQA Grade A - Very Good
+2000
+River Quality Biology GQA Grade A - Very Good
+2002
+River Quality Biology GQA Grade Not Supplied
+2003
+River Quality Biology GQA Grade A - Very Good
+2004
+River Quality Biology GQA Grade A - Very Good
+2005
+River Quality Biology GQA Grade A - Very Good
+2006
+River Quality Biology GQA Grade A - Very Good
+2007
+River Quality Biology GQA Grade A - Very Good
+2008
+River Quality Biology GQA Grade A - Very Good
+2009
+River Quality Biology GQA Grade B - Good
+264591
+202891
+264591
+202891
+264600
+202900
+264800
+203300
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 8 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+13
+14
+Substantiated Pollution Incident Register
+Water Abstractions
+Water Abstractions
+Water Abstractions
+Water Abstractions
+C4SW
+(S)
+C8SW
+(N)
+C8NE
+(N)
+C8NE
+(N)
+C8NE
+(N)
+205
+920
+1034
+1034
+1034
+2
+3
+2
+2
+3
+Authority:
+Incident Date:
+Incident Reference:
+Water Impact:
+Air Impact:
+Land Impact:
+Positional Accuracy:
+Pollutant:
+Operator:
+Licence Number:
+Permit Version:
+Location:
+Authority:
+Abstraction:
+Abstraction Type:
+Source:
+Daily Rate (m3):
+Yearly Rate (m3):
+Details:
+Authorised Start:
+Authorised End:
+Permit Start Date:
+Permit End Date:
+Positional Accuracy:
+Operator:
+Licence Number:
+Permit Version:
+Location:
+Authority:
+Abstraction:
+Abstraction Type:
+Source:
+Daily Rate (m3):
+Yearly Rate (m3):
+Details:
+Authorised Start:
+Authorised End:
+Permit Start Date:
+Permit End Date:
+Positional Accuracy:
+Operator:
+Licence Number:
+Permit Version:
+Location:
+Authority:
+Abstraction:
+Abstraction Type:
+Source:
+Daily Rate (m3):
+Yearly Rate (m3):
+Details:
+Authorised Start:
+Authorised End:
+Permit Start Date:
+Permit End Date:
+Positional Accuracy:
+Operator:
+Licence Number:
+Permit Version:
+Location:
+Authority:
+Abstraction:
+Abstraction Type:
+Source:
+Daily Rate (m3):
+Yearly Rate (m3):
+Details:
+Authorised Start:
+Authorised End:
+Permit Start Date:
+Permit End Date:
+Positional Accuracy:
+Natural Resources Wales
+10th May 2007
+493773
+Category 2 - Significant Incident
+Category 4 - No Impact
+Category 4 - No Impact
+Located by supplier to within 10m
+Inert Materials And Wastes: Soils And Clay
+Mr M Glasbrook
+22/59/4/0003
+100
+Spring In Field No. 5700 At Lletty-Thomas Farm
+Environment Agency, Welsh Region
+General Farming And Domestic
+Water may be abstracted from a single point
+Groundwater
+Not Supplied
+Not Supplied
+Spring In Field No. 5700 At Lletty-Thomas Farm 
+01 January
+31 December
+1st December 1965
+Not Supplied
+Located by supplier to within 100m
+Dwr Cymru Cyfyngedig
+22/59/4/0065/01
+2
+Lower Lliw Reservoir - Point B
+Natural Resources Wales
+Public Water Supply: Potable Water Supply - Storage
+Water may be abstracted from a single point
+Surface
+Not Supplied
+Not Supplied
+Not Supplied
+01 April
+31 March
+9th July 2014
+Not Supplied
+Located by supplier to within 10m
+Dwr Cymru Cyfyngedig
+22/59/4/0065
+101
+Lower Lliw Reservoir - Point B
+Natural Resources Wales
+Public Water Supply: Potable Water Supply - Storage
+Water may be abstracted from a single point
+Surface
+Not Supplied
+Not Supplied
+Not Supplied
+01 January
+31 December
+1st April 2011
+Not Supplied
+Located by supplier to within 10m
+Dwr Cymru Cyf
+22/59/4/0065
+100
+Lower Lliw Reservoir
+Environment Agency, Welsh Region
+Public Water Supply: Potable Water Supply - Storage
+Water may be abstracted from a single point
+Surface
+Not Supplied
+Not Supplied
+Lower Lliw Reservoir 
+01 January
+31 December
+1st April 2000
+Not Supplied
+Located by supplier to within 100m
+264841
+202246
+264580
+203130
+264890
+203440
+264890
+203440
+264890
+203440
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 9 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+Water Abstractions
+Groundwater Vulnerability
+Groundwater Vulnerability
+Groundwater Vulnerability
+Drift Deposits
+Drift Deposits
+Bedrock Aquifer Designations
+Bedrock Aquifer Designations
+Superficial Aquifer Designations
+Superficial Aquifer Designations
+Superficial Aquifer Designations
+Superficial Aquifer Designations
+Extreme Flooding from Rivers or Sea without Defences
+Flooding from Rivers or Sea without Defences
+Areas Benefiting from Flood Defences
+C12SW
+(N)
+C4NW
+(SE)
+(SE)
+(SE)
+(S)
+C4NW
+(E)
+C4NW
+(E)
+C4NE
+(E)
+C4SE
+(SE)
+(SE)
+(S)
+C4NE
+(E)
+1439
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+1
+Operator:
+Licence Number:
+Permit Version:
+Location:
+Authority:
+Abstraction:
+Abstraction Type:
+Source:
+Daily Rate (m3):
+Yearly Rate (m3):
+Details:
+Authorised Start:
+Authorised End:
+Permit Start Date:
+Permit End Date:
+Positional Accuracy:
+Soil Classification:
+Map Sheet:
+Scale:
+Soil Classification:
+Map Sheet:
+Scale:
+Soil Classification:
+Map Sheet:
+Scale:
+Drift Deposit:
+Map Sheet:
+Scale:
+Drift Deposit:
+Map Sheet:
+Scale:
+Aquifer Designation:
+Aquifer Designation:
+Aquifer Designation:
+Aquifer Designation:
+Aquifer Designation:
+Aquifer Designation:
+Mr D Morgan
+22/59/4/0005
+100
+Spring 1 At Pant Y Fallen Farm
+Environment Agency, Welsh Region
+General Farming And Domestic
+Water may be abstracted from a single point
+Groundwater
+Not Supplied
+Not Supplied
+Spring 1 At Pant Y Fallen Farm 
+01 January
+31 December
+1st December 1965
+Not Supplied
+Located by supplier to within 100m
+Soils of Low Leaching Potential - Soils in which pollutants are unlikely to 
+penetrate the soil layer because water movement is largely horizontal or they 
+have large ability to attenuate diffuse pollutants. Lateral flow from these soils 
+contribute to groundwater recharge elsewhere in the catchment
+Sheet 35 West Glamorgan
+1:100,000
+Soils of High Leaching Potential (H2) - Deep, permeable, coarse textured soils
+which readily transmit a wide range of pollutants because of their rapid 
+drainage and low attenuation potential
+Sheet 35 West Glamorgan
+1:100,000
+Soils of Intermediate Leaching Potential (I1) - Soils which can possibly 
+transmit a wide range of pollutants
+Sheet 35 West Glamorgan
+1:100,000
+Low permeability drift deposits occuring at the surface and overlying Major and
+Minor Aquifers are head, clay-with-flints, brickearth, peat, river terrace deposits
+and marine and estuarine alluvium
+Sheet 35 West Glamorgan
+1:100,000
+Low permeability drift deposits occuring at the surface and overlying Major and
+Minor Aquifers are head, clay-with-flints, brickearth, peat, river terrace deposits
+and marine and estuarine alluvium
+Sheet 35 West Glamorgan
+1:100,000
+Secondary Aquifer - A
+Secondary Aquifer - A
+Secondary Aquifer - A
+Secondary Aquifer - A
+Secondary Aquifer - A
+Unproductive Strata
+None
+None
+None
+264830
+203860
+264860
+202592
+265287
+202367
+265994
+201841
+265077
+201596
+264714
+202741
+264714
+202741
+265000
+202741
+265153
+202345
+265704
+202282
+264391
+201549
+265000
+202741
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 10 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+15
+16
+17
+18
+19
+20
+21
+22
+Flood Water Storage Areas
+Flood Defences
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+C4SE
+(SE)
+C4SE
+(SE)
+C4SE
+(SE)
+C4SE
+(SE)
+C4NE
+(E)
+C4NE
+(E)
+C8SE
+(NE)
+C4NW
+(SE)
+1
+2
+3
+56
+236
+331
+331
+448
+4
+4
+4
+4
+4
+4
+4
+4
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Inland river
+37.9
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+232.1
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+5.2
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+144.8
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+134.7
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+67.9
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+166.7
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+237.3
+On ground surface
+True
+Not Supplied
+Loughor
+1
+None
+None
+265065
+202348
+264904
+202305
+265060
+202346
+264916
+202458
+265205
+202704
+265142
+202785
+265132
+202947
+264762
+202691
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 11 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+23
+24
+25
+26
+27
+28
+29
+30
+31
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+C8SE
+(NE)
+C8SE
+(NE)
+C8SE
+(NE)
+C4NE
+(NE)
+C8SE
+(NE)
+C8SE
+(NE)
+C8SE
+(NE)
+C8SE
+(NE)
+C8SE
+(NE)
+486
+487
+488
+489
+493
+510
+549
+552
+559
+4
+4
+4
+4
+4
+4
+4
+4
+4
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Inland river
+30.6
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+33.0
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Lake
+53.5
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+78.0
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+229.2
+On ground surface
+True
+Nant y Tarw
+Loughor
+1
+Lake
+34.7
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+97.3
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+7.2
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+42.7
+On ground surface
+True
+Not Supplied
+Loughor
+1
+265161
+202965
+265130
+202955
+265189
+202978
+264917
+202855
+264916
+202936
+265208
+203030
+265064
+203028
+264928
+202894
+264927
+202901
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 12 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+32
+33
+34
+35
+36
+37
+38
+39
+40
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+C8SE
+(NE)
+C8SE
+(NE)
+C8SW
+(N)
+C8NE
+(NE)
+C8SE
+(NE)
+C4NW
+(NE)
+C4NW
+(NE)
+C8SW
+(N)
+C8SE
+(NE)
+562
+590
+593
+593
+596
+597
+602
+629
+669
+4
+4
+4
+4
+4
+4
+4
+4
+4
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Inland river
+182.1
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+6.9
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+164.6
+On ground surface
+True
+Nant y Tarw
+Loughor
+1
+Inland river
+310.4
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+104.6
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+4.6
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+30.1
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+184.6
+On ground surface
+True
+Nant y Tarw
+Loughor
+1
+Inland river
+165.8
+On ground surface
+True
+Not Supplied
+Loughor
+1
+265146
+203052
+265058
+203031
+264771
+202903
+265198
+203270
+264984
+203057
+264781
+202871
+264779
+202875
+264715
+202896
+264952
+203075
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 13 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+41
+42
+43
+44
+45
+46
+47
+48
+49
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+C8SE
+(NE)
+C8SE
+(NE)
+C4NW
+(NW)
+C8SW
+(NW)
+C8SW
+(N)
+C8SW
+(N)
+C8SW
+(N)
+C3NE
+(W)
+C3NE
+(W)
+688
+690
+716
+726
+752
+771
+779
+889
+889
+4
+4
+4
+4
+4
+4
+4
+4
+4
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Inland river
+9.8
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+6.0
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+408.1
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+106.1
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+403.4
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+197.8
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+18.8
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+5.7
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+59.7
+Not Supplied
+True
+Not Supplied
+Loughor
+1
+264946
+203065
+264950
+203069
+264568
+202874
+264604
+202915
+264685
+202995
+264653
+203001
+264855
+203116
+264310
+202850
+264310
+202850
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 14 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+50
+51
+52
+53
+54
+55
+56
+57
+58
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+C3NE
+(W)
+C3NE
+(W)
+C7SE
+(NW)
+C3SW
+(SW)
+C8NE
+(NE)
+C3SW
+(SW)
+C8NW
+(N)
+C8NW
+(N)
+C8NW
+(N)
+891
+893
+911
+926
+943
+944
+945
+948
+948
+4
+4
+4
+4
+4
+4
+4
+4
+4
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Inland river
+472.4
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+560.5
+On ground surface
+True
+Afon Lliw
+Loughor
+2
+Inland river
+113.0
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+23.9
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+30.2
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+64.2
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+20.7
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+5.9
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+83.9
+On ground surface
+True
+Not Supplied
+Loughor
+1
+264304
+202845
+264305
+202850
+264326
+202907
+264105
+202389
+265110
+203433
+264083
+202393
+264778
+203262
+264773
+203259
+264773
+203259
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 15 of 29
+Agency & Hydrological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+59
+60
+61
+62
+63
+64
+65
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+OS Water Network Lines
+C3SW
+(SW)
+C8NW
+(N)
+C8NE
+(N)
+C3SW
+(W)
+C3NW
+(W)
+C7SE
+(NW)
+C7SE
+(NW)
+949
+949
+959
+975
+975
+995
+1000
+4
+4
+4
+4
+4
+4
+4
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Watercourse Form:
+Watercourse Length:
+Watercourse Level:
+Permanent:
+Watercourse Name:
+Catchment Name:
+Primacy:
+Inland river
+72.5
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+213.7
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Lake
+118.3
+On ground surface
+True
+Afon Lliw
+Loughor
+1
+Inland river
+105.7
+Not Supplied
+True
+Not Supplied
+Loughor
+1
+Inland river
+192.1
+On ground surface
+True
+Not Supplied
+Loughor
+1
+Inland river
+5.8
+Underground
+True
+Not Supplied
+Loughor
+1
+Inland river
+38.1
+On ground surface
+True
+Not Supplied
+Loughor
+1
+264081
+202396
+264777
+203263
+264926
+203376
+264078
+202541
+264083
+202645
+264295
+203000
+264294
+203006
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 16 of 29
+Waste
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+66
+67
+68
+Local Authority Landfill Coverage
+Potentially Infilled Land (Non-Water)
+Potentially Infilled Land (Non-Water)
+Potentially Infilled Land (Water)
+C8SE
+(NE)
+C3NW
+(W)
+C4NE
+(NE)
+0
+629
+934
+244
+5
+10
+10
+10
+Name:
+Bearing Ref:
+Use:
+Date of Mapping:
+Bearing Ref:
+Use:
+Date of Mapping:
+Use:
+Date of Mapping:
+City and County of Swansea
+ - Has no landfill data to supply
+NE
+Unknown Filled Ground (Pit, quarry etc)
+1991
+W
+Unknown Filled Ground (Pit, quarry etc)
+1991
+Unknown Filled Ground (Pond, marsh, river, stream, dock etc)
+1938
+264714
+202741
+264934
+202979
+264173
+202702
+264939
+202837
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 17 of 29
+Hazardous Substances
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+69
+69
+70
+71
+Control of Major Accident Hazards Sites (COMAH)
+Control of Major Accident Hazards Sites (COMAH)
+Notification of Installations Handling Hazardous Substances (NIHHS)
+Planning Hazardous Substance Consents
+C3SE
+(SW)
+C3SE
+(SW)
+C8SW
+(N)
+C8NW
+(N)
+491
+491
+842
+901
+6
+6
+6
+7
+Name:
+Location:
+Reference:
+Type:
+Status:
+Positional Accuracy:
+Name:
+Location:
+Reference:
+Type:
+Status:
+Positional Accuracy:
+Name:
+Location:
+Status:
+Positional Accuracy:
+Name:
+Location:
+Authority:
+Application Ref:
+Hazardous 
+Substance:
+Maximum Quantity:
+Application date:
+Decision:
+Positional Accuracy:
+Welsh Water / Dwr Cymru
+Felindre Water Treatment Works, Felindre, SWANSEA, West Glamorgan, 
+SA5 7NP
+Not Supplied
+Lower Tier
+Active
+Manually positioned to the address or location
+United Utilities Water Plc
+Felindre Water Treatment Works, Felindre, SWANSEA, West Glamorgan, 
+SA5 7NP
+20602
+Lower Tier
+Record Ceased To Be Supplied Under COMAH Regulations
+Manually positioned to the address or location
+Welsh Water Development Authority
+Felindre Treatment Plant, SWANSEA, West Glamorgan, SA5 7NP
+Not Active
+Automatically positioned in the proximity of the address
+Dwr Cymru - Welsh Water
+Felindre Water Treatment Works, Felindre, MORRISTON, West Glamorgan, 
+SA5 7NP
+City and County of Swansea, Planning Department
+Hs 5/92
+Part A, Toxic Substance, Chlorine, where amount held is greater than or equal
+to 10 tonnes
+25
+2nd September 1992
+New application granted conditionallyGranted
+Manually positioned to the address or location
+264542
+202392
+264542
+202393
+264845
+203181
+264830
+203244
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 18 of 29
+Geological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+72
+73
+74
+BGS 1:625,000 Solid Geology
+BGS Estimated Soil Chemistry
+BGS Recorded Mineral Sites
+BGS Recorded Mineral Sites
+BGS Recorded Mineral Sites
+BGS Measured Urban Soil Chemistry
+BGS Urban Soil Chemistry Averages
+Coal Mining Affected Areas
+Mining Instability
+Non Coal Mining Areas of Great Britain
+Potential for Collapsible Ground Stability Hazards
+C4NW
+(E)
+C4NW
+(E)
+C8SE
+(NE)
+C8NE
+(N)
+C3NW
+(W)
+C4NW
+(E)
+C4NW
+(E)
+C4NW
+(E)
+0
+0
+621
+893
+976
+0
+0
+0
+1
+1
+1
+1
+1
+8
+-
+1
+Description:
+Source:
+Soil Sample Type:
+Arsenic 
+Concentration:
+Cadmium 
+Concentration:
+Chromium 
+Concentration:
+Lead Concentration:
+Nickel 
+Concentration:
+Site Name:
+Location:
+Source:
+Reference:
+Type:
+Status:
+Operator:
+Operator Location:
+Periodic Type:
+Geology:
+Commodity:
+Positional Accuracy:
+Site Name:
+Location:
+Source:
+Reference:
+Type:
+Status:
+Operator:
+Operator Location:
+Periodic Type:
+Geology:
+Commodity:
+Positional Accuracy:
+Site Name:
+Location:
+Source:
+Reference:
+Type:
+Status:
+Operator:
+Operator Location:
+Periodic Type:
+Geology:
+Commodity:
+Positional Accuracy:
+Description:
+Mining Evidence:
+Source:
+Boundary Quality:
+Hazard Potential:
+Source:
+South Wales Upper Coal Measures Formation
+British Geological Survey, National Geoscience Information Service
+Sediment
+25 - 35 mg/kg
+<1.8 mg/kg
+60 - 90 mg/kg
+<100 mg/kg
+15 - 30 mg/kg
+Gelli-Gron
+, Clydach, Swansea, Glamorgan
+British Geological Survey, National Geoscience Information Service
+151728
+Opencast
+Ceased
+Not Supplied
+Not Supplied
+Carboniferous
+Swansea Member
+Sandstone
+Located by supplier to within 10m
+Waterworks Cottage
+, Clydach, Swansea, Glamorgan
+British Geological Survey, National Geoscience Information Service
+151686
+Opencast
+Ceased
+Not Supplied
+Not Supplied
+Carboniferous
+Swansea Member
+Sandstone
+Located by supplier to within 10m
+Pen-Y-Fedw-Isaf
+, Pontarddulais, Ammanford, Glamorgan
+British Geological Survey, National Geoscience Information Service
+151503
+Opencast
+Ceased
+Not Supplied
+Not Supplied
+Carboniferous
+Swansea Member
+Sandstone
+Located by supplier to within 10m
+In an area which may be affected by coal mining activity.  It is recommended 
+that a coal mining report is obtained from the Coal Authority.  Contact details 
+are included in the Useful Contacts section of this report.
+Inconclusive Coal Mining
+Ove Arup & Partners
+As Supplied
+Very Low
+British Geological Survey, National Geoscience Information Service
+No data available
+No data available
+No Hazard
+264714
+202741
+264714
+202741
+264937
+202972
+264910
+203289
+264137
+202724
+264714
+202741
+264714
+202741
+264714
+202741
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 19 of 29
+Geological
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+Potential for Collapsible Ground Stability Hazards
+Potential for Compressible Ground Stability Hazards
+Potential for Compressible Ground Stability Hazards
+Potential for Ground Dissolution Stability Hazards
+Potential for Ground Dissolution Stability Hazards
+Potential for Landslide Ground Stability Hazards
+Potential for Landslide Ground Stability Hazards
+Potential for Running Sand Ground Stability Hazards
+Potential for Running Sand Ground Stability Hazards
+Potential for Shrinking or Swelling Clay Ground Stability Hazards
+Potential for Shrinking or Swelling Clay Ground Stability Hazards
+Potential for Shrinking or Swelling Clay Ground Stability Hazards
+Potential for Shrinking or Swelling Clay Ground Stability Hazards
+Radon Potential - Radon Affected Areas
+Radon Potential - Radon Affected Areas
+Radon Potential - Radon Protection Measures
+Radon Potential - Radon Protection Measures
+C4NE
+(E)
+C4NW
+(E)
+C4NE
+(E)
+C4NW
+(E)
+C4NE
+(E)
+C4NW
+(E)
+C4NE
+(E)
+C4NW
+(E)
+C4NE
+(E)
+C4SE
+(SE)
+C4NW
+(E)
+C4NE
+(E)
+C4SW
+(S)
+C4NE
+(E)
+C4NW
+(E)
+C4NE
+(E)
+C4NW
+(E)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+200
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Hazard Potential:
+Source:
+Affected Area:
+Source:
+Affected Area:
+Source:
+Protection Measure:
+Source:
+Protection Measure:
+Source:
+Very Low
+British Geological Survey, National Geoscience Information Service
+No Hazard
+British Geological Survey, National Geoscience Information Service
+No Hazard
+British Geological Survey, National Geoscience Information Service
+No Hazard
+British Geological Survey, National Geoscience Information Service
+No Hazard
+British Geological Survey, National Geoscience Information Service
+Very Low
+British Geological Survey, National Geoscience Information Service
+Very Low
+British Geological Survey, National Geoscience Information Service
+Very Low
+British Geological Survey, National Geoscience Information Service
+Very Low
+British Geological Survey, National Geoscience Information Service
+No Hazard
+British Geological Survey, National Geoscience Information Service
+Very Low
+British Geological Survey, National Geoscience Information Service
+Very Low
+British Geological Survey, National Geoscience Information Service
+No Hazard
+British Geological Survey, National Geoscience Information Service
+The property is in a Lower probability radon area (less than 1% of homes are 
+estimated to be at or above the Action Level).
+British Geological Survey, National Geoscience Information Service
+The property is in a Lower probability radon area (less than 1% of homes are 
+estimated to be at or above the Action Level).
+British Geological Survey, National Geoscience Information Service
+No radon protective measures are necessary in the construction of new 
+dwellings or extensions
+British Geological Survey, National Geoscience Information Service
+No radon protective measures are necessary in the construction of new 
+dwellings or extensions
+British Geological Survey, National Geoscience Information Service
+265000
+202741
+264714
+202741
+265000
+202741
+264714
+202741
+265000
+202741
+264714
+202741
+265000
+202741
+264714
+202741
+265000
+202741
+265153
+202345
+264714
+202741
+265000
+202741
+264794
+202319
+264998
+202741
+264714
+202741
+264998
+202741
+264714
+202741
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 20 of 29
+Industrial Land Use
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+75
+76
+77
+78
+78
+78
+79
+80
+80
+81
+82
+Points of Interest - Manufacturing and Production
+Points of Interest - Manufacturing and Production
+Points of Interest - Manufacturing and Production
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+Points of Interest - Public Infrastructure
+C4SW
+(S)
+C4SW
+(SW)
+C3NE
+(W)
+C3SE
+(SW)
+C3SE
+(SW)
+C3SE
+(SW)
+C3SE
+(SW)
+C3SE
+(SW)
+C3SE
+(SW)
+C3SW
+(SW)
+C8NW
+(N)
+392
+486
+708
+560
+621
+644
+664
+772
+808
+832
+928
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Name:
+Location:
+Category:
+Class Code:
+Positional Accuracy:
+Jones
+Trevalyn, Felindre, Swansea, SA5 7NL
+Farming
+Poultry Farming, Equipment and Supplies
+Positioned to address or location
+Works
+SA5
+Industrial Features
+Unspecified Works Or Factories
+Positioned to an adjacent address or location
+Sheep Wash
+SA5
+Farming
+Sheep Dips and Washes
+Positioned to address or location
+Sludge Bed
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Sludge Bed
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Sludge Bed
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Sludge Bed
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Sludge Bed
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Sludge Beds
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Sludge Beds
+SA5
+Infrastructure and Facilities
+Waste Storage, Processing and Disposal
+Positioned to an adjacent address or location
+Weir
+SA5
+Water
+Weirs, Sluices and Dams
+Positioned to an adjacent address or location
+264664
+202469
+264561
+202460
+264425
+202696
+264478
+202225
+264418
+202217
+264394
+202217
+264373
+202221
+264264
+202224
+264222
+202278
+264198
+202361
+264775
+203238
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 21 of 29
+Industrial Land Use
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+83
+84
+85
+Gas Pipelines
+Gas Pipelines
+Gas Pipelines
+C4SW
+(S)
+C4SW
+(S)
+C4SE
+(SE)
+0
+0
+0
+10
+10
+10
+Name:
+Nat Grid:
+Diameter (mm):
+Building Proximity 
+Distance (m):
+Status:
+Pipe Length (m):
+Pipe Number:
+Name:
+Nat Grid:
+Diameter (mm):
+Building Proximity 
+Distance (m):
+Status:
+Pipe Length (m):
+Pipe Number:
+Name:
+Nat Grid:
+Diameter (mm):
+Building Proximity 
+Distance (m):
+Status:
+Pipe Length (m):
+Pipe Number:
+FM28 - Felindre to Three Cocks
+Owned By National Grid
+1200
+132
+Active
+107292.6
+Feeder 28
+FM28 - Herbrandston to Felindre
+Owned By National Grid
+1200
+132
+Active
+104077.4
+Feeder 28
+FM28 - Felindre to Cilfrew
+Owned By National Grid
+1200
+132
+Active
+17048.8
+Feeder 28
+264867
+202222
+264868
+202233
+265060
+202293
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 22 of 29
+Sensitive Land Use
+Map
+ID
+Details
+Quadrant
+Reference 
+(Compass 
+Direction)
+Estimated
+Distance
+From Site
+Contact
+NGR
+86
+87
+88
+89
+90
+91
+92
+93
+Ancient Woodland
+Ancient Woodland
+Ancient Woodland
+Ancient Woodland
+Ancient Woodland
+Ancient Woodland
+Ancient Woodland
+Ancient Woodland
+(SE)
+C4SW
+(S)
+(S)
+(S)
+C8SW
+(N)
+(SW)
+C3SW
+(SW)
+C3NW
+(W)
+0
+207
+463
+576
+722
+727
+972
+972
+2
+2
+2
+2
+2
+2
+2
+2
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Name:
+Reference:
+Area(m²):
+Type:
+Not Supplied
+7060
+16001.14
+Ancient and Semi-Natural Woodland
+Not Supplied
+882
+7755.99
+Ancient and Semi-Natural Woodland
+Not Supplied
+880
+5527.37
+Ancient and Semi-Natural Woodland
+Not Supplied
+878
+4775.36
+Ancient and Semi-Natural Woodland
+Not Supplied
+887
+3413.32
+Ancient and Semi-Natural Woodland
+Not Supplied
+879
+19270.88
+Ancient and Semi-Natural Woodland
+Not Supplied
+881
+5855.63
+Ancient and Semi-Natural Woodland
+Not Supplied
+883
+5980.93
+Ancient and Semi-Natural Woodland
+265459
+201573
+264788
+202499
+264557
+201982
+264489
+201782
+264709
+202980
+263670
+201727
+264051
+202234
+264183
+202806
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 23 of 29
+Data Currency
+Agency & Hydrological
+Version
+Update Cycle
+Contaminated Land Register Entries and Notices
+Discharge Consents
+Enforcement and Prohibition Notices
+Integrated Pollution Controls
+Integrated Pollution Prevention And Control
+Local Authority Integrated Pollution Prevention And Control
+Local Authority Pollution Prevention and Controls
+Local Authority Pollution Prevention and Control Enforcements
+Nearest Surface Water Feature
+Pollution Incidents to Controlled Waters
+Prosecutions Relating to Authorised Processes
+Prosecutions Relating to Controlled Waters
+Registered Radioactive Substances
+River Quality
+River Quality Biology Sampling Points
+Substantiated Pollution Incident Register
+Water Abstractions
+Water Industry Act Referrals
+January 2015
+October 2014
+August 2014
+August 2017
+March 2013
+October 2008
+August 2017
+July 2017
+April 2014
+June 2014
+March 2015
+April 2014
+June 2014
+March 2015
+April 2014
+June 2014
+September 2013
+May 2017
+December 1998
+March 2013
+March 2013
+March 2013
+March 2013
+January 2015
+January 2015
+November 2001
+July 2012
+August 2018
+July 2017
+July 2017
+July 2017
+August 2017
+July 2017
+Annual Rolling Update
+Annual Rolling Update
+Quarterly
+Quarterly
+As notified
+Not Applicable
+Quarterly
+Quarterly
+Annually
+Annual Rolling Update
+Annual Rolling Update
+Annually
+Annual Rolling Update
+Annual Rolling Update
+Annually
+Annual Rolling Update
+Annual Rolling Update
+Not Applicable
+As notified
+As notified
+As notified
+As notified
+As notified
+Not Applicable
+Annually
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+City and County of Swansea - Environmental Health Department
+Carmarthenshire County Council - Environmental Health Department
+Environment Agency - Welsh Region
+Natural Resources Wales
+Environment Agency - Welsh Region
+Environment Agency - Welsh Region
+Natural Resources Wales
+Environment Agency - Welsh Region
+Swansea Bay Port Health Authority
+City and County of Swansea - Environmental Health Department
+Carmarthenshire County Council - Environmental Health Department
+Swansea Bay Port Health Authority
+City and County of Swansea - Environmental Health Department
+Carmarthenshire County Council - Environmental Health Department
+Swansea Bay Port Health Authority
+City and County of Swansea - Environmental Health Department
+Carmarthenshire County Council - Environmental Health Department
+Ordnance Survey
+Environment Agency - Welsh Region
+Environment Agency - Welsh Region
+Natural Resources Wales
+Environment Agency - Welsh Region
+Natural Resources Wales
+Natural Resources Wales
+Environment Agency - Welsh Region
+Environment Agency - Head Office
+Environment Agency - Head Office
+Natural Resources Wales
+Environment Agency Wales - South West Area
+Environment Agency - Welsh Region
+Natural Resources Wales
+Natural Resources Wales
+Environment Agency - Welsh Region
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 24 of 29
+Data Currency
+Agency & Hydrological
+Version
+Update Cycle
+Groundwater Vulnerability
+Drift Deposits
+Bedrock Aquifer Designations
+Superficial Aquifer Designations
+Source Protection Zones
+Extreme Flooding from Rivers or Sea without Defences
+Flooding from Rivers or Sea without Defences
+Areas Benefiting from Flood Defences
+Flood Water Storage Areas
+Flood Defences
+OS Water Network Lines
+Surface Water 1 in 30 year Flood Extent
+Surface Water 1 in 100 year Flood Extent
+Surface Water 1 in 1000 year Flood Extent
+Surface Water Suitability
+BGS Groundwater Flooding Susceptibility
+April 2015
+January 1999
+August 2015
+August 2015
+November 2016
+August 2017
+August 2017
+August 2017
+August 2017
+August 2017
+July 2017
+October 2013
+October 2013
+October 2013
+October 2013
+May 2013
+Not Applicable
+Not Applicable
+As notified
+As notified
+As notified
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+6 Weekly
+As notified
+As notified
+As notified
+As notified
+Annually
+Environment Agency - Head Office
+Environment Agency - Head Office
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Ordnance Survey
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+British Geological Survey - National Geoscience Information Service
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 25 of 29
+Data Currency
+Waste
+Hazardous Substances
+Version
+Version
+Update Cycle
+Update Cycle
+BGS Recorded Landfill Sites
+Historical Landfill Sites
+Integrated Pollution Control Registered Waste Sites
+Licensed Waste Management Facilities (Landfill Boundaries)
+Licensed Waste Management Facilities (Locations)
+Local Authority Landfill Coverage
+Local Authority Recorded Landfill Sites
+Potentially Infilled Land (Non-Water)
+Potentially Infilled Land (Water)
+Registered Landfill Sites
+Registered Waste Transfer Sites
+Registered Waste Treatment or Disposal Sites
+Control of Major Accident Hazards Sites (COMAH)
+Explosive Sites
+Notification of Installations Handling Hazardous Substances (NIHHS)
+Planning Hazardous Substance Enforcements
+Planning Hazardous Substance Consents
+June 1996
+May 2017
+October 2008
+May 2017
+May 2017
+August 2017
+July 2017
+May 2000
+May 2000
+May 2000
+May 2000
+December 1999
+December 1999
+March 2003
+March 2003
+March 2003
+September 2017
+March 2017
+November 2000
+February 2016
+February 2016
+February 2016
+January 2016
+February 2016
+February 2016
+February 2016
+January 2016
+Not Applicable
+Quarterly
+Not Applicable
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Bi-Annually
+Bi-Annually
+Not Applicable
+Annual Rolling Update
+Annual Rolling Update
+Annual Rolling Update
+Annual Rolling Update
+Annual Rolling Update
+Annual Rolling Update
+Annual Rolling Update
+Annual Rolling Update
+British Geological Survey - National Geoscience Information Service
+Natural Resources Wales
+Environment Agency - Welsh Region
+Environment Agency Wales - South West Area
+Natural Resources Wales
+Natural Resources Wales
+Environment Agency Wales - South West Area
+Carmarthenshire County Council
+City and County of Swansea - Environmental Health Department
+Carmarthenshire County Council
+City and County of Swansea - Environmental Health Department
+Landmark Information Group Limited
+Landmark Information Group Limited
+Environment Agency Wales - South West Area
+Environment Agency Wales - South West Area
+Environment Agency Wales - South West Area
+Health and Safety Executive
+Health and Safety Executive
+Health and Safety Executive
+Carmarthenshire County Council - Area Planning Office (East Area)
+Carmarthenshire County Council - Area Planning Office (South Area)
+Carmarthenshire County Council - Environment Department (West Area)
+City and County of Swansea - Planning Department
+Carmarthenshire County Council - Area Planning Office (East Area)
+Carmarthenshire County Council - Area Planning Office (South Area)
+Carmarthenshire County Council - Environment Department (West Area)
+City and County of Swansea - Planning Department
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 26 of 29
+Data Currency
+Geological
+Industrial Land Use
+Version
+Version
+Update Cycle
+Update Cycle
+BGS 1:625,000 Solid Geology
+BGS Estimated Soil Chemistry
+BGS Recorded Mineral Sites
+CBSCB Compensation District
+Coal Mining Affected Areas
+Mining Instability
+Non Coal Mining Areas of Great Britain
+Potential for Collapsible Ground Stability Hazards
+Potential for Compressible Ground Stability Hazards
+Potential for Ground Dissolution Stability Hazards
+Potential for Landslide Ground Stability Hazards
+Potential for Running Sand Ground Stability Hazards
+Potential for Shrinking or Swelling Clay Ground Stability Hazards
+Radon Potential - Radon Affected Areas
+Radon Potential - Radon Protection Measures
+Contemporary Trade Directory Entries
+Fuel Station Entries
+Gas Pipelines
+Points of Interest - Commercial Services
+Points of Interest - Education and Health
+Points of Interest - Manufacturing and Production
+Points of Interest - Public Infrastructure
+Points of Interest - Recreational and Environmental
+Underground Electrical Cables
+January 2009
+October 2015
+April 2017
+August 2011
+March 2014
+October 2000
+May 2015
+June 2015
+June 2015
+June 2015
+June 2015
+June 2015
+June 2015
+July 2011
+July 2011
+September 2017
+August 2017
+July 2014
+September 2017
+September 2017
+September 2017
+September 2017
+September 2017
+December 2015
+Not Applicable
+As notified
+Bi-Annually
+Not Applicable
+As notified
+Not Applicable
+Not Applicable
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+As notified
+As notified
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Quarterly
+Bi-Annually
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+Cheshire Brine Subsidence Compensation Board (CBSCB)
+The Coal Authority - Property Searches
+Ove Arup & Partners
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+British Geological Survey - National Geoscience Information Service
+Thomson Directories
+Catalist Ltd - Experian
+National Grid
+PointX
+PointX
+PointX
+PointX
+PointX
+National Grid
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 27 of 29
+Data Currency
+Sensitive Land Use
+Version
+Update Cycle
+Ancient Woodland
+Areas of Adopted Green Belt
+Areas of Outstanding Natural Beauty
+Environmentally Sensitive Areas
+Forest Parks
+Local Nature Reserves
+Marine Nature Reserves
+National Nature Reserves
+National Parks
+Nitrate Vulnerable Zones
+Ramsar Sites
+Sites of Special Scientific Interest
+Special Areas of Conservation
+Special Protection Areas
+May 2017
+May 2017
+August 2017
+January 2017
+April 1997
+August 2017
+August 2017
+August 2017
+August 2017
+August 2017
+June 2017
+October 2005
+August 2017
+August 2017
+August 2017
+August 2017
+Bi-Annually
+As notified
+Bi-Annually
+Annually
+Not Applicable
+Bi-Annually
+Bi-Annually
+Bi-Annually
+Bi-Annually
+Annually
+Bi-Annually
+Bi-Annually
+Bi-Annually
+Bi-Annually
+Bi-Annually
+Natural Resources Wales
+City and County of Swansea
+Natural Resources Wales
+The National Assembly for Wales - GI Services (Department of Planning & Countryside)
+Forestry Commission
+Carmarthenshire County Council
+City and County of Swansea
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+The National Assembly for Wales - GI Services (Department of Planning & Countryside)
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Natural Resources Wales
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 28 of 29
+Data Suppliers
+Ordnance Survey
+Environment Agency
+Scottish Environment Protection Agency
+The Coal Authority
+British Geological Survey
+Centre for Ecology and Hydrology
+Natural Resources Wales
+Scottish Natural Heritage
+Natural England
+Public Health England
+Ove Arup
+Peter Brett Associates
+Data Supplier
+Data Supplier Logo
+A selection of organisations who provide data within this report
+Order Number: 142844199_1_1        Date: 13-Oct-2017
+rpr_ec_datasheet v53.0        A Landmark Information Group Service
+Page 29 of 29
+Useful Contacts
+Contact
+Name and Address
+Contact Details
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+-
+-
+British Geological Survey - Enquiry Service
+Natural Resources Wales
+Environment Agency - National Customer Contact 
+Centre (NCCC)
+Ordnance Survey
+City and County of Swansea - Environmental Health 
+Department
+Health and Safety Executive
+City and County of Swansea - Planning Department
+The Coal Authority - Property Searches
+PointX
+Landmark Information Group Limited
+Public Health England - Radon Survey, Centre for 
+Radiation, Chemical and Environmental Hazards
+Landmark Information Group Limited
+British Geological Survey, Kingsley Dunham Centre, Keyworth, 
+Nottingham, Nottinghamshire, NG12 5GG
+Ty Cambria, 29 Newport Road, Cardiff, CF24 0TP
+PO Box 544, Templeborough, Rotherham, S60 1BY
+Adanac Drive, Southampton, Hampshire, SO16 0AS
+The Guildhall, Swansea, West Glamorgan, SA1 4PE
+5S.2 Redgrave Court, Merton Road, Bootle, L20 7HS
+The Guildhall, Swansea, West Glamorgan, SA1 4PE
+200 Lichfield Lane, Mansfield, Nottinghamshire, NG18 4RG
+7 Abbey Court, Eagle Way, Sowton, Exeter, Devon, EX2 7HY
+Imperium, Imperial Way, Reading, Berkshire, RG2 0TD
+Chilton, Didcot, Oxfordshire, OX11 0RQ
+Imperium, Imperial Way, Reading, Berkshire, RG2 0TD
+Telephone: 0115 936 3143
+Fax: 0115 936 3276
+Email: enquiries@bgs.ac.uk
+Website: www.bgs.ac.uk
+Telephone: 0300 065 3000
+Email: enquiries@naturalresourceswales.gov.uk
+Telephone: 03708 506 506
+Email: enquiries@environment-agency.gov.uk
+Telephone: 023 8079 2000
+Email: customerservices@ordnancesurvey.co.uk
+Website: www.ordnancesurvey.gov.uk
+Telephone: 01792 636000 extn 5651
+Fax: 01792 635719
+Website: www.hse.gov.uk
+Telephone: 01792 636000
+Fax: 01792 635709
+Telephone: 0345 762 6848
+Fax: 01623 637 338
+Email: groundstability@coal.gov.uk
+Website: www2.groundstability.com
+Website: www.pointx.co.uk
+Telephone: 0844 844 9966
+Fax: 0844 844 9951
+Email: helpdesk@landmark.co.uk
+Website: www.landmark.co.uk
+Telephone: 01235 822622
+Fax: 01235 833891
+Email: radon@phe.gov.uk
+Website: www.ukradon.org
+Telephone: 0844 844 9952
+Fax: 0844 844 9951
+Email: customerservices@landmarkinfo.co.uk
+Website: www.landmarkinfo.co.uk
+Please note that the Environment Agency / Natural Resources Wales / SEPA have a charging policy in place for enquiries.
+Order Details:
+Site Details:
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Reference:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 5
+   v15.0    13-Oct-2017
+Geology 1:50,000 Maps Legends
+Map
+Colour
+Map
+Colour
+Map
+Colour
+Lex Code
+Lex Code
+Lex Code
+Rock Name
+Rock Name
+Rock Name
+Rock Type
+Rock Type
+Rock Type
+Min and Max Age
+Min and Max Age
+Min and Max Age
+SLIP
+ALV
+GFDUD
+TILLD
+HMGDD
+GFICD
+PEAT
+HEAD
+RTDU
+GDB
+SW
+SW
+H
+H
+Landslide Deposit
+Alluvium
+Glaciofluvial Deposits, 
+Devensian
+Till, Devensian
+Hummocky (Moundy) 
+Glacial Deposits, 
+Devensian
+Glaciofluvial Ice Contact 
+Deposits, Devensian
+Peat
+Head
+River Terrace Deposits 
+(Undifferentiated)
+Grovesend Formation
+Swansea Member
+Swansea Member
+Hughes Member
+Hughes Member
+Faults
+Rock Segments
+Unknown/Unclassif
+ied Entry
+Clay, Silt, Sand 
+and Gravel
+Sand and Gravel
+Diamicton
+Sand and Gravel
+Sand and Gravel
+Peat [Unlithified 
+Deposits Coding 
+Scheme]
+Clay, Silt, Sand 
+and Gravel
+Sand and Gravel
+Mudstone, 
+Siltstone and 
+Sandstone
+Sandstone
+Mudstone, 
+Siltstone and 
+Sandstone
+Mudstone, 
+Siltstone and 
+Sandstone
+Sandstone
+Quaternary - 
+Quaternary
+Flandrian - 
+Flandrian
+Devensian - 
+Devensian
+Devensian - 
+Devensian
+Devensian - 
+Devensian
+Devensian - 
+Devensian
+Quaternary - 
+Quaternary
+Quaternary - 
+Quaternary
+Quaternary - 
+Quaternary
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Artificial Ground and Landslip
+Superficial Geology
+Bedrock and Faults
+Geology 1:50,000 Maps
+This report contains geological map extracts taken from the BGS Digital 
+Geological map of Great Britain at 1:50,000 scale and is designed for users
+carrying out preliminary site assessments who require geological maps for 
+the area around the site. This mapping may be more up to date than 
+previously published paper maps.
+The various geological layers - artificial and landslip deposits, superficial 
+geology and solid (bedrock) geology are displayed in separate maps, but 
+superimposed on the final 'Combined Surface Geology' map. All map 
+legends feature on this page. Not all layers have complete nationwide 
+coverage, so availability of data for relevant map sheets is indicated below.
+Geology 1:50,000 Maps - Slice C
+Map ID:
+Map Sheet No:
+Map Name:
+Map Date:
+Bedrock Geology:
+Superficial Geology:
+Artificial Geology:
+Faults:
+Landslip:
+Rock Segments:
+1
+230
+Ammanford
+1977
+Available
+Available
+Available
+Not Supplied
+Available
+Not Supplied
+Geology 1:50,000 Maps Coverage
+Order Details:
+Site Details:
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Reference:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 5
+   v15.0    13-Oct-2017
+Artificial Ground and Landslip
+Artificial ground is a term used by BGS for those areas where the ground 
+surface has been significantly modified by human activity. Information about
+previously developed ground is especially important, as it is often 
+associated with potentially contaminated material, unpredictable 
+engineering conditions and unstable ground.
+Artificial ground includes: 
+- Made ground - man-made deposits such as embankments and spoil 
+heaps on the natural ground surface.
+- Worked ground - areas where the ground has been cut away such as 
+quarries and road cuttings.
+- Infilled ground - areas where the ground has been cut away then wholly or
+partially backfilled.
+- Landscaped ground - areas where the surface has been reshaped.
+- Disturbed ground - areas of ill-defined shallow or near surface mineral 
+workings where it is impracticable to map made and worked ground 
+separately.
+Mass movement (landslip) deposits on BGS geological maps are primarily 
+superficial deposits that have moved down slope under gravity to form 
+landslips. These affect bedrock, other superficial deposits and artificial 
+ground. The dataset also includes foundered strata, where the ground has 
+collapsed due to subsidence.
+ 
+ 
+ 
+Artificial Ground and Landslip Map - Slice C
+Order Details:
+Site Details:
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Reference:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 5
+   v15.0    13-Oct-2017
+Superficial Geology
+Superficial Deposits are the youngest geological deposits formed during the
+most recent period of geological time, the Quaternary, which extends back 
+about 1.8 million years from the present. 
+They rest on older deposits or rocks referred to as Bedrock. This dataset 
+contains Superficial deposits that are of natural origin and 'in place'. Other 
+superficial strata may be held in the Mass Movement dataset where they 
+have been moved, or in the Artificial Ground dataset where they are of 
+man-made origin.
+Most of these Superficial deposits are unconsolidated sediments such as 
+gravel, sand, silt and clay, and onshore they form relatively thin, often 
+discontinuous patches or larger spreads.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Superficial Geology Map - Slice C
+Order Details:
+Site Details:
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Reference:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 5
+   v15.0    13-Oct-2017
+Bedrock and Faults
+Bedrock geology is a term used for the main mass of rocks forming the 
+Earth and are present everywhere, whether exposed at the surface in 
+outcrops or concealed beneath superficial deposits or water. 
+The bedrock has formed over vast lengths of geological time ranging from 
+ancient and highly altered rocks of the Proterozoic, some 2500 million years
+ago, or older, up to the relatively young Pliocene, 1.8 million years ago.
+The bedrock geology includes many lithologies, often classified into three 
+types based on origin: igneous, metamorphic and sedimentary.
+The BGS Faults and Rock Segments dataset includes geological faults 
+(e.g. normal, thrust), and thin beds mapped as lines (e.g. coal seam, 
+gypsum bed). Some of these are linked to other particular 1:50,000 
+Geology datasets, for example, coal seams are part of the bedrock 
+sequence, most faults and mineral veins primarily affect the bedrock but cut
+across the strata and post date its deposition.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bedrock and Faults Map - Slice C
+Order Details:
+Site Details:
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Reference:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 5
+   v15.0    13-Oct-2017
+Combined Surface Geology
+Additional Information
+Contact
+The Combined Surface Geology map combines all the previous maps into 
+one combined geological overview of your site. 
+Please consult the legends to the previous maps to interpret the Combined 
+"Surface Geology" map.
+More information on 1:50,000 Geological mapping and explanations of rock
+classifications can be found on the BGS website. Using the LEX Codes in 
+this report, further descriptions of rock types can be obtained by 
+interrogating the 'BGS Lexicon of Named Rock Units'. This database can 
+be accessed by following the 'Information and Data' link on the BGS 
+website.
+British Geological Survey
+Kingsley Dunham Centre
+Keyworth
+Nottingham
+NG12 5GG
+Telephone:  0115 936 3143
+Fax:  0115 936 3276
+email:  enquiries@bgs.ac.uk
+website:  www.bgs.ac.uk
+ 
+ 
+ 
+Combined Geology Map - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Historical Map - Slice C
+Ordnance Survey County Series 1:10,560
+Ordnance Survey Plan 1:10,000
+1:10,000 Raster Mapping
+Historical Mapping Legends
+Historical Mapping & Photography included:
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Ordnance Survey Plan
+Ordnance Survey Plan
+Swansea
+Ordnance Survey Plan
+10K Raster Mapping
+10K Raster Mapping
+VectorMap Local
+1:10,560
+1:10,560
+1:10,560
+1:10,560
+1:10,560
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1883 - 1884
+1900
+1921
+1938
+1952 - 1953
+1964
+1976
+1976
+1991
+1999
+2006
+2017
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Mapping Type
+Scale
+Date
+Pg
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Russian Map - Slice C
+1:5,000 and 1:10,000 mapping
+1:25,000 mapping
+Russian Military Mapping Legends
+Historical Mapping & Photography included:
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Ordnance Survey Plan
+Ordnance Survey Plan
+Swansea
+Ordnance Survey Plan
+10K Raster Mapping
+10K Raster Mapping
+VectorMap Local
+1:10,560
+1:10,560
+1:10,560
+1:10,560
+1:10,560
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1:10,000
+1883 - 1884
+1900
+1921
+1938
+1952 - 1953
+1964
+1976
+1976
+1991
+1999
+2006
+2017
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Mapping Type
+Scale
+Date
+Pg
+Key to Numbers on Mapping
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1883 - 1884
+Source map scale - 1:10,560
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1900
+Source map scale - 1:10,560
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1921
+Source map scale - 1:10,560
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 6 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1938
+Source map scale - 1:10,560
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 7 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1952 - 1953
+Source map scale - 1:10,560
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 8 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Ordnance Survey Plan
+Published 1964
+Source map scale - 1:10,000
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 9 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Ordnance Survey Plan
+Published 1976
+Source map scale - 1:10,000
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 10 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Swansea
+Published 1976
+Source map scale - 1:10,000
+These maps were produced by the Russian military during the Cold War 
+between 1950 and 1997, and cover 103 towns and cities throughout the U.K. 
+The maps are produced at 1:25,000, 1:10,000 and 1:5,000 scale, and show 
+detailed land use, with colour-coded areas for development, green areas, and
+non-developed areas. Buildings are coloured black and important building 
+uses (such as hospitals, post offices, factories etc.) are numbered, with a 
+numbered key describing their use. 
+They were produced by the Russians for the benefit of navigation, as well as 
+strategic military sites and transport hubs, for use if they were to have 
+invaded the U.K. The detailed information provided indicates that the areas 
+were surveyed using land-based personnel, on the ground, in the cities that 
+are mapped.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Russian Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 11 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Ordnance Survey Plan
+Published 1991
+Source map scale - 1:10,000
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas; these maps were 
+used to update the 1:10,560 maps. The published date given therefore is 
+often some years later than the surveyed date. Before 1938, all OS maps 
+were based on the Cassini Projection, with independent surveys of a single 
+county or group of counties, giving rise to significant inaccuracies in outlying 
+areas. In the late 1940`s, a Provisional Edition was produced, which updated 
+the 1:10,560 mapping from a number of sources. The maps appear 
+unfinished - with all military camps and other strategic sites removed. These 
+maps were initially overprinted with the National Grid. In 1970, the first 
+1:10,000 maps were produced using the Transverse Mercator Projection. The
+revision process continued until recently, with new editions appearing every 
+10 years or so for urban areas.
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 12 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+10k Raster Mapping
+Published 1999
+Source map scale - 1:10,000
+The historical maps shown were produced from the Ordnance Survey`s 
+1:10,000 colour raster mapping. These maps are derived from Landplan 
+which replaced the old 1:10,000 maps originally published in 1970. The data 
+is highly detailed showing buildings, fences and field boundaries as well as all
+roads, tracks and paths. Road names are also included together with the 
+relevant road number and classification. Boundary information depiction 
+includes county, unitary authority, district, civil parish and constituency.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 13 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+10k Raster Mapping
+Published 2006
+Source map scale - 1:10,000
+The historical maps shown were produced from the Ordnance Survey`s 
+1:10,000 colour raster mapping. These maps are derived from Landplan 
+which replaced the old 1:10,000 maps originally published in 1970. The data 
+is highly detailed showing buildings, fences and field boundaries as well as all
+roads, tracks and paths. Road names are also included together with the 
+relevant road number and classification. Boundary information depiction 
+includes county, unitary authority, district, civil parish and constituency.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dummy
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 14 of 14
+A Landmark Information Group Service   v50.0    13-Oct-2017
+VectorMap Local
+Published 2017
+Source map scale - 1:10,000
+VectorMap Local (Raster) is Ordnance Survey's highest detailed 'backdrop' 
+mapping product. These maps are produced from OS's VectorMap Local, a 
+simple vector dataset at a nominal scale of 1:10,000, covering the whole of 
+Great Britain, that has been designed for creating graphical mapping. OS 
+VectorMap Local is derived from large-scale information surveyed at 1:1250 
+scale (covering major towns and cities),1:2500 scale (smaller towns, villages 
+and developed rural areas), and 1:10 000 scale (mountain, moorland and 
+river estuary areas).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Slice C
+Map Name(s) and Date(s)
+Order Details: 
+Order Number: 142844199
+Customer Ref: 60542910
+National Grid Reference: 264710
+202740
+Slice: 
+Site Area (Ha): 32.39
+Search Buffer (m): 1000
+Site Details: 
+Abergelli Fach Farm
+Felindre
+SWANSEA SA5 7NN
+File Name Map Series Name
+Published Source ScaleSurvey DateRevision Date
+Addition Date
+Edition DatePublished Date
+142844199_1_C_EHM_County_Series_10560_ehm-gla-10560_1-PRa_210398042.gif
+Glamorganshire 1938 1:10,560
+1876-1875
+1938-1938 1913-1913
+142844199_1_C_EHM_County_Series_10560_ehm-gla-10560_1-2-2a_210398060.gif
+Glamorganshire 1921 1:10,560
+1876-1875 1913-1913
+1921-1921
+142844199_1_C_EHM_County_Series_10560_ehm-gla-10560_1-2-1a_210398066.gif
+Glamorganshire 1900 1:10,560
+1876-1876 1897-1897
+1900-1900
+142844199_1_C_EHM_County_Series_10560_ehm-gla-10560_1-1a_210398068.gif
+Glamorganshire
+1883-1884 1:10,560
+1877-1876
+1884-1883
+142844199_1_C_EHM_County_Series_10560_ehm-gla-10560_1-PRb_210398076.gif
+Glamorganshire
+1952-1953 1:10,560
+1875-1876
+1948-1948 1913-1913 1952-1953
+142844199_1_C_EHM_OS_Plan_10000_ehm-ng-10000_3a_210398046.gif
+Ordnance Survey Plan
+1976 1:10,000
+1974
+1975
+1976
+142844199_1_C_EHM_OS_Plan_10000_ehm-ng-10000_2a_210398058.gif
+Ordnance Survey Plan
+1964 1:10,560
+1960-1961
+1964-1964
+142844199_1_C_EHM_OS_Plan_10000_ehm-ng-10000_5a_210398062.gif
+Ordnance Survey Plan
+1991 1:10,000
+1990
+1991
+142844199_1_C_Russian_10000_rmm-swa05-10000_l00001_210398044.gif
+Swansea
+1976 1:10,000
+142844199_1_C_10k_CRM_1999_10kcrm_l00001_210398072.gif
+10K Raster Mapping
+1999 1:10,000
+142844199_1_C_10k_CRM_2006_10kcrm_l00003_210398050.gif
+10K Raster Mapping
+2006 1:10,000
+142844199_1_C_VML_OSVMLR_l00015_210398052.gif
+VectorMap Local2017 Variable
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Plot Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 1
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Site Sensitivity Map - Segment C4
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 6
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Site Sensitivity Map - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 6
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Industrial Land Use Map - Slice C
+Industrial Land Use Map
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 6
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Flood Map - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 6
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Borehole Map - Slice C
+For Borehole information please refer to the Borehole .csv file which 
+accompanied this slice.
+A copy of the BGS Borehole Ordering Form is available to download 
+from the Support section of www.envirocheck.co.uk.
+ 
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 6
+A Landmark Information Group Service   v50.0    13-Oct-2017
+OS Water Network Map - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 6 of 6
+A Landmark Information Group Service   v50.0    13-Oct-2017
+EA/NRW Suitability Map - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Details:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Estimated Soil Chemistry Arsenic - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Details:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Estimated Soil Chemistry Cadmium - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Details:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Estimated Soil Chemistry Chromium - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Details:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Estimated Soil Chemistry Lead - Slice C
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Details:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Estimated Soil Chemistry Nickel - Slice C
+Order Details: 
+Order Number: 142844199
+Customer Ref: 60542910
+National Grid Reference: 264710
+202740
+Slice: C
+Site Area (Ha): 1000
+Search Buffer: 
+Site Details: Abergelli Fach Farm
+Felindre
+SWANSEA SA5 7NN
+A copy of the BGS Borehole Ordering Form is available to download from the Support section of www.envirocheck.co.uk.
+BGS Boreholes
+Map ID:
+Easting:
+Northing: Distance: Quadrant Reference:
+Quadrant Reference:
+Bearing Ref:BGS Reference:
+Drilled Length (m):
+Borehole Name:
+94
+264630
+202410
+407 C4
+SW
+S
+Sn60sw63
+1.98 River Town Scheme, Low
+95
+264650
+202520
+425 C4
+SW
+S
+Sn60sw62
+5.03 River Town Scheme, Low
+95
+264640
+202520
+434 C4
+SW
+S
+Sn60sw61
+1.37 River Town Scheme, Low
+96
+264540
+202380
+492 C3
+SE
+SW
+Sn60sw64
+0.76 River Town Scheme, Low
+97
+264520
+202490
+534 C3
+SE
+SW
+Sn60sw60
+4.5 River Town Scheme, Low
+98
+264490
+202300
+540 C3
+SE
+SW
+Sn60sw58
+4.57 River Town Scheme, Low
+99
+264470
+202390
+562 C3
+SE
+SW
+Sn60sw86
+7.92 Felindre 4
+99
+264440
+202380
+591 C3
+SE
+SW
+Sn60sw85
+9.45 Felindre 3
+100
+264460
+202430
+578 C3
+SE
+SW
+Sn60sw87
+7.32 Felindre 5
+100
+264460
+202470
+587 C3
+SE
+SW
+Sn60sw57
+4.11 River Town Scheme, Low
+100
+264430
+202430
+608 C3
+SE
+SW
+Sn60sw93
+7.01 Felindre 11
+101
+264390
+202280
+641 C3
+SE
+SW
+Sn60sw89
+4.27 Felindre 7
+102
+264370
+202360
+660 C3
+SE
+SW
+Sn60sw84
+10.67 Felindre 2
+103
+264360
+202410
+674 C3
+SE
+SW
+Sn60sw92
+7.01 Felindre 10
+104
+264350
+202440
+688 C3
+SE
+SW
+Sn60sw88
+4.57 Felindre 6
+104
+264320
+202450
+719 C3
+SE
+SW
+Sn60sw90
+7.62 Felindre 8
+104
+264300
+202440
+738 C3
+SE
+SW
+Sn60sw56
+3.35 River Town Scheme, Low
+105
+264320
+202280
+710 C3
+SE
+SW
+Sn60sw59
+3.73 River Town Scheme, Low
+106
+264290
+202340
+739 C3
+SE
+SW
+Sn60sw83
+5.18 Felindre 1
+107
+264280
+202390
+752 C3
+SE
+SW
+Sn60sw91
+4.57 Felindre 9
+108
+264970
+203320
+890 C8
+NE
+NE
+Sn60sw54
+31.39 River Town Scheme, Low
+108
+264930
+203350
+935 C8
+NE
+N
+Sn60sw49
+59.74 River Town Scheme, Low
+109
+264880
+203370
+977 C8
+NW
+N
+Sn60sw50
+54.25 River Town Scheme, Low
+w.envirocheck.co.uk.
+Link to Borehole Scan:
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256272/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256271/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256270/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256273/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256269/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256267/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256295/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256294/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256296/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256266/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256302/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256298/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256293/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256301/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256297/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256299/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256265/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256268/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256292/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256300/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256263/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256258/
+http://scans.bgs.ac.uk/sobi_scans/boreholes/256259/
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Historical Map - Segment C4
+Ordnance Survey County Series and 
+Ordnance Survey Plan 1:2,500
+Ordnance Survey Plan, Additional SIMs and
+Supply of Unpublished Survey Information 
+1:2,500 and 1:1,250
+Large-Scale National Grid Data 1:2,500 and 
+1:1,250
+Historical Mapping Legends
+Historical Mapping & Photography included:
+Glamorganshire
+Glamorganshire
+Glamorganshire
+Ordnance Survey Plan
+Ordnance Survey Plan
+Supply of Unpublished Survey Information
+Additional SIMs
+Additional SIMs
+Large-Scale National Grid Data
+Historical Aerial Photography
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1:2,500
+1876 - 1877
+1898 - 1899
+1916 - 1918
+1961
+1961
+1975
+1986 - 1992
+1989
+1993
+2000
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Mapping Type
+Scale
+Date
+Pg
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1876 - 1877
+Source map scale - 1:2,500
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas and by 1896 it 
+covered the whole of what were considered to be the cultivated parts of Great
+Britain. The published date given below is often some years later than the 
+surveyed date. Before 1938, all OS maps were based on the Cassini 
+Projection, with independent surveys of a single county or group of counties, 
+giving rise to significant inaccuracies in outlying areas.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1898 - 1899
+Source map scale - 1:2,500
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas and by 1896 it 
+covered the whole of what were considered to be the cultivated parts of Great
+Britain. The published date given below is often some years later than the 
+surveyed date. Before 1938, all OS maps were based on the Cassini 
+Projection, with independent surveys of a single county or group of counties, 
+giving rise to significant inaccuracies in outlying areas.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Glamorganshire
+Published 1916 - 1918
+Source map scale - 1:2,500
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas and by 1896 it 
+covered the whole of what were considered to be the cultivated parts of Great
+Britain. The published date given below is often some years later than the 
+surveyed date. Before 1938, all OS maps were based on the Cassini 
+Projection, with independent surveys of a single county or group of counties, 
+giving rise to significant inaccuracies in outlying areas.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Ordnance Survey Plan
+Published 1961
+Source map scale - 1:2,500
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas and by 1896 it 
+covered the whole of what were considered to be the cultivated parts of Great
+Britain. The published date given below is often some years later than the 
+surveyed date. Before 1938, all OS maps were based on the Cassini 
+Projection, with independent surveys of a single county or group of counties, 
+giving rise to significant inaccuracies in outlying areas.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 6 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Ordnance Survey Plan
+Published 1961
+Source map scale - 1:2,500
+The historical maps shown were reproduced from maps predominantly held 
+at the scale adopted for England, Wales and Scotland in the 1840`s. In 1854 
+the 1:2,500 scale was adopted for mapping urban areas and by 1896 it 
+covered the whole of what were considered to be the cultivated parts of Great
+Britain. The published date given below is often some years later than the 
+surveyed date. Before 1938, all OS maps were based on the Cassini 
+Projection, with independent surveys of a single county or group of counties, 
+giving rise to significant inaccuracies in outlying areas.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 7 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Supply of Unpublished Survey 
+Information
+Published 1975
+Source map scale - 1:2,500
+SUSI maps (Supply of Unpublished Survey Information) were produced 
+between 1972 and 1977, mainly for internal use at Ordnance Survey. These 
+were more of a `work-in-progress' plan as they showed updates of individual 
+areas on a map. These maps were unpublished, and they do not represent a 
+single moment in time. They were produced at both 1:2,500 and 1:1,250 
+scales.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 8 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Additional SIMs
+Published 1986 - 1992
+Source map scale - 1:2,500
+The SIM cards (Ordnance Survey's `Survey of Information on Microfilm') are 
+further, minor editions of mapping which were produced and published in 
+between the main editions as an area was updated. They date from 1947 to 
+1994, and contain detailed information on buildings, roads and land-use. 
+These maps were produced at both 1:2,500 and 1:1,250 scales.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 9 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Additional SIMs
+Published 1989
+Source map scale - 1:2,500
+The SIM cards (Ordnance Survey's `Survey of Information on Microfilm') are 
+further, minor editions of mapping which were produced and published in 
+between the main editions as an area was updated. They date from 1947 to 
+1994, and contain detailed information on buildings, roads and land-use. 
+These maps were produced at both 1:2,500 and 1:1,250 scales.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 10 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Large-Scale National Grid Data
+Published 1993
+Source map scale - 1:2,500
+'Large Scale National Grid Data' superseded SIM cards (Ordnance Survey's 
+'Survey of Information on Microfilm') in 1992, and continued to be produced 
+until 1999. These maps were the fore-runners of digital mapping and so 
+provide detailed information on houses and roads, but tend to show less 
+topographic features such as vegetation. These maps were produced at both 
+1:2,500 and 1:1,250 scales.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Historical Map - Segment C4
+Map Name(s) and Date(s)
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+264710, 202740
+C
+32.39
+100
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 11 of 11
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Historical Aerial Photography
+Published 2000
+This aerial photography was produced by Getmapping, these vertical aerial 
+photographs provide a seamless, full colour survey of the whole of Great 
+Britain
+Historical Aerial Photography - Segment C4
+Order Details: 
+Order Number: 142844199
+Customer Ref: 60542910
+National Grid Reference: 264710
+202740
+Slice: 
+Site Area (Ha): 32.39
+Search Buffer (m): 1000
+Site Details: 
+Abergelli Fach Farm
+Felindre
+SWANSEA SA5 7NN
+File Name Map Series Name
+Published Dates
+Source Scale
+142844199_1_C4_County_Series_2500_ep5-2500_a5_210398036.gif
+Ordnance Survey Plan
+1961 1:2,500
+142844199_1_C4_County_Series_2500_gla-2500_ep1_210398038.gif
+Glamorganshire
+1876-1877 1:2,500
+142844199_1_C4_County_Series_2500_ep5-2500_b6_210398048.gif
+Ordnance Survey Plan
+1961 1:2,500
+142844199_1_C4_County_Series_2500_gla-2500_ep3_210398056.gif
+Glamorganshire
+1916-1918 1:2,500
+142844199_1_C4_County_Series_2500_gla-2500_ep2_210398064.gif
+Glamorganshire
+1898-1899 1:2,500
+142844199_1_C4_SIM_2500_sm-2500_1_210398040.gif
+Additional SIMs
+1986-1992 1:2,500
+142844199_1_C4_SIM_2500_sm-2500_2_210398054.gif
+Additional SIMs 1989 1:2,500
+142844199_1_C4_SUSI_2500_su-2500_a5_210398074.gif
+Supply of Unpublished Survey Information
+1975 1:2,500
+142844199_1_C4_Superplan_2500_sp-2500_1_210398070.gif
+Large-Scale National Grid Data
+1993 1:2,500
+ Abergelli 2018 ES  
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1 
+ 
+D 
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Geology 1:10,000 Maps Legends
+Map
+Colour
+Map
+Colour
+Map
+Colour
+Lex Code
+Lex Code
+Lex Code
+Rock Name
+Rock Name
+Rock Name
+Rock Type
+Rock Type
+Rock Type
+Min and Max Age
+Min and Max Age
+Min and Max Age
+WGR
+MGR
+LSGR
+WMGR
+SLIP
+ALV
+TILLD
+GFDUD
+HEAD
+RTDU
+PEAT
+GDB
+SW
+SW
+H
+Fault
+Rock
+Worked Ground (Undivided)
+Made Ground (Undivided)
+Landscaped Ground 
+(Undivided)
+Infilled Ground
+Landslide Deposit
+Alluvium
+Till, Devensian
+Glaciofluvial Deposits, 
+Devensian
+Head
+River Terrace Deposits 
+(Undifferentiated)
+Peat
+Grovesend Formation
+Swansea Member
+Swansea Member
+Hughes Member
+Void
+Artificial Deposit
+Unknown/Unclassifie
+d Entry
+Artificial Deposit
+Unknown/Unclassifie
+d Entry
+Clay, Silt, Sand and 
+Gravel
+Diamicton
+Sand and Gravel
+Clay, Silt, Sand and 
+Gravel
+Sand and Gravel
+Peat [Unlithified 
+Deposits Coding 
+Scheme]
+Mudstone, Siltstone 
+and Sandstone
+Sandstone
+Mudstone, Siltstone 
+and Sandstone
+Mudstone, Siltstone 
+and Sandstone
+Holocene - Holocene
+Holocene - Holocene
+Holocene - Holocene
+Holocene - Holocene
+Quaternary - 
+Quaternary
+Flandrian - 
+Pleistocene
+Devensian - 
+Ipswichian
+Devensian - 
+Ipswichian
+Quaternary - 
+Ryazanian
+Quaternary - 
+Ryazanian
+Quaternary - 
+Ryazanian
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Westphalian D - 
+Westphalian D
+Artificial Ground and Landslip
+Superficial Geology
+Bedrock and Faults
+Geology 1:10,000 Maps
+This report contains geological map extracts taken from the BGS 
+Digital Geological map of Great Britain at 1:10,000 scale and is 
+designed for users carrying out preliminary site assessments who 
+require geological maps for the area around a site. This mapping 
+may be more up to date than previously published paper maps.
+The various geological layers - artificial and landslip deposits, 
+superficial geology and solid (bedrock) geology are displayed in 
+separate maps, but superimposed on the final 'Combined Surface 
+Geology' map. All map legends feature on this page.
+Please Note: Not all of the layers have complete nationwide 
+coverage, so availability of data for relevant map sheets is 
+indicated below.
+Geology 1:10,000 Maps - Slice D
+Map ID:
+Map Name:
+Map Date:
+Bedrock Geology:
+Superficial Geology:
+Artificial Geology:
+Faults:
+Landslip:
+Rock Segments:
+1
+SN60SE
+1972
+Available
+Available
+Available
+Available
+Available
+Available
+Geology 1:10,000 Maps Coverage
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Artificial Ground and Landslip
+Artificial ground is a term used by BGS for those areas where the 
+ground surface has been significantly modified by human activity. 
+Information about previously developed ground is especially 
+important, as it is often associated with potentially contaminated 
+material, unpredictable engineering conditions and unstable 
+ground.
+Artificial ground includes: 
+- Made ground - man-made deposits such as embankments and 
+spoil heaps on the natural ground surface.
+- Worked ground - areas where the ground has been cut away 
+such as quarries and road cuttings.
+- Infilled ground - areas where the ground has been cut away then 
+wholly or partially backfilled.
+- Landscaped ground - areas where the surface has been 
+reshaped.
+- Disturbed ground - areas of ill-defined shallow or near surface 
+mineral workings where it is impracticable to map made and 
+worked ground separately.
+Mass movement (landslip) deposits on BGS geological maps are 
+primarily superficial deposits that have moved down slope under 
+gravity to form landslips. These affect bedrock, other superficial 
+deposits and artificial ground. The dataset also includes foundered
+strata, where the ground has collapsed due to subsidence.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Artificial Ground and Landslip Map - Slice D
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Superficial Geology
+BGS 1:10,000 Superficial Deposits are the youngest geological 
+deposits formed during the most recent period of geological time, 
+which extends back about 1.8 million years from the present. 
+They rest on older deposits or rocks referred to as Bedrock. This 
+dataset contains Superficial deposits that are of natural origin and 
+'in place'. Other superficial strata may be held in the Mass 
+Movement dataset where they have been moved, or in the Artificial
+Ground dataset where they are of man-made origin.
+Most of these Superficial deposits are unconsolidated sediments 
+such as gravel, sand, silt and clay, and onshore they form 
+relatively thin, often discontinuous patches or larger spreads.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Superficial Geology Map - Slice D
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Bedrock and Faults
+Bedrock geology is a term used for the main mass of rocks 
+forming the Earth and are present everywhere, whether exposed at
+the surface in outcrops or concealed beneath superficial deposits 
+or water. 
+The bedrock has formed over vast lengths of geological time 
+ranging from ancient and highly altered rocks of the Proterozoic, 
+some 2500 million years ago, or older, up to the relatively young 
+Pliocene, 1.8 million years ago.
+The bedrock geology includes many lithologies, often classified 
+into three types based on origin: igneous, metamorphic and 
+sedimentary.
+The BGS Faults and Rock Segments dataset includes 
+geological faults and thin beds mapped as lines such as coal 
+seams and mineral veins. These are not restricted by age and 
+could relate to features of any of the 1:10,000 geology datasets.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bedrock and Faults Map - Slice D
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 5
+A Landmark Information Group Service   v50.0    13-Oct-2017
+Combined Surface Geology
+Additional Information
+Contact
+The Combined Surface Geology map combines all the previous 
+maps into one combined geological overview of your site. 
+Please consult the legends to the previous maps to interpret the 
+Combined "Surface Geology" map.
+More information on 1:10,000 Geological mapping and 
+explanations of rock classifications can be found on the BGS 
+website. Using the LEX Codes in this report, further descriptions of
+rock types can be obtained by interrogating the 'BGS Lexicon of 
+Named Rock Units'. This database can be accessed by following 
+the 'Information and Data' link on the BGS website.
+British Geological Survey
+Kingsley Dunham Centre
+Keyworth
+Nottingham
+NG12 5GG
+Telephone:  0115 936 3143
+Fax:  0115 936 3276
+email:  enquiries@bgs.ac.uk
+website:  www.bgs.ac.uk
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Combined Geology Map - Slice D
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 1 of 6
+A Landmark Information Group Service   v15.0    13-Oct-2017
+Site Sensitivity Context Map - Slice D
+Groundwater Vulnerability
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 2 of 6
+A Landmark Information Group Service   v15.0    13-Oct-2017
+Site Sensitivity Context Map - Slice D
+Bedrock Aquifer Designation
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 3 of 6
+A Landmark Information Group Service   v15.0    13-Oct-2017
+Site Sensitivity Context Map - Slice D
+Superficial Aquifer Designation
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 4 of 6
+A Landmark Information Group Service   v15.0    13-Oct-2017
+Site Sensitivity Context Map - Slice D
+Source Protection Zones
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 5 of 6
+A Landmark Information Group Service   v15.0    13-Oct-2017
+Site Sensitivity Context Map - Slice D
+Sensitive Land Uses
+Order Details
+Site Details
+Abergelli Fach Farm, Felindre, SWANSEA, SA5 7NN
+Order Number:
+Customer Ref:
+National Grid Reference:
+Slice:
+Site Area (Ha):
+Search Buffer (m):
+142844199_1_1
+60542910
+265740, 202800
+D
+32.39
+1000
+Tel:
+Fax:
+Web:
+0844 844 9952
+0844 844 9951
+www.envirocheck.co.uk
+Page 6 of 6
+A Landmark Information Group Service   v15.0    13-Oct-2017
+Site Sensitivity Context Map - Slice D
+BGS Flood GFS Data

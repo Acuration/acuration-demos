@@ -1,0 +1,732 @@
+Electric Insights
+Quarterly
+July to September 2017
+Dr Iain Staffell, Professor Richard Green, Dr Rob Gross, Professor Tim Green and Jonathan Bosch  
+Imperial College London 
+Dr Alasdair Bruce 
+National Grid
+Drax Electric Insights Quarterly – Q3 2017
+2
+Contents
+3 
+Headlines & summary 
+4 
+The low carbon electricity league table 
+6 
+The low carbon forecast
+8 
+Importing electricity, exporting emissions? 
+9 
+The future of Britain’s interconnectors 
+11 
+Coal output bottoms out 
+12 
+Capacity and production statistics
+Drax Electric Insights Quarterly – Q3 2017
+3
+This quarter’s issue looks at how Britain’s power system decarbonisation 
+compares globally, and how it can be taken further. We unveil the international 
+league table for low carbon electricity in Article 1, which charts the carbon 
+intensity of electricity production across 33 countries. In the last four years, Britain 
+has jumped 13 places to have the 7th cleanest major power system. 
+National Grid released the world’s first grid carbon forecast: predicting the 
+cleanest times to use electricity over the coming 48 hours. Article 2 looks at how 
+this could underpin new services that enable people and businesses to shift when 
+they consume electricity and lower their carbon emissions by up to 25%.
+Article 3 charts the growing importance of imports: 9% of Britain’s electricity was 
+generated overseas during July and August. But as we import electricity, we export 
+emissions. Britain’s power system has decarbonised to the point that imports now 
+raise the average carbon content of our electricity. Article 4 follows on by looking 
+at the future of Britain’s interconnectors, and the regulatory uncertainty they face 
+from exiting the European Union.
+The last three months were relatively quiet for the power system after several 
+records were broken in Quarter 2. The generation mix was unchanged, and coal 
+output remained at historic lows (see Article 5). Low-carbon sources edged 
+upwards slightly to 55% of the mix despite wind and solar output being down on 
+last quarter (due to the weather), and a week of zero output from transmission-
+connected biomass plants in September (due to maintenance). Prices were 
+uneventful, with no spikes above £200/MWh, and only 13 hours with zero or 
+negative prices. Article 6 rounds up the statistics for the quarter.
+Headlines & summary
+Daily generation mix over the quarter
+Coal
+Gas
+Solar
+Wind
+Hydro
+Imports
+Biomass
+Nuclear
+0
+10
+20
+30
+Jul-17
+Aug-17
+Sep-17
+GW
+Drax Electric Insights Quarterly – Q3 2017
+4
+0
+200
+400
+600
+800
+1000
+South Africa
+India
+Australia
+Poland
+Indonesia
+China
+Malaysia
+Saudi Arabia
+Taiwan
+Japan
+Korea
+Iran
+Thailand
+Britain
+Germany
+UAE
+United States
+Netherlands
+Turkey
+Mexico
+Ukraine
+Egypt
+Italy
+Argentina
+Vietnam
+Russia
+Spain
+Venezuela
+Canada
+Brazil
+France
+Sweden
+Norway
+0
+200
+400
+600
+800
+1000
+South Africa
+India
+Indonesia
+Poland
+Australia
+China
+Malaysia
+Saudi Arabia
+Taiwan
+Netherlands
+Japan
+Thailand
+Korea
+UAE
+Iran
+Germany
+United States
+Turkey
+Egypt
+Mexico
+Argentina
+Italy
+Vietnam
+Ukraine
+Russia
+Spain
+Britain
+Venezuela
+Brazil
+Canada
+France
+Sweden
+Norway
+0%
++5%
++2%
+-1%
+-11%
+-8%
+-2%
+-3%
++1%
++14%
+-3%
+0%
+-4%
+0%
+-5%
+-4%
+-11%
+-4%
+0%
+-8%
++7%
+-4%
++8%
+-16%
+0%
+-7%
+-47% (change since 2012)
+-9%
++38%
+-11%
+-33%
+-24%
+-6%
+2012
+2016
+Electricity carbon intensity (g/kWh)
+In its first year, Electric Insights charted the rapid changes that are cleaning up 
+Britain’s power system. Carbon emissions from electricity halved in the last four 
+years thanks to the growth of renewable energy, and the switch from coal to gas 
+driven by the UK’s carbon price. But how does Britain’s power sector compare to 
+other major countries?
+We compiled data on the generation mix and the resulting carbon intensity of the 
+world’s largest power systems, and rank them in the chart below. Britain’s pace of 
+decarbonisation is unrivalled: the carbon intensity of electricity production has 
+fallen more than twice as fast as any other major country.2 This comes as PwC 
+report that the UK came top of their 2017 Low Carbon Economy Index.
+The low carbon electricity league table
+The low carbon electricity league table for 2012 and 2016.1  The 33 countries which produce over 100 TWh of electricity per year are ranked 
+by their carbon intensity of production. Lines show countries which have moved by more than one place in the ranking.
+1 
+Compiled using data from: Electric Insights, IEA CO2 Emissions from Fuel Combustion, IEA World Energy Balances, EIA Electric Power Monthly, 
+Arbeitsgemeinschaft Energiebilanzen, EuroStat Energy Statistics and  BP Statistical Review of World Energy.
+Drax Electric Insights Quarterly – Q3 2017
+5
+The energy sector is conservative and usually slow to change as infrastructure has 
+long lifetimes. While Britain’s carbon intensity halved, most other countries have 
+only moved by 10% over the last four years.
+In 2012, Britain was ranked 20th out of 33. In the four years since, Britain has 
+jumped 13 places to become 7th. The most any other country has moved was 8 
+places by the Netherlands – and that was in the wrong direction.
+While coal generation in Britain fell 80% between 2012 and 2016, it rose by 40% in 
+the Netherlands. Coal usage has increased in the Netherlands specifically as three 
+new coal power stations were built there recently. Another thing that separates 
+these countries is the Carbon Price Floor – Britain charges £23 per tonne of CO2 
+versus just £5 per tonne on the continent. Weakening or scrapping the carbon 
+price now could see Britain slide back down the table just as fast as it climbed.
+Most countries in the ranking lie in the region of 400 to 600 g/kWh. Four years 
+ago, Britain sat centrally among the mid-table countries from Italy to Saudi Arabia, 
+which are powered by various mixes of coal, gas and nuclear, hydro and other 
+renewables. India and South Africa have the dirtiest power sectors, powered by 
+75–90% coal. The top six are all under 200 g/kWh, and are either mountainous 
+countries blessed with substantial hydropower resources, or heavily rely on nuclear 
+power (France has 58 reactors).3 
+The make-up of the top six suggests it could be difficult for Britain’s electricity to 
+decarbonise much further without a massive shift in either geography or opinion 
+towards infrastructure megaprojects. Nonetheless, Britain’s example shows just 
+what can be achieved in four years with a modest price on carbon emissions. 
+2 
+Britain’s carbon intensity fell by 241 g/kWh from 516 to 275 g/kWh. The next largest fall was 90 g/kWh in Australia (805 to 715 g/kWh). 
+France and Sweden also registered large percentage decreases, but only fell by 21 and 5 g/kWh in absolute terms, as they started with 
+such clean systems.
+3 
+Note that hydro output varies from year to year with the level of rainfall, hence these countries register large changes 
+(in percentage terms) as more or less backup power from fossil fuels is required. 2012 was a wet year for Brazil, so its carbon intensity 
+was unusually low, hence the higher carbon intensity in 2016.
+Drax Electric Insights Quarterly – Q3 2017
+6
+The world’s first low-carbon electricity forecast enables people to use power when 
+it is cleanest. In September, National Grid in partnership with Environmental Defense 
+Fund Europe and WWF launched the carbon intensity forecast, a website that 
+estimates the CO2 emissions from consuming electricity over the coming 48 hours. 
+This combines National Grid and Met Office data to forecast the generation mix, 
+and the Electric Insights methodology to estimate the resulting carbon emissions.4 
+Carbon intensity data is estimated every half hour, with an accuracy typically 
+better than ±10%, depending on the weather and forecast errors in demand, wind 
+and solar generation. 
+Turning this information into real-world carbon savings requires people and 
+businesses to be flexible on when they run their appliances (from washing 
+machines and electric vehicles to steel furnaces). The unreliable British weather 
+makes it hard enough to plan when to do the laundry – and very few people 
+will have the time and dedication to routinely check the ‘carbon forecast’ as 
+well. National Grid therefore provide their forecast through an API5 that allows 
+developers to build new apps and products to help people and firms optimise when 
+to use electricity. Just as the ‘internet of things’ means you can now automate 
+your home’s heating and lighting, soon you may also be able to control your carbon 
+footprint without thinking about it.
+The low carbon forecast*
+* 
+The views and opinions expressed in this article are those of the 
+authors and do not necessarily represent those of, or constitute an 
+endorsement by, National Grid.
+4 The service uses National Grid’s latest forecasts for national 
+electricity demand, embedded wind and solar generation, and 
+data from Elexon and the Met Office to forecast carbon intensity 
+for each technology. Emissions are estimated for all large metered 
+power stations, interconnector imports, transmission and distribu-
+tion losses, See https://github.com/carbon-intensity/methodology 
+for more detail.
+5 
+API: Application programming interface
+The carbon intensity forecast website, showing the average, maximum and minimum carbon 
+intensity over the coming days
+Drax Electric Insights Quarterly – Q3 2017
+7
+It is challenging to estimate the size of ‘the prize’: how much carbon could be 
+saved from people changing when they consume electricity. On the individual level, 
+delaying your consumption reduces the output of a flexible ‘marginal’ generator at 
+one time, but increases output from another generator later on. This is likely to be 
+a similar flexible generator (probably gas-fired), as changing when you wash your 
+clothes will not affect when the wind blows.
+However, widespread load-shifting across the country would allow low-carbon 
+baseload generators to have longer running hours, and mean less need for diesel 
+and coal peaking plants. It would also smooth out power prices between peak 
+and off-peak times, reducing trading risk for all market participants. Ultimately, 
+this could allow the system to absorb more intermittent renewable energy, thus 
+lowering emissions.
+In the long-term, if load shifting altered the average grid mix, this service could 
+lower the carbon emissions from electricity consumption by up to a quarter. The 
+historic Electric Insights data lets us estimate what a perfectly flexible consumer 
+could save by delaying their consumption until the lowest-carbon period. Being 
+flexible over 12 hours would allow electricity to be consumed with 14% lower 
+carbon intensity on average. Extend this to 48 hours and the saving is 25%. These 
+savings are growing as the carbon intensity of Britain’s electricity swings more 
+widely with renewables output.
+12
+6
+24
+48
+% of CO2 saving through ﬂexibility
+Flexibility window (hours)
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+2013
+2014
+2015
+2016
+2017
+How much carbon could be saved by shifting electricity consumption to the period with lowest 
+carbon intensity? The average CO2 savings for each month over the last five years, based on the 
+maximum time window for load-shifting. 
+Drax Electric Insights Quarterly – Q3 2017
+8
+Importing electricity, exporting emissions?
+Imports of electricity into Britain are at record highs: 9% of the electricity we 
+used in July and August was generated overseas. Debates around energy imports 
+normally focus on oil from the Middle East or gas from Russia6; however, electricity 
+from Europe is becoming ever more significant. In Q3, Britain sourced 5.6 TWh of 
+electricity from abroad, enough to power 7.2 million homes. 60% of this came from 
+France, 30% from the Netherlands and 10% from the island of Ireland.
+Even though a smaller share comes from Ireland and the Netherlands, they rely 
+heavily on fossil fuels. So much so that Britain’s imports had a 30% higher carbon 
+intensity than locally generated power (314 vs 245 g/kWh over the last twelve 
+months). It is unclear whether these imports actually raised global CO2 emissions 
+though. We could not have increased output from wind, solar, biomass and nuclear 
+instead of importing; the extra electricity would likely have come from coal and gas. 
+Imports are expected to become a larger part of the mix in future as more links to 
+France, Norway and Denmark are built. National Grid anticipate that we could import 
+10–24% of our electricity in just five years’ time. We need to ensure this supports the 
+continuing decarbonisation of electricity, rather than simply ‘offshoring’ our emissions.
+Britain’s dependence on imported electricity (left). The carbon intensity of British and imported 
+electricity (top-right). The source of Britain’s imported electricity (bottom-right).
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Imported
+French demand soars 
+during the cold weather
+Local
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+10%
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Share of consumption
+0
+100
+200
+300
+400
+500
+600
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Carbon intensity (g/kWh)
+Dutch interconnector commissioned
+0%
+20%
+40%
+60%
+80%
+100%
+French
+Dutch
+Irish
+Source of imports:
+French nuclear ﬂeet shut 
+down and cable outage
+6 Note that Britain does not directly import any gas from Russia; 
+the majority comes from Norway and Qatar according to BEIS. 
+Drax Electric Insights Quarterly – Q3 2017
+9
+Electricity imports grow ever more important, yet several questions hang over the future of 
+Britain’s interconnectors: not least the impacts of Brexit. The UK is part of Europe’s internal 
+energy market (IEM) which allows prices to determine how power flows between countries. 
+This future is unclear as participation is based on membership of the European single 
+market, and no specific trade rules have been announced for the post-Brexit energy sector.7  
+Leaving the IEM would revert us back to less efficient interconnector trading. 
+Uneconomic trades (buying dear, selling cheap) could occur up to 20% of the 
+time8, leading to higher consumer bills9. Also, the UK has been the fourth highest 
+recipient of European funds for energy infrastructure, with its interconnectors 
+being awarded 17 out of 195 EU Projects of Common Interest (PCIs) and 12% 
+(£100m) from the European Energy Programme for Recovery (EEPR). 
+7 GW of new interconnector capacity is planned to be built over the next 5 years, 
+almost tripling the current 4 GW of links (see figure, left). These will provide greater 
+flexibility as weather-dependent renewable sources continue to grow, and greater 
+security of supply whilst coal and nuclear capacity is rapidly retiring. British 
+consumers have arguably benefitted from lower bills as our exporting neighbours 
+have 20% lower electricity prices (see figure, below). Together, these benefits are 
+predicted to reach £500 million per year by 202010. 
+The future of Britain’s interconnectors
+11 Ofgem, 2017, Electricity interconnectors.
+12 Prices in the Republic of Ireland are not accessible for the selected timeframe, but are likely to be higher than in continental Europe.
+The historic and anticipated growth of interconnection capacity to Britain11  Electricity prices in these countries compared to in Britain (right)12
+3GW developed
+in the last 30 years
+7.3GW planned
+in the next 5 years
+Interconnection capacity (GW)
+Change
+from
+2017 to
+2025
+1 > 1.5 GW
+1 GW
+0 > 1 GW
+0 > 1.4 GW
+0 > 1 GW
+2 > 5.4 GW
+0
+2
+4
+6
+8
+10
+1985
+1995
+2005
+2015
+2025
+France
+Denmark
+Norway
+Belgium
+Netherlands
+Ireland
+Britain
+Average imports
+£0
+£10
+£20
+£30
+£40
+£50
+£60
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+Wholesale electricity price (relative to Britain)
+-20%
+7 
+UK Government, 2017, The United Kingdom’s exit from and new 
+partnership with the European Union.
+8 Reuters, 2017, Power market coupling boosts chance of UK-Nor-
+way cable – Statnett.
+9 UK Parliament, 2017, Leaving the EU: negotiation priorities for 
+energy and climate change policy.
+10 Vivid Economics, 2016, The impact of Brexit on the UK energy 
+sector.
+Drax Electric Insights Quarterly – Q3 2017
+10
+However, this has led to Britain importing high-carbon electricity from Dutch and 
+Irish generators. Overseas fossil-fuel generators benefit from an uneven playing 
+field in two ways. British power stations must pay the Carbon Price Floor 
+(£18 per tonne of CO2) on top of the £5/tCO2 European ETS price paid by imported 
+electricity. This disadvantage for British power stations will diminish if and when 
+the ETS price strengthens. Applying a levelling border tax on electricity would 
+be administratively difficult, and so Britain’s price floor should be maintained to 
+continue our decarbonisation objective. 
+Secondly, British generators pay to access the national grid (via TNUoS 
+charges)13, but imported electricity does not. These charges pay for transmission 
+infrastructure, and could instead be paid directly by electricity consumers so 
+that generators don’t face different charges depending on their nationality. This 
+may prove easier than requiring European generators to pay TNUoS charges, as 
+it is unlikely the EU would allow a single country to levy charges on European 
+generators. 
+Together these exemptions give European generators an estimated £10/MWh 
+advantage over domestic generators, around a fifth of the market price. The UK 
+must therefore come up with a feasible way to ensure electricity flows efficiently 
+between borders to keep down costs and carbon emissions. If the markets either 
+side of an interconnector have different charging arrangements, the outcome 
+cannot be efficient.
+13 TNUoS: Transmission Network Use of System
+Drax Electric Insights Quarterly – Q3 2017
+11
+Coal generation remained historically low with just a 1.9% share of generation 
+over the summer. Between April and August Britain’s 14 GW of coal stations 
+produced just 0.6 GW on average. This rose to 1.4 GW in September as demand 
+started rising, suggesting that coal is now practically a winter-only fuel used to 
+meet peak demand.
+Averaged over this quarter, only 6% of the installed coal capacity was used. 
+However, on the 19th of September 40% of the coal fleet was called upon to 
+produce 5.7 GW. This highlights the need to retain spare capacity for times of peak 
+demand.
+Britain’s mix of installed capacity and its production have evolved dramatically 
+over the last eight years (see below). Part of coal’s decline is due to the wave 
+of retirements over the last five years. Coal capacity fell from 28 GW in 2012 to 
+14 GW in 2016, either because plants reached the end of their lifetime, became 
+uneconomical, or were forced to close because of clean air legislation.
+The amount of controllable capacity (which can be dispatched when needed) has 
+fallen by 20 GW since its peak in 2012, despite total capacity having increased 
+since then. The difference in scale between capacity and output is most obvious 
+for renewables. The 28 GW of installed wind and solar capacity produces less 
+energy than the 9 GW of installed nuclear power.
+Coal output bottoms out
+The capacity mix (left) and output mix (right) in Britain over the last eight years.  
+Capacity is shown at the end of each month, output is the 3-month rolling average.
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+50
+Average output (GW)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2014
+2013
+2012
+2011
+2010
+2009
+2015
+2016
+2017
+2014
+2013
+2012
+2011
+2010
+2009
+2015
+2016
+2017
+Installed capacity (GW)
+Controllable
+Solar
+Wind
+Total
+Hydro
+Peaking
+Gas
+Coal
+Imports
+Biomass
+Nuclear
+Drax Electric Insights Quarterly – Q3 2017
+12
+It was an uneventful three months for Britain’s power system, looking very similar 
+to Quarter 2. Low carbon sources continued to supply more electricity than fossil 
+fuels, generating 33.5 TWh over the quarter, compared to 30 TWh from gas and 
+coal. Coal formed less than 3% of generation over the quarter. 4 in 5 days saw more 
+output from wind than coal, more from solar than coal, and more from biomass 
+than coal.
+The share of low-carbon generation reached a new high of 55.0%, slightly up from 
+54.7% in Quarter 2. Output from all renewable sources was up on last year, with 
+wind and biomass both increasing by over 30%. 
+Demand was unchanged from this quarter last year, marking a brief pause in the 
+1–2% annual decline seen since 2005. Temperatures were 1.3ºC lower than this 
+time last year, prompting more demand from electric heating.
+Electricity consumption resulted in carbon emissions of 13.6 million tonnes of CO2, 
+of which 1.3 Mt were produced abroad. The carbon intensity of electricity averaged 
+202 g/kWh, one-fifth lower than the average over the last twelve months. Total 
+emissions are down from 15.0 Mt in Q3 last year, and 22.2 Mt the year before. The 
+lowest instantaneous carbon intensity was 95 g/kWh, and 250 hours had a carbon 
+intensity of below 150 g/kWh.
+68.1 TWh
+supplied
+Capacity and production statistics
+Britain’s electricity supply mix in the third quarter of 2017
+16.9
+3.4
+5.5
+0.7
+8.8
+3.6
+25.7
+1.9
+25.4%
+5.2%
+8.2%
+1.1%
+13.3%
+5.4%
+38.6%
+2.9%
+Drax Electric Insights Quarterly – Q3 2017
+13
+Installed capacity and electricity produced by each technology14
+Installed  
+Capacity (GW) 
+2017 Q3
+Annual  
+change
+Energy
+Output (TWh) 
+2017 Q3
+Annual  
+change
+Utilisation / Capacity Factor 2017 Q3
+Average
+Maximum
+Nuclear
+9.5
+~
+16.9
+81%
+89%
+Biomass
+2.2
+~
+3.4
+72%
+98%
+Hydro
+1.1
+~
+0.7
+30%
+77%
+Wind
+15.7
+8.8
+26%15
+69%
+Solar
+12.4
+3.6
+13%
+67%
+Gas
+28.4
+25.7
+42%
+76%
+Coal
+14.0
+~
+1.9
+6%
+40%
+Imports
+4.0
+~
+5.5
+63%
+94%
+Exports
+0.0
+0%
+26%
+Storage
+3.1
+~
+0.6
+9%
+63%
+14 Other statistical sources give different values because of the types of plant they consider. For example, BEIS Energy Trends 
+records an additional 900 MW of wind, 600 MW of biomass and 500 MW of solar, respectively producing 1.4, 1.2 and 0.2 TWh 
+extra per quarter. These plants and their output are not visible to the electricity system and so cannot be reported on here.
+15 These are the raw values from National Grid and Elexon, and may differ from other sources (such as BEIS or DUKES) due to 
+which farms are included in the data and the estimation of installed capacity. 
++0.7
++0.9
++0.1
+ 
+(+5%)
+(+8%)
+(+1%)
+–0.6
++1.0
++0.0
++2.2
++0.2
+–3.3
+–0.4 
++0.6
+–0.2
+–0.1
+(–4%)
+(+38%)
+(+2%)
+(+33%)
+(+5%)
+(–11%)
+(–17%)
+(+12%)
+(–95%)
+(–10%)
+Drax Group plc
+Drax Power Station, Selby, North Yorkshire, YO8 8PH
+@Draxnews
+Imperial Consultants
+58 Prince’s Gate, Exhibition Road, London, SW7 2PG
+www.imperial-consultants.co.uk
+www.drax.com
+@ConsultImperial

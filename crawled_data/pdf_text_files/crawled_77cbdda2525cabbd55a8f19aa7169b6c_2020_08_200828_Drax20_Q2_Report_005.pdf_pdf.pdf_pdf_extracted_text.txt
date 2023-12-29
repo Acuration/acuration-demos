@@ -1,0 +1,1029 @@
+Electric Insights
+Quarterly
+April to June 2020
+Dr Iain Staffell, Professor Richard Green, Professor Rob Gross and Professor Tim Green 
+Imperial College London
+Drax Electric Insights Quarterly – Q2 2020
+2
+Contents
+1. 
+Headlines 
+3
+2. 
+Electricity prices plummet 
+4
+3. 
+Solar eclipses coal 
+6
+4. 
+How to count carbon emissions 
+7
+5. 
+The cost of staying in control 
+9
+6. 
+Capacity and production statistics 
+11
+7. 
+Power system records 
+12
+Electric Insights was established by Drax to help inform and enlighten the debate on 
+Britain’s electricity. It is delivered independently by a team of academics from Imperial 
+College London using data courtesy of Elexon, National Grid and Sheffield Solar.
+Drax Electric Insights Quarterly – Q2 2020
+3
+1. Headlines
+Electricity under lockdown: cheaper, cleaner, but harder to 
+control. April, May and June saw daily life heavily restricted 
+for most of the Great British public. Millions of people were 
+furloughed or working from home, with shops shuttered up 
+and down the country. This complete reworking of society 
+continued to have unprecedented impacts on the power 
+system (see right).
+It has been said that COVID is giving the energy sector a 
+glimpse at its future. Reduced mobility shows how mass 
+uptake of EVs may rock the oil industry. The slump in oil 
+demand butted up against brittle and inflexible producers 
+to force oil prices negative for the first time in history. 
+Similarly, lower electricity demand combined with exceptional 
+weather to propel renewables to their greatest ever share of 
+electricity, forcing down prices, emissions and the need for 
+nuclear and fossil fuels.
+The spot-market value of Britain’s electricity halved over the 
+last 12 months, as demand remained depressed and wholesale 
+prices hit their lowest in a decade.
+Britain’s electricity over the last quarter was also the cleanest 
+it has ever been. Carbon emissions were one-third lower than 
+this time last year, and the carbon intensity of electricity fell 
+to an all-time low of 18 g/kWh on the Spring Bank Holiday. 
+May was also the first ever month when absolutely no 
+electricity was generated from coal. The longest zero-coal run 
+was smashed, lasting for 67 days straight.
+For the first time, Britain’s solar panels supplied more than 
+10% of Britain’s electricity demand over a month during May. 
+Lower demand combined with higher renewable generation 
+meant National Grid ESO had to spend more than ever on 
+keeping the system stable. Balancing prices have shot up 
+from being just 5% of wholesale prices to 20%.
+Changes seen in Britain’s power 
+system over the last 12 months
+-42%
+£41 / MWh
+in 2019 Q2
+£23 / MWh
+in 2020 Q2
+Wholesale power price
+-50%
+£2.78 billion
+in 2019 Q2
+£1.40 billion
+in 2020 Q2
+Value of generation
+Cost of balancing actions
++51%
+£194 million
+in 2019 Q2
+£293 million
+in 2020 Q2
+Coal-free hours
++32%
+1,521 hours
+in 2019 Q2
+2,004 hours
+in 2020 Q2
+Gross electricity demand
+-13%
+67 TWh 
+in 2019 Q2
+58 TWh 
+in 2020 Q2
+Share of renewables
++32%
+30% 
+in 2019 Q2
+40%
+in 2020 Q2
+-21%
+51 TWh 
+in 2019 Q2
+40 TWh 
+in 2020 Q2
+Net electricity demand
+(demand minus wind and solar output)
+Fossil fuel output
+-34%
+29 TWh
+in 2019 Q2
+19 TWh
+in 2020 Q2
+Carbon intensity
+-21%
+194 g / kWh
+in 2019 Q2
+153 g / kWh
+in 2020 Q2
+0
+25
+2000
+2005
+2010
+2015
+2020
+50
+75
+100
+125
+£ / MWh
+£ / MWh
+Demand minus wind and solar output (GW)
+10
+20
+30
+-50
+-25
+0
+25
+50
+Drax Electric Insights Quarterly – Q2 2020
+4
+2. Electricity prices plummet
+Power prices have fallen to their lowest in nearly two 
+decades. Prices are down by two-thirds over the last two 
+years, reaching a minimum of just £22/MWh over the month 
+of May. Britain spent £1.3 billion less on electricity supply over 
+the second quarter of this year compared to last year. The total 
+cost of generation (based on wholesale prices plus balancing 
+charges) fell from £3.0 to £1.7 billion over the three months.
+Oil prices halved over the last year, going from $60 a barrel 
+during Q2 of 2019 down to just $28 averaged over the last 
+quarter. Gas prices fell 58% over the same period, but while a 
+third of Britain’s electricity comes from natural gas, fuel isn’t 
+the only thing to affect power prices.
+Lower demand for electricity drives its price lower. When 
+fewer power stations are needed, only the most efficient (and 
+cheapest) ones stay online. When pushed to the extreme, 
+National Grid must ask renewables and even nuclear reactors 
+to reduce their output to avoid instability. And just as  
+US oil prices turned negative briefly in April due to excess 
+production, oversupply of electricity routinely forces power 
+prices below zero.
+The chart at the bottom of this page illustrates this effect. 
+At times when less than 10 GW of conventional, dispatchable 
+generators were needed, prices plummeted below zero. 
+There is of course a lot of scatter (in some hours prices went 
+negative at 14 GW, sometimes they were still positive at 7 
+GW), but the trend is clear.
+The relationship between ‘net 
+demand’ (demand minus wind 
+and solar output) and power 
+prices over Quarter 2 of 2020
+Monthly average power 
+prices over the last two 
+decades, adjusted for inflation 
+(presented in 2020 GBP) 
+Drax Electric Insights Quarterly – Q2 2020
+5
+COVID has resulted in demand being around 4 GW lower across 
+this quarter than we would expect without lockdown. This has 
+a relatively small effect on prices when demand less renewable 
+output is moderate. Moving from a net demand of 22 to 18 GW 
+lowers prices by around £6/MWh. But when demand is low 
+and renewable output is high (e.g. a windy Sunday evening, or 
+a sunny weekend at midday), it has a much more pronounced 
+effect. Moving from a net demand of 12 to 8 GW instead lowers 
+prices by more than £40/MWh.
+Using this trend, we model that if demand had not been 
+suppressed by COVID restrictions, power stations would have 
+earned 35% more for each MWh they generated. Prices would 
+have still fallen from last year because of movements in fossil 
+fuel and carbon prices. That said, if demand had not been 
+reduced due to COVID, we estimate prices would have only 
+fallen from £42 to £32/MWh, rather than down to £23/MWh. 
+The direct impact of reduced demand (reduced sales) meant 
+power stations sold £320m less electricity during the last 
+quarter than the same quarter last year. However, the effect 
+of lower demand pushing down prices had a larger impact, 
+cutting the market value of this electricity by a further £450m.
+This reduced value of generation amounts to around £50 per 
+household over the last three months. But who actually sees 
+those savings? Very few people have electricity tariffs that 
+change every half hour to track the wholesale market, so 
+households are not benefitting from lower prices yet. The kind 
+of hedging offered by having a fixed tariff means consumers 
+are paying more at the moment than they could be, but on 
+the flipside they pay less per unit of electricity when prices 
+are higher, such as during harsh winters. Electricity suppliers 
+typically also buy their power in advance at fixed rates, so they 
+will not be seeing much of the saving either. If prices continue 
+to stay low, new contracts will be signed at lower rates, and 
+the savings will begin to pass through.
+Drax Electric Insights Quarterly – Q2 2020
+6
+3. Solar eclipses coal
+May saw Britain’s solar panels produce more than ever, while every coal power station spent 
+the whole month sitting idle. Solar panels supplied an average of 2.7 GW of power during May, 
+surpassing 10% of the month’s electricity demand. Growing output from renewables, along 
+with suppressed demand saw no coal power stations operate for 67 days straight.
+Britain experienced unusually good weather, with sunshine levels during spring rivalling some 
+of the best summers on record. Much of this was down to favourable conditions, a large patch 
+of high pressure blocked incoming storms. Britain’s lockdown also had an influence, as greatly 
+reduced traffic on our roads meant less air pollution, and fewer flights meant less contrails in 
+the sky, both of which absorb or scatter some of the incoming sunlight.
+Britain also saw its first ever full month with zero electricity generated from coal. All of the 
+country’s coal power stations had turned off as of midnight on 10th April, and stayed offline 
+until 10pm on 16th June, some 67 days later. One plant then ran for three hours (producing just 
+25 MW) as part of routine maintenance. No electricity was produced from coal during 92% of 
+the hours this quarter.
+This collapse in coal output means Britain’s power system gets to celebrate its first ‘zero-coal 
+anniversary’: at the start of July it had clocked up 8,760 hours without any coal – equivalent to 
+a full year. It has taken four years to reach this point, since the first zero-coal hour back in May 
+2016, but it will most certainly take less time before we reach the second anniversary. 
+Weekly-average share of 
+electricity generation from 
+coal-fired power stations and 
+solar panels
+Cumulative number of hours 
+with zero coal-fired electricity 
+generation in Britain
+0
+5%
+2016
+2017
+2018
+2019
+2020
+10%
+15%
+20%
+Coal
+Solar
+2016
+2017
+2018
+2019
+2020
+0
+2,190
+4,380
+6,570
+8,760
+0
+0.25
+0.5
+0.75
+1
+Hours
+Years
+Lorem ipsum
+Winter 2019/20: coal runs 
+every hour over winter
+May 2020: ﬁrst full month 
+without coal
+10 May 2016: ﬁrst time we 
+had a single hour with zero 
+coal output
+21 April 2017: ﬁrst full day 
+without coal
+Drax Electric Insights Quarterly – Q2 2020
+7
+4. How to count carbon emissions
+Reduced demand, boosted renewables, and the near-total abandonment of coal pushed last 
+quarter’s carbon emissions from electricity generation below 10 million tonnes. Emissions 
+are at their lowest in modern times, having fallen by three-quarters compared to the same 
+period ten years ago. The average carbon emissions fell to a new low of 153 grams per kWh of 
+electricity consumed over the quarter. 
+The carbon intensity also plummeted to a new low of just just 18 g/kWh in the middle of the 
+Spring Bank Holiday. Clear skies with a strong breeze meant wind and solar power dominated 
+the generation mix. Together, nuclear and renewables produced 90% of Britain’s electricity, 
+leaving just 2.8 GW to come from fossil fuels. 
+National Grid and other grid-monitoring websites reported the carbon intensity as being  
+46 g/kWh at that time. That was still a record low, but very different from the Electric Insights 
+numbers. So why the discrepancy? 
+These sites report the carbon intensity of electricity generation, as opposed to consumption. 
+Not all the electricity we consume is generated in Britain, and not all the electricity generated 
+in Britain is consumed here. Should the emissions from power stations in the Netherlands 
+‘count’ towards our carbon footprint, if they are generating power consumed in our homes? 
+Earth’s atmosphere would say yes, as unlike air pollutants which affect our cities, CO2 has the 
+same effect on global warming regardless of where it is produced.
+On that Bank Holiday afternoon, Britain was importing 2 GW of electricity from France 
+and Belgium, which are mostly powered by low-carbon nuclear. We were exporting three-
+quarters of this (1.5 GW) to the Netherlands and Ireland. While they do have sizeable shares of 
+renewables, they also rely on coal power. 
+Britain’s exports prevented more fossil fuels from being burnt, whereas the imports did not 
+as they came predominantly from clean sources. So, the average unit of electricity we were 
+consuming at that point in time was cleaner than the proportion of it that was generated 
+within our borders. We estimate that 1,190 tonnes of CO2 were produced here, 165 were 
+emitted in producing our imports, and 730 avoided through our exports. 
+0
+5
+-5
+10
+15
+20
+25
+30
+35
+GW
+0
+5
+-5
+10
+15
+20
+25
+30
+35
+Gas
+Wind
+Nuclear
+Exports
+Imports
+Biomass
+Solar
+Hydro
+GW
+24-May
+13:30
+22-May
+25-May
+23-May
+The generation mix over the 
+Spring Bank Holiday weekend, 
+highlighting the mix on the 
+Sunday afternoon with the lowest 
+carbon intensity on record
+Drax Electric Insights Quarterly – Q2 2020
+8
+In the long-term it does not particularly matter which of these measures gets used, as the mix 
+of imports and exports gets averaged out. Over the whole quarter, carbon emissions would 
+be 153g/kWh with our measure, or 151 g/kWh with production-based accounting. But, it does 
+matter on the hourly timescale, consumption based accounting swings more widely.
+This speaks to the wider question of decarbonising the whole economy. Should we use 
+production or consumption based accounting? With production (by far the most common 
+measure), the UK is doing very well, and overall emissions are down 32% so far this century. 
+With consumption-based accounting it’s a very different story, as emissions have only fallen 
+by 13%.1 This is because we import more from abroad, everything from manufactured goods to 
+food to data when streaming music and films online.
+Either option could allow us to claim we are zero carbon through accounting conventions. 
+On the one hand (production-based accounting), Britain could be producing 100% clean 
+power, but relying on dirty imports to meet its entire demand – that should not be classed as 
+zero carbon as it’s pushing the problem elsewhere. On the other hand (consumption-based 
+accounting), it would be possible to get to zero carbon emissions from electricity consumed 
+even with unabated gas power stations running. If we got to 96% low carbon (1300 MW of 
+gas running), we would be down at 25 g/kWh. Then if we imported fully from France and sent 
+electricity to the Netherlands and Ireland, we’d get down to 0 g/kWh. 
+Regardless of how you measure carbon intensity, it is important to recognise that Britain’s 
+electricity is cleaner than ever. The hard task ahead is to make these times the norm rather 
+than the exception, by continuing to expand renewable generation, preparing the grid for 
+their integration, and introducing negative emissions technologies such as BECCS (bioenergy 
+with carbon capture and storage).
+1 
+Both figures are between 2000 and 2016 (the latest year for which data are available). Territorial-based emissions fell from 742 to 502 MtCO2, while consumption-
+based emissions fell 898 to 783 MtCO2. Source: The CCC.
+Two measures for the carbon 
+intensity of British electricity 
+over the Bank Holiday weekend 
+and surrounding days
+0
+50
+100
+150
+200
+21-May
+22-May
+23-May
+24-May
+25-May
+26-May
+GCO2 / kWh
+Trade increases our 
+carbon intensity
+Trade decreases our 
+carbon intensity
+Production-based
+Consumption-based
+Drax Electric Insights Quarterly – Q2 2020
+9
+5. The cost of staying in control
+The cost of keeping Britain’s power system stable has 
+soared, and now adds 20% onto the cost of generating 
+electricity. The actions that National Grid takes to manage 
+the power system have typically amounted to 5% of 
+generation costs over the last decade, but this share has 
+quadrupled over the last two years. In the first half of 2020, 
+the cost of these actions averaged £100 million per month.
+Supplying electricity to our homes and workplaces needs 
+more than just power stations generating electricity. Supply 
+and demand must be kept perfectly in balance, and flows of 
+electricity around the country must be actively managed to 
+keep all the interconnected components stable and prevent 
+blackouts. National Grid’s costs for taking these actions  
+have been on the rise, as we reported over the previous  
+two summers; but recently they have skyrocketed. 
+At the start of the decade, balancing added about £1/MWh to 
+the cost of electricity, but last quarter it surpassed £5/MWh 
+for the first time (see below). Balancing prices have risen 
+in step with the share of variable renewables. The dashed 
+line below shows that every extra percent of electricity 
+supplied by wind and solar adds 10 pence per MWh to the 
+balancing price. Last quarter really bucks this trend though, 
+and balancing prices have risen 35% above the level expected 
+from this trend. The UK Energy Research Centre predicted 
+that wind and solar would add up to £5/MWh to the cost of 
+electricity due to their intermittency, and Britain has now 
+reached this point, albeit a few years earlier than expected.
+This is partly because keeping the power system stable is 
+requiring more interventions than ever before. With low 
+demand and high renewable generation, National Grid is 
+having to order more wind farms to reduce their output, at a 
+cost of around £20 million per month. They even had to take 
+out a £50+ million contract to reduce the output from the 
+Sizewell B nuclear reactor at times of system stress.
+The quarterly-average cost of balancing the 
+power system, expressed as a percentage of the 
+cost of generation
+Balancing price shown against share of variable 
+renewables, with dots showing the average over 
+each quarter since 2010
+0
+5%
+10%
+15%
+20%
+2010
+2015
+2020
+10%
+30%
+20%
+0 0
+1
+2
+3
+4
+5
+2020 Q2
+Share of generation from wind and solar
+(£ / MWh)
+Drax Electric Insights Quarterly – Q2 2020
+10
+A second reason for the price rise is that National Grid’s costs of balancing 
+are passed on to generators and consumers, who pay per MWh. As demand 
+has fallen by a sixth since the beginning of the coronavirus pandemic, the 
+increased costs are being shared out among a smaller base. Ofgem has 
+stepped in to cap the balancing service charges at a maximum of £10/MWh 
+until late October. Their COVID support scheme will defer up to £100 million of 
+charges until the following year.
+For a quarter of a century, the electricity demand in Great Britain ranged 
+from 19 to 58 GW.1 Historically, demand minus the intermittent output of wind 
+and solar farms never fell below 14 GW. However, in each month from April to 
+June this year, this ‘net demand’ fell below 7 GW. Just as a McLaren sports car 
+is happier going at 70 than 20 mph, the national grid is now being forced to 
+operate well outside its comfort zone. 
+This highlights the importance of the work that National Grid must do towards 
+their ambition to be ready for a zero-carbon system by 2025. The fact we are 
+hitting these limits now, rather than in a few years’ time is a direct result of 
+COVID. Running the system right at its limits is having a short-term financial 
+impact, and is teaching us lessons for the long-term about how to run a leaner 
+and highly-renewable power system.
+1 
+ Starting from March 1990 – the first date from which half-hourly demand data are available
+Minimum net demand (demand minus wind and solar output) in 
+each quarter since 1990
+0
+5
+10
+15
+20
+25
+30
+1990
+2000
+2010
+1995
+2015
+2005
+2020
+GW
+Drax Electric Insights Quarterly – Q2 2020
+11
+6. Capacity and production statistics
+Four-tenths of Britain’s electricity came from renewables 
+last quarter, while coal supplied just 1/500th. Coal’s share has 
+fallen from over a fifth just five years ago. The prospect of zero 
+coal over a whole quarter now seems quite real.
+Electricity output from wind, solar and biomass were each up 
+more than 10% on this quarter last year. Combined with lower 
+demand, this pushed fossil fuels off the system. Gas output 
+was down a third, and coal all but disappeared, supplying just 
+0.1 TWh over the three months. 
+To underline this role reversal, the average capacity factor of 
+Britain’s renewables was 27% versus just 24% for fossil-fuelled 
+power stations. This mirrors the wider trend of coal power 
+station capacity factors falling worldwide. 
+Falling demand and prices also reduced Britain’s trade deficit 
+in electricity. We imported less power from our neighbours, and 
+exported twice as much compared to this quarter last year.
+Britain’s electricity supply mix 
+in the second quarter of 2020
+Installed Capacity (GW)
+Energy Output (TWh)
+Utilisation / Capacity Factor
+2020 Q2
+Annual change
+2020 Q2
+Annual change
+Average
+Maximum
+Nuclear
+9.5
+~
+11.2
+–1.1 (–9%)
+55%
+66%
+Biomass
+3.5
+~
+5.0
++0.7 (+16%)
+66%
+100%
+Hydro
+1.1
+~
+0.7
++0.2 (+33%)
+29%
+85%
+Wind
+– of which Onshore
+– of which Offshore
+22.3
+13.2
+9.7
++1.1 (+5%)
++0.3 (+3%)
++0.8 (+8%)
+12.5
+7.0
+5.5
++1.2 (+11%)
++0.6 (+9%)
++0.7 (+14%)
+26%
+25%
+27%
+66%
+84%
+66%
+Solar
+13.2
++0.1 (+1%)
+5.1
++0.7 (+16%)
+18%
+74%
+Gas
+28.1
+~
+18.8
+–9.5 (–33%)
+31%
+76%
+Coal
+5.3
+–5.2 (–50%)
+0.1
+–0.3 (–71%)
+1%
+25%
+Imports
+5.0
+~
+5.7
+–0.5 (–8%)
+53%
+97%
+Exports
+1.1
++0.6 (+109%)
+10%
+74%
+Storage discharge
+3.1
+~
+0.3
+–0.1 (–19%)
+4%
+65%
+Storage recharge
+0.3
+–0.0 (–14%)
+5%
+54%
+Installed capacity and electricity produced by each technology1, 2
+1 
+Other sources give different values because of the types of plant they consider. For example, BEIS Energy Trends records an additional 0.7 GW of hydro, 0.6 GW of biomass and 3 GW of waste-to-energy plants.  
+These plants and their output are not visible to the electricity transmission system and so cannot be reported on here.
+2 
+We include an estimate of the installed capacity of smaller storage devices which are not monitored by the electricity market operator. Britain’s storage capacity is made up of 2.9 GW of pumped hydro storage,  
+0.6 GW of lithium-ion batteries, 0.4 GW of flywheels and 0.3 GW of compressed air.
+58.0 TWh
+supplied
+32.5%
+21.6%
+19.3%
+8.7%
+8.6%
+7.8%
+1.2%
+0.2%
+Gas
+Wind
+Nuclear
+Solar
+Biomass
+Imports
+Hydro
+Coal
+Share of the mix
+Drax Electric Insights Quarterly – Q2 2020
+12
+7. Power system records
+Britain’s solar farms and biomass power stations had a record-breaking 
+quarter. The 30th of May saw solar power provide a third of the country’s 
+electricity demand at its peak. Biomass also reached new highs, supplying 
+a sixth of electricity demand the previous night. Meanwhile, demand fell to 
+its lowest levels this century, falling below 17 GW on the 28th of June. Coal 
+power stations had their first full month of zero output, and natural gas hit 
+its highest ever share of demand, exceeding 70% of electricity generated on 
+the 16th of June. All in all, 38 of the 200 records we track were broken over the 
+past quarter.
+The tables below look over the past decade (2009 to 2020) and report the 
+record output and share of electricity generation, plus sustained averages 
+over a day, a month and a calendar year.1 Cells highlighted in blue are records 
+that were broken in the second quarter of 2020. Each number links to the 
+date it occurred on the Electric Insights website, allowing these records to be 
+explored visually.
+1 
+ The annual records relate to calendar years, so cover the period of 2009 to 2019.
+ 
+All Renewables – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+25,225
+69.5%
+Daily average
+ 19,700
+62.3%
+Month average
+16,030
+44.3%
+Year average
+10,475
+31.5%
+ 
+Biomass – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+3,486
+16.8%
+Daily average
+3,316
+12.9%
+Month average
+2,839
+8.8%
+Year average
+2,053
+6.2%
+ 
+Wind – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+16,962
+58.8%
+Daily average
+15,962
+48.3
+Month average
+12,346
+34.1%
+Year average
+6,682
+20.1%
+ 
+Solar – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+9,680
+33.1%
+Daily average
+3,386
+13.6%
+Month average
+2,651
+10.0%
+Year average
+1,331
+4.0%
+Drax Electric Insights Quarterly – Q2 2020
+13
+ 
+Day ahead wholesale price
+Maximum (£/MWh)
+Minimum (£/MWh)
+Instantaneous
+792.21
+–72.84
+Daily average
+197.45
+–11.35
+Month average
+63.17
+22.03
+Year average
+56.82
+36.91
+ 
+Carbon intensity
+Maximum (g/kWh)
+Minimum (g/kWh)
+Instantaneous
+704
+18
+Daily average
+633
+61
+Month average
+591
+141
+Year average
+508
+192
+£
+CO2
+ 
+All fossil fuels – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+49,307
+88.0%
+Daily average
+43,085
+86.4%
+Month average
+36,466
+81.2%
+Year average
+29,709
+76.3%
+ 
+All fossil fuels – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+2,421
+8.9%
+Daily average
+3,921
+14.9%
+Month average
+7,382
+27.8%
+Year average
+13,756
+41.3%
+ 
+All low carbon – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+32,688
+89.1%
+Daily average
+27,282
+79.3%
+Month average
+23,276
+65.4%
+Year average
+17,902
+53.4%
+ 
+All low carbon – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+3,395
+8.3%
+Daily average
+5,007
+10.8%
+Month average
+6,885
+16.7%
+Year average
+8,412
+21.6%
+CO2
+CO2
+ 
+Nuclear – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+9,342
+42.8%
+Daily average
+9,320
+32.0%
+Month average
+8,649
+26.5%
+Year average
+7,604
+22.0%
+ 
+Nuclear – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+3,705
+8.7%
+Daily average
+3,754
+10.3%
+Month average
+4,446
+12.9%
+Year average
+6,023
+17.2%
+ 
+Gross demand
+Maximum (MW)
+Minimum (MW)
+Instantaneous
+60,070
+16,934
+Daily average
+49,203
+23,297
+Month average
+45,003
+26,081
+Year average
+37,736
+32,659
+ 
+Demand (net of wind and solar)
+Maximum (MW)
+Minimum (MW)
+Instantaneous
+59,563
+6,605
+Daily average
+48,823
+9,454
+Month average
+43,767
+18,017
+Year average
+36,579
+24,646
+Drax Electric Insights Quarterly – Q2 2020
+14
+1 
+Note that Britain has no inter-seasonal electricity storage, so we only report on half-hourly and daily records. Elexon and National Grid only report the output of large pumped hydro storage plants. 
+The operation of battery, flywheel and other storage sites is not publicly available.
+ 
+Gas – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+27,131
+70.1%
+Daily average
+24,210
+61.3%
+Month average
+20,828
+54.8%
+Year average
+17,930
+46.0%
+ 
+Gas – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+1,556
+4.9%
+Daily average
+3,071
+9.5%
+Month average
+6,775
+19.9%
+Year average
+9,159
+24.6%
+ 
+Imports – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+4,884
+19.1%
+Daily average
+4,490
+14.7%
+Month average
+3,796
+10.6%
+Year average
+2,850
+8.6%
+ 
+Pumped storage – Maximum 1
+Output (MW)
+Share (%)
+Instantaneous
+2,660
+7.9%
+Daily average
+362
+1.2%
+ 
+Pumped storage – Minimum 1
+Output (MW)
+Share (%)
+Instantaneous
+–2,782
+–10.8%
+Daily average
+–622
+–1.7%
+ 
+Exports – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+−3,870
+ −14.3%
+Daily average
+–2,748
+–7.9%
+Month average
+–1,690
+–3.8%
+Year average
+–731
+–1.9%
+ 
+Coal – Maximum
+Output (MW)
+Share (%)
+Instantaneous
+26,044
+61.4%
+Daily average
+24,589
+52.0%
+Month average
+20,746
+48.0%
+Year average
+15,628
+42.0%
+ 
+Coal – Minimum
+Output (MW)
+Share (%)
+Instantaneous
+0
+0.0%
+Daily average
+0
+0.0%
+Month average
+0
+0.0%
+Year average
+678
+2.0%
+Drax Group plc
+Drax Power Station, Selby, North Yorkshire, YO8 8PH
+@Draxnews
+Imperial Consultants
+58 Prince’s Gate, Exhibition Road, London, SW7 2PG
+www.imperial-consultants.co.uk
+www.drax.com
+@ConsultImperial

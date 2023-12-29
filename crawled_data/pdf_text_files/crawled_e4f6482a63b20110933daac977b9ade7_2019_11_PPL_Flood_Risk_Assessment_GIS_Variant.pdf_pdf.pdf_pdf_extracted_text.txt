@@ -1,0 +1,5191 @@
+ 
+ 
+ 
+ 
+The Progress Power  
+(Gas Fired Power Station) Order 
+ 
+5.4 Flood Risk Assessment – GIS Variant  
+ 
+Planning Act 2008 
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010060 
+Document Reference: 
+ 
+ 
+5.4 
+Regulation Number: 
+ 
+ 
+r5(2)(e) 
+Author: 
+ 
+ 
+ 
+ 
+Parsons Brinckerhoff  
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+December 2014 
+Examination Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROGRESS POWER PROJECT FLOOD 
+RISK ASSESSMENT  
+GIS VARIANT SUBSTATION 
+Progress Power Limited 
+ 
+3512438B 
+Final 
+ 
+ 
+ 
+ 
+ 
+ 
+Progress Power Project Flood 
+Risk Assessment 
+3512438B 
+ 
+Prepared for 
+Progress Power Limited 
+49 York Place 
+Edinburgh 
+EH1 3JD 
+ 
+ 
+Prepared by 
+Parsons Brinckerhoff 
+Queen Victoria House 
+Redland Hill 
+Bristol BS6 6US 
+0117 9339300  www.pbworld.com 
+ 
+ 
+ 
+ 
+Report Title 
+: 
+Progress Power Project Flood Risk Assessment 
+ 
+ 
+ 
+Report Status 
+: 
+Final 
+ 
+Job No 
+: 
+3512438B 
+ 
+Date 
+: 
+December 2014 
+ 
+ 
+ 
+DOCUMENT HISTORY AND STATUS 
+Document control 
+Prepared by 
+Nathan Sherwood 
+Checked by 
+(technical) 
+Joanna Goodwin 
+Approved by 
+Joanna Goodwin 
+Checked by  
+(quality assurance) 
+A Gregory 
+Revision details 
+Version 
+Date 
+Pages  
+affected 
+Comments 
+1.0 
+December 
+2014 
+- 
+First issue 
+2.0 
+January 
+2014 
+All 
+Inclusion of Substation, Sealing End Compound, Above 
+Ground installation and Access Tracks  
+3.0 
+February 
+2014 
+All 
+Amendments for consistency between ES and FRA. Re-
+calculation of site areas, greenfield runoff rates and storage 
+volumes. 
+4.0 
+November 
+2014 
+All 
+Drawings and figures updated to reflect change in Order Limit 
+for a GIS substation 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 7 - 
+ 
+CONTENTS 
+Page 
+Executive Summary 
+9 
+INTRODUCTION 
+11 
+1 
+Introduction 
+13 
+1.1 
+Objectives 
+13 
+1.2 
+Development Proposals 
+13 
+1.3 
+Consultation 
+16 
+ASSESSMENT METHODOLOGY 
+19 
+2 
+Assessment Methodology 
+21 
+2.1 
+Introduction 
+21 
+2.2 
+Methodology 
+21 
+2.3 
+Definition of Flood Risk 
+22 
+2.4 
+Potential Sources of Flooding 
+24 
+2.5 
+Potential Effects of Climate Change 
+24 
+2.6 
+The Flood and Water Management Act 2010 
+25 
+2.7 
+Mid Suffolk Core Strategy Development Plan Document 
+26 
+2.8 
+Eye Airfield Development Framework (February 2013 post consultation draft) 
+26 
+SITE DESCRIPTION 
+29 
+3 
+Site Description 
+30 
+3.1 
+Site Location 
+30 
+3.2 
+Site Description 
+30 
+3.3 
+Surface Water Features 
+31 
+3.4 
+Existing Surface Water Drainage 
+32 
+3.5 
+Geology 
+34 
+3.6 
+Hydrogeology 
+34 
+EXISTING FLOOD RISK 
+37 
+4 
+Existing Flood Risk 
+39 
+4.1 
+Introduction 
+39 
+4.2 
+Fluvial Flood Risk 
+39 
+4.3 
+Tidal Flood Risk 
+40 
+4.4 
+Surface Water Flood Risk 
+40 
+4.5 
+Groundwater Flood Risk 
+41 
+4.6 
+Artificial Sources of Flood Risk 
+41 
+4.7 
+Potential Effects of Climate Change 
+41 
+4.8 
+Summary of Existing Flood Risk 
+42 
+POST DEVELOPMENT FLOOD RISK AND DRAINAGE STRATEGY 
+43 
+5 
+Post Development Flood Risk and Drainage Strategy 
+45 
+5.1 
+Introduction 
+45 
+5.2 
+Development Vulnerability 
+45 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 8 - 
+ 
+5.3 
+Increased Surface Water Runoff 
+45 
+5.4 
+Surface Water Drainage Strategy 
+47 
+5.5 
+Gas Connection and Electrical Connection 
+52 
+5.6 
+Adoption and maintenance 
+55 
+5.7 
+Flood Resistance and Resilience Measures 
+55 
+5.8 
+Flood Defence Consent 
+56 
+SEQUENTIAL TEST AND EXCEPTION TEST 
+57 
+6 
+Sequential Test and Exception Test 
+59 
+6.1 
+The Sequential Test 
+59 
+6.2 
+The Exception Test 
+59 
+CONCLUSIONS 
+61 
+7 
+Conclusions 
+63 
+7.1 
+Summary of Existing Flood Risk 
+63 
+7.2 
+Summary of Post-Development Flood Risk 
+63 
+7.3 
+Flood Defence Consent 
+65 
+PROPOSED DEVELOPMENT PLANS 
+67 
+WATER CONSTRAINTS MAP 
+71 
+EXISTING DRAINAGE NETWORKS 
+75 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 9 - 
+ 
+EXECUTIVE SUMMARY 
+Background 
+Parsons Brinckerhoff Ltd was appointed by Progress Power 
+Limited to prepare a site specific Flood Risk Assessment (FRA) to 
+support the Project at the former Eye Airfield located in Eye, Mid 
+Suffolk. The FRA was conducted in accordance with the NPPF 
+and EN-1 and provides a predominantly qualitative assessment of 
+flood risk to the development proposals and the people and 
+property elsewhere as a result of the planned development. 
+The Project comprises a new gas fuelled Power Generation Plant 
+and supporting Electrical Connection and Gas Connection.  
+The Power Generation Plant will be sited on the former Eye 
+Airfield with existing development to the west, north and east of 
+the Power Generation Plant. The Above Ground Installation will 
+be sited in the south of the airfield adjacent to Castleton Road. 
+The proposed Substation and Sealing End Compound will be 
+sited approximately 1 km to the west of the Power Generation 
+Plant Site. 
+Existing flood 
+risk 
+The existing Project Site is not considered to be at significant risk 
+from any source of flooding, namely fluvial, tidal, groundwater, 
+overland flow and artificial sources. The greatest risk of flooding 
+to adjacent areas is to land located to the north of the Power 
+Generation Plant Site within the former Eye Airfield Industrial 
+Estate.  This risk is most likely associated with surface water 
+runoff as a result of blocked surface water drains within the 
+former airfield, blockages within an existing culverted watercourse 
+and lack of capacity in the culverted watercourse. Climate 
+change, in particular increased rainfall intensity, could exacerbate 
+flooding from these sources. 
+Post 
+development 
+flood risk and 
+surface water 
+management 
+proposals 
+If unmitigated, the construction of the Project could increase flood 
+risk within the former Eye Airfield Industrial Estate and to 
+downstream receptors, including those at existing risk of fluvial 
+flooding from the River Dove, associated with an increase in 
+surface water runoff from increased impermeable area.  The 
+Project may also increase flood risk within the town of Eye to the 
+south-east if water is not intercepted by a drainage system and is 
+instead allowed to runoff naturally.  
+Surface water management for the Project will be designed to 
+ensure no increase in surface water runoff for all storms up to the 
+1 in 100 year return period storm.  Surface water discharge will 
+be limited to the existing greenfield runoff rates to ensure no 
+increased risk to people or property elsewhere and allowing for 
+the potential effects of climate change over the lifetime of the 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 10 - 
+ 
+development. 
+The drainage of the Project Site will need to be confirmed during 
+the detailed design of the proposed drainage system, ensuring 
+that SUDS principles are applied to the conveyance, attenuation 
+and discharge of surface water runoff. The feasibility of infiltration 
+will be investigated further during the detailed design of the 
+Project, although ground conditions suggest that ground 
+permeability is low. If deemed suitable, infiltration of surface water 
+runoff will be maximised through the use of combined infiltration 
+and attenuation systems, although some discharge from the 
+Power Generation Plant Site is still considered likely.   
+An open detention pond will be used to store surface water from 
+the Power Generation Plant Site during periods of intense rainfall.  
+If necessary, surface water will be discharged at an attenuated 
+rate to the existing drainage connection located to the north of the 
+site adjacent to the Eye Power Station. 
+Surface water runoff from the Gas Connection and Electrical 
+Connection will be managed via infiltration into the ground. If 
+infiltration does not prove to be a viable option due to ground 
+permeability, it is proposed that surface water runoff will be 
+discharged to a local drainage ditch at an attenuated rate. 
+Through implementation of a robust surface water drainage 
+strategy, the development is not predicted to cause an increase 
+to flood risk within the site or to people and property elsewhere. 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 11 - 
+ 
+SECTION 1 
+INTRODUCTION 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 13 - 
+ 
+1 
+INTRODUCTION 
+1.1 
+Objectives 
+1.1.1 
+Parsons Brinckerhoff Ltd was appointed by Progress Power Limited to 
+prepare a site specific Flood Risk Assessment (FRA) to support the 
+Project at the former Eye Airfield located in Eye, Mid Suffolk.   
+1.1.2 
+Review of indicative flood maps available from the Environment Agency 
+(EA) website indicates that the Project Site is located within the low risk 
+Flood Zone 1. The EA standing advice on flood risk states that a FRA 
+will be required to support the planning application for all developments 
+that are greater than 1 hectare (ha) located in Flood Zone 1.  Review of 
+the development proposals confirms that the Project Site area is 
+greater than 1 ha, hence a FRA is required.  
+1.1.3 
+The FRA will be conducted in accordance with National Planning Policy 
+Framework (NPPF), the supporting Technical Guidance to NPPF and 
+Overarching National Policy Statement for Energy (EN-1) to provide a 
+predominantly qualitative analysis of flood risk to support the 
+Development Consent Order (DCO) application. The assessment will 
+include the following: 
+ 
+Confirmation of the sources of flooding which may affect the site;  
+ 
+A predominantly qualitative assessment of the risk of flooding to the 
+site and to adjacent sites as a result of development;  
+ 
+Demonstration of how the development and any occupants will be 
+kept safe from flooding; 
+ 
+Identification of other measures to reduce flood risk to acceptable 
+levels and cause no significant increase in flood risk elsewhere as 
+a result of the development; 
+ 
+Proposals for the sustainable management of surface water runoff. 
+1.1.4 
+The FRA will consider risks for the present day situation and over the 
+lifetime of the Project, taking climate change allowances into 
+consideration.  
+1.2 
+Development Proposals 
+1.2.1 
+The three main elements of the Project comprise: 
+ 
+A new Power Generation Plant - a SCGT gas fired power 
+generating station capable of providing up to 299 MW, 
+incorporating up to five gas turbine generators (GTG) with up to five 
+exhaust gas flue stacks. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 14 - 
+ 
+ 
+A new Electrical Connection to export electricity from the Power 
+Generation Plant to the National Grid Transmission System. This 
+element incorporates a new underground cable circuit connection 
+(the Cable), and a new access road (the Access Road), with a 
+new road junction off the A140 (the A140 Junction), and a new 
+Electrical Connection Compound (ECC) comprising a new 
+substation (the Substation) and sealing end compound (the 
+Sealing End Compound) (SEC); and 
+ 
+A new gas pipeline connection (referred to as the Gas 
+Connection) to bring natural gas to the Power Generation Plant 
+from the NTS in the vicinity of the Project Site. This element 
+incorporates an Above Ground Installation (AGI) at its southern 
+end and a new access road off Potash Lane. 
+1.2.2 
+The Power Generation Plant, Electrical Connection, and Gas 
+Connection are referred to as the Project. All of the land upon which 
+the Project will be developed is referred to as the Project Site, and the 
+land upon which the Power Generation Plant is situated is referred to 
+as the Power Generation Plant Site. 
+1.2.3 
+Illustrations of the Project, including the layout of the Power Generation 
+Plant and route of electrical and gas connections, are provided in 
+Appendix A.  A location plan of the Project is also provided in Figure 1 
+below.   
+1.2.4 
+The Power Generation Plant will occupy an area of approximately 7.5 
+ha.  Up to 1.9 ha of this area will be impermeable, comprising buildings, 
+roads, construction/maintenance compound and hard standing.  The 
+remaining 5.6 ha will remain undeveloped.  
+1.2.5 
+The Power Generation Plant will be accessed via Potash Lane, a 
+private road to the south of the site.  Potash Lane in turn connects to 
+Castleton Way via the former main runway. 
+1.2.6 
+The proposed route for the Gas Connection is from the south of the site 
+adjacent to Castleton Way. It is proposed to bring the pipeline 
+alongside Castleton Way and the A140 before directing it towards the 
+Power Generation Plant to the south of White House Farm. The 
+pipeline will be buried and the ground reinstated to existing conditions.  
+1.2.7 
+The proposed AGI will occupy an area of 0.6 ha and comprise 0.027 ha 
+of impermeable surfaces, the remainder of which will be a compacted 
+gravel construction and semi-permeable.  It will be accessed by a new 
+access track with an area of approximately 0.3 ha from Castleton Way. 
+The access track will be a tarmac construction.  
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 15 - 
+ 
+1.2.8 
+The proposed route of the Cable runs from the Power Generation Plant 
+to the south of White House Farm before crossing under the A140 and 
+continuing west. The Cable will be buried and the ground reinstated to 
+existing conditions with the exception of the route beneath the A140 
+and beneath watercourses where directional drilling will provide the 
+route for the Cable. 
+1.2.9 
+It is proposed to locate a Substation and SEC alongside the National 
+Grid overhead line, approximately 1.5 km west of the Power Generation 
+Plant Site, to facilitate connection of the Power Generation Plant to the 
+National Grid Network.   
+1.2.10 
+The proposed ECC will occupy an area of approximately 0.9 ha, of 
+which approximately 0.19 ha will comprise impermeable surfaces and 
+the remaining 0.71 ha will either remain undeveloped or comprise 
+permeable gravel surfaces.  Access to the Substation will be provided 
+by the Access Road from the A140 that will follow the route of the 
+Cable. The area of the Access Road is approximately 0.4 ha, including 
+the new area of junction onto the A140. The Access Road will be a 
+tarmac construction. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 16 - 
+ 
+Figure 1 Project site location 
+ 
+1.3 
+Consultation 
+1.3.1 
+A Scoping Opinion was received from key consultees via The Planning 
+Inspectorate in June 2013 in accordance with the Infrastructure 
+Planning (Environmental Impact Assessment) Regulations 2009.  A 
+summary of key responses relevant to this FRA is summarised in Table 
+1. 
+Table 1 Summary of Scoping Opinion relevant to this Flood Risk 
+Assessment 
+Consultee 
+Summary of response 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 17 - 
+ 
+Consultee 
+Summary of response 
+Secretary of 
+State 
+Welcomes the preparation of a FRA that covers 
+groundwater, surface water and fluvial impacts.   
+Recommends that a surface water management 
+plan is prepared that includes a review of existing 
+drainage facilities and the provision of interceptors 
+on site.  
+Environment 
+Agency 
+Confirmation that the Project site is located in 
+Flood Zone 1 and the need for a site specific FRA 
+prepared in accordance with NPPF with focus on 
+the effects of surface runoff and surface flooding. 
+Confirmation that any runoff from the Project shall 
+not exceed the existing greenfield runoff rates for 
+a range of equivalent return period rainfall events 
+over the lifetime of the Project, up to and including 
+the 1 in 100 year event. 
+Evidence that the SUDS management train has 
+been considered, the incorporation of SUDS in the 
+design, and proposals for the management of 
+overland flows that exceed the drainage network.  
+Details of future adoption and maintenance of the 
+surface water management system. 
+Suffolk County 
+Council 
+For any planning decisions made during or after 
+April 2014, Suffolk County Council requires the 
+applicant to obtain drainage approval for any 
+works affecting surface water in accordance with 
+the Flood and Water Management Act 2010. 
+SUDS should maintain greenfield runoff rates and 
+be designed to be integrated into a wider network 
+in due course to ensure efficient use of space in 
+the airfield.  
+Stresses the need to ensure that the Project and 
+associated mitigation does not prejudice the ability 
+of future development of the former Eye Airfield to 
+come forward in accordance with the Mid Suffolk 
+Eye Airfield Development Framework. 
+Mid Suffolk 
+District Council 
+Consideration should be given to all surface water 
+bodies within the vicinity of the site and the use of 
+SUDS. 
+The Eye Airfield Development Framework is soon 
+to be adopted. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 18 - 
+ 
+Consultee 
+Summary of response 
+Yaxley Parish 
+Council and 
+Thrandeston 
+Parish Council 
+Consideration should be given to minor 
+watercourses located in the area, namely those 
+that feed into Stuston Beck and Thrandeston 
+Beck. 
+Consideration should be given to surface water 
+drainage that runs westwards under the A140 and 
+its limited capacity to take more water. 
+Eye Town 
+Council 
+The need for careful planning of surface water 
+treatment and runoff, particularly with the existing 
+runoff problems effecting Eye. 
+ 
+1.3.2 
+No response was received from Waveney, Lower Yare and Lothingland 
+Internal Drainage Board. 
+1.3.3 
+Further consultation was undertaken with the EA in May 2013, June 
+2013 and July 2013 to discuss the proposed methods for surface water 
+management.  The EA confirmed that a surface water discharge must 
+be limited to equivalent Greenfield runoff rates up to and including the 1 
+in 100 year event (and allowing for the potential effects of climate 
+change) and that a discharge rate of 10.11 l/s/ha during this event 
+would be acceptable.  Further information regarding the calculation of 
+Greenfield and post-developed runoff rates is provided in Section 5.3 of 
+this FRA. 
+1.3.4 
+Following production of the Preliminary Environmental Information 
+Report (PEIR), prepared by Parsons Brinckerhoff, consultation with the 
+relevant bodies was undertaken. In response to this consultation, the 
+EA confirmed the requirements noted previously in Table 1. Yaxley and 
+Thrandeston Parish Councils expressed concern over how increased 
+quantities of surface water would be dealt with and Anglian Water 
+noted that public sewers under their management lie within the site and 
+that easements will be required for access to these. 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 19 - 
+ 
+ 
+SECTION 2 
+ASSESSMENT METHODOLOGY 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 21 - 
+ 
+2 
+ASSESSMENT METHODOLOGY 
+2.1 
+Introduction 
+2.1.1 
+This FRA has been conducted in accordance with NPPF and 
+Overarching National Policy Statement for Energy (EN-1). These 
+documents provide guidance on how new developments must take into 
+account flood risk, including making allowance for climate change 
+impacts. Specifically, they encourage decision makers to: 
+ 
+Steer new development to lower risk locations that are appropriate 
+to the proposed use and ensure development is safe;  
+ 
+Prevent any increase in flood risk elsewhere and reduce flood risk 
+through the layout and form of the development and the 
+appropriate application of sustainable drainage systems; 
+ 
+Reduce flood risk by making space for water by creating flood flow 
+paths and by identifying, allocating and safeguarding space for 
+flood storage; 
+ 
+Use regeneration to help relocate development to lower risk 
+locations when climate change is expected to mean that some 
+existing development may not be sustainable in the long-term. 
+2.2 
+Methodology 
+2.2.1 
+The methodology adopted in this FRA comprises: 
+ 
+Review of available flood risk data to identify existing flood risk from 
+fluvial, tidal, groundwater, overland flow and artificial sources; 
+ 
+Consideration of existing ground conditions on-site to determine 
+groundwater levels, soil permeability, groundwater vulnerability and 
+contamination risks; 
+ 
+Review of the development proposals in terms of flood risk 
+vulnerability and flood zone compatibility;  
+ 
+Consideration of how the development proposals may affect flood 
+risk to the site and surrounding land; and 
+ 
+Proposals for the appropriate management of flood risks to 
+facilitate development whilst not increasing risks elsewhere. 
+2.2.2 
+Data regarding flood risk relevant to the Project has been obtained from 
+the following sources: 
+ 
+EA indicative flood risk maps and groundwater maps; 
+ 
+Envirocheck Report, dated June 2013; 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 22 - 
+ 
+ 
+Sewerage maps obtained from Anglian Water; 
+ 
+Sewerage information obtained from relevant land owners; 
+ 
+Mid Suffolk Strategic Flood Risk Assessment (SFRA), 2008; 
+ 
+Mid Suffolk District Core Strategy Development Plan Document, 
+September 2008; 
+ 
+Eye Airfield Development Framework, February 2013; 
+ 
+Direct consultation with the EA and relevant local authorities as 
+discussed in Section 1.2. 
+2.3 
+Definition of Flood Risk 
+2.3.1 
+Flood risk is the product of the likelihood or chance of a flood occurring 
+(flood frequency) and the consequence or impact of the flooding (flood 
+consequence).  
+Flood Frequency 
+2.3.2 
+Flood frequency is identified in terms of the return period and annual 
+probability. For example, a 1 in 100 year flood event has a 1% annual 
+probability of occurring. Table 2 provides a conversion between return 
+periods and annual flood probabilities. 
+Table 2 Flood probability conversion table 
+ 
+ 
+Return Period (years) 
+2 
+5 
+10 
+20 
+50 100 200 1000 
+Annual Flood 
+Probability (%) 
+50 
+20 
+10 
+5 
+2 
+1 
+0.5 
+0.1 
+ 
+2.3.3 
+NPPF identifies Flood Zones in relation to flood frequency. The zones 
+refer to the probability of river (fluvial) and sea (tidal) flooding, whilst 
+ignoring the presence of defences. Table 3 summarises the relationship 
+between Flood Zone category and the identified flood risk. 
+Table 3 Flood Zones 
+EA Flood 
+Zone 
+Identification 
+Annual 
+Probability of 
+Fluvial 
+Flooding 
+Annual 
+Probability of 
+Tidal Flooding 
+Zone 1 
+Low Probability 
+<0.1% 
+<0.1% 
+Zone 2 
+Medium 
+Probability 
+1% - 0.1% 
+0.5% - 0.1% 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 23 - 
+ 
+Zone 3a 
+High Probability 
+>1% 
+>0.5% 
+Zone 3b 
+Functional 
+Floodplain 
+>5% 
+>5% 
+Flood Consequences 
+2.3.4 
+The consequence of a flood event describes the potential damage, 
+danger and disruption caused by flooding. This is dependent on the 
+mechanism and characteristics of the flood event and the vulnerability 
+of the affected land and land use. 
+2.3.5 
+The EA have identified five classifications of flood risk vulnerability and 
+provide recommendations on the compatibility of each vulnerability 
+classification with the Flood Zones, as shown in Table 4. 
+2.3.6 
+Full details of the EA flood zones and flood risk vulnerability 
+classifications can be found in the Technical Guidance to NPPF. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 24 - 
+ 
+Table 4 Flood risk vulnerability and flood zone compatibility 
+EA Flood 
+Zone 
+Essential 
+Infrastructure 
+Water 
+Compatible 
+Highly 
+Vulnerable 
+More 
+Vulnerable 
+Less 
+Vulnerable 
+Zone 1 
+ 
+ 
+ 
+ 
+ 
+Zone 2 
+ 
+ 
+Exception 
+test 
+required 
+ 
+ 
+Zone 3a 
+Exception test 
+required 
+ 
+ 
+Exception 
+test 
+required 
+ 
+Zone 3b 
+Exception test 
+required 
+ 
+ 
+ 
+ 
+  Development considered acceptable 
+  Development considered unacceptable 
+2.4 
+Potential Sources of Flooding 
+2.4.1 
+In accordance with NPPF, the following sources of flooding will be 
+considered in this assessment:  
+ 
+Fluvial flood risk from nearby watercourses; 
+ 
+Overland surface water flooding from adjacent sites; 
+ 
+Site generated surface water runoff; 
+ 
+Surcharging of sewers; 
+ 
+Groundwater flooding; and 
+ 
+Tidal flooding. 
+2.5 
+Potential Effects of Climate Change 
+2.5.1 
+Scientific consensus is that the global climate is changing as a result of 
+human activity. While there remain uncertainties in how a changing 
+climate will affect areas already vulnerable to flooding, it is expected to 
+increase risk significantly over time. For the UK, projections of future 
+climate change indicate that more frequent short-duration high-intensity 
+rainfall events and more frequent periods of long-duration rainfall could 
+be expected. 
+2.5.2 
+The Technical Guidance to NPPF provides recommended national 
+precautionary sensitivity ranges for possible peak rainfall intensities 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 25 - 
+ 
+resulting from climate change for the next 100 years (based on a 1990 
+baseline), as shown in Table 5. 
+Table 5 Recommended national precautionary sensitivity ranges for 
+peak rainfall intensities and peak river flow 
+Parameter 
+1990 to 
+2025 
+2025 to 
+2055 
+2055 to 
+2085 
+2085 to 
+2115 
+Peal rainfall 
+intensity 
++5% 
++10% 
++20% 
++30% 
+Peak river flow 
++10% 
++20% 
+ 
+2.5.3 
+The design life of the Power Generation Plant and associated drainage 
+systems is estimated to be 25 years.  In accordance with NPPF climate 
+change guidance, rainfall intensity could increase by up to 10% during 
+the lifetime of the development.   
+2.6 
+The Flood and Water Management Act 2010 
+2.6.1 
+The Flood and Water Management Act 2010 (FWMA) introduces new 
+responsibilities for designated Risk Management Authorities with 
+regards to flood risk and sustainable drainage.  The most notable 
+features of the FWMA with regards to the Project are discussed below.  
+2.6.2 
+Under the FWMA, the unitary authority or county council for an area, in 
+this case Suffolk County Council, is designated the ‘Lead Local Flood 
+Authority’ (LLFA), with responsibility for managing flood risk from 
+surface water, ground water and ordinary watercourses within their 
+area.  
+2.6.3 
+Schedule 3 of the FWMA introduces new National Standards for 
+Sustainable Drainage Systems (SUDS) against which proposed 
+drainage systems should comply.   
+2.6.4 
+Under Schedule 3 of the FWMA, LLFAs will become the SUDS 
+Approving Body (SAB) for surface water drainage systems for new 
+development and approval from the SAB for drainage proposals must 
+be agreed prior to construction.  For drainage systems that serve more 
+than one property, the SAB will have responsibility for the adoption and 
+maintenance of SUDS schemes that meet SAB requirements. 
+2.6.5 
+The role of the SAB is due to come into force in late 2014. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 26 - 
+ 
+2.7 
+Mid Suffolk Core Strategy Development Plan Document 
+2.7.1 
+The Mid Suffolk Core Strategy Development Plan Document (DPD) 
+was adopted in September 2008. This document is key to the Mid 
+Suffolk Local Development Framework (LDF) and sets out the vision, 
+objectives, spatial strategy and core policies that will guide 
+development across the district until 2025 and beyond.  
+2.7.2 
+The vision for the Core Strategy DPD includes the needs for new 
+development to tackle the predicted impacts of climate change, 
+including increased flood risk.  This vision is integrated within the 
+strategic policies as set out within Section 3 of the Core Strategy DPD, 
+specifically Policy CS 4 that states that the Council will support 
+development proposals that avoid areas of current and future flood risk, 
+and which do not increase flooding elsewhere, adopting the 
+precautionary principle to development  proposals.  This includes the 
+implementation of SUDS into all new developments where technically 
+feasible. 
+2.7.3 
+The Eye Airfield Industrial Estate is allocated within the Core Strategy 
+DPD for employment land between 2001 – 2021 to meet indicative 
+targets for additional jobs in Mid Suffolk, specifically for Use Classes 
+B1, B2 and B8.   
+2.8 
+Eye Airfield Development Framework (February 2013 post 
+consultation draft) 
+2.8.1 
+Whilst not yet possessing formal status within the Mid Suffolk LDF, the 
+draft Eye Airfield Development Framework (EADF) seeks to provide the 
+Council’s interpretation of the Core Strategy and other policies as they 
+relate to Eye Airfield and provide additional baseline information. The 
+intention is to guide investment and provide a framework for the 
+Council’s consideration of planning proposals for development as they 
+come forward. 
+2.8.2 
+Reflecting the Mid Suffolk Core Strategy DPD, the EADF reconfirms 
+Eye Airfield’s importance as an employment area.  Different areas of 
+the site are proposed for varying types of development, including; 
+business, residential, energy, common/open space, allotments and 
+agricultural.  
+2.8.3 
+The centre of the site has been proposed for energy producing 
+developments, which should be ‘appropriate provided they meet 
+environmental criteria that ensure a good quality of life for all around 
+them’. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 27 - 
+ 
+2.8.4 
+Chapter 4 of the EADF sets out the development principles for the site.  
+This includes the need for sustainable surface water management 
+within an overall jointly managed surface water drainage strategy.  The 
+document goes on to state that it is proposed that SUDS are used on 
+Eye Airfield, but that the details need to be carefully worked out due to 
+heavy clay soils.  The range of SUDS measures considered 
+appropriate for this site are discussed in detail within the EADF 
+document.  
+ 
+ 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 29 - 
+ 
+ 
+SECTION 3 
+SITE DESCRIPTION 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 30 - 
+3 
+SITE DESCRIPTION 
+3.1 
+Site Location 
+3.1.1 
+The Power Generation Plant Site is located within the former Eye 
+Airfield. The former Eye Airfield accommodates several industrial parks, 
+including: Brome Industrial Estate (to the north), Eye Airfield Industrial 
+Estate (to the north-east), Mid Suffolk Business Park (to the east) and 
+Oaksmere Business Park (to the west). The Power Generation Plant 
+Site is located within a larger triangular area directly to the east of the 
+former ‘main runway’ and north of the former SW-NE runway.   
+3.1.2 
+The extent of the Project Site boundary extends to the west of the Eye 
+Airfield Industrial Estate, as illustrated in Figure 2.  This defines the 
+total works area for the Project including the electrical and gas 
+connections.  A description of the development proposals is provided in 
+Section 1.3. 
+3.2 
+Site Description 
+3.2.1 
+The Power Generation Plant Site and immediate surrounding area is 
+characterised by the remnants of the airfield, including the runway and 
+the access roads. Buildings that once formed part of the airfield have 
+been replaced by industrial units accommodating various industrial 
+activities including a power generation facility located to the north of the 
+site (the 12.7 MW Eye Power Station), factory to the west of the site 
+and a National Grid Gas Compressor Station to the east of the site.  
+3.2.2 
+There are also two wind turbines to the west of Potash Lane operated 
+by Triodos Renewables and two more to the south of the Power 
+Generation Plant Site at Baldwin Farm.  The approximate location of 
+these turbines is illustrated in Figure 2. 
+3.2.3 
+The proposed Project Site area currently comprises greenfield 
+agricultural land with the exception of the A140 and smaller access 
+roads.  
+3.2.4 
+The Power Generation Plant Site is generally flat, with slight undulation, 
+falling very gently towards the east and south toward the proposed 
+Above Ground Installation.  The local ‘high point’ of the area of 
+approximately 49m Above Ordnance datum (AOD) is located within the 
+Power Generation Plant Site. Land within the wider site boundary is 
+also generally flat.  To the west of the Power Generation Plant, in the 
+area of the proposed Substation and SEC, topography falls very gently 
+towards the north. 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 31 - 
+ 
+Figure 2 Project site locations 
+ 
+3.3 
+Surface Water Features 
+3.3.1 
+There are no known surface water features located within the Power 
+Generation Plant Site.  There are also no known surface water features 
+within, or alongside, the Gas Connection.  
+3.3.2 
+With regards to the Electrical Connection, the route of the Cable and 
+Access Road to the ECC crosses a drainage ditch approximately 75 m 
+west of the A140, immediately to the south of Yaxley Lake which is 
+used for fishing.   Yaxley Lake is not believed to have any formal 
+designation but is stocked with common, mirror, tench and crucian 
+carp.  It has been surveyed for newts and it is concluded that newts are 
+likely to be absent from the pond. A detailed description is provided in 
+Section 10 (Ecology) of the Environmental Statement.  The drainage 
+ditch was dry on the day of the site visit (November 2013) and there 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 32 - 
+was no visible flow into or out of the lake.  Water within the lake was 
+reported to be stagnant and a large bloom of algae was visible.   
+3.3.3 
+A watercourse / highway drain flows adjacent to the A140 (eastern 
+verge) and will be crossed beneath by the Electrical Connection.  The 
+watercourse is discussed in greater detail in Section 3.4 below.     
+3.3.4 
+There are no other known surface water features within the wider 
+Project Site.  
+3.3.5 
+A number of small drainage ditches and ponds are located within the 
+surrounding land outside of the red line boundary, as illustrated in the 
+figure in Appendix B. 
+3.3.6 
+Of key importance is the unnamed culverted watercourse to the north 
+of the Power Generation Plant Site that flows from west to east 
+between the A140 and B1077.  After passing beneath the B1077, the 
+watercourse flows in an open channel to confluence within the River 
+Dove approximately 15. km east of the B1077.   It is believed that this 
+watercourse may have been excavated to support the development of 
+the Mid Suffolk Business Park. It is currently unknown who owns and/or 
+manages this watercourse. 
+3.3.7 
+The closest Main River to the Project is the River Dove located 
+approximately 2 km to the east of the Power Generation Plant Site.  
+The River Dove flows in a north-easterly direction to confluence with 
+the River Waveney approximately 3.8 km to the north.  
+3.4 
+Existing Surface Water Drainage 
+3.4.1 
+The surface water drainage scheme serving the former Eye Airfield is 
+split into a number of catchments.  The description of the existing 
+surface water drainage system presented within this FRA is based on 
+information provided within the EADF, review  of historic drainage plans 
+and review of drawings provided by Mr Whiting (local land owner) of 
+ditches and culverts to the west of the A140 near the area labelled 
+‘Goswold Hall’ on Ordinance Survey mapping.   
+3.4.2 
+The existing development to the north of the Power Generation Plant 
+Site (namely the Eye Airfield Industrial Estate, Mid Suffolk Business 
+Park and Brome Industrial Estate) is believed to drain predominantly to 
+the existing culverted watercourse that runs from west to east between 
+the A140 and B1077.  Runoff will subsequently be conveyed to the 
+River Dove approximately 1.5 km east of the B1077.  
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 33 - 
+ 
+3.4.3 
+Surface water runoff from the Mid Suffolk Business Park is drained via 
+adopted Anglian Water sewers to a pumping station, prior to water 
+being pumped into the culverted watercourse.  
+3.4.4 
+Drainage plans produced in 2002 (Cotton and Downes) indicate an 
+existing collector drain located along the western boundary of the 
+Power Generation Plant Site.  This drain appears to collect runoff from 
+a french drain arrangement located within the Power Generation Plant 
+Site, and discharges to an existing drain located adjacent to Eye Power 
+Station that continues to flow north.  A copy of this plan is provided in 
+Appendix C.  This drain may discharge to the existing culverted 
+watercourse that runs from west to east between the A140 and B1077, 
+or it may discharge to the watercourse / highway drain that runs along 
+the A140 (as discussed below).  
+3.4.5 
+Development on the west of the former Eye Airfield (adjacent to the 
+A140) is believed to discharge via a balancing pond and settlement 
+tank to a watercourse / highway drain that runs along the A140. This 
+section of the watercourse / highway drain is believed to discharge into 
+the culverted watercourse that crosses north of the Power Generation 
+Plant Site as discussed above, although this connection has not been 
+confirmed.  The EADF suggests that this section of the Eye Airfield 
+Industrial Estate may discharge to the west across the A140 and maps 
+provided by Mr Whiting illustrating farm drainage to the west of the 
+A140 also indicates this to be the case. If this is the case, the surface 
+water discharges into a series of land drains that passes through the 
+farms to the west of the A140 at this point and discharges into the 
+Thrandeston Beck.  The drainage of this area of the Project Site will 
+need to be confirmed during the detailed design of the proposed 
+drainage system. 
+3.4.6 
+Surface water runoff from the former runways on the former Eye Airfield 
+are generally channelled into holes drilled into the airfield which 
+discharge to a french drain arrangement.  This network of drains is 
+prevalent throughout much of the greenfield land within the former Eye 
+Airfield.  Review of historic drainage plans suggest that the drains in the 
+northern and western parts of the former Eye Airfield connect to carrier 
+drains within the A140, which in turn may discharge to the culverted 
+watercourse that crosses the former Eye Airfield or may discharge to 
+the west across the A140 as discussed above. 
+3.4.7 
+Review of historic drainage plans suggests that drains in the south of 
+the former Eye Airfield connect to a carrier drain located in Castleton 
+Way.  Surface water runoff from arable land in the southeast of the 
+former Eye Airfield is believed to drain to a drainage ditch located along 
+a field boundary, which then discharges to an adopted sewer across 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 34 - 
+Castleton Way, and into a tributary of the River Dove located in the 
+north of Eye. 
+3.4.8 
+The majority of the former runway and field drainage system is believed 
+to be in poor condition or completely blocked. 
+3.4.9 
+Surface water drainage in the greenfield area where it is proposed to 
+locate the ECC is unknown but expected to be absent. Plans provided 
+by Mr Whiting indicate the nearest watercourse to be a drainage ditch 
+approximately 250m to the north-east of the ECC which flows north-
+east toward Goswald Hall. 
+3.5 
+Geology  
+3.5.1 
+The bedrock geology within the area of the Project comprises Crag 
+Group, formed of sand and sedimentary bedrock.  The bedrock geology 
+is overlain by superficial deposits comprising Lowestoft Formation 
+(Diamicton), predominantly of chalky till.  
+3.5.2 
+The permeability of the superficial deposits is typically low, although its 
+variable nature may mean that local areas of higher permeability may 
+be present. This is confirmed through review of the Mid Suffolk SFRA 
+that states that the chalky till and drift geology within the area of Eye is 
+‘moderately drained and seasonally waterlogged’.  The SFRA goes 
+onto to state that, with regards to SUDS opportunities, this geology 
+would be appropriate for combined infiltration and attenuation systems.   
+3.5.3 
+Land within the boundary of the former Eye Airfield may be at risk of 
+ground contamination associated with historic land uses.  This includes 
+the Power Generation Plant Site as well as the Gas Connection and 
+Electrical within the boundary of the former Eye airfield.  Land to the 
+west of the A140 (i.e. in the area of the Cable and ECC) is unlikely to 
+be at risk of contamination.  More information is provided in Section 10 
+(Geology, Land Contamination and Agriculture) of the Environmental 
+Statement.  
+3.6 
+Hydrogeology 
+3.6.1 
+The bedrock geology within this area is classified as a Principal Aquifer.  
+These aquifers are layers of rock or drift deposits that have high 
+intergranular and/or fracture permeability, meaning they usually provide 
+a high level of water storage. They may support water supply and/or 
+river base flow on a strategic scale.   
+3.6.2 
+The superficial geology within this area is classified as unproductive 
+strata.  These are rock layers or drift deposits with low permeability that 
+have negligible significance for water supply or river base flow.   
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 35 - 
+ 
+3.6.3 
+Review of groundwater vulnerability maps indicates that the soils 
+overlying these aquifers are of low permeability within the areas of the 
+Project Site. This is illustrated in Figure 3.  Note that the aquifer 
+designations used within the groundwater vulnerability map below (i.e. 
+Major, Minor and Non-Aquifer) were superseded in 2010 by the 
+terminology used above (i.e. Principal and Secondary), although the 
+soil classifications remain valid.  
+Figure 3: Groundwater vulnerability (Reference: Environment Agency 
+Groundwater Map) 
+ 
+ 
+3.6.4 
+The Principal Aquifer beneath the Project Site forms part of the EA’s 
+designated Source Protection Zones (SPZ).  A SPZ denotes an aquifer 
+that is used for public potable water supply and activities within the SPZ 
+are controlled by the EA to reduce contaminations risks. 
+3.6.5 
+With reference to Figure 4, the red area denotes the inner protection 
+zone (SPZ1) which is the most sensitive and protected area of the SPZ. 
+The green area denotes the outer protection zone (SPZ2) and the blue 
+area denotes the total catchment area (SPZ3) which is the total area 
+needed to support the water demand abstracted from this source. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 36 - 
+Figure 4: Groundwater Source Protection Zones (Reference: 
+Environment Agency Groundwater Map) 
+ 
+3.6.6 
+The northern tip of the Power Generation Plant Site is located within 
+SPZ3. Electrical and Gas Connections are also located in SPZ3. 
+3.6.7 
+EA guidance ‘Groundwater Protection: Policy and Practice’ sets 
+limitations on the discharge of liquid effluent into a SPZ.  In summary, it 
+is generally not permitted to discharge surface water runoff from roads, 
+vehicle parking or public amenity areas to SPZ1, although it is 
+permitted to discharge surface water runoff from these areas to SPZ2 
+and SPZ3 through the use of SUDS.  The use of deep soakaways 
+within all areas of a SPZ for surface water disposal will generally not be 
+permitted. 
+3.6.8 
+Within all areas of the SPZ, the EA will object to high risk developments 
+(such as loading areas, service yards, chemical storage areas, garage 
+forecourts, lorry parks, scrap yards etc) discharging surface water 
+runoff to ground unless the site has been subject to risk assessment 
+and acceptable effluent treatment is provided.   
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 37 - 
+ 
+ 
+SECTION 4 
+EXISTING FLOOD RISK 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 39 - 
+ 
+4 
+EXISTING FLOOD RISK 
+4.1 
+Introduction 
+4.1.1 
+This section of the report provides an overview of any existing flood risk 
+to the Project or surrounding land from fluvial, tidal, groundwater, 
+overland flow and artificial sources.  Consideration is also given to the 
+potential effects of climate change on existing flood risk.  All data has 
+been sourced through desk based review of published documents and 
+no additional quantitative analysis or modelling has been undertaken to 
+inform this assessment.   
+4.2 
+Fluvial Flood Risk 
+4.2.1 
+Review of the EA indicative flood maps, as illustrated in Figure 5, 
+indicates that the whole of the Project Site is located within the low risk 
+Flood Zone 1.  This has been confirmed through direct consultation 
+with the EA.  The development is therefore not considered to be at risk 
+from fluvial flooding.  
+Figure 5: Indicative fluvial and tidal flood map (Reference: Environment 
+Agency Flood Map for Planning (Rivers and Sea)) 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 40 - 
+ 
+4.2.2 
+Part of the town of Eye to the south-east of the Project Site is at risk 
+from fluvial flooding from the River Dove and its tributary to the west of 
+Eye.  The Core Strategy DPD states that the town of Eye has 
+historically been constrained from expanding to the east, south and 
+west by low lying land liable to flooding from the River Dove and its 
+tributaries. 
+4.2.3 
+The Project Site and surrounding land (including the town of Eye) is not 
+in an area that receives EA flood warnings. 
+4.3 
+Tidal Flood Risk 
+4.3.1 
+The Project Site and surrounding land is not in an area deemed to be at 
+risk of tidal flooding. 
+4.4 
+Surface Water Flood Risk 
+4.4.1 
+Within this FRA, surface water flood risk encompasses flooding 
+associated with ordinary watercourses (not mapped as fluvial flood 
+risks as discussed above), surface water runoff that has not yet entered 
+the surface water drainage system and/or watercourse, and flooding 
+associated with the surcharging of the below ground sewerage 
+network.  
+4.4.2 
+The EADF states that parts of the Eye Airfield Industrial Site to the 
+north of the Power Generation Plant have experienced occasional 
+surface water flooding, deemed to be as a result of a combination of 
+blocked surface water drains within the airfield hardstanding, blockages 
+within the culverted watercourse and also a lack of capacity in the 
+culverted watercourse.  
+4.4.3 
+The Power Generation Plant is located at a local ‘high point’ of 
+approximately 49m AOD.  The risk of flooding to the Power Generation 
+Plant from runoff from adjacent land entering the site is therefore 
+considered to be low, although any increase in runoff from the Power 
+Generation Plant could increase risks to adjacent land.  
+4.4.4 
+Review of the EA’s Flood Map for Surface Water (FMfSW) indicates 
+that shallow flooding associated with surface water runoff may occur 
+within the Eye Airfield Industrial Estate and Brome Industrial Estate to 
+the north of the Power Generation Plant Site during the modelled 1 in 
+30 year event.  Other areas of the industrial estates to the north are 
+indicated to be risk of shallow surface water flooding during the larger 
+modelled 1 in 200 year event.  The FMfSW assess the likelihood of 
+surface water flooding based on review of site topography.  Identified 
+flood risks are therefore likely to be associated with the relative flat 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 41 - 
+ 
+topography of these areas and the presence of buildings that will 
+interrupt the natural flow of water.  
+4.4.5 
+The Gas Connection and Electrical Connection are not located in areas 
+to be at significant risk from surface water flooding. The only reported 
+flooding is provided in a report from Mr Whiting that states that on the 
+5th February 2014 flooding of land at Farms in Thrandeston occurred 
+approximately 2km to the north of the ECC.  
+4.4.6 
+The FMfSW indicates that the town of Eye may be at risk of surface 
+water flooding.  This appears to be principally associated with runoff 
+from the land to the north, in particular an existing land drain that 
+passes through the town from agricultural land to the north before 
+discharging to the River Dove.  
+4.5 
+Groundwater Flood Risk 
+4.5.1 
+Groundwater flooding occurs when water stored below ground reaches 
+the ground’s surface, causing flooding of below ground structures and 
+often leading to overland flow.  Groundwater flooding is commonly 
+associated with porous underlying geology, such as chalk, limestone 
+and gravels.  
+4.5.2 
+The superficial geology underlying the Project Site is relatively 
+impermeable and therefore unlikely to support groundwater flooding.  
+This is reaffirmed by the lack of records of groundwater flooding in this 
+area, of which there are none. The reported flooding of farmland near 
+Thrandeston is not attributed to any particular source. 
+4.6 
+Artificial Sources of Flood Risk 
+4.6.1 
+Artificial sources of flooding are considered to be sources such as 
+canals, reservoirs and lakes.   
+4.6.2 
+Review of EA indicative flood maps indicates that the Project Site and 
+surrounding land is not at risk of flooding from reservoirs. 
+4.6.3 
+There are no canals or significant lakes within close proximity of the 
+Project Site that are considered to pose flood risk to the area.  
+4.7 
+Potential Effects of Climate Change 
+4.7.1 
+As discussed in Section 2.5, climate change is predicted to increase 
+rainfall intensity and peak river flow, thus exacerbating existing flood 
+risk.    
+4.7.2 
+With regards to fluvial flood risk, this may increase the extent and 
+frequency of flooding associated with main rivers and ordinary 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 42 - 
+watercourses, although this is not predicted to increase flood risk to the 
+Project Site.   
+4.7.3 
+An increase in rainfall intensity could increase the frequency of surface 
+water flooding within parts of the Eye Airfield Industrial Site to the north 
+of the Power Generation Plant Site, in particular flooding that is 
+attributable to a lack of capacity in the culverted watercourse that 
+passes through this area.  This increase in flood risk is unlikely to pose 
+an increased risk to flooding within the Power Generation Plant Site, 
+but any increase in discharge to the watercourse (i.e. from the Power 
+Generation Plant) may increase flood risk elsewhere.   
+4.7.4 
+Climate change is not predicted to increase flood risks associated with 
+tidal, groundwater or artificial sources within the vicinity of the Project 
+Site. 
+4.8 
+Summary of Existing Flood Risk 
+4.8.1 
+The Project Site is not considered to be at significant risk from any 
+source of flooding, namely fluvial, tidal, groundwater, overland flow and 
+artificial sources.   
+4.8.2 
+The greatest risk of flooding to adjacent land is associated with surface 
+water runoff, with reported flood incidents within the Eye Airfield 
+Industrial Site to the north of the Power Generation Plant Site.  This is 
+deemed to be as a result of a combination of blocked surface water 
+drains within the airfield hardstandings, blockages within the culverted 
+watercourse and also a lack of capacity in the culverted watercourse.  
+Climate change could exacerbate flooding from this source. 
+4.8.3 
+Any increase in surface water runoff from the Power Generation Plant 
+Site could exacerbate existing surface water flood risk within the Eye 
+Airfield Industrial Site and within the town of Eye to the south-east.  
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 43 - 
+ 
+ 
+SECTION 5 
+POST DEVELOPMENT FLOOD RISK AND 
+DRAINAGE STRATEGY 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 45 - 
+ 
+5 
+POST DEVELOPMENT FLOOD RISK AND DRAINAGE STRATEGY 
+5.1 
+Introduction 
+5.1.1 
+This section of the report provides a summary of the potential impacts 
+that identified flood risk could have on the Project, as well as the 
+potential impacts that the Project could have on people and property 
+elsewhere.  Where appropriate, mitigation measures to manage any 
+identified risks are proposed.  This includes a description of the 
+proposed surface water management strategy.  
+5.2 
+Development Vulnerability 
+5.2.1 
+Review of existing flood risks (and any increased risk associated with 
+climate change effects) has identified that the Project Site is located 
+within the low risk Flood Zone 1 and is not considered to be at 
+significant risk from any source of flooding, namely fluvial, tidal, 
+groundwater, overland flow and artificial sources.   
+5.2.2 
+With reference to NPPF Technical Guidance, the Project is classified 
+as Essential Infrastructure in terms of its flood risk vulnerability 
+classification (namely ‘electricity generating power stations and grid 
+and primary Substations’, Table 2,  NPPF Technical Guidance: Flood 
+risk vulnerability classification).   With reference to Table 4 in Section 2 
+of this FRA, this type of development is classified as appropriate in 
+Flood Zone 1. 
+5.3 
+Increased Surface Water Runoff 
+5.3.1 
+Section 4 of this FRA has identified that the greatest risk of flooding to 
+adjacent land is associated with surface water runoff, with reported 
+flood incidents within the former Eye Airfield Industrial Site to the north 
+of the Power Generation Plant Site.  The town of Eye may also be at 
+risk of surface water flooding, principally associated with runoff from the 
+land to the north. 
+5.3.2 
+Any increase in surface water runoff from the Project Site, including 
+that associated with climate change effects, could exacerbate existing 
+surface water flood risk within the former Eye Airfield Industrial Site and 
+within the town of Eye to the south-east.    
+5.3.3 
+Works associated with the Power Generation Plant Site will result in the 
+most notable increase to the rate and volume of surface water runoff.  
+The increase in runoff associated with the Gas Connection and 
+Electrical Connection will be comparatively less.  The assessment of 
+increased flood risk as a result of the Project will therefore focus on the 
+development of the Power Generation Plant Site. Details of flood risk 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 46 - 
+as a result of the Gas Connection and Electrical Connection are dealt 
+with in Section 5.5.   
+5.3.4 
+The Power Generation Plant will occupy an area of approximately 7.5 
+ha.  Up to 1.9 ha of the development will be impermeable, comprising 
+buildings, roads, construction / maintenance compound and hard 
+standing.  The remaining 5.6 ha of this area will remain undeveloped or 
+surfaced with gravel and therefore permeable as per current conditions.    
+5.3.5 
+If unmitigated, the construction of the Power Generation Plant would 
+most likely increase flood risk within the Eye Airfield Industrial Site to 
+the north and to downstream receptors that are at existing risk of fluvial 
+flooding from the River Dove.  The development may also increase 
+flood risk within the town of Eye if water is not intercepted by a 
+drainage system and is instead allowed to runoff naturally.  
+5.3.6 
+In order to ensure no increase in flood risk associated with surface 
+water runoff over the lifetime of the Project and to meet the 
+requirements of the EA and Suffolk County Council, the Power 
+Generation Plant Site will be supported by a SUDS system that 
+attenuates surface water runoff to the equivalent greenfield runoff rate 
+up to and including the 1 in 100 year event whilst allowing for the 
+potential effects of climate change. 
+5.3.7 
+Existing Greenfield runoff rates have been calculated using the Institute 
+of Hydrology Report 124 (IH124) methodology.  These are presented 
+within Table 6, providing runoff rates per hectare and for the Power 
+Generation Site area of 1.9 ha.  The runoff rate per hectare has been 
+agreed with the EA through consultation undertaken July 2013.  
+Table 6 Greenfield runoff for a range of key return periods 
+Area 
+QBAR 
+(l/s) 
+1 in 1 yr 
+event 
+(l/s) 
+1 in 30 yr 
+event 
+(l/s) 
+1 in 100 yr 
+event 
+(l/s) 
+1 ha 
+2.84 
+2.47 
+6.83 
+10.11 
+1.9 ha 
+5.40 
+4.69 
+12.98 
+19.21 
+Area characteristics:  
+Hydrological Region = 5 
+      Soil runoff coefficient = 40%       
+SAAR = 600mm 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 47 - 
+ 
+5.4 
+Surface Water Drainage Strategy 
+Statutory requirements 
+5.4.2 
+The proposed drainage system will be designed to meet the 
+requirements of relevant planning policy and of the relevant authorities, 
+as summarised in Table 7. 
+Table 7 Summary of requirements regarding surface water 
+management 
+Policy and/or 
+relevant 
+authority  
+Summary of requirements 
+Flood and Water 
+Management Act 
+2010 
+Design in accordance with SUDS National 
+Standards if planning decision made during or 
+after implementation in late 2014. 
+Environment 
+Agency 
+Limit runoff from the Project site to the existing 
+greenfield runoff rates for a range of equivalent 
+return period rainfall events over the lifetime of the 
+development, up to and including the 1 in 100 
+year event. 
+Consider the SUDS management train and 
+incorporate SUDS into the design.  Design for 
+overland flows that exceed the drainage network.  
+Suffolk County 
+Council 
+Use SUDS to maintain greenfield runoff rates.  
+Design in accordance with SUDS National 
+Standards if planning decision made during or 
+after implementation in late 2014. 
+Design to be integrated into a wider network as 
+airfield is developed further.  
+Mid Suffolk Core 
+Strategy DPD 
+and Mid Suffolk 
+District Council 
+Do not increase flooding elsewhere.  Implement 
+SUDS where technically feasible. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 48 - 
+Policy and/or 
+relevant 
+authority  
+Summary of requirements 
+Eye Airfield 
+Development 
+Framework 
+Use of SUDS to manage site’s own runoff within 
+an overall jointly managed surface water drainage 
+strategy.  
+Detention/attenuation of surface water runoff to 
+slow it down will be required on each plot as it is 
+developed. Runoff to be restricted to greenfield 
+rates up to the 1 in 100 year event plus climate 
+change allowance. 
+Use of open ponds and wetlands that will have the 
+added benefit of improving the area’s biodiversity. 
+Conveyance of water using SUDS principles, 
+along open swales, ditches, filter strips and drains 
+should be designed. 
+Rainwater reuse/harvesting from roofs and car 
+parks, with the collected water being re-used on 
+the airfield. 
+Runoff from car and lorry parking areas will need 
+treatment to remove contaminants. 
+ 
+5.4.3 
+The draft National Standards for SUDS was published by DEFRA in 
+December 2011 and sets out the principles by which surface water 
+drainage systems should be designed in the future.  The final document 
+is still in preparation and is due to be published in late 2014 to enable 
+Schedule 3 of the FWMA to be enacted.  Although still in draft form, the 
+surface water drainage strategy proposed within this FRA aims to meet 
+the requirements of the draft National Standards for SUDS. 
+Surface water discharge 
+5.4.4 
+The draft National Standards for SUDS requires that the following 
+methods of surface water disposal are considered in order of 
+preference: 
+1. Discharge into the ground; 
+2. Discharge to a surface water body; 
+3. Discharge to a surface water sewer; 
+4. Discharge to a combined sewer. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 49 - 
+ 
+5.4.5 
+Review of underlying ground conditions suggests that the ground within 
+the site boundary will not support significant infiltration of surface water 
+runoff.  Contamination may also be present near the airfield that could 
+limit the use of infiltration systems.  Further site investigation will be 
+undertaken during the detailed design of the Project to ascertain likely 
+infiltration rates and contamination risks.  If deemed suitable, infiltration 
+of surface water runoff will be maximised through the use of combined 
+infiltration and attenuation systems.  However, it is considered likely 
+that some discharge of surface water elsewhere will still be required. 
+5.4.6 
+It is proposed that surface water runoff from the Power Generation 
+Plant Site that cannot be managed through infiltration alone will be 
+discharge to the existing drainage connection located to the north of the 
+Power Generation Plant Site adjacent to Eye Power Station (as 
+illustrated in Appendix C).  This drain may discharge to the existing 
+culverted watercourse that runs from west to east between the A140 
+and B1077, or it may discharge to the watercourse / highway drain that 
+runs along the A140 (noting that this drain may also discharge to the 
+same culverted watercourse  as discussed above, or to the west across 
+the A140). Further investigation will be required during detailed design 
+of the proposed drainage system to confirm the flow of water in these 
+systems, confirm available capacity and gain approval from the relevant 
+authorities. 
+5.4.7 
+The draft National Standards for SUDS requires development to 
+achieve no discharge to a surface water body or feature resulting from 
+the first 5 mm of any rainfall event.  The proposed drainage strategy for 
+the Power Generation Plant Site will aim to achieve this requirement by 
+promoting infiltration and/or evaporation of surface water runoff through 
+the use of unlined storage and conveyance systems, as well as the 
+storage and conveyance of water on the ground’s surface wherever 
+possible.  This is discussed further in the sections below.   
+Attenuation requirements 
+5.4.8 
+Surface water runoff from the Power Generation Plant Site will be 
+attenuated to existing Greenfield runoff rates up to and including the 1 
+in 100 year event, calculated to be approximately 19.21 l/s (10.11 
+l/s/ha).  For the purpose of sizing required attenuation systems, a worst 
+case scenario has been adopted that assumes no infiltration to ground.  
+The attenuation system will be designed to accommodate the potential 
+effects of climate change over the lifetime of the Project, which is 
+estimated to be 25 years.  In accordance with NPPF climate change 
+guidance, rainfall intensity will increase by up to 10% during this time.  
+5.4.9 
+Table 8 presents the calculated storage requirements to attenuate 
+surface water runoff to Greenfield rates, based on a total impermeable 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 50 - 
+area at the Power Generation Plant Site of 1.9 ha.  Estimates were 
+prepared using the MicroDrainage Quick Storage Estimate tool that 
+provides a range of likely required storage volumes.  A more accurate 
+sizing of the required storage volume will be undertaken during the 
+detailed design stage of the Project when a more detailed 
+representation of the proposed drainage system can be made.   At this 
+stage, the design will ensure that the maximum required storage 
+volume can be accommodated within the site boundary (i.e. 961 m3). 
+Table 8 Surface water attenuation requirements 
+ 
+1 in 1 yr 
+event 
+1 in 30 yr 
+event 
+1 in 100 yr 
+event 
+Maximum discharge 
+rate (l/s) 
+4.69 
+12.98 
+19.21 
+Required storage 
+volume (m3) 
+268-394 
+566-770 
+720-961 
+ 
+ 
+5.4.10 
+The draft National Standards for SUDS requires that surface water 
+runoff is managed on the ground surface where it is reasonably 
+practicable to do so.  This is reaffirmed by the EADF that promotes the 
+use of open ponds and wetlands, and the use of conveyance systems 
+such as open swales, ditches and filter strips.  It is proposed that the 
+attenuation requirements calculated above will be provided within an 
+open detention pond within the Power Generation Plant Site.  At this 
+stage it is proposed that the base of this pond will remain unlined to 
+promote infiltration, although this will confirmed following a more 
+detailed site investigation that will assess contaminated risks.  
+Conveyance 
+5.4.11 
+Where practical, surface water runoff from all impermeable areas will 
+be conveyed within open swales, ditches and filter strips located 
+adjacent to the proposed access roads.  A detailed topographic survey 
+of the site has been completed which will be used during the detailed 
+design of the Power Generation Plant to inform the design of these 
+systems.  Review of OS maps indicates that the site’s topography is 
+very flat with a gentle slope towards the south and the east.  However, 
+review of the existing surface water drainage system within the Power 
+Generation Plant Site boundary indicates that surface water is currently 
+conveyed towards the north.  
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 51 - 
+ 
+Treatment 
+5.4.12 
+The Power Generation Plant Site contains items that could pose risk to 
+the receiving surface water environment, such as runoff from 
+roads/parking and accidental spillage from oil and chemical storage 
+tanks. 
+5.4.13 
+Detailed mitigation to manage risks associated with these areas is 
+provided within Chapter 9 (Water Quality and Resources) of the 
+Environmental Statement.  In summary, runoff from low risk areas, 
+such as building roofs and minor access roads, will be treated through 
+the use of SUDS techniques as discussed above.  Runoff from high risk 
+areas, such as the lorry/car parking areas, construction/maintenance 
+compound and storage tanks, will be passed through an oil separator 
+prior to discharge to conveyance structures and/or the detention pond.  
+The separator will be designed in accordance with PPG3: Use and 
+Design of Oil Separators in Surface Water Drainage Systems.  
+5.4.14 
+The northern tip of the Power Generation Plant Site is located within 
+SPZ3.  Within this zone, the EA generally permits the discharge of 
+surface water runoff from roads and parking areas to the ground 
+through the use of SUDS, although the use of deep soakaways will 
+generally not be permitted.  The EA will generally object to high risk 
+activities (such as loading areas, lorry parking, service yards, and 
+chemical and oil storage areas) in SPZ3 unless acceptable treatment is 
+provided.    
+5.4.15 
+The proposed methods for managing risks associated with the 
+discharge of potentially polluted runoff will be agreed with the EA during 
+the detailed design of the Power Generation Plant.  However, it is 
+considered that the use of a robust oil separator and shallow SUDS 
+conveyance and storage measures will provide adequate protection to 
+groundwater and surface water quality.  
+Designing for exceedence 
+5.4.16 
+The proposed surface water drainage system will be designed to 
+provide capacity for up to the 1 in 30 year event, at minimum, to meet 
+the requirements of the draft National Strategy for SUDS and in 
+accordance with Sewers for Adoption.  Flooding from the drainage 
+system will therefore not occur during events equal to or less than the 1 
+in 30 year event. 
+5.4.17 
+The management of surface water runoff during events greater than the 
+1 in 30 year event will be developed in detail during the detailed design 
+of the Power Generation Plant.  This may comprise the use of 
+conveyance structures that have capacity for events greater than the in 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 52 - 
+1 in 30 year event, or the profiling of land within the site boundary to 
+manage overland flow during events greater than the in 1 in 30 year 
+event.  The design will ensure that no flooding will occur to the following 
+receptors up to and including the 1 in 100 year event and allowing for 
+the potential effects of climate change: 
+ 
+Any part of the workshops, office and store; 
+ 
+Any plant sensitive to full or partial submergence (such as electrical 
+equipment); 
+ 
+Land outside of the Power Generation Plant Site boundary.  
+Summary 
+5.4.18 
+In summary, the proposed surface water drainage system for the 
+Power Generation Plant Site will meet the following principles: 
+ 
+No runoff from the development from rainfall depths up to 5mm; 
+ 
+No increase in the volume or rate of surface water runoff from the 
+site in the 1 in 1 and 1 in 100 year rainfall events; 
+ 
+No increase in flooding to people and property elsewhere as a 
+result of the development; 
+ 
+No surface water flooding within the proposed development in all 
+rainfall events up to and including a 1 in 30 year return period 
+storm; 
+ 
+Overland flows within the site from rainfall events in exceedence of 
+a 1 in 30 year return period storm are to be managed to minimise 
+risk to people and property, up to the 1 in 100 year return period 
+storm; 
+ 
+The surface water management proposals are to be designed to 
+allow for a 10% increase in rainfall intensity in the 1 in 100 year 
+rainfall event over the lifetime of the development; 
+ 
+Surface water runoff will be treated through the use of SUDS and 
+oil separator.  
+5.5 
+Gas Connection and Electrical Connection 
+5.5.1 
+The proposed Substation and SEC will occupy an area of 
+approximately 0.9 ha, of which approximately 0.19 ha will comprise 
+impermeable surfaces and the remaining 0.71 ha will either remain 
+undeveloped or comprise permeable gravel surfaces. The proposed 
+AGI will occupy an area of 0.9 ha which is assumed to comprise 
+impermeable surfaces only.  
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 53 - 
+ 
+5.5.2 
+The Cable and Gas Connection pipeline will be buried and the ground 
+reinstated as per existing conditions. The increase in surface water 
+runoff associated with the Cable and pipeline is therefore considered to 
+be negligible and no surface water drainage system is proposed.  
+5.5.3 
+It is proposed to discharge surface water runoff from the impermeable 
+surface areas at the ECC and the AGI via infiltration into the ground. 
+Whilst infiltration rates are expected to be limited due to the relatively 
+low permeability of local geology, it is proposed that combined 
+attenuation and infiltration structures will be provided that will store 
+runoff from the relatively small impermeable areas prior to infiltration. 
+Further testing will be undertaken during the detailed design of the 
+proposed works to confirm on-site infiltration rates.  If infiltration does 
+not prove to be a viable option, alternative methods will be explored 
+that may include the discharge of surface water runoff to a local 
+drainage ditch following consultation and agreement with relevant 
+parties. 
+5.5.4 
+Access to the ECC and AGI will be provided by means of a new Access 
+Road from the A140 and a new access from Potash Lane respectively. 
+The roads are proposed to be of tarmac construction. The area of the 
+Access Road is approximately 0.4 ha excluding the area of the new 
+junction already within the A140 boundary. The area of the access road 
+to the AGI is approximately 0.3 ha 
+5.5.5 
+It is proposed that surface runoff from the access roads will be 
+managed by allowing surface water to runoff to infiltration trenches to 
+be constructed adjacent to the access roads. This provides above 
+ground management of surface water in line with the draft National 
+Standards for SUDS and, given the proposed infrequent use of these 
+access roads, this is deemed to provide adequate treatment of surface 
+water runoff.  
+5.5.6 
+If it is not possible to manage all surface water runoff via infiltration due 
+to soil characteristics, alternative methods will be explored that can 
+provide combined attenuation and infiltration.  One option could be to 
+provide an attenuated discharge into existing highway drainage in the 
+A140 and Castleton Way, although this option will require further 
+consultation and agreement with the highways authority.  If this option 
+is progressed, it is proposed to use a ‘french drain’ style collector drain 
+adjacent to the access roads.  These collector drains will be unlined to 
+promote any infiltration that is available. The collector drains will be 
+sized to attenuate discharge to the Greenfield runoff rate up to the 1 in 
+100 year event including an allowance for climate change in 
+accordance with the requirements of NPPF detailed in Table 5 of this 
+report. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 54 - 
+5.5.7 
+Tables 9 and 10 show the proposed Greenfield runoff rates (taken from 
+Table 6) and post-development runoff rates for the two access roads 
+should impermeable surfaces be selected for their construction.  
+Table 9 Substation Access Road surface water runoff and storage 
+requirements 
+ 
+1 in 1 yr 
+event 
+1 in 30 yr 
+event 
+1 in 100 yr 
+event 
+Greenfield runoff rate 
+(l/s/ha) 
+2.47 
+6.83 
+10.11 
+Road greenfield runoff 
+rate (l/s) 
+0.99 
+2.73 
+4.04 
+Storage volume 
+required (m3) 
+56-83 
+120-163 
+152-203 
+ 
+Table 10 Above Ground Installation access road surface water runoff 
+and storage requirements 
+ 
+1 in 1 yr 
+event 
+1 in 30 yr 
+event 
+1 in 100 yr 
+event 
+Greenfield runoff rate 
+(l/s/ha) 
+2.47 
+6.83 
+10.11 
+Road greenfield runoff 
+rate (l/s) 
+0.74 
+2.05 
+3.03 
+Storage volume 
+required (m3) 
+43-64 
+89-121 
+114-152 
+ 
+ 
+5.5.8 
+Estimates were prepared using the MicroDrainage Quick Storage 
+Estimate tool that provides a range of likely required storage volumes.  
+A more accurate sizing of the required storage volume will be 
+undertaken during the detailed design stage when a more detailed 
+representation of the proposed drainage system can be made.   At this 
+stage, the design will ensure that the maximum required storage 
+volume can be accommodated within the Project Site boundary. 
+5.5.9 
+The estimated storage requirements are proposed to be provided within 
+the gravel filled collector drains.  
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 55 - 
+ 
+5.6 
+Adoption and maintenance 
+5.6.1 
+The adoption and maintenance of the surface water network at the 
+Project Site is not confirmed but the following considerations have been 
+made: 
+ 
+The proposed surface water drainage system that serves the ECC, 
+AGI and access roads will most likely be adopted by the plant 
+operator and/or as part of a maintenance contract for the wider Eye 
+Airfield Industrial Site. If the proposed surface water drainage 
+system only serves the Power Generation Plant Site, it is unlikely to 
+be adopted by the SAB (Suffolk County Council) under Schedule 3 
+of the FWMA. 
+ 
+It is possible that the owner and/or maintainer of the drain to the 
+west of the Power Generation Plant Site may also wish to take 
+ownership of the Power Generation Plant Site drainage.  If this 
+network of drains starts to increase and/or they connect into the 
+Anglian Water sewers to the north, Anglian Water may also wish to 
+adopt this portion of drainage.  
+ 
+If the proposed surface water drainage system that serves the 
+Power Generation Plant Site will eventually form part of the 
+drainage system that serves other plots, it might then be adopted 
+by the SAB and/or Anglian Water. 
+5.6.2 
+The adoption and maintenance of the surface water network at the 
+Project Site will be confirmed during the detailed design of the works.  
+5.7 
+Flood Resistance and Resilience Measures 
+5.7.1 
+Flood resistance comprises measures that prevent flooding to 
+potentially vulnerable receptors, such as the ingress of water into 
+occupied buildings.  Flood resilience measures comprise measures that 
+enable a potential receptor to adapt or recover from a flooding event, 
+for example managing the risk after flood water has entered a building.  
+Both measures are equally as important to the management of flood 
+risk to development. 
+5.7.2 
+Flood resistance measures that have already been proposed as part of 
+the Power Generation Plant Site, ECC and AGI comprise the provision 
+of a robust surface water drainage strategy as discussed above.  In 
+addition, it is recommended that vulnerable aspects of these areas of 
+development (such as occupied buildings and electrical equipment) is 
+protected further through resistance measures such as raising 
+threshold levels or plinths approximately 100-150 mm above ground 
+levels to prevent ingress / submergence from overland flow. 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 56 - 
+5.7.3 
+Flood resilience measures that could be considered as part of the 
+design could include the use of water-resistant materials for floors, 
+walls and fixtures and the siting of electrical controls, cables and 
+appliances at a higher than normal level.  
+5.8 
+Flood Defence Consent 
+5.8.1 
+The Cable and Access Road to the ECC crosses a drainage ditch 
+approximately 75 m west of the A140, immediately to the south of 
+Yaxley Lake.  
+5.8.2 
+The Cable also passes beneath a watercourse / highway drain that 
+flows adjacent to the A140 (eastern verge). 
+5.8.3 
+This path will be constructed using below ground directional drilling 
+techniques that will not require open excavation.  The depth of the 
+drainage ditches is unknown but it is expected that the depth of the 
+drilled electrical connection corridor will be great enough that the drilled 
+connection route will not impact the drains.  
+5.8.4 
+The Access Road will require the construction of a culvert to enable 
+access across the drainage ditch south of Yaxley Lake.  Details of the 
+culvert design are unknown at this stage and will be developed during 
+the detailed design of the works.  However, the design will ensure no 
+impact to the hydraulic capacity of the drainage ditch or the 
+hydromorphological, chemical or ecological status of Yaxley Lake.  
+5.8.5 
+Consideration of the impacts to water quality is provided in Section 9 
+(Water Quality and Resources) of the Environmental Statement. 
+5.8.6 
+Consent for working in close proximity to the above mentioned 
+watercourses will be obtained from the relevant authority during the 
+detailed design phase and prior to construction.  
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 57 - 
+ 
+ 
+SECTION 6 
+SEQUENTIAL TEST AND EXCEPTION TEST 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 59 - 
+ 
+6 
+SEQUENTIAL TEST AND EXCEPTION TEST 
+6.1 
+The Sequential Test 
+6.1.1 
+NPPF recommends that the risk-based Sequential Test should be 
+applied by the Local Planning Authority when considering applications 
+for new development.  Its aim is to steer new development to areas at 
+the lowest risk of flooding (Flood Zone 1). Where this is not possible, 
+higher risk flood zones can be considered, but in the context of Flood 
+Risk Vulnerability Classification and the possible application of the 
+Exception Test. 
+6.1.2 
+With reference to NPPF Technical Guidance, the Project is classified 
+as Essential Infrastructure in terms of its flood risk vulnerability 
+classification (namely ‘electricity generating power stations and grid 
+and primary Substations’, Table 2,  NPPF Technical Guidance: Flood 
+risk vulnerability classification).  With reference to Table 3 of the NPPF 
+(reproduced in Table 4 in Section 2 of this FRA), this type of 
+development is classified as appropriate in Flood Zone 1.   
+6.1.3 
+The Project meets the requirements of the Sequential Test.  
+6.2 
+The Exception Test 
+6.2.1 
+With reference to Table 3 of NPPF, the Exception Test does not need 
+to be applied to the Project as the development lies within Flood Zone 1 
+and passes the Sequential Test, as discussed above. 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 61 - 
+ 
+ 
+SECTION 7 
+CONCLUSIONS 
+ 
+ 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 63 - 
+ 
+7 
+CONCLUSIONS 
+7.1 
+Summary of Existing Flood Risk 
+7.1.1 
+The Project Site is not considered to be at significant risk from any 
+source of flooding, namely fluvial, tidal, groundwater, overland flow and 
+artificial sources.   
+7.1.2 
+The greatest risk of flooding to adjacent land is associated with surface 
+water runoff, with reported flood incidents within the Eye Airfield 
+Industrial Site to the north of the Power Generation Plant Site.  This is 
+understood to be as a result of a combination of blocked surface water 
+drains within the airfield, blockages within the culverted watercourse 
+and also a lack of capacity in the culverted watercourse.  Climate 
+change could exacerbate flooding from this source. 
+7.2 
+Summary of Post-Development Flood Risk 
+7.2.1 
+Any increase in surface water runoff from the Project Site, including 
+that associated with climate change effects, could exacerbate existing 
+surface water flood risk within the Eye Airfield Industrial Site and within 
+the town of Eye to the south-east.    
+7.2.2 
+The Power Generation Plant Site will occupy an area of approximately 
+7.5 ha.  Up to 1.9 ha of the development will be impermeable, 
+comprising buildings, roads and hard standing.  The remaining 5.6 ha 
+of this area will remain undeveloped and will therefore remain 
+permeable as per current conditions. 
+7.2.3 
+Preference will be given to the use of infiltration systems for all areas of 
+the Project.  If infiltration is unsuitable to manage all surface water 
+runoff from the Power Generation Plant Site, the proposed surface 
+water drainage strategy is to drain surface water runoff to the existing 
+drainage connection located to the north of the site adjacent to Eye 
+Power Station.  This drain may discharge to the existing culverted 
+watercourse that runs from west to east between the A140 and B1077, 
+or it may discharge to the watercourse/highway drain that runs along 
+the A140 (noting that this drain may also discharge to the same 
+culverted watercourse  as discussed above, or to the west across the 
+A140.).  
+7.2.4 
+The discharge of surface water runoff from the Power Generation Plant 
+Site to this existing connection will be attenuated to the existing 
+greenfield runoff rate, up to the 1 in 100 year event.  A maximum rate of 
+10.11 l/s/ha (19.21 l/s) has been agreed with the EA.  Storage will be 
+provided in the form of a detention pond located within the Power 
+Generation Plant Site boundary.  Calculations indicate that a maximum 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 64 - 
+storage volume of 961 m3 will be required to attenuate flow up to and 
+including the 1 in 100 year event and allowing for the potential effects 
+of climate change during the lifetime of the development.  
+7.2.5 
+Where practical, surface water runoff from all impermeable areas of the 
+Power Generation Plant Site will be conveyed within open swales, 
+ditches and filter strips located adjacent to the proposed access roads.   
+7.2.6 
+Runoff from low risk areas, such as building roofs and minor access 
+roads, will be treated through the use of SUDS techniques.  Runoff 
+from high risk areas, such as the lorry/car parking areas and storage 
+tanks, will be passed through an oil separator prior to discharge to 
+conveyance structures and/or the detention pond.  The separator will 
+be designed in accordance with PPG3: Use and Design of Oil 
+Separators in Surface Water Drainage Systems.  
+7.2.7 
+It is proposed that surface water runoff from the ECC and AGI will be 
+discharged via infiltration into the ground where feasible. In the case of 
+low infiltration rates, connection will be sought into existing surface 
+water ditches/drains following consultation with the internal drainage 
+board and/or other relevant parties. 
+7.2.8 
+The proposed access roads will be constructed of tarmac. It is 
+proposed that surface water runoff from these routes will runoff to 
+adjacent infiltration trenches to be constructed alongside the roads. 
+This provides above ground management of surface water in line with 
+draft National standards for SUDS and, given the proposed infrequent 
+use of these roads, this is deemed to provide adequate treatment of 
+surface water runoff. In the event that infiltration is not a viable 
+discharge option, alternative methods will be explored that can provide 
+combined attenuation and infiltration. This may include an attenuated 
+discharge into existing highway drainage in the A140 and Castleton 
+Way, although this option will require further consultation and 
+agreement with the highways authority.  
+7.2.9 
+In summary, the proposed surface water drainage system will meet the 
+following principles: 
+ 
+No runoff from the development from rainfall depths up to 5 mm; 
+ 
+No increase in the volume or rate of surface water runoff from the 
+site in the 1 in 1 and 1 in 100 year rainfall events; 
+ 
+No increase in flooding to people and property elsewhere as a 
+result of the development; 
+ 
+ 
+Progress Power Project Flood Risk 
+Assessment 
+ 
+Progress Power Project Flood Risk Assessment_GIS SSv2 5-12-14.docx 
+Prepared by Parsons Brinckerhoff 
+December 2014 
+for Progress Power Limited 
+ 
+- 65 - 
+ 
+ 
+No surface water flooding within the proposed development in all 
+rainfall events up to and including a 1 in 30 year return period 
+storm; 
+ 
+Overland flows within the site from rainfall events in exceedence of 
+a 1 in 30 year return period storm are to be managed to minimise 
+risk to people and property, up to the 1 in 100 year return period 
+storm; 
+ 
+The surface water management proposals are to be designed to 
+allow for a 10% increase in rainfall intensity in the 1 in 100 year 
+rainfall event over the lifetime of the development; 
+ 
+Surface water runoff will be treated through the use of SUDS and 
+oil separator.  
+7.3 
+Flood Defence Consent 
+7.3.1 
+The Cable and Access Road crosses a drainage ditch approximately 
+75 m west of the A140, immediately to the south of Yaxley Lake. The 
+Cable also passes beneath a watercourse/highway drain that flows 
+adjacent to the A140 (eastern verge). 
+7.3.2 
+The trench for the Cable will be constructed using below ground 
+directional drilling techniques beneath the A140 and adjacent drainage 
+ditch. This will not require open excavation.   
+7.3.3 
+The new Access Road will require the construction of a culvert to 
+enable access across the drainage ditch south of Yaxley Lake.  Details 
+of the culvert design are unknown at this stage and will be developed 
+during the detailed design of the works.  However, the design will 
+ensure no impact to the hydraulic capacity of the drainage ditch or the 
+hydromorphological, chemical or ecological status of Yaxley Lake.  
+ 
+ 
+ 
+ 
+ 
+APPENDIX A 
+PROPOSED DEVELOPMENT PLANS 
+ 
+ 
+Pond
+ED & Ward Bdy
+1.22m RH
+Pond
+1.22m RH
+Drain
+84
+Pond
+40.4m
+The Cottage
+Mustardpot Hall
+Pond
+Pond
+40.6m
+Pond
+Cottage
+Lavender
+Conifer
+Cottage
+Pond
+Beaver Cottage
+The Old Granary
+Track
+Oak Cottage
+BROME AVENUE
+Pond
+Langton Green
+81a
+Pavilion
+81
+Camomile
+Cottage
+Bowling
+Green
+Track
+LB
+Pond
+42.2m
+Four Oaks Lodge
+41
+37
+88
+90
+89
+Fields
+Bromeland
+Lights
+Cottage
+Fair
+Langton
+31
+35
+6
+11
+7
+33
+23
+15
+Path (um)
+28
+37
+23
+House
+26
+Old Pest
+Old Pest
+House
+37
+23
+26
+28
+24
+22
+30
+30
+34
+13
+24
+16
+22
+32
+38
+26
+45
+26
+45
+38
+7
+11
+18
+15
+42
+MAPLE WAY
+8
+44
+ASH DRIVE
+14
+3
+2
+2
+1
+Sta
+25
+Sub
+1
+El
+24
+ASH DRIVE
+50
+55
+LB
+Path (um)
+64
+65
+1
+4
+OLD BREW HOUSE COURT
+Drain
+Drain
+Drain
+Drain
+Swimming Pool
+Drain
+Drain
+Netherton
+35
+9
+1
+12
+14
+27a
+The
+Willows
+Wellington Drift
+33a
+33
+31
+30
+36
+Drain
+33
+35
+36
+Drain
+FB
+1
+8
+4
+5
+9
+7
+Hall
+10
+14
+6
+Telephone
+16
+Gardens
+Drain
+Hutton Court
+Allotment
+Exchange
+3
+Linden Court
+1
+4
+15
+17
+18
+23
+27
+19
+18
+Garden House
+20
+16
+Eye
+Baptist Ch
+WELLINGTON ROAD
+DOVE LANE
+32
+26
+24
+4
+1
+3
+22
+28
+Meml
+War
+1
+2
+LB
+B 1117
+The
+Vicarage
+Primary School
+C of E Voluntary
+St Peter & St Paul
+Guildhall
+44
+53
+Youth
+Centre
+39
+45
+49
+48
+DW
+30
+32
+31
+35
+37
+36
+40
+28
+31
+32
+30
+28
+22
+Shingle House
+26
+2
+3
+22
+Shingle House
+26
+3
+2
+Pipe Line
+King's Bridge
+(remains of)
+Castle
+27.5m
+28.6m
+27.7m
+28.4m
+30.1m
+27.5m
+28.1m
+CRANLEY GREEN ROAD
+B 1117
+HOXNE ROAD
+THE ROOKERY
+CASTLE HILL
+DW
+DW
+GP
+Pond
+Outfall
+Pond
+Drain
+Pond
+Drain
+Drain
+Pond
+Pond
+River Dove
+Pond
+1a
+54
+22
+Church
+29a
+House
+52
+Grey Gables
+1
+St Peter & St Paul's
+50
+Surgery
+Southfield
+Clifford
+37
+35
+Pumping Station
+33
+31
+39
+41
+50
+3
+1
+22
+Paddock House
+Paddock House
+CHURCH STREET
+17
+9 to 11
+10
+18
+14
+29
+27
+6
+19
+23
+TCB
+Wall Cottage
+3
+5
+3
+1
+7
+2
+1a
+5
+4
+32.6m
+CASTLE STREET
+EYE
+28
+51
+15
+35
+17
+House
+Rookery
+25
+29
+30
+25
+23
+47
+43
+48
+8
+House
+14
+12
+13
+19
+21
+11
+Car Park
+BUCKSHORN LANE
+9
+The Old
+8
+7
+House
+Coach
+6
+10
+16
+18
+17
+34.4m
+30.7m
+19
+5
+28
+38
+20
+13
+23
+Ch
+40
+LOWGATE STREET
+Drain
+Drain
+26
+Brandeston
+Russets
+24
+27
+Posting
+House Court
+10
+7
+Library
+7
+4
+1
+2
+1
+17
+White Lion Mews
+8
+House
+9
+House Court
+White Lion
+13
+15
+33.2m
+GP
+13
+Honeypot
+Cottage
+1
+20
+24
+2
+6
+PH
+12
+7
+20a
+16
+13a
+HAYWARD CLOSE
+ORCHARD CLOSE
+20
+Lodge
+Coach
+Lodge
+Flint
+The
+Moorlands
+CENTURY ROAD
+10
+2
+1
+5
+2
+1
+Langton
+Cottage
+3
+TUFFS ROAD
+Pond
+House
+Rhodes
+54
+El Sub Sta
+Path (um)
+41.7m
+Willow
+4
+56
+46
+Lodge
+Victoria
+10
+1 to 21
+11
+Kencot
+House
+19
+1
+3
+15
+4
+12
+22
+ASHTON ROAD
+22
+6
+5
+12
+1
+6
+OAK CRESCENT
+8
+44
+Pinewood
+Dove Brook
+Serendipity
+Goode
+House
+Drain
+House
+9
+Drain
+36
+36
+37
+OAK CRESCENT
+PINE CLOSE
+31
+8
+B 1077
+29.9m
+Merle
+Dene
+Willow
+Cottage
+24
+22
+2
+34
+6
+Dove Yard
+15
+17
+10
+14
+18
+1
+3
+5
+9
+13
+Shelter
+Surgery
+Town
+Hall
+32.5m
+PH
+1
+1a
+1b
+4
+3
+2
+34.5m
+THE CROSS
+9
+8
+6
+6
+10a
+11
+4
+5
+2
+B 1117
+Bank
+2
+1 to 3
+Bank
+1
+CROSS STREET
+B 1117
+Bank
+PO
+3
+BROAD STREET
+House
+16 to
+Lawerence
+20
+6
+3
+21
+14
+1
+2
+8
+MOORHALL CAUSEWAY
+Drain
+9
+24
+28
+40
+The Appletrees
+1
+4
+Tamarind
+The
+5
+Cancy
+6
+4
+1
+4
+10
+4a
+17
+Magdalen
+Court
+10
+16
+12
+13
+15
+1
+14
+20
+19
+10
+11
+18
+16
+ELIZABETH WAY
+7
+12
+17
+9
+Willows
+TCB
+42
+2
+BELLANDS WAY
+End
+21
+Allotment Gardens
+TACON CLOSE
+29.3m
+13
+10
+15
+8
+9
+38
+LAMBSETH STREET
+Fire
+Station
+9
+11
+5
+7
+34.8m
+Play Area
+Drain
+Drain
+4
+2
+13
+5
+10
+6
+16
+16
+El
+Car Park
+Sub Sta
+16
+22
+6
+PC
+2
+10
+24
+4
+Oak Lodge
+NICK'S LANE
+Garth
+Little
+Slurry Pond
+Mink Farm
+1.22m RH
+Fir Grove
+1.22m RH
+Def
+Def
+Track
+3to4
+7
+2
+Langton Park
+44.3m
+White House Farm
+Pond
+Works
+Ppg Sta
+Pond
+4
+Langton Green
+Country
+Pond
+Langton Green
+Pond
+Drain
+Cottage
+B 1077
+l
+2
+1
+Pond
+43.9m
+Farm
+Langton Lodge
+Pond
+Drain
+B 1077
+44.0m
+Pond
+House
+Bothy
+Resr
+Airfield
+(disused)
+Grove
+Langton
+Drain
+Horizon
+Blue
+Drain
+Pond
+Hawthorn Cottage
+38.4m
+33
+Elizabeth Ct
+22
+31
+32
+VICTORIA HILL
+Drain
+20
+21
+2
+3
+23
+Police Station
+35.8m
+10
+11
+8
+12a
+12
+GP
+1a
+Pond
+LB
+31.2m
+Pond
+The Chalet
+1
+HIGHFIELD
+7
+1a
+Chandos
+Lodge
+Drain
+2
+18
+Drain
+House
+Oak Tree
+1
+WB
+Works
+Track
+Track
+Sub
+Sta
+El
+17
+27
+FB
+MAGDALEN STREET
+Playing Field
+Posts
+20
+Centre
+Community
+18
+21
+23
+22
+18
+22
+20
+Town Moor
+FB
+32.5m
+30.0m
+Drain
+Drain
+25
+Barn
+Rose
+35a
+31
+35
+33
+37
+FB
+11
+9
+25
+10
+17
+El
+24
+14
+12
+15
+Sub
+Tanks
+Drain
+Tank
+Tank
+Drain
+Pond
+TCB
+DANIEL GARDENS
+1
+Juniper Cott
+Oak Cott
+Heather Cott
+Ryedale
+8
+Rodeen
+Pippin Cott
+2
+Camelot
+9
+6
+1
+22
+2
+Sta
+Health
+Centre
+2
+1
+CASTLETON WAY
+20
+HAYGATE
+Tanks
+3
+5
+33.5m
+1a
+Woodcrest
+28
+1
+GAYE CRESCENT
+13
+8
+7
+YAXLEY ROAD
+Track
+Drain
+Shelter
+B 1117
+Drain
+Havensfield
+Drain
+FB
+2
+1
+Mill
+House
+Hospital
+17
+24
+6
+18
+Hartismere
+Track
+10
+56
+46
+46a
+19
+The Gables
+24
+18
+26
+38
+Sports
+Centre
+38.7m
+Sub Sta
+El
+Pond
+NICK'S LANE
+2
+Drain
+Pond
+1
+Pond
+43.5m
+Posts
+B 1077
+Pretoria Villas
+Cottage
+Willow
+8
+Mill House
+The
+Cottage
+1
+3
+Council Depot
+Gables
+Tank
+Tanks
+WB
+Issues
+ED & Ward Bdy
+1.22m RH
+19
+20
+41.4m
+3
+Def
+1.22m RH
+Drain
+Pond
+Mid Suffolk
+Business Park
+Klosters
+42.9m
+El Sub Sta
+Drain
+Chestnut Farm
+Pond
+The Barn
+Filter Bed
+Tank
+Drain
+Pond
+Drain
+Depot
+Chestnuts Farm
+Pumping
+El Sub Sta
+PROGRESS WAY
+El Sub Sta
+Station
+9
+7
+1 to 4
+10 to 12
+PROGRESS WAY
+El Sub Sta
+PROGRESS WAY
+PROGRESS WAY
+11
+48
+16
+31
+15
+19
+Allotment Gardens
+Allotment Gardens
+Path (um)
+Pond
+27
+58
+6
+8
+7
+Track
+64
+MILLFIELD
+32.1m
+YAXLEY ROAD
+Cemetery
+P
+Chapel
+Chapel
+40.0m
+1
+Track
+Pavilion
+CASTLETON WAY
+2
+Hartismere
+High School
+38.2m
+Tennis Courts
+45.2m
+45.9m
+Builder's Yard
+Four Oaks Park
+Def
+Lay-by
+1.22m RH
+Airfield
+Industrial Park
+1
+10
+9
+4
+5 to 7
+1.22m RH
+Store
+Def
+Tank
+Brome lndustrial Estate
+WB
+Sta
+Silos
+Pond
+El
+Sub
+POTASH LANE
+El Sub Sta
+Works
+chimney
+(disused)
+Airfield
+RH
+RAPSY TAPSY LANE (Track)
+Def
+RH
+ED & Ward Bdy
+Def
+Mast
+A 140
+Pond
+Well
+Pimsey House
+Ponds
+Def
+Wind Turbine
+Drain
+46.4m
+Pond
+47.1m
+MS
+A 140
+ROMAN ROAD
+Pond
+Pond
+ED & Ward Bdy
+Works
+Def
+ROMAN ROAD
+Pond
+Drain
+1.22m RH
+Track
+FB
+Pond
+Pond
+Pond
+Boswold Hall
+Pond
+Pond
+Def
+Def
+1.22m RH
+Def
+Drain
+ETL
+Water
+Eye
+Wind Turbine
+Yaxley Lake
+OLD NORWICH ROAD
+ROMAN ROAD
+Pond
+Pond
+Tanks
+WB
+Track
+Drain
+1.22m RH
+A 140
+Def
+Pond
+46.2m
+45.7m
+Industrial Park
+Mast
+ED & Ward Bdy
+ED & Ward Bdy
+Oaksmere
+Business Park
+White House Farm buildings
+Pond
+Silos
+Red House
+Drain
+Pond
+Drain
+Airfield
+Track
+Pond
+(disused)
+Farm
+Farm
+White House
+Dismantled Railway
+Well Cottage
+49.1m
+Wychwood
+Truss Farm
+47.5m
+End Terrace
+LANE
+Jappwood
+Duke's Bridge
+50.1m
+Pond
+Bridge House
+48.3m
+Pond
+Long Drive
+CHURCH
+War Memorial
+A 140
+Drain
+CASTLETON WAY
+Reed Cottage
+Ashtons
+Cottage
+A 140
+EYE ROAD
+44.0m
+Pond
+Pond
+Red House
+Cottage
+Badger
+The Cottage
+Piccolo
+Cottage
+South Cottage
+1
+Bungalow
+Cottage
+Radovan
+PO
+2
+Dukes
+Cottage
+Walnut Tree House
+Yaxley Lodge
+Barn
+Old
+Willow
+Cottage
+Path (um)
+Coach
+House
+Tree
+Cottage
+Sunnyside
+Cottage
+The
+Pine View Cottage
+Cottage
+Ferns
+House
+Ambleside
+Semele
+Deeping
+Chevington
+Primrose
+House
+10
+Drain
+Bethany
+Yaxley
+Pansy Cottage
+Track
+1
+Palm View
+Cottages
+CHERRY TREE CLOSE
+43.7m
+43.6m
+4
+Yarn Cottage
+Folly Hall Barn
+2
+The Pink House
+Farm Cottage
+Cardinal
+Room
+Briar
+Cottage
+OLD IPSWICH ROAD
+Reading
+Rose
+4
+Drain
+Pleasant
+Rose Cottage
+Cherry
+St Mary's
+Cottage
+Haven
+Roofs
+Sideways
+Red
+Arch
+Hawes Cottage
+House
+Midcot
+Firs
+Byways
+Rayles
+Pindles
+The
+Threeways
+Sewell
+Cottage
+Farm
+Cottage
+Tree
+THE STREET
+Dove Cottage
+1
+(PH)
+House
+Cherry Tree
+Church
+Yaxley
+1
+Drain
+Kent Lodge
+Tank
+43.1m
+41.6m
+Track
+GREEN LANE
+(Track)
+Pond
+Pond
+Drain
+Pond
+Drain
+Pond
+Pond
+Drain
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+Drain
+Pond
+Greenfields
+Ashley
+Field House
+The Lodge
+1.22m RH
+1.22m RH
+CR
+Pond
+Pond
+Pond
+Pond
+Pond
+Pond
+1.22m RH
+Pond
+Pond
+Pond
+Pond
+Pond
+Track
+Drain
+ETL
+1
+Pond
+Pond
+2
+The Leys
+CS
+Def
+1.22m RH
+Pond
+Pond
+49.6m
+Cottage
+Lindenlea
+Longacre
+Pond
+Grove Cottage
+South View
+Chapel Farm
+Grove House
+Drain
+21
+18
+Pond
+Path (um)
+Coleys Place
+Pond
+The Rustics
+9
+Vine
+Long Last
+Cottage
+Orchard
+Vine
+Chapel
+Farm
+Vine
+LEYS LANE
+Homestead
+Dismantled Railway
+Hall
+Church View
+The Guildhall
+Pond
+45.5m
+43.7m
+Lyon House
+Pond
+The Pines
+School
+House
+OLD IPSWICH ROAD
+2
+1
+CLOSE
+4
+2
+House
+1
+MILLSIDE
+LYON
+Dukes Bridge House
+ROAD
+Cottage
+Lyon
+ROMAN
+The Red
+71
+Spring House
+(Track)
+JUDAS LANE
+Pond
+Pond
+Pond
+Drain
+1.22m RH
+1.22m RH
+Fields Edge
+ETL
+Barn
+ETL
+Slurry
+Pit
+Pond
+Yaxley Manor House
+Silo
+49.3m
+GP
+Hartley
+Cottage
+Juniper
+House
+Ponds
+Pond
+Holme
+White
+Crossways
+Stacks
+Holme
+White
+8
+Southlands
+5
+Yew Tree
+Thackeray Lodge
+Pond
+MELLIS ROAD
+Ivy Cottage
+Bradfield Cottage
+49.8m
+Cottage
+Prospect
+2
+Conifers
+15
+17
+Rose
+Cottage
+1
+Place
+1
+Crossing
+The Old
+BURNS CLOSE
+MAPLE CLOSE
+7
+Sta
+El
+Sub
+20
+19
+10
+5
+9a
+9
+9b
+Track
+Pond
+Pond
+Drain
+1000m
+61
+12
+15
+17
+20
+22
+25
+27
+30
+32
+35
+37
+4000m
+61
+611000m
+12
+15
+17
+20
+22
+25
+27
+30
+32
+35
+37
+614000m
+3500m
+27
+37
+40
+42
+45
+47
+50
+52
+55
+57
+6000m
+27
+273500m
+37
+40
+42
+45
+47
+50
+52
+55
+57
+276000m
+December 2014
+Figure 1 (Sheet 1 of 2) - Works Plans Figure 1
+Figure 1 (Sheet 2 of 2) - Works Plans Figure 1
+Figure 1 (Sheet 1 of 2)
+Figure 1 (Sheet 2 of 2)
+Figure 2
+PPL Works Plans Key Plan
+Land required for, or affected by, the authorised development (the Order limits)
+revision 1
+Revision:
+Notes:
+Progress Power Limited
+33 Cavendish Square
+London
+W1G 0PW
+w: www.progresspower.co.uk
+Figure 2 - Works Plans Figure 2
+Progress Power Limited
+TerraQuest Solutions Limited
+10 Clement Street
+Birmingham
+B1 2SL
+w: www.terraquest.co.uk
+e: info@terraquest.co.uk
+1:5000 @ A1
+Works Plans Key Plan
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) 
+Regulations 2009
+Regulation r5(2)(j)                                                   Document Reference: 2.7
+Reproduced from Ordnance Survey digital map data © Crown copyright 2014.
+All rights reserved. Licence number 0100031673
+Legend:
+Checked By:
+Approved By:
+Parsons Brinkerhoff
+Title:
+Created For:
+Drawn By:
+TerraQuest Solutions
+Scale:
+Date:
+Created By:
+Drawing No:
+4
+4
+4
+6
+6
+6
+7
+3A
+3B
+1
+2
+3to4
+7
+44.3m
+Works
+Langton Green
+Country
+Pond
+Drain
+Cottage
+B 1077
+l
+2
+Resr
+Airfield
+(disused)
+11
+25
+10
+24
+GAYE CRESCENT
+2
+1
+Mill
+House
+Hospital
+17
+24
+6
+18
+Hartismere
+Track
+10
+56
+46
+46a
+19
+24
+18
+26
+38
+Sports
+Centre
+38.7m
+Sub Sta
+El
+Mid Suffolk
+Business Park
+Klosters
+42.9m
+El Sub Sta
+Drain
+Chestnut Farm
+Pond
+The Barn
+Filter Bed
+Tank
+Pond
+Drain
+Depot
+Chestnuts Farm
+Pumping
+El Sub Sta
+PROGRESS WAY
+El Sub Sta
+Station
+9
+7
+1 to 4
+10 to 12
+PROGRESS WAY
+El Sub Sta
+PROGRESS WAY
+PROGRESS WAY
+11
+48
+16
+31
+15
+19
+Allotment Gardens
+Allotment Gardens
+Path (um)
+Pond
+27
+58
+6
+8
+7
+Track
+64
+MILLFIELD
+40.0m
+1
+Track
+Pavilion
+CASTLETON WAY
+2
+Hartismere
+High School
+38.2m
+Tennis Courts
+Silos
+POTASH LANE
+El Sub Sta
+Works
+chimney
+(disused)
+Airfield
+RH
+RAPSY TAPSY LANE (Track)
+Def
+RH
+ED & Ward Bdy
+Def
+Mast
+Wind Turbine
+47.1m
+Pond
+Def
+ROMAN ROAD
+1.22m RH
+Def
+Def
+1.22m RH
+Def
+Eye
+Wind Turbine
+Yaxley Lake
+OLD NORWICH ROAD
+ROMAN ROAD
+Pond
+Pond
+Tanks
+WB
+Track
+Drain
+1.22m RH
+A 140
+Def
+Pond
+46.2m
+45.7m
+Industrial Park
+Mast
+ED & Ward Bdy
+ED & Ward Bdy
+Oaksmere
+Business Park
+White House Farm buildings
+Pond
+Silos
+Red House
+Drain
+Pond
+Drain
+Airfield
+Track
+Pond
+(disused)
+Farm
+Farm
+White House
+Dismantled Railway
+49.1m
+Wychwood
+Truss Farm
+47.5m
+End Terrace
+Jappwood
+Duke's Bridge
+50.1m
+Pond
+Bridge House
+48.3m
+Pond
+Long Drive
+A 140
+Drain
+CASTLETON WAY
+A 140
+EYE ROAD
+44.0m
+Pond
+Red House
+Cottage
+Badger
+The Cottage
+Piccolo
+Cottage
+South Cottage
+1
+Bungalow
+Radovan
+PO
+2
+Dukes
+Cottage
+Walnut Tree House
+10
+Pansy Cottage
+1
+Palm View
+Cottages
+CHERRY TREE CLOSE
+43.7m
+43.6m
+4
+Yarn Cottage
+Folly Hall Barn
+2
+The Pink House
+Farm Cottage
+Cardinal
+Room
+Briar
+Cottage
+OLD IPSWICH ROAD
+Reading
+Rose
+4
+Drain
+Pleasant
+Rose Cottage
+Cherry
+Cottage
+Haven
+Roofs
+Sideways
+Red
+Arch
+Hawes Cottage
+House
+Midcot
+Firs
+Byways
+Rayles
+Pindles
+The
+Threeways
+Cottage
+Farm
+Cottage
+Tree
+THE STREET
+Dove Cottage
+1
+(PH)
+Cherry Tree
+1
+Drain
+Kent Lodge
+1.22m RH
+1.22m RH
+CR
+Cottage
+Lindenlea
+Longacre
+arm
+Grove House
+21
+18
+9
+Vine
+Long Last
+Church View
+The Guildhall
+Dukes Bridge House
+2250m
+61
+25
+27
+30
+32
+3500m
+61
+612250m
+25
+27
+30
+32
+613500m
+4250m
+27
+45
+47
+50
+5250m
+27
+274250m
+45
+47
+50
+275250m
+Continued on Figure 1 Sheet 2 of 2
+25
+0
+25
+50
+75
+100
+125
+150
+175
+200
+Metres
+Work
+No.
+Brief Description (see Schedule 1 to the 
+Development Consent Order)
+December 2014
+Order limits
+Indicative Centre Line of numbered work 4
+Indicative Centre Line of numbered work 6
+Limits of Deviation of numbered works 4 and 6
+PPL Works Plan Figure 1
+Termination of numbered work 4
+Site Vehicular Access from Castleton Way to numbered work 3A
+(Maximum Limits of Deviation)
+Maintenance Compound
+Gas Pipeline
+Site Vehicular Access to numbered work 5 and new access from
+the A140 (part of) (Maximum Limits of Deviation)
+Progress Power Limited
+33 Cavendish Square
+London
+W1G 0PW
+w: www.progresspower.co.uk
+revision 1
+Commencement of numbered works 4 and 6
+Indicative Centre Line of numbered works 4 and 6
+Electrical Cable (part of)
+Power Generation Plant (divided up into numbered works 1A, 1B, 1C
+and 1D on Works Plan Figure 2) (Outer Limits of Deviation)
+Notes:
+Revision:
+TerraQuest Solutions Limited
+10 Clement Street
+Birmingham
+B1 2SL
+w: www.terraquest.co.uk
+e: info@terraquest.co.uk
+Progress Power Limited
+Progress Power Limited - Works Plans Figure 1 (Sheet 1 of 2)
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) 
+Regulations 2009
+Regulation r5(2)(j)                                                   Document Reference: 2.7
+Above Ground Installation Minimum Offtake Connection Compound
+(Maximum Limits of Deviation)
+3B
+Reproduced from Ordnance Survey digital map data © Crown copyright 2014.
+All rights reserved. Licence number 0100031673
+2
+7
+4
+3A
+6
+1
+Created For:
+Created By:
+Date:
+Approved By:
+Drawing No:
+1:2500 @ A1
+Legend:
+TerraQuest Solutions
+Drawn By:
+Parsons Brinkerhoff
+Checked By:
+Title:
+Scale:
+2
+3A
+4
+4
+4
+5e
+5b-e
+5c
+5a, c-f
+6
+6
+6
+7
+7
+3B
+Wind Turbine
+47.1m
+Pond
+Pond
+Def
+ROMAN ROAD
+1.22m RH
+Def
+Def
+1.22m RH
+Def
+Eye
+Wind Turbine
+Yaxley Lake
+OLD NORWICH ROAD
+ROMAN ROAD
+Pond
+Pond
+Tanks
+WB
+Track
+Drain
+1.22m RH
+A 140
+Def
+Pond
+46.2m
+45.7m
+Industrial Park
+Mast
+ED & Ward Bdy
+ED & Ward Bdy
+Oaksmere
+Business Park
+White House Farm buildings
+Pond
+Silos
+Red House
+Drain
+Pond
+Drain
+Airfield
+Track
+Pond
+(disused)
+Farm
+Farm
+White House
+Dismantled Railway
+49.1m
+Wychwood
+Truss Farm
+47.5m
+End Terrace
+Jappwood
+Duke's Bridge
+50.1m
+Pond
+Bridge House
+48.3m
+Pond
+Long Drive
+A 140
+Drain
+CASTLETON WAY
+EYE ROAD
+44.0m
+Pond
+Red House
+Cottage
+Badger
+The Cottage
+Piccolo
+Cottage
+South Cottage
+1
+Bungalow
+Radovan
+PO
+2
+Dukes
+Cottage
+Walnut Tree House
+10
+Pansy Cottage
+1
+Palm View
+Cottages
+CHERRY TREE CLOSE
+43.7m
+43.6m
+4
+Yarn Cottage
+Folly Hall Barn
+2
+The Pink House
+Farm Cottage
+Cardinal
+Room
+Briar
+Cottage
+OLD IPSWICH ROAD
+Reading
+Rose
+Drain
+Pleasant
+Rose Cottage
+Cherry
+Cottage
+Haven
+Roofs
+Sideways
+Red
+Arch
+Hawes Cottage
+House
+Midcot
+Firs
+Byways
+Rayles
+Pindles
+The
+Threeways
+Cottage
+Farm
+Cottage
+Tree
+THE STREET
+Dove Cottage
+1
+(PH)
+Cherry Tree
+1
+Kent Lodge
+Pond
+Pond
+1.22m RH
+1.22m RH
+CR
+Pond
+1.22m RH
+Pond
+Pond
+ETL
+1
+Pond
+Pond
+2
+The Leys
+CS
+Def
+1.22m RH
+Pond
+Pond
+49.6m
+Cottage
+Lindenlea
+Longacre
+Pond
+Grove Cottage
+South View
+Chapel Farm
+Grove House
+Drain
+21
+18
+Pond
+Path (um)
+Coleys Place
+Pond
+The Rustics
+9
+Vine
+Long Last
+Cottage
+Orchard
+Vine
+Chapel
+Farm
+Vine
+LEYS LANE
+Homestead
+Dismantled Railway
+The Guildhall
+Dukes Bridge House
+Pond
+Pond
+Drain
+1.22m RH
+1.22m RH
+ETL
+ETL
+Slurry
+Pit
+Silo
+Juniper
+House
+nds
+Holme
+White
+Stacks
+Holme
+White
+8
+Southlands
+5
+Yew Tree
+Thackeray Lodge
+nd
+MELLIS ROAD
+Ivy Cottage
+Bradfield Cottage
+49.8m
+Cottage
+Prospect
+2
+Conifers
+15
+17
+Rose
+Cottage
+1
+Place
+1
+BURNS CLOSE
+MAPLE CLOSE
+7
+Sta
+El
+Sub
+20
+19
+10
+5
+9a
+9
+9b
+1250m
+61
+15
+17
+20
+22
+2500m
+61
+611250m
+15
+17
+20
+22
+612500m
+4250m
+27
+45
+47
+50
+5250m
+27
+274250m
+45
+47
+50
+275250m
+Continued on Figure 1 Sheet 1 of 2
+25
+0
+25
+50
+75
+100
+125
+150
+175
+200
+Metres
+Brief Description (see Schedule 1 to the 
+Development Consent Order)
+Work
+No.
+December 2014
+Electrical Connection Compound (e) (Maximum Limits of Deviation)
+PPL Works Plan Figure 1
+Limits of Deviation of numbered works 4 and 6
+Termination of numbered work 6
+Notes:
+Indicative Centre Line of numbered work 4
+TerraQuest Solutions Limited
+10 Clement Street
+Birmingham
+B1 2SL
+w: www.terraquest.co.uk
+e: info@terraquest.co.uk
+Progress Power Limited
+Electrical Cable (part of)
+Electrical Connection Compound (b - e inclusive)
+(Maximum Limits of Deviation)
+Revision:
+Order limits
+Site Vehicular Access to numbered work 5 and new access from the A140
+(Maximum Limits of Deviation)
+Electrical Connection Compound (c) (Maximum Limits of Deviation)
+revision 1
+Progress Power Limited
+33 Cavendish Square
+London
+W1G 0PW
+w: www.progresspower.co.uk
+Electrical Connection Compound (a, c - f inclusive)
+(Maximum Limits of Deviation)
+Progress Power Limited - Works Plans Figure 1 (Sheet 2 of 2)
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) 
+Regulations 2009
+Regulation r5(2)(j)                                                   Document Reference: 2.7
+Gas Pipeline (part of)
+Indicative Centre Line of numbered works 4 and 6
+Indicative Centre Line of numbered work 6
+5
+5
+6
+7
+5
+Reproduced from Ordnance Survey digital map data © Crown copyright 2014.
+All rights reserved. Licence number 0100031673
+5
+4
+Created For:
+Created By:
+Scale:
+Approved By:
+Date:
+Drawing No:
+Legend:
+TerraQuest Solutions
+Drawn By:
+Parsons Brinkerhoff
+Checked By:
+1:2500 @ A1
+Title:
+1B
+1D
+1C
+4
+6
+2
+1A
+Mid Suffolk
+Business Park
+42.9m
+Filter Bed
+Pond
+Drain
+Depot
+El Sub Sta
+PROGRESS WAY
+El Sub Sta
+9
+7
+1 to 4
+PROGRESS WAY
+PROGRESS WAY
+POTASH LANE
+El Sub Sta
+Works
+chimney
+(disused)
+Airfield
+Mast
+47.1m
+Def
+MAN ROAD
+Eye
+Wind Turbine
+Pond
+Pond
+Tanks
+WB
+Industrial Park
+Mast
+ED & Ward Bdy
+Oaksmere
+Business Park
+3000m
+61
+32
+3500m
+61
+613000m
+32
+613500m
+5000m
+27
+5250m
+27
+275000m
+275250m
+Brief Description (see Schedule 1 to the 
+Development Consent Order)
+Work
+No.
+20
+Metres
+100
+10
+0
+10
+30
+40
+50
+60
+70
+80
+90
+December 2014
+Commencement of numbered works 4 and 6
+Power Generation Plant (Maximum Limits of Deviation)
+Power Generation Plant (Maximum Limits of Deviation)
+Power Generation Plant (Maximum Limits of Deviation)
+Gas Pipeline (part of)
+Maintenance Compound
+Power Generation Plant (Maximum Limits of Deviation)
+PPL Works Plan Figure 2
+Electrical Cable (part of)
+Revision:
+revision 1
+Progress Power Limited
+33 Cavendish Square
+London
+W1G 0PW
+w: www.progresspower.co.uk
+Notes:
+TerraQuest Solutions Limited
+10 Clement Street
+Birmingham
+B1 2SL
+w: www.terraquest.co.uk
+e: info@terraquest.co.uk
+Progress Power Limited
+1:1250 @ A1
+Progress Power Limited - Works Plans Figure 2
+Showing Numbered Works 1, 2, 4 (part of) and 6 (part of)
+The Infrastructure Planning (Applications: Prescribed Forms and Procedure) 
+Regulations 2009
+Regulation r5(2)(j)                                                    Document Reference: 2.7
+Limits of Deviation of numbered works 4 and 6
+Order limits
+Indicative Centre Line of numbered works 4 and 6
+1D
+6
+1B
+1C
+2
+4
+Reproduced from Ordnance Survey digital map data © Crown copyright 2014.
+All rights reserved. Licence number 0100031673
+1A
+TerraQuest Solutions
+Drawn By:
+Parsons Brinkerhoff
+Checked By:
+Title:
+Created For:
+Created By:
+Approved By:
+Scale:
+Drawing No:
+Date:
+Legend:
+ 
+ 
+ 
+APPENDIX B 
+WATER CONSTRAINTS MAP 
+ 
+ 
+WB7
+WB6
+WB5
+WB4
+WB3
+WB2
+WB1
+1:10,000
+05/12/2014 10:20:44
+AA
+AA
+AA
+AA
+NUMBER
+Water
+X
+CLIENT
+SITE/PROJECT
+TITLE
+Login: leekej
+Plot Date: 05/12/2014
+File Name:: N:\35124\3512438B PPP Eye Airfield\Z Dwgs\GIS\Mxd\ES\Water\3512438B-F09.1_GIS_RevA.mxd
+Queen Victoria House
+Redland Hill, Redland
+Bristol BS6 6US
+Tel: 44-(0)117-9339300
+Fax: 44-(0)117-9339250
+Client:
+Site/Project:
+Drawn:
+Title:
+Designed:
+Date:
+Checked:
+Scale:
+A3
+Sheet:
+Project Number:
+Drawing Number:
+Approved:
+Revision:
+© Copyright Parsons Brinckerhoff
+Rev
+Date
+Description
+By
+Chk App
+±
+0
+0.5
+1
+0.25
+Kilometres
+Waterbodies and Flood Zones
+JSdS
+AG
+AG
+AG
+ 05/12/2014 
+1:10,000
+Figure 9.1
+3512438B
+This product includes mapping data 
+licensed from Ordnance Survey ®. 
+ © Crown copyright and/or database right 2014. 
+ License number 0100031673
+Key
+Project Site
+Watercourses
+Waterbodies
+Flood Zone 3
+Flood Zone 2
+Progress Power Project
+Water 
+Body ID
+Description
+WB1
+Carlton Way Highway 
+Drain
+WB2
+A140 Highway Drain
+WB3
+Yaxley Fishing Ponds
+WB4
+Small Pond A
+WB5
+Field Drain
+WB6
+Small Pond B
+WB7
+Watercourse at The 
+Leys
+ 
+ 
+ 
+APPENDIX C 
+EXISTING DRAINAGE NETWORKS 
+ 
+ 
+Eye Airfield	  Development Framework Appendices 01 to 04 
+________________________________________________________________________________________ 
+	  
+         
+ 
+ 
+ 
+ 
+ 
+ 
+          Page A 2 
+Appendix A01 Surface Water Drainage 
+ 

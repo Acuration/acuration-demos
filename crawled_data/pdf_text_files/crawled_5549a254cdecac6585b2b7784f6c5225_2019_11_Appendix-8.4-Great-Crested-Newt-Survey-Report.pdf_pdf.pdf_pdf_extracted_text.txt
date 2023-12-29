@@ -1,0 +1,2078 @@
+Appendix 8.4
+Great Crested Newt Survey Report
+ 
+ 
+Abergelli Power Project  
+Great Crested Newt Survey Report   
+ 
+ 
+ 
+Abergelli Power Limited 
+December 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+2 
+ 
+ 
+Document Control 
+Document Properties 
+Organisation 
+AECOM 
+Author 
+Clare Morgans 
+Approved by (1st checker) 
+Ursula Jones 
+Approved by (2nd checker) 
+Kevin Webb 
+Title 
+Great Crested Newt Survey Report 
+Document Reference 
+N/A 
+Version History 
+Date 
+Version 
+Status 
+Description/Changes 
+01/12/2017 
+V1 
+ 
+Reformatted version 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for: 
+Abergelli Power Limited 
+ 
+ 
+Prepared by: 
+ 
+ 
+ AECOM Limited 
+3rd Floor 
+Portwall Place 
+Portwall Lane 
+Bristol 
+BS1 6NA 
+UK 
+ 
+T: +44 117 901 7000 
+aecom.com 
+  
+ 
+ 
+ 
+© 2016 AECOM Limited. All Rights Reserved.   
+This document has been prepared by AECOM Limited (“AECOM”) for sole use of our client (the “Client”) in accordance 
+with generally accepted consultancy principles, the budget for fees and the terms of reference agreed between AECOM 
+and the Client. Any information provided by third parties and referred to herein has not been checked or verified by 
+AECOM, unless otherwise expressly stated in the document. No third party may rely upon this document without the prior 
+and express written agreement of AECOM. 
+  
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+3 
+ 
+CONTENTS 
+1. 
+Executive Summary ........................................................................................... 4 
+2. 
+Introduction ........................................................................................................ 6 
+2.2 The Project ................................................................................................ 6 
+2.3 Great Crested New Ecology ...................................................................... 6 
+2.4 Great Crested Newt Legislation................................................................. 7 
+2.5 Quality Assurance ..................................................................................... 8 
+3. 
+Methodology ...................................................................................................... 9 
+3.1 Desk Study ................................................................................................ 9 
+3.2 Habitat Suitability Assessment .................................................................. 9 
+3.3 Manual Surveys ....................................................................................... 10 
+3.4 eDNA Sampling ........................................................................................ 11 
+3.5 Limitations ................................................................................................ 11 
+4. 
+Results ............................................................................................................. 14 
+4.1 Desk Study .............................................................................................. 14 
+4.2 Manual Surveys ....................................................................................... 18 
+4.3 eDNA Sampling ....................................................................................... 24 
+5. 
+Ecological Constraints and Indicative Potential Impacts .................................. 25 
+6. 
+Further Surveys and Recommendations ......................................................... 25 
+6.1 Further Surveys ....................................................................................... 25 
+6.2 Recommendations for Mitigation and Enhancement ............................... 25 
+7. 
+References ...................................................................................................... 27 
+ 
+TABLES 
+Table 3-1:  Categorisation of HSI Scores ................................................................... 9 
+Table 3-2: Survey Limitation Summary Table ........................................................... 13 
+Table 4-1: HSI Assessment Pond Category and Change in Conditions ................... 15 
+Table 4-2: Survey Results ........................................................................................ 19 
+Table 4-3: Survey Weather Conditions ..................................................................... 22 
+Table 4-4: eDNA Sampling Results .......................................................................... 24 
+ 
+ 
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+4 
+ 
+1. 
+Executive Summary 
+1.1.1 
+AECOM were commissioned to undertake Great Crested Newt Surveys on ponds 
+identified as suitable to support GCN within the Project Site and within 500 m of the 
+Project Site. The Project Site is approximately 30.66 ha and located near to the 
+village of Felindre, Swansea. 
+1.1.2 
+The Abergelli Power Project development proposals are for a proposed 299MW 
+Open Cycle Gas Turbine power station. 
+1.1.3 
+The Abergelli Power Project comprises the following principal elements: 
+ 
+A new Power Generation Plant; 
+ 
+A new integral Electrical Connection; and, 
+ 
+A new integral Gas Connection. 
+1.1.4 
+The Power Generation Plant, Gas Connection and Electrical Connection together 
+are referred to as the Project. 
+1.1.5 
+The Project will require the partial removal of terrestrial and aquatic habitat suitable 
+to support GCN.  
+1.1.6 
+It is understood that construction is programmed to commence no sooner than 
+2020/2021 
+1.1.7 
+The GCN is protected under European law through Annexes II and IV of the EC 
+Habitats Directive (Council Directive 92/43/EEC). Protection is given to all life 
+stages (e.g. adults, sub-adults, larvae, and eggs). This is implemented into UK law 
+under section 41 of the Conservation of Habitats and Species Regulations, 2010 
+where it is listed as a European protected species under Schedule 2. GCN is an 
+Environment (Wales) Act 2016 Section 7 Priority Species. 
+1.1.8 
+A total of 26 ponds were identified within proximity of the Project Site.   
+1.1.9 
+A Habitat Suitability Index (HIS) Assessment was undertaken an all ponds within 
+500m of the Site and ponds outside of the 500 m but clustered with ponds within 
+the 500m of the Project Site boundary. Further surveys were undertaken, where 
+appropriate, following the results of the HSI Assessment.  
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+5 
+ 
+1.1.10 Following the HSI Assessment, off the 26 ponds identified, two were classed as 
+poor (a further survey was undertaken on one of these) nine were dry and seven 
+were not accessible and therefore could not be surveyed. A combination of manual 
+and eDNA surveys were undertaken on nine ponds. 
+1.1.11 No great crested newts were identified during the manual surveys and the eDNA 
+surveys undertaken were all returned with a negative result. The manual surveys 
+ceased once the results of the eDNA surveys had been received. Common 
+amphibians were identified during the surveys. 
+1.1.12 Of the seven ponds that were not accessible. These are considered unlikely to 
+support great crested newts given the lack of GCN records from the local records 
+centre and the absence of GCN identified in other ponds during the surveys  
+1.1.13 No further surveys for great crested newts are required and there will be no impact 
+on great crested newts as part of the Project. 
+1.1.14 The Project will require the removal of three ponds (Ponds 16, 22 and 23). Pond 22 
+currently supports palmate newts and is likely to support other amphibians 
+including frogs and toads as well as a range of generalist aquatic invertebrates. 
+Pond 16 was dry. Pond 23 could not be assessed but if it contains water has the 
+potential to support generalist aquatic invertebrates and common amphibians.  
+1.1.15 Where the scheme design allows, ponds, swales or water bodies, should be 
+considered to mitigate the loss of the ponds and enhance the Site for common 
+amphibians. 
+1.1.16 Log piles and hibernacula could be created in suitable areas of habitat (such as 
+grassland and scrub/woodland edges), to enhance the area for amphibians. 
+ 
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+6 
+ 
+2. 
+Introduction 
+2.1.1 
+AECOM were commissioned to undertake Great Crested Newt (GCN) Surveys on 
+ponds identified as suitable to support GCN within the Abergelli site and within 
+proximity of the Abergelli site (hereafter referred to as the ‘Project Site’). An Habitat 
+Suitability Index (HSI) Assessment was undertaken an all ponds, where access 
+allowed, within 500 m of the Site and ponds outside of the 500m but clustered with 
+ponds within the 500 m of the Project Site boundary. Further surveys were 
+undertaken following the HSI Assessment. 
+2.2 
+The Project 
+2.2.1 
+The Project Site is located near to the village of Felindre, Swansea, as shown in 
+Figure 1.1, and the central grid reference for the Project Site is SN65280143. A full 
+description of the development is provided in Chapter 3: Project and Site 
+Description of the PEIR.  
+2.3 
+Great Crested Newt Ecology 
+2.3.1 
+GCNs are one of the two European Protected Species of amphibian found in the 
+UK.  
+2.3.2 
+GCNs, like all British amphibians, rely on water bodies for breeding but otherwise 
+spend much of their lives on land. They are ectotherms and have permeable skins, 
+so most movement occurs when the air temperature is above approximately 5ºC 
+and there is, or has recently been rain.  
+2.3.3 
+Adults and immature newts spend the winter in places where they will be protected 
+from frost and flooding. Whilst on land outside of the hibernation period, GCNs will 
+also take refuge to shelter from extremes of weather; hence during the day they will 
+often rest in dense vegetation, under refuges or underground. Adult GCNs normally 
+begin moving from their over-wintering land sites between February and April, with 
+some adult newts not reaching the desired water body until May, but this is very 
+weather dependant. Not all life-stages enter water over the course of a year; 
+immature newts (or efts) may spend all year on land until they reach breeding 
+condition. 
+2.3.4 
+Upon reaching the pond, the peak courtship and egg-laying period is normally from 
+mid-March to mid-May. The larvae hatch out after about three weeks, and then take 
+another two to three months to complete larval development. The larvae emerge 
+from the pond upon completion of metamorphosis and enter the eft land stage. This 
+move usually begins in early August and lasts for about two months. Adult newts 
+generally leave the breeding ponds from late May onwards, a movement which 
+occurs gradually with most newts having left by August but some staying until 
+October or even remaining over winter. 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+7 
+ 
+2.3.5 
+GCNs in a given area often form a metapopulation (a series of sub-populations that 
+are linked by dispersal of individuals). Newt populations function in this way since 
+they depend on habitats which vary in quality over time, and where the distribution 
+of suitable habitats often changes. This metapopulation concept complicates the 
+study and conservation of this species, since impacts to a single pond may have 
+knock-on effects on newts in nearby ponds. GCNs commonly move between ponds 
+that are up to 250 m from each other but are known to range up to 500 m from 
+breeding ponds in some cases. 
+2.3.6 
+English Nature (Ref. 1) lists the following pond characteristics as being favourable 
+for GCN populations: 
+ 
+Surface area between 100 and 300 m2; 
+ 
+Variable depth, but preferably not so deep that aquatic and emergent 
+vegetation is unable to take root. A maximum depth around 4 m is acceptable; 
+ 
+Substantial cover of submerged and marginal vegetation; 
+ 
+Open areas to facilitate courtship behaviour; 
+ 
+Good populations of invertebrates and other amphibians as prey; 
+ 
+Ponds in clusters rather than in isolation; 
+ 
+Absence of shading on the south side; 
+ 
+Absence of fish; and 
+ 
+Absence of waterfowl. 
+2.4 
+Great Crested Newt Legislation 
+2.4.1 
+The GCN is protected under European law through Annexes II and IV of the EC 
+Habitats Directive (Council Directive 92/43/EEC). Protection is given to all life 
+stages (e.g. adults, sub-adults, larvae, and eggs). This is implemented into UK law 
+under section 41 of the Conservation of Habitats and Species Regulations, 2010 
+where it is listed as a European protected species under Schedule 2, which in 
+summary makes it an offence to: 
+ 
+Deliberately take (capture), injure or kill a GCN. (In a court, 'deliberately' would 
+probably be interpreted as someone who, although not intending to take, injure 
+or kill a GCN, performed the relevant action, being sufficiently informed and 
+aware of the consequence his/her action will most likely have.); 
+ 
+Deliberately disturb a GCN in a way that would affect its ability to survive, breed 
+or rear young, hibernate or migrate or significantly affect the local distribution or 
+abundance of the species; 
+ 
+Damage or destroy a breeding site or resting place of a GCN;  
+ 
+Possess or control any live or dead specimen or anything derived from a GCN; 
+and,  
+ 
+Intentionally take or destroy the eggs of a GCN. 
+2.4.2 
+The GCN is also given full protection under Section 9 of the Wildlife and 
+Countryside Act 1981 (as amended) through its inclusion on Schedule 5. In 
+summary, the legislation makes it an offence to: 
+ 
+Intentionally or recklessly take (capture), injure or kill a GCN; 
+ 
+Intentionally or recklessly disturb a GCN; 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+8 
+ 
+ 
+Intentionally or recklessly damage or destroy, or obstruct access to, any 
+structure or place which a GCN uses for shelter or protection or intentionally or 
+recklessly disturb a GCN while it uses such a place; and,  
+ 
+Possess or advertise/sell/exchange a GCN (dead or alive) or any part of a 
+GCN. 
+2.4.3 
+The inclusion of this species on Annex II of the Habitats Directive also means that a 
+Special Area of Conservation (SAC) can be designated as a protected area due to 
+a significant presence of this species. 
+2.4.4 
+The Natural Environment and Rural Communities (NERC) Act (2006), as amended, 
+puts an obligation on public bodies to have regard, so far as is consistent with the 
+proper exercise of their functions, to the purpose of conserving biodiversity. Under 
+the terms of the Act, conserving biodiversity includes restoring or enhancing 
+populations and/or habitats. The local planning authority (LPA) or other determining 
+authority must therefore consider the effects of planning applications upon 
+biodiversity and how it can be mitigated for or enhanced.  
+2.4.5 
+In addition, Government Circular ODPM 06/2005: “Biodiversity and Geological 
+Conservation – Statutory Obligations and their Impact within the Planning System” 
+sets out further detail on how species and habitats should be considered during 
+planning applications. 
+2.4.6 
+GCN is an Environment (Wales) Act 2016 Section 7 Priority Species. These are the 
+species found in Wales which were identified as requiring action under the UK BAP 
+and which continue to be regarded as conservation priorities under the UK Post-
+2010 Biodiversity Framework. As such, it is targeted for measures necessary to 
+support its conservation status in the UK. 
+2.5 
+Quality Assurance 
+2.5.1 
+The surveys and subsequent report was undertaken in line with AECOM’s 
+Integrated Management System (IMS). Our IMS places great emphasis on 
+professionalism, technical excellence, quality, environmental and Health and Safety 
+management. All staff members are committed to establishing and maintaining our 
+certification to the international standards BS EN ISO 9001:2008 and 14001:2004 
+and BS OHSAS 18001:2007. In addition our IMS requires careful selection and 
+monitoring of the performance of all sub consultants and contractors.  
+2.5.2 
+All AECOM Ecologists who led surveys and completed the reporting for this project 
+are members of (at the appropriate level) the Chartered Institute of Ecology and 
+Environmental Management (CIEEM) and all follow their code of professional 
+conduct (CIEEM, 2013) when undertaking ecological work. 
+ 
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+9 
+ 
+3. 
+Methodology 
+3.1 
+Desk Study 
+3.1.1 
+A full desk study was not undertaken to establish the number of ponds within the 
+Project Site and within 500 m of the Project Site as the client provided AECOM with 
+the location and number of ponds identified by WSP/PB in March 2017 (Appendix 
+8.18). 
+Previous Surveys 
+3.1.2 
+The client provided AECOM with a copy of GCN surveys undertaken at the Project 
+Site by BSG Ecology in 2014 (PEIR Appendix 8.18). 
+3.2 
+Habitat Suitability Assessment 
+3.2.1 
+The client provided AECOM with a list of 23 ponds, 19 of these had been subject to 
+a HSI assessment undertaken by WSP/PB in March 2017. Where access allowed, 
+these ponds were visited by AECOM in May 2017 to check the assessment score. 
+3.2.2 
+HSI is a tool used to assess the likelihood that a water body will support GCN. It 
+incorporates ten suitability indices (SI), all of which are factors thought to affect the 
+suitability of a water body to support GCN, such as the quality of the water and the 
+presence / absence of different predators (particularly fish and waterfowl). Each 
+variable is assessed separately and then mathematically combined to provide a 
+numerical index, between 0 and 1 (Ref. 3). The HSI Categorisations is described in 
+Table 3-1 below.  
+3.2.3 
+The following equation is used (Ref. 3):  
+HSI = (SI1*SI2*SI3*SI4*SI5*SI6*SI7*SI8*SI9*SI10).  
+Table 3-1.  Categorisation of HSI Scores 
+HSI Score 
+Pond Suitability  
+< 0.5 
+Poor 
+0.5 - 0.59 
+Below Average 
+0.6 - 0.69 
+Average 
+0.7 - 0.79 
+Good  
+> 0.8 
+Excellent 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+10 
+ 
+3.3 
+Manual Surveys 
+3.3.1 
+Manual GCN surveys were undertaken on ponds (where access allowed) with a 
+score of below average or above.  GCN surveys were undertaken paying due 
+regard to Natural England’s Great Crested Newt Standing Advice (Ref. 3) and 
+Froglife’s Great Crested Newt Conservation Handbook (Ref. 1). GCN Surveys were 
+undertaken by an appropriately licenced ecologist and in suitable weather 
+conditions. Manual surveys ceased once a negative eDNA sampling result had 
+been received. The manual surveys that were undertaken were carried out within 
+the Natural Resources Wales (NRW) approved survey season window.  
+3.3.2 
+Four GCN manual survey visits are required to establish GCN presence/ absence 
+within the period mid-March to mid-June (with at least two surveys during mid-April 
+to mid-May). An additional two surveys (six in total) are required to estimate GCN 
+population. Three out of five survey techniques are required on each of the ponds 
+surveyed. A combination of four survey techniques were utilised as appropriate. 
+Torchlight searching, bottle trapping, egg searching and netting. All manual survey 
+methods were undertaken by at least one NRW GCN licence holder. A description 
+of the survey techniques used is as follows: 
+a) Torching 
+3.3.3 
+The water body was thoroughly searched using torch light between dusk and 
+midnight. The surveyor walked slowly around the perimeter of the water body once 
+(where access was possible), checking for newts in the torch beam every 2 – 3 m, 
+paying particular attention to marginal vegetation and potential display areas on the 
+pond bottom. Care was taken with the torch to minimise disturbance to the newts 
+and other wildlife which may have been present (e.g. nesting birds). To allow 
+comparison between ponds, the same power of torch (between 100,000 – 
+1,000,000 candlepower) was used on every occasion. 
+b) Bottle Trapping 
+3.3.4 
+Bottle traps were set around the margin of the water body in the evening and left 
+overnight to catch adults during the breeding season. Traps were set at an 
+appropriate density of one trap per two metres of shoreline dependent upon 
+individual site variations. The guidelines set out by Natural England, Froglife, and 
+the Herpetofauna Workers Manual was followed strictly to ensure the welfare of 
+trapped newts and other aquatic organisms.  
+c) Egg Searching  
+3.3.5 
+Submerged and floating aquatic vegetation was checked by the surveyor in order 
+to locate great crested newt eggs. Egg searches are terminated when presence of 
+great crested newt eggs is confirmed. This method is unreliable for population 
+estimates. Terminated egg searches where great crested newt eggs have been 
+identified avoids excess damage to the eggs by minimising impacts of predation 
+and UV light.  
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+11 
+ 
+d) Netting  
+3.3.6 
+A sturdy dip-net with a 2 – 4 mm mesh was used for netting for fifteen minutes per 
+50m of pond shoreline.  
+3.4 
+eDNA Sampling 
+3.4.1 
+eDNA sampling was undertaken following the methodologies provided in Biggs et al 
+(Ref. 5). eDNA kits were purchased from SureScreen. Water sampling was 
+undertaken by at least one NRW GCN licenced surveyor per pond. Water samples 
+were taken from 20 locations around each pond as described in the instructions 
+provided by SureScreen and in Ref. 5. Samples were stored in accordance with the 
+instructions provided by SureScreen and returned to SureScreen for analysis. Care 
+was taken at all steps in the procedure to avoid contamination of samples. 
+3.4.2 
+The following NRW GCN licenced surveyors were used to undertake the manual 
+and eDNA surveys: 
+3.4.3 
+Clare Morgans GradCIEEM, Ben Walsh ACIEEM and Jack Muskett GradCIEEM.  
+3.5 
+Limitations 
+a) 
+Pond Access 
+3.5.1 
+Of the 26 ponds identified, seven were not accessible. Six of these were not 
+accessible due to land access restrictions (Ponds 12-14, 18, 23 and 24) and one 
+was surrounded by a large, tall area of dense bramble vegetation (Pond 10) and 
+therefore could not be surveyed. (see Section 4.1.2, Table 4-1).  
+3.5.2 
+Ponds 12-14 and 18 are located close to each other approximately 400-500 m east 
+of the Project Site boundary. There is the possibility that these ponds may support 
+GCN, although this is considered unlikely given the lack of GCN records from the 
+local records centre and the absence of GCN identified in other ponds during the 
+surveys.  
+3.5.3 
+Pond 10 is not considered likely to support GCN. It has previously been surveyed 
+and no evidence of GCN was found (PEIR Appendix 8.18). No records of GCN 
+were returned from the local records centre. Ponds 9 and 21 which are within close 
+proximity were deemed not suitable to support GCN and no evidence of GCN was 
+found in Pond 19a.  
+3.5.4 
+Pond 23 is not considered likely to support GCN given the lack of GCN records 
+from the local records centre and the absence of GCN in other ponds within a 500 
+m radius. 
+3.5.5 
+Pond 24 is located to the west of the Project Site and may support GCN, although 
+this is considered unlikely given the lack of GCN records from the local records 
+centre and the absence of GCN identified in other ponds during the surveys.  
+b) Manual Surveys 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+12 
+ 
+3.5.6 
+The three required manual survey methods were not undertaken on Ponds 1b, 4, 
+11 and 19b (see Section 4.1.2, Table 4-1 and Section 4.2, Table 4-4) due to a 
+combination of health and safety issues and dense vegetation. 
+3.5.7 
+Ponds 1b and 4 are within a cluster of ponds to the north west of the Project Site. 
+No evidence of GCN was identified for Pond 7 and Pond 8 which is within this 
+cluster of ponds and therefore the manual survey limitation is not deemed 
+significant.  
+3.5.8 
+Pond 11 has previously been surveyed and no evidence of GCN was found (PEIR 
+Appendix 8.18). Therefore the manual survey limitation is not deemed significant. 
+3.5.9 
+On the first survey visit to Pond 19b, the water level had dropped making it 
+impossible to bottle trap. Torching was attempted but not possible due to the low 
+water level and vegetation cover. Egg searching was not possible as the access 
+was restricted to the vegetation due to deep soft mud. Pond 19b is connected to 
+Pond 19a. Pond 19a was deemed poor as part of the HSI assessment. However, 
+due to the limitation to the surveys on Pond 19b, manual surveys and an eDNA 
+survey were undertaken on Pond 19a. No evidence of GCN was returned for Pond 
+19a and therefore the manual survey limitation on Pond 19b is not deemed 
+significant. 
+3.5.10 Manual surveys were not undertaken on Pond 17, as AECOM did not gain land 
+access permission to the pond within the required survey season time. However, 
+once granted it was possible to eDNA sample Pond 17 within the approved survey 
+season window.  
+3.5.11 A summary of the manual survey and eDNA limitations is given in Table 3-2.  
+c) eDNA Sampling 
+3.5.12 eDNA surveys were undertaken on all ponds, where access allowed, of below 
+average category and above, with the exception of Ponds 19a and 19b. On the first 
+manual survey visit to Pond 19b, the water level had dropped and deep soft mud 
+was exposed on the edges making it unsuitable for eDNA sampling.  As Pond 19b 
+is connected to Pond 19a, the decision was taken to proceed with an eDNA survey 
+on Pond 19a despite it being categorised as Poor. As the GCN eDNA result 
+returned for Pond 19a was negative, it was assumed that Pond 19b was also 
+negative as the two ponds are connected. 
+3.5.13 The eDNA sampling was restricted due to accessibility on Ponds 1b, 4 and 11 
+caused by dense vegetation and soft, deep mud. Approximately only 5% of the 
+perimeter of the pond was accessible to sample (see Table 3-2 and  Table 4-5). 
+Usually a GCN eDNA water sample which has been taken from such a restricted 
+area reduces the confidence in any negative result returned as GCN eDNA can be 
+patchy depending upon where the animals have been in the pond.  
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+13 
+ 
+3.5.14 However on this occasion, given the lack of evidence of GCN within other ponds in 
+close proximity of Ponds 1b, 4 and 11 and the previous survey undertaken on Pond 
+11 which returned no results for GCN (PEIR Appendix 8.18). The eDNA limitation 
+on Ponds 1b, 4 and 11 is not deemed significant.  
+3.6 
+Survey Limitations Summary 
+Table 3-2: Survey Limitation Summary Table  
+Pond 
+Number 
+Manual Survey Limitation 
+eDNA Survey Limitation 
+1b 
+Not possible to bottle trap or net due to deep 
+and soft mud surrounding the waterbody.  
+Torched only from limited accessible areas. 
+Only 5% of pond perimeter 
+accessible to sample. 
+4 
+Not possible to bottle trap or net due to deep 
+and soft mud surrounding the waterbody. 
+Torched only from limited accessible areas. 
+Only 5% of pond perimeter 
+accessible to sample. 
+7 
+A dead water shrew was found in one of the 
+bottle traps during the first survey visit in 
+Pond 7, therefore bottle trapping ceased for 
+Pond 7 and the netting technique was used 
+for future surveys. 
+None 
+8 
+A dead water shrew was found in one of the 
+bottle traps during the first survey visit in 
+Pond 7. Due to the proximity of Pond 8 to 
+Pond 7 and the risk of trapping water 
+shrews, bottle trapping ceased for Pond 8 
+and the netting technique was used for 
+future surveys. 
+None 
+11 
+Only approximately 5% of edge is 
+accessible. Low water level and steep sides, 
+not suitable for bottle trapping and dense 
+vegetation will restrict torching.  
+Small area was torched on 1st survey visit 
+but ineffective. No further manual surveys 
+were undertaken. 
+Only 5% of pond perimeter 
+accessible to sample. 
+17 
+No manual surveys undertaken as access 
+not granted within the required survey 
+season time. 
+None 
+19b 
+Low water level, dense vegetation and soft 
+mud. Not be suitable for bottle trapping, 
+torching or egg searching. Access restricted 
+by soft mud. 
+Small area was torched on 1st survey visit 
+but ineffective. No further manual surveys 
+were undertaken on 19b.  
+Manual surveys undertaken on Pond 19a 
+No eDNA sample undertaken on 
+Pond 19b. Pond 19a was sampled 
+instead. 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+ 
+AECOM 
+14 
+ 
+undertaken as connected to Pond 19b. 
+ 
+4. 
+Results 
+4.1 
+Desk Study 
+4.1.1 
+WSP/PB identified a total of 23 ponds within 500 m of the previous Project Site 
+boundary and undertook a HSI assessment on 19 of these, 16 of which were 
+considered suitable to support GCN (see Table 4-1).  
+4.1.2 
+The Preliminary Ecological Appraisal (PEA) undertaken by AECOM in May 2017 
+(PEIR Appendix 8.1) identified a further two ponds within 500 m of the Project Site 
+(See Table 4-1 Pond 23 and 24).  
+4.1.3 
+The WSP/PB (PEIR Appendix 8.13) and the AECOM PEA (PEIR Appendix 8.1) 
+desk study highlighted that no GCN records were returned within 2 km of the 
+Project Site from the local records centre.  
+a) 
+Previous Surveys 
+4.1.4 
+The GCN surveys undertaken by BSG Ecology in 2014 did not identify any GCN 
+from the ponds surveyed (PEIR Appendix 8.18). Palmate newts Lissotriton 
+helveticus and smooth newts Lissotriton vulgaris were identified. 
+b) Habitat Suitability Assessment  
+4.1.5 
+During the pond scoping survey to check the HSI categorisation AECOM identified 
+an additional pond, Pond 1b.  
+4.1.6 
+Table 4-1 shows the number of ponds identified, the pond category given by 
+WSP/PB, the updated AECOM pond category and change in conditions/ limitations 
+identified by AECOM in May 2017and the approximate distance and direction to the 
+pond from the Project Site boundary. Figure 1 shows the location of the ponds and 
+the AECOM pond category.  
+ 
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+15 
+ 
+Table 4-1: HSI Assessment Pond Category and Change in Conditions  
+Pond 
+Number  
+WSP/PB HSI 
+Assessment Pond 
+Category 
+AECOM HSI 
+Assessment Pond 
+Category 
+Change in Conditions/ Limitations 
+Approximate Distance 
+and Direction from the 
+Project Site boundary 
+1 
+Below average 
+Dry 
+Unable to survey, pond is dry. 
+650 m west 
+1b 
+Not assessed 
+Below average 
+Not possible to bottle trap or net due to deep and 
+soft mud surrounding the waterbody. Torched 
+only from limited accessible areas. 
+670 m west 
+2 
+Below average 
+Dry 
+Unable to survey pond is dry. 
+600 m west 
+3 
+Average 
+Dry 
+Unable to survey pond is dry. 
+580 m west 
+4 
+Average 
+Average 
+Not possible to bottle trap or net due to deep and 
+soft mud surrounding the waterbody. Torched 
+only from limited accessible areas 
+560 m west 
+5 
+Below average 
+Dry 
+Unable to survey pond is dry 
+500 m west 
+6 
+Average 
+Dry 
+Unable to survey pond is dry 
+460 m west 
+7 
+Excellent 
+Excellent 
+N/A 
+400 m west 
+8 
+Good 
+Good 
+N/A 
+380 m west 
+9 
+Average 
+Dry 
+Unable to survey pond is dry. 
+160 m north east 
+10 
+Average 
+Not assessed 
+Could not access pond due to dense bramble. 
+215 m north east 
+11 
+Good 
+Good 
+Only approximately 5% of edge is accessible. 
+Low water level and steep sides, not suitable for 
+bottle trapping. Torching may be possible but 
+vegetation is dense. 
+150 m west 
+12 
+Not assessed, no 
+Not assessed, no 
+N/A 
+400 m east 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+16 
+ 
+Pond 
+Number  
+WSP/PB HSI 
+Assessment Pond 
+Category 
+AECOM HSI 
+Assessment Pond 
+Category 
+Change in Conditions/ Limitations 
+Approximate Distance 
+and Direction from the 
+Project Site boundary 
+access 
+access 
+13 
+Not assessed, no 
+access 
+Not assessed, no 
+access 
+N/A 
+450 m east 
+14 
+Not assessed, no 
+access 
+Not assessed, no 
+access 
+N/A 
+490 m east 
+15 
+Pond not present 
+during March 2017. 
+Dry 
+N/A 
+25 m east 
+16 
+Average 
+Dry 
+Unable to survey pond is dry. 
+Within Project Site 
+boundary 
+17 
+Average 
+Average 
+N/A 
+190 m west 
+18 
+Not assessed, no 
+access 
+Not assessed, no 
+access 
+N/A 
+415 m east 
+19a 
+Poor 
+Poor 
+N/A 
+440 m north 
+19b 
+Below average 
+Below average 
+Low water level, dense vegetation and soft mud. 
+May not be suitable for bottle trapping, torching 
+or egg searching. Access restricted by soft mud. 
+540 m north 
+20 
+Poor 
+Dry 
+Unable to survey pond is dry. 
+460 m west 
+21 
+Below average 
+Poor 
+Pond recently cleared of all vegetation. 
+170 m north east 
+22 
+Below average 
+Below average 
+N/A 
+Within Project Site 
+boundary 
+23 
+Not assessed 
+Not assessed, no 
+access 
+N/A 
+Within Project Site 
+boundary 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+17 
+ 
+Pond 
+Number  
+WSP/PB HSI 
+Assessment Pond 
+Category 
+AECOM HSI 
+Assessment Pond 
+Category 
+Change in Conditions/ Limitations 
+Approximate Distance 
+and Direction from the 
+Project Site boundary 
+24 
+Not assessed 
+Not assessed, no 
+access 
+N/A 
+150 
+north west 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+18 
+ 
+4.2 
+Manual Surveys 
+4.2.1 
+Following the AECOM updated HSI assessment, manual surveys were 
+undertaken on all ponds, where access allowed, of below average category 
+and above (with the exception of Pond 19a see Section 3.5). Access to Pond 
+17 was granted at a later stage than the other ponds and part of the manual 
+survey season was missed. Therefore manual surveys were not undertaken 
+on this pond. eDNA sampling was undertaken on Pond 17 (see Section 4.3). 
+4.2.2 
+The results of the surveys are shown in Table 4-2 and the weather conditions 
+are shown in Table 4-3. No GCN were recorded during any of the manual 
+surveys. Other amphibians were present in the ponds including palmate 
+newts, frogs and toads and a range of aquatic invertebrates including diving 
+beetle, dragonfly nymphs and pond skaters. 
+4.2.3 
+Weather conditions were considered favourable during all of the surveys as 
+shown in Table 4-3. The manual surveys ceased once the results of the 
+eDNA surveys had been received. 
+4.2.4 
+In 2014 manual surveys were undertaken by BSG Ecology on Ponds 10, 11 
+and 15-17 and no GCN were identified (PEIR Appendix 8.18). 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+19 
+ 
+Table 4-2: Survey Results 
+Pond 
+No. 
+Survey 
+No. 
+Date 
+Survey 
+Method 
+Great Crested Newt Palmate Newt 
+Smooth Newt 
+Smooth/Palmate Newt 
+Total  
+F 
+M 
+U 
+Total F 
+M 
+U 
+Total F 
+M 
+U 
+Total 
+F 
+J 
+Total 
+1b# 
+1 
+10/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+3 
+3 
+2 
+16/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+4# 
+1 
+10/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+5 
+0 
+5 
+5 
+2 
+16/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3 
+17/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+1 
+7 
+1 
+10/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+5 
+0 
+5 
+0 
+0 
+0 
+0 
+3 
+0 
+3 
+8 
+11/05/17 Bottle 
+Trapping** 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+3 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3 
+11/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+2 
+16/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+5 
+0 
+5 
+5 
+17/05/17 Netting  
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+17/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+8 
+1 
+10/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+35 
+0 
+35 
+36 
+11/05/17 Bottle 
+Trapping** 
+0 
+0 
+0 
+0 
+5 
+2 
+0 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+7 
+11/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+2 
+16/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+2 
+0 
+2 
+0 
+0 
+0 
+0 
+17 
+0 
+17 
+19 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+20 
+ 
+Pond 
+No. 
+Survey 
+No. 
+Date 
+Survey 
+Method 
+Great Crested Newt Palmate Newt 
+Smooth Newt 
+Smooth/Palmate Newt 
+Total  
+F 
+M 
+U 
+Total F 
+M 
+U 
+Total F 
+M 
+U 
+Total 
+F 
+J 
+Total 
+17/05/17 Netting  
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+17/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+11# 
+(see 
+Table 
+4-4) 
+ 
+1 
+08/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+F 
+M 
+U 
+Total F 
+M 
+U 
+Total F 
+M 
+U 
+Total 
+F 
+J 
+Total 
+ 
+19a 
+(see 
+Table 
+4-4) 
+1 
+11/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+3 
+0 
+0 
+0 
+0 
+12 
+0 
+12 
+15 
+12/05/17 Netting 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+12/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+19a  
+(see 
+Table 
+4-4) 
+2 
+16/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+3 
+0 
+0 
+0 
+0 
+17 
+0 
+17 
+20 
+17/05/17 Netting 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+17/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+19b# 
+(see 
+Table 
+4-4)  
+1 
+09/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+22 
+1 
+08/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+2 
+3 
+3 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+21 
+ 
+Pond 
+No. 
+Survey 
+No. 
+Date 
+Survey 
+Method 
+Great Crested Newt Palmate Newt 
+Smooth Newt 
+Smooth/Palmate Newt 
+Total  
+F 
+M 
+U 
+Total F 
+M 
+U 
+Total F 
+M 
+U 
+Total 
+F 
+J 
+Total 
+09/05/17 Bottle 
+Trapping 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+09/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+2 
+10/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+1 
+11/05/17 Bottle 
+Trapping 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+11/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+3 
+16/05/17 Torching 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3 
+0 
+3 
+3 
+17/05/17 Bottle 
+Trapping 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+17/05/17 Egg 
+Searching 
+No Eggs or leaf folds seen 
+ 
+ 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+22 
+ 
+Table 4-3: Survey Weather Conditions 
+Pond No. Survey No. Date 
+Survey Method 
+Air Temperature 
+°C 
+Water Temperature °C 
+Conditions 
+1b 
+1 
+10/05/17 
+Torching 
+10.8 
+Gauge not working. 
+Dry and mild 
+2 
+16/05/17 
+Torching 
+14.7 
+14 
+Very light rain during 
+survey and mild 
+4 
+1 
+10/05/17 
+Torching 
+10.8 
+Gauge not working. 
+Dry and mild 
+2 
+16/05/17 
+Torching 
+13.9 
+14.4 
+Very light rain during 
+survey and mild 
+3 
+17/05/17 
+Torching 
+11.6 
+12.0 
+Dry and mild 
+7 
+1 
+10/05/17 
+Torching 
+11 
+12.6 
+Dry and mild 
+11/05/17 
+Bottle Trapping and Egg 
+Searching 
+In: 16.0 
+Out:8.9 
+In:13.5 
+Out: 12.8 
+Dry and mild 
+2 
+16/05/17 
+Torching 
+13.5 
+13.1 
+Very light rain during 
+survey and mild 
+17/05/17 
+Netting and Egg 
+Searching  
+14.7 
+12.4 
+Dry and mild 
+8 
+1 
+10/05/17 
+Torching 
+11 
+14 
+Dry and mild 
+11/05/17 
+Bottle Trapping and Egg 
+Searching 
+In: 20.1 
+Out: 9.6 
+In: 15.7 
+Out: 12.8 
+Dry and mild 
+2 
+16/05/17 
+Torching 
+13.5 
+13.6 
+Very light rain during 
+survey and mild 
+17/05/17 
+Netting and Egg 
+Searching 
+12.8 
+13.5 
+Dry and mild 
+Abergelli PEIR 2018 – GREAT CRESTED NEWT SURVEY REPORT 
+ 
+ 
+Prepared for:  Abergelli Power Limited   
+AECOM 
+23 
+ 
+Pond No. Survey No. Date 
+Survey Method 
+Air Temperature 
+°C 
+Water Temperature °C 
+Conditions 
+11  
+1 
+08/05/17 
+Torching 
+11.7 
+Gauge not working. 
+Dry and mild 
+19a  
+1 
+11/05/17 
+Torching 
+15.6 
+17.4 
+Dry and mild 
+12/05/17 
+Netting and Egg 
+Searching 
+13.5 
+16.0 
+Very light rain during 
+survey and mild 
+2 
+16/05/17 
+Torching 
+11.9 
+14.4 
+Very light rain during 
+survey and mild 
+17/05/17 
+Netting and Egg 
+Searching 
+13.8 
+14.0 
+Dry and mild 
+19b 
+1 
+09/05/17 
+Torching 
+7.5 
+Gauge not working. 
+Dry 
+22 
+1 
+08/05/17 
+Torching 
+11.3 
+Gauge not working. 
+Dry and mild 
+09/05/17 
+Bottle Trapping and Egg 
+Searching 
+In:15.0 
+Out:8.0 
+Gauge not working. 
+Dry and mild 
+2 
+10/05/17 
+Torching 
+13.0 
+9.6 
+Dry and mild 
+11/05/17 
+Bottle Trapping and Egg 
+Searching 
+In:15.3 
+Out: 12.0 
+In: 12.0 
+Out: 1.0 
+Dry and mild 
+3 
+16/05/17 
+Torching 
+12.7 
+11.8 
+Very light rain during 
+survey and mild 
+17/05/17 
+Bottle Trapping and Egg 
+Searching 
+In: 15.6 
+Out: 13.9 
+In:11.5 
+Out:11.6 
+Very light rain during 
+survey and mild 
+#Details for ponds which had less than the three required manual survey methods are given in Section 3.5 and in the limitations section in Table 4-1.  
+**A dead water shrew was found in one of the bottle traps in Pond 7, therefore bottle trapping ceased for Ponds 7 and 8 and the netting technique was used for future surveys (see 
+Section 3.5) 
+Key: M = Male, F = Female, J = Juvenile, U = Unknown sex. 
+Abergelli 2018 PEIR – Abergelli Power Project Badger Survey Report 
+Prepared for:  Abergelli Power Limted 
+ 
+AECOM 
+24 
+ 
+4.3 
+eDNA Sampling  
+4.3.1 
+Following the AECOM updated HSI assessment eDNA surveys were 
+undertaken on all ponds, where access allowed, of below average category 
+and above, with the exception of Pond 19a (see Section 3.5). 
+4.3.2 
+Table 4-4 lists the ponds that were sampled for GCN eDNA, the weather 
+conditions when collecting the samples, any limitations noted during sample 
+collection and the results returned by SureScreen.  
+4.3.3 
+All the ponds sampled for GCN eDNA came back with a negative result. 
+Table 4-4: eDNA Sampling Results 
+Pond 
+Number 
+Sample 
+Date 
+Air Temp °C Limitations (see Section 
+3.5) 
+GCN Result 
+Returned 
+1b 
+11/05/17 
+16.0 
+Only 5% of pond perimeter 
+accessible to sample. 
+Negative 
+4 
+11/05/17 
+16.0 
+Only 5% of pond perimeter 
+accessible to sample. 
+Negative 
+7 
+11/05/17 
+13.0 
+None 
+Negative 
+8 
+11/05/17 
+12.0 
+None 
+Negative 
+11 
+11/05/17 
+16.0 
+Only 5% of pond perimeter 
+accessible to sample. 
+Negative 
+17 
+25/05/17 
+26.0 
+None 
+Negative 
+19a 
+11/05/17 
+15.0 
+None 
+Negative 
+22 
+11/05/17 
+15.3 
+None 
+Negative 
+. 
+ 
+ 
+Abergelli 2018 PEIR – Abergelli Power Project Badger Survey Report 
+Prepared for:  Abergelli Power Limted 
+ 
+AECOM 
+25 
+ 
+5. 
+Ecological Constraints and Indicative Potential Impacts 
+5.1.1 
+The indicative potential impacts of the Project on habitats and protected 
+species are outlined below; potential impacts will be assessed fully during 
+the Ecology Impact Assessment (EcIA). 
+5.1.2 
+No GCN were identified within nine ponds surveyed (Ponds 1b, 4, 7, 8, 11, 
+17, 19a, 19b and 22). The local records centre did not return any records of 
+GCN within 2 km of the Project Site. Previous surveys of ponds 10, 11, 15, 
+16 and 17 by BSG Ecology in 2014 did not identify the presence of GCN 
+(PEIR Appendix 8.18). Therefore, it is considered unlikely that any GCN will 
+be present within any of the ponds that were not surveyed or within 500 m of 
+these ponds in surrounding habitat given the absence of GCN from all 
+nearby ponds, and it is considered that there will be no impacts on GCN.  
+5.1.3 
+The Project will require the removal of three ponds (Ponds 16, 22 and 23). 
+Pond 22 currently supports palmate newts and is likely to support other 
+amphibians including frogs and toads, as well as a range of generalist 
+aquatic invertebrates. Pond 16 was dry. Pond 23 could not be assessed but 
+if it contains water has the potential to support generalist aquatic 
+invertebrates and common amphibians. Removal of the ponds will result in 
+loss of habitat for a small number of common amphibians and common 
+aquatic invertebrates. 
+6. 
+Further Surveys and Recommendations 
+6.1 
+Further Surveys 
+6.1.1 
+No further surveys are recommended.  
+6.2 
+Recommendations for Mitigation and Enhancement 
+6.2.1 
+The Project will require the removal of three ponds (Ponds 16, 22 and 23). 
+Pond 22 currently supports palmate newts and is likely to support other 
+amphibians including frogs and toads as well as a range of generalist 
+aquatic invertebrates. Pond 16 was dry. Pond 23 could not be assessed but 
+if it contains water has the potential to support generalist aquatic 
+invertebrates and common amphibians.  
+6.2.2 
+Where the scheme design allows, ponds, swales or water bodies, should be 
+considered to mitigate the loss of the ponds and enhance the Project Site for 
+common amphibians. 
+6.2.3 
+If a waterbody is included in the scheme design this should be managed 
+specifically for amphibians and not stocked with fish. The waterbody could 
+include planting of marginal and floating vegetation. The waterbody and any 
+bankside vegetation should be managed to control over shading.  
+Abergelli 2018 PEIR – Abergelli Power Project Badger Survey Report 
+Prepared for:  Abergelli Power Limted 
+ 
+AECOM 
+26 
+ 
+6.2.4 
+Log piles and hibernacula could be created in suitable areas of habitat (such 
+as grassland and scrub/woodland edges), to enhance the area for 
+amphibians.  
+ 
+Abergelli 2018 PEIR – Abergelli Power Project Badger Survey Report 
+Prepared for:  Abergelli Power Limted 
+ 
+AECOM 
+27 
+ 
+7. 
+References 
+Ref. 1 
+Langton T.E.S., Beckett, C.L. and Foster, J.P. 2001. Great Crested 
+Newt Conservation Handbook. Froglife, Halesworth. 
+Ref. 2 
+CIEEM. 2013. Professional Code of Conduct. Chartered Institute of 
+Ecology and Environmental Management (CIEEM) June 2013 
+Ref. 3 
+Oldham R.S., Keeble J., Swan M.J.S. & Jeffcote M. 2000. Evaluating 
+the suitability of habitat for the Great Crested Newt (Triturus cristatus). 
+Herpetological Journal 10(4), 143-155. 
+Ref. 4 
+Natural England. 2013. Great Crested Newt Standing Advice 
+Ref. 5 
+Biggs J, Ewald N, Valentini A, Gaboriaud C, Griffiths RA, Foster J, 
+Wilkinson J, Arnett A, Williams P and Dunn F. 2014. Analytical and 
+methodological development for improved surveillance of the Great 
+Crested Newt. Appendix 5. Technical advice note for field and 
+laboratory sampling of great crested newt (Triturus cristatus) 
+environmental DNA. Freshwater Habitats Trust, Oxford. 
+ 
+ 
+ 
+Abergelli 2018 PEIR – Abergelli Power Project Badger Survey Report 
+Prepared for:  Abergelli Power Limted 
+ 
+AECOM 
+28 
+ 
+Figure 1: AECOM 2017 Habitat Suitability Index for Pond 
+!(!(
+!(!(!( !(!(
+!(!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+9
+8
+7
+6
+5
+4
+3
+2
+1
+24
+23
+22
+21
+20
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1b
+19b
+19a
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\F1_GCN_Survey_v2.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+GCN 2017 POND 
+HSI ASSESSMENT
+002
+Scale at A3: 1:12,000
+FIGURE 1
+100
+0
+100
+200
+300
+400
+500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+STATION
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+STAG ENERGY
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+29/11/17
+Site Boundary
+500m Study Area
+GCN 2017 Pond HSI Assessment
+!(
+Poor
+!(
+Below Average
+!(
+Average
+!(
+Good
+!(
+Excellent
+!(
+Dry
+!(
+Not Assessed, No Access

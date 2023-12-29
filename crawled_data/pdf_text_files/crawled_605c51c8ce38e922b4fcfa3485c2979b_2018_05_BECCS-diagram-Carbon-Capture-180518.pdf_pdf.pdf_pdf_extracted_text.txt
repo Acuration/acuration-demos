@@ -1,0 +1,34 @@
+C-CAPTURE SOLVENT
+FLUE GAS 
+C0 2 DEPLETED
+HEAT
++ SOLVENT
+FLUE GAS 
+POWER STATION
+C0 2
+C0 2
+STORAGE
++
+UTILISATION
+C0 2
+C-Capture BECCS pilot at Drax Power Station
+KEY:
+C0 2
+C-Capture solvent
+Flue gases
+PROCESS:
+Drax biomass ﬂue gases injected into absorber containing C-Capture’s solvent
+The solvent ‘collects’ the        and is transferred to the next phase of the process
+Heat is used to separate the C-Capture solvent from the 
+       is stored and utilised, whilst the C-Capture solvent is re-used
+C0 2
+C0 2
+C0 2
+1
+2
+3
+4
+1
+2
+3
+4

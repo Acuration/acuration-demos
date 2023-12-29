@@ -1,0 +1,3963 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station 
+Order 
+ 
+6.4.0 Environmental Statement Non-Technical 
+Summary 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+6.4.0 
+Regulation Number: 
+5(2)(a) & Infrastructure Planning 
+(Environmental Impact Assessment) 
+Regulations 2009 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018  
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+ii 
+Contents 
+Contents .................................................................................................................... ii 
+List of Figures ......................................................................................................... iv 
+Abbreviations ........................................................................................................... v 
+Definitions ............................................................................................................... vii 
+1 
+Introduction ...................................................................................................... 1 
+ 
+Overview ................................................................................................. 1 
+ 
+Purpose of this Document ....................................................................... 3 
+ 
+The Applicant .......................................................................................... 3 
+ 
+Need for the Project ................................................................................ 4 
+ 
+Planning Policy Context .......................................................................... 4 
+2 
+The Project ....................................................................................................... 6 
+ 
+Site and Surroundings ............................................................................. 6 
+ 
+Generating Equipment Technology ......................................................... 6 
+ 
+Alternatives ............................................................................................. 8 
+ 
+Mitigation ................................................................................................. 9 
+3 
+Assessment Methodology ............................................................................ 10 
+ 
+Assessment of Receptors ..................................................................... 10 
+ 
+Measurement of Environmental Impacts ............................................... 11 
+ 
+Measurement of Environmental Effects ................................................. 12 
+4 
+Assessment Findings .................................................................................... 13 
+ 
+Introduction ........................................................................................... 13 
+ 
+Air Quality .............................................................................................. 13 
+ 
+Noise and Vibration ............................................................................... 15 
+ 
+Ecology ................................................................................................. 16 
+ 
+Water Quality and Resources ............................................................... 19 
+ 
+Geology, Ground Conditions, and Hydrogeology .................................. 20 
+ 
+Landscape and Visual Effects ............................................................... 21 
+ 
+Traffic, Transport, and Access .............................................................. 25 
+ 
+Historic Environment ............................................................................. 27 
+ 
+Socio-Economics................................................................................... 29 
+ 
+Other Effects Considered ...................................................................... 31 
+5 
+Cumulative Effects ........................................................................................ 35 
+ 
+Overview ............................................................................................... 35 
+ 
+Intra-Project effects on Shared Receptors ............................................ 35 
+ 
+Inter-Project Cumulative Effects ............................................................ 36 
+ES Non-Technical Summary 
+Abergelli Power Project 
+iii 
+6 
+Overall Conclusions ...................................................................................... 42 
+7 
+References ..................................................................................................... 43 
+ 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+iv 
+List of Figures 
+ 
+Figure NTS-1: Project Site Location Plan 
+Figure NTS-2: Project Site Layout 
+Figure NTS-3: Modelled Air Quality Receptors 
+Figure NTS-4: Noise Sensitive Receptors 
+Figure NTS-5: Designated Ecological Sites 
+Figure NTS-6: Water Quality and Resources Receptors 
+Figure NTS-7: Geology, Ground Conditions, and Hydrogeology Receptors 
+Figure NTS-8: Zone of Theoretical Visibility 
+Figure NTS-9: Traffic Links 
+Figure NTS-10: Historic Assets 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+v 
+Abbreviations 
+Abbreviation 
+Description 
+AGI 
+Above Ground Installation 
+AONB 
+Area of Outstanding Natural Beauty 
+APL 
+Abergelli Power Limited 
+BOP 
+Balance of Plant 
+BS 
+British Standard 
+CAA 
+Civil Aviation Authority 
+CCS 
+City and County of Swansea 
+CEMP 
+Construction Environmental Management Plan 
+CHP 
+Combined Heat & Power 
+CO2 
+Carbon Dioxide 
+CSTP 
+Construction Staff Travel Plan 
+CTMP 
+Construction Traffic Management Plan 
+dB 
+Decibel, Unit of Sound Intensity 
+DCO 
+Development Consent Order 
+EIA 
+Environmental Impact Assessment 
+EMF 
+Electromagnetic Fields 
+ES 
+Environmental Statement 
+EU 
+European Union 
+FCA 
+Flood Consequences Assessment 
+GIS 
+Gas Insulated Substation 
+GLVIA 
+Guidelines for Landscape and Visual Impact Assessment 
+Ha 
+Hectare, Unit of Area 
+HGV 
+Heavy Goods Vehicle 
+km 
+Kilometre, Unit of Length 
+kV 
+Kilovolt, Unit of Electric Potential 
+LPA 
+Local Planning Authority 
+LVIA 
+Landscape and Visual Impact Assessment 
+m 
+Metre, Unit of Length 
+m/s 
+Metres per second, Unit of Speed  
+MOC 
+Minimum Offtake Connection 
+MW (or MWe) 
+Megawatts, Unit of Electricity 
+NETS 
+National Electricity Transmission System 
+NGET 
+National Grid Electricity Transmission plc. 
+NO2 
+Nitrogen Dioxide 
+ES Non-Technical Summary 
+Abergelli Power Project 
+vi 
+Abbreviation 
+Description 
+NOx 
+Nitrogen Oxides (assuming as nitrogen dioxide) 
+NPS 
+National Policy Statement 
+NRW 
+Natural Resources Wales 
+NSIP 
+Nationally Significant Infrastructure Project 
+NSR 
+Noise Sensitive Receptor 
+NTS 
+Non-Technical Summary 
+OCGT 
+Open Cycle Gas Turbine 
+PA 2008 
+Planning Act 2008 
+PEIR 
+Preliminary Environmental Information Report 
+PINS 
+Planning Inspectorate 
+PTF 
+Pig Trap Facility 
+SAC 
+Special Area of Conservation 
+SINC 
+Site of Importance for Nature Conservation  
+SoS 
+Secretary of State 
+SPA 
+Special Protection Area 
+SSSI 
+Site of Special Scientific Interest 
+WFD 
+Water Framework Directive 
+ZoI 
+Zone of Influence 
+ZTV 
+Zone of Theoretical Visibility 
+ 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+vii 
+Definitions 
+ 
+ 
+2014 PEIR: The 2014 PEIR summarising the preliminary findings of the EIA 
+prepared at the time of the Phase 1 consultation. 
+ 
+2018 PEIR: The 2018 PEIR summarising the preliminary findings of the EIA 
+prepared at the time of the Phase 2 consultation. 
+ 
+Above Ground Installation: The Above Ground Installation incorporates the 
+minimum offtake connection (MOC) facility, which would be owned by National 
+Grid Gas Plc, and a Pipeline Inspection Gauge (PIG) Trap Facility (PTF), 
+owned by Abergelli Power Limited. It forms part of the Gas Connection. 
+ 
+Access Road to the Generating Equipment Site - from the B4489 which lies to 
+the west, formed by upgrading an existing access road between the B4489 
+junction and the Substation and constructing a new section of road from the 
+Substation to the Generating Equipment Site. 
+ 
+Additional Mitigation: Further measures proposed by APL in order to reduce 
+adverse effects or to secure anticipated outcomes.  Additional mitigation is 
+described in the assessment section of the ES and this ES NTS for the relevant 
+topic area.  
+ 
+Agricultural Land Classification: The ALC provides a method for assessing 
+the quality of agricultural land to enable informed choices to be made about its 
+future use within the planning system, in accordance with current guidelines 
+(former Ministry of Agriculture, Fisheries and Food MAFF, 1988).   
+ 
+Amenity: The preferable features of a location which contribute to its overall 
+character and the enjoyment of residents or visitors. 
+ 
+Ancient Woodland: Ancient woodland is defined as an area that has been 
+wooded continuously since at least 1600 AD.  Ancient Woodland is divided into 
+ancient semi-natural woodland and plantations on ancient woodland sites.  
+Both types of stand are classed as ancient woods.   
+ 
+APFP Regulations: Infrastructure Planning (Applications: Prescribed Forms 
+and Procedures) Regulations 2009  (as amended) 
+ 
+The Applicant: Abergelli Power Ltd (APL), the company responsible for the 
+application for development consent for the Project. 
+ 
+Associated Development: Associated Development is defined in the Planning 
+Act 2008.  No Associated Development is proposed as part of the DCO 
+Application. 
+ 
+Balance of Plant: All infrastructure required to support the Gas Turbine 
+Generator within the Generating Equipment Site and includes: Stack; external 
+fin-fan cooler(s); control room / office / workshop building; telemetry apparatus; 
+raw/ fire / demineralised water tanks; emergency generator including fuel 
+storage tank; gas pipeline and telemetry cabling; cathodic protection 
+test/transformer compound; gas receiving station. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+viii 
+ 
+Baseline: Environmental conditions at specific periods of time, present on, or 
+near a site, against which future changes may be measured or predicted. 
+ 
+Best Available Technique:  The most effective and advanced stage in the 
+development of activities and their methods of operation which indicates the 
+practical suitability of particular techniques for providing the basis for emission 
+limit values and other permit conditions designed to prevent and, where that is 
+not practicable, to reduce emissions and the impact on the environment as a 
+whole.  
+ 
+British Standard: The display of a British Standard number shows that the 
+manufacturer claims to have made the product in accordance with British 
+Standard. A standard is a published document that contains a technical 
+specification or other precise criteria designed to be used consistently as a rule 
+or definition. Standards are designed for voluntary use and do not impose any 
+regulations. However, laws and regulations may refer to certain standards and 
+make compliance with them compulsory. Sometimes BS will be accompanied 
+by the letters EN and/or ISO. These mean that the standard was developed as 
+a European (EN) or International (ISO) standard and then adopted by the UK 
+as a British Standard.   
+ 
+Combined Cycle Gas Turbine: Gas plant technology system comprising Gas 
+Turbine(s) fuelled by natural gas, a Heat Recovery Steam Generator(s) utilising 
+heat from the Gas Turbine exhaust gases, and a steam turbine plant with 
+associated condensing system.  
+ 
+Combined Heat and Power: A cogeneration power station capable of 
+supplying power to the NETS and also heat to local heat users (such as 
+industry or leisure) through a direct connection to waste heat/steam produced 
+as part of the combustion process.  
+ 
+Conservation Area: An area of special architectural or historical importance 
+that is protected by statutory designation. 
+ 
+Construction Environmental Management Plan: Strategic document setting 
+out best practice methods to minimise environmental impacts during 
+construction.  An outline of the CEMP is included in Appendix 3.1 of the ES. 
+ 
+Construction Staff Travel Plan:  Strategic 
+document 
+that 
+outlines 
+the 
+management of staff movements during the various stages of the construction 
+process.  An outline CSTP is included in Appendix 3.4b of the ES. 
+ 
+Construction Traffic Management Plan:  Strategic document that outlines the 
+management of material movements and interactions with the surrounding road 
+network during the various stages of the construction process.  An outline 
+CTMP is included in Appendix 3.4a of the ES. 
+ 
+Controlled waters: Inland freshwaters and groundwater. 
+ 
+Cumulative effects: The summation of effects caused by both for intra-project 
+(where a single receptor is affected by multiple aspects of a project, worsening 
+the effect) and inter-project effects (where effects are exacerbated due to other 
+reasonably foreseeable projects either in construction, consented or yet to be 
+built).  
+ES Non-Technical Summary 
+Abergelli Power Project 
+ix 
+ 
+Decommissioning:  Decommissioning will comprise the removal of all above 
+ground Generating Equipment items and the ground dressed with suitable 
+topsoils and reseeded once operation has ceased. This process will take 
+approximately 22 months. It is likely that some underground structures, 
+including the Pipeline part of the Gas Connection will be capped and left in situ 
+to avoid any adverse environmental effects associated with their removal. 
+ 
+Desk Based Assessment:  Research based primarily on database and 
+internet data gathering methods. 
+ 
+Development Consent Order: A DCO is made by the SoS pursuant to the 
+Planning Act 2008 (PA 2008) to authorise an NSIP.  
+ 
+Development Consent Order Application: The Application for a DCO made 
+to the SoS under section 37 of the PA 2008 in respect of the Project, required 
+pursuant to section 31 of the PA 2008 because the Project constitutes an NSIP 
+under section 14(1)(a) and section 15 of the PA 2008 by virtue of being an 
+onshore generating station in England and Wales of 50 MW capacity or more. 
+ 
+Drax Group plc: Drax is one of the UK’s largest energy producers and 
+acquired APL from Watt Power Limited in 2016.  
+ 
+Ecological Mitigation Area: An area has been set aside within the Project Site 
+Boundary for ecological mitigation. 
+ 
+Effect: The consequence of an impact on the environment, multiplied by the 
+sensitivity of the receptor. 
+ 
+EIA Regulations: For the Project the relevant EIA regulations are the 
+Infrastructure Planning (Environmental Impact Assessment) Regulations 2009 
+as amended, and this term is used to mean the 2009 regulations (as amended). 
+ 
+Electrical Connection: An underground electrical cable to export power from 
+the Generating Equipment to the National Grid Electricity Transmission System 
+(NETS). 
+ 
+Electromagnetic Field: A magnetic field is the physical field within which 
+magnetic influence of electric currents and magnetic materials extends. 
+ 
+Embedded Mitigation: Mitigation which is either implicit in the design of the 
+Project or its construction and operation through standard control measures 
+routinely used, such as working within best practice guidance during 
+construction. 
+ 
+Emission: A material that is expelled or released to the environment.  Usually 
+applied to gaseous or odorous discharges to the atmosphere. 
+ 
+Environmental Impact Assessment: The assessment of the likely significant 
+environmental effects of the Project. Undertaken in accordance with the EIA 
+Regulations. 
+ 
+Environmental Permit: A permit (pursuant to the Environmental Permitting 
+(England and Wales) Regulations 2016) allows the operator of an installation to 
+carry on various activities which may have an impact on the environment and 
+human health and stipulates what restrictions there are to minimise damage to 
+ES Non-Technical Summary 
+Abergelli Power Project 
+x 
+the environment and human health. The permit is issued and regulated by 
+NRW.  
+ 
+Environmental Statement Non-Technical Summary: (This document).  A 
+report presenting a non-technical summary of the information provided in the 
+ES.  This ES NTS for the Project is included with the DCO application. 
+ 
+Environmental Statement: A statement that includes such of the information 
+referred to in Part 1 of Schedule 4 of the EIA Regulations as is reasonably 
+required to assess the environmental effects of the Project. It must include at 
+least the information referred to in Part 2 of Schedule 4 of the EIA Regulations. 
+The ES for the Project is included with the DCO application as Document 
+Reference 6.1.  
+ 
+Examining Authority: The Inspector or Panel of Inspectors responsible for 
+conducting the examination of, and making a recommendation to the SoS on, 
+the DCO Application.  
+ 
+Felindre Gas Compressor Station: Gas compressor facility located in close 
+proximity to the Project Site and adjacent to the Substation.  
+ 
+Felindre Park and Share: Free car parking facility, located just off Junction 46 
+of the M4. 
+ 
+Felindre Water Treatment Works: Water treatment facility currently located to 
+the northwest of the Project Site.  
+ 
+Frequency (sound): Frequency (or pitch) of sound measured in units of Hertz. 
+1 Hertz (Hz) = 1 cycle/second.   
+ 
+Gas Connection: A new Above Ground Installation (AGI) and underground 
+Gas Pipeline.  
+ 
+Gas Insulated Substation: A gas insulated substation (GIS) is a high voltage 
+substation in which the major structures are contained in a sealed environment 
+with sulphur hexafluoride gas as the insulating medium 
+ 
+Gas Pipeline: The underground gas pipeline connection from the National Gas 
+Transmission System, to the Generating Equipment Site.  
+ 
+Gas Turbine Generator: One OCGT generator (as proposed in the Power 
+Generation Plant) which utilises the combustion of gas and air to generate hot 
+gases that are routed across turbine blades, which generate rotational forces 
+that turn an electrical generator. The exhaust gases are discharged directly to a 
+single stack without providing heat for a secondary steam cycle.  The Gas 
+Turbine Generator forms part of the Generating Equipment and is located 
+within the Generating Equipment Site.   
+ 
+Generating Equipment Site: The site where the Generating Equipment is 
+located.   
+ 
+Generating Equipment: Gas Turbine Generator and Balance of Plant which 
+are located on the Generating Equipment Site.  
+ 
+Groundwater:  Water occurring in the ground which can be reasonably 
+attributed to relatively geologically recent recharge and which can be 
+ES Non-Technical Summary 
+Abergelli Power Project 
+xi 
+reasonably considered to be wholesome (potable) unless it has been 
+contaminated (altered) by anthropogenic activity. 
+ 
+Habitat: The environment in which populations or individual species live or 
+grow. 
+ 
+Heavy goods vehicle: A commercial road vehicle that is of a construction 
+primarily suited for the carriage of goods or burden of any kind and designed or 
+adapted to have a maximum weight exceeding 3,500 kilograms when in normal 
+use and travelling on a road laden.  
+ 
+Hectare: A unit of area (10,000 m² / 2.471 acres). 
+ 
+Historic environment: All aspects of the environment resulting from the 
+interaction between people and places through time including all surviving 
+physical remains of past human activity, whether visible, buried or submerged, 
+and landscaped, planted or managed flora. Those elements of the historic 
+environment that hold significance are called heritage assets.   
+ 
+Historic Parks and Gardens: Parks, gardens and other associated features 
+deemed to be of historical importance or significance and placed on Historic 
+England’s ‘Register of Historic Parks and Gardens’.  
+ 
+Impact: A physical or measurable change to the environment. 
+ 
+Kilometre: Measurement of distance (1000 metres). 
+ 
+Kilovolt: Measurement of the amount of electric potential energy equal to 1000 
+Volts.  
+ 
+LANDMAP: LANDMAP is an all-Wales landscape resource where landscape 
+characteristics, qualities and influences on the landscape are recorded and 
+evaluated. 
+ 
+Landscape and Ecology Mitigation Plan: Holistic figure(s) illustrating high 
+level mitigation for the Project included in ES Figure 3.6. 
+ 
+Landscape and Ecology Mitigation Strategy: Strategy document highlighting 
+areas for mitigation and enhancement of the landscape and biodiversity value 
+of the Project Site.  An outline Landscape and Ecology Mitigation Strategy for 
+the Project is included in ES Appendix 3.4.  
+ 
+Landscape and Visual Impact Assessment: A tool used to identify and 
+assess the likely significant effects of change resulting from development both 
+on the landscape as an environmental resource in its own right and on people’s 
+views and visual amenity.  
+ 
+Landscape character: The distinct and recognisable pattern of elements that 
+occur consistently in a particular type of landscape, and how this is perceived 
+by people. It reflects particular combinations of geology, landform, soils, 
+vegetation, land use and human settlement. 
+ 
+Laydown Area: A temporary construction compound for the storage of 
+materials, plant and equipment as well as containing site accommodation and 
+welfare facilities, temporary car parking and temporary fencing.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+xii 
+ 
+Listed building: A list of buildings of special architectural or historic interest 
+compiled by the Secretary of State for the guidance of local planning authorities 
+in the exercise of their planning functions under the Planning (Listed Buildings 
+and Conservation Areas) Act 1990 and the Town and Country Planning Act 
+1990. Buildings are graded as follows: Grade I – Buildings of exceptional 
+interest; Grade II* - Particularly important buildings of more than special 
+interest; and Grade II – Buildings of special interest. 
+ 
+Magnitude: A combination of the scale, extent and duration of an impact.  
+ 
+Maintenance Compound: An area within the Laydown Area that will be 
+retained permanently. 
+ 
+Metre: Measurement of length. 
+ 
+Ministry of Defence: Department responsible for implementing the defence 
+policy set by the UK Government. 
+ 
+Mitigation: Action proposed to avoid, prevent, reduce and where possible 
+offset adverse effects arising from the whole or specific elements of a 
+development.   
+ 
+National Electricity Transmission System: A high-voltage electric power 
+transmission network operated by the National Grid Electricity Transmission.  
+ 
+National Grid Electricity Transmission: National Grid Electricity Transmission 
+plc’s (NGET) principal operations are the ownership and operation of regulated 
+electricity infrastructure networks in the UK, including the National Electricity 
+Transmission System.  
+ 
+National Park: A National Park is an area designated for its special landscape 
+rich in character and distinctiveness, wildlife history and heritage. 
+ 
+National Policy Statement: Overarching policy designated under the PA 2008 
+concerning the planning and consenting of NSIPs in England and Wales.  
+ 
+Nationally Significant Infrastructure Project: The Power Generation Plant 
+constitutes a Nationally Significant Infrastructure Project (NSIP) by virtue of 
+s.14(1)(a) and s.15 of the Planning Act 2008 (PA 2008) which include within the 
+definition of a NSIP any onshore generating station in England or Wales of 50 
+MWe capacity or more. 
+ 
+National Transmission System: The National Transmission System is the 
+high pressure gas network throughout the United Kingdom which transports 
+gas from the entry terminals to gas distribution networks, or directly to power 
+stations and other large industrial users.  
+ 
+Oil Pipeline: A decommissioned underground oil pipeline that crosses the 
+Project Site, directly south of the Generating Equipment Site.  
+ 
+Order Limits: The limits shown on the Works Plans within which the 
+development authorised by the DCO (the Power Generation Plant) may be 
+carried out. 
+ 
+Outline Drainage Strategy: A document outlining the approach to onsite 
+surface water and foul water drainage. An Outline Drainage Strategy is for the 
+ES Non-Technical Summary 
+Abergelli Power Project 
+xiii 
+Project is included as Appendix E to the Flood Consequences Assessment (ES 
+Appendix 9.1).  
+ 
+Outline Surface Water Management Plan: A management plan detailing 
+construction and operation practices to manage surface water. A Surface Water 
+Management Plan for the Project is outlined in the CEMP (ES Appendix 3.1).  
+ 
+Particulate matter: Solid particles or liquid droplets suspended or carried in the 
+air.   
+ 
+Peaking Plant: Peaking Plants are used to provide back up or additional 
+electricity supply to the NETS, for example, at times when there is a stress 
+event on the system.  
+ 
+Pipeline Inspection Gauge: A device used to perform various maintenance 
+operations on a pipeline. 
+ 
+Planning Act 2008: UK legislation governing applications for Development 
+Consent, under which an Examining Authority is appointed to examine 
+applications and make recommendations for a decision by the relevant 
+Secretary of State (the Secretary of State for Business, Energy and Industrial 
+Strategy in the case of energy NSIP applications). 
+ 
+The Planning Inspectorate: The government agency responsible for pre-
+application advice and administrative support during Examination of 
+applications for Development Consent Orders. 
+ 
+Power Generation Plant: Generating Equipment, Access Road, Laydown 
+Area, Maintenance Compound, Ecological Mitigation Area, permanent parking 
+and drainage.  
+ 
+Project: The Power Generation Plant, Gas Connection and Electrical 
+Connection.  
+ 
+Project Site: The entire area covered by or required in order to deliver the 
+Project. The Project Site corresponds to the Order Land. 
+ 
+Project Site Boundary: The perimeter of the Project Site. 
+ 
+Public Right of Way: An easement granted or reserved for the public over the 
+surface of the land without impediment. Public Rights of Way include public 
+footpaths, bridleways and byways open to all traffic as well as Restricted 
+Byways.   
+ 
+Ramsar: A wetland site designated of international importance under the 
+Ramsar Convention. 
+ 
+Receptor: A component of the natural, created, or built environment such as a 
+human being, water, air, a building, or a plant that has the potential to be 
+affected by the Project. 
+ 
+Residual effect: Those effects of a development that remain following the 
+implementation of mitigation measures.  
+ 
+Rochdale Envelope: The Rochdale cases provide the basis upon which a 
+project can be described by a series of maximum and minimum extents (or 
+parameters). These parameters form an ‘envelope’ within which the detailed 
+ES Non-Technical Summary 
+Abergelli Power Project 
+xiv 
+design of the Project can be progressed.  Where the Rochdale Envelope is 
+used, the parameters allow an assessment of the "worst case" environmental 
+effects in the ES. The Rochdale Envelope approach has been used for the 
+Project and the relevant parameters assessed in the EIA for the Project.  
+ 
+Scheduled Monument: A building included in the Schedule of Monuments 
+compiled under Section 1 of the Ancient Monuments, and Archaeological Area 
+Act 1979. Scheduled Monuments have statutory protection under this Act 
+(Section 2) and an application for Scheduled Monument Consent must be 
+made to Cadw if work to a Scheduled Monument is proposed.   
+ 
+Scoping Opinion: The EIA Scoping Opinion for the Project issued by the 
+Secretary of State dated August 2014. 
+ 
+Scrub: Vegetation consisting of stunted trees, bushes and other plants. 
+ 
+Secondary A Aquifer: Permeable layers capable of supporting water supplies 
+at a local rather than strategic scale, and in some cases, forming an important 
+source of base flow to rivers.   
+ 
+Secretary of State: The decision maker for an NSIP application. 
+ 
+Sensitivity: A term applied to specific receptors, combining judgements of the 
+susceptibility of the receptor to the specific type of change or development 
+proposed and the value related to that receptor. 
+ 
+Site of Importance for Nature Conservation: Also known as Local Wildlife 
+Sites, SINCs are designated to raise awareness of the importance for wildlife 
+particularly with regard to planning and land management decision making.  
+ 
+Site of Special Scientific Interest: A site statutorily notified under the Wildlife 
+and Countryside Act 1981 (as amended) as being of special nature 
+conservation or geological interest. SSSIs include wildlife habitats, geological 
+features and landforms.  
+ 
+Special Area of Conservation: Areas of protected habitats and species as 
+defined in the European Union’s Habitats Directive (92/43/EEC). 
+ 
+Special Protection Area: Classified for rare and vulnerable birds, and for 
+regularly occurring migratory species, as defined in the EC Birds Directive 
+(2009/147/EC). 
+ 
+Species: A group of organisms that seldom or never interbreed with individuals 
+in other such groups, under natural conditions; most species are made up of 
+subspecies or populations.   
+ 
+Stack: The structure by which the exhaust gases and waste heat are emitted to 
+the atmosphere. The height of the structure would be between 35 m – 45 m 
+and would contain a silencer to reduce noise emissions. The exhaust gases 
+would be subject to emissions control abatement.  
+ 
+Substation: The Swansea North Substation. 
+ 
+Transport Assessment: A quantitative assessment of the transport effects of 
+construction, decommissioning and operational phases of the Project within ES 
+Chapter 12: Traffic, Transport and Access.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+xv 
+ 
+Topography: The natural or artificial features, level and surface form of the 
+ground surface. 
+ 
+Visual amenity: The value of a particular area or view in terms of what is seen. 
+ 
+Visual effect: Change in the appearance of the landscape from available 
+viewpoints as a result of development.  
+ 
+Visual receptors: Individuals and/or defined groups of people who have the 
+potential to be affected by the visual appearance of a development. 
+ 
+Water Main: An underground water pipeline that crosses the Project Site, 
+directly south of the Generating Equipment Site. 
+ 
+Zone of Theoretical Visibility: Areas from which a specified element of a 
+development may be visible. Hence, the development would not be visible 
+beyond the ZTV. 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+1 
+1 
+Introduction 
+ 
+Overview  
+ 
+Abergelli Power Ltd (APL) is proposing to build a 299 MegaWatt (MW) power 
+station near Swansea, in South Wales, that will aid electricity production 
+when there is a surge in demand for electricity, also known as “peak 
+demand.”  The proposed Abergelli Power Project (hereafter referred to as 
+the ‘the Project’) will be made up of an Open Cycle Gas Turbine (OCGT), 
+and will be located approximately 2 km north of Junction 46 of the M4, within 
+the administrative boundary of the City and County of Swansea Council 
+(CCS) (Figure NTS-1). 
+ 
+This document is the Non-Technical Summary (NTS) of the Environmental 
+Statement (ES) (ES NTS) for the Project.  It has been prepared by AECOM 
+on behalf of APL, the Applicant. 
+ 
+The Project will involve the combustion of gas to generate electricity, and 
+would comprise three key elements: 
+1.) 
+A new Power Generation Plant, in the form of an Open Cycle Gas 
+Turbine (Figure NTS-2). It will have an electrical output of up to 299 
+MW.  
+The Power Generation Plant will include:  
+- 
+Generating Equipment including one Gas Turbine Generator 
+with one exhaust gas flue stack; and 
+- 
+Balance of Plant (BOP), which is all infrastructure required to 
+support the Gas Turbine Generator (together referred to as the 
+'Generating Equipment') which are located within the 'Generating 
+Equipment Site'; 
+- 
+An Access Road to the Project Site from the B4489 which lies to 
+the west, formed by upgrading an existing access road between 
+the B4489 junction and the Swansea North Substation (the 
+Substation) and constructing a new section of Access Road from 
+the Substation to the Generating Equipment Site; and 
+- 
+A temporary construction compound for the storage of materials, 
+plant and equipment as well as containing site accommodation 
+and welfare facilities, temporary car parking and temporary 
+fencing (the Laydown Area). A small area within the Laydown 
+Area 
+will 
+be 
+retained 
+permanently 
+(the 
+Maintenance 
+Compound).  
+- 
+Ecological Mitigation Area – area for ecological enhancement 
+within the Project Site Boundary. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+2 
+- 
+Permanent parking and drainage to include: a site foul, oily water 
+and surface water drainage system. 
+2.) 
+The Gas Connection will be in the form of a new AGI and 
+underground gas connection (the Gas Pipeline). This is to bring 
+natural gas to the Generating Equipment from the National Gas 
+Transmission System (Figure NTS-2).  
+3.) 
+The Electrical Connection will be an underground electrical cable to 
+export power from the Generating Equipment to the National Grid 
+Electricity Transmission System (NETS) (Figure NTS-2). 
+ 
+The 
+Power 
+Generation 
+Plant 
+constitutes 
+a 
+Nationally 
+Significant 
+Infrastructure Project (NSIP) pursuant to the Planning Act 2008, which 
+means that a Development Consent Order (DCO) is required to build, 
+operate and maintain it. The DCO Application will be processed by the 
+Planning Inspectorate and examined by an Examining Authority appointed 
+by the Secretary of State who will make a recommendation on whether the 
+DCO should be granted by the Secretary of State for Business, Energy and 
+Industrial Strategy (Secretary of State) with whom the final decision lies. The 
+ES and this ES NTS have been prepared in accordance with Regulation 2 
+and 10 of the Infrastructure Planning (Environmental Impact Assessment) 
+Regulations 2009 (the "EIA Regulations"). They present information 
+specifically aimed at describing the nature, scale and location of the Project 
+and an assessment of any likely significant environmental impacts resulting 
+from the Project. 
+ 
+In accordance with Regulation 20 of the EIA Regulations copies of the ES, 
+this ES NTS and the Figures may be examined during the pre-examination 
+and examination periods at: Swansea Central Library, Clydach Library, 
+Gorseinon Library, Morriston Library and Pontarddulais Library 
+ 
+The technical appendices to the ES will only be available electronically at the 
+locations listed above and the PINS website. 
+ 
+Copies of the ES and this ES NTS can also be found on the Project website: 
+www.abergellipower.co.uk 
+ 
+The Documents can be obtained by writing to Abergelli Power Limited, 49 
+York Place, Edinburgh, EH1 3JD. A reasonable copying charge may apply up 
+to a maximum of £250 for the full suite of Documents and £10 for an 
+electronic copy on CD. Copies of individual Documents are also available on 
+request. 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+3 
+ 
+Purpose of this Document 
+ 
+This document is the Non-Technical Summary (NTS) of the Environmental 
+Statement (ES).  The ES presents a summary of the findings of an initial 
+Environmental Impact Assessment (EIA). An EIA provides an assessment of 
+the Project’s likely significant environmental effects. The purpose of this 
+document is to provide a summary of the ES in non-technical language. The 
+main volumes comprising the ES are available separately.  
+ 
+The NTS focuses on discussion of residual effects. These are defined as a 
+summary of the environmental impacts likely to occur to a receptor due to 
+the Project once mitigation measures have been applied. They have been 
+described during Construction and Decommissioning of the Project, and 
+during Operation of the Project.  Where likely significant effects have not 
+been identified, it can be concluded that residual effects have not been 
+identified, and therefore no additional mitigation is required. 
+ 
+The Applicant  
+ 
+The Applicant is APL, an energy development company established for the 
+Project and recently acquired by Drax Group plc (“Drax”). 
+ 
+Drax is responsible for generating 6% of the UKs electricity, predominantly 
+via Drax power station in Selby.  Drax is one of the UK’s largest energy 
+producers and is committed to helping to reduce carbon emissions, 
+displacing more coal off the system and providing additional system support 
+to plug the gaps created by intermittent renewables and boost security of 
+supply. 
+ 
+Further 
+details 
+on 
+the 
+companies 
+above 
+are 
+provided 
+at 
+www.abergellipower.co.uk and www.drax.com. 
+Planning Act 2008 
+ 
+The 
+Power 
+Generation 
+Plant 
+constitutes 
+a 
+Nationally 
+Significant 
+Infrastructure Project (NSIP) pursuant to the Planning Act 2008 (PA 2008) 
+(Ref. 1) and therefore requires development consent. This is because it is a 
+thermal generating station with an electrical output in excess of 50 MW.  
+ 
+The proposed application for a Development Consent Order (DCO) will seek 
+consent for all works required for construction, use, operation and 
+maintenance of the Power Generation Plant (including the Access Road and 
+the Laydown Area/Maintenance Compound, which are integral to the NSIP).  
+ES Non-Technical Summary 
+Abergelli Power Project 
+4 
+ 
+The Gas Connection and Electrical Connection are considered to be 
+Associated Development within the meaning of the Planning Act 2008, and 
+not an integral part of the NSIP. As the Project is a generating station in 
+Wales below 350 MW, development consent cannot be granted for 
+Associated Development in the DCO. However, the Gas Connection and the 
+Electrical Connection are considered and assessed in the ES to provide full 
+information on the effects of the Project as a whole. 
+ 
+Need for the Project 
+ 
+There is a considerable national need for this type of project, acknowledged 
+at all levels of Government policy. National planning policy supports the need 
+for new power stations to replace the current ageing coal fired power plants, 
+many of which are scheduled to close, and also meet expected increasing 
+demand for electricity over the coming decades. 
+ 
+The supply of electricity in the UK relies on the generation of electricity from 
+several sources, more traditionally through baseload thermal generation 
+plants such as coal, gas and nuclear. These generators all provide power to 
+keep the national grid at a steady frequency of 50 Hertz (Hz), essential to the 
+smooth operation of electrical equipment throughout the UK.  
+ 
+At present, the total capacity of peaking power plants in the UK is relatively 
+small due to the nature of the historic approach to power production in the 
+UK. There is a clear and significant requirement for further capacity to meet 
+the projected need for reactive/flexible generation in the future, as the 
+methods of power generation diversify. 
+ 
+Gas is acknowledged by the Government as having an important role to play 
+in our transition to a low-carbon economy, whilst at the same time supporting 
+the country’s energy security. In addition, gas peaking plants such as the 
+Project would provide back-up to power generation from renewable sources, 
+such as solar and wind power, which supply an increasingly important share 
+of the country’s electricity demand. Modern gas fired power plants are 
+among the most efficient forms of electricity power generation.  
+ 
+Planning Policy Context 
+ 
+The ES and this ES NTS have been prepared with reference to all relevant 
+European, national, regional, and local policy.  Details of these are discussed 
+in Chapter 2 of the ES.   
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+5 
+NPS EN-1 and EN-2 
+ 
+National Policy Statements EN-1 and EN-2 provide the overarching national 
+level policy framework for consideration of DCO applications for gas fired 
+power stations and set out the Government's policies for the assessment of 
+DCO applications.  NPS EN-1 and EN-2 have been considered by the 
+Applicant in the design and in the assessment of effects reported in the ES. 
+Planning Policy Wales 
+ 
+Planning Policy Wales (Ref. 2) sets out the land use planning policies of the 
+Welsh Government, by prescribing the government’s policies on various 
+planning issues that shape the preparation of development plans. This has 
+been considered and addressed in the design of the Project. 
+The Wales Spatial Plan (2008) 
+ 
+The Wales Spatial Plan (Ref. 3) was adopted by the Welsh Government in 
+2004 and updated in 2008. The Plan notes that natural gas developments 
+are providing a major economic boost for Wales, and the development of 
+gas-fired power stations has the potential to add to this. 
+Local Development Plan 
+ 
+CCS is currently in the process of preparing a new Local Development Plan 
+(Ref. 4), which upon adoption will replace the Unitary Development Plans 
+UDP as the key planning policy document for CCS up to 2025.           
+ 
+  
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+6 
+2 
+The Project 
+ 
+Site and Surroundings  
+ 
+The Project Site is located on open agricultural land approximately 2 km 
+north of Junction 46 on the M4, approximately 3 km to the north of the city of 
+Swansea, approximately 1 km southeast of Felindre and 1.4 km north of 
+Llangyfelach (Figure NTS-1). The western extent of the Project Site 
+encompasses parts of the Access Road leading to the Substation and 
+Felindre Gas Compressor Station from the B4489. 
+ 
+The area surrounding the Project Site is, at present, predominantly rural in 
+character. The Project is located primarily within fields used for grazing, 
+bounded by a mixture of drainage ditches, fencing and poor quality 
+hedgerows with substantial gaps in them. There are no residential dwellings 
+located within the boundary of the Project Site. Most of the Project Site is 
+improved grassland but there are areas of marshy grassland in the south 
+eastern part of the Generating Equipment Site. 
+ 
+The 
+National 
+Gas 
+Transmission 
+System, 
+a 
+Water 
+Main 
+and 
+a 
+decommissioned Oil Pipeline cross the Project Site and there is also a 
+network of electricity pylons and overhead lines which lead to and from the 
+Substation as well as other utilities. The Felindre Water Treatment Works is 
+located to the northwest, while the Cefn Betingau Solar Park and Abergelli 
+Solar Farm are located to the east of Project Site, and Rhyd-y-pandy Solar 
+Park within the vicinity. All of these features have been considered in the 
+design of the Project to ensure that they are safeguarded either through 
+avoidance or minimal interaction. 
+ 
+The closest residential dwellings to the Generating Equipment Site are: 
+Abergelli Farmhouse; Llwynhelig; Felin Wen Farm; Lletty Morfil Farm; Cefn 
+betingau; and Maes-eglwys.  
+ 
+Generating Equipment Technology 
+ 
+This is an ‘industrial’ type of turbine, fuelled by natural gas. This type of 
+turbine has been selected as it is suited to generating up to 299 MW using 
+only one unit, thereby reducing potential effects of noise, air quality and 
+visual impacts. Additionally, they are suitable for frequent and fast start-ups, 
+flexibility, and high-availability maintenance techniques.   
+ 
+A schematic showing the OCGT operation is shown in Insert 1. 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+7 
+ 
+The main equipment in an OCGT is a Gas Turbine Generator, including the 
+following components: 
+ Air inlet filter house; 
+ Air inlet duct; 
+ Exhaust diffuser; and 
+ Auxiliaries, including: 
+- 
+Lube oil system; 
+- 
+Air dryers; 
+- 
+Fuel gas filter package; 
+- 
+Instrument air system; 
+- 
+Compressor washing; and 
+- 
+A stack with an exhaust silencer would also be part of the OCGT.  
+ 
+ 
+In the gas turbine, air is compressed and natural gas is injected. The fuel 
+burns in the compression chamber, producing hot, high pressure gases. This 
+gas passes across the blades of the gas turbine, causing the gas turbine to 
+rotate which in turn drives the electrical generators to produce electricity. An 
+exhaust silencer is used to reduce noise arising from this process.  
+ 
+The excess gases produced from this process will be released to the 
+atmosphere via a ‘stack’ (chimney). The stack will be equipped with an 
+emissions monitoring system that will ensure that emissions of oxides of 
+nitrogen (NOx) to the atmosphere are within acceptable limits. 
+Insert 1: Schematic Diagram of an Open Cycle Gas Turbine 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+8 
+ 
+ 
+Alternative scenarios for the stack height have been tested rigorously during 
+the design process in order to determine the stack height that is required to 
+achieve adequate dispersion of exhaust gases in line with environmental 
+legislation. The assessment concluded that a stack height of between 35 m 
+and 45 m would be suitable. 
+ 
+Information within the ES has been presented under the assumption that the 
+Project will have an operational lifetime of 25 years. Therefore, for the 
+purposes of the ES, it is assumed that the Generating Equipment and above 
+ground structures would be removed. The Generating Equipment Site would 
+re-instated to a similar condition as before any construction, below ground 
+elements, such as building platforms, would remain in situ, covered with 
+topsoil and reseeded.  
+ 
+Alternatives 
+ 
+A review of alternative technology has been undertaken to determine the 
+optimal technology choice for the Project. This review considered OCGT, 
+Combined Cycle Gas Turbine (CCGT) and Combined Heat and Power 
+(CHP) as comparative technologies and considered visual impact, water 
+resources, noise and emissions, layout, operational requirements and the 
+ability to start up and shut down quickly. It was concluded that OCGT 
+provided the best technology choice taking these criteria into account.  
+ 
+Site selection was also an important consideration with alternative sites and 
+layouts being explored as part of the early site development. Important 
+factors for site selection were: 
+ Proximity to a suitable electrical and gas connection; 
+ Proximity to sensitive ecological, environmental and social designations 
+or features; 
+ Has sufficient land available for the Power Generation Plant, Gas 
+Connection and Electrical Connection; and 
+ Proximity to a well-developed road network. 
+ 
+Furthermore, the suitability of the Project Site is confirmed by its close 
+proximity to other industrial developments (including the Felindre Gas 
+Compressor Station and Substation). It is also largely situated on poor grade 
+agricultural land, and the design of the development has evolved to allow the 
+Generating Equipment Site to be consolidated on land to the north of the 
+Water Main. 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+9 
+ 
+Mitigation 
+ 
+Mitigation which is either implicit in the design of the Project or its 
+construction and operation through standard control measures routinely 
+used, such as working within best practice guidance during construction, is 
+known as embedded mitigation.  
+ 
+The following mitigation is embedded into the revised design of the Project:   
+ An Outline Construction Environmental Management Plan (CEMP) has 
+been prepared which provides details of mitigation measures to be 
+implemented to avoid adverse effects on sensitive receptors such as 
+habitats and residential dwellings during the construction phase. This 
+includes details regarding the management of waste, dust, noise, and 
+traffic, nuisance and complaints, working hours, limits for emissions, 
+monitoring to be undertaken, roles and responsibilities of construction 
+staff, and the likely contents of any topic specific management plans. 
+ The Outline Drainage Strategy and an Outline Surface Water 
+Management Plan for the Project has been designed in order to mitigate 
+any likely significant effects to surface water quality and flood risk;  
+ Dispersion modelling and noise modelling have determined the minimum 
+and maximum stack height to avoid likely significant effects from 
+operational emissions (deposition) and sound power outputs;   
+ Avoidance of Ancient Woodland and other sensitive habitats by design, 
+and the creation of an Ecological Mitigation Area;  
+ An Outline Landscape and Ecology Mitigation Plan (LEMP) and Outline 
+Landscape and Ecology Mitigation Strategy (LEMS) provide details on 
+how areas will be reinstated post-construction.  
+ 
+This embedded mitigation has been assumed for the purposes of the ES to 
+be in place from the outset, as it is mitigation without which the Project would 
+be unlikely to be granted consent or allowed to commence. If likely adverse 
+significant effects are determined by the assessment, additional mitigation 
+measures are proposed e.g. habitat replacement. 
+ 
+The ES has therefore assessed the likely significant effects of the Project 
+including embedded mitigation.  
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+10 
+3 
+Assessment Methodology 
+ 
+Assessment of Receptors 
+ 
+For each specialist topic area, sensitive ‘receptors’ are identified which may 
+be affected by the Project. This includes living organisms, habitats, natural 
+resources, receptors in the historic environment in or around the Site, which 
+could be adversely affected during construction of the Project, during the 
+operation of the Project, or during decommissioning of the Project. 
+ 
+The assessment methodology used for the ES was broadly the same for all 
+topic areas. For each topic, the assessment of significance is informed by 
+the sensitivity of the existing or baseline environmental conditions or 
+character, and the magnitude of the change to the existing conditions or 
+baseline character which is expected to occur as a result of the Project.  
+ 
+The value or sensitivity of the receptors is assessed according to the relative 
+importance of existing environmental features on or near to the site, or by 
+the sensitivity of receptors, i.e. whether they are likely to be robust enough to 
+be unaffected by the Project or alternatively are highly susceptible to the type 
+of effects likely to occur.  
+ 
+Table NTS-1 provides general definitions of the sensitivity criteria used 
+within the assessment. 
+Table NTS-1: Generic Guidelines for the Assessment of Value/Sensitivity  
+Value / 
+Sensitivity 
+Guidelines 
+Very High 
+The receptor has little or no ability to absorb change without 
+fundamentally altering its present character, is of very high 
+environmental value, or of international importance. 
+High 
+The 
+receptor 
+has 
+low 
+ability 
+to 
+absorb 
+change 
+without 
+fundamentally 
+altering 
+its 
+present 
+character, 
+is 
+of 
+high 
+environmental value, or of national importance. 
+Medium 
+The receptor has moderate capacity to absorb change without 
+significantly altering its present character, has some environmental 
+value, or is of regional importance. 
+Low 
+The receptor is tolerant of change without detriment to its character, 
+is low environmental value, or local importance. 
+Negligible 
+The receptor is resistant to change and is of little environmental 
+value. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+11 
+ 
+Measurement of Environmental Impacts 
+ 
+The magnitude of potential effects on environmental baseline conditions is 
+identified through consideration of the Project. Where the design is not yet 
+fixed, we have considered the parameters and assessed the "worst case" 
+scenario to ensure that the assessment is robust and describes the fullest 
+extent of likely effects.  The setting of parameters for assessment in this way 
+is sometimes referred to as the "Rochdale Envelope" approach.  The 
+assessment of magnitude of changes takes into account the scale or degree 
+of change from the existing situation as a result of the effect being 
+considered; and the duration and reversibility of the effect, as well as 
+consideration of relevant legislative or policy standards or guidelines. 
+ 
+To this end, where flexibility in parameters for the Project (such as the height 
+of the stack) has been provided, the Applicant has assessed the realistic 
+worst case and it is made clear in each ‘topic’ assessment what this 
+constitutes. 
+ 
+Taking the above into consideration, it has been determined that for all topic 
+areas to be addressed in the EIA except air quality, the highest stack height 
+(45 m) represents the 'worst case'. For air quality the minimum stack height 
+of 35 m represents the 'worst case' due to lower dispersion. 
+ 
+Table NTS-2 provides general definitions of effect magnitude criteria. In each 
+specialist chapter of the ES, effect magnitude criteria will be explained with 
+reference to that particular discipline. 
+Table NTS-2: Generic Guidelines for the Assessment of Magnitude 
+Magnitude Guidelines 
+High 
+Total loss or major alteration to key elements/features of the baseline 
+conditions such that post development character/composition of 
+baseline conditions will be fundamentally changed. 
+Medium 
+Loss or alteration to one or more key elements/features of the 
+baseline 
+conditions 
+such 
+that 
+post 
+development 
+character/composition of the baseline conditions will be materially 
+changed. 
+Low 
+Minor shift away from baseline conditions. Changes arising from the 
+alteration will be detectable but not material; the underlying 
+character/composition of the baseline conditions will be similar to the 
+pre-development situation. 
+Negligible 
+Very little change from baseline conditions. Change is barely 
+distinguishable, approximating to a “no change” situation. 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+12 
+ 
+Measurement of Environmental Effects 
+ 
+A combination of the magnitude of the effect and the sensitivity of the 
+receptor determines the significance of effect (Table NTS-3).  For instance, 
+when a receptor that is deemed very sensitive to change is exposed to an 
+environmental impact of high magnitude, the resultant effect on the receptor 
+will be classed as Major.  
+ 
+The issue may have a positive or negative impact on the receptor. Therefore, 
+the significance of effects is reported using a seven-point scale, from: Major 
+Adverse; Moderate Adverse; Minor Adverse; Negligible; Minor Beneficial; 
+Moderate Beneficial; to Major Beneficial. For some assessments, 
+professional judgement has been applied. Where this is the case, it is 
+indicated in the topic chapter.  
+ 
+Generally, effects which are Major or Moderate are considered to be 
+significant. Minor and Negligible effects are considered to be not significant.   
+Table NTS-3: Classification of Effects 
+Magnitude 
+Value and Sensitivity of Receptor 
+Very High 
+High 
+Medium 
+Low 
+Negligible 
+High 
+Major 
+Major 
+Moderate 
+Moderate 
+Minor 
+Medium 
+Major 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Low 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Negligible 
+Negligible 
+Minor 
+Minor 
+Negligible 
+Negligible 
+Negligible 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+13 
+4 
+Assessment Findings 
+ 
+Introduction 
+ 
+The ES identifies the key environmental topics that have been assessed. For 
+each assessment topic, the ES describes the methodological approach to 
+assessment, provides existing information on the local environment (the 
+environmental ‘baseline’), and describes the potential effects on that 
+environment during construction, operation and decommissioning. For each 
+assessment topic decommissioning effects are considered to be comparable 
+to those during construction and are not discussed further within this NTS 
+with the exception of Air Quality.  
+ 
+The environmental topic areas reported on in the ES are summarised below. 
+ 
+Air Quality 
+Introduction 
+ 
+This chapter has identified the receptors (Table NTS-4) which may be 
+impacted by the Project and assessed the likelihood of significant effects in 
+relation to air quality, namely dust during construction, and operational 
+emissions. 
+ 
+A desk based study and information obtained from various sources including 
+CCS and DEFRA was undertaken.  
+ 
+Air quality monitoring data was collated from the Cwm Level Park monitoring 
+site, and this was utilised for the air quality modelling undertaken for the 
+impact assessment. Modelled Air Quality Receptors are presented in Figure 
+NTS-3.  
+Table NTS-4: Air Quality Sources and Receptors 
+Phase 
+Source 
+Receptor 
+Construction and 
+decommissioning  
+ 
+Dust and traffic 
+emissions 
+Residential 
+dwellings 
+and 
+construction 
+workers within 350 m of potential dust sources 
+and 50 m of construction routes 
+Ecological receptors within 100 m and 50 m of 
+construction routes 
+Operation 
+ 
+Aerial deposition 
+and 
+Concentration 
+Residential dwellings within 10 km  
+Ecological receptors (such as designated 
+sites) within 2 km  
+ES Non-Technical Summary 
+Abergelli Power Project 
+14 
+Residual Effects  
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation (described in Section 2.4) is implemented.  
+Construction and Decommissioning of the Project 
+ 
+Air quality effects during construction of the Power Generation Plant, Gas 
+Connection and the Electrical Connection are likely to give rise to emissions 
+of dust/particulate matter.  
+ 
+Given the Low sensitivity of the receptors identified on Figure NTS-3, 
+combined with a Low / Negligible magnitude of effect due to the embedded 
+mitigation, the air quality effects during construction are predicted to be 
+Negligible, and therefore not significant.  
+ 
+As the decommissioning activities will be similar in nature though less 
+intensive than the construction activities, the decommissioning phase is 
+anticipated to give rise to similar or lesser environmental effects. However, 
+this is not the case in respect of air quality effects due to the addition of 
+demolition activities during the decommissioning phase which will result in a 
+slight increase in the potential for dust/particulate matter. As such, unlike 
+other chapters of the ES, Chapter 6: Air Quality has assessed the effects of 
+decommissioning 
+as 
+they 
+differ 
+from 
+construction 
+effects. 
+The 
+decommissioning effects from air quality arise from the demolition of the 
+Power Generation Plant. However, based on the remoteness to the nearest 
+ecological and residential receptors, the effects are predicted to be 
+Negligible, and therefore not significant.   
+Operation of the Project 
+ 
+Effects during the operational phase are limited to the Power Generation 
+Plant only. Sensitivity testing for the stack height (between 20-50 m) has 
+been performed to determine the minimum stack height for the Power 
+Generation Plant required for the adequate dispersion of emissions and to 
+meet legislative air quality targets. The dispersion model showed significant 
+benefits as the stack height increased to 32 m in terms of maximum ground 
+level concentrations of NO2 and CO.  
+ 
+As a result, a worst case minimum stack height of 35 m was modelled for the 
+parameters of the Generating Equipment. The magnitude of the effects on 
+pollutant concentrations for the Generating Equipment are considered to be 
+Negligible for all pollutant and averaging periods considered within the 
+dispersion modelling.  
+ 
+As such, impacts on air quality as a result of the Project are Negligible and 
+therefore not significant.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+15 
+ 
+Conclusions 
+ 
+No residual significant effects have been identified for each component of 
+the Project, or the Project as a whole due to the embedded mitigation 
+inherent within the design. Therefore no additional mitigation is required.   
+ 
+Noise and Vibration 
+Introduction 
+ 
+The potential effects from noise and vibration on local residential receptors 
+from the Project have been assessed. 
+ 
+A desk based study and baseline noise monitoring was undertaken in 2014 
+and repeated in 2018 to establish baseline sound levels at these receptors.  
+The study area has been determined to incorporate the nearest 
+representative Noise Sensitive Receptors (NSRs) in all directions as shown 
+on Figure NTS-4. These are all residential dwellings.  
+ 
+The noise environment is characterised by animals, farming activities and 
+distance road traffic during the day, and the wind in trees and distant road 
+traffic at night, and noise from the existing Substation.  
+Residual Effects  
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation described in Section 2.4 is implemented.   
+Construction and Decommissioning of the Project 
+ 
+Construction activities are likely to occur during weekdays (during daytime 
+hours), Saturday mornings and mornings during Bank Holidays. Noise and 
+vibration from construction activities have the potential to result in adverse 
+effects at NSRs which are all classed as highly sensitive receptors.  
+ 
+Due to the application of embedded mitigation there are no more than Minor 
+adverse noise and vibration effects at all NSRs during the  construction 
+phase, which are not significant. Therefore, no further additional mitigation 
+or monitoring measures are required.  
+Operation of the Power Generation Plant   
+ 
+The effects during the operational phase are limited to the Generating 
+Equipment. Operational noise and vibration effects from the Access Road 
+and the AGI are Negligible, and therefore have been scoped out of the 
+assessment.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+16 
+ 
+No causes of significant vibration associated with the Project are known; the 
+primary rotating equipment within the generator set will be balanced to a 
+high degree and constantly monitored for any changes in the vibration levels 
+it produces. Therefore further assessment of operational vibration is scoped 
+out of this assessment. 
+ 
+At all NSRs, the ambient sound levels during the day predicted to be 
+produced by the Generating Equipment were assessed to have Negligible 
+effects, and are therefore not significant.  
+ 
+At night, there is predicted to be at worst, Minor adverse effects, with the 
+exception of NSR 1. The ambient sound level at NSR 1 after inclusion of the 
+Generation Equipment produces a moderate significance of effect due to the 
+pre-existing high ambient levels at that location.  However, the addition of the 
+power station sound causes the ambient level at NSR 1 to increase by only 1 
+dB.  Such an increase would not be considered to be significant therefore 
+the impact of the scheme on the sound environment is Negligible. The effect 
+of the operation of the Generation Equipment is therefore not significant.   
+Conclusion  
+ 
+No residual significant effects have been identified for each component of 
+the Project, or the Project as whole due to the embedded mitigation inherent 
+within the design. Therefore no additional mitigation is required. 
+ 
+Ecology 
+Introduction 
+ 
+This assessment has identified ecological designated sites, habitats, species 
+or ecosystems which may be affected by the Project and assessed the 
+likelihood of significant effects. This chapter also considers potential effects 
+from air quality, noise, water, landscape, and lighting on ecological receptors. 
+ 
+A desk based study has been undertaken for a 2 km radius for nationally 
+designated sites (SSSI, SINC) and 10 km for internationally designated sites 
+(Ramsar, SAC, SPA). Designated sites for the 2 km radius are illustrated in 
+Figure NTS-5. 
+ 
+The following ecological surveys have been undertaken to establish the 
+ecological baseline:  
+ Habitat survey;  
+ Great crested newt survey;  
+ Reptile survey;  
+ Otter and water vole survey;  
+ Dormouse survey;  
+ES Non-Technical Summary 
+Abergelli Power Project 
+17 
+ Hedgerow; 
+ Badger survey; and,  
+ Bat roost assessment and activity survey. 
+Residual Effects  
+ 
+Further to the embedded mitigation described in Section 2.4, the following 
+additional mitigation will also be implemented: ecological enhancement 
+measures such as replacement habitats where possible via the Outline 
+Landscape and Ecology Mitigation Plan (LEMP), Outline Landscape and 
+Ecology Mitigation Strategy (LEMS) and pre-construction surveys.  
+ 
+Therefore the assessment concludes the following residual effects: 
+Construction and Decommissioning of the Power Generation Plant  
+ There will be permanent Minor adverse habitat loss to Broadleaved 
+Woodland, trees, and Semi-Improved Natural Grassland.  
+ There will be a permanent Minor adverse effect on Invertebrates, 
+Amphibians, Breeding Birds, due to potential loss of habitats, including 
+breeding, foraging, and sheltering habitats.   
+ There will be permanent Minor adverse habitat loss to Lletty-Morfil 
+SINC, Marshy Grassland, removal of two ponds, and approximately 140 
+m of hedgerows.  
+ There will be a permanent Minor adverse effect on Reptiles and 
+Badgers caused by the removal of habitats.    
+ There will be a temporary Minor adverse effect on Water Vole from 
+disturbance from construction activities.   
+ There will be a temporary Minor adverse effect on Otter from 
+disturbance from construction activities   
+ There will be potential for Minor adverse effects to Bats due to removal 
+of habitat and disturbance to hibernation roosts, potential severance and 
+disturbance from localised night time illumination in winter months.  
+ There will be potential for Minor adverse effects to Breeding Birds due 
+to localised night time illumination in winter months. 
+Construction of the Gas Connection  
+ There 
+will 
+be 
+temporary 
+Minor 
+adverse 
+habitat 
+loss 
+to 
+Dense/Continuous Scrub, Semi-Improved Neutral Grassland. 
+ There will be permanent Minor adverse habitat loss to trees.  
+ There will be temporary Minor adverse effects Reptiles, Invertebrates, 
+and Amphibians through the temporary loss of habitats.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+18 
+ There will be temporary Minor adverse effects to Breeding Birds from 
+noise, loss of habitat and localised night time illumination in winter 
+months. 
+ There will be a Minor adverse temporary habitat loss to broadleaved 
+woodland, semi-improved grassland, one pond, and up to 180 m of 
+Hedgerows.  
+ There will be a Minor adverse effect to Badgers and Otters from 
+potential to harm via construction activities.  
+ There will be potential Minor adverse effects to Bats due to temporary 
+removal of foraging habitat and disturbance from construction activities.  
+ There is a Minor adverse effect from the potential for construction 
+activities to spread invasive species. 
+Construction of the Electrical Connection 
+ There will be temporary Minor adverse habitat loss to broadleaved 
+woodland and trees.  
+ There will be a Minor adverse effect to Amphibians, Reptiles and Bats 
+from construction activities.  
+ There will be temporary Minor adverse effects to Breeding Birds from 
+noise and localised night time illumination in winter months.   
+ There is the potential for Otters to be effected due to construction of the 
+Electrical Connection which is within 10 m of several watercourses. This 
+is classified as a Minor adverse effect.  
+Operational Phase of the Power Generation Plant  
+ Bats and Invertebrates will experience Minor adverse effects from the 
+operation lighting.   
+ Reptiles will experience Minor adverse effects from risk of direct 
+mortality from the use of the Access Road by operational traffic. 
+Conclusions 
+ 
+No residual significant effects have been identified for each component of 
+the Project, or the Project as a whole, due to the embedded mitigation 
+inherent within the design and the additional mitigation measures such as 
+replacement habitats where possible via the LEMP, Landscape and Ecology 
+Mitigation Strategy and pre-construction surveys.   
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+19 
+ 
+Water Quality and Resources 
+Introduction 
+ 
+An assessment of the likely significant effects on water quality, water 
+resources and flood risk has been undertaken.  
+ 
+The study area adopted with respect to the water quality and water 
+resources extends beyond the Project Site Boundary as illustrated in Figure 
+NTS-6. The study area therefore includes the area within the Project Site 
+Boundary and a potential zone of influence (ZoI) which is defined as a 
+distance over which significant effects on important water receptors/features 
+can reasonably have the potential to occur.  
+ 
+In this case, from the perspective of water receptors/features, this is defined 
+as a 1 km buffer ZoI around the Project Site Boundary. A desk study and 
+Project Site walkover have identified a number of receptors (waterbodies) 
+within 1 km of the Project Site Boundary, including the Afon Llan and its 
+tributaries, ponds within the Project Site Boundary and several SINCs. The 
+Loughor Estuary/Bury Inlet SAC is located 7 km from the Project Site 
+Boundary.  
+ 
+No part of the Generating Equipment Site is located within in a flood risk 
+zone, as designated by NRW. However a small area on the periphery of the 
+Generating Equipment Site’s eastern boundary is within Zone B (previous 
+evidence of historical flooding) of the TAN15 Development Advice Maps.   
+Residual Effects 
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation (described in Section 2.4) is implemented, specifically the Outline 
+Drainage Strategy and Outline Surface Water Management Plan.    
+Construction and Decommissioning of the Project 
+ 
+There is a potential Negligible effect from discharging water from 
+construction excavations containing increased pollutants and sediment loads 
+from movement of materials to all identified receptors with the exception of 
+the Loughor Estuary, which was considered to have a Minor adverse effect. 
+All effects are considered to be not significant. 
+Operation of the Power Generation Plant 
+ 
+Effects from surface water runoff from impermeable areas and disruption of 
+water storage and flow from the presence of the Generating Equipment Site 
+on the Afon Llan and its tributaries are predicted to be Minor adverse. This 
+is therefore not significant.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+20 
+Conclusions 
+ 
+No residual significant effects have been identified for each component of 
+the Project, or the Project as whole due to the embedded mitigation inherent 
+within the design. Therefore no additional mitigation is required. In addition, 
+NRW have agreed with the conclusions of the FCA and WFD Screening 
+Assessment as part of their consultation responses to the 2018 PEIR. 
+ 
+Geology, Ground Conditions, and Hydrogeology 
+Introduction 
+ 
+An assessment has been undertaken to assess the effects of the Project on 
+geology, ground conditions and hydrogeology within and in the immediate 
+vicinity of the Project Site. The assessment also provides details of the 
+geological conditions and the presence of potentially contaminated land and 
+hazardous materials. 
+ 
+Further to a desk based study (based on a 1 km study area), and Project 
+Site walkover, the assessment identified no landfill sites, groundwater 
+abstraction or pollution incidents within the Project Site. Geology, Ground 
+Conditions, and Hydrogeology features are illustrated on Figure NTS-7. 
+ The land-use is predominantly agricultural, used for sheep and horse 
+grazing bounded by drainage ditches, fencing and hedgerows.  
+ The agricultural land classification for the land within and surrounding 
+the Project Site is Grade 4 (“poor quality agricultural land”) “with severe 
+limitations which significantly restricts the range of crops and/or level of 
+yields, mainly suited to grass with occasional arable crops”. 
+ There are four types of superficial deposits identified across the Project 
+Site comprising of glacial till, deposits of sand and gravel, alluvium 
+deposits of clay, silt, sand and gravel, and peat. The presence of peat 
+will be confirmed during the post consent ground investigation. The 
+superficial deposits and underlying geology are both classified as 
+Secondary A Aquifers, which are highly sensitive controlled waters.  
+ 
+ 
+The desk based study does not indicate the presence of any known 
+historical ground workings on the Project Site; however, within the 1 km 
+search buffer there are ten records of historical ground working features 
+which have all ceased production.  
+ 
+These comprise nine opencast mines producing sandstones, sand and 
+gravel, and one underground mine producing coal.”. There are no known 
+potential sources of contamination within the Project Site Boundary, 
+however, offsite sources may comprise historic landfill and landfill extension, 
+and localised contamination from agricultural land use. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+21 
+ 
+The current CCS development plan Proposals Map indicates that sand and 
+gravel reserves are present underlying the Project Site. 
+Residual Effects 
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation described in Section 2.4 is implemented.   
+Construction and Decommissioning of the Power Generation Plant 
+ 
+The construction of the Power Generation Plant is predicted to have Minor 
+adverse effects to mineral resources, structures from stability or ground 
+conditions, land quality, human health and controlled waters, with Negligible 
+effects on agricultural land and peat deposits. Therefore these effects are 
+not significant.  
+Construction of the Gas Connection and Electrical Connection 
+ 
+The construction of the Electrical Connection and Gas Connection are both 
+predicted to have a Minor adverse effect on mineral resources for both coal, 
+sand and gravel reserves, along with a Negligible effect on agricultural land. 
+This is considered to be not significant. 
+ 
+Operation of the Project 
+ 
+The operational phase is anticipated to have a Minor adverse effect on all 
+receptors from the Power Generation Plant, Gas Connection and Electrical 
+Connection, with the exception of Power Generation Plant structures which 
+have a Minor beneficial effect from the stabilisation of ground conditions. 
+Conclusions 
+ 
+No residual significant effects have been identified for each component of 
+the Project, or the Project as a whole due to the embedded mitigation 
+inherent within the design. Therefore no additional mitigation is required.  
+ 
+Landscape and Visual Effects 
+Introduction 
+ 
+The potential landscape and visual effects have been assessed on nineteen 
+local representative viewpoints and residential receptors as selected in 
+consultation with NRW and CCS and presented in Figure NTS-8. The 
+Project have been assessed using the Guidelines for Landscape & Visual 
+Impact Assessment (GLVIA3). 
+ES Non-Technical Summary 
+Abergelli Power Project 
+22 
+ 
+A desk based study, Project Site walkover and summer and winter 
+photography has been undertaken to establish the baseline landscape 
+setting at these viewpoints. The areas where the Project can be seen (Zone 
+of Theoretical Visibility (ZTV)) is based on a maximum stack height of 45 m. 
+The ZTV is presented in Figure NTS-8. 
+ 
+The Project Site lies centrally within the Afon Lian Llan Valley which forms a 
+wide lowland basin with higher ground and steep valleys to the north and 
+east. The valley floor is wide and undulating, backed to the north by upland 
+moorland rising to over 250 m AOD and divided by numerous steep, narrow 
+valleys. The Project Site is located within a valley with ground rising to the 
+north, east and west which provides visual containment. Ground levels vary 
+across the Project Site from approximately 140 m AOD in the north-west 
+corner to 80 m AOD along the southern perimeter. Ground levels generally 
+fall in a southerly and south easterly direction. 
+ 
+A number of solar farms lie around the Project Site particularly to the north-
+east and east as well as to the north-west. The Felindre Business Park 
+adjacent to the Felindre Park and Share at Brynwhilhach has been partially 
+constructed with service infrastructure in place along with an outline 
+landscape structure including stone walls and planting. The Project Site is 
+also in the vicinity of other industrial features such as the Substation and 
+Felindre Gas Compressor Station. 
+ 
+Several designated landscapes are present within the 15 km study area. 
+ The Brecon Beacons National Park lies 12.8 km to the northern edge of 
+the Project Site at its closest point.  
+ The Gower Area of Outstanding Natural Beauty (AONB) lies 9.1 km to 
+the south-west of the Project Site.  
+ The Mawr Uplands Special Landscape Area is located within the 15 km 
+study area.  
+ 
+LANDMAP 
+is 
+an 
+all-Wales 
+landscape 
+resource 
+where 
+landscape 
+characteristics, qualities and influences on the landscape are recorded and 
+evaluated. Five LANDMAP areas are within the 15 km study: 
+ LANDMAP Aspect Area - Visual and Sensory; 
+ LANDMAP Aspect Area – Habitat; 
+ LANDMAP Aspect Area – Geological; 
+ LANDMAP Aspect Area – Historic; and 
+ LANDMAP Aspect Area – Cultural. 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+23 
+Residual Effects 
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation (described in Section 2.4) is implemented.  This includes the 
+production and implementation of a Landscape and Ecology Mitigation 
+Strategy and Landscape and Ecology Mitigation Plan. 
+Construction and Decommissioning of the Power Generation Plant 
+ 
+The Landscape Assessment concluded that the Project would visually 
+impact the Project Site and the following LANDMAP Aspect Areas: 
+ 
+Visual and Sensory Aspect Areas – Rhyd-y-pandy and Penllergaer forest 
+(Moderate sensitivity);  
+ 
+Landscape Habitats Aspect Areas – North of Gorseinon and Swansea 
+(Moderate sensitivity); East of Penllergaer (High sensitivity) and Waun Y 
+Garn Wen (High sensitivity); 
+ 
+Historic Landscape Aspect Area – H27 Gower Supraboscus Agricultural 
+(Outstanding sensitivity);  
+ 
+Geological Landscape Aspect Area – Penllergaer (Outstanding 
+sensitivity); and  
+ 
+Cultural Landscape Aspect Area – The Mawr (High sensitivity). 
+ 
+During the construction phase of works, significant adverse effects would be 
+limited to the LANDMAP Aspect areas on the Project Site and five of the 
+nineteen viewpoints (as illustrated by viewpoints 9, 14, 15, 16 and 17), 
+where the embedded mitigation would not be sufficient to reduce these 
+significant adverse effects.  
+ 
+Effects on visual amenity from viewpoints 9, 14, 15, 16 and 17 are Moderate 
+or Major adverse, which is considered significant. All other remaining 
+viewpoints conclude Minor adverse effects or Negligible, which is not 
+significant.   
+Construction of the Gas Connection 
+ 
+Construction of the Gas Connection would affect the Public Right of Way, 
+north of Abergelli fach (viewpoint 9), resulting in a Moderate adverse effect. 
+This is considered to be significant, however this effect is temporary as 
+the trench would be reinstated post-construction.  
+Construction of the Electrical Connection 
+ 
+Construction of the Electrical Connection would not have any significant 
+effects on the landscape and visual receptors due to its location beside the 
+Access Road and the temporary trench being reinstated after construction.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+24 
+Operation of the Power Generation Plant  
+ 
+Once operational the embedded landscape mitigation would assist in 
+screening lower parts of the Power Generation Plant but would not be 
+sufficient to reduce significant adverse effects on the LANDMAP Aspect 
+areas at a Project Site level and from five of the nineteen viewpoints. This is 
+due to the scale and mass of the Power Generation Plant and height of the 
+stack. The Project would impact the same five representative viewpoints 
+(viewpoints 9, 14, 15, 16 and 17) as during construction, with Moderate to 
+Major adverse effect, which are therefore considered significant.  
+ 
+The landscape resource contained within the 5 km study area and the 
+majority of viewpoints would not experience significant adverse effects.  
+ 
+The Project Site lies within a valley which, combined with the existing 
+woodland and undulating topography, provides a high degree of visual 
+containment. Views from local roads are screened or filtered by hedgerows 
+and earth banks. Views overlooking the Project Site from higher ground to 
+the north and from more distant views to the south east near to the Gower 
+AONB would not experience significant effects due to the intervening 
+distance, vegetation and built form. Where views of the upper parts of the 
+Power Generation Plant and stack are visible in the middle distance of 
+views, they would be seen in the context of the existing network of pylons 
+and transmission lines as well as the tall structures present at the Felindre 
+Gas Compressor Station and Substation.  
+ 
+As a result significant residual effects on the landscape and visual resource 
+are localised and not extensive.  
+Conclusions 
+ 
+During construction and operation of the Power Generation Plant, significant 
+landscape effects are only predicted to result on the landscape resource of 
+the Project Site and not on the surrounding landscape character. 
+Furthermore, of the 19 representative viewpoints assessed, only 5 of the 
+viewpoints representing views from residential receptors (9, 14 – 17) would 
+experience significant effects, albeit localised during construction and 
+operation of the Power Generation Plant.   
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+25 
+ 
+Traffic, Transport, and Access 
+Introduction 
+ 
+This chapter provides a preliminary assessment of the likely transport 
+effects. A Transport Assessment has been undertaken, and a Construction 
+Traffic Management Plan (CTMP) and Construction Staff Travel Plan (CSTP) 
+have been prepared and submitted with the DCO Application. 
+ 
+The study area includes the Access Road between the Project Site and the 
+B4489 and continues south to incorporate the M4 Junction 46 and the 
+A48/Pant Lasau Road junction, as illustrated in Figure NTS-9. This baseline 
+study area was selected to include the necessary junctions, key links, 
+pedestrian routes (PRoWs, cycleways and footways), and Project access 
+routes and these have been agreed with CCS. The following key links have 
+been identified, and are illustrated in Figure NTS-9: 
+ Link 1 – Rhyd-y-Pandy Road, between the AGI Access and the B4489; 
+ Link 2 – B4489, between Rhyd-y-Pandy Road and the Access Road; 
+ Link 3 – B4489, between the Access Road and the Felindre Park and 
+Share; 
+ Link 4 – B4489, between the Felindre Park and Share and the M4 
+Junction 46; 
+ Link 5 – M4 eastbound on-slip; 
+ Link 6 – A48, between the northern and southern dumbbell roundabouts 
+of the M4 Junction 46; 
+ Link 7 – M4 westbound off-slip; 
+ Link 8 – A48, between the M4 Junction 46 and the A48/Pant Lasau 
+Road mini-roundabout; 
+ Link 9 – Pant Lasau Road; 
+ Link 10 – A48, southeast of the A48/Pant Lasau mini-roundabout; 
+ Link 11 – B4489, south of the M4 Junction 46; and 
+ Link 12 – A48, southwest of the M4 Junction 46. 
+ 
+ 
+Footpaths LC34 and LC117 cross the Access Road at points approximately 
+350 m and 1.3 km from the B4489. Footpath LC35B passes through the 
+northern part of the Project Site. 
+ 
+A baseline study and a traffic count survey were undertaken to identify the 
+baseline conditions in the vicinity of the Project Site; including the local 
+highway network and operational conditions, road safety and accessibility by 
+sustainable modes such as cycle routes and footpaths. 
+ 
+The transport assessment has only assessed construction traffic as 
+operational traffic is considered to be Negligible and is therefore scoped out 
+of this assessment.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+26 
+Residual Effects  
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation (described in Section 2.4) is implemented. Receptors relating to 
+severance, pedestrian delay, pedestrian amenity, and fear and intimidation 
+are associated primarily with the pedestrian experience based on changes in 
+the volume and composition of traffic. An increase in traffic volumes and 
+heavy goods vehicle (HGV) composition can result in difficulties for 
+pedestrians when crossing roads and affect the pleasantness of journeys. 
+Construction and Decommissioning of the Power Generation Plant  
+ 
+The majority of the transport links within the assessment will experience a 
+Minor adverse effect during the peak hour for severance, pedestrian delay, 
+amenity, fear and intimidation, which is therefore considered not significant.  
+ 
+Effects to the footpaths which cross within the Project are considered to be 
+Moderate adverse due to effects on the pedestrian and user experience, 
+and therefore significant.   
+ 
+There was also found to be an increased delay on B4489 (south) due to the 
+Power Generation Plant which is considered Minor adverse, and a reduced 
+delay on B4489 (north), M4 East Bound and West Bound Off-Slip which is 
+considered Minor beneficial. The Minor beneficial effect is as a result of 
+changes in the balance of traffic flows at the junction, which will result in 
+more gaps for traffic exiting from these arms as traffic signal priorities are 
+changed. This will result in a reduction in the level of delay of the arms 
+benefitting from traffic flow balancing and an increase in arms which are 
+forced to concede priority more than before flows were balanced.   
+ 
+Effects to accidents and safety are Negligible. 
+Construction of the Gas Connection   
+ 
+The construction of the Gas Connection is predicted to cause Minor 
+adverse effects from severance, pedestrian delay, pedestrian, amenity, fear 
+and intimidation on the majority of receptors, and Moderate adverse effects 
+on footpaths due to temporary closures and pedestrian experience during 
+construction. 
+ 
+There is predicted to be an increased delay on the M4 West Bound Off-Slip 
+and Pant Lasau Road which is considered Minor adverse, and a reduced 
+delay on B4489 (north and south) M4 East Bound Off-Slip which is 
+considered Minor beneficial.   
+ 
+Effects to accidents and safety are Negligible.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+27 
+Construction of the Electrical Connection   
+ 
+There is expected to be a Moderate adverse effect on footpaths during 
+construction of the Electrical Connection due to temporary closures and 
+effects on the pedestrian experience. This is considered a significant effect. 
+ 
+There is predicted to be an increased delay on the B4489 (South), A48 
+(southwest) and Pant Lasau Road which is considered Minor adverse, and 
+a reduced delay on M4 East Bound and West Bound Off-Slips which is 
+considered Minor beneficial.  
+ 
+Effects to accidents and safety are Negligible. 
+Conclusions 
+ 
+This chapter has identified effects to the highway network, road safety and 
+accessibility. Significant effects have been predicted during the construction 
+and decommissioning phase from the Project, although these would be 
+temporary. No effects during the operation of any components of the Project 
+have been identified.  
+ 
+Historic Environment 
+Introduction 
+ 
+The potential effects from the Project on the historic environmental resource 
+of the Project Site and surrounding area have been assessed.  
+ 
+A 1 km study area for the desk based assessment of historic assets and 
+further consultation with CCS, Cadw and Glamorgan-Gwent Archaeological 
+Trust (GGAT) has been undertaken as illustrated in Figure NTS-10.     
+ 
+In addition, a ZTV based on the realistic worst case scenario of a 45 m stack 
+has been prepared for the landscape and visual chapter and has informed 
+the assessment of designated historic assets. The study area for the 
+assessment of designated historical assets is 5 km.  
+ 
+The Project Site contains no historic assets although one scheduled 
+monument, one listed building and 26 non-scheduled monuments are 
+present within the 1 km study area, and 16 Scheduled Monuments, 54 Listed 
+Buildings (all grades), two Conservation Areas and three Registered Historic 
+Parks and Gardens are present within the 5 km study area.  
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+28 
+Residual Effects  
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation (described in Section 2.4) is implemented. Decommissioning 
+effects have been scoped out of the Gas and Electrical Connections as they 
+remain in situ. 
+Construction and Decommissioning of the Power Generation Plant 
+ 
+Construction of the Power Generation Plant will not have a physical impact 
+on any known historic asset and there are no known historic assets exist 
+within its footprint.  
+ 
+The potential for significant unknown archaeology existing within the Project 
+Site is considered to be low, with the possibility of its discovery being 
+adequately addressed through a watching brief post-consent, pre-
+construction.  
+ 
+Therefore the effects during construction of the Power Generation Plant are 
+not significant.  
+Construction of the Gas Connection   
+ 
+Construction of the Gas Connection will not have a significant physical 
+impact on any known historic asset, with the exception of where the Gas 
+Pipeline crosses a small percentage of a historic boundary (feature 
+reference AB03), therefore requiring its removal. As this feature was already 
+substantially altered when the preceding Oil Pipeline was installed, it is 
+considered that little of the original historic fabric remains, and therefore the 
+effect is considered to be Negligible. 
+Construction of the Electrical Connection 
+ 
+Construction of the Electrical Connection will not have a physical impact on 
+any known historic asset and no known historic assets exist within its 
+footprint. 
+Operation of the Power Generation Plant  
+ 
+No below ground disturbance is envisaged during the operational phase for 
+any operational or maintenance activity, therefore there will be no further 
+impact upon below ground archaeological remains once the Project is 
+operational.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+29 
+ 
+The Llansemlet Conservation Area (feature reference CA027), Penllergaer 
+Park and Garden (feature reference GM054) and several listed buildings lie 
+within the 5 km study area, and from these locations the stack may be 
+visible. However, given the intervening landscape has been significantly 
+developed, it is not anticipated that the Conservation Area, Park and Garden 
+and Listed Buildings will be adversely affected by the Project.  
+ 
+It is anticipated that Project will be slightly visible from the Scheduled Ancient 
+Monument (Mynydd Pysodlyn Round Barrow) and therefore is considered to 
+have a Minor adverse effect on the basis of its High value sensitivity. 
+However this is not significant.  
+Conclusions 
+ 
+No residual significant effects have been identified for each component of 
+the Project, or the Project as a whole due to the embedded mitigation 
+inherent within the design. Therefore no additional mitigation is required.  
+ 
+Socio-Economics 
+Introduction 
+ 
+This chapter provides an assessment of the likely socio-economic effects on 
+the labour market, tourism economy, and community infrastructure arising 
+from the Project. 
+ 
+The socio-economic study area is based on drive time catchment areas from 
+the Project. The ‘local area’ is defined within a 30-minute drive time; ‘wider 
+area’ within a 45-minute drive time; and ‘wider region’ within a 60-minute 
+drive time. This study area has identified a readily available labour force, with 
+a high number of manual labourers.   
+ 
+The tourism/business survey study area is limited to a 10 km radius of the 
+Project as this is where the majority of impacts are anticipated. A desk based 
+study was undertaken which identified a limited number of tourist attractions 
+within the Project Site Boundary, which are the Cwm Clydach Nature 
+Reserve, National Cycle Route 43 and the Teamforce Paintball and Laser 
+Tag Activity Centre.  
+ 
+The socio-economic wider study area (defined as the area within a 60 
+minute drive time) surrounding the Project is characterised by:  
+ An increasing population (2001-2017);  
+ Projected population increase of c.7% between 2017 and 2035;  
+ Slightly lower levels of unemployment comparable to the UK average;  
+ A 
+higher 
+proportion 
+of 
+people 
+working 
+in 
+construction 
+and 
+manufacturing jobs;  
+ES Non-Technical Summary 
+Abergelli Power Project 
+30 
+ Above average levels of employment in electricity and gas related 
+occupations;   
+ A lower proportion of people working in high value professional, 
+scientific and technical activities, and finance & insurance occupations; 
+A higher proportion of people employed in semi-skilled/unskilled jobs 
+and lower proportion of people in highly skilled jobs; and 
+ A higher proportion of people achieving no qualifications and low level 
+qualifications compared to the UK average.  
+ 
+The tourism economy was assessed using visitor statistics for the Swansea 
+local authority area and the South West Wales area. Swansea had on 
+average 7.35 million Great Britain (GB) day visits each year between 2013 
+and 2015, which contributed £257.96 million.  
+Residual Effects  
+ 
+The assessment of residual effects below assumes that the embedded 
+mitigation (described in Section 2.4) is implemented. 
+Construction and Decommissioning of the Project   
+ 
+The construction and decommissioning of the Power Generation Plant, Gas 
+Connection and Electrical Connection is predicted to have Negligible effects 
+on tourism, business, and communities during construction. The National 
+Route 43 is likely to experience Minor adverse effects during construction. 
+The Project as a whole is expected to have Minor adverse effect on 
+community Infrastructure receptors but Negligible beneficial effects on 
+Labour Markets.  
+ 
+Overall these effects are not significant. 
+Operation of the Project   
+ 
+The operation of the Power Generation Plant, Gas Connection and Electrical 
+Connection is predicted to have Negligible effects on tourism, business, and 
+communities during operation. The National Route 43 is likely to experience 
+Minor adverse effects during operation. The Project as a whole is expected 
+to have Minor adverse effect on community Infrastructure receptors but 
+Negligible beneficial effects on Labour Markets.  
+ 
+Overall these effects are not significant. 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+31 
+Conclusions 
+ 
+The Project will not have any significant adverse effects on tourism and 
+recreation receptors in the area during construction or operation. Beneficial 
+employment effects can however be enhanced through linkages with job 
+centres, colleges, employability programmes and engagement with local 
+construction firms and other supply chain companies. 
+ 
+Other Effects Considered 
+Introduction 
+ 
+This chapter addresses topics that are not specifically addressed in the 
+context of the main topic chapters elsewhere in this ES, or effects which are 
+not considered to merit a chapter in their own right, but have been 
+considered in line with requests from consultees, including through the 
+Scoping Opinion.  
+Effects during Construction and Decommissioning  
+Waste 
+ 
+Waste material may arise during the construction and decommissioning of 
+the Project.  The Regional Waste Plan (Ref. 5) confirms that there is a good 
+provision of waste management capacity in South West Wales to cover all 
+types 
+of 
+waste 
+arisings 
+including 
+industrial, 
+construction 
+and 
+decommissioning, and hazardous waste. 
+ 
+The Project will operate in full accordance with the Waste Framework 
+Directive (Ref. 6), together with the Environmental Permitting (England and 
+Wales) Regulations 2016 (Ref. 7) and the Waste (England and Wales) 
+Regulations 2011 (Ref. 8). 
+Public Health 
+ 
+Public Health England (PHE) identified the local population as a sensitive 
+receptor. Effects on human health from noise, air quality, nuisance, dust, 
+ground contamination and pollution have been addressed in the relevant 
+topic chapters and are the subject of embedded and additional mitigation 
+where required. No likely significant effects during construction and 
+decommissioning have been identified.  
+Health and Safety 
+ 
+The site manager will have the day to day responsibility for maintaining 
+Health and Safety, and will produce a risk assessment and method 
+statement detailing how they will minimise risks to Health and Safety. An 
+approved procedure will:  
+ES Non-Technical Summary 
+Abergelli Power Project 
+32 
+ Identify the significant Health & Safety impacts that can be anticipated;  
+ Assess the risks from these impacts;  
+ Identify the control measures to be taken and re-calculate the risk; 
+ Report where an inappropriate level of residual risk is identified so that 
+action can be taken.  
+ 
+The employer will ensure that a qualified first-aider can be provided at all 
+times. Appropriately equipped first-aid stations will be easily accessible 
+throughout the place of work. 
+ 
+There will be no access to construction areas by the general public. The 
+Project Site will be secured to avoid unauthorised access. 
+Effects during Operation 
+Waste 
+ 
+During operation of the Power Generation Plant, a small amount of waste 
+will arise. This waste will include waste that is both hazardous (such as 
+oil/sludge, chemicals) and non-hazardous (general office waste, plastic, 
+glass etc.). Appropriate treatment facilities exist locally, and waste produced 
+by the Project will have a Negligible effect. 
+Public Health 
+ 
+There are three main likely significant effects on human health as follows: 
+ An “Electromagnetic Field” (EMF) is a physical phenomenon that is 
+produced by electrically charged objects. Underground cables, such as 
+the one proposed for the Electrical Connection of the Project, do not give 
+rise to electric fields above ground due to the shielding effect of the 
+cable sheath.  The prospective magnetic field strength due to the 
+proposed underground cables is calculated to remain below the public 
+exposure basic restriction levels.  The general public will thus not be 
+exposed to any increase in EMFs from the Electrical Connection and 
+there will be Negligible effects arising from EMFs. 
+ There is the potential for effects from air quality arising from operation of 
+the Project which are associated with the stack emissions from the 
+combustion of natural gas in the Generating Equipment releasing 
+emissions of NOx. However, the Project has been designed to meet air 
+quality standards at sensitive receptors. Modern gas-fired power plants 
+are also inherently clean and produce far fewer emissions than other 
+fossil fuel power plants (e.g. coal) when compared on an energy output 
+basis. Effects to air quality have also been assessed as not significant as 
+summarised in Section 4.2 of this NTS. 
+ There is potential for effects from noise arising from the operation of the 
+Power Generation Plant to impact human health. However with the 
+ES Non-Technical Summary 
+Abergelli Power Project 
+33 
+application of Best Practical Means, Best Available Techniques, and 
+DCO Requirement for operational noise levels and compliance with the 
+Environmental Permit, it is unlikely that there will be any significant 
+effects.  Effects to noise and vibration have also been assessed as not 
+significant as summarised in Section 4.3 of this NTS. 
+ 
+Therefore, no significant health effects are anticipated as a result of the 
+operation of the Project on public health. 
+Climate Change 
+ 
+Climate resilience has been built into the Project. The Project will contribute 
+to UK emissions, but impacts on climate change from CO2 emissions are 
+considered Negligible.  
+Aviation 
+ 
+The Civil Aviation Authority (CAA), Ministry of Defence (MoD), Swansea 
+Airport and Abertawe Bro Morgannwg University Health Board were 
+consulted and confirmed there were no issues with the Project.  
+Health and Safety 
+ 
+Routine maintenance of the Generating Equipment would take place on 
+average once every six months. Bi-annual inspections will also take place to 
+assess general condition. Inspections to replace or refurbish combustion and 
+turbine ‘hot parts’ equipment are typically carried out approximately every six 
+years.  
+ 
+In the event of an issue with the Generating Equipment, alarms would signal 
+any instance of abnormal operation. These alarms would not be audible 
+externally. The plant would be shut down immediately in such instances and, 
+if required, additional engineering staff would attend the Project Site. The 
+Generating Equipment would not start up again until the issue had been 
+resolved. 
+ 
+The effect on health and safety is considered Negligible. 
+Major Accidents 
+ 
+The Project’s vulnerability to risk of major accidents and disasters has been 
+considered: 
+ In an air quality event where metrological conditions such as prevailing 
+winds or inversion result in reduced air quality, the Project, as an emitter 
+to air, has the potential to exacerbate the effect of the event. Operational 
+emissions will be controlled through the Environment Permit. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+34 
+ Given the nature of natural gas there is an inherent risk of both fire and 
+gas leak associated with the Project from its supply and use. This will be 
+managed through established industry safety procedures and standards.  
+ Workers, rather than local residents, are the most at risk from 
+engineering and industrial accidents, due to the distance from 
+residential areas. There is legislation in force to ensure the protection of 
+workers in the workplace. 
+ 
+Regarding proximity to third party infrastructure such as the Felindre Gas 
+Compressor Station, the Substation, the Water Main and the National Gas 
+Transmission System. Mitigation has been embedded via the design of the 
+Project by implementing appropriate minimum distances and having due 
+regard to the required standoff distances between the Project and these 
+infrastructure features. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+35 
+5 
+Cumulative Effects 
+ 
+Overview 
+ 
+In accordance with the EIA Regulations, the EIA has given consideration to 
+‘cumulative effects’.  
+ 
+Two types of effect have been considered:  
+1.) 
+Intra-project effects: These occur where a single receptor is affected 
+by more than one source of effect arising from different aspects of the 
+Project. This is also known as “in-combination effects”. An example of 
+an intra-project effect would be where a local resident is affected by 
+dust, noise and traffic disruption during the construction of a scheme, 
+with the result being a greater nuisance than each individual effect 
+alone; and  
+2.) 
+Inter-project effects: These effects occur as a result of a number of 
+past (projects which have been granted planning permission), present 
+(projects currently in the planning process but not yet granted 
+permission) or reasonably foreseeable proposed developments, which 
+individually might not be significant, but when considered together 
+could create a significant cumulative effect on a shared receptor, and 
+could include developments separate from or related to the Project.  
+Generally, it is not anticipated that any future development in the area 
+would change the significance of the predicted residual effects 
+associated with the Project.   
+ 
+Intra-Project effects on Shared Receptors   
+ 
+Shared receptors from individual elements of the Project (e.g. construction of 
+Power Generation Plant, Gas Connection and Electrical Connection) are 
+likely to be limited to nearby residential dwellings and local communities:  
+ 
+Due to the application of embedded and additional mitigation measures 
+(such as the avoidance of habitats, the CEMP and topic specific 
+management plans) which ensure that potential significant effects on shared 
+receptors are unlikely, or the absence of any in-combination effects on 
+shared receptors, the following topics are scoped out from the intra-project 
+cumulative assessment:   
+ Ecology - due to the embedded and additional mitigation, there is 
+unlikely to be any cumulative effects from multiple components of the 
+Project working simultaneously affecting several species. In addition, the 
+total permanent habitat loss will be mitigated by the creation of the 
+ES Non-Technical Summary 
+Abergelli Power Project 
+36 
+Ecological Mitigation Area and / or enhancements via the Landscaping 
+and Ecology Management Plan;   
+ Socio-economic - no shared effects on receptors; 
+ Historic Environment - no shared effects on receptors; and 
+ Geology, Ground Conditions and Hydrogeology - no shared effects on 
+receptors. 
+ 
+ 
+Potential intra-project cumulative effects at the shared receptors may 
+comprise of the following during the construction phase:   
+ Noise effects;  
+ Views from residential dwellings and PRoWs;   
+ Potential effects on waterbodies and water based receptors from 
+increased risk of sediment runoff and polluted discharges during the 
+construction phase;  
+ Traffic effects from increased vehicle numbers during the construction 
+phase; and   
+ Production of dust during the construction phase. 
+ 
+ 
+Construction of the Project was a whole will result in construction activity not 
+previously present and additional vehicles along access routes. This creates 
+an increase in traffic flows for all Project components, disruption of views and 
+potential production of noise, dust and air pollutants from the Project as a 
+whole during the construction period. This may have an effect on local 
+communities and nearby residential dwellings. As embedded and additional 
+mitigation is proposed within the individual topic chapters (such as a CTMP 
+and CEMP), this will result in a Minor adverse in-combination effect, which 
+is not significant. 
+ 
+Inter-Project Cumulative Effects   
+ 
+A review of the planning applications and proposed developments within a 5 
+km study area around the Project was undertaken to scope any other 
+developments that were considered to constitute ‘large development’ 
+schemes. A further review was undertaken to determine which of these 
+developments had the potential to result in likely significant cumulative 
+effects when considered alongside the Project within each individual 
+technical chapter.   
+ 
+Further to liaison with CCS, a “long list” of projects already consented and in 
+construction, or consented but not yet implemented, in addition to those 
+allocated within the LDP or applications made but not yet decided, was 
+agreed. The “long list” was then reviewed and refined, resulting in a short list 
+of developments being identified as having the potential for cumulative 
+effects with the Project, and which are considered below. There are no other 
+large developments present within the 5 km study area.  
+ES Non-Technical Summary 
+Abergelli Power Project 
+37 
+ 
+The list was updated and agreed with CCS after PEIR 2018 consultation to 
+reflect current projects and their status. 
+ 
+Inter-project effects fall into two types:  Inter-cumulative effects on shared 
+receptors and intensification of effects on shared receptors.  
+ 
+Inter-cumulative effects are when multiple types of effects act on a shared 
+receptor. For an inter-cumulative effect to be present, cumulative effects 
+must be identified across two or more topic chapters for a shared receptor(s) 
+when assessing the Project cumulatively with another development. The 
+assessment of these effects is presented in Table NTS-5. 
+ 
+The ES also identifies cumulative effects of intensification of effects in 
+individual topic areas. This type of cumulative effect arises when effects of a 
+specific nature (for example, noise, landscape and visual) are intensified at a 
+shared receptor when a Project is assessed cumulatively with another 
+development. The assessment of these effects is presented in Table NTS-6. 
+Table NTS-5: Inter-Cumulative Effects on Shared Receptors 
+Development Status 
+Potential for 
+Cumulative 
+Effects 
+Cumulative Assessment on 
+Shared Receptors 
+Mynydd Y 
+Gwair 
+windfarm  
+Under 
+construction 
+and 
+will 
+be 
+operational 
+prior 
+to 
+the 
+commencement 
+of the Project 
+Construction 
+Traffic 
+ 
+Landscape & 
+Visual 
+Construction traffic will not have any 
+likely significant effects due to the 
+different 
+timing 
+of 
+construction 
+phases.  
+ 
+It is not considered that any 
+landscape and visual cumulative 
+effects will be possible during 
+operation 
+due 
+to 
+the 
+ensuing 
+topography 
+and 
+landscape 
+disrupting views of the Project in 
+shared distant views from the Mawr 
+LANDMAP 
+Aspects 
+Area 
+and 
+Brecon Beacons National Park. 
+Therefore no significant cumulative 
+effects are predicted. 
+Proposed 
+sustainable 
+urban village 
+at Felindre 
+and other 
+allocated 
+sites 
+Proposed in the 
+LDP 
+N/A 
+This has been scoped out of the 
+cumulative assessment as there are 
+very limited details about the scale 
+and 
+nature 
+of 
+the 
+proposed 
+developments in which to form a 
+robust basis for assessment. 
+ES Non-Technical Summary 
+Abergelli Power Project 
+38 
+ 
+ 
+In addition to the inter-cumulative, the ES also identifies cumulative effects. 
+Cumulative effects arise when effects of a specific nature (for example, 
+noise, landscape and visual) are intensified when a Project is assessed 
+cumulatively with another development.   
+ 
+Table NTS-6 presents the assessment of these cumulative effects for the 
+Project. 
+ 
+ 
+Felindre 
+Business 
+Park 
+Partially 
+constructed 
+with 
+Plot 
+8 
+permitted, 
+but 
+not 
+yet 
+in 
+construction 
+Landscape & 
+Visual 
+ 
+Construction 
+Traffic 
+The Landscape Character around 
+the Project Site and visual amenity 
+viewpoints 9 and 15 are expected to 
+experience cumulative effects with 
+the Felindre Business Park during 
+the 
+construction 
+phase 
+of 
+the 
+Project due to views containing
+construction equipment, lighting and 
+construction 
+activities. 
+This 
+is 
+expected to result in Minor adverse
+effects, which is not significant. 
+During 
+operation, 
+both 
+developments 
+would 
+experience 
+cumulative effects due to changes 
+in landscape character, landform 
+and presence. However these are 
+also 
+considered 
+to 
+be 
+Minor 
+adverse, 
+and 
+therefore 
+not 
+significant. 
+ 
+As 
+the 
+construction 
+traffic 
+cumulative assessment assumes all 
+developments, 
+the 
+residual 
+cumulative effect for pedestrian 
+experience 
+will 
+be 
+Minor 
+to 
+Moderate adverse. There will also 
+be a moderate adverse effect on 
+driver delay on the B4489 (North) 
+and a major adverse effect on the 
+B4489 (South). Whilst these effects 
+are significant, no mitigation is 
+considered to be required due to the 
+temporary 
+effect 
+during 
+construction.
+ES Non-Technical Summary 
+Abergelli Power Project 
+39 
+Table NTS-6: Cumulative Assessment within Individual Topics 
+Topic 
+Cumulative Intensification Effects within Individual Topics 
+Air Quality 
+There are no other permitted or proposed developments within 
+the study area which may result in air quality impacts during 
+construction, or any other large combustion sources currently or 
+proposed to be in operation.  
+ 
+The maximum effects of the Project occur away from major roads 
+and urban areas. It is therefore unlikely that there will be 
+cumulative effects at the main roads during the construction 
+phase. 
+Noise & Vibration The Project does not share any residential receptors which may 
+be cumulatively affected by the Project in addition to other 
+developments in the area. This is due to an absence of effect, no 
+overlap in construction or operational durations or due to 
+remoteness of other developments 
+Ecology 
+The Project does not share any ecological receptors which may 
+be cumulatively affected by the Project and other developments 
+in the area. This is due to an absence of effect, no overlap in 
+construction or operational durations, or due to remoteness from 
+other developments. 
+Water Resources  The Project does not share any receptors which may be 
+cumulatively affected by the Project and other developments in 
+the area. 
+Ground 
+Conditions 
+No cumulative effects are anticipated with other developments in 
+the area due the distance and proximity, and no shared receptors 
+from components of the Project interacting with each other 
+simultaneously during the construction phase which cannot be 
+mitigated by the embedded mitigation.
+Landscape 
+& 
+Visual  
+The Landscape Character around the Project Site and visual 
+amenity viewpoints 9 and 15 are expected to experience 
+cumulative 
+effects 
+with 
+other 
+developments 
+during 
+the 
+construction phase of the Project due to views containing 
+construction equipment, lighting and construction activities. 
+ 
+For visual amenity at viewpoints 9 and 15, cumulative magnitude 
+of change would be Low, due to topography distance and 
+duration of simultaneous construction phases, which combined 
+with the Medium sensitivity would result in a Minor adverse
+cumulative effect which is not significant. 
+ 
+The same receptors would also experience cumulative effects 
+during the operation of the Project and other developments due 
+to changes in landscape character, landform and presence. 
+However these are also considered to be Minor adverse, and 
+therefore not significant.
+ES Non-Technical Summary 
+Abergelli Power Project 
+40 
+Topic 
+Cumulative Intensification Effects within Individual Topics 
+Traffic, Transport 
+& Access 
+Seven developments are considered to have a potential 
+cumulative effect on traffic, transport and access during 
+construction. These are:  
+ Tyle Coch Mawr Wind Farm; 
+ Felindre Business Park; 
+ Llettyr Morfil Farm; 
+ Plot 8 Felindre Business Park; 
+ Land at Abergelli Farm; 
+ Land North of Garden Village, Swansea; and 
+ Land West of Llangyfelach Road, Tirdeunaw. 
+ 
+The 
+cumulative 
+assessment 
+for 
+the 
+individual 
+Project 
+components/full Project has identified that there will be no change 
+in the significance of effects relating to the pedestrian experience 
+(severance, pedestrian amenity, pedestrian delay, fear and 
+intimidation). The residual cumulative effect will be Minor to 
+Moderate adverse. Therefore, no mitigation is considered to be 
+required. 
+In respect of driver delay, it has been identified that will be a 
+change in the significance of effect, primarily during the AM peak 
+hour. The residual cumulative effects will be the same for the 
+individual Project components/full Project. During the AM peak 
+hour, the residual cumulative effect will be Minor adverse on the 
+B4489 (North), M4 eastbound and westbound off-slips, Pant 
+Lasau Road and the A48 (Southwest), and Major adverse on the 
+B4489 (South). During the PM peak hour, the residual cumulative 
+effect will be Minor adverse on the A48 (Southeast) and Major 
+adverse on Pant Lasau Road. 
+Whilst these effects are significant, the contribution of the 
+individual Project components/full Project will be temporary in 
+nature and does not require the delivery of mitigation measures 
+such as capacity improvements. Observations in 2017 suggest 
+that the junctions assessed are currently operating with a greater 
+level of capacity than is reported based on the 2014 traffic survey 
+data. The junctions are therefore unlikely to show the levels of 
+delay reported in future year assessment scenarios. It should 
+also be taken into consideration that the assessments carried out 
+in this report are robust and compound a number of peak 
+scenarios that would not normally coincide to create a theoretical 
+worst case scenario. 
+Historic 
+Environment 
+There is no potential for any likely significant effects from the
+Project and other developments within the area because: 
+ The direct physical effects of the Project on known 
+archaeological or historical assets is negligible and 
+ES Non-Technical Summary 
+Abergelli Power Project 
+41 
+Topic 
+Cumulative Intensification Effects within Individual Topics 
+therefore cannot contribute in any meaningful way to any 
+wider significant, comparable, losses to the cultural 
+heritage resource.  
+There are no significant effects upon the setting of historic 
+assets predicted.
+Socio-economics No cumulative effects are anticipated with socio-economics as 
+there is enough labour capacity to accommodate cumulative 
+projects as other planned projects could be developed 
+concurrently without creating labour market distortions or placing 
+pressure on accommodation providers.  Therefore no significant 
+cumulative effects are anticipated.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+42 
+6 
+Overall Conclusions  
+ 
+ 
+This Non-Technical Summary outlines the findings of the ES for the Abergelli 
+Power Project. The construction, operation and decommissioning of the 
+Project have the potential to have effects on the natural environment and 
+nearby human receptors.  
+ 
+The ES concludes that the Project is likely to have mainly Minor adverse to 
+Negligible effects on the environment.  Moderate adverse effects are likely 
+to occur to traffic during construction. Moderate to Major adverse effects 
+are limited to localised landscape and visual effects on receptors within the 
+immediate vicinity of the Project Site during both construction and operation.  
+ 
+Beneficial impacts are predicted to improve local employment during 
+construction and operation, and are classed as Negligible. Additionally, 
+Minor beneficial impacts to traffic on the B4489 (North), and M4 East 
+Bound and West Bound Off-slip during the construction phase have been 
+identified. There will also be a Minor beneficial effect from the stabilisation 
+of ground conditions due to the Power Generation Plant structures.  
+ 
+ 
+ES Non-Technical Summary 
+Abergelli Power Project 
+43 
+7 
+References  
+ 
+Ref. 1 
+The Planning Act 2008 (as amended).  
+Ref. 2 
+The Infrastructure Planning (Environmental Impact Assessment) 
+Regulations 2009 (as amended) (the EIA Regulations).  
+Ref. 3  
+Welsh Government. People, Places, Futures – The Wales Spatial Plan 
+2008 Update(d in July 2008). 
+Ref. 4 
+City and County of Swansea (CCS) (2017) Local Development Plan. 
+Ref. 5  
+South West Wales Regional Waste Group. (2008). South West Wales 
+Regional Waste Plan. 1st Review.  
+Ref. 6  
+Directive 2008/98/EC, Waste Framework Directive (2008), L 312/3. 
+Ref. 7  
+Environmental Permitting (England and Wales) Regulations 2016. (as 
+amended)   
+Ref. 8  
+Waste (England and Wales) Regulations 2011.  
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS1_Project Site Location Plan.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+PROJECT SITE 
+LOCATION PLAN
+001
+Scale at A3: 1:50,000
+FIGURE NTS-1
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary
+10
+0
+10
+20 km
+SWANSEA
+Felindre
+Llangyfelach
+M4
+M4
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS2_Project Site Layout .mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+PROJECT SITE 
+LAYOUT 
+005
+Scale at A3: 1:9,356.89
+FIGURE NTS-2
+50
+0
+50 100 150 200 250 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+18/05/18
+Generating Equipment SIte
+Above Ground Installation (AGI)
+Access Road
+Electrical Connection (400kV
+Cable)
+Gas Connection
+Laydown
+Maintenance Compound
+Project Site Boundary
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+9
+8
+7
+6
+5
+4
+32
+1
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS3_Modelled Air Quality Receptors.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+MODELLED AIR 
+QUALITY RECEPTORS
+005
+Scale at A3: 1:30,000
+FIGURE NTS-3
+400
+0
+400
+800
+1,200
+1,600
+2,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary
+!(
+Modelled Sensitive Human Receptors
+Receptor 
+Number
+Description
+1
+Abergelli Farm
+2
+Building SW of Abergelli Farm
+3
+Building SW of Abergelli Farm
+4
+Lletty Morfil Farm
+5
+Pen-y-waun-fach Cottage
+6
+Cefn-betingau
+7
+Pen-y-fedw
+8
+Felin-Wen-Court
+9
+Property SE of the Site
+10
+Maes-eglwys
+11
+Rhyd-y-Pandy
+12
+Gwynfa
+13
+Cynghordy
+14
+Salem Cottage
+15
+Lletty’r Bugail
+16
+Brynheulog
+17
+Property N of the Site
+18
+Morriston Hospital
+19
+Pant-Iasau
+20
+Pant-Iasau
+21
+Llangyfelach
+22
+Bryn-tywod
+23
+Tircoed
+24
+Tircoed
+25
+Brynawel
+26
+Gellyfeddan
+27
+Area 5 of CCS LDP
+28
+Area 11 of CCS LDP
+!>
+!>
+!>
+!>
+!>
+!>
+30 dB L Aeq 
+35 dB L Aeq 
+40 dB L Aeq 
+45 dB L Aeq 
+NSR6
+NSR5
+NSR4
+NSR3
+NSR2
+NSR1
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS4_Noise Sensitive Receptors.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+NOISE SENSITIVE 
+RECEPTORS
+01
+Scale at A3: Not To Scale
+FIGURE NTS-4
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+01/05/18
+±
+50
+0
+50
+100
+150
+200
+250 m
+Project Site Boundary
+Generating Equipment SIte
+Access Road
+!>
+Noise Sensitive Receptors
+Indicative specific sound level
+Area with predicted specific sound
+level above 35 dB LAeq
+Noise Sensitive 
+Receptor
+Address
+NSR1
+Cefn-betingau
+NSR2
+Feline Wen Farm
+NSR3
+Llwynhelig
+NSR4
+Maes-eglwys
+NSR5
+Lletty Morfil Farm
+NSR6
+Abergelli Farm
+^_
+2
+6
+4
+6
+1
+3
+5
+3
+17
+3
+9
+18
+16
+12
+7
+11
+20
+8
+22
+14
+21
+15
+19
+13
+10
+Rhos Fawr
+Plant Lasau
+Clifaen
+Llety-Morfil
+Waun Garn Wen
+Cefn Forest Steam
+Lower Lliw Reservoir
+Felindre Grasslands
+Rhyd-Y-Pandy Valley and Grasslands
+Middle Lliw
+Middle Llan
+NANT Y CRIMP
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS5_Designated Ecological Sites .mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+DESIGNATED 
+ECOLOGICAL SITES 
+005
+Scale at A3: 1:25,000
+FIGURE NTS-5
+500
+0
+500
+1,000
+1,500
+2,000
+2,500 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+01/05/18
+^_
+Proposed Stack Location
+Project Site Boundary
+2km Study Area
+Site of Special Scientific Interest
+Coed Barcud Wildlife Trust Reserve
+Ancient Woodland
+SINCs
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW XW
+XW
+XWXW
+XWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XWXWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+Lower Lliw Reservoir
+Rhos Fawr
+Plant Lasau
+Clifaen
+Waun Garn Wen
+Cefn Forest Steam
+Lower Lliw Reservoir
+Felindre Grasslands
+Rhyd-Y-Pandy Valley and Grasslands
+Middle Lliw
+Middle Lliw
+Middle Lliw
+Lletty-Morfil
+Middle Lliw
+Lletty-Morfil
+Lletty-Morfil
+Middle Lliw
+Middle Lliw
+Middle Llan
+Rhyd-Y-Pandy Valley and Grasslands
+Lletty-Morfil
+Middle Lliw
+Lletty-Morfil
+Rhyd-Y-Pandy Valley and Grasslands
+NANT Y CRIMP
+GLAIS MORAINE
+NANT Y CRIMP
+PENPLAS GRASSLANDS
+PENLLERGAER RAILWAY CUTTING
+GRAIG FAWR, PONTARDULAIS
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+Nant y Fendrod - headwaters to conf with Tawe
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS6_Water Quality and Resources Receptors.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+WATER QUALITY AND 
+RESOURCES 
+RECEPTORS
+001
+Scale at A3: 1:25,000
+FIGURE NTS-6
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+GM
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary
+1 km Buffer
+kj
+Wells
+XW
+Springs
+WFD Lakes
+Moderate
+WFD Rivers
+Good
+Moderate
+WFD River Catchments
+Inferred Water Flow Direction
+Groundwater
+Surface Water
+NRW Sites of Special Scientific Interest
+(SSSI)
+Ancient Woodland
+Abergelli Wildlife Reserve
+Sites of Importance for Nature
+Conservation (SINC)
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW XW
+XW
+XWXW
+XWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XWXWXW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+XW
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+kj
+Lower Lliw Reservoir
+Llan - headwaters to tidal limit
+Lliw - headwaters to confluence with Llan
+Tawe -confluence with Twrch to tidal limit
+Lower Clydach - headwaters to confluence with Tawe
+Dulais - headwaters to confluence with Loughor
+Nant y Fendrod - headwaters to conf with Tawe
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS7_Geology, Ground Conditions, and Hydrogeology Receptors.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+GEOLOGY, GROUND 
+CONDITIONS, AND 
+HYDROGEOLOGY 
+RECEPTORS
+001
+Scale at A3: 1:25,000
+FIGURE NTS-7
+500
+0
+500
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+JN
+Chk'd:
+GM
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary 
+1 km Buffer
+kj
+Wells
+XW
+Springs
+WFD Rivers
+WFD Lakes
+Other Watercourses
+Inferred Water Flow Direction
+Groundwater
+Surface Water
+Bedrock Geology
+Grovesend Formation
+Swansea Member Sandstone
+Swansea Member Mudstone Siltstone 
+Sandstone
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+9
+8
+7
+6
+5
+4
+3
+2
+1
+18
+17
+16
+15
+14
+11
+10
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS8_Zone of Theoretical Visibility.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+ZONE OF THEORETICAL 
+VISIBILITY
+001
+Scale at A3: 1:40,000
+FIGURE NTS-8
+1
+0
+1
+2 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+RM
+Date:
+App'd:
+CA
+01/05/18
+!(
+Viewpoints
+Project Site Boundary
+5km Study Area
+Zone of Theoretical Visibility (ZTV)
+including proposed stack height
+Viewpoints 12, 13 and 19 are beyond
+the 5km Study Area
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS9_Traffic Links.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+TRAFFIC LINKS
+001
+Scale at A3: 1:14,000
+FIGURE NTS-9
+200
+0
+200
+400 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+Drawn:
+GM
+Chk'd:
+NW
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary
+Local/Strategic Highway Network
+to Existing Access Road
+Existing Access Road (B4489 to
+National Grid)
+New Access Road
+AGI Access
+FELINDRE
+B4489
+B4489
+B4489
+Felindre 
+Park and Share
+M4 Junction 46
+Northern Dumbbell 
+Roundabout
+M4 Junction 46
+Southern Dumbbell 
+Roundabout
+A48 / Pant Lassau Road
+Mini-Roundabout
+Pant Lassau Road
+Rhyd-y-Pandy Road
+Rhyd-y-Pandy Road
+3
+4
+12
+11
+10
+9
+8
+7
+6
+5
+1
+2
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+AB03
+AB04
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\NTS\NTS10_Historical Assets.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+HISTORIC
+ASSETS
+005
+Scale at A3: 1:15,000
+FIGURE NTS-10
+200
+0
+200
+400
+600
+800
+1,000 m
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Crown copyright: Royal Commission 
+on the Ancient and Historical 
+Monuments of Wales
+© Hawlfraint y Goron: Comisiwn 
+Brenhinol Henebion Cymru
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+01/05/18
+Project Site Boundary
+!(
+Grade II -  Listed Building
+!(
+Historic Asset - Point             
+Historic Asset - Linear           
+Scheduled Monument
+1km Study Area

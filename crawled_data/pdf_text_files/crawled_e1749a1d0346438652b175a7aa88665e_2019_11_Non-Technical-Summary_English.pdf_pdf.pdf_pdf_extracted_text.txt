@@ -1,0 +1,4233 @@
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abergelli Power Project 
+Non-Technical Summary 
+January 2018 
+ 
+2 
+ 
+ 
+Contents 
+ 
+1. 
+Introduction ........................................................................................................ 9 
+2. 
+The Project ....................................................................................................... 11 
+2.1  What is the Project? ................................................................................. 11 
+2.2  What will it involve? .................................................................................. 11 
+2.3  What changes have been made to the design since the 2014 PEIR? ..... 12 
+2.4  How does an OCGT power station work? ............................................... 13 
+2.5  Where is it located? ................................................................................. 14 
+2.6  The Need for the Project ......................................................................... 14 
+2.7  Alternatives to the Project........................................................................ 15 
+2.8  Who is the Applicant? .............................................................................. 15 
+2.9  What planning framework applies to the Project? ................................... 15 
+2.10  What steps are being taken to mitigate the Project impacts? .................. 16 
+3. 
+Methodology: Significance of Effects ............................................................... 18 
+3.1  What are receptors and how are they identified within the PEIR? ........... 18 
+3.2  How are environmental impacts measured within the PEIR? .................. 19 
+3.3  How are the environmental effects measured within the PEIR? .............. 20 
+4. 
+Environmental Impact Assessment .................................................................. 21 
+4.1  Air Quality ................................................................................................ 21 
+4.2  Noise and Vibration ................................................................................. 24 
+4.3  Ecology.................................................................................................... 26 
+4.4  Water Quality and Resources .................................................................. 29 
+4.5  Geology, Ground Conditions and Hydrogeology ..................................... 31 
+4.6  Landscape and Visual Effects ................................................................. 33 
+4.7  Traffic, Transport, and Access ................................................................. 37 
+4.8  Historic Environment ............................................................................... 39 
+4.9  Socio-Economics ..................................................................................... 41 
+4.10  Other Effects ........................................................................................... 42 
+5. 
+Cumulative Effects ........................................................................................... 45 
+6. 
+Conclusions and Next Steps ............................................................................ 52 
+7. 
+References ...................................................................................................... 53 
+ 
+ 
+ 
+ 
+3 
+ 
+Abbreviations 
+ 
+Abbreviation 
+Description 
+AGI 
+Above Ground Installation 
+AONB 
+Area of Outstanding Natural Beauty 
+APL 
+Abergelli Power Limited 
+BAT 
+Best Available Techniques 
+BOP 
+Balance of Plant 
+BPM 
+Best Practical Means 
+BREF 
+BAT Reference documents 
+BS 
+British Standard 
+CAA 
+Civil Aviation Association  
+CCGT 
+Combined Cycle Gas Turbine 
+CCR 
+Carbon Capture Readiness 
+CCS 
+City and Country of Swansea 
+CEMP 
+Construction Environmental Management Plan 
+CHP 
+Combined Heat & Power 
+CIEEM 
+Chartered Institute of Ecology and Environmental Management 
+CO 
+Carbon Monoxide 
+CO2 
+Carbon Dioxide 
+CSTP 
+Construction Staff Traffic Plan 
+CTMP 
+Construction Traffic Management Plan 
+DAM 
+Development Advice Map 
+dB 
+Decibel, Unit of Volume 
+DBEIS 
+Department of Business, Energy and Industrial Strategy 
+DCLG 
+Department for Communities and Local Government 
+DCO 
+Development Consent Order 
+DECC 
+Department of Energy and Climate Change 
+EA 
+Environment Agency 
+EIA 
+Environmental Impact Assessment 
+EMF 
+Electromagnetic Fields 
+ES 
+Environmental Statement 
+EU 
+European Union 
+FCA 
+Flood Consequences Assessment 
+GCN 
+Great Crested Newt 
+ 
+4 
+ 
+Abbreviation 
+Description 
+GI 
+Ground Investigation 
+GLVIA 
+Guidelines for Landscape and Visual Impact Assessment 
+Ha 
+Hectare, Unit of Area 
+HER 
+Historic Environment Record 
+HGV 
+Heavy Goods Vehicle 
+HRA 
+Habitats Regulations Assessment 
+HSE 
+Health and Safety Executive 
+IAQM 
+Institute of Air Quality Management 
+IED 
+Industrial Emissions Directive 
+IPPC 
+Integrated Pollution Prevention Control 
+km 
+Kilometre, Unit of Length 
+kV 
+Kilovolt, Unit of Electric Potential 
+LCA 
+Landscape Character Areas 
+LDP 
+Local Development Plan 
+LNR 
+Local Nature Reserve 
+LPA 
+Local Planning Authority 
+LVIA 
+Landscape and Visual Impact Assessment 
+M 
+Metre, Unit of Length 
+m/s 
+Metres per second, Unit of Speed  
+MOC 
+Minimum Offtake Connection 
+MoD 
+Ministry of Defence 
+MW (or MWe) 
+Megawatts, Unit of Electricity 
+NATS 
+National Air Traffic Services 
+NETS 
+National Grid Electricity Transmission System 
+NNR 
+National Nature Reserve 
+NO2 
+Nitrogen Dioxide 
+NOx 
+Nitrogen Oxides (assuming as nitrogen dioxide) 
+NPS 
+National Policy Statement 
+NRW 
+National Resources Wales 
+NSIP 
+Nationally Significant Infrastructure Project 
+NSR 
+Nearest Sensitive Receptor 
+NTS 
+Non-Technical Summary 
+NVC 
+National Vegetation Classification 
+OCGT 
+Open Cycle Gas Turbine 
+OS 
+Ordinance Survey 
+PA 2008 
+Planning Act 2008 
+PEA 
+Preliminary Ecological Appraisal 
+ 
+5 
+ 
+Abbreviation 
+Description 
+PEIR 
+Preliminary Environmental Information Report 
+PHE 
+Public Health England 
+PIG  
+Pipeline Inspection Gauge 
+PINS 
+Planning Inspectorate 
+PM10 
+Particulate Matter 
+PM2.5 
+Particulate Matter 
+PPW 
+Planning Policy Wales 
+PRoW 
+Public Right of Way  
+PTF 
+Pig Trap Facility 
+PV 
+Photovoltaic 
+RGE 
+Reciprocating Gas Engines 
+SAC 
+Special Area of Conservation 
+SINC/SNCI 
+Site of Nature Conservation Interests 
+SLA 
+Special Landscape Areas 
+SoCC 
+Statement of Community Consultation 
+SoS 
+Secretary of State 
+SPA 
+Special Protection Area 
+SSSI 
+Site of Special Scientific Interest 
+SuDS 
+Sustainable Drainage Systems 
+TA 
+Transport Assessment 
+TAN 
+Technical Advice Note 
+TCPA 
+Town and Country Planning Authority 
+UDP 
+Unitary Development Plan 
+VP 
+Viewpoint 
+WFD 
+Water Framework Directive 
+WHO 
+World Health Organisation 
+WSI 
+Written Scheme of Investigation 
+ZoI 
+Zone of Influence 
+ZTV 
+Zone of Theoretical Visibility 
+ 
+ 
+ 
+6 
+ 
+Project Definitions 
+ 
+2014 PEIR: The 2014 PEIR summarising the preliminary findings of the EIA 
+prepared at the time of the Phase 1 consultation. 
+ 
+2014 PEIR NTS: The 2014 PEIR Non-Technical Summary, a report presenting a 
+non-technical summary of the information in the 2014 PEIR.  
+ 
+Access Road to the Generating Equipment Site - from the B4489 which lies to 
+the west, formed by upgrading an existing access road between the B4489 
+junction and the Swansea North Substation and constructing a new section of 
+access road from the Swansea North Substation to the Generating Equipment 
+Site. 
+ 
+Above Ground Installation: The Above Ground Installation incorporates the 
+minimum offtake connection (MOC) facility, which would be owned by National 
+Grid Gas, and a Pipeline Inspection Gauge (PIG) Trap Facility (PTF), owned by 
+Abergelli Power Limited. It forms part of the Gas Connection. 
+ 
+Additional Mitigation: Includes actions that will require further activity in order 
+to achieve the anticipated outcome. This may be imposed as part of DCO 
+requirements or through inclusion in the PEIR topic chapters.  
+ 
+APFP Regulations: Infrastructure Planning (Applications: Prescribed Forms and 
+Procedures) Regulations 2014 (as amended) 
+ 
+Balance of Plant: Infrastructure required to support the Gas Turbine Generator 
+within the Generating Equipment Site and includes: Raw/Fire Water Tank; 
+Demineralised Water Tank; Control Room/Office/Workshop Building; Gatehouse; 
+Transformer Compound; Natural Gas Receiving Station; Fin-Fan Cooler(s); 
+Telemetry apparatus; and Emergency Generator.  
+ 
+Ecological Mitigation Area: An area has been set aside within the Project Site 
+boundary if ecological mitigation is required. Location and area to be confirmed 
+post-consultation once discussions with NRW and CCS have been undertaken. 
+Area likely to be commensurate with the extent of mitigation required and within 
+the Order Limits of the Project. 
+ 
+EIA Regulations: For the Project the relevant EIA regulations are the 
+Infrastructure Planning (Environmental Impact Assessment) Regulations 2009 as 
+amended, and this term is used to mean the 2009 (as amended) regulations. 
+ 
+Embedded Mitigation: This includes modifications to the location or design of 
+the Project made during the pre-application phase that are an inherent part of 
+the Project, become a fundamental part of the design for which consent is 
+sought, and do not require any additional action to be taken.  
+ 
+Felindre Gas Compressor Station: Gas compressor facility located in close 
+proximity to the Project Site and adjacent to the Substation.  
+ 
+Felindre Park and Share: Free car parking facility, located just off Junction 46 of 
+the M4. 
+ 
+Felindre Water Treatment Works: Water treatment facility currently located to 
+the northwest of the Project Site.  
+ 
+7 
+ 
+ 
+Gas Connection: A new Above Ground Installation (AGI) and underground Gas 
+Pipeline.  
+ 
+The Gas Pipeline: The underground gas pipeline connection from the National 
+Gas Transmission System, to the Generating Equipment Site.  
+ 
+Generating Equipment: Gas Turbine Generator and Balance of Plant which are 
+located on the Generating Equipment Site. 
+ 
+Generating Equipment Site: The area within which the Generating Equipment 
+will be located on farmland north of Swansea, approximately 1 km southeast of 
+Felindre, and 1.4 km north of Llangelyfach. This is primarily within fields currently 
+used for grazing, bounded by a mixture of drainage ditches, fencing and poor 
+quality hedgerows with substantial gaps in them. 
+ 
+Gallops: Soft surface horse training track which runs diagonally northwest-
+southeast through the Project Site, directly south of the Generating Equipment 
+Site.  
+ 
+Gas Turbine Generator: One OCGT generator (as proposed in the Power 
+Generation Plant) which utilises the combustion of gas and air to generate hot 
+gases that are routed across turbine blades, which generate rotational forces 
+that turn an electrical generator. The exhaust gases are discharged directly to a 
+single stack without providing heat for a secondary steam cycle. The Gas 
+Turbine Generator forms part of the Generating Equipment and is located within 
+the Generating Equipment Site  
+ 
+LANDMAP: LANDMAP is an all-Wales landscape resource where landscape 
+characteristics, qualities and influences on the landscape are recorded and 
+evaluated. 
+ 
+Laydown Area: A temporary construction compound for the storage of materials, 
+plant and equipment as well as containing site accommodation and welfare 
+facilities, temporary car parking and temporary fencing.  
+ 
+Local Transmission System: A pipeline of natural gas that is transmitted to 
+local receptors.  
+ 
+Maintenance Compound: A small area within the Laydown Area that will be 
+retained permanently. 
+ 
+The National Gas Transmission System: Underground high pressure gas 
+pipelines that cross the Project Site, transporting natural gas to gas distribution 
+networks. It is owned by the Natural Grid Gas plc.  
+ 
+Oil Pipeline: An underground oil pipeline that crosses the Project Site, directly 
+south of the Generating Equipment Site.  
+ 
+Peaking Plant: Power plants that normally only run when there is a high 
+demand, known as peak demand, for electricity. 
+ 
+Power Generation Plant: Generating Equipment, Access Road, Laydown 
+Area/Maintenance Compound, Ecological Mitigation Area, permanent parking 
+and drainage.  
+ 
+Project: The Power Generation Plant, Gas Connection and Electrical 
+Connection. 
+ 
+8 
+ 
+ 
+Project Site: The land upon which the Project would be developed, or which is 
+required for construction of the Project.  
+ 
+Substation: The Swansea North Substation. 
+ 
+Water Main: An underground water pipeline that crosses the Project Site, 
+directly south of the Generating Equipment Site. 
+ 
+ 
+ 
+ 
+9 
+ 
+  
+1. Introduction  
+ 
+ 
+bergelli Power Ltd (APL) is proposing to build a 299 MegaWatt (MW) power 
+station near Swansea, in South Wales, that will aid electricity production when 
+there is a surge in demand for electricity, also known as “peak demand.”  The 
+proposed Abergelli Power Project (hereafter referred to as the ‘the Project’) will be 
+made up of an Open Cycle Gas Turbine (OCGT), and be built on a site, 2 km away 
+from the M4, which is currently used as farmland (shown on Figure 1).  
+This document is the Non-Technical 
+Summary (NTS) of the 2018 Preliminary 
+Environmental 
+Information 
+Report 
+(PEIR), which is the second PEIR 
+prepared for the Project. The PEIR 
+presents a summary of the findings of an 
+initial Environmental Impact Assessment 
+(EIA). An EIA provides an assessment of 
+the 
+Project’s 
+likely 
+significant 
+environmental effects. The purpose of 
+this document is to provide a summary 
+of the 2018 PEIR in non-technical 
+language. The main volumes comprising 
+the 2018 PEIR are available separately 
+(see page 6).  The 2018 PEIR is being 
+submitted as Preliminary Environmental 
+Information under the requirements of 
+The 
+Infrastructure 
+Planning 
+(Environmental 
+Impact 
+Assessment) 
+Regulations 
+2009 
+(the 
+“EIA 
+Regulations”) (Ref. 1). 
+A 
+Figure 1: Location Map  
+Source: Abergelli Power Ltd (Ref. 2) 
+ 
+10 
+ 
+The 2018 PEIR and this PEIR NTS have been prepared in accordance with 
+Regulation 2 and 10 of the EIA Regulations. They present information specifically 
+aimed at describing the nature, scale and location of the Project and a preliminary 
+assessment of any likely significant environmental impacts resulting from the Project.  
+In accordance with the Statement of Community Consultation, hard copies of the 
+2018 PEIR, this PEIR NTS and the Figures may be examined at the following local 
+libraries from 16 January 2018 until 19 February 2018 (opening times vary): 
+ 
+Day 
+Swansea 
+Central 
+Library 
+Clydach 
+Library  
+Gorseinon 
+Library  
+Morriston 
+Library  
+Pontarddulais 
+Library 
+Monday 
+Closed 
+9.30-17.30 
+9.00-18.00 
+9.00-18.00 
+9.00- 13.00 and 
+14.00 - 17.00 
+Tuesday 
+8.30-20.00 
+9.30-17.30 
+9.00-18.00 
+9.00-18.00 
+9.00- 13.00 and 
+14.00 - 17.00 
+Wednesday 
+8.30-20.00 
+9.30-17.30 
+9.00-18.00 
+9.00-18.00 
+9.00- 13.00 and 
+14.00 - 17.00 
+Thursday 
+8.30-20.00 
+9.30-17.30 
+9.00-18.00 
+9.00-18.00 
+9.00- 13.00 and 
+14.00 - 17.00 
+Friday 
+8.30-20.00 
+9.30-18.30 
+9.00-19.00 
+9.00-18.00 
+9.00- 13.00 and 
+14.00 - 18.00 
+Saturday 
+ 10.00- 16.00 
+9.30-16.30 
+9.00-17.00 
+9.00-17.00 
+9.00- 13.00 
+Sunday 
+10.00-16.00 
+CLOSED 
+CLOSED 
+CLOSED 
+CLOSED 
+ 
+Please note that the technical appendices to the PEIR will only be available 
+electronically at the above locations. 
+Copies of the PEIR and this PEIR NTS can also be found on the Project website: 
+http://www.abergellipower.co.uk.  
+The Documents can be obtained by writing to Abergelli Power Limited, 49 York Place, 
+Edinburgh, EH1 3JD. A reasonable copying charge may apply up to a maximum of £250 for 
+the full suite of documents and £10 for an electronic copy on CD. Copies of individual 
+documents are also available on request.   
+Table 1: PEIR Viewing Locations and Opening Times 
+ 
+11 
+ 
+2. The Project  
+ 
+he Project, a power station located approximately 3 km north of Swansea, 
+constitutes a Nationally Significant Infrastructure Project (NSIP) under the 
+Planning Act 2008 as it has an electrical output of over 50 MW. This means that 
+development consent granted by the Secretary of State is required for the Project.  
+2.1 What is the Project? 
+The Project is a gas-fired ‘peaking’ 
+plant which is designed to operate 
+when there is a surge in demand for 
+electricity (e.g. where there is a sudden 
+demand 
+in 
+power 
+required 
+by 
+consumers or a sudden drop in power 
+being generated by plants that suffer a 
+breakdown). Peaking plants also help 
+to ‘balance out’ the grid at times of 
+peak electricity demand and at times 
+when other technologies, such as wind 
+and solar farms, cannot generate 
+electricity due to their reliance on 
+weather conditions and intermittent 
+operation. 
+The Project Site is approximately 30 ha 
+in area, and is situated on open 
+agricultural land (Figure 2) located 
+approximately 2 km north of Junction 
+46 of the M4 within the administrative 
+boundary of the City and County of 
+Swansea Council (CCS).  
+2.2 What will it involve? 
+The Project will involve the combustion 
+of gas to generate electricity. There are 
+three key components to the Project: 
+1.) A new Power Generation Plant, in 
+the form of an Open Cycle Gas 
+Turbine (Figure 3). It will have an 
+electrical output of up to 299 MW.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The 
+Power 
+Generation 
+Plant 
+will 
+include:  
+- 
+Generating 
+Equipment 
+including 
+one 
+Gas 
+Turbine 
+Generator with one exhaust gas 
+flue stack; and 
+- 
+Balance of Plant (BOP), which is 
+all 
+infrastructure 
+required 
+to 
+support 
+the 
+Gas 
+Turbine 
+Generator (together referred to 
+as the 'Generating Equipment') 
+which are located within the 
+'Generating Equipment Site'; 
+- 
+An Access Road to the Project 
+Site from the B4489 which lies to 
+the west, formed by upgrading 
+an existing access road between 
+the B4489 junction and the 
+Swansea North Substation (the 
+Substation) and constructing a 
+new section of access road from 
+the Substation to the Generating 
+Equipment Site; and 
+T 
+Figure 2: Photo of the 
+Project Site 
+ 
+ 
+12 
+ 
+- 
+A 
+temporary 
+construction 
+compound for the storage of 
+materials, plant and equipment 
+as 
+well 
+as 
+containing 
+site 
+accommodation 
+and 
+welfare 
+facilities, temporary car parking 
+and 
+temporary 
+fencing 
+(the 
+Laydown Area. A small area 
+within the Laydown Area will be 
+retained 
+permanently 
+(the 
+Maintenance Compound). 
+- 
+Ecological Mitigation Area - 
+area 
+for 
+potential 
+reptile 
+translocation 
+and 
+ecological 
+enhancement. Location and area 
+to 
+be 
+confirmed 
+post-
+consultation once discussions 
+with Natural Resources Wales 
+(NRW) and CCS have been 
+undertaken. Area likely to be 
+commensurate with the extent of 
+mitigation required and within 
+the Project Site Boundary.  
+- 
+Permanent parking and drainage 
+to include: a site foul, oily water 
+and 
+surface 
+water 
+drainage 
+system. 
+2.) The Gas Connection will be in 
+the form of a new above ground 
+installation 
+(AGI) 
+and 
+underground 
+gas 
+connection 
+(the Gas Pipeline). This is to 
+bring 
+natural 
+gas 
+to 
+the 
+Generating Equipment from the 
+National 
+Gas 
+Transmission 
+System.  
+3.) The Electrical Connection will 
+be an underground electrical 
+cable to export power from the 
+Generating Equipment to the 
+National 
+Grid 
+Electricity 
+Transmission System (NETS). 
+2.3 What changes have been made 
+to the design since the 2014 
+PEIR? 
+Several changes have been made to 
+the initial design since the 2014 PEIR, 
+including those listed in Table 2. 
+ 
+Table 2: Change Made to the Design of the Project since the 2014 PEIR 
+Component Design Changes Made 
+Power 
+Generation 
+Plant 
+ The Power Generation Plant is now made up of only one Gas Turbine 
+Generator with one exhaust gas flue stack, rather than up to five as originally 
+proposed. 
+ Change in the maximum stack height from 40 m to 45 m  
+ The Generating Equipment Site has now been moved north of the Water Main. 
+Electrical 
+Connection 
+The Electrical Connection now runs alongside the Access Road rather than under,
+for ease of maintenance. 
+Gas 
+Connection 
+Route 2b was chosen as the preferred route for the Gas Connection.  This crosses 
+the National Gas Transmission System at two locations over a shorter distance.  It 
+has the fewest ecological risks and avoids recently developed solar farms. 
+Access 
+Route 
+Access Option 2 was chosen over Access Option 1.  This option is from the west 
+via the B4489, along the access road to the Substation and Felindre Gas 
+Compressor Station, which will be widened to accommodate the abnormal loads 
+required during construction. 
+ 
+13 
+ 
+2.4 How does an OCGT power 
+station work? 
+This is an ‘industrial’ type of turbine, 
+fuelled by natural gas. 
+In the gas turbine, air is compressed 
+and natural gas is injected. The fuel 
+burns in the compression chamber, 
+producing hot, high pressure gases. 
+This gas passes across the blades of 
+the gas turbine, causing the gas 
+turbine to rotate which in turn drives 
+the electrical generators to produce 
+electricity. An exhaust silencer is used 
+to reduce noise arising from this 
+process.  
+This type of turbine was selected 
+because it has an efficient output using 
+only 
+one 
+unit, 
+thereby 
+reducing 
+potential noise, air quality and visual 
+effects. Additionally, they are suitable 
+for frequent and fast start-ups.  
+The excess gases produced from this 
+process will be released to the 
+atmosphere via a ‘stack’ (chimney). 
+The stacks will be equipped with an 
+emissions monitoring system that will 
+ensure that emissions of oxides of 
+nitrogen (NOx) to the atmosphere are 
+within acceptable limits. 
+Alternative scenarios for the stack 
+height have been tested rigorously 
+during the design process in order to 
+determine the stack height that is 
+required 
+to 
+achieve 
+adequate 
+dispersion of exhaust gases in line 
+with environmental legislation. The 
+assessment concluded that a stack 
+height of between 35 m and 45 m 
+would be suitable. 
+Information within the 2018 PEIR has 
+been presented under the assumption 
+that 
+the 
+Project 
+will 
+have 
+an 
+operational 
+lifetime 
+of 
+25 
+years. 
+Therefore, for the purposes of the 
+PEIR, 
+it 
+is 
+assumed 
+that 
+the 
+Generating 
+Equipment 
+would 
+be 
+removed 
+and 
+the 
+Generating 
+Equipment Site re-instated to a similar 
+condition as before any construction. 
+However, it should be noted that it is 
+common for power stations to run for a 
+much longer period than 25 years. Any 
+decommissioning phase would be 
+likely to be of a similar duration to 
+construction i.e. 22 months. 
+Figure 3: Schematic Diagram 
+of an Open Cycle Gas Turbine 
+ 
+14 
+ 
+2.5 Where is it located? 
+The Project Site is located on open 
+agricultural land approximately 2 km 
+north of Junction 46 on the M4, 
+approximately 3 km to the north of the 
+city of Swansea, approximately 1 km 
+southeast of Felindre and 1.4 km 
+north of Llangyfelach. The western 
+extent 
+of 
+the 
+Project 
+Site 
+encompasses parts of the Substation 
+(a 400 kV GIS substation) and the 
+existing access road leading to the 
+Substation 
+and 
+Felindre 
+Gas 
+Compressor Station from the B4489. 
+The area surrounding the Project Site 
+is, at present, predominantly rural in 
+character. The Power Generation 
+Plant is located primarily within fields 
+used for grazing, bounded by a 
+mixture of drainage ditches, fencing 
+and poor quality hedgerows with 
+substantial gaps in them. There are 
+no residential dwellings located within 
+the boundary of the Project Site. Most 
+of the Project Site is improved 
+grassland but there are areas of 
+marshy 
+grassland 
+in 
+the 
+south 
+eastern 
+part 
+of 
+the 
+Generating 
+Equipment Site. 
+2.6 The Need for the Project 
+There is a considerable national need 
+for this type of project, acknowledged 
+at all levels of Government policy. 
+National planning policy supports the 
+need for new power stations to replace 
+the current ageing coal fired power 
+plants, many of which are scheduled to 
+close, 
+and 
+also 
+meet 
+expected 
+increasing demand for electricity over 
+the coming decades. 
+The supply of electricity in the UK 
+relies on the generation of electricity 
+from 
+several 
+sources, 
+more 
+traditionally through baseload thermal 
+generation plants such as coal, gas 
+and nuclear. These generators all 
+provide power to keep the national grid 
+at a steady frequency of 50 Hertz (Hz), 
+essential to the smooth operation of 
+electrical equipment throughout the 
+UK.  
+At present, the total capacity of 
+peaking power plants in the UK is 
+relatively small due to the nature of the 
+historic approach to power production 
+ 
+ 
+Figure 4: Indicative Aerial View of the Project   
+Source: Abergelli Power Ltd (Ref. 2) 
+ 
+15 
+ 
+in the UK. There is a clear and 
+significant 
+requirement 
+for 
+further 
+capacity to meet the projected need for 
+reactive/flexible 
+generation 
+in 
+the 
+future, as the methods of power 
+generation diversify. 
+Gas 
+is 
+acknowledged 
+by 
+the 
+Government as having an important 
+role to play in our transition to a low-
+carbon economy, whilst at the same 
+time supporting the country’s energy 
+security. In addition, gas peaking 
+plants such as the Project would 
+provide back-up to power generation 
+from renewable sources, particularly 
+wind 
+power, 
+which 
+supply 
+an 
+increasingly important share of the 
+country’s electricity demand. Modern 
+gas fired power plants are among the 
+most efficient forms of electricity power 
+generation.  
+2.7 Alternatives to the Project 
+A review of alternative technology has 
+been undertaken to determine the 
+optimal technology choice for the 
+Project. 
+This 
+review 
+considered 
+OCGT, Combined Cycle Gas Turbine 
+(CCGT), Combined Heat and Power 
+(CHP) and Heat Recovery Steam 
+Generator (HRSG) as comparative 
+technologies and considered visual 
+impact, water resources, noise, layout 
+and operational requirements. It was 
+concluded that OCGT provided the 
+best technology choice taking these 
+criteria into account.  
+Site selection was also an important 
+consideration with alternative sites and 
+layouts being explored as part of the 
+early 
+site 
+development. 
+Important 
+factors for site selection were: 
+• 
+Proximity to a suitable electrical 
+and gas connection 
+• 
+Proximity to sensitive ecological, 
+environmental 
+and 
+social 
+designations or features 
+• 
+Has suitable land available for the 
+Power 
+Generation 
+Plant, 
+Gas 
+Connection 
+and 
+Electrical 
+Connection 
+• 
+Proximity to a well-developed road 
+network to the Project Site. 
+Given the points above, the close 
+proximity 
+to 
+other 
+industrial 
+developments, namely the Felindre 
+Gas 
+Compressor 
+Station 
+and 
+Substation, that the Project Site is 
+largely 
+situated 
+on 
+poor 
+grade 
+agricultural land and that design 
+development has evolved to allow the 
+Generating Equipment Site to be 
+located to the north of the Water Main, 
+this is considered to be a suitable site.  
+2.8 Who is the Applicant? 
+The Applicant is Abergelli Power 
+Limited (APL), a subsidiary of Drax 
+Group plc, a large British energy 
+company. Further information about 
+Drax can be found at www.drax.com. 
+2.9 What 
+planning 
+framework 
+applies to the Project? 
+Planning 
+Act 
+2008: 
+The 
+Power 
+Generation 
+Plant 
+constitutes 
+a 
+Nationally 
+Significant 
+Infrastructure 
+Project 
+(NSIP) 
+pursuant 
+to 
+the 
+Planning Act 2008 (PA 2008) (Ref. 3) 
+and therefore requires development 
+consent. This is because it is a thermal 
+generating station with an electrical 
+output in excess of 50 MW.  
+ 
+16 
+ 
+The 
+proposed 
+application 
+for 
+a 
+Development Consent Order (DCO) 
+will seek consent for all works required 
+for construction, use, operation and 
+maintenance of the Power Generation 
+Plant (including the Access Road and 
+the 
+Laydown 
+Area/Maintenance 
+Compound, which are integral to the 
+NSIP).  
+The Gas Connection and Electrical 
+Connection are considered to be 
+Associated Development within the 
+meaning of the Planning Act 2008. As 
+the Project is a generating station in 
+Wales below 350 MW, development 
+consent 
+cannot 
+be 
+granted 
+for 
+Associated Development in the DCO. 
+However, the Gas Connection and the 
+Electrical Connection are considered 
+and assessed in this PEIR to provide 
+full information on the effects of the 
+Project as a whole. 
+NPS EN-1 and EN-2: National Policy 
+Statements EN-1 and EN-2 provide 
+the overarching national level policy 
+framework for consideration of DCO 
+applications 
+for 
+gas 
+fired 
+power 
+stations and set out the Government's 
+policies for the assessment of DCO 
+applications.  NPS EN-1 and EN-2 
+have been considered by APL in the 
+design and in the assessment of 
+effects reported in this 2018 PEIR. 
+Planning Policy in Wales: Planning 
+Policy Wales (Ref. 4) sets out the land 
+use planning policies of the Welsh 
+Government, 
+by 
+prescribing 
+the 
+government’s 
+policies 
+on 
+various 
+planning 
+issues 
+that 
+shape 
+the 
+preparation of development plans. This 
+has been considered and addressed in 
+the design. 
+The Wales Spatial Plan (2008): The 
+Wales Spatial Plan (Ref. 5) was 
+adopted by the Welsh Government in 
+2004 and updated in 2008. The Plan 
+notes that natural gas developments 
+are providing a major economic boost 
+for Wales, and the development of 
+gas-fired power stations has the 
+potential to add to this. 
+2.10 What steps are being taken to 
+mitigate any effects from the 
+Project? 
+The following mitigation is embedded 
+into the revised design of the Project:  
+• 
+An 
+Outline 
+Construction 
+Environmental Management Plan 
+(CEMP) has been prepared which 
+provides 
+details 
+of 
+mitigation 
+measures to be implemented to 
+avoid adverse effects on sensitive 
+receptors such as habitats and 
+residential dwellings during the 
+construction phase. This includes 
+details regarding the management 
+of waste, dust, noise, and traffic, 
+nuisance and complaints, working 
+hours, 
+limits 
+for 
+emissions, 
+monitoring to be undertaken, roles 
+and responsibilities of construction 
+staff, and the likely contents of any 
+topic specific management plans.  
+• 
+The Outline Drainage Strategy for 
+surface and foul water for the 
+Project has been designed in order 
+to mitigate any likely significant 
+effects to surface water quality and 
+flood risk; 
+• 
+Air quality monitoring to monitor for 
+any likely significant effects to the 
+ 
+17 
+ 
+Lletty 
+Morfil 
+SINC 
+from 
+dust 
+deposition 
+from 
+construction 
+activities; 
+• 
+Ecological Management Plan for 
+the protection of sensitive habitats; 
+• 
+Dispersion modelling and noise 
+modelling 
+has 
+determined 
+the 
+minimum and maximum stack 
+height to avoid likely significant 
+effects from operational emissions 
+(deposition) and sound power 
+outputs;  
+• 
+Avoidance of Ancient Woodland 
+and other sensitive habitats by 
+design, and the creation of an 
+Ecological Mitigation Area; 
+• 
+An 
+Outline 
+Landscaping 
+& 
+Reinstatement Plan will provide 
+details on how areas will be 
+reinstated post-construction. An 
+indicative 
+Outline 
+Landscape 
+Strategy is included in the PEIR.  
+• 
+An Outline Lighting Strategy will 
+also 
+be 
+prepared 
+for 
+DCO 
+Application; 
+• 
+Ground 
+investigation 
+to 
+be 
+undertaken post-consent but prior 
+to commencement of construction. 
+This will inform a mining risk 
+assessment and the requirement 
+for a mineral resources survey; 
+• 
+Construction Traffic Management 
+Plan outlining the management of 
+construction 
+traffic, 
+highway 
+improvements 
+and 
+condition 
+surveys (where required), and 
+commitment 
+to 
+provide 
+a 
+Construction Staff Travel Plan; and  
+• 
+Archaeological Written Scheme of 
+Investigation will be prepared in 
+advance 
+of 
+construction 
+commencing. 
+The 2018 PEIR has assessed the 
+likely significant effects of the Project 
+including the embedded mitigation 
+described above. 
+ 
+18 
+ 
+3. Methodology: Significance of Effects 
+ 
+he Environmental Impact Assessment (EIA) Regulations require an EIA to be 
+carried out for the Project. EIA is the process of identifying, evaluating, and, 
+where possible, mitigating the likely significant environmental effects of a proposed 
+development. It promotes the early identification and evaluation of the potentially 
+significant environmental effects of a proposed development and enables 
+appropriate mitigation measures to avoid, reduce or offset significant adverse 
+effects. The assessment of effects is presented in a series of chapters focussed on 
+by specialist topic areas, such as ecology, geology, and historic environment.  
+3.1 What are receptors and how 
+are they identified within the 
+PEIR? 
+For 
+each 
+specialist 
+topic 
+area, 
+sensitive 
+‘receptors’ 
+are 
+identified 
+which may be affected by the Project. 
+This 
+includes 
+living 
+organisms, 
+habitats, natural resources, receptors 
+in the historic environment in or around 
+the Site, which could be adversely 
+affected during construction of the 
+Project, during the operation of the 
+Project, or during decommissioning of 
+the Project. 
+The assessment methodology used for 
+the PEIR was broadly the same for all 
+topic areas. For each topic, the 
+assessment of significance is informed 
+by the sensitivity of the existing or 
+baseline environmental conditions or 
+character, and the magnitude of the 
+change to the existing conditions or 
+baseline character which is expected 
+to occur as a result of the Project.  
+The 
+value 
+or 
+sensitivity 
+of 
+the 
+receptors is assessed according to the 
+relative 
+importance 
+of 
+existing 
+environmental features on or near to 
+the site, or by the sensitivity of 
+receptors, i.e. whether they are likely 
+to be robust enough to be unaffected 
+by the Project or alternatively are 
+highly susceptible to the type of effects 
+likely to occur.  
+Table 3 provides general definitions of 
+the sensitivity criteria used within the 
+assessment.
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+19 
+ 
+ 
+Table 3: Generic Guidelines for the Assessment of Value/Sensitivity  
+Value / 
+Sensitivity 
+Guidelines 
+Very High 
+The receptor has little or no ability to absorb change without 
+fundamentally altering its present character, is of very high 
+environmental value, or of international importance. 
+High 
+The receptor has low ability to absorb change without 
+fundamentally altering its present character, is of high 
+environmental value, or of national importance. 
+Medium 
+The receptor has moderate capacity to absorb change without 
+significantly altering its present character, has some environmental 
+value, or is of regional importance. 
+Low 
+The receptor is tolerant of change without detriment to its character, 
+is low environmental value, or local importance. 
+Negligible 
+The receptor is resistant to change and is of little environmental 
+value. 
+ 
+3.2 
+How 
+are 
+environmental 
+impacts measured within the 
+PEIR? 
+The magnitude of potential effects on 
+environmental baseline conditions is 
+identified through consideration of the 
+Project. Where the design is not yet 
+fixed, 
+we 
+have 
+considered 
+the 
+parameters and assessed the "worst 
+case" scenario to ensure that the 
+assessment is robust and describes 
+the fullest extent of likely effects.  The 
+setting of parameters for assessment 
+in this way is sometimes referred to as 
+the "Rochdale Envelope" approach.  
+The assessment of magnitude of 
+changes takes into account the scale 
+or degree of change from the existing 
+situation as a result of the effect being 
+considered; and the duration and 
+reversibility of the effect, as well as 
+consideration of relevant legislative or 
+policy standards or guidelines. 
+ 
+ 
+To this end, where flexibility in 
+parameters for the Project (such as the 
+height of the stack) has been provided, 
+APL has assessed the realistic worst 
+case and it is made clear in each 
+‘topic’ 
+assessment 
+what 
+this 
+constitutes. 
+Taking the above into consideration, it 
+has been determined that for all topic 
+areas to be addressed in the EIA 
+except air quality, the highest stack 
+height (45 m) represents the 'worst 
+case'. For air quality the minimum 
+stack height of 35 m represents the 
+'worst case' due to lower dispersion. 
+Table 4 provides general definitions of 
+effect magnitude criteria. In each 
+specialist chapter of this PEIR, effect 
+magnitude criteria will be explained 
+with 
+reference 
+to 
+that 
+particular 
+discipline. 
+ 
+ 
+20 
+ 
+Table 4: Generic Guidelines for the Assessment of Magnitude 
+Magnitude Guidelines 
+High 
+Total loss or major alteration to key elements/features of the baseline 
+conditions such that post development character/composition of 
+baseline conditions will be fundamentally changed. 
+Medium 
+Loss or alteration to one or more key elements/features of the 
+baseline conditions such that post development 
+character/composition of the baseline conditions will be materially 
+changed. 
+Low 
+Minor shift away from baseline conditions. Changes arising from the 
+alteration will be detectable but not material; the underlying 
+character/composition of the baseline conditions will be similar to the 
+pre-development situation. 
+Negligible 
+Very little change from baseline conditions. Change is barely 
+distinguishable, approximating to a “no change” situation. 
+ 
+3.3 How are the environmental 
+effects measured within the 
+PEIR? 
+A combination of the magnitude of the 
+effect and the sensitivity of the 
+receptor determines the significance of 
+effect (Table 5).  For instance, when a 
+receptor that is deemed very sensitive 
+to 
+change 
+is 
+exposed 
+to 
+an 
+environmental 
+impact 
+of 
+high 
+magnitude, the resultant effect on the 
+receptor will be classed as Major.  
+The issue may have a positive or 
+negative impact on the receptor. 
+Therefore, the significance of effects is 
+reported using a seven-point scale, 
+from: 
+Major 
+Adverse; 
+Moderate 
+Adverse; Minor Adverse; Negligible; 
+Minor Beneficial; Moderate Beneficial; 
+to 
+Major 
+Beneficial. 
+For 
+some 
+assessments, professional judgement 
+has been applied. Where this is the 
+case, it is indicated in the topic 
+chapter.  
+Generally, effects which are Major or 
+Moderate 
+are 
+considered 
+to 
+be 
+significant. 
+Minor 
+and 
+Negligible 
+effects are considered to be not 
+significant.   
+ 
+ 
+ 
+Table 5: Classification of Effects 
+Magnitude 
+Value and Sensitivity of Receptor 
+Very High 
+High 
+Medium 
+Low 
+Negligible
+High 
+Major 
+Major 
+Moderate 
+Moderate 
+Minor 
+Medium 
+Major 
+Moderate 
+Moderate 
+Minor 
+Negligible
+ 
+ Low 
+Moderate 
+Moderate 
+Minor 
+Negligible 
+Negligible
+Negligible 
+Minor 
+Minor 
+Negligible 
+Negligible 
+Negligible
+ 
+ 
+ 
+21 
+ 
+4. Environmental Impact Assessment 
+ 
+he 2018 PEIR identifies the key environmental topics that have been assessed. 
+For each assessment topic, the PEIR describes the methodological approach to 
+assessment, provides existing information on the local environment (the 
+environmental ‘baseline’), and describes the potential effects on that environment 
+during construction, operation and decommissioning. For each assessment topic 
+decommissioning effects are considered to be comparable to those during 
+construction and are not discussed further within this NTS with the exception of Air 
+Quality. The environmental topic areas reported on in the PEIR are summarised 
+below. 
+4.1 Air Quality 
+ 
+This 
+chapter 
+has 
+identified 
+the 
+receptors which may be impacted by 
+the 
+Project 
+and 
+assessed 
+the 
+likelihood of significant effects in 
+relation to air quality, namely dust 
+during construction, and operational 
+emissions. 
+A desk based study and information 
+obtained 
+from 
+various 
+sources 
+including 
+CCS 
+and 
+DEFRA 
+was 
+updated from the 2014 PEIR due to 
+the changes in the Project, principally 
+the reduction in the number of Gas 
+Turbine Generators.  
+ 
+Air 
+quality 
+monitoring 
+data 
+was 
+collated from the Cwm Level Park 
+monitoring site, and this was utilised 
+for the air quality modelling undertaken 
+for the impact assessment. 
+ 
+ 
+ 
+ 
+ 
+ 
+Phase 
+Source 
+Receptor 
+Construction and 
+decommissioning 
+ 
+Dust and traffic 
+emissions 
+Residential dwellings and construction 
+workers within 350 m of potential dust 
+sources and 50 m of construction routes 
+Ecological receptors within 100 m and 
+50m of construction routes 
+Operation 
+ 
+Aerial deposition 
+and Concentration 
+Residential dwellings within 10 km  
+Ecological receptors (such as designated 
+sites) within 2 km  
+T 
+Table 6: Air Quality Sources and Receptors 
+ 
+22 
+ 
+ 
+ 
+Residual Effects 
+4.1.1
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented.  
+Construction of the Project 
+Air quality effects during construction 
+of the Power Generation Plant, Gas 
+Connection 
+and 
+the 
+Electrical 
+Connection are likely to give rise to 
+emissions of dust/particulate matter.  
+ 
+ 
+ 
+ 
+ 
+Given the Low sensitivity of the 
+receptors 
+identified 
+on 
+Figure 
+5, 
+combined with a Low / Negligible 
+magnitude 
+of 
+effect 
+due 
+to 
+the 
+embedded mitigation, the air quality 
+effects 
+during 
+construction 
+are 
+predicted 
+to 
+be 
+Negligible, 
+and 
+therefore not significant. 
+Operation of the Power Generation 
+Plant  
+Effects during the operational phase 
+are limited to the Power Generation 
+Plant only. Sensitivity testing for the 
+stack height (between 20-50 m) was 
+performed; a dispersion model showed 
+significant benefits as the stack height 
+increased to 32 m, in terms of 
+maximum ground level concentrations 
+of NO2 and CO.  
+Figure 5: Modelled Air Quality Receptors 
+ 
+23 
+ 
+The worst case minimum stack height 
+of 35 m within the parameters of the 
+Generating Equipment was therefore 
+modelled. The magnitude of the effects 
+on pollutant concentrations for the 
+Generating Equipment are considered 
+to be Negligible for all pollutant and 
+averaging periods considered within 
+the dispersion modelling.  
+As such, impacts on air quality as a 
+result of the Project are Negligible 
+and therefore not significant.  
+Decommissioning 
+of 
+the 
+Power 
+Generation Plant 
+Chapter 6: Air Quality has assessed 
+the effects of decommissioning as they 
+differ from construction effects. The 
+decommissioning 
+effects 
+from 
+air 
+quality arise from the demolition of the 
+Power Generation Plant. However, 
+based on the remoteness to the 
+nearest 
+ecological 
+and 
+residential 
+receptors, the effects are predicted to 
+the Low to Negligible, and therefore 
+is not significant.   
+ 
+Conclusion  
+4.1.2
+No residual significant effects have 
+been identified for each component of 
+the Project, or the Project as a whole 
+due 
+to 
+the 
+embedded 
+mitigation 
+inherent within the design. Therefore 
+no additional mitigation is required.  
+ 
+ 
+ 
+24 
+ 
+4.2 Noise and Vibration 
+ 
+The potential effects from noise and 
+vibration on local residential receptors 
+from the Project have been assessed 
+(potential 
+effects 
+on 
+ecological 
+receptors are covered in section 4.3).  
+A desk based study and baseline 
+noise monitoring were undertaken to 
+establish baseline sound levels at 
+these receptors.  The study area has 
+been determined to incorporate the 
+nearest representative Noise Sensitive 
+Receptors (NSRs) in all directions as 
+shown on Figure 6. These are all 
+residential dwellings.  
+The sound levels measured during the 
+baseline noise survey complied with 
+environmental noise limit guidelines 
+from the World Health Organisation 
+(WHO) at all but one receptor. At that 
+receptor, the baseline noise levels are 
+already exceeded without the Project 
+being present.  
+The 
+noise 
+environment 
+is 
+characterised by animals, farming 
+activities and distance road traffic 
+during the day, and the wind in trees 
+and distant road traffic at night, and 
+noise from the existing Substation.  
+ 
+Residual Effects 
+4.2.1
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented.  
+Construction of the Project 
+Construction activities are likely to 
+occur 
+during 
+weekdays 
+(during 
+daytime hours), Saturday mornings 
+and mornings during Bank Holidays. 
+Noise and vibration from construction 
+activities has the potential to result in 
+adverse effects at NSRs which are all 
+classed as highly sensitive receptors.  
+Due to the application of embedded 
+mitigation resulting in a Low magnitude 
+of 
+effect, 
+the 
+assessment 
+has 
+predicted that there is the potential for 
+no more than Minor adverse noise 
+and vibration effects at all NSRs during 
+construction phase, which are not 
+significant. 
+Therefore, 
+no 
+further 
+additional mitigation or monitoring 
+measures are required.  
+Operation of the Power Generation 
+Plant  
+The effects during the operational 
+phase are limited to the Generating 
+Equipment. Operational noise and 
+vibration effects from the Access Road 
+and the AGI are Negligible, and 
+therefore have been scoped out of the 
+assessment.  
+No causes of significant vibration 
+associated with the Project are known; 
+the primary rotating equipment within 
+the generator set will be balanced to a 
+high degree and constantly monitored 
+for any changes in the vibration levels 
+it 
+produces. 
+Therefore 
+further 
+assessment of operational vibration is 
+scoped out of this assessment. 
+At NSRs 1, 2, 3, 5 and 6, the ambient 
+sound levels predicted to be produced 
+by the Generating Equipment were 
+ 
+25 
+ 
+recorded to have Minor adverse 
+effects, 
+and 
+therefore 
+not 
+significant. 
+The pre-existing baseline noise limit at 
+NSR 
+4 
+is 
+already 
+above 
+WHO 
+environmental noise limit guidelines. 
+The ambient baseline noise limits for 
+that receptor are unchanged after the 
+addition 
+of 
+the 
+sound 
+from 
+the 
+Generating Equipment. Therefore the 
+impact of the Generating Equipment 
+on 
+the 
+sound 
+environment 
+is 
+Negligible, which is not significant. 
+ 
+Conclusion  
+4.2.2
+No residual significant effects have 
+been identified for each component of 
+the Project, or the Project as whole 
+due 
+to 
+the 
+embedded 
+mitigation 
+inherent within the design. Therefore 
+no additional mitigation is required.  
+ 
+ 
+Figure 6: Noise Sensitive Receptors 
+26 
+4.3 Ecology 
+4.4  
+ 
+This 
+assessment 
+has 
+identified 
+ecological designated sites, habitats, 
+species or ecosystems which may be 
+affected by the Project and assessed 
+the likelihood of significant effects. This 
+chapter also considers potential effects 
+from noise on ecological receptors. 
+A desk based study has been updated 
+for a 2 km radius for nationally 
+designated sites (SSSI, SINC) and 10 
+km for internationally designated sites 
+(Ramsar, SAC, SPA). 
+The following ecological surveys have 
+been undertaken to re-establish the 
+ecological baseline since the 2014 
+PEIR:  
+
+Habitat survey;
+
+Great crested newt survey;
+
+Reptile survey;
+
+Otter and water vole survey;
+
+Dormouse survey;
+
+Badger survey; and,
+
+Bat roost assessment and activity
+survey.
+Figure 7: The Closest Designated Sites to the Project Boundary 
+27 
+4.3.1 
+Residual Effects 
+Further to the embedded mitigation described in Section 2.10, the following 
+additional mitigation will also be implemented: ecological enhancement measures 
+such as replacement habitats where possible via the Landscape and Reinstatement 
+Plan, pre-construction surveys and production of a Reptile Method Statement. 
+Therefore the  assessment concludes the following residual effects: 
+Construction of the Power Generation Plant 
+
+There will be permanent Minor adverse habitat loss to Broadleaved Woodland,
+trees, and Semi-Improved Natural Grassland.
+
+There will be a permanent Minor adverse effect on Invertebrates, Amphibians,
+Breeding Birds, due to potential loss of habitats, including breeding, foraging,
+and sheltering habitats.
+
+There will be permanent Minor adverse habitat loss to Lletty-Morfil SNCI,
+Marshy Grassland, removal of two ponds, and approximately 140 m of
+hedgerows.
+
+There will be a permanent Minor adverse effect on Reptiles and Badgers
+caused by the removal of habitats.
+
+There will be a temporary Minor adverse effect on Water Vole from noise and
+disturbance from construction activities
+
+There will be a temporary Minor adverse effect on Otter from disturbance from
+construction activities
+
+There will be potential for Minor adverse effects to Bats due to removal of
+habitat and disturbance to hibernation roosts, potential severance and
+disturbance from localised night time illumination in winter months.
+
+There will be potential for Minor adverse effects to Breeding Birds due to
+localised night time illumination in winter months
+Construction of the Gas Connection 
+
+There will be temporary Minor adverse habitat loss to Dense/Continuous
+Scrub, Semi-Improved Neutral Grassland
+
+There will be permanent Minor adverse habitat loss to trees
+
+There will be temporary Minor adverse effects Reptiles, Invertebrates, and
+Amphibians through the temporary loss of habitats.
+
+There will be temporary Minor adverse effects to Breeding Birds from noise,
+loss of habitat and localised night time illumination in winter months
+
+There will be a Minor adverse temporary habitat loss to broadleaved woodland,
+one pond, and up to 180 m of Hedgerows.
+
+There will be a Minor adverse effect to Badgers and Otters from potential to
+harm via construction activities.
+
+There will be potential Minor adverse effects to Bats due to temporary removal
+of foraging habitat and disturbance from construction activities.
+
+There is a Minor adverse effect from the potential for construction activities to
+spread invasive species.
+28 
+Construction of the Electrical Connection 
+
+There will be temporary Minor adverse effects to Breeding Birds from noise
+and localised night time illumination in winter months.
+
+There is the potential for Otters to be effected due to construction of the
+Electrical Connection which is within 10 m of several watercourses. This is
+classified as a Minor adverse effect.
+Operational Phase of the Power Generation Plant 
+
+Bats and Invertebrates will experience Minor adverse effects from the
+operation lighting.
+4.3.2 
+Conclusion & Next Steps 
+No residual significant effects have been identified for each component of the 
+Project, or the Project as a whole due to the embedded mitigation inherent within the 
+design but also the application of additional mitigation where required.  
+The following surveys are ongoing and will be undertaken in 2018:  
+•
+Hedgerow survey in April 2018;
+•
+Ongoing bat activity surveys in April and May 2018; and
+•
+Breeding bird survey in March / April 2018.
+Where possible the survey results will be provided in the DCO Application, or follow 
+soon after submission. Any delayed results will not materially change the impact 
+assessment results. It is also intended to continue liaison with CCS and NRW 
+regarding the ecological mitigation required for reptiles and other species present 
+onsite.    
+29 
+4.4 Water Quality and Resources 
+An assessment of the likely significant 
+effects 
+on 
+water 
+quality, 
+water 
+resources and flood risk has been 
+undertaken.  
+The study area adopted with respect to 
+the water quality and water resources 
+extends 
+beyond 
+the 
+Project 
+Site 
+boundary as provided in Figure 8. The 
+study area therefore includes the area 
+within the Project Site boundary and a 
+potential zone of influence (ZoI) which 
+is defined as a distance over which 
+significant effects on important water 
+receptors/features 
+can 
+reasonably 
+have the potential to occur.  
+In this case, from the perspective of 
+water 
+receptors/features, 
+this 
+is 
+defined as a 1 km buffer zone of 
+influence (ZoI) around the Project Site 
+boundary.  
+A desk study and Project Site walkover 
+has identified a number of receptors 
+(waterbodies) within 1 km of the 
+Project Site, including the Afon Llan 
+and its tributaries, ponds within the 
+Project Site Boundary and several 
+SINCs. The Loughor Estuary / Bury 
+Inlet SAC is located 7 km from the 
+Project Site Boundary.  
+Figure 8: Water Quality and Resources Receptors 
+30 
+No part of the Generating Equipment 
+Site is located within in a flood risk 
+zone, 
+as 
+designated 
+by 
+NRW. 
+However a small area on the periphery 
+of the Generating Equipment Site’s 
+eastern boundary is within Zone B 
+(previous 
+evidence 
+of 
+historical 
+flooding) of the TAN15 Development 
+Advice Maps.  
+4.4.1 
+Residual Effects 
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented, specifically the Outline 
+Drainage Strategy.   
+For the purposes of this assessment of 
+residual effects, all identified receptors 
+are classified as either high or medium 
+sensitivity. The assessment found that 
+the magnitude of impact on these 
+receptors 
+was 
+either 
+Minor 
+or 
+Negligible.  
+Construction of the Project 
+There is a potential Negligible effect 
+from 
+discharging 
+water 
+from 
+construction excavations containing 
+increased pollutants and sediment 
+loads from movement of materials to 
+all 
+identified 
+receptors 
+with 
+the 
+exception of the Loughor Estuary, 
+which was considered to have a Minor 
+adverse 
+effect. 
+All 
+effects 
+are 
+considered to be not significant. 
+Operation of the Power Generation 
+Plant 
+Effects from surface water runoff from 
+impermeable areas and disruption of 
+water storage and flow from the 
+presence of the Generating Equipment 
+Site on the Afon Llan and its tributaries 
+are predicted to be Minor adverse. 
+This is therefore not significant.  
+4.4.2 
+Conclusions 
+No residual significant effects have 
+been identified for each component of 
+the Project, or the Project as whole 
+due 
+to 
+the 
+embedded 
+mitigation 
+inherent within the design. Therefore 
+no additional mitigation is required.  
+31 
+4.5 Geology, Ground Conditions 
+and Hydrogeology 
+An
+An assessment has been undertaken 
+to assess the effects of the Project on 
+geology, 
+ground 
+conditions 
+and 
+hydrogeology 
+within 
+and 
+in 
+the 
+immediate vicinity of the Project Site. 
+The chapter also provides details of 
+the geological conditions and the 
+presence of potentially contaminated 
+land. 
+Further to a desk based study (based 
+on a 1 km study area), and Project Site 
+walkover, the assessment identified no 
+landfill sites, groundwater abstraction 
+or pollution incidents within the Project 
+Site.  
+The 
+land-use 
+is 
+predominantly 
+agricultural, used for sheep and horse 
+grazing bounded by drainage ditches, 
+fencing and hedgerows. There are four 
+types of superficial deposits identified 
+across the Project Site comprising of 
+glacial till, deposits of sand and gravel, 
+alluvium deposits of clay, silt, sand and 
+gravel, and peat. The superficial 
+deposits and underlying geology are 
+both 
+classified 
+as 
+Secondary 
+A 
+Aquifers, which are highly sensitive 
+controlled waters.  
+The desk based study does not 
+indicate the presence of any known 
+historical ground workings on the 
+Project Site, however within the 1 km 
+search buffer there are ten records of 
+historical ground working features 
+which have all ceased production.  
+These comprise nine opencast mines 
+producing sandstones and sands and 
+gravel and one underground mine 
+producing coal. There are no known 
+potential sources of contamination 
+within the Project Site Boundary 
+however offsite sources may comprise 
+historic landfill and landfill extension 
+and 
+localised 
+contamination 
+from 
+agricultural land use. 
+The 
+CCS 
+UDP 
+Proposals 
+Map 
+indicates 
+that 
+sand 
+and 
+gravel 
+reserves are present underlying the 
+Project Site. 
+4.5.1 
+Residual Effects  
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented, specifically the ground 
+investigation to be undertaken post-
+consent but prior to construction 
+commencing.  The following table 
+outlines the sensitivity of the receptors 
+identified. 
+ 
+ 
+Receptor 
+Sensitivity 
+Mineral Resources 
+Low 
+Peat Deposits 
+Low 
+Agricultural Land 
+Negligible 
+Structures (stability) 
+High 
+Controlled Waters 
+High 
+Quality of Land 
+High 
+Human Health (const. 
+workers) 
+High 
+Table 7: Sensitive Receptors identified 
+within Geology, Ground Conditions 
+and Hydrogeology
+32 
+Construction 
+of 
+the 
+Power 
+Generation Plant 
+The 
+construction 
+of 
+the 
+Power 
+Generation Plant is predicted to have 
+Minor adverse effects to mineral 
+resources, structures from stability or 
+ground conditions, land quality, human 
+health and controlled waters, with 
+Negligible effects on agricultural land 
+and peat deposits. Therefore these 
+effects are not significant.  
+Construction of the Gas Connection 
+and Electrical Connection 
+The construction of the Electrical 
+Connection and Gas Connection are 
+both predicted to have a Minor 
+adverse effect on mineral resources 
+for both coal and sand and gravel 
+reserves, and a Negligible effect on 
+agricultural land. This is considered to 
+be not significant. 
+Operation of the Project 
+The operational phase is anticipated to 
+have a Minor adverse effect on all 
+receptors from the Power Generation 
+Plant, Gas Connection and Electrical 
+Connection, with the exception of 
+Power Generation Plant structures 
+which have a minor beneficial effect 
+from 
+the 
+stabilisation 
+of 
+ground 
+conditions. 
+4.5.2 
+Conclusion 
+No residual significant effects have 
+been identified for each component of 
+the Project, or the Project as a whole 
+due 
+to 
+the 
+embedded 
+mitigation 
+inherent within the design. Therefore 
+no additional mitigation is required. 
+33 
+4.6 Landscape and Visual Effects 
+The potential landscape and visual 
+effects 
+on 
+local 
+representative 
+viewpoints and residential receptors 
+from the Project have been assessed.  
+A desk based study, Project Site 
+walkover 
+and 
+updated 
+summer 
+photography have been undertaken to 
+re-establish the baseline landscape 
+setting 
+at 
+these 
+viewpoints. 
+The 
+maximum stack height has changed 
+from 40 m to 45 m in this PEIR 
+therefore the areas where the Project 
+can be seen (Zone of Theoretical 
+Visibility (ZTV)) has also been updated 
+but the 15 km study area remains 
+valid.  
+This 
+has 
+validated 
+the 
+previous 
+viewpoints, however Viewpoint 10 has 
+been replaced with Viewpoint 17 as 
+the Project Site visit in November 2017 
+revealed that foreground views now 
+contain solar farms and associated 
+security fencing.  
+The assessment has been updated in 
+response to changes in landscape 
+guidelines, namely new Guidelines for 
+Landscape 
+& 
+Visual 
+Impact 
+Assessment (GLVIA3) which has been 
+published since the 2014 PEIR.  
+The Project Site lies centrally within 
+the Afon Lian Valley which forms a 
+wide lowland basin with higher ground 
+and steep valleys to the north and 
+east. The valley floor is wide and 
+undulating, backed to the north by 
+upland moorland rising to over 250 m 
+AOD and divided by numerous steep, 
+narrow valleys. The Project Site is 
+located within a valley with ground 
+rising to the north, east and west which 
+provides visual containment. Ground 
+levels vary across the Project Site from 
+approximately 140 m AOD in the 
+north-west corner to 80 m AOD along 
+the southern perimeter. Ground levels 
+generally fall in a southerly and south 
+easterly direction. 
+A number of solar farms lie around the 
+Project Site particularly to the north-
+east and east as well as to the north-
+west. The Felindre Business Park 
+adjacent to the Park and Share at 
+Brynwhilhach 
+has 
+been 
+partially 
+constructed with service infrastructure 
+in 
+place 
+along 
+with 
+an 
+outline 
+landscape structure including stone 
+walls and planting. 
+Several designated landscapes are 
+present within the 15 km study area. 
+
+The Brecon Beacons National
+Park lies 11.8 km to the
+northern edge of the Project
+Site at its closest point.
+
+The Gower Area of Outstanding
+Natural Beauty (AONB) lies 9.1
+km to the south-west of the
+Project Site.
+
+The Mawr Uplands Special
+Landscape 
+Area 
+is 
+located
+within the 15 km study area.
+Five LANDMAP areas are within 
+the 15 km study: 
+34 
+
+LANDMAP Aspect Area - Visual
+and Sensory;
+
+LANDMAP 
+Aspect 
+Area 
+–
+Habitat;
+
+LANDMAP 
+Aspect 
+Area 
+–
+Geological;
+
+LANDMAP 
+Aspect 
+Area 
+–
+Historic; and
+
+LANDMAP 
+Aspect 
+Area 
+–
+Cultural.
+4.6.1 
+Residual Effects 
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented.  
+This includes the production of an 
+Outline 
+Landscape 
+Strategy 
+and 
+Landscape & Reinstatement Plan.  
+Construction 
+of 
+the 
+Power 
+Generation Plant 
+A preliminary Landscape Assessment 
+concluded that the Project would 
+visually impact the Project Site and the 
+following LANDMAP Aspect Areas 
+(sensitivity within the Project Site 
+Boundary is annotated overleaf: 
+Figure 9: Viewpoint Location Map (Note – only 15 viewpoints are shown at this scale) 
+35 
+
+Visual and Sensory Aspect
+Areas 
+– 
+Rhyd-y-pandy 
+and
+Penllergaer 
+forest 
+(Moderate
+sensitivity);
+
+Landscape 
+Habitats 
+Aspect
+Areas – North of Gorseinon and
+Swansea (Moderate sensitivity);
+East 
+of 
+Penllergaer 
+(High
+sensitivity) and Waun Y Garn
+Wen (High sensitivity);
+
+Historic Landscape Aspect Area
+–
+H27 Gower Supraboscus
+Agricultural 
+(Outstanding 
+sensitivity);
+
+Geological Landscape Aspect
+Area 
+– 
+Penllergaer 
+(Outstanding sensitivity); and
+
+Cultural 
+Landscape 
+Aspect
+Area 
+– 
+The 
+Mawr 
+(High
+sensitivity).
+During the construction phase of 
+works, 
+significant 
+adverse 
+effects 
+would be limited to the LANDMAP 
+Aspect areas at a Project Site level 
+and five of the eighteen viewpoints (as 
+illustrated by viewpoints 9, 14, 15, 16 
+and 
+17), 
+where 
+the 
+embedded 
+mitigation would not be sufficient to 
+reduce 
+these 
+significant 
+adverse 
+effects.  
+Once 
+operational 
+the 
+embedded 
+landscape mitigation would assist in 
+screening lower parts of the Power 
+Generation Plant but would not be 
+sufficient to reduce significant adverse 
+effects on the LANDMAP Aspect areas 
+at a Project Site level and from five of 
+the eighteen viewpoints. This is due to 
+the scale and mass of the Power 
+Generation Plant and height of the 
+stack.  
+Effects 
+on 
+visual 
+amenity 
+from 
+viewpoints 9, 14, 15, 16 and 17 are 
+Moderate or Major adverse, which is 
+significant. 
+All 
+other 
+remaining 
+viewpoints conclude Minor adverse 
+effects or Negligible, which is not 
+significant.   
+Construction of the Gas Connection 
+Construction of the Gas Connection 
+would affect the Public Right of Way, 
+north of Abergelli fach (viewpoint 9), 
+resulting in a Moderate effect. This is 
+considered to be significant, however 
+this effect is temporary as the trench 
+would be reinstated post-construction.  
+Construction 
+of 
+the 
+Electrical 
+Connection 
+Construction 
+of 
+the 
+Electrical 
+Connection 
+would 
+not 
+have 
+any 
+significant effects on the landscape 
+and visual receptors due to its location 
+beside the Access Road and the 
+temporary trench being reinstated after 
+construction.  
+Operation of the Power Generation 
+Plant 
+The Project would impact the same 
+five 
+representative 
+viewpoints 
+(viewpoints 9, 14, 15, 16 and 17) as 
+during construction, with Moderate to 
+Major effect, which are therefore 
+considered significant.  
+The landscape resource contained 
+within the 5 km study area and the 
+majority 
+of 
+viewpoints 
+would 
+not 
+experience significant adverse effects.  
+36 
+The Project Site lies within a valley 
+which combined with the existing 
+woodland and undulating topography 
+provides a high degree of visual 
+containment. Views from local roads 
+are screened or filtered by hedgerows 
+and earth banks. Views overlooking 
+the Project Site from higher ground to 
+the north and from more distant views 
+to the south east near to the Gower 
+AONB would not experience significant 
+effects due to the intervening distance, 
+vegetation and built form. Where views 
+of the upper parts of the Power 
+Generation Plant and stack are visible 
+in the middle distance of views, they 
+would be seen in the context of the 
+existing 
+network 
+of 
+pylons 
+and 
+transmission lines as well as the tall 
+structures present at the Felindre Gas 
+Compressor Station and Substation. 
+As a result significant residual effects 
+on the landscape and visual resource 
+are localised and not extensive.  
+4.6.2 
+Conclusions & Next Steps 
+Significant effects have been identified 
+on the LANDMAP Aspect Areas, 
+Viewpoints 
+9 
+and 
+14-17 
+during 
+construction and operation of the 
+Power Generation Plant.  
+During the consultation period, APL 
+will continue to liaise with CCS and 
+NRW regarding additional viewpoints. 
+In addition, winter photography used 
+for photomontages will be updated and 
+included within the DCO Application. 
+Therefore the DCO Application will 
+include additional information and an 
+updated 
+landscape 
+and 
+visual 
+assessment.  
+Figure 10: Visualisations of the Project (in red) from Public Right of 
+Way, north of Aber-gelli fach (View Point 9) 
+Figure 11: Visualisation of the Project (in red) from the M4 (View Point 1) 
+37 
+4.7 Traffic, Transport, and Access 
+This chapter provides a preliminary 
+assessment of the likely transport 
+effects. A Transport Assessment has 
+been undertaken and a Construction 
+Traffic Management Plan (CTMP) and 
+a 
+Construction 
+Staff 
+Travel 
+Plan 
+(CSTP) will also be prepared for and 
+submitted with the DCO Application. 
+The study area includes the Access 
+Road between the Project Site and the 
+B4489 
+and 
+continues 
+south 
+to 
+incorporate the M4 Junction 46 and 
+the A48/Pant Lasau Road junction. 
+This baseline study area was selected 
+to include the necessary junctions, key 
+links, 
+pedestrian 
+routes 
+(PRoWs, 
+cycleways and footways), and Project 
+access routes and these have been 
+agreed with CCS. The following key 
+links have been identified: 
+The key links are as follows:  
+
+Link 1 – B4489, between the
+Access Road and the Felindre
+Park and Share facility;
+
+Link 2 – B4489, between the
+Felindre Park and Share facility
+and the M4 Junction 46;
+
+Link 3 – M4 eastbound on-slip;
+
+Link 4 – A48, between the
+northern and southern dumbbell
+roundabouts of the M4 Junction
+46;
+
+Link 5 – M4 westbound off-slip;
+
+Link 6 – A48, between the M4
+Junction 46 and the A48/Pant
+Lasau Road mini-roundabout;
+
+Link 7 – Pant Lasau Road;
+
+Link 8 – A48, southeast of the
+A48/Pant 
+Lasau 
+mini-
+roundabout;
+
+Link 9 – B4489, south of the M4
+Junction 46; and
+
+Link 10 – A48, southwest of the
+M4 Junction 46.
+Footpaths LC34 and LC117 cross the 
+Access Road (and the new Access 
+Road) at points approximately 350 m 
+and 1.3 km from the B4489. Footpath 
+LC35B passes through the northern 
+part of the Project Site. 
+A baseline study and a traffic count 
+survey were undertaken to identify the 
+baseline conditions in the vicinity of the 
+Project 
+Site; 
+including 
+the 
+local 
+highway 
+network 
+and 
+operational 
+conditions, 
+road 
+safety 
+and 
+accessibility by sustainable modes 
+such as cycle routes and footpaths. 
+The transport assessment has only 
+assessed 
+construction 
+traffic 
+as 
+operational traffic is considered to be 
+negligible and is therefore scoped out 
+of this assessment.  
+4.7.1 
+Residual Effects 
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented. 
+Receptors 
+relating 
+to 
+severance, 
+pedestrian delay, pedestrian amenity, 
+and 
+fear 
+and 
+intimidation 
+are 
+associated 
+primarily 
+with 
+the 
+pedestrian 
+experience 
+based 
+on 
+38 
+changes 
+in 
+the 
+volume 
+and 
+composition of traffic. An increase in 
+traffic volumes and HGV composition 
+can result in difficulties for pedestrians 
+when crossing roads and affect the 
+pleasantness of journeys. 
+Construction 
+of 
+the 
+Power 
+Generation Plant 
+The majority of the transport links 
+within the assessment will experience 
+a Minor adverse effect during the 
+peak hour for Severance, Pedestrian 
+Delay, Amenity, Fear and Intimidation, 
+which is therefore considered not 
+significant.  
+Effects to Link 1 and the footpaths 
+which cross within the Project Site 
+Boundary, 
+are 
+considered 
+to 
+be 
+Moderate due to pedestrian and user 
+experience, and therefore significant.   
+There was also found to be an 
+increased delay on B4489 due to the 
+Power Generation Plant which is 
+considered Minor adverse, and a 
+reduced delay on M4 East Bound and 
+West 
+Bound 
+Off-Slip 
+which 
+is 
+considered Minor beneficial. This is 
+as a result of changes in the balance 
+of traffic flows at the junction, which 
+will result in more gaps for traffic 
+exiting from these arms as priorities 
+are changed. This will result in a 
+reduction in the level of delay of the 
+arms benefitting from traffic flow 
+balancing and an increase in arms 
+which are forced to concede priority 
+more than before flows were balanced.   
+Construction of the Gas Connection  
+The Gas Connection is predicted to 
+cause Minor adverse effects from 
+increased HGV weekday movements 
+at Link 1, and Moderate effects on 
+footpaths due to temporary closures 
+and 
+pedestrian 
+experience 
+during 
+construction. Effects to driver delay, 
+Accidents and Safety and weekday 
+total traffic for the morning and 
+afternoon are to be confirmed in the 
+DCO Application. 
+Construction 
+of 
+the 
+Electrical 
+Connection  
+There is expected to be a Moderate 
+effect on footpaths during construction 
+of the Electrical Connection due to 
+temporary closures and pedestrian 
+experience. This is considered a 
+significant effect.  
+Effects to driver delay, Accidents and 
+Safety and weekday total traffic for the 
+morning and afternoon are to be 
+confirmed in the DCO Application.  
+Conclusion and Next Steps 
+This chapter has identified effects to 
+the highway network, road safety and 
+accessibility. Significant effects have 
+been predicted during the construction 
+phase from the Project, although these 
+would be temporary. No effects during 
+the operation of any components of 
+the Project have been identified. 
+Consultation with CCS Highways will 
+continue 
+through 
+the 
+consultation 
+period and the impact assessment 
+updated for DCO Application.  
+39 
+4.8 Historic Environment 
+The potential effects from the Project 
+on the historic environmental resource 
+of the Project Site and surrounding 
+area have been assessed.  
+A 1 km study area for the desk based 
+assessment of historic assets and 
+further consultation with CCS, Cadw 
+and Glamorgan-Gwent Archaeological 
+Trust (GGAT) has been undertaken to 
+inform the updated assessment.   
+The revised ZTV prepared for the 
+landscape and visual chapter has also 
+been reviewed due to the change in 
+stack height to 45 m, and therefore the 
+5 km study area for the assessment of 
+designated historical assets has been 
+updated.   
+The Project Site contains no historic 
+assets 
+although 
+one 
+scheduled 
+monument, one listed building and 28 
+non-scheduled 
+monuments 
+are 
+present within the 1 km study area, 
+and 16 Scheduled Monuments, 52 
+Listed Buildings (all grades), two 
+Conservation 
+Areas 
+and 
+three 
+Registered 
+Historic 
+Parks 
+and 
+Gardens are present within the 5 km 
+study area.  
+4.8.1 
+Residual Effects  
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented. 
+Construction 
+of 
+the 
+Power 
+Generation Plant 
+Construction of the Power Generation 
+Plant will not have a physical impact 
+on any known historic asset. No known 
+historic assets exist within its footprint. 
+Therefore this is a Negligible effect.  
+The potential for significant unknown 
+archaeology existing within the Project 
+Site is considered to be low, with the 
+possibility 
+of 
+its 
+discovery 
+being 
+adequately 
+addressed 
+through 
+a 
+watching 
+brief 
+post-consent, 
+pre-
+construction.  
+Construction of the Gas Connection  
+Construction of the Gas Connection 
+will not have a significant physical 
+impact on any known historic asset, 
+with the exception of where the Gas 
+Pipeline crosses a small percentage of 
+a historic boundary (feature reference 
+AB03), therefore requiring its removal. 
+As 
+this 
+feature 
+was 
+already 
+substantially 
+altered 
+when 
+the 
+preceding Oil Pipeline was installed, it 
+is considered that little of the original 
+historic fabric remains, and therefore 
+the 
+effect 
+is 
+considered 
+to 
+be 
+Negligible. 
+The Gas Connection will also run 
+parallel to a second historic boundary 
+(feature 
+reference 
+AB04), 
+which 
+coincides with the western limit of the 
+Project Site boundary. However, a 
+Negligible effect is anticipated due to 
+the proximity of the Gas Pipeline to the 
+historic boundary of approximately 
+25 m. 
+40 
+Therefore 
+the 
+effects 
+during 
+construction of the Power Generation 
+Plant are not significant.  
+Construction 
+of 
+the 
+Electrical 
+Connection 
+Construction 
+of 
+the 
+Electrical 
+Connection will not have a physical 
+impact on any known historic asset. 
+Therefore this is a Negligible effect.  
+Operation of the Power Generation 
+Plant 
+No 
+below 
+ground 
+disturbance 
+is 
+envisaged 
+during 
+the 
+operational 
+phase 
+for 
+any 
+operational 
+or 
+maintenance activity, therefore there 
+will be no further impact upon below 
+ground archaeological remains once 
+the Project is operational.  
+The Llansemlet Conservation Area 
+(feature reference CA027), Penllergaer 
+Park and Garden (feature reference 
+GM054) and several listed buildings lie 
+within the 5 km study area, and from 
+these locations the stack may be 
+visible. However, given the intervening 
+landscape 
+has 
+been 
+significantly 
+developed, it is not anticipated that the 
+Conservation Area, Park and Garden 
+and Listed Buildings will be adversely 
+affected by the Project.  
+It is anticipated that Project may be 
+slightly visible from the Scheduled 
+Ancient Monument (Mynydd Pysodlyn 
+Round 
+Barrow) 
+and 
+therefore 
+is 
+considered to have a Minor adverse 
+effect on the basis of its High value 
+sensitivity. 
+However 
+this 
+is 
+not 
+significant.  
+Conclusion & Next Steps 
+The assessment of the Project’s 
+effects on the setting of historic assets 
+is at an interim stage. The DCO 
+Application 
+will 
+include 
+winter 
+photography from the Landscape and 
+Visual Impact Assessment, as well as 
+additional viewpoints to inform an 
+updated assessment.  
+At this PEIR stage, it is concluded that 
+while widely visible within the 5 km 
+Study 
+Area 
+adopted 
+for 
+this 
+assessment, the Project will have only 
+a very limited effect on the setting of 
+historic 
+assets. 
+A 
+single 
+Minor 
+adverse effect is predicted, with no 
+other assets affected by the presence 
+of the Project. Therefore no additional 
+mitigation is required.  
+41 
+4.9 Socio-Economics 
+This chapter provides an assessment 
+of the likely socio-economic effects on 
+the labour market, tourism economy, 
+and community infrastructure arising 
+from the Project. 
+The socio-economic study area is 
+based on drive time catchment areas 
+from the Project. The ‘local area’ is 
+defined within a 30-minute drive time; 
+‘wider area’ within a 45-minute drive 
+time; and ‘wider region’ within a 60-
+minute drive time. This study area has 
+identified a readily available labour 
+force, with a high number of manual 
+labourers.   
+The tourism/business survey study 
+area is limited to a 10 km radius of the 
+Projects this is where the majority of 
+impacts are anticipated. A desk based 
+study was undertaken which identified 
+a limited number of tourist attractions 
+within the Project Site Boundary, which 
+are the Cwm Clydach Nature Reserve, 
+National Cycle Route 43 and the 
+Teamforce Paintball and Laser Tag 
+Activity Centre.  
+4.9.1 Residual Effects 
+The assessment of residual effects 
+below assumes that the embedded 
+mitigation (described in Section 2.10) 
+is implemented. 
+Construction of the Project  
+The 
+construction 
+of 
+the 
+Power 
+Generation Plant, Gas Connection and 
+Electrical Connection is predicted to 
+have Negligible effects on tourism, 
+business, and communities during 
+construction. The National Route 43 is 
+likely to experience Minor adverse 
+effects 
+during 
+construction. 
+The 
+Project as a whole is expected to have 
+Minor adverse effect on community 
+Infrastructure receptors but Negligible 
+beneficial effects on Labour Markets. 
+Overall 
+these 
+effects 
+are 
+not 
+significant. 
+Operation of the Project 
+The operation of the Power Generation 
+Plant, Gas Connection and Electrical 
+Connection 
+is 
+predicted 
+to 
+have 
+Negligible 
+effects 
+on 
+tourism, 
+business, and communities during 
+operation. The National Route 43 is 
+likely to experience Minor adverse 
+effects during operation. The Project 
+as a whole is expected to have Minor 
+adverse 
+effect 
+on 
+community 
+Infrastructure receptors but Negligible 
+beneficial effects on Labour Markets.  
+Overall 
+these 
+effects 
+are 
+not 
+significant. 
+4.9.2 Conclusions  
+The 
+Project 
+will 
+not 
+have 
+any 
+significant adverse effects on tourism 
+and recreation receptors in the area 
+during 
+construction 
+or 
+operation. 
+Beneficial employment effects can 
+however 
+be 
+enhanced 
+through 
+linkages with job centres, colleges, 
+employability 
+programmes 
+and 
+engagement with local construction 
+firms 
+and 
+other 
+supply 
+chain 
+companies.
+42 
+4.10 Other Effects 
+This chapter addresses topics that are 
+not specifically addressed in the 
+context of the main topic chapters 
+elsewhere in this PEIR, or effects 
+which are not considered to merit a 
+chapter in their own right, but have 
+been considered in line with requests 
+from consultees, including through the 
+Scoping Opinion.  
+Effects 
+during 
+Construction 
+& 
+Decommissioning Phase 
+Waste: Waste material may arise 
+during 
+the 
+construction 
+and 
+decommissioning of the Project.  The 
+Regional Waste Plan (Ref. 6) confirms 
+that there is a good provision of waste 
+management capacity in South West 
+Wales to cover all types of waste 
+arisings 
+including 
+industrial, 
+construction 
+and 
+decommissioning, 
+and hazardous waste. 
+The 
+Project 
+will 
+operate 
+in 
+full 
+accordance with the Waste Framework 
+Directive (Ref. 7), together with the 
+Environmental 
+Permitting 
+(England 
+and Wales) Regulations 2016 (Ref. 8) 
+and the Waste (England and Wales) 
+Regulations 2011 (Ref. 9). 
+Public Health: Public Health England 
+(PHE) identified the local population as 
+a sensitive receptor. Effects on human 
+health 
+from 
+noise, 
+air 
+quality, 
+nuisance, dust, ground contamination 
+and pollution have been addressed in 
+the relevant topic chapters and are the 
+subject of embedded and additional 
+mitigation where required. No likely 
+significant effects during construction 
+and operation have been identified.  
+Health and Safety: The site manager 
+will have the day to day responsibility 
+for maintaining Health and Safety, and 
+will produce a risk assessment and 
+method statement detailing how they 
+will minimise the risk. An approved 
+procedure will:  
+-
+Identify the significant Health &
+Safety 
+impacts 
+that 
+can 
+be
+anticipated;
+-
+Assess 
+the 
+risks 
+from 
+these
+impacts;
+-
+Identify the control measures to be
+taken and re-calculate the risk;
+-
+Report where an inappropriate
+level of residual risk is identified so
+that action can be taken.
+The employer will ensure that a 
+qualified first-aider can be provided at 
+all times. Appropriately equipped first-
+aid stations will be easily accessible 
+throughout the place of work. 
+There will be no access to construction 
+areas by the general public. The 
+Project Site will be secured to avoid 
+unauthorised access. 
+Effects during Operational Phase 
+Waste: During operation of the Power 
+Generation Plant, a small amount of 
+waste will arise. This generated waste 
+will 
+include 
+waste 
+that 
+is 
+both 
+hazardous 
+and 
+non-hazardous 
+in 
+nature. Appropriate treatment facilities 
+exist locally, and waste produced by 
+43 
+the Project will have a Negligible 
+effect. 
+Public Health: There are three main 
+likely significant effects on human 
+health as follows: 
+
+An “Electromagnetic Field” (EMF)
+is a physical phenomenon that is
+produced by electrically charged
+objects.  Underground cables, such
+as the one proposed for the
+Electrical 
+Connection 
+of 
+the
+Project, do not give rise to electric
+fields above ground due to the
+shielding effect of the cable sheath.
+The general public will thus not be
+exposed to any increase in EMFs
+from the Electrical Connection and
+there will be Negligible effects
+arising from EMFs.
+
+There is the potential for effects
+from 
+air 
+quality 
+arising 
+from
+operation of the Project which are
+associated 
+with 
+the 
+stack
+emissions from the combustion of
+natural gas in the Generating
+Equipment releasing emissions of
+NOx. However, the Project has
+been designed to meet air quality
+standards at sensitive receptors.
+Modern gas-fired power plants are
+also inherently clean and produce
+far fewer emissions than other
+fossil fuel power plants (e.g. coal)
+when compared on an energy
+output basis.
+
+There is potential for effects from
+noise arising from the operation of
+the Power Generation Plant to
+impact human health. However
+with the applicable of Best Practical
+Means, Best Available Techniques,
+DCO Requirement for operational
+noise levels and compliance with 
+the Environmental Permit, it is 
+unlikely that there will be any 
+significant effects.  
+Therefore, no significant health effects 
+are anticipated as a result of the 
+operation of the Project on public 
+health. 
+Climate Change: Climate resilience 
+has been built into the Project. The 
+Project will contribute to UK emissions, 
+but impacts on climate change from 
+CO2 
+emissions 
+are 
+considered 
+Negligible.  
+Aviation: Abertawe Bro Morgannwg 
+University Health Board confirmed that 
+the stack will be just over 1.5 km away. 
+As such they will not affect the (Bond 
+Air Services) operations in and out of 
+Swansea Morriston Hospital. 
+Health 
+and 
+Safety: 
+Routine 
+maintenance 
+of 
+the 
+Generating 
+Equipment 
+would 
+take 
+place 
+on 
+average once every six months. Bi-
+annual inspections will also take place 
+to 
+assess 
+general 
+condition. 
+Inspections to replace or refurbish 
+combustion and turbine ‘hot parts’ 
+equipment are typically carried out 
+approximately every six years.  
+In the event of an issue with the 
+Generating Equipment, alarms would 
+signal 
+any 
+instance 
+of 
+abnormal 
+operation. These alarms would not be 
+audible externally. The plant would be 
+shut 
+down 
+immediately 
+in 
+such 
+instances and, if required, additional 
+engineering staff would attend the 
+Project 
+Site. 
+The 
+Generating 
+44 
+Equipment would not start up again 
+until the issue had been resolved. 
+The effect on health and safety is 
+considered Negligible. 
+Major 
+Accidents: 
+The 
+Project’s 
+vulnerability to risk of major accidents 
+and disasters has been considered: 
+a) In an air quality event where
+metrological conditions such as
+prevailing winds or inversion result
+in reduced air quality, the Project,
+as an emitter to air, has the
+potential to exacerbate the effect
+of 
+the 
+event. 
+Operational
+emissions 
+will 
+be 
+controlled
+through the Environment Permit.
+b) Given the nature of natural gas
+there is an inherent risk of both
+fire and gas leak associated with
+the Project from its supply and
+use. This will be managed through
+established 
+industry 
+safety 
+procedures and standards.  
+c) Workers are the most at risk from
+engineering 
+and 
+industrial
+accidents, due to the distance
+from residential areas. There is
+legislation in force to ensure the
+protection 
+of 
+workers 
+in 
+the
+workplace.
+d) Proximity 
+to 
+third 
+party
+infrastructure such as the Felindre
+Gas 
+Compressor 
+Station, 
+the
+Substation, the Water Main and
+the National Gas Transmission
+System. 
+Mitigation 
+has 
+been
+embedded via the design of the
+Project 
+by 
+implementing
+appropriate 
+minimum 
+distances
+and having due regard to the
+required 
+standoff 
+distances
+between the Project and these
+infrastructure 
+features.
+45 
+5.
+Cumulative Effects
+In 
+accordance 
+with 
+the 
+EIA 
+Regulations, 
+the 
+EIA 
+has 
+given 
+consideration to ‘cumulative effects’. 
+Two types of effect have been 
+considered: 
+Intra-project effects – These occur 
+where a single receptor is affected by 
+more than one source of effect arising 
+from different aspects of the Project. 
+This is also known as “in-combination 
+effects”.  An example of an intra-
+project effect would be where a local 
+resident is affected by dust, noise and 
+traffic 
+disruption 
+during 
+the 
+construction of a scheme, with the 
+result being a greater nuisance than 
+each individual effect alone; and  
+Inter-project effects – These effects 
+occur as a result of a number of past 
+(projects which have been granted 
+planning permission), present (projects 
+currently in the planning process but 
+not 
+yet 
+granted 
+permission) 
+or 
+reasonably 
+foreseeable 
+proposed 
+developments, which individually might 
+not be significant, but when considered 
+together could create a significant 
+cumulative effect on a shared receptor, 
+and 
+could 
+include 
+developments 
+separate from or related to the Project.  
+Generally, it is not anticipated that any 
+future development in the area would 
+change 
+the 
+significance 
+of 
+the 
+predicted residual effects associated 
+with the Project.  
+Intra-Project 
+effects 
+on 
+Shared 
+Receptors  
+Shared 
+receptors 
+from 
+individual 
+elements 
+of 
+the 
+Project 
+(e.g. 
+construction 
+of 
+Power 
+Generation 
+Plant, Gas Connection and Electrical 
+Connection) are likely to be limited to 
+nearby residential dwellings and local 
+communities: 
+Due to the application of embedded 
+and additional mitigation measures 
+(such as the avoidance of habitats, the 
+CEMP and topic specific management 
+plans) which ensure that potential 
+significant effects on shared receptors 
+are unlikely, or the absence of any in-
+combination 
+effects 
+on 
+shared 
+receptors, the following topics are 
+scoped out from the intra-project 
+cumulative assessment:  
+
+Ecology - due to the embedded
+and additional mitigation, there
+is unlikely to be any cumulative
+effects 
+from 
+multiple
+components 
+of 
+the 
+Project
+working 
+simultaneously
+affecting several species. In
+addition, the total permanent
+habitat loss will be mitigated by
+the creation of the Ecological
+Mitigation 
+Area 
+and 
+/ 
+or
+enhancements 
+via 
+the 
+Landscaping
+and
+Reinstatement Plan;  
+
+Socio-economic;
+
+Historic Environment; and
+ 
+46 
+ 
+ Geology, 
+Ground 
+Conditions 
+and Hydrogeology. 
+Potential 
+intra-project 
+cumulative 
+effects at the shared receptors may 
+comprise of the following during the 
+construction phase:  
+ Noise effects;  
+ Views from residential dwellings 
+and PRoWs;  
+ Potential effects on waterbodies 
+and water based receptors from 
+increased 
+risk 
+of 
+sediment 
+runoff and polluted discharges 
+during the construction phase; 
+ Traffic effects from increased 
+vehicle numbers during the 
+construction phase; and  
+ Production of dust during the 
+construction phase. 
+Construction of the Project was a 
+whole will result in construction activity 
+not previously present and additional 
+vehicles along access routes. This 
+creates an increase in traffic flows for 
+all Project components, disruption of 
+views and potential production of 
+noise, dust and air pollutants from the 
+Project 
+as 
+a 
+whole 
+during 
+the 
+construction period. This may have an 
+effect 
+on 
+local 
+communities 
+and 
+nearby 
+residential 
+dwellings. 
+As 
+embedded and additional mitigation is 
+proposed within the individual topic 
+chapters (such as a CTMP and 
+CEMP), this will result in a Minor 
+adverse in-combination effect, which 
+is not significant.  
+Inter-Project Cumulative Effects  
+A review of the planning applications 
+and proposed developments within a 5 
+km study area around the Project was 
+undertaken 
+to 
+scope 
+any 
+other 
+developments that were considered to 
+constitute 
+‘major 
+development’ 
+schemes. 
+A 
+further 
+review 
+was 
+undertaken to determine which of 
+these developments had the potential 
+to result in likely significant cumulative 
+effects when considered alongside the 
+Project within each individual technical 
+chapter.  
+Further to liaison with CCS, a “long 
+list” of projects already consented and 
+in construction, or consented but not 
+yet implemented, in addition to those 
+allocated 
+within 
+the 
+Local 
+Development 
+Plan 
+(LDP) 
+or 
+applications made but not yet decided, 
+was agreed. The “long list” was then 
+reviewed and refined, resulting in a 
+short 
+list 
+of 
+developments 
+being 
+identified as having the potential for 
+cumulative effects with the Project, 
+and which are considered below.  
+There 
+are 
+no 
+other 
+major 
+developments present within the 5 km 
+study area. 
+Inter-project effects fall into two types:  
+Inter-cumulative effects on shared 
+receptors and intensification of effects 
+on shared receptors. 
+Inter-cumulative 
+effects 
+are 
+when 
+multiple types of effects act on a 
+shared 
+receptor. 
+For 
+an 
+inter-
+cumulative 
+effect 
+to 
+be 
+present, 
+cumulative effects must be identified 
+across two or more topic chapters for a 
+shared receptor(s) when assessing the 
+Project 
+cumulatively 
+with 
+another 
+development. 
+The 
+assessment 
+of 
+these effects is presented in Table 8. 
+ 
+47 
+ 
+The PEIR also identifies cumulative 
+effects of intensification of effects in 
+individual topic areas. This type of 
+cumulative effect arises when effects 
+of a specific nature (for example, 
+noise, landscape and visual) are 
+intensified at a shared receptor when a 
+Project is assessed cumulatively with 
+another 
+development. 
+ 
+The 
+assessment 
+of 
+these 
+effects 
+is 
+presented in Table 9. 
+  
+ 
+Development Status 
+Potential for 
+Cumulative 
+Effects  
+Cumulative Assessment on 
+Shared Receptors 
+Mynydd Y 
+Gwair 
+windfarm  
+Under 
+construction 
+and 
+will 
+be 
+operational prior to 
+the commencement 
+of the Project 
+Construction 
+Traffic 
+ 
+Landscape 
+& 
+Visual 
+Construction traffic will not 
+have any likely significant 
+effects due to the different 
+timing 
+of 
+construction 
+phases.  
+ 
+It is not considered that any 
+landscape 
+and 
+visual 
+cumulative effects will be 
+possible during operation due 
+to the ensuing topography 
+and 
+landscape 
+disrupting 
+views of the Project in shared 
+distant views from the Mawr 
+LANDMAP Aspects Area and 
+Brecon 
+Beacons 
+National 
+Park. Therefore no significant 
+cumulative 
+effects 
+are 
+predicted. 
+Proposed 
+sustainable 
+urban village 
+at Felindre 
+and other 
+allocated 
+sites 
+Proposed in the LDP N/A 
+This has been scoped out of 
+the cumulative assessment 
+as there are very limited 
+details about the scale and 
+nature 
+of 
+the 
+proposed 
+developments in which to 
+form 
+a 
+robust 
+basis 
+for 
+assessment 
+Felindre 
+Business 
+Park 
+Partially constructed 
+with Plot 8 permitted, 
+but 
+not 
+yet 
+in 
+construction 
+Landscape 
+& 
+Visual 
+ 
+Construction 
+Traffic 
+The Landscape Character 
+around the Project Site and 
+visual amenity viewpoints 9 
+and 15 are expected to 
+experience 
+cumulative 
+effects 
+with 
+the 
+Felindre 
+Business Park during the 
+construction phase of the 
+Table 8: Inter-Cumulative Effects on Shared Receptors
+ 
+48 
+ 
+Development Status 
+Potential for 
+Cumulative 
+Effects  
+Cumulative Assessment on 
+Shared Receptors 
+Project 
+due 
+to 
+views 
+containing 
+construction 
+equipment, 
+lighting 
+and 
+construction activities. This is 
+expected to result in Minor 
+adverse effects, which is not 
+significant. During operation, 
+both 
+developments 
+would 
+experience 
+cumulative 
+effects due to changes in 
+landscape 
+character, 
+landform 
+and 
+presence. 
+However 
+these 
+are 
+also 
+considered 
+to 
+be 
+Minor 
+adverse, and therefore not 
+significant. 
+ 
+As the construction traffic 
+cumulative 
+assessment 
+assumes all developments, 
+the residual cumulative effect 
+for pedestrian experience will 
+be 
+Minor 
+to 
+Moderate 
+adverse. There will also be a 
+moderate adverse effect on 
+driver delay on the B4489 
+(North) and a major adverse
+effect on the B4489 (South). 
+Whilst 
+these 
+effects 
+are 
+significant, no mitigation is 
+considered to be required 
+due to the temporary effect 
+during construction.  
+ 
+There 
+are 
+no 
+other 
+major 
+developments present within the 5 km 
+study area. In addition to the inter-
+cumulative, the PEIR also identifies 
+cumulative effects. Cumulative effects 
+arise when effects of a specific nature 
+(for example, noise, landscape and 
+visual) are intensified when a Project is 
+assessed cumulatively with another 
+development.  
+ 
+Table 9 presents the assessment of 
+these 
+cumulative 
+effects 
+for 
+the 
+Project. 
+ 
+ 
+ 
+ 
+ 
+49 
+ 
+ 
+ 
+Topic 
+Cumulative Intensification Effects within Individual Topics 
+Air Quality 
+There are no other permitted or proposed developments within 
+the study area which may result in air quality impacts during 
+construction, or any other large combustion sources currently or 
+proposed to be in operation.  
+ 
+The maximum effects of the Project occur away from major roads 
+and urban areas. It is therefore unlikely that there will be 
+cumulative effects at the main roads during the construction 
+phase. 
+Noise & Vibration The Project does not share any residential receptors which may 
+be cumulatively affected by the Project in addition to other 
+developments in the area. This is due to an absence of effect, no 
+overlap in construction or operational durations or due to 
+remoteness of other developments  
+Ecology 
+The Project does not share any ecological receptors which may 
+be cumulatively affected by the Project and other developments 
+in the area. This is due to an absence of effect, no overlap in 
+construction or operational durations, or due to remoteness from 
+other developments.  
+Water Resources  The Project does not share any receptors which may be 
+cumulatively affected by the Project and other developments in 
+the area. 
+Ground 
+Conditions 
+No cumulative effects are anticipated with other developments in 
+the area due the distance and proximity, and no shared receptors 
+from components of the Project interacting with each other 
+simultaneously during the construction phase which cannot be 
+mitigated by the embedded mitigation. 
+Landscape 
+& 
+Visual  
+The Landscape Character around the Project Site and visual 
+amenity viewpoints 9 and 15 are expected to experience 
+cumulative effects with other developments outlined below during 
+the construction phase of the Project due to views contained 
+construction equipment, lighting and construction activities: 
+ 
+ Brynwhilach solar park (under construction, and will be 
+installed and operational prior to the commencement of the 
+Project); 
+ Former J R Steelworks, Bryntywood (under construction); 
+ Llettyr Morfill farm (permitted, not implemented); and 
+ Griffiths 
+Waste 
+Management 
+Site 
+(permitted, 
+not 
+implemented). 
+ 
+Cumulative magnitude of change would be Low, due to 
+topography distance and duration of simultaneous construction 
+phases, which combined with the Medium sensitivity would result 
+in a Minor adverse cumulative effect which is not significant. 
+Table 9: Cumulative Assessment within Individual Topics 
+ 
+50 
+ 
+Topic 
+Cumulative Intensification Effects within Individual Topics 
+ 
+The same receptors would also experience cumulative effects 
+during the operation of the Project and other developments due 
+to changes in landscape character, landform and presence. 
+However these are also considered to be Minor adverse, and 
+therefore not significant. 
+Traffic, Transport 
+& Access 
+Four developments are considered to have a potential cumulative 
+effect on traffic, transport and access during construction. These 
+are:  
+ Tyle Coch Mawr Wind Farm (permitted, not implemented); 
+ Llettyr Morfill farm (permitted, not implemented); 
+ Land North of Garden Village, Swansea (submitted but not 
+determined); and  
+ Land West of Llangyfelach Road, Tirdeunaw (submitted 
+but not determined). 
+ 
+The cumulative assessment has identified that there will be no 
+change in the significance of effects relating to the pedestrian 
+experience (severance, pedestrian amenity, pedestrian delay, 
+fear and intimidation). The residual cumulative effect will be 
+Minor to Moderate adverse. No mitigation is considered to be 
+required due to the temporary effect during construction. 
+In respect of driver delay, it has been identified that will be a 
+change in the significance of effect, primarily during the AM peak 
+hour. There will be a minor adverse effect on the A48 
+(Southwest), and the M4 eastbound and westbound off-slips. 
+There will be a moderate adverse on the B4489 (North) and a 
+major adverse effect on the B4489 (South). During the PM peak 
+hour, there will be a minor adverse effect on the A48 
+(Southwest) and a moderate adverse effect on Pant Lasau 
+Road. Whilst these effects are significant, the contribution of the 
+Project will be temporary in nature and does not require the 
+delivery of mitigation measures such as capacity improvements. 
+In addition, observations in 2017 suggest that the junctions 
+assessed are currently operating with a greater level of capacity 
+than what has been reported and assessed using the 2014 traffic 
+survey data. 
+Historic 
+Environment 
+There is no potential for any likely significant effects from the 
+Project and other developments within the area because: 
+ The direct physical effects of the Project on known 
+archaeological or historical assets is negligible and 
+therefore cannot contribute in any meaningful way to any 
+wider significant, comparable, losses to the cultural 
+heritage resource.  
+ 
+51 
+ 
+Topic 
+Cumulative Intensification Effects within Individual Topics 
+- 
+There are no significant effects upon the setting of historic 
+assets predicted. 
+- 
+Scheduled Monument GM202 is not affected by other 
+identified development.  
+Socio-economics No cumulative effects are anticipated with socio-economics as 
+there is enough labour capacity to accommodate cumulative 
+projects as other planned projects could be developed 
+concurrently without creating labour market distortions or placing 
+pressure on accommodation providers.  Therefore no significant 
+cumulative effects are anticipated.   
+  
+ 
+ 
+ 
+ 
+52 
+ 
+6. Conclusions and Next Steps 
+ 
+This Non-Technical Summary outlines the findings of the 2018 Preliminary 
+Environmental Information Report (PEIR) for the Abergelli Power Project. The 
+construction and operation of the Project has the potential to have effects on the 
+natural environment and nearby human receptors. 
+The PEIR concludes that the Project is likely to have mainly Minor adverse to 
+Negligible effects on the environment.  Moderate effects are likely to occur to traffic 
+and Ecology during construction. Moderate to Major effects are limited to visual 
+effects during both construction and operation. 
+Beneficial impacts are predicted to improve local employment during construction 
+and operation, and are classed as Minor. Additionally, Minor beneficial impacts to 
+traffic on the M4 during weekday AM throughout the construction period have been 
+identified.  
+ 
+Next Steps 
+6.1.1
+Next steps, as identified in the PEIR, are to: 
+- 
+Continue ongoing ecology surveys before May 2018; and 
+- 
+Undertake updated winter photography and update the landscape and visual 
+impact assessment for additional viewpoints (to be confirmed through 
+discussions with CCS and NRW); and  
+- 
+Update historic environment assessment with the winter photography, wireline 
+graphics and an additional viewpoint to confirm predicted effects.  
+A final Environmental Statement (ES) will be submitted in Q2 2018 with the 
+Development Consent Order Application. The final ES will include an updated 
+assessment, following consideration of the consultation responses, and provide any 
+modifications to the Project. 
+ 
+ 
+ 
+ 
+ 
+53 
+ 
+7. References  
+ 
+ 
+Ref. 1 
+The Infrastructure Planning (Environmental Impact Assessment) 
+Regulations 2009 (as amended) (the EIA Regulations). 
+Ref. 2 
+Abergelli Power Ltd.  2014. The Project. (Online) Available at: 
+http://www.abergellipower.co.uk/the-project/ [Accessed 28/11/2017] 
+Ref. 3 
+The Planning Act 2008 (as amended). 
+Ref. 4  
+Welsh Government. 2016. Planning Policy Wales (PPW). 
+Ref. 5 
+Welsh Government. People, Places, Futures - The Wales Spatial Plan 
+2008 Update (July 2008). 
+Ref. 6 
+South West Wales Regional Waste Group. (2008). South West Wales 
+Regional 
+Waste 
+Plan. 
+1st 
+Review. 
+[Online]. 
+Available: 
+https://www.bridgend.gov.uk/media/164585/SD112.pdf 
+[Accessed: 
+26/10/17]. 
+Ref. 7 
+Directive 2008/98/EC, Waste Framework Directive (2008), L 312/3.  
+Ref. 8 
+Environmental Permitting (England and Wales) Regulations 2016.  
+Ref. 9 
+Waste (England and Wales) Regulations 2011. 
+ 
+ 

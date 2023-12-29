@@ -1,0 +1,3646 @@
+ 
+ 
+ 
+ 
+Drax Power Limited 
+Catchment Area Analysis in Estonia 
+Final Report 
+Helsinki, Finland 
+8515
+February 12, 2020 
+ID 135454
+ 
+ 
+ 
+ 
+DISCLAIMER 
+Indufor makes its best effort to provide accurate and complete information while executing the 
+assignment. Indufor assumes no liability or responsibility for any outcome of the assignment. 
+ 
+Copyright © 2020 Indufor 
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any 
+means, electronic or mechanical, including, but not limited to, photocopying, recording or otherwise. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+i 
+TABLE OF CONTENTS 
+EXECUTIVE SUMMARY 
+1 
+1. 
+INTRODUCTION 
+6 
+1.1 
+Brief History of Estonian Forests 
+6 
+1.2 
+Drax in Estonia 
+6 
+1.3 
+Objective of the Assignment 
+8 
+2. 
+WOOD-BASED BIOENERGY IN ESTONIA 
+9 
+2.1 
+Role of Wood in Estonian Energy Production 
+9 
+2.1.1 
+Energy Mix in Estonia 
+9 
+2.1.2 
+Domestic Consumption of Wood Fuels 
+11 
+2.1.3 
+Production and Trade of Wood Fuels in Estonia 
+13 
+3. 
+FOREST RESOURCES AND FOREST MANAGEMENT 
+16 
+3.1 
+Development of Forest Resources 
+16 
+3.1.1 
+Land Use 
+16 
+3.1.2 
+Forest Resources 
+18 
+3.2 
+Forest Management Practices 
+27 
+3.2.1 
+Change Drivers of Forest Management 
+27 
+3.2.2 
+Changes in Forest Management Practices 
+31 
+3.2.3 
+Impacts of Changes 
+36 
+4. 
+SOLID WOOD PRODUCT MARKETS 
+40 
+4.1 
+Domestic Production 
+40 
+4.2 
+Raw Material Prices 
+44 
+4.3 
+Cross-border Trade 
+48 
+5. 
+IMPACTS OF WOOD-BASED BIOENERGY DEMAND 
+57 
+ 
+LIST OF ANNEXES 
+Annex 1 
+Timeline of Estonian Forests 
+Annex 2 
+Forest Law Requirements 
+Annex 3 
+Glossary 
+ 
+LIST OF FIGURES 
+Figure 1.1 
+Drax woody biomass sourcing by country or region 
+7 
+Figure 1.2 
+Drax woody biomass sourcing from Estonia 
+7 
+Figure 2.1 
+Total domestic electricity and heat generation by source 
+9 
+Figure 2.2 
+Fuel consumption in CHP plants 
+10 
+Figure 2.3 
+Domestic consumption of wood fuels 
+11 
+Figure 2.4 
+Pellet consumption by end-use segment 
+12 
+Figure 2.5 
+Final consumption in households 
+13 
+Figure 2.6 
+Production of wood-based primary energy sources in Estonia 
+14 
+Figure 2.7 
+Imports and exports of wood fuels 
+15 
+Figure 3.1  
+Land use in Estonia 
+17 
+Figure 3.2  
+Development of total growing stock 
+19 
+Figure 3.3 
+Forest area and volume of standing stock in Estonia by tree species 
+20 
+Figure 3.4 
+Total annual increment and fellings by forest ownership type 
+21 
+Figure 3.5 
+Forest area by age class and species in working forests, 2018 
+22 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+ii 
+Figure 3.6 
+Total forest area by age class, spruce 
+23 
+Figure 3.7 
+Total forest area by age class, pine 
+23 
+Figure 3.8 
+Total forest area by age class, birch 
+24 
+Figure 3.9 
+Total forest area by age class, other species 
+25 
+Figure 3.10   Forest ownership development 
+26 
+Figure 3.11 
+Felling types 
+32 
+Figure 3.12 
+Utilisation of harvesting residues (branches and treetops) 
+34 
+Figure 3.13 
+Reforestation in Estonia by type 
+36 
+Figure 4.1  
+SWP mills in Estonia 
+41 
+Figure 4.2 
+Production and roundwood consumption of SWPs 
+43 
+Figure 4.3 
+Roadside prices of saw- and veneer logs in Estonian state forests 
+45 
+Figure 4.4 
+Roadside prices of small-diameter and low-value logs in Estonian state 
+forests 
+45 
+Figure 4.5 
+Roadside prices of pulpwood and fuelwood in Estonian state forests 
+46 
+Figure 4.6 
+Comparison of sawlog and pulpwood prices 
+47 
+Figure 4.7  
+Wood-based bioenergy production, pellet exports and raw material price 
+development 
+48 
+Figure 4.8 
+Roundwood exports from Estonia to the Baltic sea region 
+49 
+Figure 4.9 
+Estonian roundwood exports and imports to and from the Baltic sea region
+ 
+50 
+Figure 4.10 
+Price of roundwood exported from Estonia (FOB) 
+51 
+Figure 4.11 
+Price of roundwood imported to Estonia 
+52 
+Figure 4.12 
+Wood chip exports from Estonia to the Baltic sea region 
+53 
+Figure 4.13 
+Wood chip imports to Estonia from the Baltic sea region 
+53 
+Figure 4.14 
+Total wood chip exports and imports to and from the Baltic Sea region 
+54 
+Figure 4.15 
+Export price of wood chips from Estonia to selected North-European 
+countries 
+55 
+Figure 4.16 
+Import price of wood chips from selected North-European countries to 
+Estonia 
+56 
+ 
+LIST OF TABLES 
+Table 3.1 
+Rotation ages (in years) per tree species and quality class 
+29 
+Table 3.2 
+Average diameter (in cm) at breast height requirements for the dominant 
+tree species to allow for clear-cutting 
+29 
+Table 4.1  
+Legend for SWP mill map 
+42 
+Table 5.1  
+Impacts of Wood-based Bioenergy Demand to Forest Resources 
+57 
+Table 5.2  
+Impacts of wood-based bioenergy demand to forest management 
+practices 
+58 
+Table 5.3  
+Impacts of wood-based bioenergy demand to solid wood product (SWP) 
+markets 
+58 
+ 
+ABBREVIATIONS 
+BCTMP 
+Bleached Chemi Thermo Mechanical Pulp 
+NFI 
+National Forest Inventory 
+RMK 
+Riigimetsa Majandamise Keskus, Estonian State Forest Company 
+SWP 
+Solid Wood Products 
+WBP 
+Wood-Based Panels 
+SOC 
+Soil Organic Carbon 
+NCEP 2030 
+Estonian national energy and climate plan 
+ 
+ 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+1 
+EXECUTIVE SUMMARY 
+Objective 
+The objective of this study was to give an overview of forest management, roundwood market 
+and wood product market trends affecting forest structure and use in Estonia and to provide the 
+Consultant’s view on Drax’s impact on the observed developments. 
+Background 
+During 2014–2018, wood pellets manufactured in Estonia have accounted for 2–11% of Drax’s 
+woody biomass imports to the UK. Drax’s main partner in Estonia is Graanul Invest, the biggest 
+pellet producer in the country. Approximately 294 000 tonnes of wood pellets were purchased 
+from Graanul Invest by Drax in 2018. According to Drax, 69% of Graanul Invest’s pellet 
+production feedstock originates from roundwood thinnings in Estonia, while 31% consists of 
+sawdust, shavings and chips mainly from sawmills in Estonia and Latvia. 
+Woody biomass has been becoming increasingly important for Estonian energy production. 
+During 2009–2010, two new wood-consuming (mainly chips) CHP plants started in Tarto and 
+Pärnu, while in 2017, another three CHP mills started to consume woody biomass. Estonia, 
+despite the small size of the country, is the 7th largest pellet producer in Europe. Pellet 
+production in Estonia is very export-oriented, while only 4% of wood pellets are consumed 
+domestically. Drax sources approximately a quarter of the wood pellets that are exported from 
+Estonia. Denmark is the largest importer (45%) of Estonian wood pellets, while the UK is the 
+second largest. 
+Changes and Trends in Forest Resources 
+The main factors affecting the forest structure in Estonia are the system-level changes in forest 
+ownership, major differences in forest management objectives between private small-holders 
+and other forest owner groups and the industry’s increased demand for wood. 
+Forest area and forest cover have been growing during 2000–2018, due to afforestation of 
+previously non-forest lands, mainly abandoned agricultural lands. Forest cover growth has been 
+lower than forest area growth, due to increased area of clear-cuts leading to temporarily non-
+stocked forest lands. Despite this, forest cover has not decreased. Annual increment in Estonian 
+forests has grown almost continuously, likewise the total growing stock. 2018 was an exception 
+when the total growing stock was reported as 5.8 million m3 less than in 2017. However, this is 
+due to statistical sampling error, and the volume of total growing stock has likely slightly 
+increased compared to 2017 or remained the same. 2018 was an exceptional year in terms of 
+Nordic wood demand. High pulp prices motivated Finnish and Swedish pulp producers to ramp 
+up production. This, in turn, was experienced as increasing demand and raw material prices 
+also in Estonia, which supplied an increasing amount of feedstocks to the two countries. 
+Tree species distribution has not undergone major changes in terms of area or volume, but 
+minor changes have been occurring in private small-holder forests. Due to the history of 
+collective ownership, the now privatized small-holder forests often have only little tradition of 
+forest management. Plantings, pre-commercial thinnings and other investments to the future 
+productivity of the forest are often seen as too expensive or the payback of the investment is 
+considered uncertain. This lack of management activities has led to a small increase in forest 
+area dominated by alder and aspen. Subsidies and other government policies have been 
+implemented in order to re-activate private small-holders’ forest management or to incentivise 
+them to sell their forest properties to more active forest owners. The effects of these policies are 
+already seen in the growth of corporate forest ownership. Thus it is expected that the 
+significance of smallholder forests will somewhat reduce in the future. The conversion from 
+softwood to hardwood is also expected to slow or possibly even be reversed. Existing legislation 
+already controls which species are allowed per site type. The aim of this legislation is not to 
+steer hardwood-softwood distributions, but rather to ensure the suitability of used species for 
+site’s fertility and moisture. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+2 
+Changes and Trends in Forest Management Practices 
+The forest law in Estonia sets definitive boundaries and requirements for forest management 
+practices. In addition to the law, no separate forest management recommendations are given 
+by the government. The forest law changed in 2017, increasing the size of allowable clear-cut 
+and loosen the requirements for spruce harvesting. The Ministry of the Environment (MoE) 
+justified the change with the need to “allow forests to capture the maximum amount of carbon 
+while producing maximal income for their owners”. 
+Forest management in state forests has typically been of good quality, while private small-
+holder-owned forests have been inactively managed and even neglected. The trend in state-
+managed forests is likely to remain, but some increased activity can be expected in private 
+forests. The reasons for increased activity in private forests are government policies to 
+incentivize forest management, but also to increase the share of corporate ownership. 
+According to interviews, planting, especially of birch, has increased popularity as a regeneration 
+method in private forests. 
+Increased demand and price of small-diameter roundwood has created markets for thinnings of 
+previously unmanaged alder forests. According to interviews, there are still plenty of small-
+holder forest owners with unmanaged forest stands that have naturally regenerated to alder and 
+aspen. 
+In recent years, there has been plenty of debate about the use of Estonian forests. One of the 
+most notable results of this debate is the cancellation of Est-For pulp mill investment. The 
+opposition was based on fears of the mill’s wood consumption resulting in over-exploitation of 
+the country’s forest resources and its effluent discharge degrading the adjacent Emajõgi river. 
+The large size of the mill was a large driver for the opposition, as the mill’s annual wood demand 
+would have been approximately 3.3 million m3. However, the fears of overexploiting forests were 
+perhaps irrelevant. Estonia is a large exporter of wood raw materials, and by reducing exports 
+of raw materials and redirecting these streams to the domestic pulp mill, total domestic raw 
+material sourcing could have been maintained at a sustainable level. 
+Changes and Trends in SWP Production, Raw Material Prices and Cross-Border Trade 
+Sawmilling capacity and sawnwood production in Estonia has increased during the last 10 
+years. According to interviews, the main drivers for the investment activity have been industry’s 
+confidence in raw material sufficiency, confidence in the product markets and the need to keep 
+up with competitors in the sawmill technology development. Swedish-owned Toftan inaugurated 
+a modern new sawmill in 2017, which uses small-diameter logs that were underutilized in the 
+past, due to a small domestic P&P industry. From the current two P&P mills located in Estonia, 
+AS Estonian Cell uses only aspen pulpwood, while Horizon uses mainly coniferous pulpwood.  
+Wood-based panel capacity and production have grown during 2010–2018, growth explained 
+by investments from UPM, Metsä Wood (FIN) and Latvias Finijeris (LVA). All of the three 
+investments are related to birch plywood production, increasing the demand for high-quality 
+birch veneer logs. Pellet production has tripled during the last ten years, while domestic 
+consumption of pellets has remained low. 
+Sawlog prices have increased since 2010, with a sharp increase during 2017–2018, due to 
+increased sawmilling capacity and production, but also due to difficult harvesting conditions 
+resulting from mild winter temperatures. Sawlog prices have been driven by the increasing 
+demand for sawnwood, which has also driven up sawnwood prices. Pulpwood prices have been 
+more volatile than sawlog prices. They have mainly decreased between 2011–2017 and similar 
+to sawlog prices, surged during 2017–2018 to a record-high. Due to the small size of the 
+domestic P&P industry and relatively large consumption of aspen, the Finnish and Swedish pulp 
+industry is a major driver of pine, spruce and birch pulpwood price. This was emphasized in the 
+2018 price hike; global pulp prices were high, which motivated Finnish and Swedish pulp 
+producers to maximize production, which in turn significantly increased their sourcing from 
+Estonia. As a result, harvests in Estonian forests reached a record high. However, it is unlikely 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+3 
+for the high harvesting level to remain in the following years, due to minimum clear-cut age 
+restriction and decreased sawnwood price resulting from Central Europe’s bark beetle 
+infestation that increases sawlog volumes entering the markets. 
+Wood-based bioenergy has not been a significant driver for Estonian wood prices, due to 
+previously underutilized assortments, such as harvesting residues and small-diameter 
+roundwood being used now. Wood-fuelled CHP capacity has increased significantly during the 
+past decade, which drives demand for wood chips, especially forest chips. This has enabled the 
+utilisation of harvest residues economically. Pellets are however a more significant price driver 
+for wood raw materials according to interviews, as they warrant a higher price at end-use 
+markets and producers pay a higher price for raw materials than what CHP plants pay for forest 
+chips. Noting that feedstock of Drax’s Estonian pellets is mainly sourced at fuelwood price 
+supports the conclusion that Drax’s activities have had little to none impact on Estonian wood 
+prices. 
+CHP has created a new demand for harvesting residues and new income for forest owners. 
+This may show only slightly in wood prices because residue collection is not a significant added 
+expense in harvesting in general. Pellet production together with CHP is an important end-use 
+segment for raw material which is not suitable for sawmilling, thus compensating for the absence 
+of a wider P&P sector in Estonia. 
+Throughout 2010–2018, Estonia has been a net exporter of both roundwood and wood chips. 
+The main export destinations have been the P&P industry in Finland and Sweden. Roundwood 
+exports have comprised mainly of pulpwood, while birch pulpwood has accounted for 40% of all 
+roundwood exports. 2018 was a peak year in exports, mainly driven by record-high wood 
+demand in Finland. In addition to roundwood, Finland and Sweden are also the main export 
+destinations for wood chips. 
+Latvia was the only considerable wood exporter (chips) to Estonia during 2010–2015, but since 
+then, Russia has gradually taken Latvia’s place as a wood chip source to Estonia. However, the 
+imported wood chip volumes are only a minor proportion of what is exported from Estonia. 
+ 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+4 
+Impacts of Wood-Based Bioenergy Demand to Forest Resources 
+Forest Area / Forest Cover 
+Impact: 
+No negative 
+impact 
+ Regardless of increasing domestic biomass utilization for energy and 
+exports, forest area has increased due to afforestation programs. 
+ Forest cover is not as high as forest area, due to temporarily 
+unstocked area after clear-cut. Despite this, forest cover has 
+continuously increased from 2010–2018. 
+Forest Growing Stock 
+Impact:  
+No negative 
+impact 
+ The total forest growing stock has been increasing for the last two 
+decades. In 2018 the growth has slowed or halted; official statistics 
+show a decrease, but this is due to sampling error. In 2018 there was 
+record-high wood demand from Finland, which was driven by high 
+global pulp prices motivating maximal pulp production. This increased 
+harvests to a previously unseen level. 
+Harvesting Levels 
+Impact: 
+Slight 
+increasing 
+impact 
+ During 2004–2011, harvesting levels in Estonia were less than half of 
+the estimated maximum sustainable level. This resulted in an increase 
+in the maximum sustainable harvesting level for the 2011–2020 period. 
+In 2018, the harvesting volumes were at the maximum sustainable 
+level. The main drivers increasing the harvesting volumes have been 
+increased sawmill capacity and production, high demand for pulpwood 
+in Finland and Sweden and improved demand for energy wood. This 
+was a temporary peak and demand has already slowed. Softwood 
+lumber prices have decreased significantly in Europe due to an 
+abundance of wood supply from Central Europe, which has been 
+created by widespread bark beetle and other forest damages. Global 
+pulp prices have also decreased to below 2017 prices. 
+Forest Growth / Carbon Sequestration Potential 
+Impact: 
+Ambivalent 
+impact 
+ The annual increment has grown throughout the 2000–2018 period. 
+ Increased fuelwood price has enabled forest management in some of 
+the alder forests that were completely unutilized in the past. Thinnings, 
+both commercial and pre-commercial, accelerate long-term volume 
+growth in forests, leading to increased carbon sequestration. 
+ Removal of harvesting residues decreases carbon sequestration since 
+the residues are input to the soil carbon pool. However, the majority of 
+the harvesting residues’ carbon is released to the atmosphere when 
+the biomass decays, so the ultimate impact of harvesting residue 
+collection is minimal if the collection is done on a sustainable level. 
+The sustainability of the collection is determined by how the soil 
+nutrient balance is impacted by collection. This is not accounting for 
+the substitution effect that the harvesting residues may have, by e.g. 
+reducing the need to burn fossil fuels. 
+ Utilization of sawmill by-products does not directly impact forests’ 
+carbon sequestration potential, but it can increase harvesting through 
+improved sawmill overall profitability. 
+ 
+ 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+5 
+Impacts of Wood-Based Bioenergy Demand to Forest Management Practices 
+Rotation Lengths 
+Impact: 
+Neutral 
+ Forest law regulates minimum forest age for clear-cuts. According to 
+interviews, RMK often conducts the final felling at the minimum age. 
+Due to the regulation, an increase of wood-based bioenergy demand 
+has not shortened rotations at least in state-managed forests. In 
+forests that are older than the minimum final felling age, sawlog price is 
+a more important driver for final-felling decisions than wood-based 
+bioenergy demand. 
+Thinnings 
+Impact:  
+Increasing 
+impact 
+ The increase of bioenergy demand has increased the demand for 
+small-diameter hardwood, which in turn has increased thinnings in 
+previously unmanaged forest stands. This will increase the availability 
+of good quality sawlogs and will also accelerate the carbon 
+sequestration (tonnes/ha/year) of the forests. However, the total forest 
+carbon stock (tonnes/ha) will be reduced; in unmanaged (e.g. no 
+thinnings) mature stands, the carbon stock is larger than in managed 
+stands of similar age. The carbon stock of a thinned stand will remain 
+below that of an unthinned stand regardless of post-thinning 
+accelerated growth. 
+Conversion from Hardwood to Softwood 
+Impact: 
+Neutral 
+ No indication of hardwood conversion to softwood was found. 
+ 
+Impacts of Wood-based Bioenergy Demand to Solid Wood Product (SWP) Markets 
+Diversion from Other Wood Product Markets 
+Impact: 
+Neutral 
+ Production of sawnwood, wood-based panels, pulp and paper 
+products have increased or remained steady, i.e. no evidence of 
+diversion. 
+Wood Prices 
+Impact:  
+Slight increase 
+/ Neutral 
+ During 2017–2018, the price of all roundwood assortments increased 
+notably. The increase was strongest in pulpwood assortments, 
+especially those that are not further processed domestically but are 
+exported to mainly Finland and Sweden. Finnish demand for pulpwood 
+was at a very high level in 2018. This was a temporary trend, however, 
+and prices and demand have since decreased. 
+ The price increase for fuelwood was less dramatic, no sharp increases 
+are observed. According to interviews, pellet production was the most 
+important driver of fuelwood prices.  
+ 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+6 
+1. 
+INTRODUCTION 
+Drax Group (the Client) is a large British electrical power generation company that was founded 
+and listed at the London Stock Exchange in 2005. Its roots extend back to 1967 when the 
+construction of Drax Power Station began under the Central Electricity Generating board. This 
+is still the Group’s key asset and is the largest single-site renewable generator in the UK. The 
+Group is composed of Drax Power, Drax Biomass, Haven Power and Opus Energy. The Group 
+places much emphasis on sustainability and decreasing its carbon footprint, which is evident 
+from the Group’s previous and planned investments. Drax is one of the world’s largest single 
+point consumers of wood and is committed to sourcing that wood sustainably. 
+Drax wants to further the sustainability of its wood sourcing by implementing a forest resources 
+and management monitoring program. Before rolling out a full-scale program on the Group’s 
+pellet mills (in the US South, Canada, the Baltic States and Portugal), the company wants to 
+pilot their approach in selected locations, including the Amite pellet mill in Mississippi, the US, 
+and Graanul Helme and all other mills in Estonia.  
+1.1 
+Brief History of Estonian Forests 
+Estonian forestry and forests have been molded into their current state by a turbulent history. 
+The country first gained independence from Russia after the First World War in 1918, which 
+gained rule over the country from Sweden as a result of the war in 1709. During the Swedish 
+and prior Danish rule, German nobility amassed large estates and wealth in the country. In 1804 
+under the Russian Tsar Alexander I, Estonian peasants gained the right to private property and 
+inheritance, and by the end of the 19th century, peasants owned two-fifths of the privately-
+owned land in the country.  
+In 1920, manor forests were nationalized, further reducing the German nobility’s importance in 
+Estonian forestry. The state’s forest ownership increased to 88%. In 1940, Estonia was once 
+again occupied and then incorporated into the USSR. All private lands were nationalized. 60% 
+of the forests were managed by the state and the remaining 40% by collective farms. The state-
+managed forests were well-managed, while forests in the hands of collective farms were widely 
+neglected and were mainly used for harvesting firewood and some raw materials for the 
+construction on the collective farms. The quality of these forests declined during this period.  
+Estonia regained independence in 1991, and the privatization of forests began. The restitution 
+of forests was completed by 2017, with private forest owners currently holding approximately 
+48% of the forests. The past 28 years of independence have seen the country rapidly develop, 
+adopt new technologies and prosper. Forests have been intensively managed and utilized, and 
+the forest industry has grown to account for up to 5% of the country’s GDP. Annex 1 provides a 
+simplified timeline of the history of the past century of Estonia from a forestry point-of-view. 
+1.2 
+Drax in Estonia 
+Since 2014, Estonia has been one of the biomass sources for Drax power production in the UK. 
+Estonia’s share of Drax’s biomass sourcing is currently only 4%, while in 2015 it was 11% 
+(Figure 1.1).  
+Drax’s long-term supplier in Estonia is Graanul Invest, which is the biggest pellet producer in 
+the country. In addition to Graanul Invest, Drax has also other pellet suppliers in the country, 
+but their deliveries are not regular. 
+According to Drax’s annual reports, approximately 294 000 tonnes of wood pellets were 
+purchased from Graanul Invest in 2018. Also, according to Drax, 69% of Graanul Invest’s pellet 
+production feedstock originates from roundwood thinnings in Estonia, while 31% consists of 
+sawdust, shavings and chips mainly from sawmills in Estonia and Latvia. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+7 
+Figure 1.1 
+Drax woody biomass sourcing by country or region 
+ 
+Source: Drax Annual Reports 
+Figure 1.2 
+Drax woody biomass sourcing from Estonia 
+ 
+Source: Drax Annual Reports and private communications 
+11 %
+6 %
+4 %
+4 %
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+2015
+2016
+2017
+2018
+Chart Title
+Other Europe
+Other non-EU
+Brazil
+Portugal
+Estonia
+Canada
+Latvia
+USA
+1 000 tonnes
+0
+100
+200
+300
+400
+500
+600
+2014
+2015
+2016
+2017
+2018
+Chart Title
+1 000 tonnes
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+8 
+1.3 
+Objective of the Assignment 
+The objective of the assignment is to give an overview of the forest management, roundwood 
+market and wood product market trends affecting forest structure and use in Estonia and to 
+provide the Consultant’s view on Drax’s impact on the observed developments. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+9 
+2. 
+WOOD-BASED BIOENERGY IN ESTONIA 
+2.1 
+Role of Wood in Estonian Energy Production 
+Box 2.1  
+Chapter Highlights 
+General 
+ 
+Wood is becoming increasingly popular in energy production, especially in heat 
+production. Oil shale still dominates in electricity production. 
+ 
+Estonia is a net exporter of wood chips and pellets. 
+ 
+The main wood fuel used domestically is wood chips. 
+ 
+Pellets are mainly exported. Households are the largest domestic user. 
+ 
+The energy use of wood is likely to increase in the near future, due to national plans 
+aiming to increase the use of wood and the desire to decrease dependence on oil 
+shale. 
+2.1.1 
+Energy Mix in Estonia 
+The importance of wood as an energy source in Estonia has been increasing across total energy 
+generation (heat and electricity) over the past decade (Figure 2.1). Even though woody biomass 
+still currently accounts for only a rather small portion of all energy generation, it is likely to 
+continue growing in importance. The Estonian national energy and climate plan (NCEP 2030) 
+estimates that 80% of heat and 30% of electricity would be produced with renewable sources 
+by 2030. This increases the demand for woody biomass in all energy production, alongside 
+other renewable sources, such as wind energy. The Estonian forestry development plan until 
+2020 also aims to reduce environmental impacts related to the use of fossil fuels and non-
+renewable resources by increasing the use and production of Estonian timber. 
+Figure 2.1 
+Total domestic electricity and heat generation by source 
+ 
+Note: Pellet exports not included. Source: Statistics Estonia. 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+0
+10 000
+20 000
+30 000
+40 000
+50 000
+60 000
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Chart Title
+Wind and hydro
+Other
+Other biomass
+Natural gas
+Woody biomass
+Fossil fuels
+Share (%) of energy
+produced with woody
+biomass
+MWh
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+10 
+Total energy generation has fluctuated quite notably in 3–4-year intervals over the past nine 
+years. Natural gas and other fuels have been losing their significance in energy generation. 
+Estonia continues to be strongly dependent on fossil fuels in energy generation, with oil shale 
+being the most commonly used fuel in electricity production. Electricity production consumes 
+approximately 73–76% of fuels used in total for all energy generation. Oil shale accounted for 
+over 89% of electricity generation in 2018. However, the amount of oil shale used for electricity 
+generation has been decreasing in recent years. The situation is quite different in heat 
+generation, where woody biomass, mainly wood chips, accounts for over 40% of all energy 
+generated and natural gas for 25%. Oil shale only accounts for just over 7%.  
+The importance of wood as a fuel for CHP plants has been growing in recent years, with the 
+portion of the energy produced from wood fuels in CHP plants increasing from 30% in 2011 to 
+58% in 2018 (Figure 2.2). The use of especially oil shale and natural gas has been decreasing 
+during this period. 
+Figure 2.2 
+Fuel consumption in CHP plants 
+ 
+Source: Statistics Estonia 
+New CHP plants have been constructed in Estonia, specially designed to burn biomass, which 
+explains the increased share of wood fuels used. Fortum began operations in its Tartu and 
+Pärnu plants already in 2009 and 2010 respectively. Later additions to the roster of biomass 
+burning CHP plants are for example the Graanul Invest CHP plants Osula and Imavere, both of 
+which began operations in 2017. Also in 2017, OÜ Utilitas Tallinna Elektrijaam inaugurated a 
+new biomass-fired CHP plant, which powers approximately 20% of the Tallinn region. This was 
+the largest biomass-fired plant in Estonia at the time of the inauguration and burns an estimated 
+530 000 m3 of wood chips annually. The government of Estonia is also allowing oil shale to be 
+replaced partially by biomass in the Narva power plants. The three newer units of the Narva 
+power plants are able to utilize up to 50% biomass. The changes are expected to be in force 
+within a year. Estonian CHP plants burn both harvest residues and residues from sawmilling 
+and other mechanical woodworking industries. 
+Capacity increases have driven demand for, especially forest chips. This has enabled the 
+utilisation of harvest residues economically. CHP has created a new demand for harvesting 
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+30 000
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Wood fuel
+Oil and coal
+Gas
+Other
+TJ
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+11 
+residues and new income for forest owners. This may show only slightly in wood prices because 
+residue collection is not a significant added expense in harvesting in general. Pellet production 
+together with CHP is an important end-use segment for wood raw material which is not suitable 
+for sawmilling, thus compensating for the absence of a wider P&P sector in Estonia. 
+2.1.2 
+Domestic Consumption of Wood Fuels 
+Domestic consumption of wood fuels is mainly concentrated on wood chips, firewood and wood 
+waste (Figure 2.3). Only a small fraction of the pellets produced in Estonia are consumed locally. 
+Briquettes are mainly produced for domestic use, which is minimal. The large increase in wood 
+chip consumption between 2015–2016 is due to new CHP plants which were inaugurated in 
+20171, as they have begun collecting stores of wood chips in advance, to allow for a smooth 
+start of production. 
+Wood chips are the main wood fuel used in heat generation in Estonia. Pellet consumption 
+experienced a relatively large spike between 2015–2018, peaking in 2017 and decreasing in 
+2018 again, nearing 2015 levels. In absolute terms, the increased pellet consumption accounted 
+for only a very small share of the total domestic pellet production. Wood chip consumption also 
+increased by nearly 70% in 2016 compared to 2015 levels but has slightly decreased again 
+since then.  
+Wood fuel used in electricity generation has also been mainly wood chips, and consumption 
+has been increasing quite steadily since 2013, doubling by 2018. Small volumes of wood waste 
+have also been sporadically utilized in electricity generation, but this is more of an exception, 
+rather than the rule. Firewood use in electricity generation is extremely rare and small-scale, 
+with only a few thousand cubic meters in total utilized since 2010. Overall, the use of wood fuels 
+in electricity production is comparatively marginal, as most electricity is produced with oil shale. 
+Figure 2.3 
+Domestic consumption of wood fuels 
+ 
+Source: Statistics Estonia 
+ 
+1 Estonia Renewable Energy Association, 2017. Renewable Energy Yearbook 2016. Available: 
+http://www.taastuvenergeetika.ee/wp-content/uploads/2017/08/Renewable-energy-yearbook_2016.pdf. 
+0
+20
+40
+60
+80
+100
+120
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Firewood
+Wood chips
+Wood waste
+Briquette
+Pellets
+1 000 m3
+1 000 tonnes
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+12 
+Households are the second-largest domestic consumer of pellets after CHP plants (Figure 2.4). 
+Other uses are marginal, except for in 2016, when consumption in commercial and public 
+services experienced a temporary increase and was nearly as large as household consumption. 
+Figure 2.4 
+Pellet consumption by end-use segment 
+Source: Statistics Estonia 
+Pellet consumption by heat producers was similar in scale to household use for many years but 
+increased fourfold between 2015–2016. Household consumption of pellets has been rising 
+steadily since 2010 when consumption was non-existent (Figure 2.5). Consumption reached 
+20 000 tonnes in 2017 and remained steady over 2018. Household consumption of briquettes 
+decreased between 2010–2012 but has been developing in line with pellet consumption since 
+2015, and consumption levels have been nearly identical since then. Overall household wood 
+use for energy has steadily decreased between 2011–2015 if 2011 is regarded as an outlier. 
+This development was reversed in 2016 when consumption bounded back to the levels of 2013 
+and has since remained stable with some small increases in 2017–2018. 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Chart Title
+Final consumption in agriculture
+and fishing
+Final consumption in industry
+Final consumption in commercial
+and public services
+Final consumption in households
+Consumption for heat generation
+1 000 m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+13 
+Figure 2.5 
+Final consumption in households 
+ 
+* Wood includes firewood, wood chips and wood waste, excludes pellets and briquettes 
+Source: Statistics Estonia 
+2.1.3 
+Production and Trade of Wood Fuels in Estonia 
+Raw material sources for wood-based energy are the side streams of the wood products 
+industry, energy wood from thinnings, low-quality logs and other roundwood and harvest 
+residues. Harvest residues are a significant raw material for e.g. Graanul Invest, which 
+harvested 500 000 and 850 000 tonnes of residues in 2017 and 2018 respectively, for energy 
+production in CHP plants.  
+Pellet production has grown 350% between 2010–2018 (Figure 2.6). This translates to a 
+cumulative annual growth rate of 17.1%. Production of other wood fuels has not experienced 
+comparable growth, but the production of wood chips did increase by 60% from 2015 to 2016. 
+Production has since declined in both 2017 and 2018. Wood waste production for energy has 
+been increasing since 2014. Firewood production has remained quite stable at around 1.7 
+million m3. 
+0
+20
+40
+60
+80
+100
+120
+1 700
+1 800
+1 900
+2 000
+2 100
+2 200
+2 300
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Wood*
+Briquette
+Pellets
+1 000 m3
+1 000 tonnes
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+14 
+Figure 2.6 
+Production of wood-based primary energy sources in Estonia 
+ 
+Source: Statistics Estonia 
+Wood fuel imports are marginal in comparison to domestic production and exports. (Figure 2.7). 
+On closer inspection, they have undergone notable changes since 2010. Wood chip imports 
+more than doubled from 2010 to 2011. By 2018, wood chip imports have decreased to nearly a 
+third of the level in 2011. Between 2011 and 2014, import volumes decreased steadily, but this 
+trend was reversed in 2015. Imports rose annually between 2014–2017, and in 2018 dropped 
+again. Imports of wood waste and briquettes increased steadily between 2010–2014 but have 
+since decreased once more. Pellet imports have been fluctuating strongly. It seems that only a 
+small supply is imported regularly, with larger quantities being imported sporadically. Due to the 
+small scale of imports, small absolute changes result in large percentage shifts. 
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Firewood
+Wood chips
+Wood waste
+Briquette
+Pellets
+1 000 m3
+1 000 tonnes
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+15 
+Figure 2.7 
+Imports and exports of wood fuels 
+ 
+Source: Statistics Estonia 
+Estonia is a net exporter of wood fuels. Pellets have become the main form of wood fuel being 
+exported from the country. Between 2010–2012 pellet exports remained steady at 
+approximately 360 000 tonnes but increased to over 1.3 million tonnes by 2018. This is largely 
+attributable to the growth of Graanul Invest. Even though domestic consumption of pellets 
+increased notably in relative terms between 2015–2017 (see the previous chapter), it does not 
+seem to have had a noticeable impact on the exports of pellets, which grew concurrently with 
+domestic consumption. Firewood and wood waste are exported in only comparatively small 
+quantities. In 2018, a total of under 250 000 tonnes of firewood and wood waste was exported. 
+Briquettes are an even smaller export item and quantities are marginal. Wood chips are not 
+exported for energy use. 
+Over 90% of Estonian pellets exports are directed to just five European countries; Denmark 
+(45%), the UK (13%), Germany (13%), the Netherlands (11%) and Sweden (9%). Extra-EU 
+exports account for just over 0.5% of all pellet exports. 
+-2 000
+-1 500
+-1 000
+-500
+0
+500
+1 000
+1 500
+2 000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Firewood
+Wood waste
+Briquettes
+Pellets
+1 000 tonnes
+Drax entry to market
+Export
+Import
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+16 
+3. 
+FOREST RESOURCES AND FOREST MANAGEMENT 
+3.1 
+Development of Forest Resources 
+Box 3.1  
+Chapter Highlights 
+Forest Area  
+ 
+Forest area and cover in Estonia has increased continuously for the last decades due 
+to afforestation of abandoned agricultural lands. 
+ 
+Increased harvesting levels lead to an increased proportion of temporarily unstocked 
+forest area. 
+Forest Quality 
+ 
+In the long-term, the area of deciduous forest has increased, due to neglection of 
+artificial regeneration in some of the private forests that have been clear-cut. This has 
+not had a noticeable effect on the production of wood products, as most forests have 
+been managed well and have supplied enough roundwood to satisfy the market. 
+ 
+Thinnings have often been neglected in private smallholders’ forests, because the 
+markets for small-diameter roundwood (e.g. pulpwood) have been non-existent. Also, 
+the confidence in profitability of long-term forest management has been weak among 
+the smallholders. 
+ 
+Spruce is the most intensively managed species with a fairly equal area in all age 
+classes, while pine forests, in general, are older. 
+ 
+Forest management has and is expected to improve along with the concentration of 
+forest ownership to companies. 
+Forest Ownership  
+ 
+Over half of the forest area is managed well by the state company RMK. 
+ 
+Private individuals own ca. 30% of the forest land, but often hold small areas and are 
+inactive in forest management. 
+ 
+Private companies are increasing their ownership share of Estonian forests. This 
+development is also supported by government policies, in order to improve overall 
+forest management efficiency and utilization of the resources. 
+ 
+Land privatization after the collapse of the Soviet Union has been the main driver of 
+ownership change. 
+ 
+Over half of Estonia’s land area is covered with forests, which makes Estonia the fourth most 
+forested country (by %) of the EU. Estonia’s history as part of the Soviet Union has had a heavy 
+impact on the structure and management of Estonian forests. Prior to 1991, forest management 
+in Estonia was characterized by state ownership of forests and centralized planning, with only 
+little forest industry production compared to the present. Estonia’s forest area has grown 
+significantly for almost half a century, which mainly results from the afforestation of un-utilized 
+farmlands. 
+3.1.1 
+Land Use 
+Land Use Change 
+Of Estonia’s total area of 4.53 million ha, the area covered by forests has gradually risen through 
+the last 10 years. An area classified as unstocked forest has increased, which is a sign of 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+17 
+increased harvesting. Estonia’s forest area has grown during the last decades, as a result of 
+afforestation programmes on abandoned agricultural areas. Over the past twenty years, the 
+afforestation of quarries and agricultural and other land totals over 7 500 ha of land.  
+As the area allocated for forests and forestry has grown, also clear-cuts have become more 
+common, which can be seen as the growing proportion of class “Unstocked forest” in Figure 3.1. 
+Despite the growth of unstocked forest areas, also the stocked forest area, i.e. forest cover has 
+increased from 46% to 48% between 2010–2018. Since Drax initiated sourcing from Estonia in 
+2014, the share of stocked forests has continued to increase. Spruce-dominated forests have 
+the highest share in the class “Unstocked forest”, due to spruce being the most intensively 
+managed species. 
+Figure 3.1  
+Land use in Estonia 
+ 
+Source: National Forest Inventory 
+Transition from Natural Forest to Intensive Management Areas 
+Estonian forests have a long history of human influence. During the Soviet era, large forest 
+areas under the control of collective farms were inactively managed. Management in these 
+previously collectively owned, but nowadays privatized, forests are becoming more active and 
+intensive, which is also the goal of government policies. However, these forests have been 
+influenced by people in the past and thus should not be considered as natural forests. This 
+increased management activity improves the availability of higher-quality sawlogs and other 
+roundwood. Impacts on carbon stock may vary; initially harvesting unmanaged forests may 
+result in decreased carbon stock, but in the long-term carbon sequestration is likely to improve 
+and stock levels will begin to rise and possibly surpass previous levels. The actual development 
+is heavily dependant on the species composition of the understorey vegetation, as well as on 
+the site-specific soil biogeochemistry. Tree species also have an impact on the soil organic 
+46 %
+46 %
+46 %
+47 %
+47 %
+47 %
+47 %
+48 %
+48 %
+3 %
+3 %
+3 %
+3 %
+3 %
+4 %
+4 %
+4 %
+4 %
+30 %
+30 %
+30 %
+30 %
+29 %
+28 %
+29 %
+28 %
+27 %
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Stocked forest
+Unstocked forest
+Agricultural land
+Bogs
+Water
+Built
+Other land
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+18 
+carbon (SOC); coniferous trees have been found to have a positive effect on the SOC in 
+Estonia2. 
+Estonian Forestry Development Plan for 2011–2020 sets a goal to place 10% of the nation’s 
+forest area under strict protection by 2020, focusing on areas with high biodiversity values and 
+rare habitats. This goal was already achieved in 2015, when 10.3%, i.e. 238 800 ha of forest 
+were under strict protection. 
+3.1.2 
+Forest Resources  
+Development of Forest Area and Growing Stock 
+The total growing stock in Estonia has increased during most of the last two decades. Between 
+2010 and 2017, the total growing stock increased on average 5. million m3 per year, while in 
+2018, statistics show that the total growing stock decreased ca. 5.8 million m3. This decrease 
+was however due to statistical sampling error, as the number of sample plots was increased. 
+No actual decrease in the growing stock is perceived to have occurred and is understood to 
+have remained steady or increased slightly. Softwood species have been accounting for 54–
+56% of the total growing stock, while no clear distribution-changing trends are visible in Figure 
+3.2. 
+Pine, birch and spruce are the dominant species in Estonia, together accounting for some 80% 
+of the total forest area and growing stock (Figure 3.3). During 2000–2018 the largest increase 
+in volume has occurred in birch-dominated forests, accounting for over 30 million m3, followed 
+by pine (29 million m3) and spruce forests (17.6 million m3). Birch has been gaining popularity 
+amongst forest owners in recent years, contributing to the large volume-increases of birch. 
+Active forest owners have regenerated forests to spruce and birch and to a smaller extent to 
+pine, whereas non-active smallholders have not regenerated actively after harvesting coniferous 
+forests, which has resulted in natural regeneration to hardwood species. Currently, pine forests 
+account for 29% of the total annual volume increment in the country, while spruce and birch 
+account for 23% and 27%, respectively. 
+ 
+2 Lutter, R., Kõlli, R., Tullus, A. and Tullus, H., 2018. Ecosystem carbon stocks of Estonian premature and 
+mature managed forests: effects of site conditions and overstorey tree species. European Journal of Forest 
+Research. https://doi.org/10.1007/s10342-018-1158-4 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+19 
+Figure 3.2  
+Development of total growing stock 
+ 
+Source: National Forest Inventory 
+55.7%
+54.9%
+55.2%
+56.1%
+57.3%
+56.4%
+55.3%
+56.6%
+56.4%
+56.2%
+44.3%
+45.1%
+44.8%
+43.9%
+42.7%
+43.6%
+44.7%
+43.4%
+43.6%
+43.8%
+0
+100
+200
+300
+400
+500
+600
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+Softwood
+Hardwood
+Million m3 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+20 
+Figure 3.3 
+Forest area and volume of standing stock in Estonia by tree species 
+ 
+Source: National Forest Inventory 
+The total annual increment of Estonian forests has increased by 2 million m3 during the last two 
+decades. Spruce-dominated forests account for the largest increment growth, and a driver for 
+the increment growth has also been the relatively low harvesting level during 2003–2011. 
+Comparison of annual increment, harvests and the maximum sustainable harvesting level is 
+presented in Figure 3.4. The Forest Development Plan for 2011–2020, approved by the 
+Estonian Parliament, stated that due to the low level of harvesting during 2000–2010, the 
+optimal sustainable harvesting level for the years 2011-2020 is increased to 12–15 million m3. 
+As seen in Figure 3.4 and learned during interviews with Estonian forest sector operators, the 
+actual harvesting level has reached the maximum level during the last few years. Drafting of the 
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+2 000
+2 200
+2 400
+Chart Title
+Pine
+Birch
+Spruce
+Grey alder
+Aspen
+Common alder
+Other
+1 000 ha
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+Chart Title
+Pine
+Birch
+Spruce
+Grey alder
+Aspen
+Common alder
+Other
+Million m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+21 
+Forest Development Plan for 2021–2030 is currently in progress and the draft will be subject to 
+parliament discussions during the spring of 2020 and will be approved by end of the year. The 
+outcome of the process might contain restrictions for further harvesting increases. 
+Private forests are the largest source of wood in Estonia (Figure 3.4). The total yield from fellings 
+in private forests has been rapidly increasing since 2008 and is currently at an all-time high. The 
+yield from fellings in state-owned forests has also been increasing since 2008, though the 
+current level in state-owned forests is not unheard-of during the last decades. The increased 
+harvesting in private forests has mostly resulted from an increased share of land managed by 
+companies. Private small-holders’ activity in forest management is slightly increased but does 
+not explain the bulk of the growth in the volumes harvested from private land. 
+ 
+Figure 3.4 
+Total annual increment and fellings by forest ownership type  
+ 
+* Harvesting level. Source: National Forest Inventory, Forest Development Plan 2011-2020 
+Development of Age Class Distribution by Tree Species 
+Long-term analysis by the Estonian Environmental Agency states that the share of deciduous 
+species has increased in Estonian private forests during 1998–2018. The main reasons for the 
+development are the following: 
+ 
+Private forest management is fairly new in Estonia. During 1991–2000, forest 
+inventory was conducted only in the best-managed private forests, while during later 
+times the inventory coverage in private forests has increased. 
+ 
+Coniferous forests have been harvested with a higher intensity than deciduous 
+forests. However, in private forests the regeneration was often not organized, leading 
+to natural regeneration with several deciduous species. 
+Figure 3.5 presents the species-specific age distribution in working forests (i.e. forests available 
+for wood supply). Birch and other deciduous species cover a significantly higher share of the 
+working forest area in age classes 1–20. The temporarily unstocked area is excluded from the 
+charts since it does not yet have a dominant species. Due to the highest intensity management, 
+10.6
+12.4
+10.1 9.8
+8.1
+8.0
+5.7
+5.2
+4.6
+6.3
+8.2
+9.0
+10.2 10.1 10.0 10.0 10.7
+12.5
+14.1
+13.9 14.0 13.9 14.0 14.2 14.2 14.1 14.1 14.0 14.2 14.4 14.8 15.0 15.4 15.6 15.8 16.0 16.0 16.1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+Chart Title
+State*
+Private*
+Other*
+Increment
+Max. Sust. Harvests
+Million m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+22 
+spruce has the highest share of temporarily unstocked forest areas (ca. 182 000 ha), while other 
+deciduous species have the lowest share.  
+Rotation length is typically longer for coniferous trees than deciduous trees in Estonian forests. 
+Spruce and pine trees are generally older than broadleaves. Figure 3.6-Figure 3.9 present the 
+age class development during 2010–2017 for all Estonian forests, while Figure 3.5 presents the 
+latest age class distribution for working forests only. Similar statistics for working forests in 2010 
+were not available. Also, pre-2010 inventories utilise a different age class division, which 
+prevents direct comparisons. 
+ 
+Figure 3.5 
+Forest area by age class and species in working forests, 2018 
+ 
+Source: National Forest Inventory. The chart excludes temporarily unstocked forests. 
+When looking at the first age class of each species (<=10) in Figure 3.6-Figure 3.9, the first 
+observation is that during the last 10 years, the total area regenerated to birch has decreased, 
+while for spruce the regenerated area has increased. Also, for the class “Other species” in 
+Figure 3.9, the regenerated area has increased. The increased area in the younger age classes 
+does not necessarily signify decreases in the older classes, but rather it is due to land 
+afforestation. 
+In the context of Estonia, the age structure between different species is also somewhat a result 
+of the local forest legislation, which stipulates the ages at which different species are eligible for 
+harvest, and allowed species for different site types. The minimum age requirement for final 
+felling is presented in Annex 2, along with the species specifications by site class. 
+0
+20
+40
+60
+80
+100
+120
+140
+Grey alder
+Pine ( 544 000 ha)
+Spruce (334 000 ha)
+Birch (569 000 ha)
+Others (401 000 ha)
+1000 ha
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+23 
+Figure 3.6 
+Total forest area by age class, spruce 
+ 
+Source: National Forest Inventory. The appearance of older classes in the 2018 age class distribution is 
+mostly resulting from increased inventory coverage in private forests. The chart excludes temporarily 
+unstocked forests. 
+For spruce (Figure 3.6), the age class distribution has not changed remarkably during the past 
+decade. It should be noted, that the granularity of the 2010 data was lesser than that of the 2018 
+data, and did not include divisions into the oldest age classes. Spruce is the most-intensively 
+managed species in Estonia, while pine forests are facing fewer harvests. Therefore, the age 
+distribution in pine forests has shifted slightly towards older classes (Figure 3.7). 
+Figure 3.7 
+Total forest area by age class, pine 
+ 
+Source: National Forest Inventory. The chart excludes temporarily unstocked forests. 
+In birch forests (Figure 3.8), it is difficult to distinguish any clear trend from the age distribution. 
+However, the largest age classes 41–60 years are partly matured to older classes and partly 
+0
+20
+40
+60
+80
+100
+120
+140
+Grey alder
+2010 (333 000 ha)
+2018 (379 000 ha)
+1000 ha
+0
+20
+40
+60
+80
+100
+120
+140
+Grey alder
+2010 (713 000 ha)
+2018 (688 000 ha)
+1000 ha
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+24 
+harvested. According to interviews, planting of birch has become more popular during the most 
+recent years, but this development is not yet visible in Figure 3.8. 
+Figure 3.8 
+Total forest area by age class, birch  
+ 
+Source: National Forest Inventory. The chart excludes temporarily unstocked forests. 
+The most important species in the class “Other Species” are aspen, grey alder and common 
+alder (Figure 3.9). As a result of the poor organization of regeneration in private forests, the area 
+of other deciduous species in the youngest age classes has grown since 2010. This 
+development has been possible because of the good natural regeneration conditions in Estonia. 
+The increase and development of forest management practices cannot be seen in statistics, yet. 
+Also, some part of the increase can be explained by improved inventory coverage in private 
+forests. The spread of these hardwood species has not been completely unregulated or 
+unrestrained; legislation stipulates which species of trees are permitted to be regenerated on 
+different forest site types3. 
+ 
+3 See Annex 2 for more detail. 
+0
+20
+40
+60
+80
+100
+120
+140
+Grey alder
+2010 (648 000 ha)
+2018 (641 000 ha)
+1000 ha
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+25 
+Figure 3.9 
+Total forest area by age class, other species 
+ 
+Source: National Forest Inventory. The chart excludes temporarily unstocked forests. 
+Forest Ownership 
+Approximately half of the forests in Estonia are owned by the public sector and half by private 
+persons or legal entities (Figure 3.10). The majority of the public forest is managed by a public 
+company Riigimetsa Majandamise Keskus, often abbreviated as RMK (Estonian State Forest 
+Management Centre). 
+During the era of Soviet rule in Estonia, ca. 40% of forests were managed by collective farms, 
+which in general were considered as poorly managed. After Estonia’s new independence in 
+1991, these previously collectively-managed areas were put in restitution/privatization program. 
+The privatization progress is now close to being complete and the result is that ca. 52% of 
+forests are managed by the state, while the rest is distributed to individuals and companies. 
+Roughly two-thirds of private forests are owned by private individuals, while one third is owned 
+by legal entities, most companies, such as Finland-based Tornator. However, a private person 
+is behind many of the legal entities owning forest, as historically the taxation has provided 
+incentives for ownership through a company.  
+Forests managed by RMK have long been recognized as well-managed forests, while for private 
+individuals, the management activity has been poor. Currently, there are over 105 000 private 
+individuals who own forest area. For private individuals, the average holding size is 6 ha and 
+almost half of the properties are smaller than 2 ha. Private forest owners have typically been 
+reluctant to perform plantings and pre-commercial thinnings, which has led to the poor condition 
+of young forests and slow regeneration. Forest owners who own smallholdings may also place 
+more emphasis on other objectives than economic ones, e.g. recreational values. 
+The government has recognized the management inactivity and fragmentation of private forest 
+properties as a problem leading to sub-optimal utilization of Estonia’s forest resources. Policies 
+have been put in place to improve the private forest utilization, including subsidies for pre-
+commercial management measures and removal of property tax of forest estate sales. The 
+removal of property tax aims to concentrate forest ownership to larger units, leading to more 
+active forest management and better resources for investments into forestry. 
+0
+20
+40
+60
+80
+100
+120
+140
+Grey alder
+2010 (393 000 ha)
+2018 (441 000 ha)
+1000 ha
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+26 
+Figure 3.10  
+Forest ownership development 
+ 
+* Forests awaiting restitution; planned restitution. Source: National Forest Inventory 
+ 
+ 
+40 %
+40 %
+41 %
+41 %
+44 %
+48 %
+49 %
+51 %
+52 %
+11 %
+11 %
+13 %
+13 %
+15 %
+17 %
+17 %
+19 %
+19 %
+34 %
+34 %
+33 %
+33 %
+33 %
+30 %
+30 %
+29 %
+29 %
+15 %
+15 %
+12 %
+12 %
+8 %
+4 %
+4 %
+1 %
+0 %
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+RMK and other state-owned
+Private Companies
+Private Individuals
+Restitution*
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+27 
+3.2 
+Forest Management Practices 
+Box 3.2 
+Chapter Highlights 
+General 
+ 
+Forest law sets definitive boundaries and requirements for forest management. No 
+additional official forest management recommendations exist. 
+ 
+State forests have traditionally been well-managed, while private forests, especially 
+small-holder owned, have been inactively managed and even neglected. 
+ 
+In Estonia 1.5 million ha of forest area is FSC certified and 1.3 million ha PEFC 
+certified. Most of the certified forests are dual-certified. 
+ 
+In recent years environmental concern has arisen about the use of forests in Estonia. 
+One of the results has been the cancellation of the Est-For pulp mill project. 
+ 
+Changes in the forest law during the last decade have been favorable from the 
+viewpoint of harvesting (e.g. larger felling areas are allowed and final felling criteria for 
+spruce stands have been eased). The Forestry Act currently restricts the maximum 
+clear-cut area to 7 ha. The average size of a clear-cut is only between 1 and 2 ha. 
+State forests 
+ 
+The quality of forest management has remained on a good level and is likely to remain 
+so as the government is committed to supporting the local wood product industry. 
+Private forests 
+ 
+Planting of birch has become more popular. 
+ 
+Thinnings, especially pre-commercial thinnings, have been considered often purely as 
+costs. Recently, however, private forest owners have increasingly taken thinnings into 
+their forest management toolbox. 
+ 
+The growth of energy wood demand has made the thinning of previously unmanaged 
+hardwood (especially alder) stands economically sensible. Also, subsidies have been 
+made available to motivate pre-commercial forest management activities. 
+ 
+Domestic and export price of pulpwood are major drivers for thinnings. 
+ 
+The company-owned forest area is growing and is likely to increase forest management 
+activity. 
+ 
+This chapter will provide background information on the major change drivers of forest 
+management practices in Estonia and will describe the recent changes that have taken place in 
+forest management. In addition, this chapter includes analysis of the impacts of these changes 
+on the production of sawn timber, the growth rate of forests and their carbon sequestration 
+potential, as well as on the revenue generation of forest owners. 
+3.2.1 
+Change Drivers of Forest Management 
+The direction of forest and forestry development is determined by factors both internal and 
+external to the sector. The impact of external factors on forests and forestry can be direct or 
+indirect. External factors may include changes in demographics, the economic situation, policies 
+and institutions, advancements in science and technology and the responses of society to 
+critical environmental changes; these often have a significant impact on how forests are 
+managed. 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+28 
+Political, Institutional and Economic Environment 
+In small-holder private forests, the general level of forest management has been relatively low 
+in recent decades, and the fertile land combined with limited forest management has led to 
+overly dense forests. In Estonia, forest management practices have faced many changes during 
+the past century. Changes in the role of forests and forest ownership structure have influenced 
+prevailing forest management practices. The distinctive feature of the 1990’s was the rapid 
+growth of harvesting volumes and the transition from tree-length method to the cut-to-length 
+method in harvesting. These were mainly driven by the re-independence of Estonia, rapid 
+economic growth and the privatization of forests, which led to the formation of capital which 
+allowed new investments into new equipment and increased demand for also wood-based 
+products. 
+The historical set-up and implementation of land reform principles have led to a higher 
+fragmentation of land use and ownership in Estonia. Forest management activities were 
+prohibited in former private forests until legal owners or their successors were found. Since 
+independence, a privatization process of the state forests has taken place and there have been 
+some improvements. Today Estonia is Europe’s fourth most forested country, and the state 
+forests are generally in better condition than privately owned forests, as forest management 
+practices are carried out in them more frequently. 
+There is no dedicated green growth strategy in Estonia, but several sectoral plans and 
+programmes address environmental concerns, and green tax reform is underway. Energy 
+development plans encourage renewable energy, although they lack specific measures to 
+minimize reliance on fossil fuels. 
+In the 2000’s the arrival of foreign forest investment institutions (e.g. Tornator and Dasos) has 
+locally positively affected the forest management regime in privately owned forests, as forest 
+management practices, such as tending of seedling stands and regeneration, have been given 
+more emphasis. 
+In recent years there has been plenty of debate about the use of forests in Estonia. Local 
+conservation organisations, activists, green party members and even some scientists have 
+expressed their concerns about the current state and future of Estonian forests. Estonia’s 
+logging volumes are currently at a record-high level. In 2015, the European Commission 
+expected Estonia’s forests to become a net carbon source by 2030, rather than a sink, as they 
+are today. However, Estonia’s more recent UNFCCC reports indicate, that the LULUFC sector, 
+including forest land, is expected to remain a carbon sink until 2035 and beyond, even though 
+the size of the forest carbon sink is forecasted to shrink significantly, possibly by as much as 
+60% compared to the 2015 level. The projections have been based on the historical 
+development of emissions and carbon sequestration in the sector since 1990, and do not 
+account for changing goals, competencies and awareness of forest owners. In 2010 the 
+Conservation Act had placed management restrictions on roughly one-third of Estonian forests. 
+Since 2000, the country has made significant progress in decoupling its strong economic growth 
+from the primary environmental pressures. However, it has the most carbon-intensive and the 
+third most energy-intensive economy in the OECD, largely due to its heavy reliance on oil shale. 
+In 2016 Estonia had achieved the Aichi target on biodiversity protection. The status of species 
+has improved since 2007, with more than half of habitats and species in a favourable condition 
+(compared to the EU average of 16% of habitats and 23% of species). 18% of the terrestrial 
+area is protected. Estonia has the largest budget for Natura 2000 private forest land support 
+among the EU Member States; EUR 28 million for 2014. 
+In 2010, the Estonian FSC was granted the status of the FSC National Office. In Estonia 
+1.49 million ha of forest area is FSC certified and 1.29 million ha PEFC certified. Quite a notable 
+share of Estonian certified forests are dual-certified, as the State Forest Management Centre, 
+RMK, has both FSC and PEFC management certificates. The largest private forest owner in 
+Estonia, Tornator, also has dual certification for its forests. An estimated 13% of private forests 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+29 
+are FSC certified and 20% PEFC certified. Along with the increasing corporate forest ownership 
+in Estonia, the popularity of FSC certification has been increasing in recent years. 
+Annual population change in Estonia has been quite stable in the last two decades including 
+modest inclines and declines. Urbanization is commonly regarded as a change driver for forest 
+owner attitudes, thus affecting forest management practices. In Estonia, the share of the urban 
+population has remained the same in the last decade (approximately 69% of the total 
+population).  
+Legal framework of Estonian forest management 
+Forest legislation in Estonia can be described as strict and it regulates many aspects with 
+specific threshold values, which can be noticed in final felling requirements; final felling is age 
+and diameter driven (Table 3.1, Table 3.2). In practice, the diameter is often the first criteria to 
+be met.  
+Table 3.1 
+Rotation ages (in years) per tree species and quality class 
+Tree Species 
+Quality class 
+1A
+1
+2
+3 
+4 
+5;5A
+Scots pine 
+90
+90
+90
+100 
+110 
+120
+Norway spruce 
+60
+70
+80
+90 
+90 
+90
+Silver and downy birch 
+60
+60
+70
+70 
+70 
+70
+Aspen 
+30
+40
+40
+50 
+50 
+-
+Black alder 
+60
+60
+60
+60 
+60 
+60
+Hard broadleaved trees 
+90
+90
+100
+110 
+120 
+130
+Source: Rules of Forest Management 
+Table 3.2 
+Average diameter (in cm) at breast height requirements for the dominant 
+tree species to allow for clear-cutting 
+Tree Species 
+Quality class 
+1A
+1
+2
+3 
+4 
+5;5A
+Scots pine 
+28
+28
+28
+28 
+28 
+28
+Norway spruce 
+26
+26
+26
+26 
+26 
+26
+Silver and downy birch 
+26
+26
+24
+22 
+18 
+16
+Black alder 
+24
+24
+22
+22 
+18 
+16
+Aspen 
+20
+20
+18
+18 
+18 
+18
+Source: Rules of Forest Management 
+These threshold values are determined by the Environmental Board of the Ministry of the 
+Environment. It is somewhat unclear how the values are designated, as published studies on 
+the optimal rotation length and harvesting schedules in the Estonian context are limited. The 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+30 
+restrictions set by forest regulation lead at the very least to an economically suboptimal rotation 
+length in forestry. It is likely that MAI is also suboptimal with these restrictions4. 
+The forest act has been amended on several occasions in the 1990s and 2000s. Forest and 
+conservation acts are the most focal laws that stipulate the use of forests in Estonia. In forest 
+law, forest management is regulated quite strongly. The Rules of Forest Management (“the 
+Rules”) act as the guide for forest owners on what is permitted and what is required in terms of 
+sustainable and good forest management. The law aims to secure the protection of forest 
+ecosystems and sustainable use of forests. Sustainability in forest management is achieved 
+through practices that ensure biodiversity, productivity, regeneration capabilities and vitality of 
+forests while fulfilling ecological, economical, societal and cultural needs. The Rules stipulate, 
+among other things, the size and amount of permissible drag roads in forests, the types of timber 
+landings that are allowed and how they must be arranged, the procedures and methods for 
+collecting harvest residues, requirements for seed trees, reforestation requirements and how to 
+handle regeneration on a site with root rot. The Rules include further thresholds and 
+requirements for still further management procedures. For example, the Rules provide the 
+thresholds regarding age and diameter at breast height (dbh), one of which must be fulfilled for 
+a clear-cut to be permitted (Annex 2). The Rules also provide methods for correctly determining 
+the average age and dbh of a stand. Harvests are not restricted as long as they comply with 
+forest legislation, and as such, the AAC is not specifically allocated amongst forest owners. 
+Restricting harvests would be a largely political decision, and if harvests would be restricted, 
+this would likely happen in state-owned forests first; restricting private forest owners’ rights to 
+harvest their own forests would result in notable dissatisfaction and maybe an impossible 
+decision for politicians to make and enforce. Instead, the minimum requirements for final felling 
+diameter and age are the tools for guiding harvesting levels. 
+Cleaning is permitted in all forests in which the average dbh is eight centimetres or more. 
+Thinnings are subject to the same requirement. In addition, a basal area requirement must be 
+fulfilled, and the thinning may not result in a basal area that is lower than stipulated in the Rules. 
+Selective cutting is permitted, but it may not result in a basal area lower than the provided 
+threshold values (Annex 2). 
+The Rules provide the following requirements and restrictions for collecting harvest residues: 
+ 
+Regeneration cutting areas shall be cleaned of slash not later than in one year from 
+the expiration of the forest notification if it is necessary for ensuring forest 
+regeneration 
+ 
+Slash includes branches, treetops, stem wood remaining in the cutting area, cut 
+undergrowth and cut underwood 
+ 
+The following cleaning methods of cutting areas are permitted, if these do not cause 
+damage to growing trees (including undergrowth): 1) rotting or burning of slash 
+collected into piles or heaps; 2) burning slash in the whole area; 3) strengthening drag 
+roads with slash; 4) chopping and spreading of slash; 5) removal of slash from the 
+cutting area 
+ 
+Removal of slash from the cutting area is not permitted in alvar forests and boreal 
+heath forests 
+ 
+Burning of the slash is prohibited during a period of fire hazard 
+ 
+Burning slash in the whole area is permitted outside a period of fire hazard, provided 
+that the alarm centre of the rescue service has been notified 
+ 
+Slash left rotting in piles or heaps may not cover more than 20% of the cutting area. 
+ 
+4 Virkkunen, E., 2017. Economic Optimization of Harvesting Schedules for Main Tree Species in Estonia. 
+Master’s thesis. Department of Forest Sciences, University of Helsinki. 104 p. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+31 
+A forest owner must submit a forest notification to the Environmental Board in case of planned 
+harvesting (excluding cleaning) and concerning serious forest damages. The forest notification 
+must include: 
+ 
+Identifying details of the forest owner 
+ 
+Cadastral code and location of the planned harvest area 
+ 
+Details about a planned harvest and/or serious forest damages, including: 
+o 
+Inventory data: 
+ 
+Estimated volume and area of the harvest 
+ 
+Species 
+o 
+Method of harvesting 
+ 
+A map depicting the planned harvest area. 
+The Environmental Board verifies the compliance of the information in the notice with the 
+applicable legislation and either approve or bans the planned harvest. A permit is valid for 12 
+months after the owner has been issued the approval. Environmental supervision agencies are 
+responsible for supervising the lawfulness of forest management. Noncompliance with 
+legislation will result in fines determined in the Forest Act. 
+In addition to forest notices, the Environmental board conducts randomized checks in forests, 
+to verify compliance with legislative requirements. 
+3.2.2 
+Changes in Forest Management Practices 
+Forest management practices include actions, such as thinning, regeneration, fertilization and 
+tending, that are undertaken to reach desired outcomes in a forest stand. As mentioned 
+previously, there are differences in forest management practices between private – especially 
+private non-industrial – and public forest owners. The state-owned forests have been managed 
+more professionally, baring in mind the longevity of tree production, while non-industrial private 
+forest owners (NIPF) have mostly been neglecting forest management due to various reasons. 
+Fellings 
+Since 2010, there have been quite a few changes in forest management in Estonia. Some 
+changes are due to changes in legislation, while others have been driven by markets and 
+changes in ownership. 
+Over the last three decades, logging has increased considerably which has led to the previously 
+mentioned environmental concerns. In 2009, Estonian forestry was not perceived to be on a 
+sustainable path regarding logging and regeneration activities5. According to the OECD 
+Environmental performance review (2017), further promotion of sustainable forestry practices 
+through co-operation between relevant ministries, and dissemination of knowledge among 
+private forest owners, is needed. However, the situation is not overly alarming, as harvests have 
+remained below the annual increment, and the total area of protected forests has increased. 
+After 2008, felling area started to return to its previous levels of the early 2000s, plateaued at 
+around 70 000–80 000 between 2014–2017, and increased notably again in 2018 (Figure 3.11). 
+Maintenance fellings account for half of the total harvested area and final fellings slightly below 
+half The majority of regeneration fellings are conducted as clear-cuts, whereas maintenance 
+felling consists mainly of thinning. 
+ 
+5 Urbel-Piirsalu, E. and Bäcklund, A.-K., 2009. Exploring the Sustainability of Estonian Forestry:  
+The Socioeconomic Drivers. Royal Swedish Academy of Sciences, 38(2):101–108. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+32 
+Figure 3.11 
+Felling types 
+Source: Statistics Estonia, 2019 
+The reasons behind increased harvesting levels lie in situational aspects (e.g. Gudrun storm in 
+2005), market interventions (subsidized thinnings since 2006) and changes in the legislative 
+environment e.g. in 2009 forest management plans were no longer compulsory and the state 
+ceased requiring a reforestation deposit. However, the removal of the requirement for a forest 
+management plan has only had very minor impacts. Forest inventory data is required for 
+conducting final fellings and thinnings (must be included in the forest notification), and 
+companies carrying out inventory work are obliged by law to devise a forest management plan 
+for the forest owner unless the owner specifically declines this service. This does not apply to 
+corporate owners with holdings up to 2ha and private owners with holdings up to 5ha. The 
+requirement for a reforestation deposit was removed because it was never actually enforced 
+and because it was perceived to be overly bureaucratic. Instead, subsidies for forest 
+regeneration and support for forest owners’ associations were taken into use. Also, in the 1990s 
+and early 2000s, illegal logging was a major problem, but through increased control of logging, 
+illegal logging has been nearly rooted out. In 2003 illegal logging accounted for approximately 
+0.8% of the total logging volume. The majority of illegal logging took place in private forests, in 
+equal part by the forest owners themselves and by thieves. 
+One of the underlying reasons behind the increase in fellings and thinnings after the low point 
+in 2008 was the granting of subsidies to energy producers to utilize woody biomass. The bottom 
+was reached after the global recession, because there was no demand for pulpwood, and 
+harvests nearly stopped completely for 6 months. These subsidies have been discontinued, but 
+state and EU subsidies are still available for private forest owners for e.g. planting, soil 
+preparation, pre-commercial thinnings and pruning, among others. 
+Changes in forest law have caused some opposition by especially green party supporters. 
+Restrictions on fellings have been reduced in a few different ways. The minimum stand age for 
+clear-cutting has recently been reduced. Typically, the age of the stand is not the indicator that 
+determines the time of a clear-cut, rather the size of the trees. The minimum felling age of spruce 
+was also reduced, which led to some public uproar and inflated claims, that spruce would soon 
+disappear from Estonia due to overharvesting. Conservationists see that commercial demand 
+for wood, i.e. clear-cutting, is already showing a change in the landscape, e.g. as more 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Chart Title
+Regeneration felling
+Maintenance felling
+Other felling
+million m3
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Chart Title
+Regeneration felling
+Maintenance felling
+Other felling
+1 000 ha
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+33 
+unstocked land. In addition, the maximum clear-cut area was increased to the current 7 ha 
+(previously 5 ha), and the requirement for a forest management plan and forest inventory in 
+privately held forest stands of under 5 ha in size has been removed. The average size of clear-
+cut areas is between 1 and 2 ha regardless of the much higher possible limit. The smaller actual 
+area is however mainly due to the small average size of private holdings (approximately 6-7 ha). 
+Thinnings are common practice in state-managed forests and are conducted in a timely manner. 
+Typically, three thinnings are conducted during a rotation, including pre-commercial thinning. 
+The situation is quite different in private forests, especially those of smallholders. Smallholders 
+often view thinnings as an undue cost, which should be avoided. One of the main causes is a 
+very limited local market for pulpwood, and especially pre-commercial thinnings do not yield 
+enough wood to cover the costs. Another factor affecting the thinning activity of individual private 
+forest owners is the lack of attachment to their assets. During the Soviet era, forests were 
+nationalized and many current forest owners who have had their family properties returned to 
+them, do not regard it as their legacy. This is in contrast with e.g. Finnish non-industrial forest 
+owners, who have perhaps had the same forest asset in their family for many generations and 
+feel obliged to care for it responsibly. Industrial forest owners are more active in thinning their 
+forests, and typically there are no delayed thinnings in these assets. According to interviews, 
+despite thinning inactivity of smallholders there has been a positive shift in recent years 
+(although this is not yet seen in the statistics). Traditionally domestic pulpwood prices and 
+foreign demand are a strong driver of thinning activity in Estonia. In 2017–2018, most necessary 
+thinnings were conducted in nearly all forests, because the price of pulpwood skyrocketed. 
+Pulpwood demand in the Baltic region influences also thinning activity in the country. 
+Statistics of thinning activity do not include all thinnings after 2009, because forest owners were 
+permitted to harvest 20 m3/year per property for household use without submitting a forest 
+notification. In a smaller stand, this volume of wood can already mean that a proper thinning 
+has been conducted, but this will not show in the official statistics. This causes difficulties in 
+assessing the actual level of delayed thinnings. 
+Even though maintenance fellings account for half of the harvested area in Estonia, over 80% 
+of all harvesting volume is accumulated from clear-cuts. The share of clear-cuts has risen 
+steadily during the last decade. In 2000 it was only 59%, whereas in 2016 it had increased to 
+84%. This is partly a result of forests reaching maturity, but also due to changes in the ownership 
+structure of forests. The share of forests owned by corporate owners has increased, which has 
+to lead to increasingly active and intensive forest management in private forests. 
+Cut-to-length (CTL) has been the dominant harvesting method for decades. In 2017, the share 
+of manual chainsaw harvesting accounted for only 13% of the harvests, while the rest was fully 
+mechanized CTL. In 2005, the share of manual chainsaw harvesting accounted for 38% and 
+fully mechanized 62%. 95% of clear-cuts are done by mechanized cut-to-length harvesters, 
+while the share is somewhat lower (80%) in thinning operations.  
+Low management activities in non-industrial private owners’ forests have been due to lack of 
+knowledge and low profitability of forest management. As private forest ownership is very 
+scattered, the indirect and direct costs are higher compared to larger-scale management. 
+Although forest management activity of NIPF owners has been low, there has been a notable 
+change as overall management activity in private forests has increased. Private forest owners 
+have become more aware of the benefits of actively managing their forests. High prices of 
+energy and fibrewood have motivated also smallholders to conduct thinnings in their forests. 
+The government has also begun to subsidize thinnings in private forests. This allows for 
+smallholders to potentially gain incomes from thinnings already, which has been a problem 
+previously. Due to poor income potential, thinnings have usually been considered purely an 
+expense by smallholders. The concentration of ownership to companies has also had a large 
+impact. Companies have clearer financial objectives for their assets, which motivates more 
+active forest management. 
+ 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+34 
+Collection of Felling Residues 
+Collection, chipping and utilization of harvesting residues (branches and treetops) is an 
+increasing trend in Estonia (Figure 3.12). The majority of harvesting residues are left in-situ to 
+improve the bearing capacity of logging tracks in the forest. Up to 70% of the forest soils are so 
+wet that the residues have to be used in-site to improve the bearing capacity. The material used 
+to build logging tracks cannot be used for burning due to compression and high mineral content. 
+Foliage is not utilized and as such not included in the estimation of the utilisation of harvesting 
+residues. Tree stumps, especially coniferous stumps after a clear-cut, could be collected and 
+utilized for energy. However, the utilization of tree stumps is not a common practice, especially 
+as there is the capacity to increase the utilisation rate of other, more easily available harvesting 
+residues. Tree stumps are not included in the estimation in the chart below.  
+Figure 3.12 
+Utilisation of harvesting residues (branches and treetops) 
+ 
+Sources: Sources: Statistics Estonia, 2019; Padari, A. et al, 2009; Estonian University of Life Sciences, 
+2009; Erametsakeskus, 2016; Erametsakeskus 2018; expert interviews, Indufor analysis 
+As cut-to-length harvesting is by far the dominant harvesting method in Estonia, most of the 
+harvesting residues are produced on-site, not dragged out of the forest during harvesting. One 
+of the main measures for the reduction of the production cost of wood chips from harvesting 
+residues is the further increase in the level of mechanization of forest harvesting. Harvesting 
+becoming increasingly mechanized in Estonia is further enabling the collection of harvesting 
+residues. Especially during the early and mid-2000’s a major factor interfering with the further 
+growth of harvesting residue utilization has been small felling areas, which cause logistical 
+problems. 
+Until the 2010s there was little-to-no demand for harvesting residues because there were still 
+wood processing residues available for the production of wood chips. However, the use of 
+harvesting residues has grown since due to the start-up of large CHP plants in Estonia. The 
+energy market is the only real market for harvesting residues currently. The use of harvesting 
+residues for energy became more common during 2005–2010 when the price of forest chips 
+rose to a level that made a collection of residues worthwhile. Investments, such as Fortum Tarto 
+(2009) and Fortum Pärnu (2010), have increased the demand for wood chips, which can be 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Collected
+Left in-situ
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+35 
+made from forest residues. According to interviews, the harvesting residues are collected from 
+less than half of the clear-cuts, and only a relatively small portion of all residues are collected 
+even from these sites. The current collection of residues is however close to the maximum that 
+can be collected, as residues are in many cases needed to improve the bearing capacity of the 
+land, to protect it from damages by harvesting equipment. The utilisation of harvesting residues 
+is also restricted by the fact that their collection and utilisation is economically sound only if the 
+point of consumption is approximately at a maximum distance of 70km. 
+Today residues are collected in Estonia when: 
+ 
+The stand has a suitable site for storing the slash piles 
+ 
+There are enough of residues after using the slash in improving the bearing capacity 
+of the within-stand logging trails 
+ 
+It is in the proximity of a demand point 
+ 
+The nutrient balance is not significantly affected. 
+A lacking forest regime that has led to thickets and overly dense forests, has resulted in the 
+growing potential for increasing the collection of forest-based bioenergy. 
+From a forest residue utilization perspective, the final felling area is a potential area for the 
+collection of harvesting residues. Meanwhile, harvesting residues from maintenance felling are 
+seldom utilized, as the residues are primarily left on site to fertilize forest growth. In addition, 
+they are technically more difficult and expensive to collect from the site. 
+Forest Regeneration and Other Forest Management Practices 
+In public forests, planting is the dominant method for regeneration. 60% of stands are planted, 
+15–20% are sowed, 15–20% is naturally regenerated with supplementary planting, and the 
+remainder is naturally regenerated. This is in stark contrast with private forests, where only 20% 
+of stands are regenerated by planting or sowing. 3–4 years ago, planting was even scarcer in 
+private forests. However, only approximately 10% of clear-cut areas would not naturally 
+regenerate without human intervention, meaning that planting or sowing is typically not even 
+necessary; stands will mostly regenerate in any case.  
+Forest regeneration by planting has become more popular over the past decade. During 2018, 
+private forest owners planted between 8–10 million seedlings while 3–4 years ago this figure 
+was between 3–4 million seedlings. Natural regeneration and assisted natural regeneration 
+have been and still are the most common regeneration methods in private forests but are slowly 
+giving way to planting and sowing. Subsidies have also played a part in the increasing popularity 
+of planting, as budget allocations for subsidizing planting have been increasing over the past 
+decade. In addition, the network of forest management associations in the country has been 
+improving, and it is better equipped to obtain seedlings and offer planting services. 
+Public forests have long been managed in a similar fashion. Stands are regenerated after felling 
+by either planting or sowing and some are naturally regenerated. Usually, the stand is 
+regenerated with the same species that were harvested. One notable change in the 
+management of public forests is the decreased planting density during regeneration. As seedling 
+quality has improved over the years, mortality has reduced, and a sparser planting density has 
+become sufficient. Previously the standard planting density of birch in public forests was 2 500 
+seedlings/ha, while nowadays it is 2 000 seedlings/ha.Reforestation in Estonia has been 
+increasing during the past decade in line with increased fellings. Planting is the preferred method 
+for reforesting in Estonia, accounting for over 70% of all active reforestation (Figure 3.13) 
+Assisted natural regeneration is also rather common and is the preferred method usually for 
+deciduous trees. However, in recent years planting birch has been gaining increasing popularity. 
+Planting is most often conducted with spruce. The planting area of pine is approximately half or 
+a third of that of spruce in a typical year. Pine is usually sowed on sandy soils, where weeds are 
+not expected to overpower the seedlings. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+36 
+Measures must be taken within 2 years after clear-cutting to establish a new stand. 
+Regeneration must occur within 5 years of the clear-cut. This applies to regeneration by planting, 
+sowing and natural regeneration alike. In 2017 the Environmental Board found that the majority 
+of forest owners regenerate their forests in accordance with the mentioned requirements. If the 
+Board finds regeneration measures lacking or neglected, they will first notify the forest owner of 
+the noncompliance and inform them of the legal requirements. If notices are disregarded, 
+sanctions may be applied. 
+Figure 3.13 
+Reforestation in Estonia by type 
+ 
+* Since 2014 it has not been compulsory for private and other forest owners to submit reforestation data. 
+Note: Data excludes naturally regenerated areas in which no human interventions have been made to 
+assist the regeneration process after harvesting and reflects only the area on which reforestation activities 
+have been carried out, not the actual result of activities. The majority of private forests are left to regenerate 
+naturally without any human intervention after clear-cutting and as such are not included in the above 
+statistic. 
+Source: Statistics Estonia, private communication from a representative of the Estonian Ministry of the 
+Environment.  
+In addition to the previously mentioned, there are other smaller factors that have affected forest 
+owners’ behaviour, and thus the realized forest management practices. For example, currently, 
+the sale of forest estates is tax-free, but wood sales are not. Also, forest management plans 
+have been varyingly mandatory in previous decades. 
+3.2.3 
+Impacts of Changes 
+Production of Sawn Timber 
+Production of sawn timber and other wood products have been growing in the last decade in 
+Estonia, as the country has been able to create a functioning cluster for the wood products 
+industry. This has been supported by the government, for example by the Ministry of the 
+Environment. 
+0
+2
+4
+6
+8
+10
+12
+14
+2010
+2011
+2012
+2013 2014* 2015
+2016
+2017
+2018
+Chart Title
+Sowing
+Assisted natural regeneration
+Planting
+1 000 ha
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+37 
+Increasing fellings have provided the raw material for the sawmill industry. Increasing forest 
+ownership of companies, which manage forests professionally, has also increased the number 
+of good quality logs in the domestic markets. 
+As forest management becomes more active it is likely to increase the availability of logs and 
+pulpwood. The increasing trend in thinnings will increase the yield of both of these assortments. 
+As the state forests are already mainly well managed, the small-holders play a crucial role at 
+the moment and in the future. Especially the activation of smallholders will support wood 
+availability for wood processing, which can strengthen the already strong wood product industry 
+in Estonia. The increasing popularity of thinnings will likely increase rotation times, as well. On 
+the other hand, the increasing importance of climate change mitigation goals may create 
+pressure for avoiding fellings in the future. 
+Forest law regulates minimum forest age for clear-cuts. According to interviews, RMK often 
+conducts the final felling at the minimum age. Due to the regulation, an increase of wood-based 
+bioenergy demand has not shortened rotations at least in state-managed forests. In forests that 
+are older than the minimum final felling age, sawlog price is a more important driver for final-
+felling decision than wood-based bioenergy demand. Decreasing the felling age of spruce was 
+not driven by the demand for biomass. The Ministry of the Environment (MoE) justified the 
+change with the need to “allow forests to capture the maximum amount of carbon while 
+producing maximal income for their owners”. The MoE based this on an analysis by the Institute 
+of Forestry and Rural Engineering of the Estonian University of Life Sciences, which found that 
+the difference between the current maturity and so-called economic maturity was 25 years; 
+during this 25-year-period the productivity of forest stands decreases and the quality of the wood 
+deteriorates due to e.g. root rot. 
+Growth Rate and Carbon Sequestration Potential 
+As mentioned in 3.1.2, the growing stock of forests has increased steadily in the past decades. 
+Clear-cuts increased notably in 2018, which along with improved inventory sampling lead to 
+statistics indicating a decrease in the growing stock. However, a decrease is not perceived to 
+have occurred in reality, rather the stock has remained steady or slightly increased. This, at any 
+rate, slowed the growth of the total carbon stock, which has been increasing for the past decade.  
+The carbon sequestration of forests depends on the growth of forests and the intensity of 
+harvests. As the growing stock of Estonian forests has been expanding, also carbon stocks 
+have increased, since harvests have not exceeded the total annual increment. Thus, Estonian 
+forests have been carbon sinks. Increasing awareness of forest management practices 
+combined with climate change mitigation aspirations is likely to increase forest growth, and thus 
+also the carbon sequestration potential of Estonian forests in the future. It is noteworthy, that 
+the carbon sequestration capability of forests peaks approximately as the stand reaches the age 
+of 25-30 when growth is at its highest. Section 3.1 presented age distributions of different tree 
+species in 2010 and 2018. There have not been any major changes in the age distributions, 
+thus no indication of a decline nor increase in the forests’ ability to sequester carbon is detected. 
+Harvesting of energy wood in thinnings decreases the carbon stock temporarily but may 
+increase carbon sequestration through improved volume growth of the remaining trees. The 
+collection of harvesting residues decreases the carbon stock but is also likely to decrease the 
+carbon sequestration potential of the felling area as the removal of felling residues will affect the 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+38 
+future carbon input of the soil6,7,8,9,10. However, the effects of a collection of residues vary 
+between different energy wood fractions11. The substitution effects of forest residues should 
+also be accounted for. Substituting fossil fuels with biofuels (e.g. forest residues) has the 
+potential to reduce total carbon emission, thus justifying decreasing soil organic carbon (SOC) 
+levels resulting from collecting harvesting residues. This is however strongly affected by the 
+chosen management regime (e.g. continuous cover forestry or clear-cutting and regeneration)12. 
+Within the increasing thinning popularity in Estonia lies a potential for increasing carbon 
+sequestration, if the volume of forests is increased. 
+Revenue Generation of Forest Owners 
+The profitability of forestry is namely based on the timber production capacity of forests and the 
+demand for wood raw material. Forest management aims to promote the growth of valuable 
+stands and improve the quality of roundwood. In addition to wood production, today's forest 
+management focuses on the preservation of natural values, landscape management and 
+recreational needs. 
+Although forest management practices per se have not directly affected the revenue generation 
+of forest owners, positive development has occurred due to other drivers. 
+Some private forest owners have presented that they ought to be compensated for their 
+foregone income due to restricted forest management by strict forest legislation. However, this 
+is unlikely to take place. 
+If forest holdings become more fragmented and smaller, the economic importance of these 
+forests might decrease. Thinnings have been financially supported since 2006. In 2010–2012 
+the net revenue of private forests was 90–112 €/ha. As private forest management has been 
+very short-sighted (neglecting reforestation and tending), the long-term profitability of private 
+forestry has been jeopardized. The potential average long-term net revenue has been estimated 
+to be around 130€/ha which could decrease by up to 24% if management restrictions were 
+applied as well (e.g. if restrictions due to forest conservation are applied). 
+Generally, the revenue generation of forests has become better as the demand for different 
+assortments (sawlogs, pulpwood, energy wood) has grown. Without significant markets for 
+energy wood and pulpwood, thinnings have not been economically lucrative for forest owners. 
+For example, previously there was no demand for energy- and pulpwood from alder forests. 
+The state has provided assistance to create larger forest management units in order to alleviate 
+the low-profitability of forestry among smallholders. Forest owner associations (FOA) have been 
+formed from the beginning of the 1990s. FOA memberships have been growing during the 
+2010s. There are currently around 30–40 FOAs in Estonia. The state subsidizes FOAs based 
+ 
+6 Knoepp, J., D. and Swank, W., T., 1997. Forest Management Effects on Surface Soil Carbon and 
+Nitrogen. Soil Science Society of America Journal, 61(3):928–935. 
+7 Achat, D., L., Fortin, M., Landmann, G., Ringeval, B. and Augusto, L., 2015. Forest soil carbon is 
+threatened by intensive biomass harvesting. Scientific Reports, 5(1). DOI: 10.1038/srep15991. 
+8 Jones, H., S., Garrett, L., G., Beets, P., N., Kimberley, M., O and Oliver, G., R., 2007. Impacts of 
+Harvest Residue Management on Soil Carbon Stocks in a Plantation Forest. Soil Science Society of 
+America Journal, 72:1621–1627. 
+9 Gollany, H., T., Novak, J., M., Liang, Y., Albrecht, S., L., Rickman, R., W., Follett, R., F., Wilhelm, W., 
+W. and Hunt, P., G., 2010. Simulating Soil Organic Carbon Dynamics with Residue Removal Using the 
+CQESTR Model. Soil Science Society of America Journal, 74: 372–383. 
+10 Nave, L., E., vance, E., D., Swanston, C., W. and Curtis, P., S., 2009. Harvest impacts on soil carbon 
+storage in temperate forests. Forest Ecology and Management, 259:857–866. 
+11 Repo, A., Känkänen, R., Tuovinen, J.-P., Antikainen, R., Tuomi, M., Vanhala, P. and Liski, J., 2012. 
+Forest bioenergy climate impact can be improved by allocating forest residue removal. GCB Bioenergy, 
+4: 202–212. 
+12 Pukkala, T., 2014. Does biofuel harvesting and continuous cover management increase carbon 
+sequestration?. Forest Policy and Economics, 43:41–50. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+39 
+on their activity, partly monitored through joint timber sales. Since 2014 only larger FOAs are 
+eligible for these subsidies. As mentioned before, subsidies for pre-commercial thinnings have 
+improved the profitability of forestry and have motivated more active forest management. As 
+thinnings become more common, it positively affects the diameter growth of trees, which in turn 
+has the potential of increasing the value of harvested logs leading to increased revenues of 
+forest owners.  
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+40 
+4. 
+SOLID WOOD PRODUCT MARKETS 
+4.1 
+Domestic Production 
+Box 4.1  
+Chapter Highlights 
+Production 
+ 
+Sawmilling capacity and production have increased strongly since 2010. 
+ 
+Roundwood consumption has likewise increased, mainly due to increased demand from 
+sawmills. 
+ 
+Estonia has only two pulp and paper mills; one of these uses only aspen pulpwood. Large 
+volumes of birch and softwood pulpwood are exported for Finnish and Swedish P&P 
+industry.  
+ 
+Estonia is a notable producer of wood pellets, of which over 90% is exported. The 
+production of pellets has increased continuously for the last 10 years, providing markets 
+for both small-diameter roundwood not utilized by the P&P industry and for sawmill by-
+products. 
+Estonian Forest Industry 
+Estonian forest industry consists of 13 industrial sawmills, fibreboard and plywood production, 
+two pulp and paper mills and a significant pellet industry. Estonian sawmills, which have made 
+modernization and capacity investments in recent years, provide stable markets for sawlogs 
+harvested from the Estonian forests.  
+The two P&P mills are located in northern Estonia. AS Estonian Cell (label no. 21, see Figure 
+4.1, Table 4.1) produces BCTMP using only aspen, while Horizon (label no. 7) is an integrated 
+P&P mill, producing softwood pulp and paper. Horizon uses wood chips and small-diameter 
+roundwood. Est-For, a greenfield pulp mill project, was under planning until November 2018, 
+when the project was terminated. A new pulp mill would have increased the domestic use of 
+Estonia’s small-diameter roundwood and likely decreased the exported volumes, but due to 
+strong environmental concerns and local opposition, the investment plan was canceled. The 
+opposition was based on fears of the mill’s wood consumption resulting in over-exploitation of 
+the country’s forest resources and its effluent discharge degrading the adjacent Emajõgi river, 
+The large size of the mill was a large driver for the opposition, as the mill’s annual wood demand 
+would have been approximately 3.3 million m3. However, the fears of overexploiting forests were 
+perhaps irrational. Estonia is a large exporter of wood raw materials, and by reducing exports 
+of raw materials and redirecting these streams to the domestic pulp mill, total domestic raw 
+material sourcing could have been maintained at a sustainable level. 
+The wood-based panel industry has grown during the last 10 years. Finnish Metsä Wood and 
+Latvian company Latvijas Finieris have invested in new birch plywood production sites during 
+the last two years. In addition to plywood and veneer production, there are three fiber/chipboard 
+mills in Estonia, mainly consuming domestic-produced conifer wood chips. 
+There are 11 industrial pellet mills in Estonia, making it the 7th largest pellet producer in Europe. 
+The pellet industry has good operating conditions in Estonia due to the sawmill industry and 
+relatively low domestic wood demand from the P&P industry. 
+In addition to sawmills, P&P mills, WBP mills and pellet mills, there are engineered wood product 
+(EWP) mills and prefabricated wooden house production in Estonia, which further process and 
+add value to the sawmill products. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+41 
+Figure 4.1  
+SWP mills in Estonia 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+42 
+Table 4.1  
+Legend for SWP mill map 
+Label 
+Type 
+Company 
+Label Type 
+Company 
+21 
+P & P 
+AS Estonian Cell 
+11 
+Sawmill 
+Lemeks Group 
+7 
+P & P 
+Horizon 
+22 
+Sawmill 
+Lemeks Group 
+10 
+Pellet 
+AS Graanul Invest 
+23 
+Sawmill 
+Lemeks Group 
+14 
+Pellet 
+AS Graanul Invest 
+3 
+Sawmill 
+Norvik/Bergs Timber 
+15 
+Pellet 
+AS Graanul Invest 
+24 
+Sawmill 
+Raitwood 
+27 
+Pellet 
+AS Graanul Invest 
+12 
+Sawmill 
+Stora Enso 
+32 
+Pellet 
+Palmako 
+18 
+Sawmill 
+Stora Enso 
+13 
+Pellet 
+Stora Enso Imavere 
+26 
+Sawmill 
+Toftan 
+16 
+Pellet 
+Stora Enso Näpi 
+28 
+Sawmill 
+Vara Saeveski OÜ 
+2 
+Pellet 
+Warmeston 
+5 
+WBP 
+Latvijas Finieris 
+6 
+Pellet 
+Warmeston 
+17 
+WBP 
+Lemeks/Tarmeko 
+19 
+Pellet 
+Warmeston 
+4 
+WBP 
+Metsä Wood 
+31 
+Pellet 
+Warmeston 
+33 
+WBP 
+Repo Vabrikud AS 
+30 
+Sawmill 
+Barrus 
+1 
+WBP 
+Skano Fiberboard 
+8 
+Sawmill 
+Combimill Group 
+29 
+WBP 
+Skano Fiberboard 
+9 
+Sawmill 
+Combimill Group 
+20 
+WBP 
+UPM 
+25 
+Sawmill 
+HaServ 
+ 
+ 
+ 
+ 
+Production and Wood Consumption 
+Domestic production of sawnwood has increased from 2010–2018 by almost 400 000 m3.  
+Domestic roundwood demand for SWP production has increased mainly due to increased 
+sawmilling (Figure 4.2). Sawmills have been investing in capacity strongly over the period 2010–
+2018. In addition to expansions, completely new capacity has also been introduced to the 
+market. A clear jump in softwood sawnwood is visible in 2017, which is attributable to Toftan’s 
+sawmill expansion (owned by Swedish AB Karl Hedin) coming online in 2017. Some sources 
+speculate that there is currently overcapacity in sawmilling and expect some capacity declines 
+to occur in the near future. 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+43 
+Figure 4.2 
+Production and roundwood consumption of SWPs 
+ 
+Source: Statistics Estonia, Indufor 
+Plywood manufacturing has tripled in size between 2010–2018, driving demand for especially 
+birch logs. Jumps in production were experienced between 2016–2017 and 2017–2018, which 
+has also been reflected in birch veneer log prices increasing during this time (Figure 4.3). The 
+UPM Otepää plywood mill expansion was completed in 2016, explaining the increases in 
+production. 
+Pulp production and domestic pulpwood demand have remained relatively stable over the past 
+decade. This is due to only two pulp & paper mills being located in Estonia. A third large pulp & 
+paper mill was planned (Est-For), but the plans were abandoned due to strong opposition by 
+local residents. 
+0
+50
+100
+150
+200
+250
+300
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+0
+500
+1 000
+1 500
+2 000
+2 500
+Sawnwood
+Wood-based panels
+Paper and paperboard, t
+Wood pulp, t
+1 000 m3
+Drax entry to market
+1 000 tonnes
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+44 
+4.2 
+Raw Material Prices 
+Box 4.2  
+Chapter Highlights 
+Prices 
+ 
+There are no notable differences in private and public forest wood prices. 
+ 
+Sawlog prices have been rising since 2010, with a sharp increase from 2017–2018.  
+The strong increase in sawmilling capacity and production had been driving this 
+development. 
+ 
+Pulpwood prices have been more volatile than sawlog prices. They have mainly 
+decreased between 2011–2017 and similar to sawlog prices, surged during 2017–2018 
+to a record-high. 
+ 
+The domestic market mainly consumes aspen pulpwood; the Finnish and Swedish pulp 
+market drives the development of other species’ prices. 
+ 
+Wood-based bioenergy (incl. pellets) is not a significant driver for Estonian wood prices, 
+due to previously underutilized assortments, such as harvesting residues and small-
+diameter roundwood being used now. Harvest residue utilisation is on a low level in 
+absolute terms, but has grown drastically, relatively speaking, and is close to the 
+potential maximum. 
+Sawlog prices in Estonia have increased significantly since 2010 (Figure 4.3-Figure 4.4). In-
+state forests, the roadside prices of pine, spruce and birch sawlogs have increased between 
+50–63%. Prices increased quite steadily between 2010–2014, after which they plateaued or 
+decreased gradually until mid-2017. In mid-2017, wood prices jumped. Within a year (06/2017–
+06/2018), the prices of birch, spruce and pine logs all increased by 10–14 EUR/m3 (17–21%). 
+A similar development has taken place in the prices of sawlogs from private forests, where mill 
+gate prices jumped by 12–21% during the same period. Recently sawlog prices have been 
+decreasing.  
+The 2017 surge in prices is attributable to a poor winter, during which the land did not properly 
+freeze, which in turn restricted the number of harvests that could be done without damaging 
+soils. The price of birch veneer logs has been much more volatile than the prices of other logs. 
+Prices were in decline between 2011 to mid-2016 but have since increased to 2011 levels 
+once more. Recently in 2019 prices have experienced a sharp decline. This is however not 
+alarming compared to historical development, and birch veneer log prices have typically 
+decreased during H1 and recovered again in H2 of any given year.  
+Along with poor harvesting conditions, sawnwood exports increased strongly between 2016–
+2018. With increasing demand, sawnwood prices have also steadily increased. This has also 
+motivated active harvesting in Estonia’s forests. 
+The pricing of small-diameter logs has followed a similar trend to that of larger logs, with slightly 
+more volatility and at a lower level. Swedish company Toftan inaugurated a new large 
+sawmilling line in 2017, which increased the demand for small-diameter logs (12–18 cm 
+diameter) remarkably. 
+ 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+45 
+Figure 4.3 
+Roadside prices of saw- and veneer logs in Estonian state forests 
+ 
+Source: Estonian State Forest Management Centre 
+Figure 4.4 
+Roadside prices of small-diameter and low-value logs in Estonian state 
+forests 
+ 
+Source: Estonian State Forest Management Centre 
+As with sawlogs, a large increase in pulpwood prices is seen in 2018–2019, also due to the poor 
+winter harvesting conditions (Figure 4.5). Due to poor soil bearing capacity caused by the 
+wetness of the soils in many areas, winters are the main time for fellings. As the land freezes, 
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+Chart Title
+Pine
+Spruce
+Birch veneer log
+Birch
+EUR/m3
+Drax entry to market
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+Chart Title
+Pine log d<18cm
+Spruce log d<18cm
+Aspen log
+EUR/m3
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+46 
+bearing capacity is improved and the soil is protected against the weight of the harvesting 
+equipment. In addition to difficult harvesting conditions, pulpwood demand in Finland and 
+Sweden was a major driver for pulpwood price peak. The global market price of long-fiber 
+(softwood) pulp was high in 2018, mainly driven by Chinese demand. 
+Pulpwood prices have dropped notably from the peak experienced at the end of 2018. This trend 
+is expected to continue until pre-2018 prices are met. 
+Figure 4.5 
+Roadside prices of pulpwood and fuelwood in Estonian state forests 
+ 
+Source: Estonian State Forest Management Centre 
+Pulpwood prices have typically been notably below sawlog prices, which is desirable in the 
+sense of increasing carbon sequestration by forests (Figure 4.6). On average, pulpwood prices 
+have been 48% of sawlog prices, which should provide sufficient incentive for forest owners to 
+manage forests to produce sawlogs, instead of reducing rotation lengths and focusing on 
+pulpwood production. Theoretically increasing pulpwood prices decrease rotation lengths and 
+increasing sawlog prices increase rotation lengths. However, regardless of the price 
+development of different assortments, in Estonia, clear-cutting and other final fellings are subject 
+to strict diameter and age requirements as shown previously. These requirements ensure that 
+rotation lengths cannot significantly decrease even if pulpwood and/or energywood prices 
+surge.  
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+Chart Title
+Pine
+Spruce
+Birch
+Fuelwood
+EUR/m3
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+47 
+Figure 4.6 
+Comparison of sawlog and pulpwood prices 
+ 
+Source: Estonian State Forest Management Centre 
+Price development of pulpwood, fuelwood and wood chips together with domestic wood-based 
+bioenergy and pellet exports is presented in Figure 4.7. Wood pellet exports have increased 
+significantly during 2010–2018, but the price of fuelwood has not followed the trend. The price 
+of pulpwood increased remarkably, but wood-based bioenergy was not the main driver for the 
+development. The volume of pellet exports has surpassed the domestic consumption of wood 
+for energy production when measured in terajoules (TJ). 
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Chart Title
+Pine sawlog
+Spruce sawlog
+Birch sawlog
+Pine pulpwood
+Spruce pulpwood
+Birch pulpwood
+EUR/m3
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+48 
+Figure 4.7  
+Wood-based bioenergy production, pellet exports and raw material price 
+development 
+ 
+Source: Statistics Estonia, Estonian State Forest Management Centre 
+4.3 
+Cross-border Trade 
+Box 4.3  
+Chapter Highlights 
+General 
+ 
+Estonia is a net exporter of both roundwood and wood chips. 
+ 
+Finland and Sweden are the main export partners, Latvia is the main import partner. 
+Roundwood 
+ 
+Roundwood exports comprise mainly of pulpwood, with birch pulpwood representing 
+40% of all roundwood exports. 
+ 
+Exports have increased significantly during 2018 compared to 2017, reaching the highest 
+level of the 2010s. 
+ 
+Export prices were low in 2015–2017 but increased drastically in 2018. A similar trend is 
+seen in import prices 
+Wood Chips 
+ 
+Export volumes have been increasing since 2015, when volumes temporarily dropped, 
+reaching a 10-year high in 2017. 
+ 
+In recent years, Russia has surpassed Latvia as the largest wood chip importer to 
+Estonia; compared to exports, quantities are still very small, however. 
+ 
+Estonia is a significant wood supplier in the Baltic Sea region. Finland and Sweden are the 
+largest importers of Estonian roundwood (Figure 4.8), while Latvia is the only significant exporter 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+30 000
+35 000
+40 000
+45 000
+50 000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Chart Title
+Total consumption of wood fuels (TJ)
+Wood fuel exports (TJ)
+Pellet exports (TJ)
+Pulpwood prices (EUR/m3)
+Fuelwood prices (EUR/m3)
+Wood chip price (EUR/m3)
+TJ
+EUR/m3
+Drax entry to market
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+49 
+of roundwood to Estonia (Figure 4.9). Norway and Denmark only import small quantities of 
+Estonian roundwood, and export even smaller quantities of roundwood to Estonia. Russia 
+mainly exports roundwood to Estonia, with only very rare and small shipments made in the 
+reverse direction.  
+In 2018, Estonian roundwood exports to the Baltic Sea region surpassed 2.5 million m3, the 
+highest volume reached during 2010–2018. This increase followed a gradual decline in export 
+volumes between 2011–2017. In 2018, exports consisted mainly of coniferous wood, while in 
+2017 exports consisted of mainly non-coniferous wood. Prior to this, the division between 
+coniferous and non-coniferous has been quite even, the share of each fluctuating at around 
+50%.  
+Figure 4.8 
+Roundwood exports from Estonia to the Baltic sea region 
+ 
+* Denmark, Norway, Russia 
+Source: Comtrade 
+The majority of exported roundwood is pulpwood, accounting for up to 80 % of roundwood 
+exports. The single largest exported pulpwood species is birch, accounting for over 40% of all 
+roundwood exports, followed by spruce (25%) pine (7%) and aspen (7%). Sawlog exports are 
+dominated by spruce and birch in approximately equal shares, with pine sawlogs accounting for 
+only a marginal share of all roundwood exports. 
+Sweden
+Finland
+Latvia
+Others*
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+Norway
+1000 m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+50 
+Figure 4.9 
+Estonian roundwood exports and imports to and from the Baltic sea 
+region 
+ 
+Source: Comtrade 
+Prices of Estonian roundwood have fluctuated quite strongly (Figure 4.10). Prices paid in Finland 
+for Estonian roundwood decreased between 2011–2016 but rose slightly in 2017 and jumped 
+by approximately 28 EUR/m3 between 2017–2018. A similar trend is visible for prices paid in 
+Sweden, but these prices are 5–6 EUR/m3 lower than those paid in Finland. Prices in Latvia for 
+Estonian roundwood are the highest of large importers, regardless of the vicinity. A similar trend 
+in prices is however visible as for Finland and Sweden, only just 10–20 EUR/m3 higher. Export 
+prices follow the trend of domestic roundwood prices. These also rose sharply between 2017–
+2018, due to poor weather conditions complicating and restricting harvests. The price was also 
+increased by strong demand for pulp and the high market price for pulp, which drove the Finnish 
+and Swedish pulp industries to source wood from Estonia at increasing prices. 
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+Norway
+Export
+Import
+1000 m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+51 
+Figure 4.10 
+Price of roundwood exported from Estonia (FOB) 
+ 
+Source: Comtrade 
+As with export prices of Estonian roundwood, also import prices have experienced strong shifts; 
+especially prices of roundwood from Russia and Finland (Figure 4.11). However, import prices 
+of Russian and Finnish roundwood are negatively correlated with the trade volume and do not 
+give a true understanding of the price level. These are both small suppliers in comparison to 
+Latvia. Latvian prices have been notable steadier, due to the fact that Latvia is the largest source 
+of imported wood in Estonia. Prices of Latvian roundwood have remained relatively steady at 
+approximately 72 EUR/m3, with some exceptions. For example, in 2018, prices rose to nearly 
+100 EUR/m3, setting a record for the period 2010–2018. The previous peak was reached in 
+2014 when prices surpassed 93 EUR/m3.  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Import price
+Finland
+Sweden
+Latvia
+EUR/ m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+52 
+Figure 4.11 
+Price of roundwood imported to Estonia 
+ 
+Source: Comtrade 
+In the Baltic Sea region, the main export destinations of Estonian wood chips are Finland and 
+Sweden consecutively and together accounted for nearly 400 000 tonnes of Estonian wood chip 
+exports (Figure 4.12). Other countries in the region have received only occasional and small 
+shipments from Estonia. Exports to Sweden plummeted in 2015. The Cascades Djupafors pulp 
+mill in Sweden ceased production in June 2014. In addition, domestic wood chip prices were 
+low in 2014, likely resulting in increased stocks which in turn decreased the need for imported 
+raw material in 2015. Historically the largest wood chip import partner for Estonia is Latvia, which 
+in the peak year 2011 supplied over 85 000 tonnes of wood chips to Estonia (Figure 4.13). 
+However, in most recent years, Latvia’s importance for Estonia has dwindled and Russia has 
+been growing its export volumes to Estonia, becoming the largest supplier of wood chips in 
+2018. However, Estonian wood chip imports are very small in comparison to exports, the former 
+not even reaching 50 000 tonnes in 2018, while the latter surpassing 400 000 tonnes in both 
+2017 and 2018. 
+0
+20
+40
+60
+80
+100
+120
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Import price
+Latvia
+EUR/ m3
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+53 
+Figure 4.12 
+Wood chip exports from Estonia to the Baltic sea region 
+ 
+* Denmark, Norway, Latvia, Russia 
+Source: Comtrade 
+Figure 4.13 
+Wood chip imports to Estonia from the Baltic sea region 
+ 
+* Finland, Sweden, Norway, Denmark 
+Source: Comtrade 
+ 
+Finland
+Sweden
+Others*
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Norway
+1000 tonnes
+Latvia
+Russia
+Others*
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Norway
+1000 tonnes
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+54 
+Figure 4.14 
+Total wood chip exports and imports to and from the Baltic Sea region 
+ 
+Source: Comtrade 
+Export prices of wood chips generally decreased between 2010–2015 with some fluctuations 
+but have begun to increase since then (Figure 4.15). Typically, the highest price for Estonian 
+wood chips is paid in Finland. Between 2010–2014 wood chips exported to Latvia yielded the 
+second-highest prices, but since then, the second-highest prices have been gained from exports 
+to Sweden, which has also significantly increased wood chip imports from Estonia since 2015. 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Norway
+Export
+Import
+1000 tonnes
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+55 
+Figure 4.15 
+Export price of wood chips from Estonia to selected North-European 
+countries 
+ 
+Source: Comtrade 
+Prices of imported wood chips declined between 2010–2016 but began recovering in 2017. This 
+follows the same trend as import volumes. Import prices are notably lower than export prices, 
+which is mainly explained by the differences in the quality of imported and exported wood chips. 
+Wood chips exported to Finland and Sweden are widely used in the pulp industry, while imported 
+chips are mainly used for energy. 
+0
+20
+40
+60
+80
+100
+120
+140
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Export price
+Finland
+Latvia
+Sweden
+EUR/ tonne
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+56 
+Figure 4.16 
+Import price of wood chips from selected North-European countries to 
+Estonia 
+ 
+Source: Comtrade 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Import price
+Russia
+Latvia
+EUR/ tonne
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+57 
+5. 
+IMPACTS OF WOOD-BASED BIOENERGY DEMAND 
+Table 5.1  
+Impacts of Wood-based Bioenergy Demand to Forest Resources 
+Forest Area / Forest Cover 
+Impact: 
+No negative 
+impact 
+ Regardless of increasing domestic biomass utilization for energy and 
+exports, forest area has increased due to afforestation programs. 
+ Forest cover is not as high as forest area, due to temporarily 
+unstocked areas after the clear-cut. Despite this, forest cover has 
+continuously increased from 2010–2018. 
+Forest Growing Stock 
+Impact:  
+No negative 
+impact 
+ The total forest growing stock has been increasing for the last two 
+decades. In 2018 the growth has slowed or halted; official statistics 
+show a decrease, but this is due to sampling error. In 2018 there was 
+record-high wood demand from Finland, which was driven by high 
+global pulp prices motivating maximal pulp production. This increased 
+harvests to a previously unseen level. 
+Harvesting Levels 
+Impact: 
+Slight 
+increasing 
+impact 
+ During 2004–2011, harvesting levels in Estonia were less than half of 
+the estimated maximum sustainable level. This resulted in an increase 
+in the maximum sustainable harvesting level for the 2011–2020 period. 
+In 2018, the harvesting volumes were at the maximum sustainable 
+level. The main drivers increasing the harvesting volumes have been 
+increased sawmill capacity and production, high demand for pulpwood 
+in Finland and Sweden and improved demand for energy wood. This 
+was a temporary peak and demand has already slowed. Softwood 
+lumber prices have decreased significantly in Europe due to an 
+abundance of wood supply from Central Europe, which has been 
+created by widespread bark beetle and other forest damages. Global 
+pulp prices have also decreased to below 2017 prices. 
+Forest Growth / Carbon Sequestration Potential 
+Impact: 
+Ambivalent 
+impact 
+ The annual increment has grown throughout the 2000–2018 period. 
+ Increased fuelwood price has enabled forest management in some of 
+the alder forests that were completely unutilized in the past. Thinnings, 
+both commercial and pre-commercial, accelerate long-term volume 
+growth in forests, leading to increased carbon sequestration. 
+ Removal of harvesting residues decreases carbon sequestration since 
+the residues are an input to the soil carbon pool. However, the majority 
+of the harvesting residues’ carbon is released to the atmosphere when 
+the biomass decays, so the ultimate impact of harvesting residue 
+collection is minimal if the collection is done on a sustainable level. 
+The sustainability of the collection is determined by how the soil 
+nutrient balance is impacted by collection. This is not accounting for 
+the substitution effect that the harvesting residues may have, by e.g. 
+reducing the need to burn fossil fuels. 
+ Utilization of sawmill by-products does not directly impact forests’ 
+carbon sequestration potential, but it can increase harvesting through 
+improved sawmill overall profitability. 
+ 
+ 
+ 
+© INDUFOR: 8515 CATCHMENT AREA ANALYSIS IN ESTONIA (ID 135454) – February 12, 2020 
+58 
+Table 5.2  
+Impacts of wood-based bioenergy demand to forest management 
+practices 
+Rotation Lengths 
+Impact: 
+Neutral 
+ Forest law regulates minimum forest age for clear-cuts. According to 
+interviews, RMK often conducts the final felling at the minimum age. 
+Due to the regulation, an increase of wood-based bioenergy demand 
+has not shortened rotations at least in state-managed forests. In 
+forests that are older than the minimum final felling age, sawlog price is 
+a more important driver for final-felling decisions than wood-based 
+bioenergy demand. 
+Thinnings 
+Impact:  
+Increasing 
+impact 
+ The increase of bioenergy demand has increased the demand for 
+small-diameter hardwood, which in turn has increased thinnings in 
+previously unmanaged forest stands. This will increase the availability 
+of good quality sawlogs and will also accelerate the carbon 
+sequestration (tonnes/ha/year) of the forests. However, the total forest 
+carbon stock (tonnes/ha) will be reduced; in unmanaged (e.g. no 
+thinnings) mature stands, the carbon stock is larger than in managed 
+stands of similar age. The carbon stock of a thinned stand will remain 
+below that of an unthinned stand regardless of post-thinning 
+accelerated growth. 
+Conversion from Hardwood to Softwood 
+Impact: 
+Neutral 
+ No indication of hardwood conversion to softwood was found. 
+ 
+Table 5.3  
+Impacts of wood-based bioenergy demand to solid wood product (SWP) 
+markets 
+Diversion from Other Wood Product Markets 
+Impact: 
+ 
+ Production of sawnwood, wood-based panels, pulp and paper 
+products have increased or remained steady, i.e. no evidence of 
+diversion. 
+Wood Prices 
+Impact:  
+Slight increase 
+/ Neutral 
+ During 2017–2018, the price of all roundwood assortments increased 
+notably. The increase was strongest in pulpwood assortments, 
+especially those that are not further processed domestically but are 
+exported to mainly Finland and Sweden. Finnish demand for pulpwood 
+was at a very high level in 2018. This was a temporary trend, however, 
+and prices and demand have since decreased. 
+ The price increase for fuelwood was less dramatic, no sharp increases 
+are observed. According to interviews, pellet production was the most 
+important driver of fuelwood prices. 
+ 
+ 
+ 
+ 
+ 
+Annex 1 
+ 
+Timeline of Estonian Forests 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2 
+ 
+Forest Law Requirements 
+ 
+ 
+ 
+Rotation ages (in years) per tree species and quality class 
+Tree Species 
+Quality class 
+1A
+1
+2
+3 
+4 
+5;5A
+Scots pine 
+90
+90
+90
+100 
+110 
+120
+Norway spruce 
+60
+70
+80
+90 
+90 
+90
+Silver and downy birch 
+60
+60
+70
+70 
+70 
+70
+Aspen 
+30
+40
+40
+50 
+50 
+-
+Black alder 
+60
+60
+60
+60 
+60 
+60
+Hard broadleaved trees 
+90
+90
+100
+110 
+120 
+130
+Source: Rules of Forest Management 
+Average diameter (in cm) at breast height requirements for the dominant tree species to 
+allow for clear-cutting 
+Tree Species 
+Quality class 
+1A
+1
+2
+3 
+4 
+5;5A
+Scots pine 
+28
+28
+28
+28 
+28 
+28
+Norway spruce 
+26
+26
+26
+26 
+26 
+26
+Silver and downy birch 
+26
+26
+24
+22 
+18 
+16
+Black alder 
+24
+24
+22
+22 
+18 
+16
+Aspen 
+20
+20
+18
+18 
+18 
+18
+Source: Rules of Forest Management 
+Minimum permissible stand basal area (m2/ha) after selective cutting 
+Tree Species 
+Quality class 
+ 
+1A
+1
+2
+3
+4 
+5 
+5A
+Conifer and hard broadleaved 
+tree stands 
+19.0
+18.0
+17.0
+16.0
+14.0 
+12.0 
+9.5
+Soft broadleaved tree stands 
+16.0
+15.0
+13.0
+11.5
+10.0 
+8.0 
+6.5
+Source: Rules of Forest Management 
+ 
+ 
+ 
+Tree species permitted for the use of reforestation by forest site type 
+Site type 
+Tree species permitted for reforestation and taken into account 
+in assessing regeneration 
+Arctostaphylos 
+Scots pine, Norway spruce, silver birch 
+Calamagrostis 
+Scots pine, Norway spruce, silver birch, aspen 
+Sesleria 
+Scots pine, Norway spruce, silver birch, aspen, black alder 
+Cladina 
+Scots pine 
+Calluna 
+Scots pine, silver birch 
+Oxalis-Vaccinium vitis-idaea Scots pine, Norway spruce, silver birch, aspen 
+Vaccinium vitis-idaea 
+Scots pine, Norway spruce, silver birch 
+Oxalis-Vaccinium myrtillus 
+Norway spruce, Scots pine, silver birch, black alder, aspen 
+Vaccinium myrtillus 
+Scots pine, Norway spruce, silver and downy birch, aspen, black alder
+Polytrichum-Vaccinium 
+myrtillus 
+Scots pine, Norway spruce, silver and downy birch, aspen, black alder
+Hepatica 
+Norway spruce, Scots pine, silver birch, aspen 
+Oxalis 
+Norway spruce, silver birch, Scots pine, aspen 
+Aegopodium 
+Silver birch, Norway spruce, aspen, black alder 
+Dryopteris 
+Norway spruce, silver and downy birch, black alder, aspen 
+Filipendula 
+Silver and downy birch, Norway spruce, Scots pine, black alder, 
+aspen 
+Carex-Filipendula 
+Silver and downy birch, Norway spruce, Scots pine, black alder, 
+aspen 
+Carex 
+Scots pine, silver and downy birch, Norway spruce, black alder, aspen
+Equisetum 
+Silver and downy birch, Scots pine, Norway spruce, black alder, 
+aspen 
+Polytrichum 
+Scots pine, Norway spruce, silver and white birch 
+Vaccinium uliginosum 
+Scots pine, silver and white birch 
+Marshland 
+Silver and downy birch, Norway spruce, black alder 
+Vaccinium myrtillus drained 
+peatland 
+Silver and downy birch, Scots pine, Norway spruce, black alder 
+Drained peatland forest 
+Scots pine, silver and downy birch, Norway spruce, black alder, aspen
+Mesotrophic mire 
+Scots pine, silver and downy birch, Norway spruce 
+Bog 
+Scots pine 
+Heap 
+Scots pine, silver and downy birch, aspen, Norway spruce, black alder
+ 
+ 
+ 
+ 
+Annex 3 
+Glossary 
+ 
+ 
+ 
+Word 
+Definition 
+Carbon sequestration 
+The process of increasing the carbon content of a carbon pool 
+other than the atmosphere. 
+Carbon pool 
+A reservoir of carbon. A system that has the capacity to 
+accumulate or release carbon. 
+Carbon sink 
+Any process or mechanism which removes a greenhouse gas, 
+an aerosol or a precursor of greenhouse gas from the 
+atmosphere. A given pool (reservoir) can be a sink for 
+atmospheric carbon if, during a given time interval, more carbon 
+is flowing into it than is flowing out. 
+Carbon stock 
+The quantity of carbon contained in a “pool”, meaning a reservoir 
+or system which has the capacity to accumulate or release 
+carbon. 
+Cleaning 
+Weeding, respacing, clearing understory; measures to improve 
+the daylight and nutritional conditions of the principal tree 
+species of a stand and shaping the composition of the forest. 
+Environmental Board 
+An entity operating under the umbrella of the Estonian Ministry of 
+the Environment. 
+Final felling, 
+regeneration felling 
+Harvesting all or nearly all mature trees from a stand to allow for 
+the regeneration of a new forest stand. 
+Forest area 
+A land area classified as forest; includes also temporarily 
+unstocked forests (e.g. following a clear-cut) 
+Forest cover 
+The portion (%) of land currently covered by forest stands. 
+Improvement cutting 
+Hypernym encompassing cleaning, thinning and sanitary cutting. 
+MAI 
+Mean Annual Increment. The volume of wood growing on one 
+hectare of a forest during one year on average since the forest 
+has been established (m3/ha/year). 
+Manor forests 
+Forests largely owned by the Baltic German elite of Estonia, as 
+part of manor estates. 
+Maximum sustainable 
+harvest 
+A level defined by the Estonian Parliament/ Ministry of the 
+Environment. This is based on annual increment data, but is 
+ultimately a political decision and may not exactly reflect the 
+actual, ecological maximum sustainable harvest. 
+Pre-commercial thinning 
+A forest management practice, which does not result in 
+marketable wood. The aim is to reduce the number of seedlings 
+per hectare to improve the growth of remaining seedlings. 
+ 
+ 
+ 
+Word 
+Definition 
+Selective cutting 
+The cutting down of selected trees in a forest so that growth of 
+other trees is not affected. This is done according to criteria 
+regarding minimum tree size for harvesting, specifications of the 
+number, spacing and size classes of residual trees per area, and 
+allowable cut. The cutting out of trees that are mature or 
+defective, or of inferior kinds to encourage the growth of the 
+remaining trees in a forest or wood. 
+Selective cutting can also refer to a forest management system 
+that does not include clear-cuts. In forests where selective 
+cutting is applied, typically both young and mature trees are 
+grown in the same stand. 
+Tending (of forests) 
+Hypernym encompassing improvement cutting, selective cutting 
+and regulation of the water and nutrition regime of forest soil. 
+Working forests 
+Forests which are used for wood production. 
+ 
+ 
+ 
+ 
+Indufor Oy 
+Helsinki, Finland 
+ 
+ 
+Indufor Oy 
+China Representative 
+Beijing, China 
+Indufor Asia Pacific Ltd 
+Auckland, New Zealand  
+ 
+Indufor Asia Pacific (Australia) Pty Ltd 
+Melbourne, Australia 
+Indufor North America LLC 
+Washington DC, USA 
+ 
+indufor@induforgroup.com 
+www.induforgroup.com 

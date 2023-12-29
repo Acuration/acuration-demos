@@ -1,0 +1,4159 @@
+ 
+ 
+ 
+Drax Power Limited 
+Catchment Area Analysis in Latvia 
+Final Report 
+Indufor Oy, Helsinki 
+Helsinki, Finland 
+8618
+May 7, 2020 
+ID 136417
+ 
+ 
+ 
+DISCLAIMER 
+Indufor makes its best effort to provide accurate and complete information while executing the 
+assignment. Indufor assumes no liability or responsibility for any outcome of the assignment. 
+ 
+Copyright © 2020 Indufor 
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any 
+means, electronic or mechanical, including, but not limited to, photocopying, recording or otherwise. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+i 
+TABLE OF CONTENTS 
+EXECUTIVE SUMMARY 
+1 
+1. 
+INTRODUCTION 
+6 
+1.1 
+Brief History of Latvian Forests 
+6 
+1.2 
+Drax in Latvia 
+7 
+1.3 
+Objective of the Assignment 
+8 
+2. 
+WOOD-BASED BIOENERGY IN LATVIA 
+9 
+2.1 
+Energy Mix in Latvia 
+9 
+2.2 
+Domestic Consumption of Wood Fuels 
+12 
+2.3 
+Production and Trade of Wood Fuels in Latvia 
+13 
+3. 
+FOREST RESOURCES AND FOREST MANAGEMENT 
+16 
+3.1 
+Development of Forest Resources 
+16 
+3.1.1 
+Land Use 
+17 
+3.1.2 
+Forest Resources 
+18 
+3.2 
+Forest Management Practices 
+23 
+3.2.1 
+Change Drivers of Forest Management 
+23 
+3.2.2 
+Changes in Forest Management Practices 
+27 
+3.2.3 
+Impacts of Changes 
+33 
+4. 
+SOLID WOOD PRODUCT MARKETS 
+36 
+4.1 
+Domestic Production 
+36 
+4.2 
+Raw Material Prices 
+39 
+4.3 
+Cross-border Trade 
+43 
+ 
+LIST OF ANNEXES 
+Annex 1 
+Overview of Law on Forests 
+Annex 2 
+Latvia Land Cover Map 
+Annex 3 
+Glossary 
+ 
+ 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ii 
+LIST OF FIGURES 
+Figure 1.1  
+Drax Woody Biomass Sourcing by Country or Region 
+7 
+Figure 1.2  
+Drax Woody Biomass Sourcing from Latvia 
+8 
+Figure 2.1 
+Total Domestic Electricity and Heat Generation by Source 
+10 
+Figure 2.2 
+Domestic Fuel Consumption in CHP Plants 
+11 
+Figure 2.3 
+Final Domestic Consumption of Wood Fuel by Type 
+12 
+Figure 2.4 
+Wood Pellet Final Domestic Consumption and Export 
+13 
+Figure 2.5 
+Production of Wood-Based Primary Energy Sources in Latvia 
+14 
+Figure 2.6 
+Imports and Exports of Wood Fuels 
+15 
+Figure 3.1  
+Land Use in Latvia 
+17 
+Figure 3.2  
+Development of Total Forest Growing Stock 
+18 
+Figure 3.3 
+Forest Area and Volume of Standing Stock in Latvia by Tree Species 
+19 
+Figure 3.4  
+Total Net Increment in all forests, Fellings by Ownership Type and Allowed 
+Maximum Harvest in State Forests 
+20 
+Figure 3.5  
+Forest Area by Age Class and Species in Working Forests, 2019 
+21 
+Figure 3.6  
+Forest Ownership Development, % of Forest Area 
+22 
+Figure 3.7 
+Latvian Forest Sector Exports and Share of Total Exports 
+24 
+Figure 3.8 
+Felling Types 
+28 
+Figure 3.9 
+Harvesting Practices in Latvia 
+29 
+Figure 3.10 
+Utilisation of Harvesting Residues (Branches and Treetops) 
+30 
+Figure 3.11 
+Estimation of the Utilisation of Harvesting Residues (Branches and 
+Treetops) 
+31 
+Figure 3.12 
+Regeneration Practices by Type and Ownership 
+32 
+Figure 4.1  
+SWP Mills in Latvia 
+37 
+Figure 4.2 
+Production of SWPs 
+38 
+Figure 4.3 
+Roundwood Consumption by SWP Production 
+39 
+Figure 4.4 
+Average Purchase Prices of Large-diameter (d>18cm) Saw- and Veneer 
+Logs 
+40 
+Figure 4.5 
+Average Purchase Prices of Small-diameter (d<18cm) Logs 
+41 
+Figure 4.6 
+Ex-mill Prices of Pulpwood and Fuelwood 
+42 
+Figure 4.7 
+Wood-based Bioenergy Production, Pellet Exports and Raw Material Price 
+Development 
+43 
+Figure 4.8 
+Roundwood Exports from Latvia to the Baltic Sea Region 
+44 
+Figure 4.9 
+Roundwood Imports to Latvia from the Baltic Sea Region 
+45 
+Figure 4.10 
+Total Sawlog and Pulpwood Imports and Exports to and from Latvia 
+46 
+Figure 4.11 
+Price (FOB) of Roundwood Exported from Latvia to the Baltic Sea Region 
+46 
+Figure 4.12 
+Price (CIF) of Roundwood Imported to Latvia 
+47 
+Figure 4.13 
+Wood Chip Exports from Latvia to the Baltic Sea Region 
+48 
+Figure 4.14 
+Wood Chip Imports to Latvia from the Baltic Sea Region 
+49 
+Figure 4.15 
+Total Wood Chip Imports and Exports between Latvia and the Baltic Sea 
+Region 
+49 
+Figure 4.16 
+Price (FOB) of Wood Chips Exported from Latvia to the Baltic Sea Region
+ 
+50 
+Figure 4.17 
+Price (CIF) of Wood Chips Imported to Latvia 
+50 
+ 
+LIST OF TABLES 
+Table 3.1 
+Minimum Clear-cutting Age by Tree Species and Quality Class 
+26 
+Table 3.2 
+Average Diameter (cm) at Breast Height of Dominant Tree Species to 
+Allow for Clear-Cutting 
+26 
+Table 4.1  
+Legend for SWP Mill Map 
+37 
+ 
+ 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+iii 
+ABBREVIATIONS 
+BCTMP 
+Bleached Chemi Thermo Mechanical Pulp 
+CAGR 
+Compound Annual Growth Rate 
+CHP 
+Combined Heat and Power 
+CIF 
+Cost, insurance and freight 
+CSB 
+Central Statistical Bureau of Latvia 
+CTL 
+Cut-to-length harvesting method 
+EC 
+European Commission 
+EU 
+European Union 
+FOB 
+Free on board 
+FSC 
+Forest Stewardship Council 
+GDP 
+Gross Domestic Product 
+GHG 
+Greenhouse gas 
+LULUCF 
+Land use, land use change and forestry 
+LVM 
+Latvijas Valsts Meži, Latvian State Forest Company 
+NFI 
+National Forest Inventory 
+NBSK 
+Northern bleached softwood kraft (pulp) 
+OECD 
+Organisation for Economic Co-operation and Development 
+OSB 
+Oriented Strand Board 
+PEFC 
+Programme for the Endorsement of Forest Certification 
+P&P 
+Pulp and paper 
+SFS 
+State Forest Service 
+SOC 
+Soil Organic Carbon 
+SWP 
+Solid Wood Products 
+TL 
+Tree-length method 
+UN 
+United Nations 
+WBP 
+Wood-Based Panels 
+ 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+1 
+EXECUTIVE SUMMARY 
+Objective 
+The objective of this study is to give an overview of the forest management, roundwood and 
+wood product market trends affecting forest structure and use in Latvia and to provide the 
+Consultant’s view on Drax’s impact on the observed developments. 
+Background 
+Drax has been sourcing wood pellets from Latvia since 2013, and during 2015–2018 the 
+annually procured pellets accounted for ca. 600 000–700 000 tonnes. The procured pellets are 
+manufactured by 10 mills located in Latvia, using domestic wood-based biomass. 
+Woody biomass has become an increasingly important fuel in Latvia, accounting for 40% of all 
+energy generation in 2018. Household consumption is mainly concentrated on firewood and 
+wood pellets, while wood waste and wood chips are used in the industry and construction 
+sectors. Wood chip demand in Latvia has been steadily increasing, as a result of both increased 
+export demand and domestic capacity in combined heat and power (CHP) and heat plants. 
+Household consumption of wood pellets has been rising as a result of government support and 
+incentives as part of the renewable energy initiative.  
+In terms of trade, Latvia is a net exporter of wood fuel, mainly wood pellets and chips. Domestic 
+consumption of wood pellets in Latvia is marginal compared to the exports with an estimated 
+9% of available pellets (production plus imports) consumed domestically in 2019. The export 
+volumes of wood pellets and chips fluctuated somewhat in recent years but the overall trend 
+has been an increasing one. The imports of wood chips and pellets to Latvia have been 
+increasing as well but are only a fraction of the exports. The use of wood fuel in energy-
+generation is expected to continue to rise in the future, as a result of firm national commitments 
+and policies to reach 50% of the renewable energy share in the energy mix. 
+Based on a recent Worldwide Governance Indicators aggregate update, the rule of law in Latvia 
+has been relatively effective. The rule of law reflects perceptions of the extent to which agents 
+have confidence in and abide by the rules of society, and in particular the quality of contract 
+enforcement, property rights, the police, and the courts, as well as the likelihood of crime and 
+violence. In 2018, Latvia has scored 0.96 in the estimate of governance (ranges from 
+approximately -2.5 (weak) to 2.5 (strong) governance performance) and has ranked 79 in the 
+world. In addition, Latvia has scored 56/100 in 2019 on the perceived level of public sector 
+corruption on a scale of 0 (highly corrupt) to 100 (clean), according to Transparency 
+International.  
+Changes and Trends in Forest Resources 
+The forest area (along with the forest cover) has increased in Latvia throughout the last two 
+decades. According to FAO’s forest definition, Latvia’s forest area increased from 2.98 million 
+to 3.38 million ha during 2000–2015. The main driver of the forest area increase is the natural 
+afforestation of the agricultural lands that have been left uncultivated under and after the Soviet 
+regime.  
+In terms of area, pine is the most common species in Latvia, followed by birch and spruce. While 
+birch and spruce dominate both young and mature age classes, pine forests in average are 
+mature. Therefore, it can be expected that the share of pine forests of the total clear-cut area 
+will increase in the coming years. After the privatisation that followed Latvia’s independence, 
+birch became a more popular option in regeneration. One of the reasons behind birch’s 
+popularity among new private forest owners was active influencing by the plywood industry, 
+which uses birch logs as raw material for veneer. 
+The total growing stock has been increasing throughout the last two decades and the increase 
+is expected to continue since the annual harvesting levels have typically accounted for only 65% 
+of the annual increment. If the growth continues, it also accumulates the forest carbon storage. 
+The growing stock development between 2009 and 2019 (from which uniform inventory data 
+are available) shows a slight increase in the share of hardwoods, which mainly results from the 
+naturally regenerating forest areas in private forests. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+2 
+State-owned company LVM manages approximately half of Latvia’s forests. LVM has adopted 
+a role as a steady supplier of wood for the domestic industry and showed its capability to quickly 
+increase harvesting during the 2008–2009 financial crisis when log prices were low and the 
+private forest owners withheld from selling. In general, LVM tends to clear-cut forests as early 
+as the forest law allows, while private forest owners’ harvesting decisions are more driven by 
+log prices. 
+The restitution process initiated after Latvia’s independence in 1991 was completed by the year 
+2000. A major on-going trend among the private forest owners is the consolidation of the forest 
+assets, meaning that the total number of forest owners is decreasing while the average size of 
+assets is increasing. Currently, 28% of forests are owned by private individuals, while 
+companies own approximately 20%. Foreign ownership is increasing, Swedish pulp and paper 
+companies being the largest foreign forest owner group in Latvia. 
+Changes and Trends in Forest Management Practices 
+The Law on Forests sets definitive boundaries and regulations for forest management practices, 
+and it is among the strictest in Europe regarding biodiversity and sustainability issues. At the 
+moment, Latvia is discussing possible changes in the law that would lower the minimum 
+diameter of trees that can be clear-cut, while regeneration regulations would be tightened. Due 
+to the strict regulations, an increase in small-diameter roundwood demand (for e.g. energy 
+purposes) has not shortened forest rotation cycles. EU-level subsidies have significantly 
+increased the amount of tending in private forests, which will improve the quality of roundwood. 
+A bit over half of Latvia’s forests are certified. Certification is mostly driven by export partners’ 
+demand. Many Latvians think that the national forest law already sets high standards for forest 
+stewardship and that there is no advantage in paying for certification. 
+The total harvesting area has declined, while the total harvested volume has increased in the 
+past 20 years. This can be explained by the diminished share of thinnings and increased share 
+of clear-cuts. While the state forests are managed and harvested regularly, private forest owners 
+fell their forests when timber prices are high. Large-scale forest owners with more than 50 ha 
+(41% of the private forest land) are more active in regular forest management and timber sales. 
+Regeneration practices vary between state and private owners: the state prefers artificial 
+regeneration (on average 60% of the state reforested area), whereas private forest owners 
+strongly rely on natural regeneration (on average 80% of the private reforested area). Many 
+naturally regenerated forests later grow with broadleaves and spruce, which has increased the 
+area of these species and diminished the area of pine. 
+The most common harvesting method in Latvia is the fully mechanised cut-to-length method 
+(CTL), covering 70% of harvests. The level of mechanisation had improved in Latvia since 2005 
+when a change in legislation increased the share of the harvested area that could be covered 
+by machine tracks from 12% to 20%.  
+Improved mechanisation has had a positive impact on the availability and cost of harvesting 
+residues. Harvesting residue collection was minimal 15 years ago, but it has grown with the 
+increased demand from the energy sector due to investments into CHP and heat plants. The 
+prices of harvesting residues have also increased in the past 15 years, which has created more 
+incentive to collect them. Also, small households have started to switch from oil to bioenergy for 
+heat and energy generation. Since the national felling volume is only about 65% of the national 
+forest increment, the felling level can be increased in the future, which would increase the 
+potential availability of harvesting residues as well. 
+The carbon storage in Latvia’s forests has grown. Latvia’s growing stock in the past decade has 
+increased by 32 million m3 – or 5% – to a total of 679 million m3 in 2019. The total forest cover 
+has also increased by 1% since 2010. Harvesting levels have remained steady and well below 
+the national forest increment level. However, according to Latvia’s national forestry accounting 
+plan, the forests are decreasing their GHG sequestration capacity, and are modelled to turn into 
+minor GHG emitters temporarily between 2025–2030. Even a small sequestration rate 
+increases carbon storage, which explains the increases in forest growing stock and area. Ageing 
+forests approach the balance when the increment compensates harvesting, natural loss, and 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+3 
+GHG emissions from soil, but do not increase the stored carbon volume. There are significantly 
+more young or middle-aged than mature stands in Latvia now, but soon these forests start 
+slowing their growth and consequently their carbon sequestration rate. 
+Changes and Trends in Solid Wood Products Production, Raw Material Prices and Cross-
+Border Trade 
+The Latvian solid wood products sector is dominated by the sawmilling industry, which consists 
+of 20 industrial sawmills. Birch plywood production has historically been an important industry 
+in the country, but OSB production has developed into the most significant wood-based panel 
+(WBP) product by production volume, in only a few years since production began in 2007. In 
+addition to these products, also particleboard and pellets are produced in Latvia, with the pellet 
+industry spanning 14 industrial mills and several smaller plants. 
+Sawnwood production decreased by 42% between 2006–2009 due to the financial crisis. Since 
+2009 the industry has been recovering, but production volumes have yet to reach pre-crisis 
+levels and have been stable at between 3.7–3.9 million m3 during the past four years. WBP 
+production has continued to increase steadily since 2000, driven especially by OSB production 
+since 2007. The sawnwood and WBP industries consume approximately 10–11 million m3 of 
+roundwood annually.  
+Sawlog prices have been on an increasing trend since 2009, when prices plummeted due to the 
+financial crisis. In 2017 all wood prices surged. In Latvia, poor harvesting conditions constricted 
+raw material availability which pushed all prices up. Pulpwood prices increased the most due to 
+a very high global pulp price, which motivated pulp producers in Finland and Sweden to increase 
+pulpwood sourcing from Latvia to maximize production. Prior to the price hike, pulpwood prices 
+had remained very steady since 2015. Fuelwood price development has followed pulpwood 
+price development closely. No significant movements are observed in pulpwood or fuelwood 
+prices due to Drax’s sourcing from Latvia. Sawlog prices are to a large extent driven by demand 
+from the domestic sawmilling and wood-based panels industry, while pulpwood prices are driven 
+by domestic OSB production and the Finnish and Swedish pulp industries.  
+Sweden is the largest destination for Latvian roundwood and wood chip exports, followed by 
+Finland and Estonia. The largest roundwood import partners are Lithuania, Belarus and Russia. 
+Wood chips are mainly imported from Belarus, Estonia and Lithuania. Lithuania has been by far 
+the most significant source of roundwood imports, while Belarus has been the dominant wood 
+chip supplier in the past two years. Roundwood imports are mainly sawlogs, while exports are 
+mainly pulpwood and other roundwood. The Swedish and Finnish pulp industries are large 
+demand drivers for Latvian roundwood exports. Sawlog import and export volumes are very 
+close to one another, which is mainly due to Latvian companies aiming to profit from low sawlog 
+prices in neighbouring countries. In the past two years, wood chip imports from Belarus have 
+skyrocketed while roundwood imports have diminished. This is due to Belarus implementing 
+new export duties to incentivise further domestic processing. Instead, roundwood exporters 
+invested into chipping equipment and began exporting wood chips. 
+Impacts of Wood-Based Bioenergy Demand to Latvian Forest Resources 
+Forest Area / Forest Cover 
+No impact 
+ Both forest area and forest cover have increased during the last two 
+decades. The main driver of the growing forest area has been the 
+natural regeneration of agricultural lands that were left uncultivated 
+during the Soviet regime.  
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+4 
+Forest Growing Stock 
+No impact 
+ Forest growing stock has steadily increased throughout the 
+observation period. 
+ The main driver for harvesting level is the roundwood demand from 
+sawmills, panel mills and export. Wood-based bioenergy demand may 
+increase thinnings and residue collection, but it is not as significant a 
+driver for total harvests as the aforementioned. Exported pellets have 
+accounted for approximately 10-14% of the total volume of annual 
+harvests in recent years, depending on the assumed average dry 
+densities of the harvested wood and pellets. 
+Harvesting Levels 
+No impact / 
+slight 
+increasing 
+impact 
+ The national felling volume is only about 65% of the national forest 
+increment. The total harvesting area has been declining, while the total 
+harvested volume has increased in the past 20 years. This can be 
+explained by the diminished share of thinnings and increased share of 
+clear-cuts. A decline in both area and volume of fellings can be seen 
+between 2002–2008 and 2010–2016. 
+ The main drivers of harvesting levels are sawmill industry, panel 
+industry and export demand. However, wood demand for energy 
+purposes can still improve the overall income for the forest owner and 
+therefore increase the total harvesting levels in private forests 
+Harvesting Residue Collection 
+Increasing 
+impact 
+ Most of the collected residues originate from clear-cuts in state forests. 
+Most produced harvesting residues are left in situ, and they are not 
+over-exploited. 
+ Collection of wood residues from harvesting operations has been 
+increasing for the last 15 years as a result of increased capacities and 
+demand from heat and CHP plants. Latvia is increasingly relying on 
+woody biomass for energy generation. 
+Forest Growth / Carbon Sequestration Potential 
+No apparent 
+impact 
+ The total forest area and growing stock have grown in the last decade. 
+ According to Latvia’s National Forestry Accounting Plan 2021–2025, 
+the forests are decreasing their GHG sequestration capacity. Even a 
+low sequestration rate increases carbon storage, which explains the 
+increases in forest growing stock and area. The decrease in GHG 
+sequestration capacity is due to forest ageing, emissions from soils 
+and the increased share of broadleaved forests, which have lower 
+carbon accumulation capacity than conifers. 
+ Removal of harvesting residues decreases carbon sequestration since 
+the residues are an input to the soil carbon pool. However, the majority 
+of the harvesting residues’ carbon is released to the atmosphere when 
+the biomass decays, so the ultimate impact of harvesting residue 
+collection is minimal if the collection is done on a sustainable level. 
+The sustainability of the collection is determined by how the soil 
+nutrient balance is impacted by collection. This is not accounting for 
+the substitution effect that the harvesting residues may have, by, e.g. 
+reducing the need to burn fossil fuels. 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+5 
+Impacts of Wood-Based Bioenergy Demand to Forest Management Practices 
+Rotation Lengths 
+No impact 
+ The Law on Forests regulates minimum forest age and diameter for 
+clear-cuts. The LVM and large-scale forest owners often conduct clear-
+cuts at minimum diameter, whereas smallholders tend to wait until 
+roundwood prices are high. Due to the regulation, an increase of 
+wood-based bioenergy demand has not shortened rotations. 
+Thinnings 
+Increasing 
+impact in 
+naturally 
+afforested 
+former 
+agricultural 
+lands.  
+ 
+No impacts on 
+thinnings 
+overall. 
+ The total harvested area has been declining, while the total harvested 
+volume has increased in the past 20 years. This can be explained by 
+the diminished share of thinnings, due to existing forest age structure, 
+and increased share of clear-cuts. Most of the harvesting residues are 
+collected from clear-cuts. 
+ There is an increased demand for small diameter wood and 
+harvesting/processing residues overall.  
+ The increased demand for small-diameter hardwood has increased 
+harvesting in previously unmanaged afforested agricultural lands, 
+which usually overgrow with broadleaved trees. These kinds of lands 
+are usually otherwise not significant for forest management. 
+Conversion from Hardwood to Softwood 
+No impact 
+ No indication of hardwood conversion to softwood was found. Instead, 
+pine forests are decreasing due to the favouring of natural 
+regeneration, which usually results in spruce or broadleaved forests in 
+nutrient-rich and/or wet soils. 
+ 
+Impacts of Wood-Based Bioenergy Demand to Solid Wood Product Markets 
+Diversion from Other Wood Product Markets 
+No apparent 
+impact 
+ Production of sawnwood and wood-based panels have increased or 
+remained steady, i.e. no evidence of diversion. 
+ Several interviews confirmed that sawlogs are not processed for other 
+products besides sawnwood and wood-based panels. 
+Wood Prices 
+No apparent 
+impact 
+ Prices of all wood assortments increased in 2017–2018, most notably 
+the prices of pulpwood. This was due to difficult harvesting conditions 
+and increased demand for pulpwood in Finland and Sweden, because 
+of high market pulp prices. Pulpwood prices returned to pre-surge 
+levels in 2019. Fuelwood prices also increased temporarily, but at a 
+much more moderate rate. The main driver for fuelwood price 
+increases was the surge of pulpwood prices. 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+6 
+1. 
+INTRODUCTION 
+Drax Group (the Client) is a large British electrical power generation company that was founded 
+and listed at the London Stock Exchange in 2005. Its roots extend back to 1967 when the 
+construction of Drax Power Station began under the Central Electricity Generating board. This 
+is still the Group’s key asset and is the largest single-site renewable energy generator in the 
+United Kingdom. The Group is composed of Drax Power, Drax Biomass, Haven Power and 
+Opus Energy. The Group places much emphasis on sustainability and decreasing its carbon 
+footprint, which is evident from the Group’s previous and planned investments. Drax is one of 
+the world’s largest single point consumers of wood and is committed to sourcing that wood 
+sustainably. 
+Drax wants to take the sustainability of its wood sourcing further by implementing a forest 
+resources and management monitoring program. As part of the monitoring program, Indufor has 
+conducted earlier studies for the Group, covering catchment areas of Amite pellet mill in 
+Mississippi (Healthy Forest Landscapes) and Graanul Invest in Estonia (Catchment Area 
+Analysis). The approach used in the Catchment Area Analysis will be applied in this work, too. 
+However, small scope modification has been added based on the Client’s request. 
+1.1 
+Brief History of Latvian Forests 
+During the 19th century, the industrial revolution together with a population boom inflicted severe 
+pressure towards the utilisation of Latvia’s forest resources for heat, manufacturing and 
+construction purposes. The heavy exploitation of timber resources diminished Latvia’s forest 
+area to approximately 10-30% of the land area. Despite the time of heavy and unsustainable 
+exploitation, understanding of sustainable forestry practices improved, adopting methodologies 
+from, e.g. German forestry practices. 
+After over a century under the rule of the Russian empire, the Republic of Latvia declared 
+independence in 1918. Along with the independence came the right and responsibility to plan 
+and govern the country’s forestry. The Forest Department was quickly established to govern the 
+forests that earlier belonged to the crown and nobility, but now to the state of Latvia and private 
+individuals. Harvesting volumes were regulated, but their enforcement was not a priority and 
+allowed deviations from the plans. In a Europe devastated by the First World War, Latvian timber 
+was in high demand, making timber Latvia’s most important export commodity and contributor 
+to the country’s economic development. 
+From the end of the Second World War to 1991, Latvia was occupied by the Soviet Union. 
+During this time, decision-making regarding Latvia’s forests was centralised and private forest 
+ownership was impossible. Latvia’s relatively developed forest industry was not a priority sector, 
+and the forest industry’s significance in Latvia decreased compared to the time of independence. 
+Differing from many other Soviet states, a joint Ministry of Forestry and Forest Industry was 
+established in 1957 in Latvia. 
+After Latvia regained independence in 1991, the forestry sector went through a radical 
+transformation, changing from centralised planning to a more de-centralised management 
+model. Key elements in the transition included quick restitution and privatisation of vast forest 
+areas, privatisation of logging companies, implementation of a forest lease model, trade 
+agreements with many European countries and improved utilisation of the mature forest 
+resources grown during the past decades. After becoming independent again, Latvian forest 
+sector’s production increased rapidly, including both logging and mechanical wood products. 
+The country’s only pulp and paper (P&P) mill was closed in 1994, but its pulpwood consumption 
+was easily substituted by exporting pulpwood to Sweden and Finland. The quick development 
+of the country’s forest industry led to Latvia becoming a net importer of sawlogs. 
+ 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+7 
+1.2 
+Drax in Latvia 
+Since 2013, Drax has procured wood-based pellets produced in Latvia or produced in the 
+neighbouring countries using biomass from Latvia. During 2015–2018, Drax has sourced 
+annually approximately 600 000–700 000 tonnes of pellets produced in ten Latvian pellet mills. 
+Roughly 5 000 tonnes of pellets produced from imported Latvian feedstock have been sourced 
+from eight mills located in Latvia’s neighbouring countries.  
+In total, pellets from Latvia have accounted for approximately 9–14% of Drax’s imported woody 
+biomass, making Latvia the most important European source of woody biomass for Drax. 
+Figure 1.1  
+Drax Woody Biomass Sourcing by Country or Region 
+ 
+Source: Drax Annual Reports 
+14 %
+9 %
+10 %
+10 %
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+2015
+2016
+2017
+2018
+Chart Title
+Other Europe
+Other non‐EU
+Brazil
+Portugal
+Estonia
+Canada
+Latvia
+USA
+1 000 tonnes
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+8 
+Figure 1.2  
+Drax Woody Biomass Sourcing from Latvia 
+ 
+Source: Drax Annual Reports 
+1.3 
+Objective of the Assignment 
+The objective of this assignment is to give an overview of the forest management, roundwood market 
+and wood product market trends affecting the forest structure and use in Latvia and to provide the 
+Consultant’s view on Drax’s impact on the observed developments. 
+661
+584
+600
+717
+0
+100
+200
+300
+400
+500
+600
+700
+800
+2015
+2016
+2017
+2018
+Chart Title
+1 000 tonnes
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+9 
+2. 
+WOOD-BASED BIOENERGY IN LATVIA  
+Box 2.1 
+Chapter Highlights 
+General 
+ 
+Woody biomass is an increasingly important fuel source for energy generation in Latvia, 
+accounting for 40% of all energy generated in 2018. Fossil fuel use is generally becoming 
+less critical, although use of natural gas is still significant.  
+ 
+Consumption of wood fuels in Latvia is mainly concentrated on firewood and wood pellets 
+in household consumption, and wood waste and wood chips in the industry and 
+construction sectors.  
+ 
+Wood chip demand in Latvia has been steadily increasing as a result of both increased 
+export demand and increased domestic capacity in combined heat and power (CHP) and 
+heat plants. 
+ 
+Household consumption of wood pellets has been increasing as a result of government 
+support and incentives as part of renewable energy initiative.  
+ 
+Latvia is a net exporter of wood fuel, mainly wood pellets and chips. The export volumes 
+of wood pellets and chips have had some fluctuations in recent years but overall 
+experienced a positive trend.  
+ 
+Latvia’s imports of wood fuels have been increasing as well, mostly consisting of wood 
+pellets and chips.  
+ 
+The use of wood fuel in energy-generation is expected to increase in the future, as a 
+result of firm national commitments and policies to reach 50% of renewable energy share 
+in the energy mix. 
+ 
+2.1 
+Energy Mix in Latvia 
+The importance of wood as an energy source (electricity and heat) in Latvia has been increasing 
+in the past decade (Figure 2.1). Since 2008, the use of woody biomass has had a compound 
+annual growth rate (CAGR) of an estimated 15% and in 2018 woody biomass accounted for 
+28% of all energy produced in Latvia; its importance is likely to continue growing. Woody 
+biomass consists primarily of wood chips and pellets.  
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+10 
+Figure 2.1 
+Total Domestic Electricity and Heat Generation by Source 
+ 
+Source: Central Statistical Bureau of Latvia, International Energy Agency (IEA) and Indufor analysis 
+The total energy generation has fluctuated in the last ten years, with an interval of 2–3 years. 
+Oil and coal have been consistently losing their significance in the energy mix, accounting only 
+for 0.3% of the total energy generated in 2018. Natural gas remained an important source, and 
+in 2018 it accounted for 48% of all electricity generation and 54% of all heat generation. The 
+use of renewables has consistently increased since 2008, mainly for biofuels with 14% CAGR. 
+Biofuels, primarily consisting of woody biomass, account for 45% of all heat generated and for 
+14% for all electricity generated in 2018. Other renewable energy sources, mainly hydroelectric 
+power, account for 17% of the energy generated in 2018 and have remained an important 
+source of energy in electricity generation.  
+According to Eurostat, the share of energy generation from renewable sources is 40% in 2018, 
+which also means that Latvia has achieved its 2020 national targets as per 2009 EU Effort 
+Sharing Decision (No 406/2009/EC). Latvia’s share of renewable energy use is also one of the 
+highest in Europe, and the country is already moving forward with the National Energy and 
+Climate Plan 2021–2030 with the new target of 50% share of renewable energy in final 
+consumption. The plan also calls for cutting consumption of resources, especially fossil and 
+unsustainable ones, switching instead to sustainable, renewable and innovative resources. This 
+would fuel the demand for renewable energy further. 
+The importance of woody biomass as fuel in CHP plants has increased significantly over the 
+last decade, at a 34% CAGR (Figure 2.2). The strong growth of woody biomass consumption in 
+CHP plants is particularly evident after 2012, mainly due to significant investments in capacity 
+increases and governmental support. In 2018, woody biomass accounted for 28% of all energy 
+generated by CHP plants. The use of other energy sources, such as coal and oil, have 
+decreased significantly (-13% CAGR 2008–2018) and fossil fuel usage in heat plants overall 
+has been declining in importance in the last decade. Woody biomass is an essential resource 
+for heat generation and has accounted for 67% of total fuel consumed in 2018, followed by 
+natural gas with a 31% share. 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+12 000
+14 000
+16 000
+18 000
+Other
+Other biomass
+Wind, hydro and solar
+Natural gas
+Woody biomass
+Share (%) of energy produced
+with woody biomass
+GWh
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+11 
+Figure 2.2 
+Domestic Fuel Consumption in CHP Plants  
+ 
+Source: Central Statistical Bureau of Latvia 
+Since 2008, several new CHP and heat plants have been installed and upgraded, which in turn 
+increased the capacity and drove the demand for woody biomass resources further. Heat 
+capacity in CHP and heat plants that use woody biomass was 1 700 MW in 2013, representing 
+a 32% increase from the previous year, while electricity capacity in CHP plants that use woody 
+biomass was 54 MW in 2013, which is a 210% increase of the prior year. This can explain a 
+significant growth of woody biomass consumption in CHP plants from 2012 onwards (Figure 
+2.2). Total heat capacity in CHP and heat plants that use woody biomass has increased at a 
+6% CAGR between 2008 and 2018 reaching 1 900 MW, while the total electricity capacity in 
+those has risen at a 41% CAGR during the same period reaching 96 MW. Significant increases 
+took place during this period in the installation of new energy plants that use woody biomass, 
+particularly in 2012 and 2016.  
+For instance, Fortum has inaugurated a biomass CHP plant in Jelgava in 2013, which is almost 
+entirely run by domestically sourced wood chips. The project has been one of the first large-
+scale biomass plants in Latvia with a combined capacity of electricity and heat of 68 MW. The 
+Enefit Green Valka power plant, established in 2012, and owned by Estonia-based company 
+Eesti Energia since 2016, has the combined production capacity of 10.4 MW of energy and 
+heat. It also relies on domestic wood chip suppliers in Latvia. In Riga, Axis Technologies has 
+completed the country's largest bioenergy project to date – a 48 MW district heating plant for 
+Rīgas BioEnerģijas. Built together with the Latvian company VELVE, the EUR 15 million project 
+features two 20 MWth woodchip fired boilers and two 4 MW flue gas condensing economisers. 
+A new 14.5 MWt per 3.3 MWe biomass CHP plant in Lizums was commissioned in 2017 for the 
+Awoti furniture component and pellet plant, relying primarily on sawmilling residues from local 
+suppliers. Most of the future investments into capacity increases would likely be concentrated 
+in the Riga area; for example, JSC Riga Siltums and Riga BioEnerģijas are planning to establish 
+a heating plant with 45 MW capacity. JSC Riga Siltums already have another heat plant with 
+the same 45 MW capacity expected to be finalised in autumn 2020. 
+Such capacity increases have driven the demand for woody biomass further, particularly for 
+wood chips and pellets. As a result, the overall demand for harvesting residues has also been 
+on the rise. The wood raw material that is not suited for sawmilling or plywood production is 
+typically used as a raw material source in pellet, OSB and particleboard production, well as fuel 
+in CHP and heat plants in Latvia.  
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+30 000
+35 000
+40 000
+45 000
+50 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019e
+Wood fuel
+Natural gas
+Biogas
+Other
+TJ
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+12 
+2.2 
+Domestic Consumption of Wood Fuels 
+Consumption of wood fuels in Latvia is mainly concentrated on firewood in household 
+consumption, and wood waste and wood chips in the wood industry and construction sectors 
+(Figure 2.3). The majority of wood chips and pellets is exported, and a smaller portion is 
+consumed domestically. An estimated 9% of available pellets (production plus imports) and 20% 
+of available wood chips were consumed domestically 2019. Wood briquettes are mainly 
+produced for domestic consumption. The increase in wood chip and pellet consumption in the 
+last decade is driven by the new CHP and heat plants inaugurated between 2008–2018. Before 
+2019 domestic consumption of wood fuel has been increasing significantly, but in 2019 
+consumption has overall stabilised. 
+Wood chips generate the most heat and electricity in Latvian power plants among other woody 
+biomass sources, accounting to 95% of all energy produced from woody biomass in heat and 
+CHP plants in 2018. This is a significant increase from 85% in 2012. The primary consumption 
+of wood chips lies in the wood industry and construction sectors. The consumption of wood 
+chips has been growing steadily since 2008 at a 12.8% CAGR, reaching its peak of 
+1.8 million m3 in 2018.  
+Out of all wood fuels, pellet consumption has experienced the most significant growth since 
+2008 at a 27.5% CAGR reaching 159 000 tonnes in 2018. However, 75% of this growth occurs 
+between 2011–2014, and development has been notably more modest outside of this period. 
+Wood pellet consumption remains minimal compared to exports (Figure 2.4). The consumption 
+of wood briquettes has grown more consistently only since 2014. Wood briquettes are mainly 
+consumed in households. The overall consumption of wood waste has been increasing, 
+reaching 2.9 million m3 (3.4% CAGR 2008–2018), of which 91% is used in the wood industry 
+and construction sectors. Firewood consumption has been fluctuating since 2008, with an 
+estimated volume of 3.1 million m3 consumed in 2018 (-3.8% CAGR 2008–2018). This decline 
+is partly due to encouragement from local municipalities to switch to other woody biomass 
+sources, such as chips and pellets. In recent years, the consumption has more or less stabilised 
+and has seen some slight increase. Firewood covers approximately 3% of all heat produced in 
+2018. 
+Figure 2.3 
+Final Domestic Consumption of Wood Fuel by Type  
+ 
+Source: Central Statistical Bureau of Latvia 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019e
+Firewood
+Wood waste
+Wood chips
+Wood briquettes, tonnes
+Wood pellets, tonnes
+Drax entry to market
+1 000 tonnes 
+1 000 m3 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+13 
+Figure 2.4 
+Wood Pellet Final Domestic Consumption and Export 
+ 
+Source: Central Statistical Bureau of Latvia 
+Note: Trade data does not add up exactly to the consumption figure because it excludes production into 
+or consumption from stock. 
+Consumption of wood fuels in households is dominated by firewood and pellets, with 81% of all 
+domestically consumed firewood and 70% of all domestically consumed pellets consumed in 
+households in 2018. Households have been the largest domestic end-use sector for pellets 
+since 2012, with an estimated 70% of total domestic consumption of pellets consumed in 
+households in 2019. Approximately 20% of total domestic pellet consumption was in commercial 
+and public sector in 2019, and an estimated 9% in industry and construction sector.  
+Firewood consumption in households has decreased since 2008 (-5% CAGR 2008–2018), yet 
+remains significant, with 2.5 million m3 consumed in 2018. Wood waste consumption in 
+households has also decreased to 126 000 m3 in 2018 (-16% CAGR 2008–2018). The 
+consumption of briquettes has been increasing relatively consistently, while that of pellets has 
+been fluctuating, reaching the highest level in 2015 of 115 000 tonnes. A downward trend for 
+pellet consumption in households between 2015 and 2017 can be explained by a decrease in 
+production and slowed export growth (Figure 2.5 and Figure 2.6). The pellet consumption has 
+been on the rise again since 2018. Overall, households using wood for energy generation use 
+less firewood and wood waste, and more briquettes and pellets. Moreover, prices for natural 
+gas for household consumption has been decreasing recently, which might impact the overall 
+consumption of woody biomass in households. 
+2.3 
+Production and Trade of Wood Fuels in Latvia 
+Raw material sources for woody biomass for energy are the by-products of the wood products 
+industry, as well as energy wood from thinnings, low-quality logs and other roundwood and 
+harvest residues. Harvest residues are a significant raw material for energy plants, e.g. Graanul 
+Invest has collected 850 000 tonnes of harvesting residues in 2018 for all of its operating CHP 
+plants, including those collected in Latvia.  
+Wood chips and pellets have become increasingly significant wood fuels over the last decade 
+in Latvia, with production increasing at a CAGR of 16.5% and 11%, respectively (Figure 2.5). 
+Graanul Invest alone produced 890 000 tonnes of pellets in their Latvian factories in 2018. The 
+use of other wood fuels, such as wood wastes and wood briquettes, has grown at a more 
+moderate pace, with 5.7% and 6.6%, respectively (CAGR 2008–2018). Firewood is the only 
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+2 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019e
+Final Domestic Consumption
+Export
+Drax entry to market
+1 000 tonnes
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+14 
+wood fuel that has experienced a significant decline in production, with volumes decreasing 
+31% between 2008–2018. Raw material available from decreased firewood production is mainly 
+directed to pellet production and, to a lesser extent, to wood chip production. 
+Figure 2.5 
+Production of Wood-Based Primary Energy Sources in Latvia 
+ 
+Source: Central Statistical Bureau of Latvia. 
+Latvia is overall a net exporter of wood fuel. Nevertheless, wood fuel imports have been 
+increasing since 2012, particularly for wood pellets and chips (Figure 2.6). Latvia imports mostly 
+wood pellets and chips, with 603 000 m3 (of solid sawdust equivalent) and 570 000 m3 
+respectively imported in 2018. Imported pellets are likely domestic grade (premium) pellets, 
+suitable for household consumption. Wood chip imports in 2018–2019 have increased 
+significantly as a result of increased imports from Belarus and due to increased prices for 
+domestic chips. In addition, firewood and wood briquette imports have picked up significantly 
+since 2016. Wood waste imports have experienced more fluctuations in the past, reaching the 
+highest volume in 2018.  
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+2 000
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+9 000
+10 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019e
+Firewood
+Wood wastes
+Wood chips
+Wood briquettes, tonnes
+Wood pellets, tonnes
+1 000 tonnes
+1 000 m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+15 
+Figure 2.6 
+Imports and Exports of Wood Fuels 
+ 
+Source: Central Statistical Bureau of Latvia  
+Note: Wood waste has been excluded due to uncertainties in the conversion rate to tonnes. Conversion 
+rate depends on the composition of wood waste, which can vary significantly region to region.  
+Latvia’s exports mainly consist of wood pellets and chips (Figure 2.6). Exports of pellets have 
+increased significantly, from 381 000 tonnes in 2008 to 1.8 million tonnes in 2018 (15.7% 
+CAGR). No significant fluctuations have been observed, and despite an increased pellet 
+consumption between 2013 and 2014, it had no significant impact on pellet exports. Majority of 
+exported pellets are for industrial consumers.  
+Exports of wood chips have grown slower with some fluctuations in the last decade, reaching 
+1.7 million m3 in 2018 (3.7% CAGR). Wood chip exports have decreased between 2012–2015 
+mainly due to decreased export demand and growth in domestic demand. Wood chip exports 
+reached their lowest volume in 2015 of only 992 000 m3, primarily due to increased domestic 
+consumption. Still, the following year the export volume almost doubled to 1.7 million m3, as the 
+domestic demand slumped that same year. The highest exported volume of wood chips in the 
+last decade was recorded in 2017, where it reached 1.8 million m3. In 2018, wood chips were 
+primarily exported to Sweden, Finland and Lithuania.  
+Firewood and wood waste export trends have experienced shifts during the past decade. 
+Firewood exports increased substantially between 2008–2010 but have since dwindled. Wood 
+waste exports increased notably between 2008–2015, but also decreased to below 2008 levels 
+by 2018. Exports of wood briquettes have been fluctuating significantly, reaching the highest 
+amount in 2013 with 68 000 tonnes, followed by a consistent decrease until 2017, after which 
+exports have picked up again. 
+‐3 000
+‐2 000
+‐1 000
+0
+1 000
+2 000
+3 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019e
+Firewood
+Wood chips
+Wood briquettes
+Wood pellets
+1 000 tonnes
+Import
+Export
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+16 
+3. 
+FOREST RESOURCES AND FOREST MANAGEMENT 
+3.1 
+Development of Forest Resources  
+Box 3.1  
+Chapter Highlights 
+Forest Area  
+ 
+During 2000–2019, the forest area in Latvia has gradually increased by approximately 
+400 000 ha, mainly due to natural afforestation of agricultural lands that were left 
+unmanaged during the Soviet regime. Corresponding development of the forest cover 
+shows an increase from 46% to 52%. 
+Forest Quality 
+ 
+Total growing stock in Latvia’s forests has been growing steadily over the past 
+decades. Comparison of annual increment and harvesting levels show that this 
+development is not threatened even if harvests would be increased to the maximum 
+level seen in the past two decades. 
+ 
+In 2019, softwood species accounted for 53.2% of the total growing stock, while in 2009 
+(earliest comparable year) the corresponding share was 53.8%. The main driver behind 
+the slight increase of hardwoods’ share is the natural regeneration of abandoned 
+agricultural lands. When regeneration occurs without human activities, the typical 
+pioneer species include birch, alders and aspen. 
+ 
+Latvia’s vast pine forests are getting older, while the share of pine in young forests is 
+staying relatively low. 
+ 
+Regenerating clear-cut stands to birch was relatively popular in the years following the 
+privatisation of the forest lands, which can be seen as birch having a very large share of 
+stands regenerated 10–20 years ago. One of the reasons behind birch’s popularity as a 
+regeneration species was that Latvian plywood producers encouraged private forest 
+owners to select birch. 
+Forest Ownership  
+ 
+After Latvia’s independence in 1991, private owners regained control of their lands. The 
+privatisation process was completed between 1991 and 2000. 
+ 
+Half of Latvia’s forests are owned and managed by the state company LVM, which has 
+been an important wood supplier to Latvian wood product industry in times when supply 
+from private forests is low. 
+ 
+Consolidation of private forest properties is an on-going trend changing the forest 
+ownership structure. Typically, a Latvian forestry company accumulates forest 
+properties from local small-holders, who have recently clear-cut old forest, and sells 
+them as a larger portfolio to a foreign company. Recently, foreign buyers have been 
+Swedish P&P companies.  
+ 
+Latvia has approximately 3.4 million ha of forest land, of which roughly 80% is primarily used for 
+timber production. Latvian forest area has increased from 2.98 million ha to 3.38 million ha 
+during 2000–2015 (as per FAO’s forest area definition). In terms of forest cover, the 
+corresponding increase is from 46% to 52%. The most important driver for the expansion forests 
+has been the natural and artificial regeneration of abandoned agricultural lands. During the 
+Soviet regime in Latvia, forestry and agriculture were not part of the priority sectors, which led 
+to part of the agricultural areas being uncultivated and later being occupied by natural 
+vegetation. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+17 
+3.1.1 
+Land Use 
+Land Use Change 
+Over half of Latvia’s land area is classified as forest, which makes it one of Europe’s most 
+forested countries (Figure 3.1). The year 2009 shows a sudden rise in the forest area, which is 
+partly due to the availability of results from the first national forest inventory (NFI). Prior to the 
+completing of the first NFI, the methodology of quantifying the forest area was different. 
+However, increased forest area is also a real trend despite the methodological change. Forest 
+area increment mainly originates from the reduction in the class “Other land”, which includes 
+abandoned agricultural areas, built areas, and other types of land uses that do not fall under 
+forest, agriculture and water. The share of agricultural land has been increasing, but the new 
+agricultural land is mainly acquired by converting grasslands to cropland rather than clearing 
+forest. 
+Class “forest” in Figure 3.1 includes forested bogs and forest glades but excludes temporarily 
+unstocked forests. In FAO’s forest definition, temporarily unstocked areas are counted in. 
+However, in Latvia’s case, the difference is very minor. 
+Figure 3.1  
+Land Use in Latvia 
+ 
+Source: Central Statistical Bureau of Latvia 
+A recent land use map of Latvia has been added in Annex 2. 
+Transition from Natural Forest to Intensive Management Areas 
+Latvia’s forests have been a target of human activities for centuries. During the 20th century, the 
+utilisation intensity was lower because the Soviet Union’s focus in Latvia was in other sectors 
+than forestry. The present forest management is more active than in the 20th century, but due 
+to the legally binding minimum clear-cut ages, it is still not intensive compared to the intensive 
+management seen in short-rotation plantations. 
+During the past two decades, the use of artificial regeneration, i.e. planting and sowing, has 
+become more common in terms of area. However, the share of artificial regeneration from all 
+regeneration has been varying between 30–40%.  
+Considering the long rotations and large share of natural regeneration, a conversion towards 
+intensively managed monoculture forests is not a trend in Latvia. 
+49 %
+48 %
+53 %
+53 %
+53 %
+25 %
+27 %
+27 %
+28 %
+29 %
+22 %
+19 %
+16 %
+15 %
+14 %
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+Chart Title
+Forest
+Unstocked forest
+Agricultural land
+Water
+Other land
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+18 
+3.1.2 
+Forest Resources  
+Since 2004, Latvia’s forests have been monitored through a systematic national forest inventory 
+(NFI), implemented by the State Forestry Research Institute (SFRI Silava). Before the NFI, the 
+overall resource monitoring was conducted by the State Forest Service (SFS), who aggregated 
+data from stand-level operational inventories. As it was collected for operational purposes only, 
+the coverage and uniformity of the collection methodology were not optimal for national level 
+decision making. Approximately 200 000–300 000 ha of forest land is missing from the SFS’ 
+register because the owner of the forest land has not conducted an inventory. A typical forest, 
+from which the stand-level inventory data is missing, is a small privately-owned forest property 
+consisting of naturally regenerated abandoned agriculture land. 
+The first country-wide results from the 4-year NFI cycle were published in 2009. The NFI kick-
+off brought more forests under the monitoring program, which can be seen as a discontinuity in 
+statistics covering years 2008–2009 (Figure 3.2).  
+Development of Forest Area and Growing Stock 
+Throughout the last two decades, softwood species have accounted for over half of Latvia’s 
+growing stock. However, the share of hardwoods has increased. Data from the NFI show that 
+hardwoods’ share has increased by 0.6% during the last 10 years, while the trend in operational 
+level inventory data from 2004–2008 is not as clear as in the NFI (Figure 3.2).  
+During 2009–2019 (from which uniform data are available), the total growing stock in Latvia’s 
+forests has increased by 32 million m3, which has led to a 5% larger growing stock in 2019 
+compared to 2009. 
+Figure 3.2  
+Development of Total Forest Growing Stock 
+ 
+Source: State Forest Service (pre-2008), National Forest Inventory (after 2008) 
+Species-specific development of forest area and growing stock is presented in Figure 3.3. Again, 
+changing the monitoring method between 2008–2009 causes a discontinuity in the time series. 
+Despite the changing monitoring method, the period of 2009–2019 provides a consistent 
+examination period. 
+During 2009–2019, approximately 48 000 ha of pine-dominated forests have been converted to 
+other species. In terms of area, spruce, black alder and aspen have seen the largest area 
+increment with 44 100, 33 700 and 21 900 ha, respectively. In terms of growing stock, the total 
+58.9%
+ 
+ 
+ 
+ 
+53.8%
+ 
+ 
+ 
+ 
+53.3%
+ 
+ 
+ 
+ 
+53.2%
+41.1%
+ 
+ 
+ 
+ 
+46.2%
+ 
+ 
+ 
+ 
+46.7%
+ 
+ 
+ 
+46.8%
+572
+ 
+ 
+ 
+639.9
+ 
+ 
+655.3
+ 
+ 
+ 
+670.6
+0
+100
+200
+300
+400
+500
+600
+700
+800
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Softwood
+Hardwood
+Unknown
+Drax entry to market
+Million m3 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+19 
+volume of spruce has increased by 106 million m3, while pine has decreased by 94 million m3. 
+Changes in other species’ growing stock are in total less than 8 million m3. 
+One of the main reasons behind the conversion from pine to spruce is the large share of natural 
+regeneration in private forests. When stands are not planted or sowed, pine typically does not 
+compete well with spruce or deciduous species. An exception to this can be nutrient-poor sites.  
+Figure 3.3 
+Forest Area and Volume of Standing Stock in Latvia by Tree Species 
+ 
+Source: State Forest Service (-2008), National Forest Inventory (after 2008) 
+Between 2000–2019, the annual harvesting volume in Latvia has varied between 9 and 
+13 million m3 (Figure 3.4). The private sector has accounted for 50–60% of the harvests, except 
+during 2008–2011, when Latvia, among other countries, suffered from economic recession. 
+During the recession, harvesting levels were increased by 60% in state-owned forests to provide 
+income for the state treasury. This large increase was enabled through a felling regulation 
+28,3%
+ 
+ 
+ 
+ 
+27,3%
+ 
+ 
+ 
+ 
+26,3%
+27,8%
+ 
+ 
+ 
+ 
+28,1%
+ 
+ 
+ 
+ 
+27,5%
+17,7%
+ 
+ 
+ 
+ 
+17,9%
+ 
+ 
+ 
+ 
+18,7%
+10,0%
+ 
+ 
+ 
+ 
+9,8%
+ 
+ 
+ 
+  10,2%
+7,7%
+ 
+ 
+ 
+ 
+8,1%
+ 
+ 
+ 
+ 
+8,2%
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+Chart Title
+Pine
+Birch
+Spruce
+Grey alder
+Aspen
+Common alder
+Ash
+Oak
+Other
+1 000 ha
+Drax entry to market
+35.0%
+ 
+ 
+ 
+ 
+34.1%
+ 
+ 
+ 
+  33.0%
+23.7%
+ 
+ 
+ 
+ 
+23.8%
+ 
+ 
+ 
+  23.7%
+18.2%
+ 
+ 
+ 
+ 
+18.6%
+ 
+ 
+ 
+ 
+19.5%
+8.8%
+ 
+ 
+ 
+ 
+9.2%
+ 
+ 
+ 
+ 
+9.3%
+0
+100
+200
+300
+400
+500
+600
+700
+800
+Chart Title
+Pine
+Birch
+Spruce
+Grey alder
+Aspen
+Common alder
+Oak
+Ash
+Other
+Million m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+20 
+adjustment, which allowed harvested volumes from the state forest to be increased by 
+4 million m3. The adjustment was put in effect in 2008 and was valid during 2009–2010. 
+Figure 3.4  
+Total Net Increment in all forests, Fellings by Ownership Type and 
+Allowed Maximum Harvest in State Forests 
+ 
+Source: State Forest Service, Silava, Ministry of Agriculture 
+Development of Age Class Distribution by Tree Species 
+Figure 3.5 presents the current age distribution of Latvia’s forests. For both softwood and 
+hardwood species, there are significantly more young or middle-aged stands than mature ones. 
+When the aim is to maintain a maximal but stable flow of wood from the forest, an evenly 
+distributed forest age distribution is pursued. The main reason for the present age structure is 
+that during the Soviet regime, harvest levels were lower, slowly leading to a relatively large 
+proportion of Latvia’s forests being mature. After independence and especially after the 2008 
+financial crisis, mature forests have been clear-cut and regenerated, thus leading to younger 
+age structure. 
+In terms of area, pine, birch and spruce are the most common species in Latvia (Figure 3.5). 
+While spruce and birch forest age structures are quite evenly distributed, two thirds of pine 
+forests are over 70 years old. One of the reasons behind low shares of pine in younger forests 
+is the common practice of natural regeneration after a clear-cut. Pine is typically a weak 
+competitor against deciduous pioneer species and spruce in fertile soils. In naturally 
+regenerated abandoned agricultural lands, it is unlikely for pine to become the dominant 
+species, and more likely for the site to become a deciduous forest. The typical successor of 
+spruce in naturally regenerated forests is aspen, and most of the aspen forests are young. 
+There is a disproportionate share of birch forests in the age class of 11–20 years, due to two 
+factors. In the turn of the century, private forest ownership was increasing rapidly, and private 
+forest owners were conducting their first clear-cuttings. Natural regeneration to birch was a 
+popular option after clear-cutting in a private forest due to the low costs involved and the strong 
+market for birch plywood. Also, the Latvian plywood companies had become worried about the 
+availability of domestic birch and were aiming to influence the regeneration in private forests by 
+offering, for example, forest planning assistance. Plywood companies also acquired some lands 
+from small private forest owners, which they then afforested to birch.  
+19.7
+8.7
+4.7
+11.0 10.4 11.2 11.6 10.8 11.3
+9.8 10.1 9.0
+10.7
+13.0 12.7 11.7 11.7 11.7 10.6 10.6 11.4
+12.9 12.2
+0
+5
+10
+15
+20
+25
+Chart Title
+Fellings in State Forests
+Fellings in Private and Other Forests
+Net Increment
+Max. Allowed. Harv. In State Forests
+Million m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+21 
+Figure 3.5  
+Forest Area by Age Class and Species in Working Forests, 2019 
+ 
+Note: The chart excludes temporarily unstocked forests. 
+*Forests that have reached the minimum clear-cut age requirement 
+Source: National Forest Inventory.  
+Forest Ownership 
+Approximately half of Latvia’s forests are owned by the Latvian state and managed by a 
+company called Latvian State Forests (LVM, Latvijas valsts meži). 
+LVM’s objective is to conduct forest management that produces economic value to the state 
+while preserving the environmental values. Before 2010, LVM granted harvesting rights through 
+auctions, but since 2010, the company itself has been a roundwood supplier for the industry. 
+However, LVM does not have its own harvesting fleet nor lumberjacks. Instead, harvesting, 
+transportation and regeneration are outsourced to contractors. In addition to timber production, 
+LVM acquires income from selling sand and gravel or granting licences for peat extraction. 
+According to LVM, income acquired from other than timber production activities is used to 
+purchase forest properties from private forest owners. 
+Private individuals hold approximately 28% of forests, while legal entities account for 
+approximately 20%. The share of legal entities has increased significantly during the observation 
+period, acquiring land from private individuals. The total number of private forest owners in 
+Latvia is approximately 144 000, which is a large number for a country with a total population of 
+a little under 2 million. Typical property size is small, e.g. 60% of the private forest owners own 
+less than 5 ha, and they represent only around 11% of the total privately owned forest area. The 
+largest share of private forests is held by owners whose properties are 20–50 ha or over 
+1 000 ha. 
+Like other Baltic states, Latvia experienced major changes in forest ownership structure after 
+regaining independence from the Soviet Union in 1991. Forest lands were returned to former 
+landowners or their successors through the land reform and restitution process. The process 
+took place throughout the 1990s and was finished in the early 2000s when the share of private 
+individual’s ownership settled at around 45%. 
+Recent key trends among private forest ownership are the consolidation of forest properties, i.e. 
+reduction of the number of forest owners, increase in the average size of forest assets, and 
+establishment of forest owners’ cooperatives. Both trends are increasing the level of 
+professionality in forest management among Latvian forest owners, but the progress is relatively 
+0
+100
+200
+300
+400
+500
+600
+700
+Young stands
+Middle‐age stands
+Premature stands
+Mature and old stands*
+Grey alder
+Pine & Spruce ( 1 456 000 ha)
+Birch, Alder, Aspen & Larix (1 678 300 ha)
+Oak & Ash (38 200 ha)
+1 000 ha
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+22 
+slow. In 2012, the development of forestry cooperatives was supported by the government by 
+providing discounts on corporate tax. 
+Of the 100 largest forest owners in Latvia, 67% are foreign, of which more than half are Swedish. 
+Södra, IKEA and SCA are the major Swedish forest owners. Large corporations acquire vast 
+forest lands by buying them from local forest investors, who have accumulated their forest 
+assets over the years to sell the lands in bulk for high-profile buyers.  
+One of the latest large Latvian forest acquisitions by a foreign company was in 2018 when Södra 
+acquired 110 000 ha of Latvian land, of which 80 000 ha were forests. The selling company was 
+Bergvik Skog and the transaction price approximately EUR 324 million. Bergvik Skog originally 
+was a joint company of Stora Enso and Billerud Korsnäs. Since already Bergvik Skog’s major 
+wood buyers were Nordic P&P companies, the acquisition’s impact on roundwood exports might 
+not be as significant as could be expected.  
+The largest local forest owner in Latvia is the City of Riga, managing a total of 65 000 ha mainly 
+outside the city borders. 
+Figure 3.6  
+Forest Ownership Development, % of Forest Area 
+ 
+Note: Other land includes joint mixed-status ownership land and reserve fund land. 
+Source: FAO GFRA Country Report Latvia 2015, Indufor estimation. 
+50%
+51%
+50%
+51%
+49%
+43%
+41%
+37%
+30%
+28%
+2%
+4%
+10%
+17%
+20%
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+2000
+2005
+2010
+2015
+2020e
+State
+Private person
+Legal entity
+Local government
+Other*
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+23 
+3.2 
+Forest Management Practices  
+Box 3.2 
+Chapter Highlights 
+General 
+ 
+The Law on Forests sets definitive boundaries and requirements for forest 
+management. No additional official forest management recommendations exist. 
+ 
+State forests have traditionally been well-managed, while private forests, especially 
+those owned by smallholders, have been inactively managed. 
+ 
+In Latvia, 1.02 million ha of forest area is FSC certified and 1.72 million ha PEFC 
+certified. About 845 000 ha is dual certified and 56% of all forest lands are certified. 
+ 
+The Law on Forests is stringent and considers environmental and cultural values 
+thoroughly, which has discouraged forest owners from paying for forest certification. 
+ 
+The Law on Forests currently restricts the maximum clear-cut area to 5 ha, and 10 ha in 
+certain dry pine forests.  
+State forests 
+ 
+The quality of forest management has remained at a good level in state forests. 
+ 
+The state forests are committed to providing a stable wood supply with volumes that 
+can be easily predicted by the long-term management plans, despite market 
+fluctuations. 
+Private forests 
+ 
+Natural regeneration is the most popular reforestation method in Latvia. Many naturally 
+regenerated forests later grow with spruce and broadleaves, which has increased the 
+area of these species and diminished the stocks of pine. Subsidies exist for 
+regenerating forests damaged by fire, wind and floods, among others. 
+ 
+The increase in energy wood demand has made the maintenance and thinning of 
+previously unmanaged hardwood (especially alder) stands economically viable. Also, 
+the Rural Development Fund (funded by EU) has been made available since 2009 to 
+motivate pre-commercial forest management activities. 
+ 
+Companies and forest owners’ cooperatives own an increasing share of the forest land 
+in Latvia. This area is expected to continue growing, which is also expected to increase 
+overall forest management activity. This development is, however, slow.  
+3.2.1 
+Change Drivers of Forest Management 
+The direction of forest and forestry development is determined by both internal and external 
+factors to the sector. The impact of external factors on forests and forestry can be direct or 
+indirect. These may include changes in demographics, the economic situation, policies and 
+institutions, scientific and technologic progress and the responses of society to critical 
+environmental changes. These often have a significant impact on how forests are managed. 
+Political, Institutional and Economic Environment 
+The Latvian population is declining rapidly. The population peaked in 1990 at 2.67 million 
+people, just before its independence from the Soviet Union. Since then, the population has 
+decreased by 28% to 1.92 million in 2019, due to both negative natural population growth and 
+negative net migration. The population decrease was the steepest in the European Union in 
+2018, and it is a stern challenge for Latvia. The country’s urbanisation rate is 68%, and 33% of 
+the population resides in the capital Riga. The proportion of rural and city-dwellers has remained 
+practically unchanged during the last ten years. Urbanisation is commonly regarded as a change 
+driver for forest owners’ attitudes, thus affecting forest management practices. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+24 
+Despite the declining population, Latvia’s economy has been growing with its annual GDP 
+growth rate varying between 6.3% and 1.8% since 2011, when it recovered from the recession. 
+The cornerstones of the Latvian economy are agriculture, the chemical industry, logistics and 
+the woodworking industry. The forest sector contributed 5% of total Latvian GDP in 2018. The 
+forest sector has always been Latvia’s main net export sector, although its share of total exports 
+has been declining due to diversification of the country’s export portfolio (Figure 3.7). However, 
+the value of the forest sector exports has increased at an 8% CAGR since 2010, reaching 
+2.6 billion EUR in 2018 (Figure 3.7). About 71% of the forest sector output is exported. The 
+sector is mainly composed of professional forest management services, sawmilling and 
+production of further processed wood products. The pulp and paper sector has not established 
+a presence in Latvia, and raw materials that would typically be utilised by the P&P sector are 
+exported to a large extent. 
+Figure 3.7 
+Latvian Forest Sector Exports and Share of Total Exports 
+ 
+Source: Central Statistical Bureau of Latvia. 
+Forestry and woodworking are traditional industries in Latvia, which has also created a strong 
+regulatory environment around the use of this natural resource. The current political climate is 
+based on a very intense history of forest management and ownership, which can be 
+characterised by the development of the forest cover. It was at its lowest in 1923, only 23% of 
+total land area, and has since then more than doubled to 50%. Much of the increase in forest 
+cover is due to afforestation of abandoned agricultural areas. During the Soviet era, large parts 
+of abandoned agricultural lands overgrew with mainly broadleaved forests. These lands were 
+largely privatised during the beginning of the Latvian independence, whereas the state-owned 
+forests tend to be more coniferous due to those lands being forested in the past. Private forest 
+ownership is also very fragmented as a result of the restitution process in the 1990s. 
+Policies on forest management have evolved since Latvia gained independence. Two historical 
+periods of policymaking can be distinguished – the continuation of Soviet-style policies during 
+1988–1999, and a new, sustainable management system from 2000 onwards. During the 
+continuation of Soviet-style forest management, state-owned forests were divided into three 
+groups based on their function: production, low-intensity management and protection forests. 
+All categories had their strict limitations on felling ages, regeneration practices and maximum 
+clear-cut width. Forest stands were established as similarly sized rectangles, so maximum clear-
+cut width was used instead of area. During the last 20 years, the legislation was changed to be 
+more flexible: forests were divided into categories based on their measured productivity instead 
+694 716 801
+972 107811841204
+1505
+1230
+995
+1445
+16551704
+1856197820382094
+2266
+2644
+43%
+40% 40% 41%
+35%
+26%
+20% 19%
+22%
+19% 17% 19% 19% 19% 20% 19% 21%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+Million EUR
+Forest sector exports, million EUR
+Forest sector's share of total exports, %
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+25 
+of declared function, clear-cuts could be carried out if either the minimum age or diameter was 
+achieved, maximum clear-cuts were determined by area instead of width, and regeneration 
+practices allowed both natural and artificial regeneration. Biodiversity issues were considered 
+as well: retention trees and dead wood were required after clear-cutting. 
+Environmental protection laws were established in tandem with forest policies. During the Soviet 
+era and for a while after, many nature protection areas were established, and many forest areas 
+placed under stricter management limitations than normal forest lands. Such areas include, but 
+are not limited to, protective belts around electric lines, water bodies, cultural monuments and 
+special micro reserves. Today different restrictions apply to 495 000 ha of forest areas, including 
+237 000 ha where management activities are completely or significantly prohibited. Around 85% 
+of the total forest area is free of any management limitations. In addition to environmental 
+protection laws, the Latvian Forest Law is among the strictest in Europe regarding biodiversity 
+and sustainability issues. Latvia has succeeded in protecting its abundant biodiversity by 
+exceeding the 2020 Aichi targets, with more than 16% of marine waters and 18% of land area 
+under some form of protection. Natura 2000 areas cover 745 000 terrestrial ha (12% of total 
+land area) and 440 000 marine ha. However, most protected areas lack management plans and 
+are chronically short of human and financial resources. 
+Latvia began implementing forest certification systems in the late 1990s. Both FSC and PEFC 
+are in use, although PEFC is more popular with 1.72 million ha covered in 2019, as compared 
+to 1.02 million ha covered by FSC in 2018. Dual certification covers 845 000 ha. A bit more than 
+half of Latvia’s forests are certified, which is near the OECD average but well below other forest-
+rich countries. Certification schemes are mostly driven by export partners’ demand, since many 
+Latvians think that the national forest laws already set high standards for forest stewardship and 
+that there is no advantage in paying for certification. 
+Latvia’s National Development Plan 2014–2020 is the main medium-term strategic policy for the 
+country’s development, and it includes the Forest Strategy. The plan includes an objective on 
+natural capital, which aims to increase the organic farming area and forest coverage, promote 
+the sustainable use and biodiversity of the land and other natural resources, and conserve 
+species. The Forest Strategy guidelines are harmonised with other, related policies and updated 
+to respond to new challenges of the forest sector, such as the role of forests in climate change 
+mitigation. To consider opinions of different interest groups, the Forest Advisory Board has been 
+established. The interests of private forest owners are represented by the Latvian Forest 
+Owners’ Association. Company interests are represented by Latvia’s Timber Industry 
+Federation locally and internationally. The State Forest Service is responsible for supervising 
+that the national laws and government regulations relating to forest management are followed.  
+On a higher, long-term level, the Sustainable Development Strategy of Latvia until 2030 ties 
+together the development goals for the sustainable use of culture, nature, economic and social 
+capital. The strategy states that the government should introduce a plan for the preservation 
+and restoration of natural capital at the state level, which would also include spatial planning of 
+nature preservation and restoration, as well as reforesting low value abandoned agricultural 
+lands. The strategy also considers relevant international and EU strategies, such as the EU 
+Biodiversity Strategy and the EU Forest Strategy. 
+Legal Framework of Latvian Forest Management 
+Forest management is strictly regulated by the Latvian Law on Forests and subsidiary 
+regulations, such as the Regulations on Tree Felling in Forest Lands. The law regulates the full 
+forest harvesting cycle and any associated management practices with specific threshold values 
+and guidelines. There are two main purposes of this law:  
+1) To promote economically, ecologically, and socially sustainable management and use 
+of the forest by ensuring equal rights, inviolability of the ownership rights, and 
+independence of economic activity of all owners or lawful possessors of the forest, 
+and determining equal obligations, and  
+2) To govern the conditions for the management and alienation of the State forest land.  
+The law has been amended many times during the past 20 years. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+26 
+All private forest owners who wish to do commercial harvesting are required to have a forest 
+management plan covering a 20-year period, based on a full forest inventory. The management 
+plan is made by the State Forest Service, although the owner’s wishes and goals are considered 
+as a priority. A typical harvesting process begins with the landowner having to acquire a 
+harvesting permit from the State Forest Service before any harvesting activities can be initiated. 
+The permit includes information on the forest property, harvesting area, contact details of forest 
+owner, etc., allowing the harvested wood to be tracked back to its origin. Before the permit is 
+granted, the State Forest Service officers randomly conduct check-up and monitoring activities 
+to ensure that the forest property is in line with the legal requirements. The permit is not required 
+for pre-commercial thinning, cutting of dead and windfall trees, maintenance of forest clearings, 
+etc.  
+Clear-cutting is strictly regulated by threshold values that must be achieved first for either 
+rotation age or average diameter (Table 3.1, Table 3.2; a more detailed description of the law 
+can be found in Annex 1). In practice, the diameter is often the first criterion that is met. Different 
+thresholds apply to different forest quality classes (bonitet classes) that are based on the site’s 
+wood production ability: quality class I is the most productive, class IV is less productive and so 
+on. 
+Table 3.1 
+Minimum Clear-cutting Age by Tree Species and Quality Class 
+Dominant tree species 
+Quality class (Bonitet) 
+I and Higher 
+II-III 
+IV and Lower 
+Oak 
+101 
+121 
+121 
+Pine and Larch 
+101 
+101 
+121 
+Spruce, ash, linden, elm, 
+flattering elm, and maple 
+81 
+81 
+81 
+Birch 
+71 
+71 
+51 
+Common alder 
+71 
+71 
+71 
+Aspen 
+41 
+41 
+41 
+Source: Law on Forests 
+Table 3.2 
+Average Diameter (cm) at Breast Height of Dominant Tree Species to 
+Allow for Clear-Cutting 
+Dominant tree 
+species 
+Quality class (Bonitet) 
+Ia 
+I 
+II 
+III 
+Pine 
+39 
+35 
+31 
+27 
+Spruce 
+31 
+29 
+29 
+27 
+Birch 
+31 
+27 
+25 
+22 
+Source: Regulations on Tree Felling in Forest Lands 
+Maximum clear-cut area (including adjacent forests, regardless of owner, see Annex 1) is 
+restricted to: 
+ 
+5 ha normally 
+ 
+10 ha in dry areas, provided that no less than 20 pine seed trees per ha of felling area 
+are left standing 
+ 
+2 ha in sensitive forests 
+ 
+2 ha in the restricted management belt along the Baltic Sea and the Gulf of Riga 
+coastlines, where clear-cutting of pine stands is prohibited altogether 
+ 
+If no more than 0.3 ha are left outside the clear-cut area, it may be included. 
+After harvesting, roadside piles of wood are usually covered and marked with clearly 
+distinguishable markings for state or private owners. Collection of raw material from roadside 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+27 
+requires availability of the information of the sourcing area, volumes, species, type of raw 
+material, owner and contractor. Declarations on timber transactions are required to be available 
+upon request from authorities. Waybills are required to be available in transporting raw materials 
+and undergo random monitoring check-ups by the regional State Forest Service officers. 
+Waybills also must contain information on the origin of wood and a reference to harvesting 
+permit, along with other documentation. Transportation to and from foreign countries requires 
+additional documentation in accordance with international laws.  
+In addition to thinning and clear-cutting, the Law on Forests also regulates every other type of 
+felling of trees, such as sanitary, landscape, random and deforestation felling. Even the forms 
+for measuring basal areas, average heights and diameters are provided. Forest regeneration 
+and afforestation are also strictly regulated. The threshold values for successful regeneration 
+are 3 000 trees/ha for pine, 1 500 trees/ha for hardwoods and 2 000 trees/ha for spruce and 
+other species after 5 years (10 years on marshy sites) of clear-cutting (Annex 1).  
+Currently the Latvian Ministry of Agriculture is discussing possible changes in the regulations 
+on tree felling. The main point of contention is lowering the minimum diameter of trees that can 
+be cut down in fertile soils, but artificial regeneration would be mandatory for these areas. If 
+clear-cuts were done according to age limitations (usually reached much later than diameter 
+limitations), regeneration could also be done naturally. The aim of the change is to harmonise 
+the final felling criteria with Estonia and improve the competitiveness of fertile forests by 
+ensuring they are regenerated with better planting material and valuable species. The proposed 
+change would be more ideal for forest industries and would give forest owners more flexibility 
+to decide when to clear-cut. Both foresters and environmentalists have grasped the opportunity 
+to affect the on-going policy-making process. An open letter from foresters asked for 
+sustainability and smart forest management to be considered in the form of more flexible 
+regulations, while environmental organisations announced opposition for such changes.  
+Nature protection is an integral part of the Latvian Law on Forests. A forest owner has to follow 
+the general nature protection requirements to secure the preservation of forest biodiversity, to 
+preserve the forest’s ability to protect soil from erosion, to protect the surface and subterranean 
+waters from pollution, to protect significant cultural heritage elements in the forest, as well as to 
+facilitate the forest’s stability and adaption to climate change. Such regulations make Latvian 
+forestry one of the most strictly regulated in Europe. The State of Latvia has been mapping high-
+conservation value forest areas, which would eliminate the need to do the present detailed 
+assessments in future harvesting operations as the information on these areas would be publicly 
+available and incorporated into harvesting permit attainment requirements. 
+3.2.2 
+Changes in Forest Management Practices 
+Forest management practices include actions, such as thinning, regeneration, fertilisation and 
+tending that are undertaken to reach desired outcomes in a forest stand. In Latvia, there are 
+differences in forest management practices between private and public forest owners. High 
+fragmentation and small parcel sizes of private forest owners are discouraging their long-term 
+economic management planning. Public forests are usually more strictly managed by the Law 
+on Forests. 
+Fellings 
+Harvesting areas and volumes have remained quite stable in Latvia, although an overall 
+declining trend can be seen between 2002–2008 and 2010–2016 (Figure 3.8). A notable outlier 
+in the statistics is in 2005, when the severe storm Gudrun – or Erwin as it was named in the 
+Baltics – swept over large parts of Northern Europe and the Baltic countries at the beginning of 
+January, hitting Sweden and Latvia especially hard. The EU solidarity fund was mobilised in 
+many countries to clean up forests from the excessive amounts of residue and dead wood to 
+prevent insect outbreaks from damaging the surviving forests in the following years. Altogether, 
+11 500 ha and 11.3 million m3 were felled in Latvia that year. In 2008, Latvia fell into economic 
+recession along with the rest of the world. Maximum harvesting levels were temporarily 
+increased by 4 million m3 in state-owned forests for the years 2009 and 2010 to provide for the 
+state treasury, while private forest owners decreased their fellings in 2008–2009 since timber 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+28 
+prices were low (Figure 3.4, Figure 4.4). However, by 2010 the total felling volume had reached 
+the highest level of the last 20 years, with 13 million m3 felled. After another decline until 2016, 
+felling volumes are now increasing (Figure 3.8). Currently, the national felling volume is 
+approximately 65% of the national forest increment, which means that the felling level could be 
+increased further. 
+Figure 3.8 
+Felling Types 
+ 
+Source: Central Statistical Bureau of Latvia 
+It is estimated that the flow of roundwood from forest fellings should not fall below 10 million m3 
+per year to satisfy the needs of the forest industry. The possibilities for importing wood are 
+somewhat limited, so the industry relies on local resources. Approximately half of the supply 
+originates from state forests, and the rest from non-state owned forests (Figure 3.4). While the 
+state forests provide a stable wood supply with volumes that can be easily predicted by the long-
+term management plans, private forest owners are more volatile in their management practices. 
+In general, private forest owners that own less than 20 ha (91% of the total number of private 
+forest owners and 39% of private forest land) primarily cut forests for their own needs, mainly 
+for firewood, or to cover personal expenses, investments or loans. The main deciding factor for 
+harvesting is the price of timber, but forest owners do not usually want to sell for less than what 
+has once been the highest price and will wait until prices are better. Large-scale forest owners 
+with more than 50 ha (2% of the total number of private forest owners and 41% of private forest 
+land) are more active in regular forest management and timber sales. 
+It is important to bear in mind that most private forest owners did not pay for their forests but 
+inherited them or got them through the privatisation vouchers during the first years of Latvia’s 
+regained independence. Only a small portion of forests have been obtained from the market. As 
+such, private forest owners do not act like investors and do not plan forest management based 
+on market situations or economic calculations. In most cases, private forest owners of small 
+properties consider their property as a deposit for themselves and future generations and are 
+not interested in selling timber. Forest management is, to a large extent, controlled by the Law 
+on Forests, which means that taxes and subsidies do not play a significant role in private forest 
+owners’ decision-making process. However, it can be noted that subsidies for tending have 
+increased the levels of tending in private forests. 
+The most common harvesting method in Latvia is the cut-to-length method (CTL). Fully 
+mechanized CTL consists of a harvester-forwarder chain, and it accounts for up to 70% of all 
+harvests. Highly mechanised CTL replaces the use of harvesters with manual chainsaw felling, 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Clear‐cutting
+Maintenance felling
+Other felling
+1 000 ha
+Storm Erwin/Gudrun ‐
+> 287k ha felled
+Drax entry to market
+0
+2
+4
+6
+8
+10
+12
+14
+Clear‐cutting
+Maintenance felling
+Other felling
+million m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+29 
+and it accounts for 25% of total harvests. There has been a large shift in harvesting practices 
+since 2005, when highly mechanised CTL was still the dominant practice, accounting for up to 
+80% of all harvests, and fully mechanized CTL for only 13%. This shift can be explained by a 
+change in the legislature. Until the year 2005, the area of forest machine tracks could not exceed 
+12% of the total area of the forest stand during felling, which meant that the distances between 
+strip roads could not be less than 30 metres. A harvester boom could not cover the whole area 
+between corridors so far apart. In 2005 the legislation changed to allow 20% of forest stand area 
+to be covered by machine tracks, which meant they could be drawn 20 metres apart and the 
+harvester boom could reach all trees in the stand. The new regulation effectively forbids the use 
+of small-size machinery, which requires even narrower distances between strip roads, but are 
+handy especially in energy wood harvesting. The tree-length method (TL), where whole trunks 
+of trees without treetops are moved with agricultural tractors with a winch or skidder instead of 
+a forwarder, is not very popular in Latvia.  
+Figure 3.9 
+Harvesting Practices in Latvia 
+ 
+Source: Moskalik et al. 2017: Indufor analysis 
+Collection of Felling Residues 
+The collection, chipping and utilisation of harvesting residues has become more prominent in 
+Latvia in the past decade. Collected harvesting residues are used to produce chips for energy 
+production. Majority of the harvesting residues are left in situ to improve the bearing capacity of 
+the soil for the logging tracks, and due to the current availability of alternative low-value wood 
+assortments for energy generation, e.g. small diameter roundwood from the clearing of former 
+agricultural lands, roadsides and ditches (Figure 3.10). A lot of wood residues used in energy 
+generation are collected from clear-cut stands in former agricultural lands. Foliage and tree 
+stumps are not commonly collected or utilised and as such, not included in the estimation of the 
+utilisation of harvesting residues.  
+Harvesting residue collection was minimal 15 years ago, but with the increased demand from 
+the energy sector with new investment into CHP and heat plants, the collection of harvesting 
+residues has grown. The use of harvesting residues has grown as a result of continued 
+investments into renewable energy generation in the last decade; woody biomass consumption 
+in CHP plants has been steadily increasing since 2012. As a result of increased demand, prices 
+for harvesting residues have increased in the last 15 years, providing incentives for private forest 
+owners. The energy market is the only notable market for harvesting residues, and they remain 
+13 %
+80 %
+7 %
+2005
+Fully mechanised CTL
+Highly mechanised CTL
+Fully mechanised TL
+70 %
+25 %
+5 %
+2017
+Fully mechanized CTL
+Highly mechanized CTL
+Fully mechanized TL
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+30 
+as an important raw material for energy plants. Also, small households have started to switch 
+from oil to wood (pellets or firewood) for heat production.  
+Forest residue utilisation has fluctuated significantly since 2007, with an evident increasing 
+trend, in which approximately 16% of forest residues were collected in 2007 and about 39% in 
+2018. In the last three years, the utilisation level has remained more stable. Due to bad weather 
+conditions in autumn 2019, a lot of harvesting residues were left to improve the bearing capacity 
+of soil for forwarders, and the total amount collected in 2019 is estimated to have slightly 
+decreased.  
+One of the reasons for low utilisation is the high cost of collecting and transporting harvesting 
+residues from small stands. Also, the majority of the harvesting residues are left to improve the 
+bearing capacity of the soil and to improve the local soil conditions. Overall, the gap between 
+available and collected residues has been narrowing in recent years. 
+Residues are collected usually when the right ecological and economic conditions are in place, 
+such as access to road and storage, residue price and cost of collection, soil conditions, relevant 
+permits, among others.  
+Figure 3.10 
+Utilisation of Harvesting Residues (Branches and Treetops) 
+ 
+Source: LVM 2019, Indufor analysis 
+As was highlighted earlier, the most common harvesting method is CTL, which has become 
+increasingly mechanised and further enabling collection of harvesting residues. Most harvesting 
+residues are produced on-site and not transported out of forest stands, but the share of utilised 
+residues transported out of the forest stands has been increasing. The overall wood chip 
+production cost from harvesting residues has been decreasing due to increased mechanisation 
+of the harvesting methods. Improved mechanisation has had a positive impact on the availability 
+and cost of harvesting residues.  
+In Latvia, most of the harvesting area is allocated for maintenance felling, but in terms of 
+harvesting volume, the share of clear-cut areas is estimated at 80%. As a result, harvesting 
+residues are collected mainly from clear-cut areas, while the collection of maintenance harvest 
+residues is more complicated. Due to local soil conditions and topography, it is estimated that 
+60% of the harvesting residues from clear-cut stands would be available for collection. 
+Harvesting residues from thinning operations are rarely collected due to cost and poor 
+accessibility. Approximately 70-80% of the available harvesting residues are collected currently, 
+which is a significant increase from 33% in 2007 (Figure 3.11). The share of harvested residues 
+collected is higher in public forests. Public forest owners can store residues for up to 6 months. 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019e
+Left in situ
+Collected
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+31 
+Private forest owners do not go out of their way to collect residues and often do it if economically 
+feasible, for instance, if the hired harvesting company also offers services to collect residues. It 
+is estimated that on average, approximately 0.2 m3 of branches and treetops are produced per 
+each cubic metre that is harvested from the forest. 
+Figure 3.11 
+Estimation of the Utilisation of Harvesting Residues (Branches and 
+Treetops) 
+ 
+Source: LVM 2019; Lazdiņš, A. and Lazdina, L., 2009; Indufor analysis 
+Harvesting residues are collected all over Latvia. Most of the harvesting residues are collected 
+from forests with better soil conditions, occupying about 90% of the total forest area. Nearly half 
+of the poor soil sites have wet soil where harvesting residues are almost entirely used for 
+stabilisation of logging tracks. The rest is considered dry forest type, and there is generally low 
+motivation for a forest owner to collect harvesting residues, mainly due to high costs of 
+forwarding and economy of operation of mobile chipping equipment. 
+Since the national felling volume is only about 65% of the national forest increment, the felling 
+level can be increased in the future, which would increase the potential availability of harvesting 
+residues too. The demand for harvesting residues has risen significantly in the last 15 years, 
+and it is expected to continue to grow.  
+Forest Regeneration and Other Forest Management Practices 
+Latvia regenerates around 40 000 ha of forest land per year. The share of natural regeneration 
+has remained steadily at around 65% of the total reforested area during the past 20 years, and 
+sowing and planting cover the remaining 35%. A forest stand is registered as planted or sown 
+if the number of trees planted or sown exceeds 50% of the minimum required density. 
+Regeneration practices vary between state and private owners: the state prefers artificial 
+regeneration practices (on average 60% of state reforested area), whereas private forest owners 
+strongly rely on natural regeneration (on average 80% of the private reforested area) (Figure 
+3.12). Private forest owners regenerate more forest area than the state per year, exceptions 
+were years 2011–2014 and all accounted years before 2002. The total regenerated area has 
+more than doubled since the beginning of the century. State and the EU support for forest 
+reforestation in low-value forests or after fires and natural disasters is available in Latvia, but 
+the amounts are only a few hundred ha per year and do not affect the rate of reforestation. 
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Production of residues
+Residues from final felling
+Available for collection
+Collection of residues
+1 000 m3
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+32 
+Figure 3.12 
+Regeneration Practices by Type and Ownership 
+ 
+Source: Central Statistical Bureau of Latvia 
+As seen from Figure 3.12, the state forest regeneration is quite stable over the years, while 
+private forest regeneration fluctuates a lot. The pattern is similar for final fellings (Figure 3.4), 
+and the reasons are the same: state forests aim to provide a stable raw material supply for the 
+national forest industries, while private forest owners cut their forests when wood prices are 
+high. The state has regenerated more forests than usual between 2011–2014, which can be 
+explained by the 2008 financial crisis and consequent increase in state forest harvesting 
+between 2009–2012 (Figure 3.4). Increased harvesting increases forest regeneration levels with 
+a few years delay because the regeneration is usually done a year or two after the clear-cut, 
+and only successfully generated areas are accounted for. In private forests, the regeneration 
+trend follows the trend on wood prices (Figure 4.4, Figure 4.6) with a slight delay. 
+Forest regeneration area has been increasing since the 1990s. The increase is partly due to 
+regeneration fellings being done on areas that were afforested at the beginning of the 20th 
+century, and partly due to more accurate accounting methods. Another contributing factor is the 
+development of relevant legal framework and amendments to it, as well as educational 
+measures targeting forest owners. In 2012 the regulations on forest regeneration were updated 
+to give forest owners more freedom to choose the regeneration method, species and tending 
+practices. At the same time, the forest owners’ responsibility for successful regeneration 
+increased. The current regulations are presented in Annex 1.  
+In the past, it was common for private forest owners to leave forests to naturally regenerate 
+without any assistance, but during the last 20 years, the owners have realised that natural 
+regeneration is ineffective under certain circumstances. Besides, natural regeneration usually 
+leads to deciduous forests which are less valuable than coniferous forests. Sowing and planting 
+have become more popular in recent years. The increased share of land in institutional private 
+ownership has also increased the popularity of artificial regeneration, as investors aim at 
+shortening the forest rotation cycles. By far, the most popular soil preparation method in Latvia 
+is disc trenching. However, spot mounding is becoming increasingly popular as up to 30% of 
+forests in Latvia grow on wet soils where disc trenching does not provide satisfactory results.  
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+State
+Sowing and Planting
+Natural Regen.
+Total of State and Other
+1 000 ha
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Other
+Sowing and Planting
+Natural Regen.
+Total of State and Other
+1 000 ha
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+33 
+3.2.3 
+Impacts of Changes 
+Production of Sawn Timber 
+Both the increase of forest area and growing stock indicate a good outlook for the raw material 
+supply for sawn timber in the long term. However, there is a shift in species composition from 
+pine to spruce and broadleaved forests due to afforestation of agricultural lands resulting in 
+mostly broadleaved forests and the preferred method of natural regeneration in forestry resulting 
+in mostly spruce or broadleaved forests. Such a shift in the species composition will be visible 
+in the domestic raw material supply for sawn timber of Latvia in the short term. 
+The trend of private forest ownership consolidation will increase the level of professional 
+management in forests, improving the roundwood quality and shortening average rotation times. 
+Smallholders are not very active forest managers but can be activated with incentives such as 
+meaningful profits from harvesting residues. On the other hand, the increasing importance of 
+climate change mitigation goals may create political pressure for reducing fellings in the future. 
+The Law on Forests regulates minimum forest age and diameter for clear-cuts. In state forests, 
+i.e. half of Latvia’s forests, stands are usually clear-cut as soon as either of the requirements is 
+fulfilled, while considering LVM’s sustainable forest management strategy. Sawlog price is a 
+more important driver for final-felling decision than wood-based bioenergy demand. Due to the 
+strict regulations on forestry and tree felling, an increase of wood-based bioenergy demand has 
+not shortened rotations. There is a call to lower the final felling diameter limit and put stricter 
+regulations in place for forest regeneration if they are cut according to the diameter. Mandatory 
+artificial planting would improve timber quality and increase the share of valuable species in the 
+long term. 
+Growth Rate, Carbon Sequestration and Carbon Storage of Forestry 
+Latvia’s greenhouse gas (GHG) emissions have decreased by 1.3% since the mid-2000s, as a 
+result of improved energy-efficiency and increased use of renewables (mostly woody biomass) 
+that now cover 40% of Latvia’s energy needs. However, GHG emissions from the agricultural 
+sector grew to about a quarter of the total and are expected to continue rising, estimated to 
+account for 30% of GHG emissions in 2030. This is due to the expansion of agricultural land, 
+cultivation of organic soils, growing amounts of production and livestock, and increased use of 
+nitrogen fertilisers. Total GHG emissions are projected to more than double from the 2005 level 
+by 2030. Besides, the LULUCF sector’s GHG sequestration capacity has been slowing since 
+2005, and it became a net GHG emitter in 2014 as a result of increased logging, forest ageing 
+and conversion of grasslands into croplands.1  
+In forestry, a trade-off exists between maintaining a high carbon sequestration rate and high 
+carbon storage. Young forests have a high growth rate and thus a high carbon sequestration 
+rate, however, their carbon storage is small. Old forests have a lower carbon sequestration rate, 
+but they are a significant carbon storage. Increased harvesting would lower the average age of 
+forests, thus increasing carbon sequestration but decreasing storage. To avoid strengthening 
+the greenhouse effect, carbon should be stored away from the atmosphere. Therefore, the 
+pressure to meet climate goals increases the pressure to reduce fellings. 
+The carbon storage in Latvia’s forests is generally positively impacted by forest growth. As 
+indicated in chapter 3.1.2, Latvia’s growing stock in the past decade has increased by 
+32 million m3 (2009–2019) or 5% to a total of 679 million m3 in 2019. The total forest cover has 
+also increased by 1% since 2010. As a result of forest expansion and an increase in growing 
+stock, carbon storage has reached 696 million tonnes in 2018, which is an estimated 3% 
+increase from the 2001 levels. Most of Latvia’s carbon storage is stored in soil and live biomass, 
+with 391 million tonnes and 263 million tonnes, respectively. For the past 20 years, the 
+harvesting level has been quite steady, which means that carbon storage has not been affected 
+by any drastic changes in harvesting levels. Currently, the national harvesting volume is 
+ 
+1 OECD, 2019. Environmental Performance Reviews. Latvia.  
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+34 
+approximately 65% of the national forest increment, meaning that forests have been harvested 
+in a sustainable manner. 
+According to Latvia’s National Forestry Accounting Plan and Proposed Forest Reference Level 
+2021–2025, the forests are decreasing their GHG sequestration capacity, and are modelled to 
+turn into minor GHG emitters between 2025–2030. Even a low sequestration rate increases 
+carbon storage, which explains the increases in forest growing stock and area recently. 
+However, the ageing forest structure of Latvia approaches the carbon balance when the 
+increment compensates emissions from natural loss, soils and harvesting but does not increase 
+the stored carbon volume. There are significantly more young or middle-aged than mature 
+stands now, but in the near future these forests start slowing their growth and consequently their 
+carbon sequestration rate as well. Broadleaved forests have short rotation cycles, which means 
+that they reach maturity very fast. Broadleaved forests also have a lower carbon sequestration 
+capacity than coniferous forests, and their share has increased due to the prevalence of natural 
+regeneration practices. In addition, organic soils (30% of forest area) create significant 
+emissions, which must be compensated by biomass growth before the forests can be 
+considered carbon sinks. 
+There is a conflict between market-conditioned management of forests and carbon balance: it 
+is impossible to reach the best carbon balance and apply a high interest rate at the same time. 
+Political pressures and other environmental issues, such as biodiversity and nutrient loading 
+into water, also play a role in forest management. In a forest management regime purely 
+concentrated on improving carbon balance, both carbon sequestration rate and carbon storage 
+are increased. Carbon sequestration rate of forests can be improved by increasing the growth 
+rate with fertilizing, tree breeding, and harvesting and replanting low-yielding forests. Carbon 
+storage can be increased by increasing forest density, prolonging rotation cycles, avoiding 
+disturbing the soil and restoration of low-yielding peatlands. 
+The collection of harvesting residues decreases the carbon stock and is also likely to decrease 
+the carbon sequestration potential of the felling area as the removal of felling residues will affect 
+the future carbon input of the soil2,3,4,5,6. However, the effects of collecting residues vary between 
+different energy wood fractions7 and different forest types. The substitution effects of forest 
+residues should also be accounted for. Substituting fossil fuels with biofuels (e.g. forest 
+residues) has the potential to reduce total carbon emission, thus justifying decreasing soil 
+organic carbon levels resulting from collecting harvesting residues. This is, however, strongly 
+affected by the chosen management regime (e.g. continuous cover forestry or clear-cutting and 
+regeneration)8. 
+Existing policies in Latvia are developed to ensure significant reductions of emissions and 
+increasing capacity to sequester carbon. Latvia will likely meet its 2020 GHG emission target 
+under the EU Effort Sharing Decision of limiting the increase in GHG emissions to 17% of the 
+2005 level. It covers emissions from sectors outside of the EU Emissions Trading System, 
+ 
+2 Knoepp, J., D. and Swank, W., T., 1997. Forest Management Effects on Surface Soil Carbon and 
+Nitrogen. Soil Science Society of America Journal, 61(3):928–935. 
+3 Achat, D., L., Fortin, M., Landmann, G., Ringeval, B. and Augusto, L., 2015. Forest soil carbon is 
+threatened by intensive biomass harvesting. Scientific Reports, 5(1). DOI: 10.1038/srep15991. 
+4 Jones, H., S., Garrett, L., G., Beets, P., N., Kimberley, M., O and Oliver, G., R., 2007. Impacts of 
+Harvest Residue Management on Soil Carbon Stocks in a Plantation Forest. Soil Science Society of 
+America Journal, 72:1621–1627. 
+5 Gollany, H., T., Novak, J., M., Liang, Y., Albrecht, S., L., Rickman, R., W., Follett, R., F., Wilhelm, W., 
+W. and Hunt, P., G., 2010. Simulating Soil Organic Carbon Dynamics with Residue Removal Using the 
+CQESTR Model. Soil Science Society of America Journal, 74: 372–383. 
+6 Nave, L., E., vance, E., D., Swanston, C., W. and Curtis, P., S., 2009. Harvest impacts on soil carbon 
+storage in temperate forests. Forest Ecology and Management, 259:857–866. 
+7 Repo, A., Känkänen, R., Tuovinen, J.-P., Antikainen, R., Tuomi, M., Vanhala, P. and Liski, J., 2012. 
+Forest bioenergy climate impact can be improved by allocating forest residue removal. GCB Bioenergy, 
+4: 202–212. 
+8 Pukkala, T., 2014. Does biofuel harvesting and continuous cover management increase carbon 
+sequestration?. Forest Policy and Economics, 43:41–50. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+35 
+mostly from transport, agriculture, buildings, small industrial facilities and waste. Yet meeting 
+the long-term climate goals consistent with the Paris Agreement is more challenging and will 
+require more effort. Latvia has recently developed the National Energy and Climate Plan 2021–
+2030, which includes activities targeting the reduction of GHG emissions, an increase of carbon 
+sequestration and growth of renewable energy, among others. Latvia has also been developing 
+its Low Carbon Development Strategy 2050, as required by the Paris Agreement, which 
+envisages reducing GHG emissions by 80% by 2050 from the 1990 level. 
+Growing agricultural production, use of fertilisation, conversion of grasslands into croplands, 
+and the ageing forest structure will continue to reduce the GHG removal capacity of Latvia’s 
+LULUCF sector. Nevertheless, the forest area and growing stock have been growing and have 
+had a positive impact on the forest carbon storage. 
+Revenue Generation of Forest Owners 
+The profitability of forestry is mainly based on the timber production capacity of forests and the 
+demand for wood raw material. Forest management aims to promote the growth of valuable 
+species and stands and to improve the quality of roundwood. In addition to wood production, 
+today's forest management focuses on the preservation of natural values, landscape 
+management and recreational values. Developments in forestry technology, information 
+technology, and availability of different support mechanisms, such as subsidies or tax 
+reductions, also improve the revenue generation for forest owners. 
+Generally, the revenue generation of forests has become better as the demand for different 
+assortments (sawlogs, pulpwood, energy wood) has grown. Demand for energy wood has been 
+in special focus in Latvia as the share of energy produced with woody biomass has increased, 
+and ambitious goals for 2050 aim to increase the share of bioenergy even further. Development 
+of the forest biofuel market and the involvement of private forest owners in it will not only 
+increase the utilisation of forest harvesting residues, but also encourage forest maintenance, 
+thinnings, and afforestation of abandoned lands. Prices of all assortments are very sensitive to 
+the general economic situation (Chapter 4.2). Prices have not yet reached the levels before the 
+financial crisis of 2008, but development has been positive. While large-scale forest owners 
+base their forest management on producing quality wood in minimum rotation periods, small-
+scale forest owners avoid any expenses and sell what they have when prices are good.  
+Large size brings many advantages for forest owners. Management can be planned on bigger 
+areas, lowering expenses per hectare. Many small-scale forest owners cannot afford services 
+from big harvesting companies due to high expenses and low income from forestry operations, 
+or incomes from clear-cutting being too far in the future. Forest owner associations aim to 
+consolidate owners and share expenses, profits, experiences and knowledge. The first 
+cooperative society of private forest owners was established in 2011, and in 2015 there were 
+about six cooperatives and 15–20 smaller local associations or organisations. The trend of 
+consolidation is slow due to forest owners’ attitudes against it, but the benefits of consolidation 
+are prominent and might change the attitudes. 
+Some tax reduction and subsidies are offered to private forest owners as incentives. Tax 
+reductions for recently regenerated or newly afforested forest land were introduced in 2003. In 
+case the clear-cut areas are regenerated following regulations, the annual property tax is 
+removed in coniferous and hardwood forests for 40 years and in other types of forests for 10–
+20 years. 25% of reforestation costs are not taxed. In addition to national tax reductions, EU-
+level subsidies for the tending of forests are available since 2009. Before 2004, the tending of 
+young stands in private forests did not exceed 10–15% of total tending and in 2008 the share 
+was still low, at 18%. In 2009, the amount of tending in private forests doubled, reaching 44%. 
+The total amount of subsidies for the improvement of forest value (mostly tending) was close to 
+13 million EUR in 2015, covering approximately 40 000 ha out of 84 000 ha of total forest 
+tending.  
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+36 
+4. 
+SOLID WOOD PRODUCT MARKETS 
+4.1 
+Domestic Production 
+Box 4.1 
+Chapter Highlights 
+Solid wood products (SWP) Production  
+● 
+Sawnwood production has recovered well from the financial crisis and has grown since 
+2009. However, the peak volume of 2006 has not been reached since.  
+● 
+Wood-based panels (WBP) production has grown steadily during the past two decades. 
+Since 2007 OSB production has been the engine for growth in the panel industry. 
+● 
+Pellets are a major wood-based product in Latvia and are produced currently in 14 
+industrial mills and several smaller plants. The production has been gradually increased 
+during the last two decades. 
+● 
+SWP production consumes approximately 10–11 million m3 of roundwood annually, of 
+which sawmilling accounts for nearly 80%. 
+ 
+The Latvian Forest Industry 
+Latvian forest industry consists of 20 industrial sawmills, along with significant amount of pellet 
+mills and fibreboard and plywood production. Most of the sawmills are in the Vidzeme region in 
+the north-central part of Latvia (see Figure 4.1, Table 4.1). The wood-based industry has grown 
+during the last 10 years. There are 14 industrial pellet mills in Latvia and many small pellet 
+plants. The largest producer is AS Graanul Invest with plants all over Latvia. There is only one 
+small paper producer in Latvia (Ligatne) which uses only recycled paper as raw material. 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+37 
+Figure 4.1  
+SWP Mills in Latvia 
+ 
+Table 4.1  
+Legend for SWP Mill Map 
+Label 
+Type 
+Company
+Label
+Type
+Company 
+6 
+Sawmill 
+LV Timber 
+1 
+Pellet mill 
+LatGran Ltd 
+11 
+Sawmill 
+SELKO 
+2 
+Pellet mill 
+Scandbio 
+12 
+Sawmill 
+AKZ 
+3 
+Pellet mill 
+Prowood 
+13 
+Sawmill 
+Rettenmeier Timber 
+4 
+Pellet mill 
+LatGran Ltd 
+14 
+Sawmill 
+PATA Timber 
+5 
+Pellet mill 
+LatGran Ltd 
+15 
+Sawmill 
+Planka Ltd 
+7 
+Pellet mill 
+Graanul pellets 
+16 
+Sawmill 
+Vika wood 
+9 
+Pellet mill 
+EcoEnergy AIFP 
+17 
+Sawmill 
+BSW Latvia SIA 
+10 
+Pellet mill 
+Varpa 
+18 
+Sawmill 
+Piebalgas 
+21 
+Pellet mill 
+Baltic Biogran 
+20 
+Sawmill 
+Krauss LTD 
+23 
+Pellet mill 
+VPV 
+22 
+Sawmill 
+BYKO-LAT 
+27 
+Pellet mill 
+LatGran Ltd 
+25 
+Sawmill 
+Rīgas Meži 
+28 
+Pellet mill 
+Latgranula 
+29 
+Sawmill 
+Latvia Timber 
+International 
+30 
+Pellet mill 
+Kurzemes Granulas Ltd 
+32 
+Sawmill 
+SIA VMS Timber 
+31 
+Pellet mill 
+Graanul Invest 
+33 
+Sawmill 
+Stora enso 
+8 
+Panels & EWP 
+Latvijas Finieris 
+34 
+Sawmill 
+Osukalns Ltd 
+19 
+Panels & EWP 
+Timberex Group 
+35 
+Sawmill 
+Kurekss SIA 
+24 
+Panels & EWP 
+Kokapstrādes Grupa 
+37 
+Sawmill 
+Vaidens Ltd 
+26 
+Panels & EWP 
+Stiga RM Ltd 
+38 
+Sawmill 
+Smiltene Impex 
+36 
+Panels & EWP 
+Kronospan 
+39 
+Sawmill 
+Kraujas Z 
+40 
+Panels & EWP 
+LatIgMa Ltd 
+Source: Indufor 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+38 
+Production and Wood Consumption 
+There is no pulp production in Latvia and only one paper mill (Ligatne), which does not use 
+virgin wood fibres as raw material and produces only approximately 16 000 tonnes of paper 
+annually. Thus, pulp and paper production does not play a role in the wood markets in Latvia. 
+Sawmilling and WBP production, on the other hand, are significant industries in the country. For 
+the past two decades, the wood products sector has accounted for 19–26% of the country’s 
+export value and approximately 2–3% of the country’s gross value added (GVA), while the 
+forestry sector has accounted for approximately 2% of the GVA. 
+As in many industries and countries, the Latvian wood products sector was hit hard by the 
+financial crisis between 2007–2009. During this time, sawnwood production dropped by as much 
+as 42% compared to 2006 (Figure 4.2) Since then, sawnwood production volumes have 
+recovered and stabilised to approximately 3.7–3.9 million m3 per year, but have yet to reach the 
+level of 2006. Growth between 2011–2014 was supported by relatively strong growth in the 
+construction sector, which boosted demand for sawnwood. Interviews with local experts suggest 
+that there is no potential for further increasing sawmilling capacity in the country, due to lack of 
+demand and limited raw material availability. 
+WBP production has enjoyed steady growth for the past two decades. Production volumes have 
+grown each year except for four years; 2007, 2009, 2014 and 2018. These decreases have 
+mainly been modest and have been dwarfed by subsequent growth in production. For example, 
+even though WBP production decreased between 2006–2007, production jumped by over 52% 
+between 2007–2008, which converts to a 51% growth compared to 2006. 
+Figure 4.2 
+Production of SWPs 
+ 
+Source: FAO 
+WBP production consists of OSB, plywood and particleboard. In the early 2000s plywood was 
+the main WBP produced in Latvia, but in 2007 OSB production began and ramped up fast from 
+100 000 m3 to over 300 000 m3. OSB became the largest WBP product by volume by 2009. 
+Particleboard production also surpassed plywood production in 2008, momentarily becoming 
+the most produced WBP in Latvia. 
+Plywood and OSB are the main WBPs utilising roundwood in production. OSB production also 
+utilises chips and sawmilling residues, but in Latvia, in the absence of domestic pulp production, 
+roundwood pulpwood is readily available. The SWP industry in Latvia utilises between 10–
+0
+1
+2
+3
+4
+5
+6
+Chart Title
+Sawnwood
+Wood‐based panels
+million m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+39 
+11 million m3 of roundwood annually (Figure 4.3). Sawmilling accounts for nearly 80% of 
+roundwood consumption. 
+WBP production consumes a smaller proportion of roundwood compared to production volumes 
+than sawnwood because much of the WBP volume is OSB and particleboard, which can be 
+produced from wood chips and residues, and do not rely solely on roundwood. However, the 
+OSB industry currently consumes approximately 1.2–1.3 million m3 of roundwood annually. 
+There is no indication that energy-use of wood would have impacted the use of sawlogs or the 
+production of SWPs, at least adversely, in Latvia.  
+Figure 4.3 
+Roundwood Consumption by SWP Production 
+ 
+Source: FAO, Indufor analysis 
+4.2 
+Raw Material Prices 
+Box 4.2 
+Chapter Highlights 
+General 
+● 
+The financial crisis caused a large shock to raw material prices in 2009. 
+● 
+Since the financial crisis, prices have steadily been increasing; some have reached pre-
+crisis levels while others have not. Birch veneer log prices have increased at the fastest 
+rate. 
+● 
+In 2017, prices surged due to flooding and a warm winter when the land did not freeze 
+as it usually does; both reasons prevented regular harvesting. Prices remained high 
+during 2018, because global market pulp prices were very high, driving demand for 
+pulpwood in Finland and Sweden as producers aimed to maximise production. 
+● 
+Energy-use of wood did not seem to have an impact on pulpwood prices during the past 
+decade. Fuelwood prices have remained relatively steady since 2013, with a slight 
+increase during the 2017 price hike. 
+The prices of saw- and veneer logs have fluctuated strongly during the 2000s. All prices surged 
+upwards between 2006–2008, but crashed within a year in 2009, to much lower levels than 
+those seen in 2006 (Figure 4.4, Figure 4.5). These drastic developments were due to the 
+financial crisis. Since 2009, prices have developed with varying trends. 
+0
+2
+4
+6
+8
+10
+12
+Chart Title
+Sawnwood
+Wood‐based panels
+million m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+40 
+Figure 4.4 
+Average Purchase Prices of Large-diameter (d>18cm) Saw- and Veneer 
+Logs 
+ 
+Note: Prices exclude VAT. 
+Source: Central Statistical Bureau of Latvia 
+All prices began recovering fast after the crash of 2009, but it has taken a long time for them to 
+reach pre-crisis levels; prices of large-diameter (large) pine sawlogs have yet to reach the level 
+of 2007–2008, even with prices growing at a CAGR of 5.2% between 2009–2019. Large birch 
+saw- and veneer logs reached pre-crisis levels in 2018 and spruce sawlogs reached pre-crisis 
+levels only in 2019. Birch veneer log price development has been the steadiest of large logs, 
+which converts to the highest CAGR of the group (7.2% between 2009–2019). Prices of large 
+pine and spruce sawlogs increased relatively steadily until 2013–2014, after which they have 
+declined until 2017. In 2017, prices once again surged upwards. This development was due to 
+a few different factors. Firstly, between August–October, Latvia experienced severe flooding, 
+especially in the eastern parts of the country. The flooding resulted in significant damages to 
+crops and infrastructure, as well as prevented harvesting operations in forests. Especially 
+harvesting in the private forest was impacted, as private forest owners were incapable of 
+maintaining forest roads during the flooding. This restricted raw material supply and drove prices 
+up. Secondly, the winter between 2017–2018 was warm, and the land did not freeze as 
+expected, which again restricted harvesting operations. Thirdly, the global market price of pulp 
+was very high in 2017–2018, pushing up demand and prices of pulpwood globally. Roundwood 
+exports increased notably to especially Sweden in 2018, pushing up sawlog prices. The price 
+of large birch sawlogs decreased to end-of-2017 levels in 2019 already (CAGR 2009–2019: 
+5.1%), while spruce prices seem to perhaps continue on an increasing trend for a short while 
+longer (CAGR 2009–2019: 5.6%). The growth of large pine log prices has already halted, and 
+prices have begun to decrease once more. 
+Small-diameter (small) birch logs have not reached pre-crisis levels yet (Figure 4.5). Small pine 
+and spruce logs reached pre-crisis levels in 2018–2019. Similar to large logs, the price of small 
+birch logs has returned to end-2017 levels by the end of 2019, while the price of small pine and 
+spruce logs seem to continue on their upwards trajectory. Interviews indicate that log prices are 
+not expected to decrease significantly in the short-term, but to remain on a relatively steady 
+trajectory. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Chart Title
+Pine
+Spruce
+Birch
+Birch, veneer logs
+EUR/m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+41 
+Figure 4.5 
+Average Purchase Prices of Small-diameter (d<18cm) Logs 
+ 
+Note: Prices exclude VAT. 
+Source: Central Statistical Bureau of Latvia 
+Pulpwood and fuelwood prices have either remained steady or slightly decreased between 
+2013–2017. In mid-2017, prices began to surge, peaking in early 2018. Birch, pine and spruce 
+pulpwood prices remained high throughout 2018 and dropped quickly in the turn of 2018–2019, 
+returning to 2017 levels. Aspen pulpwood has followed a very similar trajectory as the three 
+other species, but on a much lower level, and shifts in price have not been quite so drastic. In 
+2018, pulpwood demand in Finland and Sweden was a major driver for pulpwood price peak. 
+The global market price of long-fibre (softwood) pulp was high in 2018, mainly driven by Chinese 
+demand. 
+0
+10
+20
+30
+40
+50
+60
+70
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Chart Title
+Pine
+Spruce
+Birch
+EUR/m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+42 
+Figure 4.6 
+Ex-mill Prices of Pulpwood and Fuelwood 
+ 
+*Pre-2013 prices of fuelwood are estimates, actual data unavailable. 
+Source: Wood Products Research and Development Institute. 
+The total consumption and exports of wood fuels have grown steadily between 2008–2018. This 
+trend is not apparent in wood fuel prices (Figure 4.7). Pulpwood prices have spiked in 2018, but 
+demand from the energy sector has not been the main driver for this development. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Chart Title
+Pine
+Spruce
+Birch
+Fuelwood*
+EUR/m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+43 
+Figure 4.7 
+Wood-based Bioenergy Production, Pellet Exports and Raw Material 
+Price Development 
+ 
+* Firewood, wood pellets, wood briquettes, wood chips, wood wastes.  
+** Firewood, wood briquettes, wood chips, wood wastes.  
+Source: Wood Products Research and Development Institute, Central Statistical Bureau of Latvia 
+4.3 
+Cross-border Trade 
+Box 4.3 
+Chapter Highlights 
+General 
+● 
+Sweden is the largest single destination of roundwood and wood chips from Latvia, 
+followed by Finland. 
+● 
+Lithuania has been the largest supplier of roundwood to Latvia in recent years, while 
+Russia accounted for the majority of roundwood imports before 2010.  
+● 
+Latvia is a net importer of roundwood. Imports are mainly sawlogs, while exports are 
+mainly pulpwood. Import volumes grew explosively between 2012–2014, due to low wood 
+prices in Lithuania. 
+● 
+Wood chip imports from Belarus have skyrocketed in the past two years, driven by low 
+pulpwood prices in Belarus and export duties incentivising chipping of roundwood before 
+exporting from Belarus. 
+● 
+The growing pellet and OSB industries demand significant volumes of roundwood 
+pulpwood and wood chips, which has at times impacted trade volumes. 
+ 
+Roundwood Trade 
+Sweden has been the largest destination of roundwood exports from Latvia during 2000–2019 
+(Figure 4.8). Smaller importers of Latvian roundwood are Finland and Estonia. Roundwood 
+exports consist mainly of pulpwood (Figure 4.10), which is used by the Nordic pulp industries, 
+and as such the export volumes are highly dependent on, e.g. global pulp demand and prices. 
+The Baltic region, including Latvia, can be considered a raw material reserve for the Nordics, 
+which is exploited especially in times of high demand or when sourcing domestic feedstocks is 
+0
+10
+20
+30
+40
+50
+60
+0
+20 000
+40 000
+60 000
+80 000
+100 000
+120 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Chart Title
+Total consumption of wood fuels* (TJ)
+Wood fuel** exports (TJ)
+Pellet exports (TJ)
+Pulpwood price
+Fuelwood price
+Forest chip price
+EUR/m3
+TJ
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+44 
+difficult for some reason. Exports from Latvia decreased between 2010–2017 by nearly 60%, 
+with volumes declining in each export market. Much of this decrease was diverted to domestic 
+OSB and pellet production. Pellet mills located far from seaports are preferred buyers for 
+surrounding forest owners; transporting pulpwood over long distances to seaports reduces the 
+price that forest owners could obtain for it and pellet producers can offer competitive prices. In 
+2018, volumes increased by over 80% compared to 2017 levels, due to high global pulp price, 
+which drove producers to maximize output. Naturally, this required increasing feedstock 
+sourcing also from the Baltic fibre basket. In 2019 export volumes decreased again by 25%. 
+Figure 4.8 
+Roundwood Exports from Latvia to the Baltic Sea Region 
+ 
+* Others: Denmark, Russia, Belarus, Norway, Lithuania, Germany.  
+Source: Comtrade, Central Statistical Bureau of Latvia 
+Roundwood imports to Latvia from the Baltic Sea region have experienced large shifts since 
+2000 (Figure 4.9). In the early 2000s, imports were very small, but by 2007 imports reached 
+1.6 million m3 with Russia supplying the majority. Prices of Russian raw materials were 
+competitive for Latvian producers, which incentivised trade. In 2008, volumes plummeted to 
+560 000 m3 and to 120 000 m3 in 2009. The drop in 2008–2009 is attributable to Russia 
+implementing new export duties in 2008, and to the slowing of the global economy due to the 
+financial crisis. This can also be seen above in the roundwood exports from Latvia. After 2009, 
+import volumes began recovering. Between 2009–2015 import volumes grew at a CAGR of 
+53%, after which trade slowed down for two years only to jump again in 2018. In 2019, import 
+volumes had once more decreased to 2017 levels. 
+Growth in imports between 2009–2015 was fast because of low pulpwood prices in Lithuania 
+and Belarus, which incentivised increasing imports of pulpwood over utilising domestic raw 
+materials. After 2009, the main suppliers of roundwood to Latvia have been Lithuania and 
+Belarus, with the previously significant Russia only supplying a small stream. 
+Sweden
+Finland
+Estonia
+Others*
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000
+4 500
+5 000
+Chart Title
+1 000 m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+45 
+Figure 4.9 
+Roundwood Imports to Latvia from the Baltic Sea Region 
+ 
+* Others: Denmark, Finland, Sweden, Estonia, Germany, Norway.  
+Source: Comtrade, Central Statistical Bureau of Latvia 
+Latvia is a net-exporter of roundwood (Figure 4.10). However, the country has been a net 
+importer of sawlogs at times. Exports are mainly pulpwood, but also approximately 1 million m3 
+of sawlogs are exported annually. Imports are, to a large extent, sawlogs. Sawlog imports have 
+been nearly equal to exports since 2011. Roundwood trade between the Baltic states is partly 
+driven by arbitrage; companies in Latvia will purchase raw material from Lithuania and then sell 
+it at a higher price to Estonia or to the Nordics. Trade is also fuelled by processing facilities near 
+the borders that source raw material from both sides of the border. The Nordic pulp industry is 
+the single largest export driver for Latvian roundwood. This is also enabled by the increasing 
+forest ownership of Swedish companies in Latvia. 
+Belarus
+Russia
+Lithuania
+Others*
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+Chart Title
+1 000 m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+46 
+Figure 4.10 
+Total Sawlog and Pulpwood Imports and Exports to and from Latvia 
+ 
+Source: Central Statistical Bureau of Latvia 
+The price of Latvian roundwood is highest in Estonia (Figure 4.11). Prices paid in Finland and 
+Sweden are very similar, and at a notably lower level than Estonian prices. This is explained 
+largely by the differences in assortments exported to these markets; Finland and Sweden import 
+mainly pulpwood roundwood, while Estonia imports sawlogs, which warrant a notably higher 
+price. Between 2011–2016 prices in Sweden and Finland declined, while in Estonia the decline 
+began only after 2013. In 2018, roundwood prices in all three countries jumped, following the 
+development in Latvian domestic prices. Prices have increased by over 100% since 2000. 
+Figure 4.11 
+Price (FOB) of Roundwood Exported from Latvia to the Baltic Sea Region 
+ 
+Source: Central Statistical Bureau of Latvia 
+ 
+   
+ 
+ 
+ 
+Net 
+exports
+     
+     
+‐8 000
+‐6 000
+‐4 000
+‐2 000
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+Sawlogs
+1 000 m3
+Drax entry to market
+Imports
+Exports
+ 
+ 
+   
+   
+Net 
+exports
+     
+ 
+ 
+ 
+‐8 000
+‐6 000
+‐4 000
+‐2 000
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+Pulpwood
+1 000 m3
+Drax entry to market
+Imports
+Exports
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Chart Title
+Finland
+Estonia
+Sweden
+EUR/m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+47 
+Roundwood from Belarus has the smallest import price in Latvia (Figure 4.12). Import prices of 
+Lithuanian and Russian roundwood have been very similar between 2000–2019 with some 
+fluctuations. In 2008, for example, Russian prices jumped as import volumes shrank. Since 
+2014, Lithuanian prices have been slightly higher than Russian prices. The price of roundwood 
+imported from Belarus is much lower than that of Lithuania or Russia. This is mainly explained 
+by the fact that imports from Belarus are mainly pulpwood, while imports from the other two 
+countries include more sawlogs. 
+Figure 4.12 
+Price (CIF) of Roundwood Imported to Latvia 
+ 
+Source: Central Statistical Bureau of Latvia 
+Wood Chip Trade 
+As with roundwood exports, Sweden is also the main destination for wood chip exports from 
+Latvia, with Finland and Lithuania representing the majority of the remaining export volumes 
+(Figure 4.13). Wood chip exports peaked in 2006 (2.3 million tonnes) and 2011 
+(2 million tonnes). Between 2012–2015 export volumes decreased by over 50% compared to 
+2011 levels, after which they have recovered and seemingly stabilised at 1.45 million tonnes. In 
+the early 2000s, Sweden accounted for over 80% of wood chip exports, but in recent years its 
+significance has decreased and accounts now for less than 50%. Especially Finland’s 
+importance as an export market has grown.  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Chart Title
+Belarus
+Lithuania
+Russia
+EUR/m3
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+48 
+Figure 4.13 
+Wood Chip Exports from Latvia to the Baltic Sea Region 
+ 
+*Estonia, Denmark, Belarus, Germany, Norway, Russia. Source: Comtrade, Central Statistical Bureau of 
+Latvia 
+Latvia has not historically been a significant importer of wood chips (Figure 4.14, Figure 4.15). 
+Estonia and Lithuania have typically been the main suppliers of imported wood chips for Latvia, 
+but total import volumes have mainly been under 100 000 tonnes per year. Import volumes from 
+Belarus skyrocketed in 2018 and further increased in 2019. Prices of Belarussian pulpwood 
+were low, which made importing pulpwood appealing for Latvian companies. However, Belarus 
+implemented duties for exporting roundwood pulpwood to slow exports of unprocessed wood 
+raw material. This did not stop pulpwood exports from Belarus to Latvia, as Belarussian 
+suppliers invested in chipping equipment and began exporting wood chips to Latvia. Demand 
+for this cheap pulpwood has been driven by OSB and pellet production according to interviews 
+with local industry experts. 
+Sweden
+Finland
+Lithuania
+Others*
+0
+500
+1 000
+1 500
+2 000
+2 500
+Chart Title
+1 000 tonnes
+Drax entry to market
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+49 
+Figure 4.14 
+Wood Chip Imports to Latvia from the Baltic Sea Region 
+ 
+* Belarus, Finland, Sweden, Russia, Germany, Norway, Denmark.  
+Source: Comtrade, Central Statistical Bureau of Latvia 
+Figure 4.15 
+Total Wood Chip Imports and Exports between Latvia and the Baltic Sea 
+Region 
+ 
+Source: Comtrade 
+The price of exported wood chips from Latvia have typically warranted the highest prices in 
+Sweden (Figure 4.16). The lowest prices have been in either Finland or Lithuania, depending 
+on the year. Wood chip export prices follow a similar trend as roundwood export prices. Prices 
+in Sweden have declined between 2013–2017 but have jumped in 2018, while prices in Finland 
+and Lithuania began recovering already in 2016–2017. Finnish and Lithuanian prices have been 
+approaching Swedish prices since 2016. In 2018, Finnish prices were only 5 USD/tonne below 
+Swedish prices, while in 2016 the difference was still 19 USD/tonne. 
+Estonia
+Lithuania
+Others*
+Belarus
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Chart Title
+1 000 tonnes
+Drax entry to market
+0
+500
+1 000
+1 500
+2 000
+2 500
+Chart Title
+Imports
+Exports
+1 000 tonnes
+Drax entry to market
+1 000 
+900 
+800 
+700 
+600 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+50 
+Figure 4.16 
+Price (FOB) of Wood Chips Exported from Latvia to the Baltic Sea Region 
+ 
+Source: Eurostat, Central Statistical Bureau of Latvia 
+Import prices of wood chips from Estonia and Lithuania declined between 2011–2016 and 
+increased again between 2016–2018. In recent years prices of wood chips imported from 
+Lithuania and Estonia have been quite similar, with the higher price alternating between the two. 
+Prices of wood chips imported from Belarus have been relatively stable since 2011, regardless 
+of large changes in volumes. Prices did decrease in 2016 and 2017 but returned to the long-
+term average level in 2018–2019. 
+Figure 4.17 
+Price (CIF) of Wood Chips Imported to Latvia 
+ 
+Source: Comtrade, Eurostat 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Chart Title
+Finland
+Lithuania
+Sweden
+Total
+EUR/tonne
+Drax entry to market
+148 158 211 339
+283
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Chart Title
+Estonia
+Lithuania
+Belarus
+EUR/tonne
+Drax entry to market
+Very small import 
+volumes from Estonia 
+during these years 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+51 
+Annex 1 
+Overview of Law on Forests 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+Section 9 of Forest Law and related amendments: 
+1. Final felling shall be permitted if: 
+1.1. a forest stand has reached the following final felling age: 
+Rotation ages (in years) per tree species and quality class 
+Dominant tree species 
+Quality class (Bonitet) 
+I and higher
+II-III 
+IV and lower
+Oak 
+101
+121 
+121
+Pine and Larch 
+101
+101 
+121
+Spruce, ash, linden, elm, 
+flattering elm, and maple 
+81
+81 
+81
+Birch 
+71
+71 
+51
+Common alder 
+71
+71 
+71
+Aspen 
+41
+41 
+41
+Source: Law on Forests 
+1.2. a forest stand has reached the final felling diameter: 
+Average diameter (in cm) at breast height of dominant tree species to allow for clear-
+cutting 
+Dominant tree 
+species 
+Quality class (Bonitet) 
+Ia
+I
+II 
+III
+Pine 
+39
+35
+31 
+27
+Spruce 
+31
+29
+29 
+27
+Birch 
+31
+27
+25 
+22
+Source: Regulations on Tree Felling in Forest Lands 
+ 
+2. The clear-cutting shall be permitted in the cases when in one unit of land in the current 
+forests: 
+2.1. the area of the intended clear-cutting does not exceed the maximum area of clear-cutting 
+specified in laws and regulations together with all the forest stands in the adjacent areas 
+that: 
+2.1.1. 
+have not been recognized as regenerated and in respect of which the time period for 
+regeneration specified in laws and regulations has not become due yet; 
+2.1.2. 
+have been recognized as regenerated but have not reached the age specified in laws 
+and regulations; 
+2.1.3. 
+have not been recognized as regenerated within the specified time period but the total 
+area of which does not exceed one ha; 
+2.2. the area of the intended clear-cutting does not have adjacent forest stands, and the area 
+of the intended clear-cutting does not exceed the maximum area of clear-cutting specified 
+in laws and regulations; 
+2.3. the forest stands in the adjacent areas of the area of the intended clear-cutting have been 
+regenerated and have reached at least the age specified in laws and regulations, and the 
+area of the intended clear-cutting does not exceed the maximum area of clear-cutting 
+specified in laws and regulations. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+3. If a forest in the ownership or lawful possession is divided in two or more parts as a result 
+of a lawful transaction, then the restrictions specified in Paragraph two of this Section and 
+the conditions referred to in Section 13 shall be applicable to the part of the forest 
+established after each division in the same way as to the forest prior to its division for 
+seven years from the moment of its division. 
+Maximum clear-cut area (including adjacent forests, regardless of owner) is restricted to:  
+ 
+5 ha normally 
+ 
+10 ha in dry areas, provided that no less than 20 pine seed trees per ha of felling area are 
+left standing 
+ 
+2 ha in sensitive forests 
+ 
+2 ha in the restricted management belt along the Baltic Sea and the Gulf of Riga 
+coastlines, where clear-cutting of pine stands is prohibited altogether 
+ 
+If no more than 0.3 ha are left outside the clear-cut area, it may be included 
+(Regulations on Tree Felling in Forest Lands). 
+Section 10 of Forest Law and related amendments 
+1. Thinning shall be permitted in the cases when the basal area of a forest stand exceeds 
+the minimum basal area. 
+2. As a result of a felling the basal area of the forest stand shall not become smaller than the 
+critical basal area. 
+ 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+The minimum and critical basal area shall be determined: 
+1. Directly – if the average height of dominant trees is more than 12 meters: 
+Minimum basal area (Gmin) and critical basal area (Gcrit) (m2/ha) depending on dominant 
+tree species and average height of trees 
+Average 
+height of 
+dominant 
+trees 
+Dominant tree species 
+Pine 
+Spruce 
+and other 
+conifers 
+excl. pine 
+Birch, 
+linden 
+Aspen, black 
+alder, grey 
+alder, and 
+other 
+unnamed 
+deciduous 
+trees
+Oak, elm, 
+flattering 
+elm, 
+maple, 
+beech, 
+hornbeam 
+Ash 
+(m) 
+Gmin Gcrit 
+Gmin Gcrit 
+Gmin Gcrit 
+Gmin 
+Gcrit Gmin Gcrit 
+Gmin Gcrit 
+12 
+13 
+7 
+11
+6
+8
+4
+10
+5
+9 
+5 
+7
+4
+13 
+14 
+8 
+12
+6
+9
+5
+10
+6
+10 
+5 
+8
+4
+14 
+14 
+8 
+12
+7
+10
+5
+11
+6
+10 
+6 
+8
+5
+15 
+16 
+8 
+14
+7
+10
+5
+11
+6
+11 
+6 
+9
+5
+16 
+17 
+8 
+15
+7
+11
+6
+12
+6
+12 
+6 
+10
+5
+17 
+18 
+8 
+16
+8
+11
+6
+12
+7
+12 
+6 
+10
+6
+18 
+19 
+8 
+17
+8
+12
+6
+13
+7
+14 
+7 
+11
+6
+19 
+19 
+8 
+19
+8
+12
+6
+13
+7
+15 
+7 
+13
+6
+20 
+20 
+9 
+20
+8
+13
+6
+14
+8
+16 
+7 
+13
+6
+21 
+21 
+9 
+22
+8
+14
+7
+15
+8
+17 
+7 
+14
+6
+22 
+21 
+9 
+23
+9
+14
+7
+16
+8
+17 
+8 
+14
+6
+23 
+21 
+9 
+24
+9
+16
+7
+16
+8
+18 
+8 
+14
+6
+24 
+21 
+9 
+24
+9
+16
+7
+18
+9
+18 
+8 
+14
+7
+25 
+22 
+9 
+26
+10
+17
+8
+19
+9
+19 
+8 
+15
+7
+26 
+22 
+9 
+26
+10
+17
+8
+19
+9
+20 
+8 
+15
+7
+27 
+22 
+9 
+27
+10
+17
+8
+20
+10
+20 
+9 
+15
+7
+28 
+22 
+9 
+28
+10
+18
+8
+21
+10
+21 
+9 
+16
+7
+29 
+22 
+9 
+28
+10
+18
+8
+22
+10
+21 
+9 
+16
+7
+30 
+22 
+9 
+29
+10
+19
+8
+22
+10
+22 
+9 
+16
+7
+31 
+23 
+9 
+30
+11
+19
+8
+23
+10
+22 
+9 
+–
+–
+32 
+23 
+9 
+30
+11
+20
+9
+23
+10
+22 
+9 
+–
+–
+33 
+23 
+10 
+31
+11
+20
+9
+24
+11
+23 
+10 
+–
+–
+34 
+23 
+10 
+31
+11
+21
+9
+24
+11
+23 
+10 
+–
+–
+35 and more 
+23 
+10 
+32
+11
+21
+9
+24
+11
+23 
+10 
+–
+–
+Source: Regulations on Tree Felling in Forest Lands 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+ 
+2. Indirectly – if the average height of dominant trees is less than 12 meters: 
+Minimum number of trees (Nmin) and critical number of trees (Ncrit) per hectare 
+depending on dominant tree species and average height of trees 
+Average 
+height of 
+trees 
+Dominant tree species 
+Pine 
+Spruce 
+and other 
+conifers 
+excl. pine 
+Birch, 
+linden 
+Aspen, 
+black 
+alder, grey 
+alder 
+Oak, elm, 
+flattering 
+elm, 
+maple, 
+beech, 
+hornbeam 
+Ash 
+(m) 
+Nmin 
+Nkrit 
+Nmin 
+Nkrit 
+Nmin 
+Nkrit 
+Nmin 
+Nkrit 
+Nmin 
+Nkrit 
+Nmin Nkrit 
+1 
+3000 1000 2000
+800 2000
+800 2000
+800
+1500 
+500 1500
+500
+2 
+2200 1000 1600
+800 1500
+800 1500
+800
+1500 
+500 1500
+500
+3 
+2000 1000 1600
+800 1300
+800 1300
+800
+1500 
+500 1500
+500
+4 
+1700 1000 1500
+800 1300
+800 1300
+800
+1500 
+500 1500
+500
+5 
+1500 1000 1400
+800 1300
+800 1300
+800
+1500 
+500 1500
+500
+6 
+1400 1000 1300
+800 1300
+800 1300
+800
+1500 
+500 1500
+500
+7 
+1400 
+950 1300
+800 1300
+800 1200
+750
+1500 
+500 1500
+500
+8 
+1300 
+900 1200
+750 1200
+750 1100
+700
+1500 
+450 1500
+450
+9 
+1200 
+850 1200
+750 1200
+750 1000
+650
+1500 
+450 1500
+450
+10 
+1100 
+750 1200
+750 1200
+750
+900
+600
+1500 
+400 1500
+400
+11 
+900 
+700 1100
+700 1000
+650
+800
+550
+1500 
+400 1500
+400
+Source: Regulations on Tree Felling in Forest Lands 
+A summary of the legal framework on forest regeneration: 
+ 
+Immovable property tax is not imposed on land under regenerated or newly 
+established forest stands. 
+ 
+All native (and a few non-native) species are accepted for reforestation with exception 
+of some forest types suitable only for Scots pine (see list below) 
+ 
+The area must be reforested within a 5-year period (10 years on marshy sites) 
+ 
+The minimum height of regenerated forest stands shall be 0.1 meters for conifers and 
+0.2 meters for deciduous trees 
+ 
+Minimum density requirements according to tree species are: 
+o 
+Pine – 3 000 trees per ha 
+o 
+Oak, ash, Scots elm, fluttering elm, maple, beech, hornbeam – 1 500 trees 
+per ha 
+o 
+Others – 2 000 trees per ha. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+Tree species used for reforestation and afforestation 
+Name of tree species in English
+Scientific name of tree species 
+Scots pine 
+Pinus sylvestris L.
+Norway Spruce
+Picea abies (L.) Karst.
+Silver birch 
+Betula pendula Roth.
+Downy birch 
+Betula pubescens Ehrh.
+European aspen
+Populus tremula L.
+Black alder 
+Alnus glutinosa (L.) Gaertn. 
+European ash 
+Fraxinus excelsior L.
+Pedunculate oak 
+Quercus robur L.
+Small-leaved linden 
+Tilia cordata Mill.
+Norway maple 
+Acer platanoides L.
+Scots elm 
+Ulmus glabra Huds.
+Fluttering elm 
+Ulmus laevis Pall.
+Grey alder 
+Alnus incana (L.) Moench. 
+European hornbeam 
+Carpinus betulus L.
+European beech
+Fagus sylvatica L.
+Wild cherry 
+Prunus avium (L.) L.
+Willows 
+Salix spp.
+Rowan 
+Sorbus aucuparia L.
+Larches 
+Larix spp.
+Poplars, hybrid poplars 
+Populus spp.
+Northern red oak 
+Quercus rubra L.
+Alders 
+Alnus spp.
+ 
+ 
+ 
+ 
+Annex 2 
+Latvia Land Cover Map 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+ 
+ 
+ 
+Annex 3 
+Glossary 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+ 
+Word 
+Definition 
+Afforestation 
+The establishment of a forest or stand of trees in an area where 
+there was no previous tree cover. 
+Bonitet, Forest quality 
+class 
+A measure of the ability of a piece of land to produce wood, 
+expressed e.g. as medium length of trees in a certain age 
+Carbon footprint 
+The amount of greenhouse gases—primarily carbon dioxide—
+released into the atmosphere by a particular human activity. 
+Carbon pool 
+A reservoir of carbon. A system that has the capacity to 
+accumulate or release carbon. 
+Carbon sequestration 
+The process of increasing the carbon content of a carbon pool 
+other than the atmosphere. 
+Carbon sink 
+Any process or mechanism which removes a greenhouse gas, 
+an aerosol or a precursor of greenhouse gas from the 
+atmosphere. A given pool (reservoir) can be a sink for 
+atmospheric carbon if, during a given time interval, more carbon 
+is flowing into it than is flowing out. 
+Carbon stock/storage 
+The quantity of carbon contained in a “pool”, meaning a reservoir 
+or system which has the capacity to accumulate or release 
+carbon. 
+Clear-cutting, 
+regeneration felling 
+A method in final felling. This type of felling implies that within a 
+year since its outset the basal area of the forest stand or a part of 
+it is reduced below the critical basal area. 
+Even-aged forestry 
+Group of forest management practices employed to achieve a 
+nearly coeval cohort group of forest trees. As opposed to un-
+even aged forest management. 
+Ex-mill price 
+Price at the factory 
+Final felling 
+A kind of felling intended for general harvesting of wood 
+performed in one or several attempts after final felling has 
+reached definite age or diameter 
+Forest area (FAO) 
+Land spanning more than 0.5 hectares with trees higher than 5 
+meters and a canopy cover of more than 10%, or trees able to 
+reach these thresholds in situ. Includes also temporarily 
+unstocked forests (e.g. following a clear-cut or a natural 
+damage), as well as small gaps and forest roads. 
+Forest cover 
+The share (%) of land currently covered by forest. 
+Harvesting residues 
+Harvesting residues consist of small trees, branches, tops and 
+other non-commercial wood left in the forest after the cleaning, 
+thinning or final felling of forest stands. 
+Improvement felling 
+A type of felling intended to remove the unproductive forest 
+stands seamlessly or selectively. 
+MAI 
+Mean Annual Increment. The volume of wood growing on one 
+hectare of a forest during one year on average since the forest 
+has been established (m3/ha/year). 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+Word 
+Definition 
+Maximum sustainable 
+harvest 
+A level defined by the Latvian Ministry of Agriculture, Forest 
+Department. It is based on annual increment data, but is 
+ultimately a political decision and may not exactly reflect the 
+actual, ecological maximum sustainable harvest. 
+Other felling 
+A type of felling intended for the maintenance of forest 
+infrastructure, landscape forming, collecting of dangerous trees, 
+felling of dead trees, as well as for the preservation of nature 
+values. 
+Pre-commercial thinning 
+A forest management practice, which does not result in 
+marketable wood. The aim is to reduce the number of seedlings 
+per hectare to improve the growth of remaining seedlings. 
+Reforestation 
+The natural or intentional restocking of existing forests and 
+woodlands that have been depleted, usually through 
+deforestation. 
+Sanitary clear-felling, 
+Sanitary selection felling 
+Sanitary clear-felling is a type of felling with the help of which the 
+stands, which have lost the growing ability due to diseases, 
+pests, wild animals, or abiotic factors (water, fire, wind etc.), are 
+removed. 
+Sanitary selection felling is a type of felling with the help of which 
+forest stand is cleared from trees overturned and broken down 
+by wind, damaged by diseases, pests, animals or injured 
+otherwise, and which have lost their ability to grow. 
+Selective cutting 
+The cutting down of selected trees in a forest so that growth of 
+other trees is not affected. This is done according to criteria 
+regarding minimum tree size for harvesting, specifications of the 
+number, spacing and size classes of residual trees per area, and 
+allowable cut. The cutting out of trees that are mature or 
+defective, or of inferior kinds to encourage the growth of the 
+remaining trees in a forest or wood. 
+Selective cutting can also refer to a forest management system 
+that does not include clear-cuts. In forests where selective 
+cutting is applied, typically both young and mature trees are 
+grown in the same stand. 
+Sowing 
+Planting seeds by scattering them in or on the soil. 
+Tending (of forests) 
+Hypernym encompassing improvement cutting, selective cutting 
+and regulation of the water and nutrition regime of forest soil. In 
+Latvian context also weeding, respacing, clearing understory; 
+measures to improve the daylight and nutritional conditions of the 
+principal tree species of a stand and shaping the composition of 
+the forest. 
+Thinning 
+A type of felling intended for improving the stand composition, 
+growth conditions for the remaining stand. 
+Uneven-aged forest 
+management, 
+Continuous cover 
+forestry 
+Uneven-aged or continuous cover forestry essentially differs from 
+even-aged management in that they avoid clear felling and 
+planting by utilizing thinnings from above and by promoting 
+natural regeneration. 
+Working forests 
+Forests which are used for wood production. 
+ 
+© INDUFOR: 8618 CATCHMENT AREA ANALYSIS IN LATVIA (ID 136417) – May 7, 2020 
+ 
+Word 
+Definition 
+Wood processing 
+residues 
+Wood processing residues mainly consist of black liquor, 
+sawdust and bark. 
+ 
+ 
+ 
+ 
+Indufor Oy 
+Helsinki, Finland 
+ 
+ 
+Indufor Oy 
+China Representative 
+Beijing, China 
+Indufor Asia Pacific Ltd 
+Auckland, New Zealand  
+ 
+Indufor Asia Pacific (Australia) Pty Ltd 
+Melbourne, Australia 
+Indufor North America LLC 
+Washington DC, USA 
+ 
+indufor@induforgroup.com 
+www.induforgroup.com 

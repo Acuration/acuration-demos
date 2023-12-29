@@ -1,0 +1,5779 @@
+ 
+ 
+ 
+The Abergelli Power Gas Fired Generating Station 
+Order 
+ 
+5.5 No Significant Effects Report 
+ 
+Planning Act 2008 
+The Infrastructure Planning  
+(Applications: Prescribed Forms and Procedure) Regulations 2009 
+ 
+PINS Reference Number:  
+ 
+EN010069 
+Document Reference: 
+ 
+ 
+5.5 
+Regulation Number: 
+ 
+ 
+5(2)(g) and Conservation of Habitats and 
+Species Regulations 2010 
+Author: 
+ 
+ 
+ 
+ 
+AECOM 
+ 
+Revision 
+ 
+Date  
+ 
+Description  
+ 
+0 
+ 
+ 
+May 2018  
+ 
+Submission Version  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-2 
+ 
+CONTENTS 
+1. 
+No Significant Effects Report ............................................................................. 3 
+1.1 Introduction ............................................................................................... 3 
+1.2 Designated Sites Scoped into HRA Screening .......................................... 9 
+1.3 Screening for Likely Significant Effects ................................................... 13 
+1.4 Summary of Likely Significant Effects Screening .................................... 21 
+1.5 In-Combination Effects ............................................................................ 23 
+1.6 Conclusion .............................................................................................. 29 
+References ............................................................................................................... 31 
+ 
+TABLES 
+Table 1-1:  Project Components ................................................................................. 5 
+Table 1-2: Parameters for Assessment  ..................................................................... 8 
+Table 1-3: Crymlyn Bog SAC and Ramsar ................................................................. 9 
+Table 1-4: Carmarthen Bay and Estuaries SAC ....................................................... 10 
+Table 1-5: Burry Inlet SPA and Ramsar ..................................................................... 11 
+Table 1-6: Potential Effects of Air Quality – NOx Daily and Annual Process Contributions 
+and Predicted Environmental Concentrations, and Process Contributions and Predicted 
+Environmental Concentrations as a % of the Air Quality Standard ........................... 19 
+Table 1-7: Potential Effects of Air Quality – Nitrogen and Nitrogen Acid ................... 20 
+Table 1-8: Projects Considered In-Combination ....................................................... 23 
+Table 1-9: Process Contributions of NOx ................................................................. 33 
+Table 1-10: Process Contributions, Critical Loads and Predicted Environmental 
+Concentration of Nitrogen ........................................................................................ 34 
+Table 1-11: Process Contributions, Critical Loads and Predicted Environmental 
+Concentration of Nitrogen Acid ................................................................................. 35 
+ 
+PLATES 
+Plate 1.1: The legislative basis for Appropriate Assessment ...................................... 4 
+ 
+FIGURES
+Figure 1.1 
+Location of Project Site and Natura 2000 Sites
+APPENDICES
+Appendix A Air Quality Modelling
+Appendix B HRA Screening Matrices for the Abergelli Power Project
+Appendix C Appendix C HRA Cumulative Assessment Screening Table 1-12
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-3 
+ 
+1. 
+No Significant Effects Report 
+1.1 
+Introduction 
+a) Background 
+1.1.1 
+This report represents a Habitats Regulations Assessment (HRA) Screening 
+Document prepared as part of the Environmental Impact Assessment for Abergelli 
+Power Project (hereafter referred to as the ‘Project).  
+1.1.2 
+The report is designed to serve two key functions: 
+ 
+To assist Abergelli Power Limited (APL, hereafter referred to as the Applicant) 
+by making it easier to undertake and consult on a Habitat Regulations 
+Assessment; and,  
+ 
+To act as a confirmatory checklist that can be used to ensure that the relevant 
+information needed for a Habitats Regulations Assessment has been 
+undertaken. 
+b) The Habitats Directive and Habitat Regulations  
+1.1.3 
+The need for an assessment of impacts on Natura 2000 sites (the collective name 
+for European designated sites, including Special Protection Areas (SPA) and 
+Special Areas of Conservation (SAC)) is set out within Article 6 of the Habitats 
+Directive, and transposed into UK law by the Habitats Regulations.  The ultimate 
+aim of the Habitats Directive 1992 is to “maintain or restore, at favourable 
+conservation status, natural habitats and species of wild fauna and flora of 
+Community interest” (Article 2(2)).  This aim relates to habitats and species, not the 
+European Sites themselves, although the European Sites have a significant role in 
+delivering favourable conservation status. 
+1.1.4 
+It is a requirement of the Habitats Directive 1992 and the Conservation of Habitats 
+and Species Regulations 2017 (the 'Habitats Regulations' (Plate 1.1)) that plans 
+and projects are subject to ‘Appropriate Assessment’ if it is likely that they will lead 
+to significant adverse effects on a Natura 2000 site, either alone or in combination 
+with other plans or projects. It is the duty of the competent authority (the Secretary 
+of State in relation to the Project) to make the determination as to whether 
+significant adverse effects are likely and, if necessary, to then undertake the 
+Appropriate Assessment. The promoter of the Project can be asked to supply 
+information to inform those assessments and decisions.  
+1.1.5 
+The Habitats Directive applies the precautionary principle to European Sites. 
+Consent should only be granted for plans and projects once the relevant competent 
+authority has ascertained either that no likely significant effects will arise or 
+(through the Appropriate Assessment) that there will be no adverse effect on the 
+integrity of the European Site(s) in question.  Where an appropriate assessment 
+has been carried out and results in an assessment of adverse effects on integrity, 
+or if uncertainty remains, consent must only be granted if there are no alternative 
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-4 
+solutions and there are imperative reasons of over-riding public interest (IROPI) for 
+the development, and compensatory measures have been secured.  
+1.1.6 
+Throughout this report, the term 'Habitat Regulations Assessment' is used to refer 
+to the overall procedure required by the Habitat Regulations, as described above.   
+1.1.7 
+All the European sites referenced in this document are shown in Figure 1.  
+Plate 1.1: The legislative basis for Appropriate Assessment 
+1.1.8 
+This report has been prepared having regard to all relevant case law relating to the 
+Habitats Regulations – in particular, the recent European Court of Justice case of 
+People Over Wind, Peter Sweetman v Coillte Teoranta (C-323/17) has been taken 
+into account as it directly concerns the approach to screening under the Habitats 
+Regulations (the stage prior to appropriate assessment).  
+1.1.9 
+The case held that "it is not appropriate, at the screening stage, to take account of 
+the measures intended to avoid or reduce the harmful effects of the plan or project 
+on that site" (paragraph 40). This establishes that 'mitigation measures' cannot be 
+taken into account at the screening stage, but it is important to note that not all 
+mitigation measures are excluded from consideration – only those "intended to 
+avoid or reduce the harmful effects of the… project on that site" (emphasis added). 
+Mitigation measures which are (for example) intended to avoid effects on a local 
+watercourse and which is not part of the European site, can be taken into account.  
+1.1.10 Where mitigation measures are mentioned in this report, they are therefore ones 
+which may reduce or avoid harmful effects on certain (local) habitats or species, but 
+they are not relied on to avoid or reduce harmful effects on the European sites 
+discussed below. Such measures will, at most, ensure that a conclusion of no LSE 
+in respect of a European site reached separately, is confirmed.  
+Habitats Directive 1992 
+Article 6 (3) states that: 
+“Any plan of project not directly connected with or necessary to the 
+management of the site but likely to have a significant effect thereon, either 
+individually or in combination with other plans or projects, shall be subject to 
+appropriate assessment of its implications for the site in view of the site’s 
+conservation objectives.” 
+Conservation of Habitats and Species Regulations 2017 
+Regulation 63 states that: 
+“A competent authority, before deciding to … give any consent for a plan or 
+project which is likely to have a significant effect on a European site … must 
+make an appropriate assessment of the implications… for that site in view of 
+that site's conservation objectives… The competent authority may agree to 
+the plan or project only after having ascertained that it will not adversely affect 
+the integrity of the European site”.
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-5 
+1.1.11 Preparation of this report has involved reference to Planning Inspectorate Advice 
+Note Ten: Habitat Regulations Assessment relevant to Nationally Significant 
+Infrastructure Projects (November 2017).  
+1.1.12 PINS Advice Note Ten requires an evaluation of the potential for the Project to 
+require other consents which could also require Habitats Regulations Assessment 
+by different competent authorities, and a statement as to whether the DCO 
+boundary of the project overlaps with devolved administrations or other European 
+Economic Area (EEA) States.  
+1.1.13 It is confirmed that the DCO boundary of the project does not overlap with areas of 
+devolved administrations or with those of other EEA States.  
+1.1.14 The following competent authorities will need to conduct an HRA:  
+
+the Secretary of State, in relation to the DCO application; and,
+•
+Natural Resources Wales (NRW), in relation to the environmental permit
+application.
+c)
+Project Description
+1.1.15 The Project Site is approximately 30.66ha and is located near to the village of 
+Felindre, Swansea (see Figure 1). The Project development proposals are for a 
+proposed 299MW Open Cycle Gas Turbine (OCGT) power station. The Project 
+comprises the following principal elements:  
+
+A new Power Generation Plant;
+
+A new Electrical Connection; and,
+
+A new Gas Connection.
+1.1.16 The Power Generation Plant, Gas Connection and Electrical Connection together 
+with their construction access/laydown and future maintenance access/laydown 
+requirements are referred to as the Project.  
+1.1.17 A detailed description of the Project is provided in Chapter 3 of the Environmental 
+Statement (ES) (Ref. 1.1). A summary is provided in Table 1-1 below.  
+Table 1-1: Project Components 
+Project 
+Component 
+Description 
+Consenting Route 
+Power 
+Generation 
+Plant 
+An Open Cycle Gas Turbine (OCGT) 
+peaking power generating station, 
+fuelled by natural gas and capable of 
+providing a rated electrical output of 
+up to 299 Megawatts (MW). The 
+Power Generation Plant comprises: 
+
+Generating equipment including
+one Gas Turbine Generator with
+one exhaust gas flue stack and
+Development 
+Consent 
+Order 
+(DCO) pursuant to the Planning Act 
+2008 
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-6 
+Project 
+Component 
+Description 
+Consenting Route 
+Balance of Plant (BOP) (together 
+referred to as the ‘Generating 
+Equipment’) which are located 
+within the ‘Generating Equipment 
+Site’; 
+
+An Access Road to the Project
+Site from the B4489 which lies to
+the west, formed by upgrading an
+existing access road between the
+B4489 junction and the Swansea
+North Substation (the Substation)
+and constructing a new section of
+access road from the Substation
+to the Generating Equipment
+Site; and
+ A 
+temporary 
+construction
+compound for the storage of
+materials, plant and equipment
+as 
+well 
+as 
+containing 
+site
+accommodation 
+and 
+welfare
+facilities, temporary car parking
+and 
+temporary 
+fencing 
+(the
+Laydown Area. A small area
+within the Laydown Area will be
+retained 
+permanently 
+(the
+Maintenance Compound).
+
+Ecological Mitigation Area – area
+for 
+ecological 
+enhancement
+within the Project Boundary.
+
+Permanent parking and drainage
+to include: a site foul, oily water
+and 
+surface 
+water 
+drainage
+system.
+Gas 
+Connection 
+The Gas Connection will be in the 
+form 
+of 
+a 
+new 
+above 
+ground 
+installation (AGI) and underground 
+gas connection (the Gas Pipeline). 
+This is to bring natural gas to the 
+Generating 
+Equipment 
+from 
+the 
+National Transmission System. The 
+Gas 
+Pipeline 
+will 
+follow 
+an 
+approximate 
+north-south 
+route 
+corridor, between the National Gas 
+Transmission System south of Rhyd-
+y-pandy Road and the Generating 
+The 
+Gas 
+Connection 
+will 
+be 
+consented through the Town and 
+County Planning Act (TCPA) and is 
+not part of the DCO Application. 
+Though this Project element is not 
+part of the DCO Application, APL is 
+likely to seek powers of compulsory 
+acquisition over the land required 
+for the Gas Connection.  
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-7 
+Project 
+Component 
+Description 
+Consenting Route 
+Equipment Site.  
+Electrical 
+Connection 
+This is an underground electrical 
+cable to export power from the 
+Generating Equipment to the National 
+Grid Electricity Transmission System 
+(NETS).  
+The Electrical Connection will be 
+consented 
+through 
+Permitted 
+Development and is not part of the 
+DCO 
+Application. 
+Though 
+this 
+Project element is not part of the 
+DCO Application, APL is likely to 
+seek 
+powers 
+of 
+compulsory 
+acquisition over the land required 
+for the Electrical Connection.  
+1.1.18 Table 1-2 provides indicative maximum and minimum dimensions for the main plant 
+items which will be present at the Generating Equipment Site. The ground level at 
+the Generating Equipment Site will be approximately 90 m AOD and the heights in 
+Table 1-2 are measured from this level.  
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-8 
+Table 1-2: Parameters for Assessment  
+Building or Structure 
+Maximum 
+Height (m) 
+Minimum 
+Height (m) 
+Maximum 
+Length (m) 
+Maximum 
+Width (m) 
+Gas 
+turbine 
+generator 
+(including 
+gas 
+turbine, 
+generator, air inlet filter house, 
+air inlet duct, exhaust diffuser, 
+and auxiliaries such as lube oil 
+system, air dryers, fuel gas filter 
+package, instrument air system, 
+compressor washing)   
+27
+-
+50
+40
+Exhaust 
+gas 
+emission 
+flue 
+stack  
+45
+35
+-
+12
+Control room/office/ workshop  
+7 
+- 
+45 
+25 
+Emergency Generator 
+6 
+- 
+13 
+5 
+Gas receiving station (including 
+compression 
+station,
+emergency generator, Joule-
+Thompson boilers and other 
+auxiliary control cabinets))  
+10
+-
+70
+50
+Gatehouse  
+4.5 
+- 
+9 
+8 
+Demineralised water tank  
+7 
+- 
+7 
+7 
+Fire water tank  
+15 
+- 
+15 
+15 
+Above ground installation (AGI)  
+3 
+- 
+85 
+35 
+Minimum 
+offtake 
+connection 
+(MOC)  
+3
+-
+35
+30
+Gas Pipeline inspection gauge 
+facility  
+3
+-
+35
+35
+Fin Fan Coolers  
+10 
+- 
+28 
+14 
+Transformer 
+compound 
+(including generator step up 
+transformer, unit and other 
+transformers, 
+connection 
+to 
+underground 
+cable 
+and 
+associated equipment.) 
+15
+-
+65
+60
+1.1.19 The need and alternatives for the Project are discussed in detail Chapter 5 
+Alternatives Considered of the ES (Ref. 1.1).  
+1.1.20 The detailed decommissioning methodology cannot be finalised until immediately 
+prior to decommissioning, but would be in line with relevant legislation and policy at 
+that time.  
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-9 
+1.1.21 The working assumption has been made for the purposes of this assessment that
+after 25 years, the Generating Equipment would be removed and the Generating
+Equipment Site re-instated to a similar condition as before construction; below
+ground structures would remain in situ so as to avoid unnecessary disturbance of
+above ground habitats and/or species.  Any decommissioning phase would be likely
+to be of a similar duration to construction i.e. 22 months.
+1.1.22 A working assumption has been used that the Electrical Connection and Gas
+Connection would be decommissioned after 25 years. Elements of the Gas
+Connection and Electrical Connection may be left in situ as this is likely to cause
+less environmental effects than removal. This would be the case for the Gas 
+Pipeline, for example.
+1.2 
+Designated Sites Scoped into HRA Screening
+1.2.1 
+Table 1-3, Table 1-4 and Table 1-5 provide a description of all the Natura 2000 sites
+within 10km of the Power Generation Plant and which are scoped into the HRA
+Screening.  The tables set out the distance of the relevant Natura 2000 site from
+the proposed stack, and justification for inclusion in the HRA Screening. This
+approach is in line with the consultation response received from NRW (email dated
+13 September 2017).
+Table 1-3: Crymlyn Bog SAC and Ramsar
+Summary of Designating Features  
+Justification for
+Inclusion in HRA
+Screening
+Crymlyn Bog SAC and Ramsar
+6.7km south-east
+Crymlyn Bog, which covers approximately 299ha, comprises floodplain-valley mire
+located within a lowland coastal context and is the most extensive wetland of its type in
+Wales. The mire features a complex mosaic of vegetation types, supporting examples of
+swamp, tall herb fen, fen meadow and carr communities. The site supports an
+exceptionally wide range of rich and poor fen communities, some of which bear a close
+floristic affinity to certain floodplain mires in East Anglia. The presence of significant areas
+of saw sedge (Cladium mariscus) swamp is notable in extensive stands of this uncommon
+vegetation type, occurring at only three other sites in Wales. Crymlyn Bog is part of a
+larger inter-estuarine complex which includes the adjacent Pant y Sais fen.
+SAC
+Annex I habitats that are a primary reason for selection of this site:
+
+Transition mires and quaking bogs; and,
+
+Calcareous fens with Cladium mariscus and species of the
+Caricion davallianae.
+Annex I habitats present as a qualifying feature, but not a primary
+reason for selection of this site:
+
+Alluvial forests with Alnus glutinosa and Fraxinus excelsior
+(Alno-Padion, Alnion incanae, Salicion albae).
+Supports habitats 
+sensitive to nitrogen 
+and acid deposition. 
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-10 
+Summary of Designating Features  
+Justification for 
+Inclusion in HRA 
+Screening 
+Ramsar 
+Designated under Ramsar Criterion 1: 
+Largest example of valley floodplain topogenous mire in South 
+Wales, and one of the largest surviving fens in the west of Britain. 
+Very few other sites are known to support a comparable complexity 
+and diversity of vegetation.  
+Designated under Ramsar Criterion 2: 
+Supports a substantial population of the nationally-rare slender 
+cotton-grass Eriophorum gracile, and a rich invertebrate fauna 
+including many rare and highly localised species. 
+Designated under Ramsar Criterion 3:  
+The site supports 199 vascular plant species including 17 
+regionally-uncommon and one nationally rare. 
+Table 1-4: Carmarthen Bay and Estuaries SAC 
+Summary of Designating Features  
+Justification for 
+Inclusion in HRA 
+Screening 
+Carmarthen Bay and Estuaries SAC 
+7km west 
+Carmarthen Bay and Estuary is an example of a large estuarine site covering 
+approximately 66,092ha on the south coast of Wales, encompassing the estuaries of the 
+Rivers Loughor, Tâf and Tywi (coastal plain estuaries) and the Gwendraeth (a bar-built 
+estuary). Carmarthen Bay is also an example of an extensive shallow bay which varies 
+considerably in salinity, wave action, tides, and sediment types and therefore has a wide, 
+varied range of flora and fauna associated with each of the zones. The estuary complex 
+includes the sandbank of Helwick Bank, which is a linear shallow subtidal sandbank that 
+is unusual in being highly exposed to wave action and tidal action, as well as several 
+other smaller sandbanks in relatively shallow waters. The site also includes extensive 
+areas of intertidal mudflats and sandflats as well as being a representative of pioneer 
+glass wort (Salicornia spp.) saltmarsh which has a full transition sequence to upper salt-
+meadow and important sand dune habitats. 
+Annex I habitats that are a primary reason for selection of this site:  
+
+Sandbanks which are slightly covered by sea water all the
+time;
+
+Estuaries;
+
+Mudflats and sandflats not covered by seawater at low tide;
+
+Large shallow inlets and bays;
+
+Salicornia and other annuals colonizing mud and sand; and,
+
+Atlantic salt meadows (Glauco-Puccinellietalia maritimae).
+Annex II species that are a primary reason for selection of this site: 
+
+Twaite shad Alosa fallax
+Hydrological 
+connectivity 
+between the Project 
+Site via the Afon 
+Llan and Afon Lliw.  
+Supports habitats 
+sensitive to nitrogen 
+deposition.  
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-11 
+Summary of Designating Features  
+Justification for 
+Inclusion in HRA 
+Screening 
+Annex II species present as a qualifying feature, but not a primary 
+reason for site selection:  
+
+Sea lamprey Petromyzon marinus;
+
+River lamprey Lampetra fluviatilis;
+
+Allis shad Alosa alosa; and,
+
+Otter.
+Table 1-5: Burry Inlet SPA and Ramsar 
+Summary of Designating Features  
+Justification for 
+Inclusion in HRA 
+Screening 
+Burry Inlet SPA and Ramsar 
+8.6km south-west 
+Burry Inlet is a large estuarine complex covering approximately 6,628ha and located 
+between the Gower Peninsula and Llanelli in South Wales. It includes extensive areas of 
+intertidal sand- and mud-flats, together with large sand dune systems at the mouth of the 
+estuary. The site contains the largest continuous area of saltmarsh in Wales (2,200ha). 
+The estuary experiences wide tidal fluctuations (about 8m) which have the consequence 
+of exposing a large extent of intertidal sediments on a regular basis. These are mostly 
+sandy, but muddy substrates are to be found in more sheltered areas. The Burry Inlet 
+regularly supports large numbers of overwintering wildfowl and waders that feed in the 
+saltmarshes and on the intertidal areas. 
+SPA 
+This site qualifies under Article 4.2 of the Birds Directive 
+(2009/147/EC) by supporting populations of European importance 
+of the following migratory species: 
+Over winter:  
+
+Oystercatcher Haematopus ostralegus, 13,590 individuals 
+representing at least 1.5% of the wintering Europe& 
+Northern/Western Africa population (5 year peak mean 1991/2
+- 1995/6); and,
+
+Pintail Anas acuta, 1,772 individuals representing at least 3.0%
+of the wintering Northwestern Europe population (5 year peak
+mean 1991/2 - 1995/6).
+Assemblage qualification: A wetland of international importance. 
+The area qualifies under Article 4.2 of the Directive (79/409/EEC) 
+by regularly supporting at least 20,000 waterfowl 
+Over winter, the area regularly supports 34,962 individual 
+waterfowl (5 year peak mean 1991/2 – 1995/6) including: curlew 
+Numenius arquata, black-tailed godwit Limosa limosa islandica, 
+dunlin Calidris alpina alpina, knot Calidris canutus, shoveler Anas 
+clypeata, shelduck Tadorna tadorna, oystercatcher Haematopus 
+Hydrological 
+connectivity 
+between the Project 
+Site via the Afon 
+Llan and Afon Lliw.  
+Supports habitats 
+sensitive to nitrogen 
+and acidit 
+deposition.  
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-12 
+Summary of Designating Features  
+Justification for 
+Inclusion in HRA 
+Screening 
+ostralegus, pintail Anas acuta, whimbrel Numenius phaeopus.  
+Ramsar 
+Designated under Ramsar Criterion 5: 
+Assemblages of international importance. 
+Species with peak counts in winter: 
+41655 waterfowl (5 year peak mean 1998/99-2002/2003).  
+Designated under Ramsar Criterion 6: 
+Species/populations occurring at levels of international importance. 
+Qualifying Species/populations (as identified at designation): 
+Species with peak counts in spring/autumn: 
+
+Common redshank, Tringa totanus totanus, 857 individuals,
+representing an average of 0.7% of the GB population (5 year
+peak mean 1998/9 – 2002/3).
+Species with peak counts in winter: 
+
+Pintail, Anas acuta, NW Europe 2687 individuals, representing
+an average of 4.4% of the population (5 year peak mean
+1998/9 – 2002/3);
+
+Oystercatcher, Haematopus ostralegus ostralegus, Europe &
+NW Africa – wintering 14861 individuals, representing an
+average of 1.4% of the population (5 year peak mean 1998/9 –
+2002/3); and,
+
+Red knot, Calidris canutus islandica, W & Southern Africa
+(wintering) 3618 individuals, representing an average of 1.2%
+of the GB population (5 year peak mean 1998/9 – 2002/3).
+Species/populations identified subsequent to designation for 
+possible future consideration under Criterion 6. 
+Species with peak counts in winter: 
+
+Northern shoveler, Anas clypeata, NW & C Europe 467
+individuals, representing an average of 1.1% of the population
+(5 year peak mean 1998/9 – 2002/3).
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-13 
+1.3 
+Screening for Likely Significant Effects 
+a) Identification of Potential Impacts
+1.3.1 
+All potential impacts from all stages of the Project have been considered. The 
+potential pathways from all stages of the Project have been considered but the 
+following pathways have been scoped out due to the design of the project, 
+embedded mitigation detailed in the ES (Ref. 1.1), or the distance between the 
+Project Site and the Natura 2000 sites making the pathway or effect unfeasible:  
+
+Noise – As stated in Chapter 7: Noise and Vibration of the ES, the loudest
+noise during construction of the Project will be 92 dB at source and operation of
+the Project 55 dB at the Project Site Boundary. At a distance of over 6 km (for
+the nearest Natura 2000 site) this will reduce to well below existing ambient
+levels and will be inaudible.  There are no Likely Significant Effect (LSE) on
+Natura 2000 sites within 10 km associated with noise;
+
+Vibration – As stated in Chapter 7: Noise and Vibration of the ES, in the
+absence of specific information on likely construction activities and plant, a
+qualitative assessment based upon professional judgement has been
+undertaken.  Given the significant distance to residential receptors, this
+qualitative judgement made is that no significant vibration (medium or high
+magnitude impacts) is expected to result at residential NSRs from construction
+and therefore further assessment is scoped out.  Given that the nearest Natura
+2000 site is over 6 km from the nearest residential receptor it can be concluded
+that there will be no LSEs on Natura 2000 sites within 10 km during all stages
+of the Project associated with vibration;
+
+Construction dust and vehicle movements – Fine particulate in the size range
+of PM10 generated by construction activities and vehicle emissions can travel
+up to 1 km from a construction site if not adequately controlled, with larger dust
+particles travelling much shorter distances. The nearest Natura 2000 site is
+over 6 km away from the Project Site and, as such, there will be no LSEs on
+any Natura 2000 sites within 10km associated with dust;
+
+Direct habitat loss or fragmentation – There will be no construction or
+requirement to remove any habitat within any Natura 2000 site, as such there
+will be no LSEs on Natura 2000 sites within 10 km associated with direct
+habitat loss or fragmentation;
+
+Direct disturbance to species – There will be no construction or requirement to
+remove any habitat within any Natura 2000 site, as such there will be no LSEs
+on a Natura 2000 site within 10 km associated with direct disturbance to
+species;
+
+Alteration of management – The Project will not cause the alteration of site
+management actions at any Natura 2000 site within 10 km, as such there will
+be no LSEs on Natura 2000 sites associated with alteration of management;
+
+Increase in lighting – The nearest Natura 2000 site is over 6 km from the
+Project Site and as such light spill will not measurably increase onto Natura
+2000 sites within 10 km. There will be no LSEs on Natura 2000 sites within 10
+km associated with lighting from the Project. ; and
+
+Spread of invasive species –There will be no construction within, or
+requirement to access, any Natura 2000 site.  The spread of invasive species
+into Natura 2000 sites will not be caused by the Project. There will be no LSEs
+on Natura 2000 sites associated with spread of invasive species.
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-14 
+1.3.2 
+The potential pathways by which the Project could impact the qualifying features of 
+each Natura 2000 sites are as follows: 
+
+Potential changes in water quality from construction of the Project, resulting in
+effects on habitats in Carmarthen Bay and Estuaries SAC and Burry Inlet SPA
+and Ramsar; and,
+
+Potential changes in air quality from operation of the Project, resulting in effects
+on habitats in Crymlyn Bog SAC and Ramsar, Carmarthen Bay and Estuaries
+SAC and Bury Inlet SPA and Ramsar.
+1.3.3 
+Crymlyn Bog SAC and Ramsar site is not hydrologically connected to the Project 
+Site. As such effects associated with water quality on Crymlyn Bog SAC and 
+Ramsar site have been scoped out of any further assessment.  
+b)
+Potential Impacts on Water Quality
+1.3.4 
+There is the potential for the Project to result in changes to water quality that could 
+subsequently affect the habitats within the Natura 2000 sites identified above. 
+There is a hydrological connection between the Project Site and Carmarthen Bay 
+and Estuaries SAC and Burry Inlet SPA and Ramsar via the Afon Llan. Leaving the 
+Project Site the Afon Llan flows for approximately 12 km before reaching the Afon 
+Lliw and flowing into the Natura 2000 sites.   
+1.3.5 
+It envisaged that temporary toilets with appropriate foul waste facility will be in 
+place during construction and maintenance operation and all foul waste generated 
+during this period will be taken off-site for disposal at appropriate facilities by 
+specialist contractors. Accordingly, no impact on water receptors is likely.  
+1.3.6 
+During operation the Project will either be unmanned or have a maximum of two 
+toilets on site with approximately three shifts of five workers in a 24 hour period.  A 
+manned site will contribute nitrogen to Carmarthen Bay and Estuaries SAC and 
+Burry Inlet SPA and Ramsar.  
+1.3.7 
+Connection to a public sewer is not deemed feasible. The drainage strategy has 
+considered the use of either septic tanks within the site or a package sewage 
+treatment plants for foul effluent. However, package treatment plants are the 
+preferred option, subject to detailed design following completion of ground 
+investigations. The choice of one or other of these disposal methods is not 
+considered to have a material effect on the impact assessment. Due to the small 
+quantity of foul water generated during operations, it is anticipated that treated 
+water can be discharged via infiltration (soakaway) on site. In line with standard 
+design practice, the foul water drainage system will be positioned to minimise the 
+risk of inundation by floodwaters. Where there is an inadequate unsaturated zone 
+beneath the site, the option of discharging to local watercourses will be adopted. 
+Any discharges will be subject to the Environmental Permitting Regulations and will 
+need to meet quality criteria set by NRW.  
+1.3.8 
+Chapter 9 (Water Quality and Flood Risk) of the ES (Ref. 1.1) identifies the 
+sensitivity of the surface water and/or groundwater receptors (i.e. the tributary to 
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-15 
+the east of the Afon Llan and/or Carmarthen Carboniferous Coal Measures 
+groundwater body beneath the Project Site) likely to receive foul effluent from the 
+Project Site as Medium. Taking into account the quantity of treated foul 
+waste/wastewater likely to be generated from the packaged sewage treatment plant 
+and dilution properties of these receiving receptors, the magnitude of pollution 
+impacts from discharges is considered to be Negligible. Hence, the significance of 
+effect is considered to be Negligible. There is considered to be no LSE associated 
+with wastewater discharges resulting from the operation of the Project on 
+Carmarthen Bay and Estuaries SAC and Burry Inlet SPA and Ramsar.  
+1.3.9 
+The embedded measures included in the construction and operation as a matter of 
+course cover drainage and following best practice and guidelines, controlling 
+pollution, storage of potential pollutants, and precautionary measures to limit the 
+likelihood and effects of pollution incidents and/or runoff. These are deployed as 
+standard to protect any surface watercourse. Similarly, the Project Site drainage will 
+include filter drains / swales or oil interceptors as necessary to remove pollutants 
+and all necessary treatment will take place within the Project Site before it is 
+discharged to the existing watercourses. They directly assist in avoiding effects on 
+local watercourses (not Natura 2000 sites) and assist in strengthening the 
+conclusion reached already that there will be no LSEs on any Natura 2000 sites 
+within 10 km associated with water pollution. 
+1.3.10 Potential effects during decommissioning are likely to be the same as for 
+construction and will be controlled similarly. There are considered to be no LSEs 
+associated with water quality resulting from the decommissioning phase of the 
+Project.  
+c)
+Potential Impacts on Air Quality
+1.3.11 Transport related emissions are most relevant to sites within 200 m of a major road. 
+The Design Manual for Roads and Bridges (DMRB) (Ref. 1.3) identifies 200 m as 
+the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible.  There are no roads within 200 m of 
+any Natura 2000 site that are forecast to receive anything other than a nominal 
+short term change in vehicle flows as a result of the construction and operation of 
+the Project.  There are considered to be no LSEs associated with traffic emissions 
+related air quality as a result of the construction or operation phases of the Project.  
+1.3.12 Potential effects of traffic related emissions during decommissioning are likely to be 
+the same as for construction. There are considered to be no LSEs associated with 
+traffic emission related air quality resulting from the decommissioning phase of the 
+Project.   
+1.3.13 There is the potential for the Project to result in changes to air quality that could 
+subsequently affect the habitats within the Natura 2000 sites identified above.  The 
+air quality assessment, Chapter 6 of the Project ES (Ref. 1.1), sets out predicted 
+changes in concentrations of emissions associated with the construction, 
+operational and decommissioning phases of the development.  
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-16 
+1.3.14 The analysis is summarised in the matrices in Appendix B.  
+1.3.15 There are two measures of particular relevance in this assessment. The first is the 
+concentration of oxides of nitrogen (known as NOx) in the atmosphere. The main 
+importance is as a source of nitrogen, which is then deposited on adjacent habitats 
+either directly (known as dry deposition, including directly onto the plants 
+themselves) or washed out in rainfall (known as wet deposition). The deposited 
+nitrogen can then have a range of effects, primarily growth stimulation or inhibition1, 
+but also biochemical and physiological effects such as changes to chlorophyll 
+content. NOx may also have some effects which are un-related to its role in total 
+nitrogen intake (such as the acidity of the gas potentially affecting lipid 
+biosynthesis) but the evidence for these effects is limited and they do not appear to 
+occur until high annual concentrations of NOx are reached. The guideline 
+atmospheric concentration of NOx advocated by Government for the protection of 
+vegetation is 30 micrograms per cubic metre (µgm-3), known as the Critical Level 
+(Ref. 1.4). This is driven by the role of NOx in nitrogen deposition and in particular 
+in growth stimulation and inhibition. If the total NOx concentration in a given area is 
+below the critical level, it is unlikely that nitrogen deposition will be an issue, unless 
+there are other sources of nitrogen (e.g. ammonia). If it is above the critical level 
+then local nitrogen deposition from NOx could be an issue and should be 
+investigated. 
+1.3.16 The second important metric is a direct determination of the rate of the resulting 
+nitrogen deposition. Calculating nitrogen deposition rates has the advantage of 
+being habitat specific and, for many habitats, of being directly relatable to 
+measurable effects on the ground through scrutiny of published dose-response 
+relationships. In contrast, the NOx critical level is entirely generic and cannot be 
+related to dose-response relationships. Unlike NOx, the nitrogen deposition rate 
+below which current evidence suggests that effects should not arise is different for 
+each habitat. The rate (known as the Critical Load) is provided on the UK Air 
+Pollution Information System website (www.apis.ac.uk) and is expressed as a 
+quantity (kilograms) of nitrogen over a given area (hectare) per year (kgNha-1yr-1). 
+More recently, there has also been research compiled2 which investigates nitrogen 
+dose-response relationships in a range of habitats.  
+1.3.17 For completeness, rates of acid deposition were also calculated. Acid deposition 
+derives from both sulphur and nitrogen. It is expressed in terms of kiloequivalents 
+(keq) per hectare per year. The thresholds against which acid deposition is 
+assessed are referred to as the Critical Load Function. The principle is similar to 
+that for a nitrogen deposition Critical Load.  
+1 The addition of nitrogen is a form of fertilization, which can have a negative effect on habitats over time by encouraging more 
+competitive plant species that can force out the less competitive species that are more characteristic of such habitats. 
+2 Compiled and analysed in Caporn, S., Field, C., Payne, R., Dise, N., Britton, A., Emmett, B., Jones, L., Phoenix, G., S 
+Power, S., Sheppard, L. & Stevens, C. 2016. Assessing the effects of small increments of atmospheric nitrogen deposition 
+(above the critical load) on semi-natural habitats of conservation importance. Natural England Commissioned Reports, 
+Number 210. 
+ Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-17 
+1.3.18 The LSEs are assessed in relation to aerial pollutant concentrations (NOx only) and 
+the resultant change in acid and nitrogen deposition at Natura 2000 sites within 
+10km of the proposed stack.  
+1.3.19 Table 1-6 presents the process contribution (PCs) from the proposed Project (worst 
+case) and the resultant acid and nitrogen deposition rates in comparison to the 
+relevant critical loads for each of the Natura 2000 sites identified within 10km of the 
+Project Site.  The worst case has been assumed to be the maximum number of 
+hours that the plant can operate and a stack height of 35 m.  The Power 
+Generation Plant is a peaking site and will therefore only operate during periods of 
+high power demand.  It is therefore anticipated that the site will normally operate for 
+1,500 hours per year, but may operate for up to a maximum of 2,250 hours per 
+year, as secured by a DCO Requirement in the draft DCO (Document Reference 
+3.1).  The maximum number of hours that the plant can operate will be set out in 
+the site's Environmental Permit and this operating period cannot be exceeded.  A 
+minimum stack height of 35 m has been proposed by APL for the proposed Project 
+and a maximum height of 45 m. Air quality modelling informed the minimum and 
+maximum stack height as presented in ES Appendix 6.1. The assessment of 
+impacts at ecological receptors has, therefore, used a stack height of 35 m as this 
+represents the worst-case in terms of dispersion.   
+1.3.20 For Natura 2000 sites where habitats are not the designated feature for the site (for 
+example, an SPA with a designated feature of Oystercatcher), the effects of air 
+quality have been assessed for the habitat on which the species or assemblage is 
+reliant (for example, saltmarsh).  
+1.3.21 In April 2017 a High Court judgment3 (colloquially known as the Ashdown Forest 
+judgment) partially quashed the Lewes District and South Downs National Park 
+Joint Core Strategy in England. This was on the basis that the HRA supporting the 
+Joint Core Strategy only considered its own contribution in determining whether 
+there would be a likely significant air quality effect on Ashdown Forest SPA. The 
+judge ruled that the HRA had thus explicitly failed to undertake any form of 
+assessment ‘in combination’ and that this was in contravention of the Conservation 
+of Habitats and Species Regulations 2010 (now repealed and replaced by the 2017 
+Regulations).  Previously, air quality impact assessments enabled likely significant 
+effects to be immediately dismissed without further consideration if the contribution 
+of the project in question fell below 1% of the critical level (for NOx) or critical load 
+(for nitrogen deposition). In that context no assessment ‘in combination’ was 
+required. However, in light of the above High Court judgment, this HRA does not 
+rely on the use of that 1% threshold to dismiss the need to consider ‘in combination’ 
+effects. 
+1.3.22 The information in Table 1-6 and 1-7 is based on the air quality modelling provided 
+by the Applicant with a stack height of 35m (the worst case as noted above). The 
+results of the modelling are set out in Appendix A, Table 1-9, Table 1-10 and Table 
+3 Wealden District Council v Secretary of State for Communities and Local Government and others, 2017 [EWHC] 351 
+http://www.bailii.org/ew/cases/EWHC/Admin/2017/351.html [accessed 26/10/2017] 
+ Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-18 
+1-11 in which the worst case has been provided for each relevant Nature 2000 site 
+using the receptor most sensitive to acid and nitrogen for each site.  
+1.3.23 In the tables below, nitrogen and acid deposition are rounded up to two decimal 
+places to avoid false precision4. As such, the lowest deposition rates are reported 
+as ‘< 0.01 kgN/ha/yr’ and represent negligible deposition.  
+4 Convention dictates that the number of significant figures used in the presentation of data should be limited to what is warranted by the 
+precision of those data. 
+Abergelli Power Project – No Significant Effects Report
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-19 
+Table 1-6: Potential Effects of Air Quality – NOx Daily and Annual Process Contributions and Predicted Environmental Concentrations, and Process 
+Contributions and Predicted Environmental Concentrations as a % of the Air Quality Standard 
+Name 
+Distance 
+from 
+stack 
+(km) 
+Most sensitive 
+receptor / most 
+sensitive 
+habitat on 
+which a 
+receptor is 
+reliant 
+NOx Daily (μg/m3) 
+NOx Annual (μg/m3) 
+NOx Daily (μg/m3) 
+NOx Annual (μg/m3) 
+PC 
+PC as % 
+AQS 
+PC 
+PC as % 
+AQS 
+PEC 
+PEC as 
+% AQS 
+PEC 
+PEC as 
+% AQS 
+Carmarthen 
+Bay and 
+Estuaries SAC 
+7.2 
+Estuaries 
+3.70 
+5%
+0.01 
+0.02% 
+27.5
+37% 
+11.98 
+40%
+Crymlyn Bog 
+SAC/Ramsar 
+6.8 
+Transition mires 
+and quaking bogs 
+3.62 
+5% 
+0.00
+0.01%
+35.4
+47%
+15.90
+53%
+Burry Inlet 
+SPA and 
+Ramsar
+8.9
+Saltmarshes
+3.35
+4%
+0.01 
+0.02% 
+24.5
+33% 
+10.79 
+36%
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-20 
+Table 1-7: Potential Effects of Air Quality – Nitrogen and Nitrogen Acid 
+Name 
+Distance from 
+stack (km) 
+Most 
+sensitive 
+receptor / 
+most 
+sensitive 
+habitat on 
+which a 
+receptor is 
+reliant 
+Nitrogen 
+Empirical 
+Critical Load 
+Nitrogen (kg 
+N/ha/yr) 
+Process 
+Contribution 
+(35m stack) 
+(kg N/ha/yr) 
+Background 
+(kg N/ha/yr) 
+Process 
+Contribution 
+as a 
+percentage 
+of the Min CL 
+Process 
+Contribution 
+as a 
+percentage 
+of the Max 
+CL 
+PEC as % 
+Min CL 
+PEC as % 
+Max CL 
+Carmarthen Bay 
+and Estuaries 
+SAC
+7.2 
+Estuaries 
+20-30 
+<0.01
+15.1 
+<0.1% 
+<0.1% 
+76%
+50%
+Crymlyn Bog 
+SAC/Ramsar
+6.8 
+Transition 
+mires and 
+quaking bogs
+5-10 
+<0.01 
+11.5 
+<0.1% 
+<0.1% 
+230% 
+115% 
+Burry Inlet SPA 
+and Ramsar 
+8.9 
+Saltmarshes 
+20-30 
+<0.01
+15.1
+<0.1%
+<0.1%
+76%
+50%
+Name 
+Distance from 
+stack (km) 
+Most 
+sensitive 
+receptor / 
+most 
+sensitive 
+habitat on 
+which a 
+receptor is 
+reliant 
+Nitrogen Acid 
+Critical Load 
+Nitrogen acid 
+(keq H+/ha/yr 
+– HNO3)
+Process 
+Contribution 
+(35m stack) 
+(keq H+/ha/yr 
+– HNO3)
+Background 
+(keq H+/ha/yr 
+– HNO3)
+Process Contribution as a 
+percentage of CLF 
+PEC as % CLF 
+Carmarthen Bay 
+and Estuaries 
+SAC
+7.2 
+Estuaries 
+Not sensitive 
+<0.01
+1.33
+N/A
+N/A
+Crymlyn Bog 
+SAC/Ramsar
+6.8 
+Transition 
+mires and 
+quaking bogs
+0.70
+<0.01
+1.06
+<0.1%
+153%
+Burry Inlet SPA 
+and Ramsar
+8.9 
+Saltmarshes 
+2.02
+<0.01
+1.33
+<0.1%
+66%
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-21 
+1.4 
+Summary of Likely Significant Effects Screening 
+a) Water Quality
+1.4.1 
+Due to the standard-practice use of mobile welfare facilities during construction and 
+operational maintenance, there will be no inputs of treated wastewater and runoff 
+and/or pollution during construction and operational maintenance.  
+1.4.2 
+During operation discharges from the package treatment plant will be controlled via 
+an Environmental Permit. There will be very low levels of discharges due to the low 
+numbers of people on Site during operation. The discharges will disperse over a 
+long distance before entering Carmarthen Bay and Estuaries SAC and Burry Inlet 
+SPA and Ramsar. 
+1.4.3 
+There will be no LSEs on any Natura 2000 sites within 10 km associated with water 
+quality.   
+b) Air Quality
+1.4.4 
+Only NOx has been modelled as an emitted pollutant; no other relevant pollutants 
+are expected (such as sulphur dioxide).  Impacts due to emissions of sulphur 
+dioxide and, by inference deposition of sulphur, have been scoped out of the 
+assessment since natural gas is an inherently low sulphur fuel. However, 
+background levels of sulphur deposition are considered in the assessment of 
+acidification.  
+1.4.5 
+For all receptors, the annual (long-term) average and 24hr (short-term) average 
+PEC (Predicted Environmental Concentration i.e. the total concentration including 
+the Project) for NOx is forecast to be well below the critical level of 30 
+micrograms/cubic metre (for long-term NOx) and 75 micrograms/cubic metre (for 
+short-term NOx). Since the critical level will not be breached there are no grounds 
+to conclude a likely significant effect based on atmospheric concentrations alone.  
+i.
+Nitrogen Disposition
+1.4.6 
+Considering the forecast change in nitrogen deposition rates due to the Project, the 
+PC is extremely small being less than 0.01kgN/ha/yr in all instances. This is so 
+small that it effectively represents no forecast change in nitrogen deposition, 
+compared to the baseline.  
+1.4.7 
+For Carmarthen Bay and Estuaries SAC and Burry Inlet SPA and Ramsar site, 
+where the current background levels for nitrogen are within the critical loads for the 
+most sensitive receptor or most sensitive habitat on which a receptor is reliant at 
+each of the sites, these increases are concluded not to have a LSE on either site.  
+1.4.8 
+For Crymlyn Bog SAC and Ramsar the background level is already in exceedance 
+of the critical load for nitrogen for the most sensitive receptor or most sensitive 
+habitat on which a receptor is reliant at the site. However, the increase arising from 
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-22 
+the Project is deemed to be so small that it can be concluded the increase will not 
+have a LSE on the site.  
+1.4.9 
+In published data on nitrogen dose-response relationships (Ref. 1.5) it has been 
+shown that no habitats studied to date are responsive to such small incremental 
+changes in nitrogen deposition. For example, Table 21 of Caporn et al 2016 (Ref. 
+1.5) list all investigated habitats including heathland, bogs, sand dunes and acid 
+grassland. Even the most sensitive habitat presented in the table (sand dunes) 
+required a dose of at least 0.1 kgN/ha/yr (an order of magnitude greater than the 
+PC of the Project) to effect a change in species richness (defined as a reduction of 
+at least 1 species), even at a very low background deposition rate of 5 kg/ha/yr. 
+Most habitats studied required a considerably greater dose at low background 
+rates. Habitats that were studied that are pertinent to this Project included bog 
+(raised and blanket). Bog is the most sensitive out of all the receptors for the 
+Natura 2000 sites with a critical load of 5 – 10 kgN/ha/yr.  
+1.4.10 The studies also indicate that the effect of adding a given amount of nitrogen is not 
+simple, linear and additive as is often assumed but depends heavily on the existing 
+nitrogen deposition. As such the response of vegetation to nitrogen deposition is far 
+more subtle that the ‘black and white’ critical load concept suggests. In bog, for 
+example, at background deposition rates of 15 – 20kgN/ha/yr an increase of 
+3.3kgN/ha/yr would be required to reduce species richness by one species. Note 
+that this does not mean any species would be ‘lost’ from the affected area, just that 
+one species would occur at a reduced frequency. The study illustrates the fairly 
+subtle effect of nitrogen deposition at moderately high background rates.  
+1.4.11 Although woodland and fen are not included in the report in terms of deriving dose-
+response relationships the report indicates that the same broad pattern of response 
+can be applied to fen and woodland habitats (at least at woodland edges which will 
+be more exposed to pollutants).  
+1.4.12 As such, the extremely small PC of than 0.01kgN/ha/yr would have no perceptible 
+effect on any of the habitats within any of the Natura 2000 sites.  
+ii.
+Nitrogen Acid Deposition
+1.4.13 None of the receptors for Carmarthen Bay and Estuaries SAC are sensitive to 
+nitrogen acid deposition.  
+1.4.14 For Crymlyn Bog SAC and Ramsar the PC is less than 0.01keqH+/ha/yr and so low 
+as to be effectively zero. Although the background level is above the critical load for 
+the most sensitive receptor, any increase less than 0.01keqH+/ha/yr will not cause 
+a measurable exceedance of the critical load for nitrogen acid at the site. 
+1.4.15 For Burry Inlet SPA and Ramsar the PC is less than 0.01keqH+/ha/yr and so low as 
+to be effectively zero. Furthermore, the background level is below the critical load 
+for the most sensitive receptor, and as such any increase less than 
+0.01keqH+/ha/yr will not cause an exceedance of the critical load for nitrogen acid 
+at the site.  
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-23 
+1.5 
+In-Combination Effects 
+1.5.1 
+The Conservation of Habitats and Species Regulations 2017 state that when 
+considering whether a specific plan or project is likely to have a significant effect on 
+a Natura 2000 Site, consideration should be given to the effect of the proposal 
+alone and in-combination with other plans and projects. Part of the HRA process is 
+to identify the plans, programmes and projects that could have in-combination 
+effects. The PINS Advice Note Ten: Habitat Regulations Assessment relevant to 
+Nationally Significant Infrastructure Projects (January 2016) states that in 
+assessing in-combination effects the following projects should be considered:  
+
+Projects that are under construction;
+
+Permitted application(s) not yet implemented;
+
+Submitted application(s) not yet determined;
+
+All refusals subject to appeal procedures not yet determined;
+
+Projects on the National Infrastructure’s programme of projects5; and
+
+Projects identified in the Swansea Unitary Development Plan  and emerging
+development plans (Swansea Deposit Local Development Plan) with
+appropriate weight being given as they move closer to adoption, recognising
+that much information on relevant proposals will be limited and the degree of
+uncertainty which may be present.
+1.5.2 
+The projects which have been researched are shown in Table 1-8 below.  Table 1-
+12 in Appendix C provides the results of a screening exercise for each of the 
+developments to demonstrate that there are no Likely Significant Effects from the 
+Project in-combination with other projects. The Table 1-12 briefly summarises the 
+level of data or information available in relation to each project, which in all cases is 
+limited. On the basis of the information available, using professional judgment and 
+adopting the precautionary principle, it is considered that the screening exercise is 
+robust.  
+Table 1-8: Projects Considered In-Combination 
+# / Planning Application 
+Name 
+Description 
+Under Construction 
+1 2006/0773 (varied by 
+2009/1520 and 
+2011/1143 ) and 
+consecutive temporary 
+planning permissions 
+2007/2513, 2009/0062, 
+2009/1585, 2011/1311 
+and 2014/0913 (varied 
+by 2016/1270 ) 
+Felindre Business Park Strategic business park for B1 and B2 uses 
+to accommodate emerging industries, high 
+tech manufacturing, high level services, 
+ancillary uses, associated car parking, 
+landscaping and access roads (outline). 
+The site has been laid out and is effectively 
+a serviced site, however no buildings have 
+been constructed. 
+Park and ride schemes also operate on 
+match days to the Liberty football stadium; 
+and for car parking for the Driver and 
+Vehicle Licensing Agency (DVLA) site in 
+Longview Road, Morriston. 
+5 https://infrastructure.planninginspectorate.gov.uk/projects/  
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-24 
+# / Planning Application 
+Name 
+Description 
+2 2013/0135 
+Abergelli Solar Farm 
+Installation of ground mounted array of 
+solar panels, inverter substations and 2.4 m 
+high fencing on land at Abergelli Farm. This 
+development will be located adjacent to the 
+Gas Connection. 
+3 2013/0865  
+Cefn Betingau Phase 
+1, Morriston 
+Construction of 9MW solar park consisting 
+of installation of up to 135,000 pv panels 
+and 9 inverter/transformer cabins and a 
+single control building 
+4 2014/0739  
+Gelliwern Isaf Solar 
+Park  
+6MWe solar park at Gelliwern Isaf Farm -
+installation of a solar PV array, construction 
+of a storage room, invertor cabin, a 
+substation, switchgear building and fencing 
+5 2014/1022 
+Brynwhilach Solar Park Construction of 12.69MWe solar park 
+consisting of installation of up to 47,000 pv
+panels and 8 inverter/transformer stations, 
+2 substations, storage container, new 
+access tracks, security fencing/cctv and 
+associated equipment and infrastructure 
+work. 
+6 2007/1250 (varied by 
+2017/0325/S73)  
+Former J R 
+Steelworks, Bryntywod 
+(Griffiths Waste 
+Management) 
+Retention of use of land as timber recycling 
+centre 
+including 
+processing 
+of 
+wood, 
+wooden materials, associated plant and 
+machinery and previously tipped inert 
+material together with on-site storage of 
+wood chip material, construction of building 
+for the dry storage of recycled wood waste 
+and the creation of a 1m high clay bund 
+around southern, western and northern 
+boundaries of the site without complying 
+with conditions 2, 3, 5, 9, 10, 11, 14 and 16 
+of planning permission 2007/1250 granted
+11th December. 
+7 2012/1221  
+Mynydd y Gwair Wind 
+Farm 
+Installation of 16 wind turbines (maximum 
+height to blade tip of 127 m with a hub 
+height of 80 metres), with a maximum 
+generating capacity of 48MWe, associated 
+tracks and ancillary infrastructure. 
+8 2014/0977 
+Parc Ceirw, 
+Cwmrhydyceirw 
+Quarry, Swansea 
+Proposed 250 to 300 residential properties, 
+within a site of approximately 14 ha.  The 
+site was formerly an old quarry. 
+Permitted but not implemented 
+9 2013/0795  
+Tyle Coch Mawr Wind 
+Farm  
+Installation of four 5 kW wind turbines 20.7 
+m to tip and associated infrastructure. 
+10 2013/1835 
+Felindre Business Park Construction of park and ride/share car 
+park (approximately 480 spaces) with new 
+vehicular access, security office, toilet, 
+engineering 
+and 
+associated 
+works, 
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-25 
+# / Planning Application 
+Name 
+Description 
+including 
+lighting, 
+fencing, 
+drainage 
+attenuation and landscaping. 
+11 2015/1529 (appeal ref 
+4369653)  
+Llettyr Morfil Farm 
+Construction of a 4.9 MW solar park 
+(approx. 8.8 ha) including photovoltaic 
+panels, four inverter stations, centre station, 
+new 
+access 
+tracks, 
+security 
+fencing, 
+security 
+cameras 
+and 
+associated 
+equipment 
+and 
+infrastructure 
+works. 
+Allowed on appeal in June 2016 
+12 2015/0308  
+Plot 8 Felindre 
+Strategic Business 
+Park 
+Two/three 
+storey 
+private 
+hospital 
+development with associated landscaping, 
+site roads and car parking 
+13 2016/1522  
+Griffiths Waste 
+Management Site, 
+Bryntywod 
+Llangyfelach Swansea 
+SA5 7LP 
+Demolition of existing waste management 
+facility 
+buildings 
+and 
+construction 
+of 
+replacement 
+buildings 
+and 
+associated 
+infrastructure 
+14 2008/0912  
+Former Walters Yard 
+Pontlliw Swansea 
+Construction 
+of 
+67 
+dwellings 
+with 
+associated access, roads, parking, open 
+space and demolition of existing buildings. 
+Approved with S106 in March 2016. 
+Submitted but not determined 
+15 2011/0345 
+Land at Llewellyn 
+Road, Penllergaer 
+Construction of up to 200 residential units 
+with associated access (outline).   
+16 2012/0721  
+Royal Fern Golf Resort Application to vary Condition 8 of Outline 
+Planning Permission 2008/0154 to extend 
+the period for the submission of the 
+reserved matters for a further three years in 
+relation to the proposed development of 18 
+hole championship and 9 hole par 3 golf 
+courses, golf club house including health 
+facilities, 
+sauna, 
+swimming 
+pool, 
+gymnasium, golf school and academy, 80 
+golfing lodges, approximately 135 housing 
+plots, 
+green 
+keepers 
+flat, 
+associated 
+infrastructure, car parking and landscaping 
+(outline).  
+17 2017/1822/OUT 
+Land West Of 
+Llangyfelach Road 
+Tirdeunaw 
+Outline 
+planning 
+application 
+(with 
+all 
+matters reserved apart from strategic 
+access junctions) for residential led mixed 
+use development, to be developed in 
+phases, including up to 1950 dwellings, link
+road, local centre provision of a primary 
+school, community facilities, Public Open 
+Space including facilities for children, and 
+areas of landscaping (including sustainable 
+drainage systems), outdoor sports provision 
+including 
+playing 
+pitches, 
+associated 
+services, infrastructure and engineering 
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-26 
+# / Planning Application 
+Name 
+Description 
+works including new vehicular access, 
+improvements to the existing highway 
+network, new roads, footpaths / cycleways, 
+and ancillary works. 
+18 2016/1478 
+Land North Of Garden 
+Village Swansea 
+Hybrid planning application (with all matters 
+reserved apart from strategic access) for 
+residential-led mixed use development, to 
+be 
+developed 
+in 
+phases, 
+including 
+approximately 
+750 
+residential 
+units; 
+provision of 1 no. Primary school; circa 
+280m2 - 370m2 flexible A1-A3 / D1 
+floorspace; open space including parks; 
+natural and semi natural green space; 
+amenity green spaces; facilities for children 
+and young people; outdoor sports provision 
+including 
+playing 
+pitches; 
+associated 
+services, infrastructure and engineering 
+works including new vehicular accesses, 
+improvement works to the existing highway 
+network, new roads, footpaths/cycleways; 
+landscaping works (including sustainable 
+drainage systems), ecological mitigation 
+works and ancillary works. Submitted in 
+July 
+2016 
+and 
+currently 
+pending 
+determination. (The application would be 
+referable to Welsh Ministers if the Council 
+are minded to approve). 
+19 2017/0986/FUL 
+Former Civic Centre 
+Penllergaer Swansea 
+SA4 9GH 
+Construction of 80 no. residential units with 
+associated access and landscaping 
+Identified / Allocated (and not referenced above) 
+20 UDP Policy EC1(3)  
+Swansea Vale 
+Strategic Mixed-Use 
+Site 
+25 ha allocated employment land 
+21 UDP Policy EC1(10) 
+Land at Bryntywod, 
+Felindre (Local 
+Employment Site) 
+15.8 ha allocated employment land 
+22 UDP Policy EC1(12)  
+Penllergaer Business 
+Park (Local 
+Employment Site) 
+8.2 ha allocated employment land 
+23 UDP Policy HC13 
+West of Morriston 
+Hospital 
+Hospital related activities 
+24 LDP Policy SD G 
+Northwest of M4 J46, 
+Llangyfelach 
+Comprehensive mixed use development of 
+up to 850 homes during the Plan period, 
+incorporating a mix of low-medium and high 
+density residential, a new district centre 
+with commercial units, primary school, a 
+mix of public realm, open space and play 
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-27 
+# / Planning Application 
+Name 
+Description 
+provision, new community buildings, and a 
+strategic business park 
+25 LDP Policy SD A 
+South of Glanffrwd 
+Road, Pontarddulais 
+Comprehensive, 
+residential 
+led, 
+development 
+of 
+up 
+to 
+720 
+homes, 
+incorporating a primary school, leisure and 
+recreation facilities, public open space and 
+appropriate 
+community 
+facilities, 
+employment and commercial uses 
+26 LDP Policy SD C 
+South of A4240, 
+Penllergaer 
+Comprehensive, residential led, mixed use 
+development of up to 750 homes during the 
+Plan period (and up to 1,000 homes 
+beyond the Plan period), incorporating 
+primary school, leisure and recreation 
+facilities, public realm, public open space 
+and appropriate community and commercial 
+uses 
+27 LDP Policy SD E 
+North of Clasemont 
+Road, Morriston 
+Comprehensive, residential led, mixed use 
+development of up to 675 homes during the 
+Plan period, incorporating primary school, 
+leisure and recreation facilities, public 
+realm, public open space and appropriate 
+community and commercial uses 
+28 LDP Policy SI 4   
+Morriston Hospital 
+Land adjacent to Morrison Hospital is 
+safeguarded 
+solely 
+for 
+the 
+future 
+development 
+and 
+expansion 
+of 
+the 
+Hospital. Development at this location is 
+restricted to healthcare related uses in 
+association with the beneficial use of 
+Morriston Hospital. Proposals must be 
+delivered alongside appropriate new and 
+enhanced highway infrastructure that will 
+significantly 
+improve 
+the 
+existing 
+substandard road access leading to the 
+site.  A new access road is proposed as 
+part of this proposal (Strategic Transport 
+Strategy Table 9.2) to resolve road capacity 
+issues from the roundabout immediately 
+north of M4 J46. 
+29 LDP Policies RP7  and 
+RP8 , paragraph 
+2.14.28 (Preferred 
+Locations) 
+Former Tip Site, 
+Felindre 
+Preferred 
+areas 
+for 
+new 
+waste 
+management facilities include the former 
+Tip site at Felindre. The site at Felindre is 
+identified specifically for the potential to 
+accommodate a Combined Heat and Power 
+(CHP) Facility which could provide heat or 
+power 
+for 
+adjacent 
+proposed 
+developments.   
+30 LDP Policy H1.11  
+Land at Ramsey Road, 
+Clydach 
+60 dwellings 
+31 LDP Policy H1.21  
+Land east of 
+90 dwellings 
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-28 
+# / Planning Application 
+Name 
+Description 
+Pontarddulais Road, 
+Gorseinon 
+32 LDP Policy H1.26  
+Land at Carmel Road 
+and Bryntirion Road, 
+Pontlliw 
+100 dwellings 
+33 LDP Policy H1.30  
+Land north of Llewellyn 
+Road, Penllergaer 
+50 dwellings 
+34 LDP Policy H1.31  
+Land at Bolgoed Road, 
+Pontarddulais 
+50 dwellings 
+a) Water Quality
+1.5.3 
+There are no inputs during construction in relation to water quality from the Project 
+that can act in combination with other projects and this will be the same for 
+decommissioning.  
+1.5.4 
+The inputs from Project wastewater discharges during operation are likely to be so 
+small as to be well within the natural daily fluctuations of the nutrient levels within 
+the Carmarthen Bay and Estuaries SAC and Burry Inlet SPA and Ramsar and 
+therefore immeasurable in-combination with other projects. There is considered to 
+be no LSE as a result of wastewater discharges from the Project acting in-
+combination with wastewater discharges from other projects.  
+b) Air Quality
+1.5.5 
+Transport related emissions are most relevant to sites within 200 m of a major road. 
+The Design Manual for Roads and Bridges (DMRB) (Ref. 1.3) identifies 200 m as 
+the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible.  There are no roads within 200 m of 
+any Natura 2000 site that are forecast to receive anything other than a nominal 
+short term change in vehicle flows as a result of this Project.    
+1.5.6 
+There will be extremely low traffic flows expected as part of the construction and 
+operation of the Project, and the operational traffic flows from the Project will not 
+make a significant contribution to any in-combination effects and will be within the 
+average daily variations of traffic flows.  
+1.5.7 
+A number of projects are likely to contribute to local pollutant concentrations 
+through traffic emissions – using M4 Junction 46 and the B4489. However, there 
+are no Natura 2000 sites located within 200 m of these locations.   
+1.5.8 
+There is no opportunity for a LSE as a result of traffic emissions from the Project 
+acting in-combination with traffic emissions from other projects.  
+1.5.9 
+Projects with point source emissions have been considered for the in-combination 
+assessment where deposition of those emissions may be geographically coincident 
+with this Project.  Two projects have been identified to be included in the in-
+combination assessment:  
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-29 
+
+2015/1716. Land at Abergelli Farm near Felindre Swansea SA5 7NN.
+Emergency standby electricity generation facility comprising: modern modular
+diesel generator units (up to 14 in total), transformers, diesel storage tanks,
+boundary treatment including acoustic screening, access improvements and
+associated works.
+
+LDP Policies RP7 and RP8, paragraph 2.14.28 (Preferred Locations). Former
+Tip Site, Felindre. Preferred areas for new waste management facilities include
+the former Tip site at Felindre. The site at Felindre is identified specifically for
+the potential to accommodate a Combined Heat and Power (CHP) Facility
+which could provide heat or power for adjacent proposed developments.
+1.5.10 The planning application for the Land at Abergelli emergency standby electricity 
+generation facility was refused on 16 October 2015. The applicant has stated that 
+there is no intention of resubmitting the application or to appeal of the decision 
+notice (and the time for submitting an appeal has now expired).  
+1.5.11 The Former Tip Site, Felindre Combined Heat and Power (CHP) Facility is a 
+preferred location in the Deposit Local Development Plan policy, and is therefore at 
+an early stage in the (potential) consenting process. As such no planning 
+application or background information is available to undertake in-combination air 
+quality modelling or assessment.  The Deposit Local Development Plan is currently 
+at Examination and as a result only limited weight can be attached to the allocation.  
+1.6 
+Conclusion 
+a)
+Introduction
+1.6.1 
+This section summarises the potential effects of the proposed Project and 
+considers whether the requirement to proceed to Stage Two of the HRA process 
+(Appropriate Assessment) is triggered in relation to the proposed Project.  
+1.6.2 
+An Appropriate Assessment is necessary when the screening exercise concludes 
+that a project, alone or in combination with other plans or projects, is likely to give 
+rise to significant effects on a Natura 2000 site. When required, an Appropriate 
+Assessment considers the impact of the project on the integrity of the Natura 2000 
+site having regard to the site’s conservation objectives.  
+b)
+Potential Effects
+1.6.3 
+There are no LSEs on Natura 2000 sites within 10 km of the proposed development 
+associated with water quality – as a result of wastewater discharges, pollution or 
+runoff - or air quality – nitrogen and nitrogen acid deposition as a result of NOx 
+emissions - from the proposed Project alone or in-combination with projects.  
+1.6.4 
+No other impacts arising from the construction, operation or decommissioning of 
+the Project have the potential to have an impact on any Natura 2000 sites.  
+1.6.5 
+Therefore the Appropriate Assessment – Stage Two of the HRA – process is not 
+required.  
+Abergelli Power Station – No Significant Effects Report 
+Prepared for:  Abergelli Power Limited  
+AECOM 
+1-30 
+1.6.6 
+The Applicant remains committed to consultation with NRW and will continue to 
+discuss the air quality aspects of the proposed development in the period before 
+Examination of the DCO application. It is the Applicant's intention to agree a 
+Statement of Common Ground with NRW covering the matters included in this 
+report and it is proposed that further meetings and dialogue will take place as 
+necessary between the Applicant and NRW with that objective. 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Poer Limtied 
+AECOM 
+1-31 
+References 
+Ref. 1.1 AECOM. (2018). Abergelli Power Project Environmental Statement.  
+Ref. 1.2 WSP (2017). Abergelli Power Station Outline Lighting Strategy. November 
+2017.  
+Ref. 1.3 DMRB (2007). Design Manual for Roads and Bridges, Volume 11 
+Environmental Assessment, Section 3 Environmental Assessment 
+Techniques, Part 1 HA 207/07, Air Quality (May 2007).  
+Ref. 1.4 APIS (2017). Critical Loads and Critical Levels - a guide to the data 
+provided in APIS, Section 3.3 Critical Levels, Table 1:  Critical levels of air 
+pollutants Available at 
+http://www.apis.ac.uk/overview/issues/overview_Cloadslevels.htm#_Toc279
+788054 [Access on 29/11/2017].  
+Ref. 1.5 Caporn, S., Field, C., Payne, R., Dise, N., Britton, A., Emmett, B., Jones, L., 
+Phoenix, G., S Power, S., Sheppard, L. & Stevens, C. (2016). Assessing 
+the effects of small increments of atmospheric nitrogen deposition (above 
+the critical load) on semi-natural habitats of conservation importance. 
+Natural England Commissioned Reports, Number 210.  
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+AECOM 
+1-32 
+Figure 1.1 Location of Project Site and Natura 2000 Sites 
+^_
+Burry Inlet
+Crymlyn Bog
+Burry Inlet
+Carmarthen Bay and Estuaries / Bae Caerfyrddin ac Aberoedd
+Crymlyn Bog / Cors Crymlyn
+Filename: P:\UKCDF1-IE\Projects\Environmental\Jobs - Potential\2017\2017 Q1\Abergelli Power Station\010 GIS\02_Maps\EC - Ecology\Designations\F1_1_Natura 2000 sites_v1.mxd
+This drawing has been prepared for the use of AECOM's client. It may not be used, modified, reproduced or relied upon by third parties, except as agreed by AECOM or as required by law. AECOM accepts no responsibility, and denies any liability whatsoever, to any party that uses or relies on this drawing without AECOM's express written consent. Do not scale this document. All measurements must be obtained from the stated dimensions.
+AECOM Internal Project No:
+Drawing Title:
+Drawing No:
+60542910
+LOCATION OF 
+PROJECT SITE AND 
+NATURA 2000 SITES
+005
+Scale at A3: 1:90,000
+FIGURE 1.1
+1
+0
+1
+2
+3
+4
+5 km
+±
+Rev:
+Project Title:
+Client:
+LEGEND
+ABERGELLI POWER
+PROJECT
+AECOM Limited
+1 Callaghan Square
+Cardiff, CF10 5BT
++44 (0)29 2067 4600 tel
+www.aecom.com
+Copyright:
+© Crown copyright and database rights
+ [2017] Ordnance Survey 0100031673
+© Local Government Information House 
+Limited copyright and database rights
+ [2017] 0100031673
+Drawn:
+GM
+Chk'd:
+CC
+Date:
+App'd:
+CA
+03/05/18
+^_
+Proposed Stack Location
+Project Site Boundary
+10km Study Area
+Special Protection Area 
+Special Area of Conservation
+Ramsar
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+AECOM 
+1-33 
+Appendix A Air Quality Modelling: Table 1-9, Table 1-10 and Table 1-11 
+Table 1-9: Process Contributions of NOx 
+Natura 2000 
+Site 
+Most 
+Sensitive 
+Habitat 
+Type 
+NOx Daily (μg/m3) 
+NOx Annual (μg/m3) 
+NOx Daily (μg/m3) 
+NOx Annual (μg/m3) 
+PC 
+PC as % 
+AQS 
+PC 
+PC as % 
+AQS
+PC 
+PC as % 
+AQS
+PC 
+PC as % 
+AQS
+75 μg/m3 
+30 μg/m3 
+75 μg/m3 
+30 μg/m3 
+Carmarthen 
+Bay and 
+Estuaries 
+SAC 
+Estuaries  
+3.70 
+5% 
+0.01 
+0.02% 
+27.5 
+37% 
+11.98 
+40% 
+Crymlyn Bog 
+SAC & 
+Ramsar 
+Transition 
+mires and 
+quaking 
+bogs  
+3.62 
+5% 
+0.00 
+0.01% 
+35.4 
+47% 
+15.90 
+53% 
+Burry Inlet 
+SPA & 
+Ramsar 
+Saltmarsh 
+3.35 
+4% 
+0.01 
+0.02% 
+24.5 
+33% 
+10.79 
+36% 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+AECOM 
+1-34 
+Table 1-10: Process Contributions, Critical Loads and Predicted Environmental Concentration of Nitrogen 
+Natura 2000 Site 
+Most Sensitive
+Habitat Type 
+Process 
+Contribution 
+CL (kg 
+N/ha/yr)
+CL (kg 
+N/ha/yr) PC as 
+% Min 
+CL 
+PC as % 
+Max CL 
+N Dep (kg 
+N/ha/yr) 
+PEC 
+PEC 
+as % 
+Min CL
+PEC 
+as % 
+Max 
+CL 
+Min CL 
+Max CL 
+Background Max 
+Carmarthen Bay
+and Estuaries SAC Estuaries
+0.001 
+20 
+30 
+0.00% 
+0.00% 
+15.1 
+15.1 
+76% 
+50% 
+Crymlyn Bog SAC 
+& Ramsar 
+Transition mires 
+and quaking 
+bogs 
+0.001
+5 
+10 
+0.01% 
+0.01% 
+11.5
+11.5 
+230% 
+115%
+Burry Inlet SPA & 
+Ramsar 
+Saltmarsh 
+0.001 
+20 
+30 
+0.00% 
+0.00% 
+15.1 
+15.1 
+76% 
+50% 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+AECOM 
+1-35 
+Table 1-11: Process Contributions, Critical Loads and Predicted Environmental Concentration of Nitrogen Acid 
+Natura 2000 Site 
+Most 
+Sensitive 
+Habitat Type 
+Process 
+Contribution
+Critical Load (keq/ha/yr) Max Process
+Contribution
+Background
+PEC 
+CLminN CLmaxN CLmaxS % CLF 
+PEC %
+CLF 
+Carmarthen Bay 
+and Estuaries 
+SAC 
+Estuaries  
+0.0001 
+N/A 
+N/A 
+N/A 
+0.00% 
+1.33 
+1.41 0% 
+Crymlyn Bog SAC 
+& Ramsar 
+Transition 
+mires and 
+quaking bogs 
+0.00004 
+0.32 
+0.70 
+0.37 
+0.01% 
+1.06 
+1.06 153%
+Burry Inlet SPA & 
+Ramsar 
+Saltmarsh 
+0.0001 
+0.44 
+2.02 
+1.58 
+0.00% 
+1.33 
+1.33 66% 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+AECOM 
+1-36 
+Appendix B HRA Screening Matrices for the Abergelli Power Project 
+HRA Screening Matrices for Abergelli Power Project 
+Appendix 1 Screening Matrices 
+Page 1 
+Planning Inspectorate 
+Advice Note 10 
+Habitats Regulations Assessment 
+HRA Screening Matrices for the Abergelli Power Project 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 2 
+Potential Effects 
+Potential effects upon the European site(s)* which are considered within the submitted HRA report (AECOM, 2017) are provided 
+in the table below. 
+Effects considered within the screening matrices 
+Designation 
+Effects described in 
+submission information 
+Presented in screening 
+matrices as 
+Carmarthen Bay SAC 
+Burry Inlet SPA and Ramsar 
+ 
+Increase in nutrient inputs 
+ 
+Water quality 
+Crymlyn Bog SAC and Ramsar 
+Carmarthen Bay SAC 
+Burry Inlet SPA and Ramsar 
+ 
+Increase in concentration of NOx 
+ 
+Increase in deposition of Nitrogen 
+ 
+Increase in deposition of Acid 
+ 
+Air quality 
+                                       
+* As defined in Advice Note 10. 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 3 
+STAGE 1: SCREENING MATRICES 
+ 
+The European sites included within the screening assessment are: 
+Crymlyn Bog SAC  
+Crymlyn Bog Ramsar 
+Carmarthen Bay SAC 
+Burry Inlet SPA 
+Burry Inlet Ramsar 
+Evidence for, or against, likely significant effects on the European site(s) and its qualifying feature(s) is detailed within the 
+footnotes to the screening matrices below. 
+Matrix Key: 
+ 
+ = Likely significant effect cannot be excluded 
+ = Likely significant effect can be excluded 
+ 
+C = construction 
+O = operation 
+D = decommissioning 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 4 
+HRA Screening Matrix 1 Carmarthen Bay and Estuaries SAC 
+Name of European site and designation: Carmarthen Bay and Estuaries SAC 
+EU Code: UK0020020 
+Distance to NSIP: 7km 
+ 
+European site 
+features 
+Likely effects of NSIP 
+ 
+Effect 
+Water quality 
+Water quality 
+In combination effects 
+Air quality 
+Air quality 
+In combination effects 
+Stage of 
+Development  
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+Estuaries  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Sandbanks which 
+are slightly 
+covered by sea 
+water all the time; 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Mudflats and 
+sandflats not 
+covered by 
+seawater at low 
+tide; 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Large shallow 
+inlets and bays  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Salicornia and 
+other annuals 
+colonizing mud 
+and sand; and,  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 5 
+Atlantic salt 
+meadows (Glauco-
+Puccinellietalia 
+maritimae).  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Twaite shad Alosa 
+fallax 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Sea lamprey 
+Petromyzon 
+marinus 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+River lamprey 
+Lampetra fluviatilis 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Allis shad Alosa 
+alosa 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Otter Lutra lutra 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+ 
+Evidence supporting conclusions: 
+ 
+a. Section 1.3.8 and Section 1.4.1 of the No Significant Effects Report states that the embedded mitigation for construction (to 
+be secured under the Construction Environmental Management Plan (CEMP)) will include measures to control pollution, 
+storage of potential pollutants, and precautionary measures will help to limit the likelihood and effects of pollution incidents 
+and/or runoff in line with best practice and guidelines. The drainage strategy for the Project Site will include filter drains / 
+swales or oil interceptors as necessary to remove pollutants and all necessary treatment will take place within the Project 
+Site before it is discharged to the existing watercourses. There are deemed to be no Likely Significant Effects on the features 
+as a result of pollution and/or runoff generated during construction.  
+b. Section 1.3.7 and Section 1.4.1 of the No Significant Effects Report states that during construction and operational 
+maintenance temporary toilets with appropriate foul waste facility will be in place and all foul waste generated during this 
+period will be taken off-site for disposal at appropriate facilities. No impact on water receptors is expected and there are 
+deemed to be no Likely Significant Effects on the features as a result of wastewater generated during construction and 
+operational maintenance. 
+c. There is a hydrological connection between the Project Site and Carmarthen Bay and Estuaries SAC  via the Afon Llan. 
+Leaving the Project Site, the Afon Llan flows for approximately 12 km before reaching the Afon Lliw and flowing into the 
+Natura 2000 site.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 6 
+Sections 1.3.5 and 1.4.2 of the No Significant Effects Report state that the drainage strategy has considered the use of 
+either septic tanks within the site or a package sewage treatment plants for foul effluent. However, package treatment 
+plants are the preferred option, subject to detailed design following completion of ground investigations.  
+Due to the small quantity of foul water generated during operation, it is anticipated that treated water can be discharged via 
+infiltration (soakaway) on site. The foul water drainage system will be positioned to minimise the risk of inundation by 
+floodwaters.  
+Where there is an inadequate unsaturated zone beneath the site, the option of discharging to local watercourses will be 
+adopted. Any discharges will be subject to the Environmental Permitting Regulations and will meet quality criteria set by 
+NRW.  
+Chapter 9 (Water Quality and Flood Risk) of the Environmental Statement (Abergelli Power Project Environmental 
+Statement, AECOM, 2018) states that given the quantity of treated wastewater likely to be generated from the packaged 
+sewage treatment plant and dilution properties of the receiving receptors, the magnitude of pollution impacts from 
+discharges is considered to be Negligible.  
+There are deemed to be no Likely Significant Effects associated with wastewater discharges resulting from the operation of 
+the Project on the designated site features.  
+d. Sections 1.1.17 – 1.1.19 detail the decommissioning phase of the Project. Section 1.3.9 states that potential effects on 
+water quality during decommissioning are likely to be the same as for construction and will be controlled similarly. There are 
+considered to be no Likely Significant Effects associated with water quality resulting from the decommissioning phase of the 
+Project. 
+e. Table 1-8 provides a list pf projects that have the potential to act in combination with the Project. Table 1-12 provides the 
+results of a screening exercise for each of the projects to demonstrate that the effects from the Project acting in-
+combination with the projects are not significant. The Table briefly summarises the level of data or information available in 
+relation to each project, which in all cases is limited.  
+f. Section 1.5.3 of the No Significant Effects Report states that there are no inputs during construction in relation to water 
+quality from the Project that can act in combination with other projects, this is likely the same for decommissioning.  
+g. Section 1.5.4 of the No Significant Effects Report states that the inputs from Project wastewater discharges during operation 
+are likely to be so small as to be within the natural daily fluctuations of the nutrient levels within the Carmarthen Bay and 
+Estuaries SAC and therefore immeasurable in-combination with other projects. There is considered to be no Likely 
+Significant Effect as a result of wastewater discharges from the Project acting in-combination with wastewater discharges 
+from other projects. 
+h. Section 1.3.10 states that there are no roads within 200 m of any Natura 2000 site that are forecast to receive anything 
+other than a nominal short term change in vehicle flows as a result of the construction and operation of the Project. 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 7 
+Transport related emissions are most relevant to sites within 200 m of a major road. The Design Manual for Roads and 
+Bridges (DMRB) identifies 200 m as the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible. There are considered to be no Likely Significant Effects associated with traffic 
+emissions related air quality as a result of the construction or operation phases of the Project.  
+i. Potential effects of traffic related emissions during decommissioning are likely to be the same as for construction. There are 
+considered to be no Likely Significant Effects associated with traffic emission related air quality resulting from the 
+decommissioning phase of the Project.  
+j. Sections 1.5.6 – 1.5.8 state there will be extremely low traffic flows expected as part of the construction and operation of 
+the Project, and the operational traffic flows from the Project will not make a significant contribution to any in-combination 
+effects and will be within the average daily variations of traffic flows. A number of projects are likely to contribute to local 
+pollutant concentrations through traffic emissions - using M4 Junction 46 and the B4489. However, there are no Natura 
+2000 sites located within 200 m of these locations.  This is likely to be the same for decommissioning. There is no 
+opportunity for a Likely Significant Effect as a result of traffic emissions from the Project acting in-combination with traffic 
+emissions from other projects.  
+k. Table 1-6, Table 1-7, Table 1-9, Table 1-10 and Table 1-11 of the No Significant Effects Report show the potential effects of 
+NOx, nitrogen and nitrogen acidity on the most sensitive receptor of Carmarthen Bay and Estuaries SAC. Section 1.4.6 – 
+1.4.7 states that the process contributions are extremely small for nitrogen (<0.01kgN/ha/yr) and the current background 
+levels for nitrogen are within the critical loads for the most sensitive receptor at the site the increase is concluded not to 
+have a LSE on the site. Section 1.4.13 states that none of the receptors for the site are sensitive to nitrogen acidity 
+deposition.  
+l. 
+Table 1-8 and Sections 1.5.9 – 1.5.11 provide a summary of the projects and plans provided by the local authority for an in-
+combination assessment. One project that was refused planning has point source emissions; the promoter has stated they 
+do not intend to resubmit the application or to appeal against the refusal. There is a point source emitter within the Local 
+Development Plan; however there is no information on the plan since it is a preferred location only and as such it is not 
+possible to obtain air quality data. It is concluded that there are no point source emitters that would contribute to an in-
+combination effect with the emissions from the proposed Project.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 8 
+HRA Screening Matrix 2 Crymlyn Bog SAC 
+Name of European site and designation: Crymlyn Bog SAC 
+EU Code:  UK0012885 
+Distance to NSIP: 6.7km 
+ 
+European site 
+features 
+Likely effects of NSIP 
+ 
+Effect 
+Water quality 
+Water quality 
+In combination effects 
+Air quality 
+Air quality 
+In combination effects 
+Stage of 
+Development  
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+Transition mires 
+and quaking bogs 
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+Calcareous fens 
+with Cladium 
+mariscus and 
+species of the 
+Caricion 
+davallianae 
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+Alluvial forests 
+with Alnus 
+glutinosa and 
+Fraxinus excelsior 
+(Alno-Padion, 
+Alnion incanae, 
+Salicion albae) 
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+ 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 9 
+Evidence supporting conclusions: 
+ 
+a. Crymlyn Bog SAC is not hydrologically connected to the Project Site. As such effects associated with water quality have been 
+scoped out of any further assessment.  
+b. Section 1.3.10 states that there are no roads within 200 m of any Natura 2000 site that are forecast to receive anything 
+other than a nominal short term change in vehicle flows as a result of the construction and operation of the Project. 
+Transport related emissions are most relevant to sites within 200 m of a major road. The Design Manual for Roads and 
+Bridges (DMRB) identifies 200 m as the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible. There are considered to be no Likely Significant Effects associated with traffic 
+emissions related air quality as a result of the construction or operation phases of the Project.  
+c. Potential effects of traffic related emissions during decommissioning are likely to be the same as for construction. There are 
+considered to be no Likely Significant Effects associated with traffic emission related air quality resulting from the 
+decommissioning phase of the Project.  
+d. Sections 1.5.6 – 1.5.8 state there will be extremely low traffic flows expected as part of the construction and operation of 
+the Project, and the operational traffic flows from the Project will not make a significant contribution to any in-combination 
+effects and will be within the average daily variations of traffic flows. A number of projects are likely to contribute to local 
+pollutant concentrations through traffic emissions - using M4 Junction 46 and the B4489. However, there are no Natura 
+2000 sites located within 200 m of these locations.  This is likely to be the same for decommissioning. There is no 
+opportunity for a Likely Significant Effect as a result of traffic emissions from the Project acting in-combination with traffic 
+emissions from other projects.  
+e. Table 1-6, Table 1-7, Table 1-9, Table 1-10 and Table 1-11 of the No Significant Effects report show the potential effects of 
+NOx, nitrogen and nitrogen acidity generated during operation of the Project on the most sensitive receptor of Crymlyn Bog 
+SAC. . Section 1.4.6 – 1.4.8 states that the process contributions are extremely small for nitrogen (<0.01kgN/ha/yr) and 
+the current background levels for nitrogen are in exceedance of the critical loads for the most sensitive receptor at the site 
+the increase is concluded not to have a LSE on the site due to the extremely low level of increase. Section 1.4.14 states that 
+the process contribution for nitrogen acidity deposition is zero.  
+f. Table 1-8 and Sections 1.5.9 – 1.5.11 provide a summary of the projects and plans provided by the local authority for an in-
+combination assessment. One project that was refused planning has point source emissions; the promoter has stated they 
+do not intend to resubmit the application or to appeal against the refusal. There is a point source emitter within the Local 
+Development Plan; however there is no information on the plan since it is a preferred location only and as such it is not 
+possible to obtain air quality data. It is concluded that there are no point source emitters that would contribute to an in-
+combination effect with the emissions from the proposed Project.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 10 
+HRA Screening Matrix 3 Crymlyn Bog Ramsar 
+Name of European site and designation: Crymlyn Bog Ramsar 
+Ramsar designation has no EU Code, [SAC] EU Code for this site is: UK0020020 
+Distance to NSIP: 6.7km 
+ 
+European site 
+features 
+Likely effects of NSIP 
+ 
+Effect 
+Water quality 
+Water quality 
+In combination effects 
+Air quality 
+Air quality 
+In combination effects 
+Stage of 
+Development  
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+Ramsar criterion 1 
+Valley floodplain 
+topogenous mire 
+and fen habitats 
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+Ramsar criterion 2 
+Slender cotton-
+grass (Eriophorum 
+gracile)and 
+invertebrate 
+assemblage, 
+including fen raft 
+spider (Dolomedes 
+plantarius) 
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+Ramsar criterion 2 
+Peatland  
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+Ramsar criterion 3 
+a 
+a 
+a 
+a 
+a 
+a 
+b 
+b,e 
+c 
+d 
+d,f 
+d 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 11 
+Plant species 
+assemblage 
+ 
+Evidence supporting conclusions: 
+ 
+a. Crymlyn Bog Ramsar is not hydrologically connected to the Project Site. As such effects associated with water quality have 
+been scoped out of any further assessment.  
+b. Section 1.3.10 states that there are no roads within 200 m of any Natura 2000 site that are forecast to receive anything 
+other than a nominal short term change in vehicle flows as a result of the construction and operation of the Project. 
+Transport related emissions are most relevant to sites within 200 m of a major road. The Design Manual for Roads and 
+Bridges (DMRB) identifies 200 m as the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible. There are considered to be no Likely Significant Effects associated with traffic 
+emissions related air quality as a result of the construction or operation phases of the Project.  
+c. Potential effects of traffic related emissions during decommissioning are likely to be the same as for construction. There are 
+considered to be no Likely Significant Effects associated with traffic emission related air quality resulting from the 
+decommissioning phase of the Project.  
+d. Sections 1.5.6 – 1.5.8 state there will be extremely low traffic flows expected as part of the construction and operation of 
+the Project, and the operational traffic flows from the Project will not make a significant contribution to any in-combination 
+effects and will be within the average daily variations of traffic flows. A number of projects are likely to contribute to local 
+pollutant concentrations through traffic emissions - using M4 Junction 46 and the B4489. However, there are no Natura 
+2000 sites located within 200 m of these locations.  This is likely to be the same for decommissioning. There is no 
+opportunity for a Likely Significant Effect as a result of traffic emissions from the Project acting in-combination with traffic 
+emissions from other projects.  
+e. Table 1-6, Table 1-7, Table 1-9, Table 1-10 and Table 1-11 of the No Significant Effects report show the potential effects of 
+NOx, nitrogen and nitrogen acidity generated during operation of the Project on the most sensitive receptor or most 
+sensitive habitat on which a receptor is reliant of Crymlyn Bog Ramsar. Section 1.4.6 – 1.4.8 states that the process 
+contributions are extremely small for nitrogen (<0.01kgN/ha/yr) and the current background levels for nitrogen are in 
+exceedance of the critical loads for the most sensitive receptor at the site the increase is concluded not to have a LSE on the 
+site due to the extremely low level of increase. Section 1.4.14 states that the process contribution for nitrogen acidity 
+deposition is zero.  
+f. Table 1-8 and Sections 1.5.9 – 1.5.11 provide a summary of the projects and plans provided by the local authority for an in-
+combination assessment. One project that was refused planning has point source emissions; the promoter has stated they 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 12 
+do not intend to resubmit the application or to appeal against the refusal. There is a point source emitter within the Local 
+Development Plan; however there is no information on the plan since it is a preferred location only and as such it is not 
+possible to obtain air quality data. It is concluded that there are no point source emitters that would contribute to an in-
+combination effect with the emissions from the proposed Project.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 13 
+HRA Screening Matrix 4 Burry Inlet SPA 
+Name of European site and designation: Burry Inlet SPA 
+EU Code:  UK9015011 
+Distance to NSIP: 8.6km 
+ 
+European site 
+features 
+Likely effects of NSIP 
+ 
+Effect 
+Water quality 
+Water quality 
+In combination effects 
+Air quality 
+Air quality 
+In combination effects 
+Stage of 
+Development  
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+Oystercatcher 
+(Haematopus 
+ostralegus)  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Pintail (Anas 
+acuta)  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Overwinter 
+waterfowl 
+assemblage of 
+international 
+importance. 
+ 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+ 
+Evidence supporting conclusions: 
+ 
+a. Section 1.3.8 and Section 1.4.1 of the No Significant Effects Report states that the embedded mitigation for construction (to 
+be secured under the Construction Environmental Management Plan (CEMP)) will include measures to control pollution, 
+storage of potential pollutants, and precautionary measures will help to limit the likelihood and effects of pollution incidents 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 14 
+and/or runoff in line with best practice and guidelines. The drainage strategy for the Project Site will include filter drains / 
+swales or oil interceptors as necessary to remove pollutants and all necessary treatment will take place within the Project 
+Site before it is discharged to the existing watercourses. There are deemed to be no Likely Significant Effects on the features 
+as a result of pollution and/or runoff generated during construction.  
+b. Section 1.3.7 and Section 1.4.1 of the No Significant Effects Report states that during construction and operational 
+maintenance temporary toilets with appropriate foul waste facility will be in place and all foul waste generated during this 
+period will be taken off-site for disposal at appropriate facilities. No impact on water receptors is expected and there are 
+deemed to be no Likely Significant Effects on the features as a result of wastewater generated during construction and 
+operational maintenance. 
+c. There is a hydrological connection between the Project Site and Burry Inlet SPA via the Afon Llan. Leaving the Project Site, 
+the Afon Llan flows for approximately 12 km before reaching the Afon Lliw and flowing into the Natura 2000 site.  
+Sections 1.3.5 and 1.4.2 of the No Significant Effects Report state that the drainage strategy has considered the use of 
+either septic tanks within the site or a package sewage treatment plants for foul effluent. However, package treatment 
+plants are the preferred option, subject to detailed design following completion of ground investigations.  
+Due to the small quantity of foul water generated during operation, it is anticipated that treated water can be discharged via 
+infiltration (soakaway) on site. The foul water drainage system will be positioned to minimise the risk of inundation by 
+floodwaters.  
+Where there is an inadequate unsaturated zone beneath the site, the option of discharging to local watercourses will be 
+adopted. Any discharges will be subject to the Environmental Permitting Regulations and will meet quality criteria set by 
+NRW.  
+Chapter 9 (Water Quality and Flood Risk) of the Environmental Statement (Abergelli Power Project Environmental 
+Statement, AECOM, 2018) states that given the quantity of treated wastewater likely to be generated from the packaged 
+sewage treatment plant and dilution properties of the receiving receptors, the magnitude of pollution impacts from 
+discharges is considered to be Negligible.  
+There are deemed to be no Likely Significant Effects associated with wastewater discharges resulting from the operation of 
+the Project on the designated site features.  
+d. Sections 1.1.17 – 1.1.19 detail the decommissioning phase of the Project. Section 1.3.9 states that potential effects on 
+water quality during decommissioning are likely to be the same as for construction and will be controlled similarly. There are 
+considered to be no Likely Significant Effects associated with water quality resulting from the decommissioning phase of the 
+Project. 
+e. Table 1-8 provides a list pf projects that have the potential to act in combination with the Project. Table 1-12 provides the 
+results of a screening exercise for each of the projects to demonstrate that the effects from the Project acting in-
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 15 
+combination with the projects are not significant. The Table briefly summarises the level of data or information available in 
+relation to each project, which in all cases is limited.  
+f. Section 1.5.3 of the No Significant Effects Report states that there are no inputs during construction in relation to water 
+quality from the Project that can act in combination with other projects, this is likely the same for decommissioning.  
+g. Section 1.5.4 of the No Significant Effects Report states that the inputs from Project wastewater discharges during operation 
+are likely to be so small as to be within the natural daily fluctuations of the nutrient levels within Burry Inlet SPA and 
+therefore immeasurable in-combination with other projects. There is considered to be no Likely Significant Effect as a result 
+of wastewater discharges from the Project acting in-combination with wastewater discharges from other projects. 
+h. Section 1.3.10 states that there are no roads within 200 m of any Natura 2000 site that are forecast to receive anything 
+other than a nominal short term change in vehicle flows as a result of the construction and operation of the Project. 
+Transport related emissions are most relevant to sites within 200 m of a major road. The Design Manual for Roads and 
+Bridges (DMRB) identifies 200 m as the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible. There are considered to be no Likely Significant Effects associated with traffic 
+emissions related air quality as a result of the construction or operation phases of the Project.  
+i. Potential effects of traffic related emissions during decommissioning are likely to be the same as for construction. There are 
+considered to be no Likely Significant Effects associated with traffic emission related air quality resulting from the 
+decommissioning phase of the Project.  
+j. Sections 1.5.6 – 1.5.8 state there will be extremely low traffic flows expected as part of the construction and operation of 
+the Project, and the operational traffic flows from the Project will not make a significant contribution to any in-combination 
+effects and will be within the average daily variations of traffic flows. A number of projects are likely to contribute to local 
+pollutant concentrations through traffic emissions - using M4 Junction 46 and the B4489. However, there are no Natura 
+2000 sites located within 200 m of these locations.  This is likely to be the same for decommissioning. There is no 
+opportunity for a Likely Significant Effect as a result of traffic emissions from the Project acting in-combination with traffic 
+emissions from other projects.  
+k. Table 1-6, Table 1-7, Table 1-9, Table 1-10 and Table 1-11 of the No Significant Effects report show the potential effects of 
+NOx, nitrogen and nitrogen acidity on the most sensitive habitat on which a receptor of Burry Inlet SPA is reliant . Section 
+1.4.6 – 1.4.7 states that the process contributions are extremely small for nitrogen (<0.01kgN/ha/yr) and the current 
+background levels for nitrogen are within the critical loads for the most sensitive receptor at the site the increase is 
+concluded not to have a LSE on the site. Section 1.4.15 states that the process contribution for nitrogen acidity deposition is 
+so low (<0.01keqH+/ha/yr) that it will not cause an exceedance of the critical load for nitrogen acidity at the site.  
+l. 
+Table 1-8 and Sections 1.5.9 – 1.5.11 provide a summary of the projects and plans provided by the local authority for an in-
+combination assessment. One project that was refused planning has point source emissions; the promoter has stated they 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 16 
+do not intend to resubmit the application or to appeal the refusal. There is a point source emitter within the Local 
+Development Plan; however there is no information on the plan since it is a preferred location only and as such it is not 
+possible to obtain air quality data. It is concluded that there are no point source emitters that would contribute to an in-
+combination effect with the emissions from the proposed Project.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 17 
+HRA Screening Matrix 5 Burry Inlet Ramsar 
+Name of European site and designation: Burry Inlet Ramsar 
+Ramsar designation has no EU Code, [SPA] EU Code for this site is:  UK9015011 
+Distance to NSIP: 8.6km 
+ 
+European site 
+features 
+Likely effects of NSIP 
+ 
+Effect 
+Water quality 
+Water quality 
+In combination effects 
+Air quality 
+Air quality 
+In combination effects 
+Stage of 
+Development  
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+C 
+O 
+D 
+Ramsar criterion 5 
+Overwinter 
+wildfowl 
+assemblage of 
+international 
+importance 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Ramsar criterion 6 
+Common redshank 
+(Tringa totanus 
+totanus),  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Ramsar criterion 6 
+Pintail  
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Ramsar criterion 6 
+Oystercatcher 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+Ramsar criterion 6 
+Red knot (Calidris 
+a,b 
+b,c 
+d 
+e,f 
+e,g 
+e,f 
+h 
+h,j 
+i 
+e,j 
+e,j,k,l 
+e,j 
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 18 
+canutus islandica) 
+ 
+Evidence supporting conclusions: 
+ 
+a. Section 1.3.8 and Section 1.4.1 of the No Significant Effects Report states that the embedded mitigation for construction (to 
+be secured under the Construction Environmental Management Plan (CEMP)) will include measures to control pollution, 
+storage of potential pollutants, and precautionary measures will help to limit the likelihood and effects of pollution incidents 
+and/or runoff in line with best practice and guidelines. The drainage strategy for the Project Site will include filter drains / 
+swales or oil interceptors as necessary to remove pollutants and all necessary treatment will take place within the Project 
+Site before it is discharged to the existing watercourses. There are deemed to be no Likely Significant Effects on the features 
+as a result of pollution and/or runoff generated during construction.  
+b. Section 1.3.7 and Section 1.4.1 of the No Significant Effects Report states that during construction and operational 
+maintenance temporary toilets with appropriate foul waste facility will be in place and all foul waste generated during this 
+period will be taken off-site for disposal at appropriate facilities. No impact on water receptors is expected and there are 
+deemed to be no Likely Significant Effects on the features as a result of wastewater generated during construction and 
+operational maintenance. 
+c. There is a hydrological connection between the Project Site and Burry Inlet Ramsar via the Afon Llan. Leaving the Project 
+Site, the Afon Llan flows for approximately 12 km before reaching the Afon Lliw and flowing into the Natura 2000 site.  
+Sections 1.3.5 and 1.4.2 of the No Significant Effects Report state that the drainage strategy has considered the use of 
+either septic tanks within the site or a package sewage treatment plants for foul effluent. However, package treatment 
+plants are the preferred option, subject to detailed design following completion of ground investigations.  
+Due to the small quantity of foul water generated during operation, it is anticipated that treated water can be discharged via 
+infiltration (soakaway) on site. The foul water drainage system will be positioned to minimise the risk of inundation by 
+floodwaters.  
+Where there is an inadequate unsaturated zone beneath the site, the option of discharging to local watercourses will be 
+adopted. Any discharges will be subject to the Environmental Permitting Regulations and will meet quality criteria set by 
+NRW.  
+Chapter 9 (Water Quality and Flood Risk) of the Environmental Statement (Abergelli Power Project Environmental 
+Statement, AECOM, 2018) states that given the quantity of treated wastewater likely to be generated from the packaged 
+sewage treatment plant and dilution properties of the receiving receptors, the magnitude of pollution impacts from 
+discharges is considered to be Negligible.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 19 
+There are deemed to be no Likely Significant Effects associated with wastewater discharges resulting from the operation of 
+the Project on the designated site features.  
+d. Sections 1.1.17 – 1.1.19 detail the decommissioning phase of the Project. Section 1.3.9 states that potential effects on 
+water quality during decommissioning are likely to be the same as for construction and will be controlled similarly. There are 
+considered to be no Likely Significant Effects associated with water quality resulting from the decommissioning phase of the 
+Project. 
+e. Table 1-8 provides a list pf projects that have the potential to act in combination with the Project. Table 1-12 provides the 
+results of a screening exercise for each of the projects to demonstrate that the effects from the Project acting in-
+combination with the projects are not significant. The Table briefly summarises the level of data or information available in 
+relation to each project, which in all cases is limited.  
+f. Section 1.5.3 of the No Significant Effects Report states that there are no inputs during construction in relation to water 
+quality from the Project that can act in combination with other projects, this is likely the same for decommissioning.  
+g. Section 1.5.4 of the No Significant Effects Report states that the inputs from Project wastewater discharges during operation 
+are likely to be so small as to be within the natural daily fluctuations of the nutrient levels within Burry Inlet Ramsar and 
+therefore immeasurable in-combination with other projects. There is considered to be no Likely Significant Effect as a result 
+of wastewater discharges from the Project acting in-combination with wastewater discharges from other projects. 
+h. Section 1.3.10 states that there are no roads within 200 m of any Natura 2000 site that are forecast to receive anything 
+other than a nominal short term change in vehicle flows as a result of the construction and operation of the Project. 
+Transport related emissions are most relevant to sites within 200 m of a major road. The Design Manual for Roads and 
+Bridges (DMRB) identifies 200 m as the distance beyond which the contribution of traffic emissions to local pollutant 
+concentrations is considered to be negligible. There are considered to be no Likely Significant Effects associated with traffic 
+emissions related air quality as a result of the construction or operation phases of the Project.  
+i. Potential effects of traffic related emissions during decommissioning are likely to be the same as for construction. There are 
+considered to be no Likely Significant Effects associated with traffic emission related air quality resulting from the 
+decommissioning phase of the Project.  
+j. Sections 1.5.6 – 1.5.8 state there will be extremely low traffic flows expected as part of the construction and operation of 
+the Project, and the operational traffic flows from the Project will not make a significant contribution to any in-combination 
+effects and will be within the average daily variations of traffic flows. A number of projects are likely to contribute to local 
+pollutant concentrations through traffic emissions - using M4 Junction 46 and the B4489. However, there are no Natura 
+2000 sites located within 200 m of these locations.  This is likely to be the same for decommissioning. There is no 
+opportunity for a Likely Significant Effect as a result of traffic emissions from the Project acting in-combination with traffic 
+emissions from other projects.  
+HRA Screening Matrices for Abergelli Power Project 
+ 
+ 
+Appendix 1 Screening Matrices 
+Page 20 
+k. Table 1-6, Table 1-7, Table 1-9, Table 1-10 and Table 1-11 of the No Significant Effects report show the potential effects of 
+NOx, nitrogen and nitrogen acidity on the most sensitive habitat on which a receptor of Burry Inlet Ramsar is reliant. Section 
+1.4.6 – 1.4.7 states that the process contributions are extremely small for nitrogen (<0.01kgN/ha/yr) and the current 
+background levels for nitrogen are within the critical loads for the most sensitive receptor at the site the increase is 
+concluded not to have a LSE on the site. Section 1.4.15 states that the process contribution for nitrogen acidity deposition is 
+so low (<0.01keqH+/ha/yr) that it will not cause an exceedance of the critical load for nitrogen acidity at the site.  
+l. Table 1-8 and Sections 1.5.9 – 1.5.11 provide a summary of the projects and plans provided by the local authority for an in-
+combination assessment. One project that was refused planning has point source emissions; the promoter has stated they 
+do not intend to resubmit the application or to appeal against the refusal. There is a point source emitter within the Local 
+Development Plan; however there is no information on the plan since it is a preferred location only and as such it is not 
+possible to obtain air quality data. It is concluded that there are no point source emitters that would contribute to an in-
+combination effect with the emissions from the proposed Project.  
+ 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+AECOM 
+1-37 
+Appendix C HRA Cumulative Assessment Screening Table 1-12 
+Projects considered for the in-combination assessment are presented in Table 1-8.  The following table (Table 1-12) provides the results of a screening exercise for each of the projects to demonstrate 
+that the effects from the Project acting in-combination with the projects are not significant. The Table summarises the level of data or information available in relation to each project, which in all cases 
+is limited. On the basis of the information available, using professional judgment and adopting the precautionary principle, it is considered that the screening exercise is robust.  
+Table 1-12: Screening of Developments Considered in the Cumulative Assessment 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+Under Construction 
+1 
+Felindre Business 
+Park 
+Business park The aim of the Park is to home 
+high-tech 
+manufacturers, 
+and 
+research 
+and 
+technology 
+industries.  
+Submission indicated that reserved 
+matters for the building plots would 
+be sought within 10 years of 
+consent, i.e. by mid-2021 – there 
+have been no further submissions 
+yet.   
+Landscaping of the 61 ha site has 
+been completed to schedule.  The 
+site includes 4 km of foul and 
+storm drains, to prevent transport 
+of pollutants. 
+Remediation of the former tinplate 
+works occurred between 1998 and 
+1999.  
+There is limited 
+information 
+available on the 
+City and County 
+of Swansea 
+(CCS) planning 
+portal.  
+0.9 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access. 
+No 
+During construction there 
+is likely to be an increase 
+in air emissions due to 
+increase 
+in 
+vehicle 
+movements. 
+During operation, there 
+is likely to be an increase 
+in air emissions from 
+commercial 
+and
+industrial sources and 
+operational traffic.  
+Potential 
+discharges 
+during 
+construction, which 
+has been ongoing 
+for over 5 years.  
+Business Park site is in close 
+proximity to Project Site. 
+Landscaping 
+and 
+main 
+earthworks have already been
+completed; however no buildings 
+have been constructed. 
+The construction date of the 
+building plots is unknown. 
+The Park is located more than 
+5km from the boundary of any 
+European designated site. At 
+such distances localised effects 
+(including operation emissions) 
+associated 
+with 
+proximity 
+of 
+development are unlikely. 
+Emissions 
+(from 
+plant) 
+and 
+discharge will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+2 
+Abergelli 
+Solar 
+Farm 
+Solar farm 
+Approximately 
+37,000 
+panels, 
+spaced 7 m apart, will be fixed at a 
+height of 3 m above ground. The 
+development is not predicted to 
+have any adverse effects on the 
+surrounding habitats or landscape, 
+and the site will retain its public 
+access. The project is predicted to 
+have a 3 to 4 month construction 
+period. The site will be drained 
+using a SuDS system.  
+There is limited 
+information 
+available on the 
+CCS planning 
+portal. 
+0.2 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access. 
+No 
+Construction has already 
+occurred; therefore there 
+will be no emissions 
+through this period.  
+During operation, it is 
+unlikely that there will be 
+air emissions due to the 
+nature 
+of 
+the 
+development. 
+Construction 
+has 
+already 
+occurred; 
+therefore there will 
+be 
+no 
+further 
+discharges in this 
+respect.    
+During operation, it 
+is 
+unlikely 
+that 
+there 
+will 
+be 
+discharges due to 
+the nature of the 
+development. 
+The 
+solar 
+farm 
+is 
+already 
+constructed therefore no LSE 
+during construction, 
+No 
+LSE 
+anticipated 
+during
+operation due to the nature of 
+development. 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-38 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+3 
+Cefn 
+Betingau 
+Phase 1, Morriston 
+Solar farm 
+Approximately 40,000 panels will 
+be fixed at a height of 3.5 m above 
+ground. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal. 
+0.7 
+Likely to use 
+different M4 
+junction (Junction 
+45). 
+No 
+Construction has already 
+occurred; therefore there 
+will be no emissions 
+through this period.  
+During operation, it is 
+unlikely that there will be 
+air emissions due to the 
+nature 
+of 
+the 
+development. 
+Construction 
+has 
+already 
+occurred; 
+therefore there will 
+be no discharges in 
+this respect.   
+During operation, it 
+is 
+unlikely 
+that 
+there 
+will 
+be 
+discharges due to 
+the nature of the 
+development. 
+The 
+solar 
+farm 
+is 
+already 
+constructed therefore no LSE 
+during construction. 
+No 
+LSE 
+anticipated 
+from 
+emissions during operation due to 
+the nature of development. 
+Any discharges during operation 
+will 
+be 
+controlled 
+via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+4 
+Gelliwern 
+Isaf 
+Solar Park  
+Solar farm 
+Series of solar power units, with an 
+approximate 5 MW output.  
+There is limited 
+information 
+available on the 
+CCS planning 
+portal. 
+2.0 
+Likely to use 
+different M4 
+junction (Junction 
+47). 
+No 
+Construction has already 
+occurred; therefore there 
+will be no emissions 
+through this period.  
+During operation, it is 
+unlikely that there will be 
+air emissions due to the 
+nature 
+of 
+the 
+development. 
+Construction 
+has 
+already 
+occurred; 
+therefore there will 
+be no discharges in 
+this respect.  
+During operation, it 
+is 
+unlikely 
+that 
+there 
+will 
+be 
+discharges due to 
+the nature of the 
+development. 
+The 
+solar 
+farm 
+is 
+already 
+constructed therefore no LSE 
+during construction. 
+No 
+LSE 
+anticipated 
+from 
+emissions during operation due to 
+the nature of development. 
+Any discharges during operation 
+will 
+be 
+controlled 
+via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+5 
+Brynwhilach Solar 
+Park 
+Solar farm 
+Series of solar power units, with an 
+approximate 
+12.7 
+MW 
+output. 
+Construction of the first phase took 
+place between December 2016 
+and March 2017. The second 
+phase of the solar farm on the 
+western half of the site is due to be 
+built at a later date. 
+Pre-commencement 
+conditions 
+discharged 
+and 
+non-material 
+amendments approved in early 
+2017 
+– 
+submitted 
+documents 
+indicate 
+development 
+will 
+be 
+complete by mid/late-2018. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.3 
+Likely to use the 
+M4 Junction 46 
+and B4489. 
+Likely to use the 
+same 
+construction 
+access. 
+No 
+During construction of 
+the second phase, there 
+is likely to be an increase 
+in air emissions due to 
+traffic. This is predicted 
+to 
+be 
+complete 
+by 
+mid/late 2018 therefore 
+this will not overlap with 
+the Project. 
+During operation, it is 
+unlikely that there will be 
+air emissions due to the 
+nature 
+of 
+the 
+development.   
+During operation, it 
+is 
+unlikely 
+that 
+there will be any 
+discharges due to 
+the nature of the 
+development. 
+The 
+solar 
+farm 
+is 
+already 
+constructed therefore no LSE 
+during construction. 
+No 
+LSE 
+anticipated 
+from 
+emissions during operation due to 
+the nature of development. 
+Any discharges during operation 
+will 
+be 
+controlled 
+via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+6 
+Former 
+J 
+R 
+Steelworks, 
+Bryntywod 
+(Griffiths 
+Waste 
+Management) 
+Waste 
+management 
+facilities 
+Plant 
+and 
+materials 
+recycling 
+facility, 
+located 
+on 
+a 
+former 
+steelworks 
+site. 
+Development 
+originally 
+completed 
+in 
+2013 
+though recent approval sought 
+minor amendments. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+1.6 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction  
+No 
+There 
+may 
+be 
+an 
+increase in vehicles and 
+emissions 
+during 
+construction 
+and 
+operation. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+The Former J R Steelworks is 
+over 1.6 km from the Project Site 
+therefore there are unlikely to be 
+significant 
+in-combination 
+emissions from the Project Site.
+The minor amendments to the 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-39 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+access 
+waste facility are not anticipated 
+to be major works.  
+Any emissions or discharges will 
+be controlled via the appropriate 
+Environmental Permit, regulated 
+by NRW. 
+7 
+Mynydd y Gwair 
+Wind Farm 
+Wind farm 
+An onshore wind farm, consisting 
+of 16 turbines, with an installed 
+capacity of 33.6 MW.  Construction 
+is currently ongoing.  
+Commenced 
+in 
+Feb 
+2017. 
+Approved 
+Construction 
+Management Statement indicates 
+2 year construction phase. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+7.2 
+Likely to use 
+different M4 
+junction (Junction 
+45), or the A483 
+No 
+There 
+may 
+be 
+an 
+increase in vehicles and 
+emissions 
+during 
+construction.   
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction. 
+Due to the nature 
+of the project, there 
+will 
+also 
+be 
+no 
+discharges 
+to 
+watercourses 
+and 
+limited traffic during 
+operation. 
+The project is located over 7.2 km 
+away from the Project Site, 
+therefore localised effects from 
+transport is unlikely to occur. 
+Construction of the wind farm is 
+also likely to be complete before 
+the construction of the Project; 
+therefore no cumulative effects 
+are anticipated. 
+Scoped 
+Out 
+8 
+Parc 
+Ceirw, 
+Cwmrhydyceirw 
+Quarry, Swansea 
+Housing 
+development 
+Proposed 250 to 300 residential 
+properties, 
+within 
+a 
+site 
+of 
+approximately 14 ha.  The site was 
+formerly an old quarry. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+1.7 
+Likely to use 
+either different 
+M4 junction 
+(Junction 45), or 
+M4 Junction 46 
+(southern exit) 
+No 
+During construction and 
+operation, there is likely 
+to be an increase in 
+vehicles and emissions. 
+. 
+ 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Due to the distance of the Project 
+Site 
+from 
+the 
+Parc 
+Ceirw 
+development, and that the sites 
+are separated by the M4 with 
+different access routes, there will 
+be 
+no 
+shared 
+receptors 
+or 
+cumulative effects. 
+Any emissions or discharges will 
+be controlled via the appropriate 
+Environmental Permit, regulated 
+by NRW. 
+Scoped 
+Out 
+Permitted but not Implemented 
+9 
+Tyle Coch Mawr 
+Wind Farm  
+Wind farm 
+Installation of four 5 kW turbines. 
+Permission expires on 07/11/18. 
+No condition details submitted yet 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+5.0 
+Likely to use 
+either the M4 
+Junction 46, or 
+the A483 
+No 
+There 
+may 
+be 
+an 
+increase in vehicles and 
+emissions 
+during 
+construction.  
+Due to the nature of the 
+project, 
+there 
+is 
+not 
+anticipated to be any 
+significant 
+emissions 
+during operation 
+ 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction. 
+Due to the nature 
+of the project, there 
+is not anticipated to 
+be any significant 
+discharges 
+to 
+watercourses 
+during operation. 
+Due to the distance of the Project 
+Site from the Tyle Coch Mawr
+development, and that the sites 
+will use different access routes, 
+there will be no shared receptors 
+or cumulative effects. 
+Any emissions or discharges will 
+be controlled via the appropriate 
+Environmental Permit, regulated 
+by NRW. 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-40 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+10 
+Felindre Business 
+Park  
+Business park Construction of park and ride/share 
+car 
+park 
+(approximately 
+480 
+spaces) with new vehicular access, 
+security office, toilet, engineering 
+and associated works, including 
+lighting, 
+fencing, 
+drainage 
+attenuation and landscaping. 
+Permission expires on 02/07/19. 
+No condition details submitted yet. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.9 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+During 
+construction, 
+there is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+ 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project.  
+Any discharges will be controlled
+via the appropriate Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+11 
+Llettyr Morfil Farm 
+Solar Park 
+Series of solar power units, with an 
+approximate 5 MW output. 
+Most pre-commencement details 
+approved in July 2017. Approved 
+Construction Method Statement 
+states 
+16-week 
+construction 
+period. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.2 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+During 
+construction, 
+there is likely to be an 
+increase in air emissions 
+from construction traffic. 
+During operation, it is 
+unlikely that there will be 
+air emissions due to the 
+nature 
+of 
+the 
+development.   
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction. 
+Due to the nature 
+of the project, there 
+is not anticipated to 
+be any significant 
+discharges 
+to 
+watercourses 
+during operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project and only for 16 weeks, 
+compared to the Projects 22 
+month construction phase.  
+Any discharges will be controlled
+via the appropriate Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+12 
+Plot 
+8 
+Felindre 
+Strategic Business 
+Park 
+Business park Two/three storey private hospital 
+development 
+with 
+associated 
+landscaping, site roads and car 
+parking. 
+Permission expires on 15/05/20. 
+Some pre-commencement details 
+approved in July 2016; others 
+outstanding. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.9 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. Plot is 
+relatively small (one plot 
+of the Felindre Business 
+Park) 
+and 
+associated 
+traffic, air pollution, and 
+discharges 
+will 
+be 
+minimal.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project.  
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+13 
+Griffiths 
+Waste 
+Management Site, 
+Bryntywod 
+Llangyfelach 
+Swansea SA5 7LP 
+Waste 
+management 
+facilities 
+Second part of the Former J R 
+Steelworks’ site. Demolition of 
+existing waste management facility 
+buildings 
+and 
+construction 
+of 
+replacement 
+buildings 
+and 
+associated 
+infrastructure. 
+Permission expires on 21/09/21. 
+Pre-commencement 
+details 
+approved in May 2017 
+ 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+1.3 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project.  
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+14 
+Former 
+Walters 
+Yard 
+Pontlliw 
+Housing 
+Construction 
+of 
+67 
+residential 
+dwellings on a site of 2.2 ha. 
+There is limited 
+information 
+2.8 
+Likely to use 
+different M4 
+No 
+There is likely to be an 
+increase in air emissions 
+There may be an 
+increase 
+in 
+This site and the Project will use 
+different access routes; therefore 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-41 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+Swansea 
+development 
+Development 
+of 
+associated 
+access, 
+roads, 
+parking, 
+open 
+space, and demolition of existing 
+buildings.  
+Permission expires on 21/09/21. 
+Pre-commencement 
+details 
+approved in May 2017 
+available on the 
+CCS planning 
+portal.  
+junction (Junction 
+47) 
+from construction and 
+operational traffic.  
+discharges 
+during 
+construction 
+and 
+operation. 
+there will be no shared receptors 
+or cumulative effects. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Submitted but not Determined 
+15 
+Land at Llewellyn 
+Road, Penllergaer 
+Housing 
+development 
+Outline 
+application 
+for 
+the 
+construction of 200 residential 
+dwellings 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.4 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project sites will 
+use 
+different 
+access 
+routes; 
+therefore there will be no shared 
+receptors or cumulative effects. 
+Scoped 
+Out 
+16 
+Royal 
+Fern 
+Golf 
+Resort 
+Recreational 
+development 
+Application of a high quality leisure 
+and visitor facilities, within a 150 
+ha site.  
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.0 
+Likely to use the 
+M4 Junction 46 
+(southern exit) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+The development is a significant 
+distance away and separated by 
+the M4. As such, any cumulative 
+effects on air quality or effluent 
+discharges during construction 
+and operation are unlikely. 
+Scoped 
+Out 
+17 
+Land 
+West 
+Of 
+Llangyfelach Road 
+Tirdeunaw 
+Housing 
+development 
+Outline planning application for the 
+construction of 1950 dwellings. 
+These 
+will 
+be 
+constructed 
+in 
+phases. 
+Development 
+of 
+associated 
+access, 
+a 
+primary 
+school, 
+roads, 
+parking, 
+open 
+space, and demolition of existing 
+buildings. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+2.9 
+Likely to use the 
+M4 Junction 46 
+(southern exit) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+The development is a significant 
+distance away and separated by 
+the M4. As such, any cumulative 
+effects on air quality or effluent 
+discharges during construction 
+and operation are unlikely. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+Scoped 
+Out 
+18 
+Land 
+North 
+Of 
+Garden 
+Village 
+Swansea 
+Housing 
+development 
+Outline planning application for the 
+construction 
+of 
+750 
+dwellings. 
+These 
+will 
+be 
+constructed 
+in 
+phases. 
+Development 
+of 
+associated 
+access, 
+a 
+primary 
+school, 
+roads, 
+parking, 
+open 
+space, and demolition of existing 
+buildings. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+5.2 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes; therefore 
+there will be no shared receptors 
+or cumulative effects. 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-42 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+19 
+Former 
+Civic 
+Centre Penllergaer 
+Swansea SA4 9GH 
+Housing 
+development 
+Application or the construction of 
+80 residential dwellings.  
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+2.4 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Both of these sites will use 
+different access routes, therefore 
+there will be no shared receptors 
+or cumulative effects. 
+Scoped 
+Out 
+Identified / Allocated (but not referenced above) 
+20 
+Swansea 
+Vale 
+Strategic 
+Mixed-
+Use Site 
+Business park 25 ha allocated employment land 
+ 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.0 
+Likely to use 
+different M4 
+junction (Junction 
+20) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Both the Swansea Vale and the 
+Project will use different access 
+routes, therefore there will be no 
+shared receptors or cumulative 
+effects. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage.         
+Scoped 
+Out 
+21 
+Land at Bryntywod, 
+Felindre 
+(Local 
+Employment Site) 
+Business park 15.8 ha allocated employment land 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.6 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. This is 
+also 
+an 
+allocated 
+site 
+with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage.         
+ 
+Scoped 
+Out 
+22 
+Penllergaer 
+Business 
+Park 
+(Local Employment 
+Site) 
+Business park 8.2 ha allocated employment land 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+2.0 
+Likely to use 
+different M4 
+junction (Junction 
+48) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes; therefore 
+there will be no shared receptors 
+or cumulative effects. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage.         
+Scoped 
+Out 
+23 
+West of Morriston Hospital 
+Space 
+allocated 
+for 
+hospital There is limited 
+information 
+1.0 
+Likely 
+to 
+use 
+different 
+M4 
+No 
+There is likely to be an 
+increase in air emissions 
+There may be an 
+increase 
+in 
+This site and the Project will use 
+different access routes; therefore 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-43 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+Hospital 
+development 
+expansion related activities 
+available on the 
+CCS planning 
+portal.  
+junction 
+from construction and 
+operational traffic.  
+discharges 
+during 
+construction 
+and 
+operation. 
+there will be no shared receptors 
+or cumulative effects. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage.       
+24 
+Northwest of M4 
+J46, Llangyfelach 
+Housing 
+development 
+Residential 
+and 
+mixed-use 
+development of approximately 850 
+houses, 
+plus 
+associated 
+development, including a primary 
+school, leisure and recreational 
+facilities, 
+open 
+space, 
+and 
+community facilities.  
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+1.0 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project. Emissions (from any 
+plant) and discharges will be 
+controlled via the appropriate 
+Environmental Permit, regulated 
+by NRW. This is also an allocated 
+site with aspirational development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage.         
+Scoped 
+Out 
+25 
+South of Glanffrwd 
+Road, 
+Pontarddulais 
+Housing 
+development 
+Residential 
+and 
+mixed-use 
+development of approximately 720 
+houses, 
+plus 
+associated 
+development, including a primary 
+school, leisure and recreational 
+facilities, 
+open 
+space, 
+and 
+community facilities.  
+It is predicted that 486 residential 
+dwellings 
+will 
+be 
+constructed 
+between 2020 to 2025. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+6.0 
+Likely to use 
+different M4 
+junction (Junction 
+48) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes; therefore 
+there will be no shared receptors 
+or cumulative effects. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+26 
+South of A4240, 
+Penllergaer 
+Housing 
+development 
+Residential 
+and 
+mixed-use 
+development 
+of 
+approximately 
+750,000 houses, plus associated 
+development, including a primary 
+school, leisure and recreational 
+facilities, 
+open 
+space, 
+and 
+community facilities.  
+It is predicted that 644 residential 
+dwellings 
+will 
+be 
+constructed 
+between 2019 to 2025. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.5 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes; therefore 
+there will be no shared receptors 
+or cumulative effects. Emissions 
+(from any plant) and discharges
+will 
+be 
+controlled 
+via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-44 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+reasonably foreseeable to assess 
+at this stage. 
+27 
+North of Clasemont 
+Road, Morriston 
+Housing 
+development 
+Residential 
+and 
+mixed-use 
+development 
+of 
+approximately 
+675,000 houses, plus associated 
+development, including a primary 
+school, leisure and recreational 
+facilities, 
+open 
+space, 
+and 
+community facilities.  
+It is predicted that 490 residential 
+dwellings 
+will 
+be 
+constructed 
+between 2020 to 2025. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+1.7 
+Likely to use the 
+M4 Junction 46 
+(southern exit) 
+No 
+During 
+construction, 
+there is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+The development is a significant 
+distance away, and is separated 
+from the Site by the M4. As such, 
+the cumulative air quality, effluent 
+discharges, traffic impacts during 
+construction and operation are 
+unlikely. 
+Both of these sites will use 
+different access routes, therefore 
+there will be no shared receptors 
+or cumulative effects. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+28 
+Morriston Hospital 
+Hospital 
+development 
+Space allocated for future hospital 
+expansion related activities 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.5 
+Likely to use 
+different M4 
+junction (Junction 
+45) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes; therefore 
+there will be no shared receptors 
+or cumulative effects. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. This is 
+also 
+an 
+allocated 
+site 
+with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+29 
+Former Tip Site, 
+Felindre 
+Waste 
+management 
+facilities 
+Preferred area for the new waste 
+management facilities. The site is a 
+former tip site. The site has also 
+been identified as a potential 
+location for a combined Heat and 
+Power (CHP) Facilities. 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+0.4 
+Likely to use the 
+M4 Junction 46 
+and B4489 
+Likely to use the 
+same 
+construction 
+access 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+Increased traffic is likely to be 
+contained to peak times of use 
+which 
+may 
+differ 
+from 
+construction 
+traffic 
+from 
+the 
+Project. Emissions (from any
+plant) and discharges will be 
+controlled via the appropriate 
+Environmental Permit, regulated 
+by NRW. This is also an allocated 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-45 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+site with aspirational development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+30 
+Land at Ramsey 
+Road, Clydach 
+Housing 
+development 
+Outline 
+application 
+for 
+the 
+construction 
+of 
+60 
+residential 
+dwellings 
+Construction Start 2020/21 
+Construction Complete 2021/22 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.3 
+Likely to use 
+different M4 
+junction (Junction 
+45) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes, and are a 
+significant distance from one 
+another; therefore there will be no 
+shared receptors or cumulative 
+effects. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. This is 
+also 
+an 
+allocated 
+site 
+with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+31 
+Land 
+east 
+of 
+Pontarddulais 
+Road, Gorseinon 
+Housing 
+development 
+Space allocated for residential 
+dwellings.  
+Construction Start 2023/24 
+Construction Complete 2025/26 
+ 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+5.1 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes, and are a 
+significant distance from one 
+another; therefore there will be no 
+shared receptors or cumulative 
+effects. 
+Emissions (from any plant) and 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. The 
+construction 
+phases 
+of 
+the 
+housing development and the 
+Project are unlikely to overlap 
+therefore no cumulative effects 
+are likely. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+32 
+Land 
+at 
+Carmel 
+Road 
+and 
+Bryntirion 
+Road, 
+Pontlliw 
+Housing 
+development 
+Outline 
+application 
+for 
+the 
+construction 
+of 
+90 
+residential 
+dwellings 
+Construction Start 2019/20 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.1 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes, and are a 
+significant distance from one 
+another; therefore there will be no 
+shared receptors or cumulative 
+Scoped 
+Out 
+ Abergelli Power Project No Significant Effects Report 
+Prepared for: Abergelli Power Limted 
+ 
+AECOM 
+1-46 
+ 
+Location Development 
+Name 
+Type of 
+Development 
+Available Information  
+Documents / 
+Reports 
+available 
+online? 
+Proximity 
+to Site 
+(km) 
+Likely to use 
+same 
+construction 
+access route 
+(M4  Junction 
+46, and B4489) 
+ 
+Green = no 
+cumulative 
+effects 
+anticipated 
+New roads 
+within 
+200m of a 
+European 
+Site? 
+Emissions 
+Discharges 
+Likely Significant Effect? 
+Construction Complete 2022/23 
+effects. 
+Emissions (from plant) and any 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage.  
+33 
+Land 
+north 
+of 
+Llewellyn 
+Road, 
+Penllergaer 
+Housing 
+development 
+Space allocated for residential 
+dwellings.  
+Construction Start 2023/24 
+Construction Complete 2024/25 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+3.7 
+Likely to use 
+different M4 
+junction (Junction 
+47) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic.  
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes, and are a 
+significant distance from one 
+another; therefore there will be no 
+shared receptors or cumulative 
+effects. 
+Emissions (from plant) and any 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+34 
+Land at Bolgoed 
+Road, 
+Pontarddulais 
+Housing 
+development 
+Outline 
+application 
+for 
+the 
+construction of 100 residential 
+dwellings 
+Construction Start 2019/20 
+Construction Complete 2020/21 
+There is limited 
+information 
+available on the 
+CCS planning 
+portal.  
+4.8 
+Likely to use 
+different M4 
+junction (Junction 
+48) 
+No 
+There is likely to be an 
+increase in air emissions 
+from construction and 
+operational traffic. . 
+ 
+There may be an 
+increase 
+in 
+discharges 
+during 
+construction 
+and 
+operation. 
+This site and the Project will use 
+different access routes, and are a 
+significant distance from one 
+another; therefore there will be no 
+shared receptors or cumulative 
+effects. 
+Emissions (from plant) and any 
+discharges will be controlled via 
+the 
+appropriate 
+Environmental 
+Permit, regulated by NRW. 
+This is also an allocated site with 
+aspirational 
+development 
+opportunities 
+which 
+are 
+not 
+reasonably foreseeable to assess 
+at this stage. 
+Scoped 
+Out 
+ 
