@@ -1,0 +1,572 @@
+Remote Access  Honeywell
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+Remote
+Access
+Menu
+Overview
+Public Key Infrastructure
+Troubleshooting
+User Guides
+Software Downloads
+Restricted DSES Access
+FAQs
+Quick Links
+Step 1: Request Service
+Note: You must be connected to the Honeywell Network to request a Remote Access account.
+Click here to start your request.
+Step 2: Request Digital Certificate
+A Digital Certificate is required to securely connect to Remote Access.
+Go to Request Digital Certificate tab to start your request.
+Step 3: Download Software
+Select software by region and type of Internet connection.
+Go to Download Software tab to start the download.
+Configure Secure Remote Access
+Instructions for Windows OS click here
+Configure Secure Email
+Instructions for Windows OS and Mac OS click here
+Forgot HRA / VPN Password
+Click here to set your HRA / VPN Password
+HRA_Installation (Honeywell Machines)
+HRA_Installation (Non - Honeywell Machines)
+HRA_Supported Antivirus and Firewall
+Request New HRA Account
+HRA_Certificate Validation Failure
+HRA_Connectivity Guide for Aircard Connections
+HRA_Connectivity Guide for Wi-Fi/Wireless Connections
+HRA_Connectivity Guide for Wired Connections
+SSL Clientless Issue
+USER GUIDES
+User Guide - Connect to other Regional VPN Gateways
+User Guide - VPN Global Profile update
+HRA Software Downloads (Unzip the Package and Install)
+Note: Honeywell Remote Access Users are not authorized to install this on personal equipment.
+Download Remote access NAM configuration.xml (Windows OS)
+Download SWD Cisco AnyConnect Registry Cleanup (Windows OS)
+Download SWD Cisco AnyConnect Network Adapter (Windows OS)
+Download Remote Access Software (Raw Module)
+Download Remote Access Software (Windows OS)
+Download Remote Access Software (Mac OS)
+Download Remote Access Software (Linux OS)
+HRA Global Profiles
+Manual HRA Profile Installation Instruction (Please read before installing profile)
+Global AnyConnect Profile (Window OS)
+Requesting Restricted/Special DSES Access
+New Request
+Submit an HRA Request for processing click here.
+Access Type: Select Restricted/Special from the drop-down box.
+Access Group Name: Select from drop-down.
+NOTE:
+Honeywell employees select dses.
+Contract Service Workers (subcontractors) select dses_contractors.
+To move existing account to restricted/special dses group or dses_contractors group
+Send an email to HRASupport outlined below
+If you are a Honeywell employee requesting that your existing Honeywell remote access account be moved to the restricted/special dses group, send email to HRASupport copy AEROG&CInformationAssurance. Include your EID, brief business justification, and country of citizenship.
+If you are a subcontractor (Contract Service Worker) for Honeywell (example: IBM, Manpower, Labor Lynx) requesting your existing remote access account be moved to the restricted/special dses_contractors group, send email to HRASupport, copy AEROG&CInformationAssurance. Include your Honeywell EID, brief business justification, name of the company you work for, and country of citizenship.
+GENERAL
+WHAT IS ANY CONNECT?
+Any Connect is the new Honeywell Remote Access [HRA] solutions VPN client that offers optimal gateway selection, integrated network access management including Wired Ethernet, Home/Public Wi-Fi, and Campus Wireless on the Enterprise2 WLAN.
+WHEN WILL ANY CONNECT BE ROLLED OUT?
+It will be automatically pushed out to all existing remote access users via Landesk in Q3/Q4 2011. All contractors, customers and vendors with remote access will be able to download the software.
+HOW IS IT DIFFERENT FROM HGRA/CHECKPOINT?
+Any Connect has significant functional and security enhancements from Checkpoint.
+No User Certificate configuration or Visitor mode required
+Utilizes the same ports as HTTPS for VPN which are open on most home and corporate networks
+Integrates a Network Access Manager instead of adding complexity with 3rd party software
+Enhanced Security and Diagnostic functions for more end point protection and troubleshooting functionality
+DOES ANY CONNECT SUPPORT WINDOWS 7?
+Any Connect will support the following versions of Windows Operating systems:
+Windows 7 x86 (32-bit) and x64 (64-bit)
+Windows Vista SP2 x86 (32-bit) and x64 (64-bit)
+Windows XP SP3 x86 (32-bit)
+IS THERE ANY CHANGE TO THE MONTHLY SUBSCRIPTION COST TO USE ANY CONNECT TO CONNECT TO WI-FI?
+There is no monthly subscription cost to use the Any Connect Network Access Manager to connect to Free Public Wi-Fi hotspots at coffee houses, restaurants, hotels and other locations. You will be able to use it to manage connections at fee based Wi-fi hotspots, but there will access charges per the terms of use for the location. [i.e. hotels without fee base Wi-Fi added to the room charge or which require a credit card]
+WHERE DO I GET HELP IF I ENCOUNTER PROBLEMS WITH THE NEW REMOTE ACCESS CLIENT?
+Please contact your nearest Honeywell Service desk. The service desk contact information can be found at Contact Us
+HOW DO I CANCEL MY REMOTE ACCESS SERVICE IF I DO NOT NEED IT ANYMORE?
+You can do so by sending an email to hrasupport@honeywell.com requesting service is stopped.
+DOES ANY CONNECT WORK ON MY 3G AIRCARD?
+Yes
+IF I DO NOT HAVE LANDESK AND MCAFEE ANTI VIRUS INSTALLED ON MY PC, WILL I BE ABLE TO USE ANY CONNECT TO ACCESS HON NETWORK?
+No. The client will check for those softwares acceptable by HON standards before you are allowed to access the network.
+IF MY DEFAULT REMOTE ACCESS GATEWAY IS DOWN, DO I NEED TO MANUALLY CHANGE IT ON MY CLIENT TO POINT IT TO ANOTHER GATEWAY?
+With the new HRA, you will be automatically re-routed to the next nearest remote access gateway
+INSTALLATION
+HOW DO I MANUALLY INSTALL THE ANY CONNECT SOFTWARE?
+The software requires Administrator rights to perform the install. If you have those permissions or have desktop support assistance, you can install the software from this. Honeywell employees without Administrator rights on their Honeywell Laptop can manually install the software package from the ESD [electronic software distribution site].
+HOW DO I KNOW ANY CONNECT IS INSTALLED?
+The AnyConnect software will be push via Landesk. As part of the process, the Checkpoint software[ gold key] will be deactivated and a new graphical user interface and icon will appear in your system tray. Below are illustrations of the system tray icons and several examples of what they mean:
+System tray icon indicating client components are operating correctly
+System tray icon indicating the VPN is connected.
+System tray icon alerting the user to a condition requiring attention or interaction. For example, a dialog about the user credentials.
+System tray icons that indicate one or more client components are transitioning between states (for example, when the VPN is connecting or when NAM is connecting). The three icon files display in succession, appearing to be a single icon bouncing from left to right.
+System tray icon will launch the user interface used to manage network connections and connect to the VPN gateway. Double click on the system tray icon and the Any Connect Client will launch. Note: AnyConnect does not display more than one icon at a time. The icon with the highest priority takes precedence.
+NETWORK ACCESS MANAGER
+IS IEEE 802.1X AVAILABLE IN CISCO ANYCONNECT?
+802.1X over Ethernet (802.3) and Wi-Fi (802.11) is available as a separate module in AnyConnect: the Network Access Manager. This separately loadable module will be installed as part of the install package for AnyConnect to perform 802.1X authentication.
+DOES CISCO ANYCONNECT SUPPORT WIRELESS CONNECTIVITY?
+Yes. The Network Access Manager associated with AnyConnect Version 3.0 and later supports wireless connectivity using a wireless network interface card.
+DOES CISCO ANYCONNECT SUPPORT DIALUP CONNECTIVITY?
+No. The Cisco software does not support dial-up connectivity. If you need dialup connectivity, please contact the remote access team at hrasupport@honeywell.comwith this requirement and we will review the connectivity options for dialup with you.
+DOES CISCO ANYCONNECT SUPPORT WPA2?
+Yes. The Network Access Manager in AnyConnect Version 3.0 and later supports WPA2; provided WPA2 is supported by the wireless network interface card.
+I UNDERSTAND THE ANYCONNECT NETWORK ACCESS MANAGER CAN BE USED TO PUT DIFFERENT USERS ON DIFFERENT VLANS ON MY WIRED NETWORK. CAN I ENCRYPT THAT DATA?
+Yes. The AnyConnect Network Access Manager supports 802.1AE, also known as MACsec, which encrypts traffic over the wired LAN.
+WHAT HARDWARE IS REQUIRED FOR MACSEC?
+There are no hardware requirements for MACsec on the local machine. If the network interface card does not support MACsec, the encryption is done on the main processor on the local computer. A MACsec-capable switch is required on the network side.
+CAN I USE THE ANYCONNECT NETWORK ACCESS MANAGER WITHOUT THE VPN FUNCTION?
+Yes. All of the components in the AnyConnect Secure Mobility Client can be used independently. If you are not using the AnyConnect VPN functionality, you can install the AnyConnect Secure Mobility Client so that functionality is not enabled.
+PUBLIC KEY INFRASTRUCTURE
+WHAT ARE THE PREREQUISITES FOR OBTAINING A PKI DIGITAL CERTIFICATE?
+Intranet / Internet access.
+Business partners must allow network traffic over ports 9100, 9101, and 9102.
+The Symantec PKI client must be installed on the PC (laptop / desktop).
+If you do not have a Honeywell-managed device, you will need Admin privileges for that device for installing the PKI Client software from the Symantec website.
+WHAT BROWSERS CAN I USE FOR ENROLLING FOR PKI CERTIFICATES?
+Most Honeywell standard browsers are supported. Please refer to the following list for specific details.
+Google Chrome is qualified by Symantec for certificate enrollment.
+Mozilla Firefox is qualified by Symantec for certificate enrollment.
+Internet Explorer:
+IE8: Not supported. Please use Google Chrome or Mozilla Firefox.
+IE9: Not Supported. Please use Google Chrome or Mozilla Firefox.
+IE10: Supported. End of support is October 2016
+IE11: Supported (new in PKI Service v2.1).
+Microsoft Edge has limited support in Win10 as of Jan 2016.
+WHY DOES GOOGLE CHROME SHOW A PROMPT ABOUT MANUALLY INSTALLING A MISSING COMPONENT?
+Google Chrome is qualified by Symantec for certificate enrollment. However, Chrome requires an extension before you can enroll for a PKI certificate. If the PKI client is installed but the Chrome extension is missing when you enroll for a PKI certificate, Chrome will prompt you for the missing component. If you are prompted because the Chrome extension is missing, the steps below describe how to enable the missing extension:
+Open Chrome and navigate to the tools pull-down menu to open the settings option.
+Click Tools > Extensions.
+Ensure the Symantec PKI Client Plugin Extension option is enabled.
+Close and re-open Chrome, then proceed to the certificate enrollment link to continue.
+WHY DO I GET A WHITE PANEL WHEN ENROLLING FOR A NEW CERTIFICATE IN INTERNET EXPLORER?
+Please use the Google Chrome browser instead of Internet Explorer. If Chrome is not already installed on your machine, you can download and install it from the Software Center (Start > All Programs > Microsoft System Center 2012 R2 > Software Center). After launching Chrome, you may be prompted to enable the PKI Client extension. If so, please accept.
+WHY DOES THE MESSAGE “SMART CARD NOT DETECTED” DISPLAY WHEN RENEWING MY PKI CERTIFICATE?
+Please use Google Chrome or Mozilla Firefox to enroll for PKI certificates. Both of these alternative standard browsers are available for download from the System Software Center store (Start > All Programs > Microsoft System Center 2012 R2 > Software Center).
+HOW DO I KNOW WHICH CERTIFICATE TO GET FOR THE DIFFERENT SERVICES OFFERED?
+For VPN (HRA AnyConnect remote) and Internal Honeywell Wi-Fi authentication certificates, enroll for the HON Private Identity certificate.
+For Secure Email, enroll for the HON Public Identity certificate. This certificate is used for sending and receiving encrypted and or digitally-signed email messages between internal employees, as well as external or third parties with compatible encryption capabilities.
+For electronic document signing (such as Adobe Acrobat files and others that are capable of allowing digital signing), enroll for the HON Adobe CDS Signing certificate. This certificate differs from the Email encryption certificate whereas it is provisioned to and stored on a smart card. You MUST have a FIPS 140-2 compatible card reader, smartcard token, and compatible software to successfully enroll and use this type of certificate.
+HOW OFTEN DO I NEED TO GET A NEW CERTIFICATE?
+All certificates are renewed every 3 years.
+HOW DO I RENEW MY CERTIFICATE PRIOR TO EXPIRATION AND WILL I BE NOTIFIED IN ADVANCE?
+Certificates are setup when the new computer is delivered. Certificates are configured to be active for 3 years. Because computers are typically replaced every 3 years, certificate renewal is generally not needed.
+However, in the case of some contractors, certificate renewal may be required. When that happens, a message will display on the computer, starting 30 days before the certificate expires. Click the link in the message to start the renewal. After completing the renewal, your certificate will automatically be issued to your PC and the renewal prompts will cease at that time.
+WILL I BE REQUIRED TO USE A PASSWORD FOR MY CERTIFICATES?
+Yes. The Honeywell standards require password protection for both compliance and security guidance. The password is actually what Symantec calls a PIN or the Symantec PKI Client PIN. This PIN must be at least 8 alpha-numeric characters and may include non-ASCII characters.
+While each certificate is “unlocked” separately, the PKI PIN is generated upon your initial certificate enrollment and will be the same for all certificates that are issued on the same device.
+CAN I CHANGE MY NEW PKI PIN (PASSWORD)?
+You do not have to change your PKI PIN, but you can. Use the Symantec PKI client < change="" pin=""> option. This will change the pin for all PKI certificates on the device.
+DO I HAVE TO CHANGE MY PKI PIN (PASSWORD)?
+No, you do not have to change your PKI PIN.
+WHAT HAPPENS IF I USE THE PKI PIN RESET OPTION IN THE SYMANTEC PKI CLIENT?
+The PKI PIN reset function is used if you have forgotten your PKI PIN. Only use this option if you cannot recall what your PKI PIN is as the reset function will actually remove your PKI certificate(s) from your PC and you will then browse to the PKI 2 website to re-enroll for all PKI 2 certificates and complete HRA or Outlook configuration steps.
+ARE THERE LANGUAGES OTHER THAN ENGLISH AVAILABLE FOR USE?
+Yes. While English is the standard global language at Honeywell, the Symantec PKI client offers limited language choices. The menu to change the language format to your choice is available in the initial certificate enrollment window of the PKI Certificate Service. Click on the dropdown button in the upper right-hand corner to change the default to your choice.
+ARE THE PKI CERTIFICATES EXPORTABLE FOR USE ON MULTIPLE PC’S (DEVICES) OR FOR BACKUP PURPOSES?
+No. Exporting the certificate is no longer an option in PKI service, for security and compliance purposes, as recommended by Honeywell Global Security and industry standards. Certificates are now effective for 36 months, rather than 12 months, making such exports largely unnecessary.
+While authentication certificates are not exportable, duplicate enrollment is allowed. Individuals whose role requires multiple devices can enroll for PKI certificates on each device.
+The Secure Email (encryption) certificates are NOT exportable, but duplicate enrollment is allowed by using the certificate enrollment process for use on multiple PC’s if needed. This option allows for one certificate managing all sent and received encrypted / signed messages from multiple devices using the same certificate.
+The Mobile Device Management team provisions certificates to your mobile device for you, eliminating the need for you to export certificates.
+IS THERE INFORMATION REGARDING MOBILE DEVICE MANAGEMENT RELATED TO PKI CERTIFICATES?
+Yes, please visit the links below for the specific device listed and the individual FAQs for each. Please connect to VPN to access these links:
+For all iOS devices browse to http://go.honeywell.com/Apple.
+For Samsung Android devices browse to http://go.honeywell.com/Samsung.
+For Windows Phone 8 devices browse to http://go.honeywell.com/WP8.
+WHY DOES THE MESSAGE “UNABLE TO LOCATE YOUR CERTIFICATE” APPEAR?
+This error message can occur while attempting to send or receive an encrypted email message. The message occurs because the PKI 2 HON Public Identity certificate on the device has not been provisioned and configured to your Microsoft Outlook email client on the device that received the error message. To resolve this issue:
+Navigate to the PKI 2 websites using the device where the error occurred.
+Click Step 2 to open the PKI 2 Secure Email (encryption) Standard End-User Guide.
+Follow all the steps in that document to provision the HON Public Identity certificate to your device and guide you through the Outlook Configuration steps.
+The steps above will enable your new certificate for use with encryption. If you have previously enrolled for the certificate from a different device, this process will simply download a copy of the current valid certificate, not provision a new certificate.
+If problems do continue, please contact the Honeywell Service Desk.
+WHAT DO I DO WHEN I RECEIVE THE ERROR MESSAGE “CERTIFICATE VALIDATION” ERROR WHEN ATTEMPTING TO CONNECT TO VPN?
+Please contact the Honeywell Service Desk.
+HOW TO I OBTAIN A COPY OF MY OLD PKI 1 EMAIL ENCRYPTION CERTIFICATE(S) FOR ACCESSING MY OLD ENCRYPTED EMAILS?
+Please call your local service desk to have a ticket opened with the appropriate PKI support group.
+HOW CAN I CHANGE THE OUTLOOK SIGNING AND ENCRYPTION HASH ALGORITHM SETTINGS FROM SHA1 TO SHA2?
+Please Click Here and go to page 3 for instructions to manually change the Outlook Security Settings.
+QUICK LINKS
+New approved antivirus list for HRA
+How to move HRA account to DSES group
+Adobe CDS
+ALERTS
+Security requirement for AnyConnect
+REMOTE ACCESS SUPPORT
+For all Remote Access related issues please contact the Honeywell IT Service desk. This is a 24/7 helpdesk however not all Remote Access issues are supported 24/7.
+Overview
+Step 1: Request Service
+Note: You must be connected to the Honeywell Network to request a Remote Access account.
+Click here to start your request.
+Step 2: Request Digital Certificate
+A Digital Certificate is required to securely connect to Remote Access.
+Go to Request Digital Certificate tab to start your request.
+Step 3: Download Software
+Select software by region and type of Internet connection.
+Go to Download Software tab to start the download.
+Public Key Infrastructure
+Configure Secure Remote Access
+Instructions for Windows OS click here
+Configure Secure Email
+Instructions for Windows OS and Mac OS click here
+Forgot HRA / VPN Password
+Click here to set your HRA / VPN Password
+Troubleshooting
+HRA_Installation (Honeywell Machines)
+HRA_Installation (Non - Honeywell Machines)
+HRA_Supported Antivirus and Firewall
+Request New HRA Account
+HRA_Certificate Validation Failure
+HRA_Connectivity Guide for Aircard Connections
+HRA_Connectivity Guide for Wi-Fi/Wireless Connections
+HRA_Connectivity Guide for Wired Connections
+SSL Clientless Issue
+User Guides
+USER GUIDES
+User Guide - Connect to other Regional VPN Gateways
+User Guide - VPN Global Profile update
+Software Downloads
+HRA Software Downloads (Unzip the Package and Install)
+Note: Honeywell Remote Access Users are not authorized to install this on personal equipment.
+Download Remote access NAM configuration.xml (Windows OS)
+Download SWD Cisco AnyConnect Registry Cleanup (Windows OS)
+Download SWD Cisco AnyConnect Network Adapter (Windows OS)
+Download Remote Access Software (Raw Module)
+Download Remote Access Software (Windows OS)
+Download Remote Access Software (Mac OS)
+Download Remote Access Software (Linux OS)
+HRA Global Profiles
+Manual HRA Profile Installation Instruction (Please read before installing profile)
+Global AnyConnect Profile (Window OS)
+Restricted DSES Access
+Requesting Restricted/Special DSES Access
+New Request
+Submit an HRA Request for processing click here.
+Access Type: Select Restricted/Special from the drop-down box.
+Access Group Name: Select from drop-down.
+NOTE:
+Honeywell employees select dses.
+Contract Service Workers (subcontractors) select dses_contractors.
+To move existing account to restricted/special dses group or dses_contractors group
+Send an email to HRASupport outlined below
+If you are a Honeywell employee requesting that your existing Honeywell remote access account be moved to the restricted/special dses group, send email to HRASupport copy AEROG&CInformationAssurance. Include your EID, brief business justification, and country of citizenship.
+If you are a subcontractor (Contract Service Worker) for Honeywell (example: IBM, Manpower, Labor Lynx) requesting your existing remote access account be moved to the restricted/special dses_contractors group, send email to HRASupport, copy AEROG&CInformationAssurance. Include your Honeywell EID, brief business justification, name of the company you work for, and country of citizenship.
+FAQs
+GENERAL
+WHAT IS ANY CONNECT?
+Any Connect is the new Honeywell Remote Access [HRA] solutions VPN client that offers optimal gateway selection, integrated network access management including Wired Ethernet, Home/Public Wi-Fi, and Campus Wireless on the Enterprise2 WLAN.
+WHEN WILL ANY CONNECT BE ROLLED OUT?
+It will be automatically pushed out to all existing remote access users via Landesk in Q3/Q4 2011. All contractors, customers and vendors with remote access will be able to download the software.
+HOW IS IT DIFFERENT FROM HGRA/CHECKPOINT?
+Any Connect has significant functional and security enhancements from Checkpoint.
+No User Certificate configuration or Visitor mode required
+Utilizes the same ports as HTTPS for VPN which are open on most home and corporate networks
+Integrates a Network Access Manager instead of adding complexity with 3rd party software
+Enhanced Security and Diagnostic functions for more end point protection and troubleshooting functionality
+DOES ANY CONNECT SUPPORT WINDOWS 7?
+Any Connect will support the following versions of Windows Operating systems:
+Windows 7 x86 (32-bit) and x64 (64-bit)
+Windows Vista SP2 x86 (32-bit) and x64 (64-bit)
+Windows XP SP3 x86 (32-bit)
+IS THERE ANY CHANGE TO THE MONTHLY SUBSCRIPTION COST TO USE ANY CONNECT TO CONNECT TO WI-FI?
+There is no monthly subscription cost to use the Any Connect Network Access Manager to connect to Free Public Wi-Fi hotspots at coffee houses, restaurants, hotels and other locations. You will be able to use it to manage connections at fee based Wi-fi hotspots, but there will access charges per the terms of use for the location. [i.e. hotels without fee base Wi-Fi added to the room charge or which require a credit card]
+WHERE DO I GET HELP IF I ENCOUNTER PROBLEMS WITH THE NEW REMOTE ACCESS CLIENT?
+Please contact your nearest Honeywell Service desk. The service desk contact information can be found at Contact Us
+HOW DO I CANCEL MY REMOTE ACCESS SERVICE IF I DO NOT NEED IT ANYMORE?
+You can do so by sending an email to hrasupport@honeywell.com requesting service is stopped.
+DOES ANY CONNECT WORK ON MY 3G AIRCARD?
+Yes
+IF I DO NOT HAVE LANDESK AND MCAFEE ANTI VIRUS INSTALLED ON MY PC, WILL I BE ABLE TO USE ANY CONNECT TO ACCESS HON NETWORK?
+No. The client will check for those softwares acceptable by HON standards before you are allowed to access the network.
+IF MY DEFAULT REMOTE ACCESS GATEWAY IS DOWN, DO I NEED TO MANUALLY CHANGE IT ON MY CLIENT TO POINT IT TO ANOTHER GATEWAY?
+With the new HRA, you will be automatically re-routed to the next nearest remote access gateway
+INSTALLATION
+HOW DO I MANUALLY INSTALL THE ANY CONNECT SOFTWARE?
+The software requires Administrator rights to perform the install. If you have those permissions or have desktop support assistance, you can install the software from this. Honeywell employees without Administrator rights on their Honeywell Laptop can manually install the software package from the ESD [electronic software distribution site].
+HOW DO I KNOW ANY CONNECT IS INSTALLED?
+The AnyConnect software will be push via Landesk. As part of the process, the Checkpoint software[ gold key] will be deactivated and a new graphical user interface and icon will appear in your system tray. Below are illustrations of the system tray icons and several examples of what they mean:
+System tray icon indicating client components are operating correctly
+System tray icon indicating the VPN is connected.
+System tray icon alerting the user to a condition requiring attention or interaction. For example, a dialog about the user credentials.
+System tray icons that indicate one or more client components are transitioning between states (for example, when the VPN is connecting or when NAM is connecting). The three icon files display in succession, appearing to be a single icon bouncing from left to right.
+System tray icon will launch the user interface used to manage network connections and connect to the VPN gateway. Double click on the system tray icon and the Any Connect Client will launch. Note: AnyConnect does not display more than one icon at a time. The icon with the highest priority takes precedence.
+NETWORK ACCESS MANAGER
+IS IEEE 802.1X AVAILABLE IN CISCO ANYCONNECT?
+802.1X over Ethernet (802.3) and Wi-Fi (802.11) is available as a separate module in AnyConnect: the Network Access Manager. This separately loadable module will be installed as part of the install package for AnyConnect to perform 802.1X authentication.
+DOES CISCO ANYCONNECT SUPPORT WIRELESS CONNECTIVITY?
+Yes. The Network Access Manager associated with AnyConnect Version 3.0 and later supports wireless connectivity using a wireless network interface card.
+DOES CISCO ANYCONNECT SUPPORT DIALUP CONNECTIVITY?
+No. The Cisco software does not support dial-up connectivity. If you need dialup connectivity, please contact the remote access team at hrasupport@honeywell.comwith this requirement and we will review the connectivity options for dialup with you.
+DOES CISCO ANYCONNECT SUPPORT WPA2?
+Yes. The Network Access Manager in AnyConnect Version 3.0 and later supports WPA2; provided WPA2 is supported by the wireless network interface card.
+I UNDERSTAND THE ANYCONNECT NETWORK ACCESS MANAGER CAN BE USED TO PUT DIFFERENT USERS ON DIFFERENT VLANS ON MY WIRED NETWORK. CAN I ENCRYPT THAT DATA?
+Yes. The AnyConnect Network Access Manager supports 802.1AE, also known as MACsec, which encrypts traffic over the wired LAN.
+WHAT HARDWARE IS REQUIRED FOR MACSEC?
+There are no hardware requirements for MACsec on the local machine. If the network interface card does not support MACsec, the encryption is done on the main processor on the local computer. A MACsec-capable switch is required on the network side.
+CAN I USE THE ANYCONNECT NETWORK ACCESS MANAGER WITHOUT THE VPN FUNCTION?
+Yes. All of the components in the AnyConnect Secure Mobility Client can be used independently. If you are not using the AnyConnect VPN functionality, you can install the AnyConnect Secure Mobility Client so that functionality is not enabled.
+PUBLIC KEY INFRASTRUCTURE
+WHAT ARE THE PREREQUISITES FOR OBTAINING A PKI DIGITAL CERTIFICATE?
+Intranet / Internet access.
+Business partners must allow network traffic over ports 9100, 9101, and 9102.
+The Symantec PKI client must be installed on the PC (laptop / desktop).
+If you do not have a Honeywell-managed device, you will need Admin privileges for that device for installing the PKI Client software from the Symantec website.
+WHAT BROWSERS CAN I USE FOR ENROLLING FOR PKI CERTIFICATES?
+Most Honeywell standard browsers are supported. Please refer to the following list for specific details.
+Google Chrome is qualified by Symantec for certificate enrollment.
+Mozilla Firefox is qualified by Symantec for certificate enrollment.
+Internet Explorer:
+IE8: Not supported. Please use Google Chrome or Mozilla Firefox.
+IE9: Not Supported. Please use Google Chrome or Mozilla Firefox.
+IE10: Supported. End of support is October 2016
+IE11: Supported (new in PKI Service v2.1).
+Microsoft Edge has limited support in Win10 as of Jan 2016.
+WHY DOES GOOGLE CHROME SHOW A PROMPT ABOUT MANUALLY INSTALLING A MISSING COMPONENT?
+Google Chrome is qualified by Symantec for certificate enrollment. However, Chrome requires an extension before you can enroll for a PKI certificate. If the PKI client is installed but the Chrome extension is missing when you enroll for a PKI certificate, Chrome will prompt you for the missing component. If you are prompted because the Chrome extension is missing, the steps below describe how to enable the missing extension:
+Open Chrome and navigate to the tools pull-down menu to open the settings option.
+Click Tools > Extensions.
+Ensure the Symantec PKI Client Plugin Extension option is enabled.
+Close and re-open Chrome, then proceed to the certificate enrollment link to continue.
+WHY DO I GET A WHITE PANEL WHEN ENROLLING FOR A NEW CERTIFICATE IN INTERNET EXPLORER?
+Please use the Google Chrome browser instead of Internet Explorer. If Chrome is not already installed on your machine, you can download and install it from the Software Center (Start > All Programs > Microsoft System Center 2012 R2 > Software Center). After launching Chrome, you may be prompted to enable the PKI Client extension. If so, please accept.
+WHY DOES THE MESSAGE “SMART CARD NOT DETECTED” DISPLAY WHEN RENEWING MY PKI CERTIFICATE?
+Please use Google Chrome or Mozilla Firefox to enroll for PKI certificates. Both of these alternative standard browsers are available for download from the System Software Center store (Start > All Programs > Microsoft System Center 2012 R2 > Software Center).
+HOW DO I KNOW WHICH CERTIFICATE TO GET FOR THE DIFFERENT SERVICES OFFERED?
+For VPN (HRA AnyConnect remote) and Internal Honeywell Wi-Fi authentication certificates, enroll for the HON Private Identity certificate.
+For Secure Email, enroll for the HON Public Identity certificate. This certificate is used for sending and receiving encrypted and or digitally-signed email messages between internal employees, as well as external or third parties with compatible encryption capabilities.
+For electronic document signing (such as Adobe Acrobat files and others that are capable of allowing digital signing), enroll for the HON Adobe CDS Signing certificate. This certificate differs from the Email encryption certificate whereas it is provisioned to and stored on a smart card. You MUST have a FIPS 140-2 compatible card reader, smartcard token, and compatible software to successfully enroll and use this type of certificate.
+HOW OFTEN DO I NEED TO GET A NEW CERTIFICATE?
+All certificates are renewed every 3 years.
+HOW DO I RENEW MY CERTIFICATE PRIOR TO EXPIRATION AND WILL I BE NOTIFIED IN ADVANCE?
+Certificates are setup when the new computer is delivered. Certificates are configured to be active for 3 years. Because computers are typically replaced every 3 years, certificate renewal is generally not needed.
+However, in the case of some contractors, certificate renewal may be required. When that happens, a message will display on the computer, starting 30 days before the certificate expires. Click the link in the message to start the renewal. After completing the renewal, your certificate will automatically be issued to your PC and the renewal prompts will cease at that time.
+WILL I BE REQUIRED TO USE A PASSWORD FOR MY CERTIFICATES?
+Yes. The Honeywell standards require password protection for both compliance and security guidance. The password is actually what Symantec calls a PIN or the Symantec PKI Client PIN. This PIN must be at least 8 alpha-numeric characters and may include non-ASCII characters.
+While each certificate is “unlocked” separately, the PKI PIN is generated upon your initial certificate enrollment and will be the same for all certificates that are issued on the same device.
+CAN I CHANGE MY NEW PKI PIN (PASSWORD)?
+You do not have to change your PKI PIN, but you can. Use the Symantec PKI client < change="" pin=""> option. This will change the pin for all PKI certificates on the device.
+DO I HAVE TO CHANGE MY PKI PIN (PASSWORD)?
+No, you do not have to change your PKI PIN.
+WHAT HAPPENS IF I USE THE PKI PIN RESET OPTION IN THE SYMANTEC PKI CLIENT?
+The PKI PIN reset function is used if you have forgotten your PKI PIN. Only use this option if you cannot recall what your PKI PIN is as the reset function will actually remove your PKI certificate(s) from your PC and you will then browse to the PKI 2 website to re-enroll for all PKI 2 certificates and complete HRA or Outlook configuration steps.
+ARE THERE LANGUAGES OTHER THAN ENGLISH AVAILABLE FOR USE?
+Yes. While English is the standard global language at Honeywell, the Symantec PKI client offers limited language choices. The menu to change the language format to your choice is available in the initial certificate enrollment window of the PKI Certificate Service. Click on the dropdown button in the upper right-hand corner to change the default to your choice.
+ARE THE PKI CERTIFICATES EXPORTABLE FOR USE ON MULTIPLE PC’S (DEVICES) OR FOR BACKUP PURPOSES?
+No. Exporting the certificate is no longer an option in PKI service, for security and compliance purposes, as recommended by Honeywell Global Security and industry standards. Certificates are now effective for 36 months, rather than 12 months, making such exports largely unnecessary.
+While authentication certificates are not exportable, duplicate enrollment is allowed. Individuals whose role requires multiple devices can enroll for PKI certificates on each device.
+The Secure Email (encryption) certificates are NOT exportable, but duplicate enrollment is allowed by using the certificate enrollment process for use on multiple PC’s if needed. This option allows for one certificate managing all sent and received encrypted / signed messages from multiple devices using the same certificate.
+The Mobile Device Management team provisions certificates to your mobile device for you, eliminating the need for you to export certificates.
+IS THERE INFORMATION REGARDING MOBILE DEVICE MANAGEMENT RELATED TO PKI CERTIFICATES?
+Yes, please visit the links below for the specific device listed and the individual FAQs for each. Please connect to VPN to access these links:
+For all iOS devices browse to http://go.honeywell.com/Apple.
+For Samsung Android devices browse to http://go.honeywell.com/Samsung.
+For Windows Phone 8 devices browse to http://go.honeywell.com/WP8.
+WHY DOES THE MESSAGE “UNABLE TO LOCATE YOUR CERTIFICATE” APPEAR?
+This error message can occur while attempting to send or receive an encrypted email message. The message occurs because the PKI 2 HON Public Identity certificate on the device has not been provisioned and configured to your Microsoft Outlook email client on the device that received the error message. To resolve this issue:
+Navigate to the PKI 2 websites using the device where the error occurred.
+Click Step 2 to open the PKI 2 Secure Email (encryption) Standard End-User Guide.
+Follow all the steps in that document to provision the HON Public Identity certificate to your device and guide you through the Outlook Configuration steps.
+The steps above will enable your new certificate for use with encryption. If you have previously enrolled for the certificate from a different device, this process will simply download a copy of the current valid certificate, not provision a new certificate.
+If problems do continue, please contact the Honeywell Service Desk.
+WHAT DO I DO WHEN I RECEIVE THE ERROR MESSAGE “CERTIFICATE VALIDATION” ERROR WHEN ATTEMPTING TO CONNECT TO VPN?
+Please contact the Honeywell Service Desk.
+HOW TO I OBTAIN A COPY OF MY OLD PKI 1 EMAIL ENCRYPTION CERTIFICATE(S) FOR ACCESSING MY OLD ENCRYPTED EMAILS?
+Please call your local service desk to have a ticket opened with the appropriate PKI support group.
+HOW CAN I CHANGE THE OUTLOOK SIGNING AND ENCRYPTION HASH ALGORITHM SETTINGS FROM SHA1 TO SHA2?
+Please Click Here and go to page 3 for instructions to manually change the Outlook Security Settings.
+Quick Links
+QUICK LINKS
+New approved antivirus list for HRA
+How to move HRA account to DSES group
+Adobe CDS
+ALERTS
+Security requirement for AnyConnect
+REMOTE ACCESS SUPPORT
+For all Remote Access related issues please contact the Honeywell IT Service desk. This is a 24/7 helpdesk however not all Remote Access issues are supported 24/7.
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

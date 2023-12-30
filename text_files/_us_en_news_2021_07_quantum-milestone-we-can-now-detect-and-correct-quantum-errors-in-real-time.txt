@@ -1,0 +1,221 @@
+Quantum Milestone: We Can Now Detect and Correct Quantum Errors in Real Time
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+Quantum Milestone: We Can Now Detect and Correct Quantum Errors in Real Time
+Quantum Milestone: We Can Now Detect and Correct Quantum Errors in Real Time
+Researchers at Honeywell Quantum Solutions applied multiple rounds of quantum error correction to a single logical qubit, an industry first
+Researchers at Honeywell Quantum Solutions have taken a significant step toward demonstrating the viability of large-scale quantum computing on its trapped-ion quantum computing technology.
+The Honeywell team can now perform quantum error correction (QEC), which are protocols necessary to detect and correct errors in real time on a quantum computer.  They demonstrated the ability to “protect” quantum information (prevent a quantum computation from being quickly corrupted by imperfections and noise) on the System Model H1.  This is an important first in the quantum computing industry.  Currently, most demonstrations of quantum error correction involve correcting errors or “noise” after the procedure has finished running, a technique known as post-processing.
+In a paper published this week on arXiv, researchers detailed how they created a single logical qubit (a series of entangled physical qubits) and applied multiple rounds of quantum error correction. This logical qubit is protected from two main types of errors that occur in a quantum computer: bit flips and phase flips.
+Previously, groups have looked at codes that only are capable of correcting a single type of error (bit or phase but not both) {Google, IBM/Raytheon, IBM/Basel}. Others have looked at quantum error detecting codes, which can detect both types of errors but not correct them {ETH, Google, Delft}. Further still, groups have demonstrated pieces of the quantum error correcting process {Blatt, Monroe}.
+“All of today’s quantum technologies are at an early stage where they must combat errors that accumulate during computations,” said Tony Uttley, president of Honeywell Quantum Solutions. “What the Honeywell team accomplished is groundbreaking. It proves what was once only theoretical, that quantum computers will be able to correct errors in real time, paving the way for precise quantum computations.”
+Though the achievement represents progress toward large-scale quantum computing, Honeywell researchers are still working to cross the break-even point at which the logical error rate is less than the physical error rate.
+The need for logical qubits
+To appreciate this achievement, it is important to understand how difficult it is to detect and then correct a quantum error.
+Quantum bits, or qubits, are fragile and finicky. They pick up interference or “noise” from their environment. This noise causes errors to accumulate and corrupts information stored in and between physical qubits. (Scientists call this decoherence.)
+Attempts to directly detect and correct errors on a physical qubit also corrupts its “quantumness.” And cloning this data, a method used in classical computing that involves making multiple exact copies of the information, does not work in quantum (as prohibited by “The No Cloning Theorem.”)
+To overcome these concerns, several scientists, most notably Peter Shor, Robert Calberbank, and Andrew Steane, found a way around this, at least in theory, after studying how quickly qubits experience decoherence.
+They demonstrated that by storing information in a collection of entangled qubits, it was possible to detect and correct errors without disrupting quantum information.  They called this assortment of entangled qubits a logical qubit.
+Scientists have spent years developing codes and methods that could be applied to logical qubits to protect quantum information from errors.
+What’s next
+The next step is to break even, crossing the point at which the logical qubit error rate is lower than the error rate for physical qubits. (Creating logical qubits and applying quantum error correction codes also can inject noise into a system).
+The Honeywell team is closing in on that mark. To definitively demonstrate passing the break-even point, the error rate per QEC cycle needs to be lower than the largest physical error rate associated with the QEC protocol.
+“In the technical paper, we point to key improvements we need to make to reach the break-even point,” said Dr. Ciaran Ryan-Anderson, an advanced physicist and lead author of the paper. “We believe these improvements are feasible and are pushing to accomplish this next step.”
+From there, the goal is to create multiple logical qubits, which depending on the quantum technology, requires better fidelities, more physical qubits, better connectivity between qubits, and other factors.
+An increase in logical qubits will usher in a new era of fault-tolerant quantum computers that can continue to function even when some operations fail.   (Fault tolerance is a design principle that prevents errors from cascading throughout a system and corrupting circuits.)
+“The big, enterprise-level problems we want to solve with quantum computers require precision and we need error-corrected logical qubits to scale successfully,” Uttley said.
+Quantum
+Quantum News
+Related Content
+How Quantum Can Help Computers Comprehend Words & Conversations Like Humans
+Just the TKET: Quantum Software Tool Now Open Source
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

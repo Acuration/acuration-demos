@@ -1,0 +1,220 @@
+Winning At Dodgeball: Honeywell Smart Drone Radar Avoids Collisions Automatically In High-Stakes Test
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+Press & Media
+Winning At Dodgeball: Honeywell Smart Drone Radar Avoids Collisions Automatically In High-Stakes Test
+Winning At Dodgeball: Honeywell Smart Drone Radar Avoids Collisions Automatically In High-Stakes Test
+Key technology will enable the adoption of self-flying aircraft, drones and advanced air mobility vehicles.
+Honeywell's radar determined the best path and autonomously swerved around an intruder drone that did not have a transponder.
+February 2, 2022
+PHOENIX, Feb. 2, 2022 /PRNewswire/ -- A drone piloted by the Honeywell (NASDAQ: HON) IntuVue RDR-84K radar system has triumphed in a high-stakes game of dodgeball, repeatedly swerving around intruder aircraft in a series of tests that are key to the future of pilotless aviation.
+Recently conducted in the Phoenix area, the tests showed that the radar can not only detect airborne traffic but can also decide autonomously on a course of action. The radar can take over navigation and pilot an aircraft to safety using its onboard processor.
+"We set up the ultimate game of 'chicken,' but the RDR-84K simply wouldn't let these aircraft get into danger," said Sapan Shah, product manager, Advanced Air Mobility, Honeywell Aerospace. "This is a leap forward in safety that could have far-ranging impacts across aviation."
+Avoiding unforeseen objects is a key requirement for autonomous drones and other aircraft that fly beyond visual line of sight (BVLOS) of an operator. However, this detect-and-avoid capability is extremely difficult in the air. Radars must have long ranges because of the high speeds involved, and they must pick out airborne traffic from ground clutter, including moving cars. They also require precise location information to make sense of radar echoes.
+This is difficult on the ground and even more complex in the sky. To compensate, pilots, and even huge air traffic control radars, rely on cooperative aircraft to beam out their locations using onboard transponders. Objects without transponders — hobby drones, kites, birds and aircraft with broken transponders — are known as "noncooperating" traffic.
+The RDR-84K, which is the size of a paperback book, has proven its ability to detect noncooperating traffic during extensive testing while mounted on helicopters and drones. But the new tests marked the first time it has performed the avoidance function without human intervention.
+With both drones on autopilot, Honeywell engineers flew two quadcopter drones directly at each other 300 feet above the ground at a test site in the desert.
+In multiple flights, the drone equipped with the RDR-84K detected the noncooperating "intruder" drone and evaluated its flight path. Then it calculated an avoidance maneuver and took over navigation — flying left, right, up, down or stopping midair, depending on winds and other factors.
+Once the danger of a collision had passed, the radar released control of the drone, and the autopilot guided it back to its original course.
+"This was all automatic," said Larry Surace, lead systems engineer for the RDR-84K, Honeywell Aerospace. "The radar recognized the danger, decided on a course of action, flew to safety and then made sure the danger had passed — all without input from anyone on the ground."
+The team then challenged the RDR-84K with increasingly difficult encounters, such as approaching from below to blend into ground clutter and from offset angles, testing the radar's peripheral vision and high angular detection capabilities. In other flights, the team instructed the radar to wait longer before acting, forcing it to make more aggressive maneuvers.
+"The radar handled everything we threw at it," Surace said. "It saw the danger immediately and successfully executed multiple avoidance maneuvers."
+Compared with most aircraft radars, the RDR-84K is tiny, weighing less than 2 pounds. Its face is only 8 inches wide and 4 inches high, and it is about 1 inch deep. Its onboard processor calculates avoidance paths, meaning aircraft do not need a separate computer to do this work.
+Despite its small size, the radar can see targets 3 kilometers away. It uses monopulse technology — a system of overlapping beams — to increase accuracy and eliminate ground clutter. The radar steers its beams electronically, so it has no moving parts.
+In addition to detecting traffic, the RDR-84K can map terrain and provide alternate navigation in the case of GPS failure. It can also act as a radar altimeter during landing.
+The RDR-84K is part of Honeywell's Beyond-Visual-Line-of-Sight suite of technologies, along with the small UAV satellite communications transmitter, hydrogen fuel cells and inertial navigation systems. These technologies are aimed at extending the range of uncrewed aircraft.
+Learn about Honeywell's other technologies for both large and small uncrewed aerial systems here.
+About Honeywell
+Honeywell Aerospace products and services are found on virtually every commercial, defense and space aircraft. The Aerospace business unit builds aircraft engines, cockpit and cabin electronics, wireless connectivity systems, mechanical components and more. Its hardware and software solutions create more fuel-efficient aircraft, more direct and on-time flights and safer skies and airports. For more information, visit www.honeywell.com/us/en or follow us at @Honeywell_Aero.
+Honeywell (www.honeywell.com/us/en) is a Fortune 100 technology company that delivers industry-specific solutions that include aerospace products and services; control technologies for buildings and industry; and performance materials globally. Our technologies help aircraft, buildings, manufacturing plants, supply chains and workers become more connected to make our world smarter, safer and more sustainable. For more news and information on Honeywell, please visit www.honeywell.com/us/en/news.
+Adam Kress
+Email
+Aerospace
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

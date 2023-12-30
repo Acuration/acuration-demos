@@ -1,0 +1,231 @@
+Industrial Cybersecurity: A Primer
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+Industrial Cybersecurity: A Primer
+Industrial Cybersecurity: A Primer
+The terms you need to know to improve your industrial and operational cybersecurity defenses
+The more we rely on technology, the more common and sophisticated cybersecurity threats become. And as attacks increase in number and severity, they affect more people and businesses — with consequences that can compromise finances, reputations, personal data and other assets.
+Understanding the language of cybersecurity is a major step toward protecting your organization against cyberthreats.
+Here are some important terms to know.
+Organizational infrastructure
+Operational technology (OT) is analogous to information technology (IT), referring to the underlying technology used in industrial control systems (ICS) environments. In short, information technology controls an organization’s data, and operational technology controls its physical operations.
+Operational Technology: Although many operational technology platforms used in industrial control systems share common hardware, operating systems and networking technology, these systems are fundamentally different and present unique threats to operational technology cybersecurity.
+Information Technology: Information technology is the use of computers, storage and networking — as well as infrastructure, processes and other devices — to create, process, store, secure and exchange data. The commercial use of information technology encompasses both computer technology and telecommunications.
+Industrial control systems: Industrial control systems, or industrial control and automation systems (ICAS), are the systems, devices, networks and controls used to operate and automate an industrial process.
+Malware
+Malware is software code designed to be malicious. Malware gives cybercriminals the chance to manipulate or steal personal information, and it’s even more dangerous for businesses, infrastructure, and public and private organizations. For example, threats designed to target industrial control systems have increased year over year, from 30% to 32%. At the same time, according to our 2022 USB Threat Report, malware has become more effective at disrupting industrial control systems, up from 79% to 81%.
+In operational technology environments, malware can be introduced through just a few vectors: the network, access by authorized users; and the hardware and software supply chain. And as malware continues to evolve, it becomes harder to strictly classify.
+All the following are distinct types of malware, though any type could embody traits from all four:
+Ransomware: Ransomware attacks render systems, data and devices unusable or threaten to release sensitive information until victims pay the attackers. Even when the ransom is paid, there is no guarantee that attackers will hold up their end of the bargain. Further, the victim can no longer trust in the integrity of their devices and files.
+Spyware: Spyware is malware that collects sensitive information from a device and covertly sends it to a third party.
+Worm: A worm is standalone malware that self-replicates after it breaches a system, spreading to and infecting other computers.
+Remote Access Trojan (RAT): A Trojan is any malware designed to trick a user into using it, typically by masquerading as legitimate software. “Remote access” refers to the goal of this type of Trojan, which is to provide the attacker with discreet access to command, control and monitor a device from a remote location.
+Payload
+The payload is the actual content or message of a digital communication. When it comes to malware, this content is malicious software. Newer and more sophisticated malware is typically modular, allowing specific payloads to be used to execute specific tasks in a larger campaign of cyberattacks.
+Attack vector
+The attack vector is the path by which attackers infect systems with malware. One prevalent attack vector is USB devices, which account for 52% of threats to industrial control systems, according to the 2022 USB Threat Report.
+Backdoor
+A backdoor is a result of a successful malware attack, providing unauthorized access to files, systems or networks. Backdoors in infected networks typically provide access remotely, through Remote Access Trojans or Remote Access Toolkits.
+Global Analysis Research and Defense (GARD)
+Global Analysis Research and Defense is a threat-detection service that provides advanced threat detection and response capabilities to supported Honeywell cybersecurity products.
+Mean Time to Remediation (MTTR)
+The Mean Time to Remediation is the amount of time an organization needs to react to and recover from a cyberthreat or incident. This can extend beyond computer system recovery into full functionality in OT.
+Secure Media Exchange (SMX)
+Secure Media Exchange is Honeywell’s USB security threat platform, which monitors USB devices’ usage in industrial facilities to lower the risk of USB-borne threats.
+As cybersecurity threats against operational technology and information technology rise, it becomes increasingly critical for businesses and organizations of all sizes to protect, address and remediate them as quickly as possible.
+Learn more about how Honeywell Forge can help you protect your organization from cyber threats. For more on USB-derived cyber attacks, listen to our podcast. In this recent episode, our operational technology cybersecurity expert goes in-depth on how to fortify cyberdefenses for your enterprise.
+Contact Us
+Cybersecurity
+Related Content
+Cybersecurity Professionals Share Their Top Career Tips
+The Future Is... Outsmarting Cyber Threats
+What Causes the Majority of Cybersecurity Threats
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

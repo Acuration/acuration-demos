@@ -1,0 +1,209 @@
+Achieving Quantum Volume 128 on the Honeywell Quantum Computer
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+Achieving Quantum Volume 128 on the Honeywell Quantum Computer
+Achieving Quantum Volume 128 on the Honeywell Quantum Computer
+How we push the boundaries on system capability
+We achieved a Quantum Volume of 128 on our Quantum Computer in late September 2020.
+This and future increases in the capabilities of quantum computers will empower our customers to achieve results beyond what they thought was possible.
+“Honeywell has made a commitment to shape and accelerate the development of Quantum Computing and bring its power to our customers,” said Tony Uttley, President of Honeywell Quantum Solutions.
+“Our differentiated technology, exemplified by the high-fidelity and fully-connected qubits with mid-circuit measurement and qubit reuse, enables our customers to push the frontier of quantum computing applications. And what is really exciting is that this is still just the beginning.”
+The plot above shows the heavy outcomes for Honeywell Quantum Solutions’ tests of quantum volume and the dates when each test passed. All tests are above the 2/3 threshold to pass the respective Quantum Volume. Circles indicate heavy outcome averages and the violin plots show the histogram distributions. Data colored in blue shows system performance results and red shows modeled, noise-included simulation data. White markers are the lower 2-sigma error bounds.
+The system successfully passed the Quantum Volume 128 test outputting heavy outcomes 71.78% of the time, which is above 2/3 threshold with 99.934% confidence. The average single-qubit fidelity is 99.97(1)% and the average two-qubit gate fidelity is 99.54(7)% with fully-connected qubits.
+The plot above shows the individual heavy outcomes for each Quantum Volume 128 run. The blue line is an average of heavy outcomes and the red line is the lower 2-sigma error bar which crosses the 2/3 threshold after 186  circuits.
+Our systems are accessible directly through Honeywell and through ecosystem partner platforms, including Microsoft’s Azure Quantum, Cambridge Quantum Computing’s tket and Zapata Computing’s Orquestra. In addition to offering high-fidelity, fully-connected qubits, our system features a unique mid-circuit measurement capability, which enables users to explore new classes of algorithms and to greatly reduce the number of qubits needed for certain algorithms.
+For more information about getting started accessing our system, please contact QuantumSolutions@Honeywell.com.
+Quantum
+Related Content
+How Quantum Can Help Computers Comprehend Words & Conversations Like Humans
+Just the TKET: Quantum Software Tool Now Open Source
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

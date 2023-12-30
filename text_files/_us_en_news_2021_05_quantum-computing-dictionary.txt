@@ -1,0 +1,212 @@
+A Quantum Computing Dictionary
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+A Quantum Computing Dictionary
+A Quantum Computing Dictionary
+Curious about qubits? Here are some definitions that will help you talk the talk about this emerging technology
+Not long ago, discussions about quantum computing occurred primarily in technical journals or at scientific conferences.
+Today, mainstream media outlets and business publications are covering quantum topics.
+Quantum computing will transform industries. Honeywell Quantum Solutions already is collaborating with JPMorgan Chase, Merck, DHL, BMW, Samsung and other global organizations to do just that.
+Here are definitions to help explain quantum computing and Honeywell’s trapped-ion technology:
+Qubit — In classical computing, the smallest unit of data is a binary digit or bit. A bit is a stream of electrical pulses that each exist in either a “0”- off – or “1” -on- position.  A quantum bit or qubit is the smallest unit of data in quantum computing.  Qubits can exist as 0s and 1s simultaneously, a phenomenon called superposition, or anything in between.  This ability to be in multiple positions at once is one of the reasons quantum computing holds the promise to be so powerful.
+Entanglement — Generally, it is impossible to be in two places at once - except in quantum physics. Thanks to a phenomenon called entanglement, quantum particles can link across large distances and share a quantum state. Changing the state of one quantum particle has a correlated impact on the state of the other. Quantum computers use this phenomenon by entangling qubits and then encoding them with information to run calculations while they share a quantum state.
+Trapped Ion Technology — At Honeywell Quantum Solutions, we develop trapped-ion quantum technologies. Our systems “trap” charged ytterbium atoms (ions) with electromagnetic fields so they can be manipulated and encoded with information using microwave signals and lasers. Our latest technology, the System Model H1, offers some distinct advantages, including high quality quantum operations (fidelities) and longer coherence times (qubits maintain their quantum state longer) than other quantum computing technologies.
+Quantum Circuit — Ever wondered what it takes to program a quantum computer? Well, the software is not like traditional computer code, rather specific quantum algorithms are written as a “circuit,” which is a series of instructions for each qubit during the computation. These circuits, when displayed often look like a sheet of music.
+Fidelity — Computers perform calculations by manipulating the states of bits – changing the bits from 0s to 1s and 1s to 0s, like flipping a switch. Quantum computers must similarly be able to manipulate qubits from 0s to 1s, and so on. The accuracy of the calculation depends on our ability to perform these “bit-flips” with very high success rate, or “fidelity.”  Fidelity is the measure of how often an attempted flip results in the correct qubit state. The higher the fidelity the better. Our individual qubit operation fidelities of 99.997% are currently the best reported performance of any addressable qubit technology.
+Quantum Volume — Remember the old saying “you can’t judge a book by its cover?” The same is true in quantum computing. You can’t judge a quantum computer solely on the number of qubits it has. Other factors such as number of operations, fidelity, and qubit connectivity also affect performance. The Quantum Volume (QV) benchmark was developed to measure performance in a comparable way across all quantum computing technologies. QV is measured through a series of carefully designed tests. The higher the quantum volume the more powerful the system.  Our 10-qubit System Model H1 achieved a record quantum volume of 512 in March 2021.
+Mid-Circuit Measurement — With this feature, qubits can be selectively measured at a point other than the end of a quantum circuit. The quantum information of a measured qubit collapses to a classical state (zero or one), but the non-measured qubits retain their quantum state. Based on the measured qubit, users can decide what actions to take further in the circuit, enabling much more dynamic and flexible quantum computer programming than would otherwise be possible. Using mid-circuit measurement to make conditional logical actions is the equivalent of using an “If-Then” statement in classical software. We were the first to incorporate this type of measurement into our commercial offerings.
+Quantum
+Quantum News
+Related Content
+What Reaching 20 Qubits Means for Quantum Computing
+How Quantum Computing Can Help Keep Things Cool
+5 Things to Know About Quantum Computing at the World Expo
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

@@ -1,0 +1,252 @@
+Quantum Computer  Honeywell
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+Quantum
+Our Computer
+Honeywell
+System
+model H1
+Our quantum computer is now available
+The Honeywell System Model H1 is now available commercially.
+With high-fidelity, fully connected qubits and features like mid-circuit measurement and qubit reuse, our system enables quantum developers to design deeper, more meaningful circuits.  This will accelerate organizations along the path to value.
+The System Model H1 is fully accessible over the cloud and compatible with a variety of software frameworks. To get started and purchase access, please contact us at: QuantumSolutions@Honeywell.com
+Computer Features
+Features
+System Model H1
+Physical Qubits
+10
+Typical Limiting Fidelity
+99.5%
+Coherence Time (T1)
+> 106 s
+Coherence Time (T2)
+~3 s
+Full Connectivity
+✓
+Mid-circuit Measurement
+✓
+High-resolution Rotations
+✓
+Load More
+*Specifications and pricing subject to change
+Continuous update
+The system will evolve with ongoing improvements for maximum capability.
+Flexible accessibility
+Open QASM-based API enables customers to leverage a variety of software frameworks and channels.
+Type of access
+System Model H1 – Subscription
+Reserved access per-month of 8 hrs (Standard) or 16 hrs (Premium)
+Queued access through the month based on system availability
+Quantum Computing for Optimization Applications
+Read report >
+FAQs
+How do I get access?
+Please contact us to establish an account and secure access credentials.
+How much does access cost?
+Access to Honeywell System Model H1 is based on a monthly subscription (Standard or Premium). Please contact us for pricing.
+How can I find out more details about the specifications?
+Please contact us for further details.
+What is the Quantum Volume metric?
+Quantum Volume is a metric that can be used to express the effectiveness of a given quantum computer. The larger the quantum volume, the more complex problems that can be solved. Read more here.
+What is full connectivity and why is it important?
+Full connectivity means that any qubit can interact directly with any other qubit without a need for intermediary qubit interactions. This enables significantly deeper quantum circuits and more advanced algorithms.
+What is Mid-Circuit Measurement and how can it be used?
+Mid-Circuit Measurement is a unique feature that allows qubits to be selectively measured at a point other than the end of a quantum circuit.  The quantum information of a measured qubit collapses to a classical state (zero or one), but the non-measured qubits retain their quantum state.  Based on the measured qubit, users can decide what actions to take further in the circuit.  Essentially, it is a quantum “IF” statement.
+Once a qubit has been measured, it can be reinitialized and reincorporated into the quantum circuit to be reused for additional operations.  In this way, larger systems can be modeled with smaller numbers of qubits.
+What is the benefit of high-resolution rotations?
+Honeywell systems use laser-based gates to enable precise rotations within single-qubit gate operations, rather than requiring a multi-step, composite operation to produce the same rotation angle.  This allows for greater efficiency of operations within a circuit’s depth.
+What is a typical wait time in the queue?
+Quantum jobs submitted into Honeywell’s queue are executed based on an equitable queueing system that grants multiple parties fair access to the system.
+What tools are available for simulation?
+There are several open-source simulation tools currently available on the market that can be leveraged for algorithm development.
+Honeywell offers a Syntax Validation tool, which allows users to test their code through all compilation steps and ensure coding bugs are eliminated prior to spending HQCs on system access.
+What support is available for developing algorithms and circuit design?
+We encourage you to engage a quantum algorithm developer to help design your circuits. We are open to providing guidance on adapting your circuits to take advantage of Honeywell’s differentiated features.
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

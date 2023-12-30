@@ -1,0 +1,216 @@
+Just the TKET: Quantum Software Tool Now Open Source
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+Just the TKET: Quantum Software Tool Now Open Source
+Just the TKET: Quantum Software Tool Now Open Source
+The online tool adapts quantum circuits to run optimally on different quantum computing technologies, with easy switching between Honeywell’s system and other hardware platforms.
+Cambridge Quantum recently announced it has made the source code for TKET, its quantum software development kit, fully open to the quantum software community.
+The move, which comes just months after the company began providing free access to TKET, is expected to benefit software developers as well as Honeywell Quantum Solutions and other hardware providers.
+Most of the programming languages or quantum software development kits available were designed initially to run on certain hardware platforms, creating compatibility issues. Software developers who wanted to test circuits or algorithms on different quantum technologies had to rewrite or tweak code to run on a new system.
+Providing access to TKET and its source code makes it easier for developers to do that.
+“Users need only to focus on developing their quantum applications, not rewriting code around the idiosyncrasies of any particular hardware,” said Dr. Ross Duncan, head of software at Cambridge Quantum.
+And for Honeywell Quantum Solutions and other hardware providers, TKET broadens access to their technologies by enabling developers to move more seamlessly between systems.   The software development kit is optimized for each commercial hardware system, including Honeywell’s trapped-ion quantum computer.
+“We want to make it as easy as possible for the quantum software community to run circuits and algorithms on our trapped-ion quantum computers,” said Tony Uttley, president of Honeywell Quantum Solutions.  “The System Model H1 technology is the highest performing quantum system available, and we want them to experience that.”
+Honeywell Quantum Solutions and Cambridge Quantum have a long-standing history of partnering together for the benefit of end-customers.  (The two entities announced in June they are seeking regulatory approval to combine to form a new company.)
+Having TKET fully open-sourced provides an incredible tool to the world’s quantum algorithm developers, including Honeywell, Uttley said.
+“Our products and offerings have always been complementary and continue to be,” he said. “(Cambridge Quantum) has developed a suite of tools and programs that interface well with our hardware.”
+How TKET works
+If you have ever traveled to another country and tried plugging something in, you’ve likely discovered the need for an adapter.  Electrical outlets vary and the plug-ins used in the United States doesn’t always work in Europe or other countries and vice versa.
+The same is true with today’s early-stage quantum computers.  Each technology has its own performance specifications, API (an interface that enables different computing systems to talk to one another), and compiler (a program that translates code written in one computing language to another).
+TKET is versatile.  Developers can use it to create circuits or algorithms and also to serve as a universal connector or adapter between hardware and software platforms.
+Cambridge Quantum has developed extensions, which are Python modules, for each commercial quantum hardware platform available. These extensions enable developers to code in Qiskit, Cirq, or another language and automatically adapt their circuits or algorithms to work on different quantum devices or simulators without having to tweak it themselves.
+And now that TKET is open source, developers can create their own extensions to the codebase and bridge between platforms.
+Quantum
+Related Content
+How Quantum Can Help Computers Comprehend Words & Conversations Like Humans
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+Honeywell Sets Another Record For Quantum Computing Performance
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

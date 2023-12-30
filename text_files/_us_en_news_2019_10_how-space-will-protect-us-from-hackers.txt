@@ -1,0 +1,227 @@
+How Space Will Protect Us From Hackers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+How Space Will Protect Us From Hackers
+How Space Will Protect Us From Hackers
+To secure data, it’s time to look to the stars— Quantum physics, lasers and satellites will make it possible
+October 7, 2019
+The future of cybersecurity will depend on space.
+The key that unlocks confidential information will be sent far away, to satellites orbiting the earth.
+Those satellites – plus quantum physics –  will help make sure data that is encrypted can’t be accessed by hackers.
+“The world is awash with many varieties of privileged and confidential information, which we would like to remain so,” said Hugh Podmore, a Honeywell physicist who models and designs optical systems for space applications.
+Demand for secure channels is growing among governments, businesses and individuals.
+Current methods for safe communication rely on distribution of encryption keys, which may be vulnerable to interception, opening the door for bad actors to access private data.
+“Encryption is important because it’s critical to have some way of having secure communication between two parties,” Hugh said. “It’s fundamental to the idea of having privacy that you should have a way to communicate with someone without the fear that communication will be intercepted.”
+Using quantum physics, it is possible to secure those communications through a process called Quantum Key Distribution, (QKD) which has been implemented on some ground-based fiber networks.
+But those networks are only secure for about 200 kilometers, Hugh said. That poses a challenge for people that are greater distances apart and need to send privileged information.
+So scientists have turned to using satellites for QKD to allow secure communication backed by quantum physics on a global scale.
+Here’s how that will work:
+When two parties want to communicate through a secure channel, they need to make sure a third party cannot access the sensitive information.
+To make sure communications are secure, the two parties use an encryption key: A long password shared between the two parties. Data is scrambled so that only those with that encryption key can unscramble and access the information.
+During Quantum Key Distribution, the encryption key is transmitted using photons, which are similar to single particles of light, and are prepared on the ground in a quantum state.
+A telescope sends those photons, which carry the encryption key, up to a satellite orbiting the Earth. The satellite measures these photons, randomly, in one of two channels, and the ground station and satellite communicate publicly to reconcile which channel was measured at which time. Once the satellite and the ground station know when and how photons were measured, both will have a shared set of measurements that may form an encryption key.
+The process is secure, because the satellite can detect interference by looking for correlations in the photons it has received. If a bad actor has been trying to intercept the key, then the correlation of the photons will be affected, and the satellite will know that the key is not secure.
+Since it’s unlikely hackers will break quantum physics, the process guarantees a secure transmission.
+The downside is the process is susceptible to less nefarious interferences, like the weather.
+Still, because it’s evident when the quality of the transmission is compromised in any way, it allows scientists to know when the encryption key is perfectly secure.
+“We can say with fundamental levels of certainty that the key has not been intercepted,” Hugh said.
+In 2017, a QKD mission enabled “an unhackable video conference” in 2017, according to the Chinese Academy of Sciences.
+Today, Honeywell is in the process of conducting a QKD mission  – called QEYSSat  –  for the Canadian government, leading the drive towards secure global communications backed by QKD.
+The current need for those secure channels is driven by governments and especially by national agencies who may have stricter requirements on the sensitivity on their data, Hugh said.
+But the wider advantage of QKD is that it future-proofs you against the development of quantum computers, Hugh said. Those computers could break the encryption methods on which we rely today, rendering even our most sensitive data vulnerable to attack.
+By implementing QKD, especially on a global scale using satellites, we can ensure that the privacy and security that we enjoy today, will continue and even improve.
+Learn more about how to protect yourself and your business from cyberattacks.
+Cybersecurity
+Related Content
+Cybersecurity Professionals Share Their Top Career Tips
+Industrial Cybersecurity: A Primer
+The Future Is... Outsmarting Cyber Threats
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

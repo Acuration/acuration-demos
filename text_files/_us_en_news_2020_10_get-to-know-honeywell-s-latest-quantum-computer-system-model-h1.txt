@@ -1,0 +1,215 @@
+Get to Know Honeywell’s Latest Quantum Computer - System Model H1
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+Get to Know Honeywell’s Latest Quantum Computer
+Get to Know Honeywell's Latest Quantum Computer System Model H1
+Technical details of our highest performing system
+Honeywell has announced its latest generation of trapped-ion based quantum computing hardware, the System Model H1, taking another step towards value for enterprise customers. This is the same system used by Honeywell scientists to demonstrate  Quantum Volume of 128 in September 2020.
+Here are 6 things to know about Honeywell’s System Model H1 device:
+The System Model H1 incorporates the same linear device (shown below) used in the System Model H0 but increases the number of available computational qubits to 10. Because our ion-based qubits are easily loaded into the device and are not locked into a configuration during trap fabrication, the H1 generation of systems can be upgraded to hold larger numbers of qubits and to make use of the additional interaction zones. This expandable architecture, called the quantum charge coupled device (QCCD) architecture, allows us to increase the capabilities of the system throughout the product lifetime without an interruption in customer access.
+The linear H0/H1 ion trap
+We have maintained our industry-leading one- and two-qubit gate fidelities while simultaneously increasing the available qubit count. In fact, the H1 generation builds upon lessons learned from the H0 system to increase the performance of quantum operations. Users of the H1 system can expect typical single qubit gate fidelities ≥99.97% and two qubit gate fidelities ≥99.5%. Based on recent measurements, displayed below, we have confidence that we will continue to improve on these specifications. Additionally, we have worked incredibly hard to keep our detection and memory errors similarly small. Maintaining the highest fidelity operations is necessary to accelerate the outcomes for businesses exploring algorithms in the NISQ era by reducing shot counts and increasing circuit depth.
+Single- and two-qubit fidelities measured in the System Model H1 using randomized benchmarking
+Users of the System Model H1 can expect measurement crosstalk errors of 0.2%, the lowest measured on a commercially available system. Minimizing crosstalk between qubits is a challenge for many quantum computing platforms. Our differentiated architecture reduces crosstalk errors between qubits, with recent measurements (below) demonstrating the best performance among industry systems. This level of performance allows users to run deep NISQ circuits to explore near term applications and to concentrate on developing quantum applications instead of optimizing for machine performance.
+Qubit measurement crosstalk measured in System Model H1. We characterize crosstalk here as the decay of coherence in a qubit in an equal superposition state, while repeatedly measuring the nearest qubit.
+Our system can execute circuits that are impossible to run on alternative hardware by leveraging mid-circuit measurement and qubit reuse (MCMR). The ability to measure an individual qubit, or a subset of qubits, without destroying the quantum information of the remaining qubits in the system is a unique capability of the Honeywell architecture. By employing this technique, users can access deeper circuits that would typically be impossible with a limited number of physical qubits. One example is the Bernstein-Vazirani (BV) algorithm, the circuit shown below exemplified using two-qubits instead of six-qubits to obtain the same measured distribution.
+Bernstein-Vazirani circuit resource compression using qubit mid-circuit measurement and qubit reuse
+Quantum computing experts from across the globe have already had a chance to investigate circuits on H1 firsthand. For example, the team at Cambridge Quantum Computing, a close partner of ours, was able to take advantage of upgrades as they happened, scaling their experiments to more qubits, using deeper circuits as fidelity increased, and adding features to their software (tket⟩) to expose upgrades to users. Ilyas Kahn, CEO of Cambridge Quantum Computing described the results of our extended collaboration this way, “we have implemented powerful error mitigation methods for quantum algorithms and achieved extremely high quantum correlations for certified entropy generation. Co-development of software and hardware allows hardware improvements to immediately make a difference to customer usage.”
+Similarly, the team at our partner Zapata Computing was able to access the Honeywell device to perform novel algorithm demonstrations with their Orquestra platform. Christopher Savoie, CEO of Zapata Computing, said “as a close partner of Honeywell’s, we have seen their ion trap system evolve over the last year. During that time, their devices have been increasing both in qubit count and gate fidelities, making the algorithms that we run on them comparable to noiseless simulations. With our platform, Orquestra, users could seamlessly swap out the H0 and upgrade to the H1 by changing one line of code, to experience the H1’s higher quantum volume. Moreover, Orquestra workflows are forward-compatible to evolve as quantum hardware does—and we are excited about the massive promise of what lies ahead. In this way, Orquestra workflows will be forward-compatible with any quantum hardware upgrades.”
+Honeywell is committed to launching additional generations of systems of increased capability to shape the future of quantum computing. We are confident in this roadmap because our team has already made progress tackling engineering challenges associated with each generational step. Our evolution will continue to be informed by our close collaborations with academics, start-ups, and enterprise customers.
+Plans for continuous generational improvement
+For more information about getting started accessing our system, please contact QuantumSolutions@Honeywell.com.
+Quantum
+Related Content
+How Quantum Can Help Computers Comprehend Words & Conversations Like Humans
+Just the TKET: Quantum Software Tool Now Open Source
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

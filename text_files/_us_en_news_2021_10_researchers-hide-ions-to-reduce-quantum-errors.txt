@@ -1,0 +1,227 @@
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+A new technique developed by Honeywell researchers reduced the amount of measured “crosstalk” errors by an order of magnitude.
+Researchers at Honeywell Quantum Solutions have turned problematic micromotion that jostles trapped ion qubits out of position into a plus.
+Our team recently demonstrated a technique that uses micromotion to shield nearby ions from stray photons released during mid-circuit measurement, a procedure in which lasers are used to check the quantum state of certain qubits and then reset them.
+Mid-circuit measurement is a key capability in today’s early-stage quantum computers. Because the qubit’s state can be checked and then re-used, researchers can run more complex algorithms – such as the holoQUADS algorithm – with fewer numbers of qubits.
+In an August paper available as a pre-print publication on arXiv, researchers detailed that by “hiding” ions behind micromotion, they significantly reduced the amount of “crosstalk” – errors caused by photons hitting neighboring qubits – that occurred when measuring qubits during an operation.
+“We were able to reduce crosstalk by an order of magnitude,” said Dr. John Gaebler, chief scientist of commercial products at Honeywell Quantum Solutions and lead author of the paper. “It is a significant reduction in crosstalk errors. Much more so than other methods we’ve used.”
+The new technique represents another step toward reducing errors that occur in today’s trapped-ion quantum computers, which is necessary if the technology is to solve problems too complex for classical systems.
+“For quantum computers to scale, we need to reduce errors throughout the system,” said Tony Uttley, president of Honeywell Quantum Solutions. “The new technique the Honeywell team developed will help us get there.”
+Eliminating errors
+Today’s quantum computing technologies are still in the early stage and are prone to “noise” - or interference - caused by qubits interacting with their environment and one another.
+This noise causes errors to accumulate, corrupts information stored in and between physical qubits, and disrupts the quantum state in which qubits must exist to run calculations. Scientists call this decoherence.
+Researchers are trying to eliminate or suppress as many of these errors as possible while also creating logical qubits, a collection of entangled physical qubits on which quantum information is distributed, stored and protected.
+By creating logical qubits, scientists can apply mathematical codes to detect and correct errors and eliminate noise as calculations are running. This multi-step process is known as quantum error correction (QEC). Our researchers recently demonstrated they can detect and correct errors in real-time by applying multiple rounds of full cycles of quantum error correction.
+Logical qubits and QEC are important elements to improving the accuracy and precision of quantum computers. But, Gaebler said, those methods are not enough on their own.
+“Everything has to be working at a certain level before QEC can take you the rest of the way,” he said. “The more we can suppress or eliminate errors in the overall system, the more effective QEC will be and the fewer qubits we need to run complex calculations.”
+Cutting out crosstalk
+In classical computing, bit flip errors occur when a binary digit, or bit, inadvertently switches from a zero to one or vice versa. Quantum computers experience a similar bit flip error as well as phase flip errors. Both errors cause qubits to lose their quantum state – or to decohere. In trapped ion quantum computing, one source of errors comes from the lasers used to implement gate operations and qubit measurements.
+Though these lasers are highly controlled, unruly photons (small packets of light) still escape and bounce into neighboring ions causing “crosstalk” and decoherence.
+Researchers use a variety of methods to protect these ions from crosstalk, especially during mid-circuit measurement where only a single qubit or a small subset of qubits is meant to be measured. With its quantum charged-coupled device (QCCD) architecture, our team takes the approach of moving neighboring ions away from the qubit being fluoresced by a laser.  But there is limited space along the device, which becomes even more compact as more qubits are added.
+“Even when we move them more than 100 microns away, we still get more crosstalk than we prefer,” said Dr. Charlie Baldwin, a senior advanced physicist and co-author of the paper. “There is still some scattered light from the detection laser.”
+Our team hit on hiding neighboring ions from stray photons using micromotion potentials, which are caused by the oscillating electric fields used to “trap” these charged atoms. Micromotion is typically thought of as a nuisance with ion trapping, causing the ions to rapidly oscillate back and forth, and occur when the ions are pushed out of the center of the trap by additional electric fields.
+“Usually, we are trying to eliminate micromotion but in this case, we were able to use it to our benefit,” said Dr. Patty Lee, chief scientist at Honeywell Quantum Solutions.
+Our team’s goal is to reduce by 10 million the probability of a neighboring ion absorbing photons at 110 microns away.  By moving neighboring ions and hiding them behind micromotion, we are approaching that mark.
+How and why the technique works
+In their paper, Honeywell researchers delved into how and why hiding ions with micromotion works, including the ideal frequency of the oscillations. They also identified and characterized errors. (The basic physics behind the concept of hiding ions was first explored by the ion storage group at the National Institute of Standards and Technology.)
+“Mid-circuit operations are a new feature in commercial quantum computing hardware, so we had to invent a new way to validate that the micromotion hiding technique was achieving the low level of crosstalk errors that we predicted,” Baldwin said.
+Though the new method resulted in a significant reduction of crosstalk errors, our team acknowledged there is further to go.
+“Crosstalk is one of those scary errors for scaling,” Gaebler said “It has to be controlled because it becomes more of a problem as you scale and add qubits. This is another tool that will help us scale and help us compact our systems and pack in as many qubits as we can.”
+Quantum
+Related Content
+How Quantum Can Help Computers Comprehend Words & Conversations Like Humans
+Just the TKET: Quantum Software Tool Now Open Source
+Honeywell Sets Another Record For Quantum Computing Performance
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe

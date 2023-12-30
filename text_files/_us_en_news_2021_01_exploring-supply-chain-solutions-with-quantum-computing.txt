@@ -1,0 +1,219 @@
+How BMW Can Maximize its Supply Chain Efficiency
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Close
+Industries
+Industries
+What We Do
+Our Products
+Aerospace
+Commercial Buildings
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics and Warehouses
+Manufacturing
+Retail
+Utilities
+Company
+Company
+About Us
+Investors
+Ventures
+Quantum
+History
+Sustainability
+News
+Careers
+Global
+Africa
+Algeria - English
+Angola - English
+Kenya - English
+Morocco - French
+Nigeria - English
+South Africa - English
+Tunisia - French
+Asia Pacific
+Australia - English
+China - Chinese
+India - English
+Indonesia - Indonesian
+Japan - Japanese
+Malaysia - English
+Republic of Korea - Korean
+Philippines - English
+Thailand - English
+Vietnam - Vietnamese
+Europe
+Austria - German
+Belgium - French
+Belgium - Dutch
+Bulgaria - Bulgarian
+Czech Republic - English
+Denmark - Danish
+Finland - Finnish
+France - French
+Germany - German
+Hungary - Hungarian
+Italy - Italian
+Netherlands - Dutch
+Norway - Norwegian
+Poland - Polish
+Romania - English
+Slovakia - Slovak
+Switzerland - French
+Switzerland - German
+Turkey - Turkish
+United Kingdom - English
+Latin America
+Brazil - Portuguese
+Mexico - Spanish
+Middle East
+Egypt - English
+Saudi Arabia - English
+Saudi Arabia - Arabic
+United Arab Emirates - English
+United Arab Emirates - Arabic
+North America
+Canada - English
+Canada - French
+United States - English
+Contact
+Search
+You are browsing product catalog for
+/content/honeywellbt/us/en/search.html
+title
+subtitle
+News
+How BMW Can Maximize its Supply Chain Efficiency
+How BMW Can Maximize Its Supply Chain Efficiency with Quantum
+The luxury car company is getting the ultimate operational upgrade — powered by Honeywell's quantum computer.
+Few car shoppers think about how materials, goods and services move from suppliers to manufacturers, wholesalers, distributors, retailers and then to their homes.
+But for global companies managing the logistics and keeping supply chains flowing – and customers satisfied – it is critical. Even small disruptions or minor inefficiencies cost time and money.
+Quantum computers, such as Honeywell’s System Model H1, could help.
+Entropica Labs, a Singapore-based quantum software startup, and the BMW Group are teaming up with Honeywell Quantum Solutions.
+They plan to examine supply chains and logistics for the global luxury automobile manufacturer.
+“The BMW Group is always exploring new technologies to further enhance our operations,” said Julius Marcea, Head of IT, Region Asia-Pacific, Eastern Europe, Middle East & Africa, BMW Group.
+“We are excited to investigate the transformative potential of quantum computing on the automotive industry and are committed to extending the limits of engineering performance.”
+Benchmarking performance
+BMW Entropica Labs will develop and run a benchmark for near-term quantum optimization on our H1 hardware.
+Specifically, they used the Recursive Quantum Approximate Optimization Algorithm (R-QAOA) to tackle number partitioning, a classic combinatorial problem that is an entry point to many logistics and supply chain problems of industrial interest. The work leveraged three key features of the Honeywell H1 hardware: full qubit connectivity, high fidelity operations and high angular resolution of the quantum gates.
+The results (see figure below) showed the performance of the H1 to be competitive with a simulator incorporating only shot noise resulting from the finite number of measurements. On the algorithmic side, for the small problem instances studied, the depth-1 R-QAOA has a performance that is comparable to the classical Karmarkar-Karp (KK) heuristic. Future work will explore whether higher-depth versions of R-QAOA are able to outperform the KK algorithm.
+Figure 1: Experimental data taken on the Honeywell System Model H1 demonstrating the performance of the R-QAOA vs. the classical KK heuristic, and the brute force answer (smaller set difference is better). For both H1 (blue) and the simulator (red), 200 shots were taken.
+Quantum computers work much differently than classical computers (the ones we use today for accessing the internet and creating spreadsheets.) Thus, algorithm development for quantum computers requires special skills. It takes a team with a blend of talents spanning between physics and mathematics to write quantum programs, which is why the BMW Group is working with the experts at Entropica Labs for this activity.
+"The results of this simple benchmark project are very informative, and will be helpful to Entropica as we continue to investigate real-world use cases for quantum optimization", said Ewan Munro, Entropica’s Chief Technology Officer and co-founder. "Number partitioning fits well with today's quantum computers, and with larger systems we will be able to explore more industrially relevant problems".
+What’s next
+For Entropica and BMW, the next step is to explore whether more complex versions of R-QAOA can outperform the leading classical algorithms.
+“We have enjoyed working with Honeywell and the BMW Group on this project,” Munro said. “Entropica has worked with both of Honeywell’s hardware offerings, and the increase in performance over the last year has been impressive. We look forward to continuing to leverage the unique features of the H1 system.”
+Honeywell Quantum Solutions President Tony Uttley said the project is an important step toward scaling up quantum technologies.
+“We are quickly moving from benchmarking and double-checking data generated on quantum systems and algorithms to being able to tackle real-world, enterprise-level problems such as global supply chains,” he said.
+Quantum
+Supply Chain
+How Quantum Can Help Computers Comprehend Words & Conversations Like Humans
+Just the TKET: Quantum Software Tool Now Open Source
+Researchers ‘Hide’ Ions to Reduce Quantum Errors
+What We Do
+toggle view
+Honeywell Forge
+Our Industries
+Our Products
+Quantum Solutions
+INDUSTRIES
+toggle view
+Aerospace
+Commercial Real Estate
+Energy
+Healthcare
+IT/High-Tech
+Life Sciences
+Logistics & Warehouse
+Retail
+Utilities
+Company
+toggle view
+About Us
+History
+Investors
+Leadership
+Inclusion & Diversity
+News
+toggle view
+News
+Press & Media
+Careers
+toggle view
+Careers
+Job Search
+Contact Us
+toggle view
+Support
+Business Inquiries
+Employee Access
+FOLLOW US
+LinkedIn
+Facebook
+Twitter
+YouTube
+Instagram
+Scroll to top
+Copyright © 2023 Honeywell International Inc.
+Terms & Conditions
+Privacy Statement
+Your Privacy Choices
+Cookie Notice
+Global Unsubscribe
