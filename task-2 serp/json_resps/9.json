@@ -1,0 +1,299 @@
+{
+    "search_metadata": {
+        "id": "659132b2e13508341d9005df",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ecb7cdec4921ebdd/659132b2e13508341d9005df.json",
+        "created_at": "2023-12-31 09:21:54 UTC",
+        "processed_at": "2023-12-31 09:21:54 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&oq=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ecb7cdec4921ebdd/659132b2e13508341d9005df.html",
+        "total_time_taken": 2.19
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the competitive landscape in which SunSource Energy is working?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the competitive landscape in which SunSource Energy is working?",
+        "total_results": 252000,
+        "time_taken_displayed": 0.74,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&uds=AMIYvT-s2RaPQqHJO7Vq5rPcHythKnzCoErXh72XKy0Aj0DTNyqt8NoA0DhWcLtSA2VFc7Z8mM40FTBXhNbHq5swQTIsAM0QPGQCiDac4GX4UaR_CTiqPeFVZyfgoVTBboKke728JWtIl1ENVBHSSiUtY_oi6CLfY-47hQ5BqpK9shLnrMbGBOBX9eonUpS_2IHjBVpm-vb1&udm=4&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQs6gLegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQ0pQJegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F"
+            },
+            {
+                "position": 3,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F"
+            },
+            {
+                "position": 4,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+sunsource+energy+is+working+qui&uds=AMIYvT87l-yARdDvWAh9S7uLLZ07ns-ZuKukYXwf0bPupCLeQ8ALadk9vww9qFu5_HtSzD3rNTl4A_8yP7h4iepdSaNmZhezoBgYkRWWNYiK3f_FPQKQj8Y3DxBtMKtfkEbc3zVmCsO2NEQgLiNt299iYIa_T0AsyGTVRUtakCQ77IS9QG3oWkHqTMK9Qu6IhLssntRa-aRZ&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+sunsource+energy+is+working+qui"
+            },
+            {
+                "position": 5,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQ0pQJegQIRBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&tbm=nws"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQ0pQJegQIQxAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who are SunSource competitors?",
+            "title": "Sunsource competitors",
+            "date": "Dec 16, 2023",
+            "link": "https://tracxn.com/d/companies/sunsource/__99OaxZjaVo3CyD3hsM24sBmWpK57uW2tGAjueK0gyUw/competitors",
+            "list": [
+                "Lightsource BP. Developer of solar energy projects. ... ",
+                "Sterling And Wilson. Developer of solar energy projects for residential and commercial sector. ... ",
+                "Freyr Energy. Developer of solar energy projects. ... ",
+                "Adani Enterprises. ... ",
+                "Rays Power Infra. ... ",
+                "Serentica Renewables. ... ",
+                "Fourth Partner Energy. ... ",
+                "Apraava."
+            ],
+            "displayed_link": "https://tracxn.com \u203a Discover \u203a Sunsource",
+            "source_logo": "https://serpapi.com/searches/659132b2e13508341d9005df/images/bd5f9046cd2931cc0d85c97f9676ebbc1ea4e975d6a6895026960c0743c67d0b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJXaG8gYXJlIFN1blNvdXJjZSBjb21wZXRpdG9ycz8iLCJsayI6IkdoVnpkVzV6YjNWeVkyVWdZMjl0Y0dWMGFYUnZjbk0iLCJicyI6ImMtTlM1cElMejhoWFNDeEtWUWd1elF2T0x5MUtUbFZJenM4dFNDM0pMTWt2S3JhWGFGWGowdVhTQ005SUxGSElMRllveVVoVktDN05VeTlXeUUzTXpGTW9obWpJVDFOSXpVc3RTcS0wbDFoYnlhWERwWTZwUER1MUVvdnFBODVjRmx6R25uQ0ZZQnFyeVFvaFJhVkFicEZDV21KT2NhcTl4TFVhQVVZQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJXaG8gYXJlIFN1blNvdXJjZSBjb21wZXRpdG9ycz8iLCJsayI6IkdoVnpkVzV6YjNWeVkyVWdZMjl0Y0dWMGFYUnZjbk0iLCJicyI6ImMtTlM1cElMejhoWFNDeEtWUWd1elF2T0x5MUtUbFZJenM4dFNDM0pMTWt2S3JhWGFGWGowdVhTQ005SUxGSElMRllveVVoVktDN05VeTlXeUUzTXpGTW9obWpJVDFOSXpVc3RTcS0wbDFoYnlhWERwWTZwUER1MUVvdnFBODVjRmx6R25uQ0ZZQnFyeVFvaFJhVkFicEZDV21KT2NhcTl4TFVhQVVZQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is the sun's main source of energy?",
+            "snippet": "Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom. This process, known as a PP (proton-proton) chain reaction, emits an enormous amount of energy.",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=by%20the%20sun.-,Solar%20energy%20is%20created%20by%20nuclear%20fusion%20that%20takes%20place,an%20enormous%20amount%20of%20energy.",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "source_logo": "https://serpapi.com/searches/659132b2e13508341d9005df/images/bd5f9046cd2931cc0d85c97f9676ebbc40c32895f81869b178717b0828017ddf.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdW4ncyBtYWluIHNvdXJjZSBvZiBlbmVyZ3k/IiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNCemRXNG5jeUJ0WVdsdUlITnZkWEpqWlNCdlppQmxibVZ5WjNrIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqMHVYU0NNOUlMRkhJTEZZb3lVaFZLQzdOVXk5V3lFM016Rk1vaG1qSVQxTkl6VXN0U3EtMGwxaGJ5YVhEcFk2cFBEdTFFb3ZxQTg1Y0ZsekdubkNGWUJxcnlRb2hSYVZBYnBGQ1dtSk9jYXE5eExVYUFVWUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdW4ncyBtYWluIHNvdXJjZSBvZiBlbmVyZ3k%2FIiwibGsiOiJHaWQzYUdGMElHbHpJSFJvWlNCemRXNG5jeUJ0WVdsdUlITnZkWEpqWlNCdlppQmxibVZ5WjNrIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqMHVYU0NNOUlMRkhJTEZZb3lVaFZLQzdOVXk5V3lFM016Rk1vaG1qSVQxTkl6VXN0U3EtMGwxaGJ5YVhEcFk2cFBEdTFFb3ZxQTg1Y0ZsekdubkNGWUJxcnlRb2hSYVZBYnBGQ1dtSk9jYXE5eExVYUFVWUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the sun's key source of energy?",
+            "snippet": "The source of energy of the Sun is due to the conversion of hydrogen to helium. Solar energy is created as a result of a process known as Nuclear Fusion, a chain reaction that takes place in the Sun.",
+            "title": "Nuclear Fusion",
+            "link": "https://byjus.com/ias-questions/the-source-of-energy-of-the-sun-is-due-to/#:~:text=is%20due%20to%3F-,The%20source%20of%20energy%20of%20the%20Sun%20is%20due%20to,takes%20place%20in%20the%20Sun.",
+            "displayed_link": "https://byjus.com \u203a ias-questions \u203a the-source-of-energy-...",
+            "source_logo": "https://serpapi.com/searches/659132b2e13508341d9005df/images/bd5f9046cd2931cc0d85c97f9676ebbc74cc70ddfa8b201e77aa012df8c5185a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdW4ncyBrZXkgc291cmNlIG9mIGVuZXJneT8iLCJsayI6IkdpRjBhR1VnYzNWdUozTWdhMlY1SUhOdmRYSmpaU0J2WmlCbGJtVnlaM2tnYVhNIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqMHVYU0NNOUlMRkhJTEZZb3lVaFZLQzdOVXk5V3lFM016Rk1vaG1qSVQxTkl6VXN0U3EtMGwxaGJ5YVhEcFk2cFBEdTFFb3ZxQTg1Y0ZsekdubkNGWUJxcnlRb2hSYVZBYnBGQ1dtSk9jYXE5eExVYUFVWUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdW4ncyBrZXkgc291cmNlIG9mIGVuZXJneT8iLCJsayI6IkdpRjBhR1VnYzNWdUozTWdhMlY1SUhOdmRYSmpaU0J2WmlCbGJtVnlaM2tnYVhNIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqMHVYU0NNOUlMRkhJTEZZb3lVaFZLQzdOVXk5V3lFM016Rk1vaG1qSVQxTkl6VXN0U3EtMGwxaGJ5YVhEcFk2cFBEdTFFb3ZxQTg1Y0ZsekdubkNGWUJxcnlRb2hSYVZBYnBGQ1dtSk9jYXE5eExVYUFVWUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Is the sun the main source of energy True or false?",
+            "snippet": "One of the most important sources of energy is the sun. The energy of the sun is the original source of most of the energy found on earth. We get solar heat energy from the sun, and sunlight can also be used to produce electricity from solar (photovoltaic) cells.",
+            "title": "Energy and Time",
+            "link": "https://www.dnr.louisiana.gov/assets/TAD/education/ECEP/sources/a/a.htm#:~:text=One%20of%20the%20most%20important,from%20solar%20(photovoltaic)%20cells.",
+            "displayed_link": "https://www.dnr.louisiana.gov \u203a ECEP \u203a sources \u203a a.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQC2-cRcxlvFpYWQXooSjiBjyahbAT_cXiNqGn8wkOLw&s",
+            "source_logo": "https://serpapi.com/searches/659132b2e13508341d9005df/images/bd5f9046cd2931cc0d85c97f9676ebbc3805661eaafdfdc0ed591f59120b047d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJJcyB0aGUgc3VuIHRoZSBtYWluIHNvdXJjZSBvZiBlbmVyZ3kgVHJ1ZSBvciBmYWxzZT8iLCJsayI6ImM1TXlLc2xJVlNndXpWUElMRllBTVhNVE1fTVVpdk5MaTVKVEZmTFRGRkx6VW92U0t4Vktpa3FCM0NLRnRNU2M0bFFBIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqMHVYU0NNOUlMRkhJTEZZb3lVaFZLQzdOVXk5V3lFM016Rk1vaG1qSVQxTkl6VXN0U3EtMGwxaGJ5YVhEcFk2cFBEdTFFb3ZxQTg1Y0ZsekdubkNGWUJxcnlRb2hSYVZBYnBGQ1dtSk9jYXE5eExVYUFVWUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsVlJVeEhSekJyTVY5VWJHcGhiblZHYlhBMlgxbGFhMFV4YlRORFUwWldRak5GWWxkelRWaDFjWEpyUzB0ZlQxaG1TbGxLTkhSeWVUQllZWE42TlZKQ1gwdHJjbXAyRWhaemVrdFNXbVpVWlV4WlEyMDFUbTlRYm5FMlIwVkJHaUpCU25kckxUaGxkRkpSYW1VeWEzQjNPV3BGUkhOalpuaFhVM1pUV1U1YWNXRlIiLCJmY3YiOiIzIiwiZWkiOiJzektSWmZUZUxZQ201Tm9QbnE2R0VBIiwicWMiOiJDa1ozYUdGMElHbHpJSFJvWlNCamIyMXdaWFJwZEdsMlpTQnNZVzVrYzJOaGNHVWdhVzRnZDJocFkyZ2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQnBjeUIzYjNKcmFXNW5FQUI5Mm8zMlBnIiwicXVlc3Rpb24iOiJJcyB0aGUgc3VuIHRoZSBtYWluIHNvdXJjZSBvZiBlbmVyZ3kgVHJ1ZSBvciBmYWxzZT8iLCJsayI6ImM1TXlLc2xJVlNndXpWUElMRllBTVhNVE1fTVVpdk5MaTVKVEZmTFRGRkx6VW92U0t4Vktpa3FCM0NLRnRNU2M0bFFBIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqMHVYU0NNOUlMRkhJTEZZb3lVaFZLQzdOVXk5V3lFM016Rk1vaG1qSVQxTkl6VXN0U3EtMGwxaGJ5YVhEcFk2cFBEdTFFb3ZxQTg1Y0ZsekdubkNGWUJxcnlRb2hSYVZBYnBGQ1dtSk9jYXE5eExVYUFVWUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy - 57 Competitors and Alternatives",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc/competitors",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc/competitors&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECCEQAQ",
+            "displayed_link": "https://tracxn.com \u203a Discover \u203a SunSource Energy",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d5346748e9dde78026658ec06a0256dc598.png",
+            "date": "Dec 22, 2023",
+            "snippet": "SunSource Energy has 57 active competitors. Competitors include Azure Power, Acciona Energy.",
+            "snippet_highlighted_words": [
+                "Azure Power"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 2,
+            "title": "Sunsource - 791 Competitors and Alternatives",
+            "link": "https://tracxn.com/d/companies/sunsource/__99OaxZjaVo3CyD3hsM24sBmWpK57uW2tGAjueK0gyUw/competitors",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tracxn.com/d/companies/sunsource/__99OaxZjaVo3CyD3hsM24sBmWpK57uW2tGAjueK0gyUw/competitors&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECCgQAQ",
+            "displayed_link": "https://tracxn.com \u203a Discover \u203a Sunsource",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d53a1c7ad1428648ca7c3a814ba767576ac.png",
+            "date": "Dec 16, 2023",
+            "snippet": "Sunsource competitors \u00b7 1. Lightsource BP \u00b7 2. Sterling And Wilson \u00b7 3. Freyr Energy \u00b7 4. Adani Enterprises \u00b7 5. Rays Power Infra \u00b7 6. Serentica ...",
+            "snippet_highlighted_words": [
+                "Lightsource BP"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 3,
+            "title": "Top SunSource Competitors and Alternatives",
+            "link": "https://craft.co/sunsource-sts/competitors",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://craft.co/sunsource-sts/competitors&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECC4QAQ",
+            "displayed_link": "https://craft.co \u203a sunsource-sts \u203a competitors",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d53abe0fddd826e0ba8189c498e2d2cab5c.png",
+            "snippet": "SunSource's main competitors include Flowtech Fluidpower, Hydradyne Hydraulics, BGR Energy Systems, Facility Solutions Group, FCX Performance and Danfoss ...",
+            "snippet_highlighted_words": [
+                "Flowtech Fluidpower"
+            ],
+            "source": "Craft.co"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECCcQAQ",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d53d536b0b87fc9517b820bcab13b43fe8a.png",
+            "snippet": "SunSource Energy is a leading solar company in India, providing Solar energy solutions to corporations and industries. Partner with us for reliable solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy - Overview, News & Competitors",
+            "link": "https://www.zoominfo.com/c/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zoominfo.com/c/sunsource-energy/346888233&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECCQQAQ",
+            "displayed_link": "https://www.zoominfo.com \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d53202bfb074f2dd8edd3f7e66397edad16.png",
+            "snippet": "SunSource Energy top competitors include: Recurrent Energy LLC, OCI Solar Power LLC, Hannah Solar LLC, Forefront Power LLC What technology does SunSource Energy ...",
+            "snippet_highlighted_words": [
+                "Recurrent Energy LLC"
+            ],
+            "source": "Zoominfo"
+        },
+        {
+            "position": 6,
+            "title": "India's solar market is unnecessarily competitive",
+            "link": "https://www.thehindubusinessline.com/news/indias-solar-market-is-unnecessarily-competitive-sunsource-energy/article9474188.ece",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thehindubusinessline.com/news/indias-solar-market-is-unnecessarily-competitive-sunsource-energy/article9474188.ece&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECDUQAQ",
+            "displayed_link": "https://www.thehindubusinessline.com \u203a News",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d533a6f7938c81804053aa5cb433b5fb45e.jpeg",
+            "date": "Jan 11, 2017",
+            "snippet": "India's tariff-based competitive bids for solar power contrasts greatly with similar forays in other countries, according to Adarsh Das, ...",
+            "snippet_highlighted_words": [
+                "India's tariff-based competitive"
+            ],
+            "source": "The Hindu BusinessLine"
+        },
+        {
+            "position": 7,
+            "title": "Started in a living room, this solar energy company now ...",
+            "link": "https://www.sunsource-energy.com/started-living-room-solar-energy-company-now-boasts-over-300mw-project-portfolio",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/started-living-room-solar-energy-company-now-boasts-over-300mw-project-portfolio&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECDgQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a started-living-ro...",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d535352c69855071d5521dc52622c3a30b3.png",
+            "snippet": "SunSource is a provider of solar-based energy and storage solutions to commercial, industrial, and institutional clients across seven countries. Starting its ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "solar",
+                "energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy: Revenue, Competitors, Alternatives",
+            "link": "https://growjo.com/company/SunSource_Energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://growjo.com/company/SunSource_Energy&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECDsQAQ",
+            "displayed_link": "https://growjo.com \u203a company \u203a SunSource_Energy",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d53e4f4a2c270f4e0dc07936c31815e936e.png",
+            "snippet": "SunSource Energy top competitors are Council on Energy Environment and Water, SB Energy and Vivaan Solar and they have annual revenue of $26M and 189 ...",
+            "snippet_highlighted_words": [
+                "Council on Energy Environment and Water, SB Energy"
+            ],
+            "source": "Growjo"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy",
+            "link": "https://indiaesa.info/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://indiaesa.info/sunsource-energy&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECDkQAQ",
+            "displayed_link": "https://indiaesa.info \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d5366e74c4ba103417e5787e0d309ff3241.png",
+            "snippet": "... competitive solar space. SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects, to help clients in ...",
+            "snippet_highlighted_words": [
+                "competitive",
+                "SunSource Energy",
+                "operates"
+            ],
+            "source": "India Energy Storage Alliance"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy doubles its solar energy target to one ...",
+            "link": "https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQFnoECDQQAQ",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 2022111...",
+            "favicon": "https://serpapi.com/searches/659132b2e13508341d9005df/images/3574294aceb7def8ee89d16dea777d5323bb68413339e2544a369042ba8bdb87.png",
+            "date": "Nov 14, 2022",
+            "snippet": "SHV Energy, via its Indian subsidiary SunSource Energy, has announced it will double its solar energy deployment target by 2027.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "SHV Energy"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the competitive landscape in which sunsource energy is working qui",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+competitive+landscape+in+which+sunsource+energy+is+working+qui&sa=X&ved=2ahUKEwi0hJ3frLmDAxUAE1kFHR6XAQIQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+sunsource+energy+is+working+qui"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&oq=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&oq=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&oq=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&oq=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&oq=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+competitive+landscape+in+which+SunSource+Energy+is+working%3F&start=40"
+        }
+    }
+}

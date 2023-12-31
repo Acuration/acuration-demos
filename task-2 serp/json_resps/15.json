@@ -1,0 +1,329 @@
+{
+    "search_metadata": {
+        "id": "65913336660dbd5af84d3e60",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ece49533037684bd/65913336660dbd5af84d3e60.json",
+        "created_at": "2023-12-31 09:24:06 UTC",
+        "processed_at": "2023-12-31 09:24:06 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&oq=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ece49533037684bd/65913336660dbd5af84d3e60.html",
+        "total_time_taken": 1.56
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the total user base of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the total user base of the company SunSource Energy?",
+        "total_results": 107000,
+        "time_taken_displayed": 0.3,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&uds=AMIYvT_5ODyVw2eEXG9M1UteJoqCLclyfJSVqmQeXRxPsE4emUmR1XCoJhL2KFdewJ9W5pt5Lu-Hs15yvnfnzawdW3GDTOIzLIXc_SGxufDJVnrMYftgKmJD6p3ufEIJ4p4UvXxk7arwEzscj8CnqByXoORtnkkvX65Y2Ocniske5cS1eWxhERt3dRIVUaMM7mH-4ES_2ycP&udm=4&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Qs6gLegQICRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+sunsource+energy+qui&uds=AMIYvT_Hy3MKHDHJqKPgPJ-Zk8hIxkBnkD8PFpz0tTEauzsDBnsm4RYTXJ2H_J4WZq5NBdJWch-ctDDBX_qrxSGE8PKq8Qe32eFPIj_rxGFkxIcl5Qi8ChSXOT0L3vqrPCehnGzRG-O-civVRy5RfvUIUw_d8HZ6Pw5oRVx9aYmyVJBoyY9BWyo&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0QxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q0pQJegQISBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q0pQJegQISRAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=What+is+the+total+user+base+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who are SunSource competitors?",
+            "title": "Sunsource competitors",
+            "date": "Dec 16, 2023",
+            "link": "https://tracxn.com/d/companies/sunsource/__99OaxZjaVo3CyD3hsM24sBmWpK57uW2tGAjueK0gyUw/competitors",
+            "list": [
+                "Lightsource BP. Developer of solar energy projects. ... ",
+                "Sterling And Wilson. Developer of solar energy projects for residential and commercial sector. ... ",
+                "Freyr Energy. Developer of solar energy projects. ... ",
+                "Adani Enterprises. ... ",
+                "Rays Power Infra. ... ",
+                "Serentica Renewables. ... ",
+                "Fourth Partner Energy. ... ",
+                "Apraava."
+            ],
+            "displayed_link": "https://tracxn.com \u203a companies \u203a sunsource \u203a competitors",
+            "source_logo": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/8876fe4386b012c291a4a3c321f3c8475ed1c1f81324fdc3b5fa26613ae50e23.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaG8gYXJlIFN1blNvdXJjZSBjb21wZXRpdG9ycz8iLCJsayI6IkdoVnpkVzV6YjNWeVkyVWdZMjl0Y0dWMGFYUnZjbk0iLCJicyI6ImMxV05Pd3JDUUJCQVNUczJscWxrUU5ER3pzWXVoMGlSZW8yVDdNSTZJN096aEJ6QTQzZ0R6LUY1WkFtSzl1OERXOWgwWHRBcFladTVsYXc5WVNfWEcxa3cwZFRVOXgwY1lGLWdrTkE4NFNDWkw2UW93NDlDVERyT1RmMWF3UW1PblEtOUw4REN4eWhUNExFRVdBelBsQXlGTVVsMC1qV2YxZkp4OWhrbEwyckZvSkw2cHhfenVub0QiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaG8gYXJlIFN1blNvdXJjZSBjb21wZXRpdG9ycz8iLCJsayI6IkdoVnpkVzV6YjNWeVkyVWdZMjl0Y0dWMGFYUnZjbk0iLCJicyI6ImMxV05Pd3JDUUJCQVNUczJscWxrUU5ER3pzWXVoMGlSZW8yVDdNSTZJN096aEJ6QTQzZ0R6LUY1WkFtSzl1OERXOWgwWHRBcFladTVsYXc5WVNfWEcxa3cwZFRVOXgwY1lGLWdrTkE4NFNDWkw2UW93NDlDVERyT1RmMWF3UW1PblEtOUw4REN4eWhUNExFRVdBelBsQXlGTVVsMC1qV2YxZkp4OWhrbEwyckZvSkw2cHhfenVub0QiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/8876fe4386b012c291a4a3c321f3c84796398704f05eed388af1129984cb5233.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGZvdW5kZXIgb2YgU3VuU291cmNlIGVuZXJneT8iLCJsayI6IkdodG1iM1Z1WkdWeUlHOW1JSE4xYm5OdmRYSmpaU0JsYm1WeVozayIsImJzIjoiYzFXTk93ckNRQkJBU1RzMmxxbGtRTkRHenNZdWgwaVJlbzJUN01JNkk3T3poQnpBNDNnRHotRjVaQW1LOXU4RFc5aDBYdEFwWVp1NWxhdzlZU19YRzFrdzBkVFU5eDBjWUYtZ2tOQTg0U0NaTDZRb3c0OUNURHJPVGYxYXdRbU9uUS05TDhEQ3h5aFQ0TEVFV0F6UGxBeUZNVWwwLWpXZjFmSng5aGtsTDJyRm9KTDZweF96dW5vRCIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGZvdW5kZXIgb2YgU3VuU291cmNlIGVuZXJneT8iLCJsayI6IkdodG1iM1Z1WkdWeUlHOW1JSE4xYm5OdmRYSmpaU0JsYm1WeVozayIsImJzIjoiYzFXTk93ckNRQkJBU1RzMmxxbGtRTkRHenNZdWgwaVJlbzJUN01JNkk3T3poQnpBNDNnRHotRjVaQW1LOXU4RFc5aDBYdEFwWVp1NWxhdzlZU19YRzFrdzBkVFU5eDBjWUYtZ2tOQTg0U0NaTDZRb3c0OUNURHJPVGYxYXdRbU9uUS05TDhEQ3h5aFQ0TEVFV0F6UGxBeUZNVWwwLWpXZjFmSng5aGtsTDJyRm9KTDZweF96dW5vRCIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Which of the following is not best on solar energy?",
+            "snippet": "However, the efficiency of solar energy is low. Hence, high efficiency is not one of the advantages of solar energy.",
+            "title": "Which of the following options is not an advantage of a solar panel?",
+            "link": "https://byjus.com/question-answer/which-of-the-following-options-is-not-an-advantage-of-a-solar-panel-does-not/#:~:text=However%2C%20the%20efficiency%20of%20solar,the%20advantages%20of%20solar%20energy.",
+            "displayed_link": "https://byjus.com \u203a question-answer \u203a which-of-the-follo...",
+            "source_logo": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/8876fe4386b012c291a4a3c321f3c847424927bc415d8f88e653c6871de3c574.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIG5vdCBiZXN0IG9uIHNvbGFyIGVuZXJneT8iLCJsayI6IkdqSjNhR2xqYUNCdlppQjBhR1VnWm05c2JHOTNhVzVuSUdseklHNXZkQ0JpWlhOMElHOXVJSE52YkdGeUlHVnVaWEpuZVEiLCJicyI6ImMxV05Pd3JDUUJCQVNUczJscWxrUU5ER3pzWXVoMGlSZW8yVDdNSTZJN096aEJ6QTQzZ0R6LUY1WkFtSzl1OERXOWgwWHRBcFladTVsYXc5WVNfWEcxa3cwZFRVOXgwY1lGLWdrTkE4NFNDWkw2UW93NDlDVERyT1RmMWF3UW1PblEtOUw4REN4eWhUNExFRVdBelBsQXlGTVVsMC1qV2YxZkp4OWhrbEwyckZvSkw2cHhfenVub0QiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaGljaCBvZiB0aGUgZm9sbG93aW5nIGlzIG5vdCBiZXN0IG9uIHNvbGFyIGVuZXJneT8iLCJsayI6IkdqSjNhR2xqYUNCdlppQjBhR1VnWm05c2JHOTNhVzVuSUdseklHNXZkQ0JpWlhOMElHOXVJSE52YkdGeUlHVnVaWEpuZVEiLCJicyI6ImMxV05Pd3JDUUJCQVNUczJscWxrUU5ER3pzWXVoMGlSZW8yVDdNSTZJN096aEJ6QTQzZ0R6LUY1WkFtSzl1OERXOWgwWHRBcFladTVsYXc5WVNfWEcxa3cwZFRVOXgwY1lGLWdrTkE4NFNDWkw2UW93NDlDVERyT1RmMWF3UW1PblEtOUw4REN4eWhUNExFRVdBelBsQXlGTVVsMC1qV2YxZkp4OWhrbEwyckZvSkw2cHhfenVub0QiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the short note of solar energy?",
+            "snippet": "Solar energy is any type of energy generated by the sun. Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom.",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=Article%20Vocabulary-,Solar%20energy%20is%20any%20type%20of%20energy%20generated%20by%20the,to%20create%20a%20helium%20atom.",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "source_logo": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/8876fe4386b012c291a4a3c321f3c847e1d5b675482d35b7950a92c571b8b1ea.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzaG9ydCBub3RlIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdocHphRzl5ZENCdWIzUmxJRzl1SUhOdmJHRnlJR1Z1WlhKbmVRIiwiYnMiOiJjMVdOT3dyQ1FCQkFTVHMybHFsa1FOREd6c1l1aDBpUmVvMlQ3TUk2STdPemhCekE0M2dEei1GNVpBbUs5dThEVzloMFh0QXBZWnU1bGF3OVlTX1hHMWt3MGRUVTl4MGNZRi1na05BODRTQ1pMNlFvdzQ5Q1REck9UZjFhd1FtT25RLTlMOERDeHloVDRMRUVXQXpQbEF5Rk1VbDAtaldmMWZKeDloa2xMMnJGb0pMNnB4X3p1bm9EIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVFcFNZbmRJUjFSMVNWOTZRVFpaUm14VmF6aENVVTkyWTJWTlJWbEZNRVZyVEcwMFFuWmFZVk5uY0cxSmMxSnBVMWRLVTJSbVRITmZXVTFtVm1wUWIycFVTV1ZaRWhkT2FrOVNXbGt5VWxCUVIwZDNZbXRRY0RWSE5UWkJVUm9pUVVwM2F5MDRZMUJLT0RaMU1tWkNZVzV4UkdOU1RGUnNVVVF5YWxsdVRVaFpkdyIsImZjdiI6IjMiLCJlaSI6Ik5qT1JaWTJSUFBHR3dia1BwNUc1NkFRIiwicWMiOiJjLU95THM5SUxGSElMRllveVVoVktNa3ZTY3hSS0MxT0xWSklTaXhPVmNoUEF3c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUXVsR0d3QndBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzaG9ydCBub3RlIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdocHphRzl5ZENCdWIzUmxJRzl1SUhOdmJHRnlJR1Z1WlhKbmVRIiwiYnMiOiJjMVdOT3dyQ1FCQkFTVHMybHFsa1FOREd6c1l1aDBpUmVvMlQ3TUk2STdPemhCekE0M2dEei1GNVpBbUs5dThEVzloMFh0QXBZWnU1bGF3OVlTX1hHMWt3MGRUVTl4MGNZRi1na05BODRTQ1pMNlFvdzQ5Q1REck9UZjFhd1FtT25RLTlMOERDeHloVDRMRUVXQXpQbEF5Rk1VbDAtaldmMWZKeDloa2xMMnJGb0pMNnB4X3p1bm9EIiwiaWQiOiJmY18xIn0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.crunchbase.com/organization/sunsource-energy",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e9308095e7525b57ce44c8ba5d443673a6bc3.png",
+            "snippet": "SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "Crunchbase"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy - Company Profile",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "redirect_link": "https://www.google.comhttps://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "displayed_link": "https://tracxn.com \u203a Discover",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e9308de4c9f69969843dee5570f4ee3a8acff.png",
+            "date": "Dec 22, 2023",
+            "snippet": "SunSource Energy has 158 employees as of Oct 23. The total employee count is 0 lower than it was for Sep 23. To see full employee count trend, ...",
+            "snippet_highlighted_words": [
+                "158 employees"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy - Overview, News & Competitors",
+            "link": "https://www.zoominfo.com/c/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.comhttps://www.zoominfo.com/c/sunsource-energy/346888233",
+            "displayed_link": "https://www.zoominfo.com \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e9308ef8261e896365c51efe45013fbf7d66e.png",
+            "snippet": "View SunSource Energy (www.sunsource-energy.com) location in New Jersey, United States , revenue, industry and description. Find related and similar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "sunsource",
+                "energy"
+            ],
+            "missing": [
+                "base"
+            ],
+            "must_include": {
+                "word": "base",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+%22base%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q5t4CegQIJBAB"
+            },
+            "source": "Zoominfo"
+        },
+        {
+            "position": 4,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/about-us",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e9308a87f475a78e6fafc5d5b2d2b2ed19a9b.png",
+            "snippet": "SunSource Energy is part SHV Energy is a leading global distributor of off-grid energy with 30 million customers across 4 continents. It is a wholly owned ...",
+            "snippet_highlighted_words": [
+                "30 million customers"
+            ],
+            "missing": [
+                "total",
+                "base"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Company Profile: Valuation, Funding & Investors",
+            "link": "https://pitchbook.com/profiles/company/12092-14",
+            "redirect_link": "https://www.google.comhttps://pitchbook.com/profiles/company/12092-14",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e9308da1d1d57972d72bc91b526ec2be87450.png",
+            "snippet": "Information on valuation, funding, acquisitions, investors, and executives for SunSource. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "Use",
+                "full"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy",
+            "link": "https://www.sunsource-energy.com/sites/default/files/2022-06/SunSource%20Energy%20-%20Corporate%20Deck.pdf",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/sites/default/files/2022-06/SunSource%20Energy%20-%20Corporate%20Deck.pdf",
+            "displayed_link": "https://www.sunsource-energy.com \u203a sites \u203a files",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e930857b12ea5a3ac0a1f097df3b4f51c2b61.png",
+            "date": "18 pages",
+            "snippet": "SunSource Energy focus' on providing commercial and industrial customers solar products and services across the entire value chain from solar design and.",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "entire"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy",
+            "link": "https://pa.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://pa.linkedin.com/company/sunsource-energy",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e9308d980de9c779ea4e6c5d57a55dae0397b.png",
+            "snippet": "SunSource Energy is a leading provider of solar-based energy and storage solutions to commercial, industrial and institutional customers.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 8,
+            "title": "SunSource",
+            "link": "https://www.solarpowerworldonline.com/suppliers/sunsource/",
+            "redirect_link": "https://www.google.comhttps://www.solarpowerworldonline.com/suppliers/sunsource/",
+            "displayed_link": "https://www.solarpowerworldonline.com \u203a suppliers",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e93088b75fdb1a369531c373fa666abd762e8.png",
+            "snippet": "SunSource ; 2017 STATISTICS. 2018 Rank #360 ; Total Kilowatts Installed 2017: 585.1, Employees: 25 ; Primary Market: Residential, Primary Service: EPC ...",
+            "snippet_highlighted_words": [
+                "585.1"
+            ],
+            "source": "Solar Power World"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy Company Profile: Valuation, Investors ...",
+            "link": "https://pitchbook.com/profiles/company/227498-68",
+            "redirect_link": "https://www.google.comhttps://pitchbook.com/profiles/company/227498-68",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e930835c64d49ba4fae3bd2f370fc1c30a5a0.png",
+            "snippet": "Information on acquisition, funding, investors, and executives for SunSource Energy. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "Use",
+                "full"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 10,
+            "title": "SUNSOURCE ENERGY PRIVATE LIMITED",
+            "link": "https://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281",
+            "redirect_link": "https://www.google.comhttps://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281",
+            "displayed_link": "https://www.tofler.in \u203a ... \u203a Business Services",
+            "favicon": "https://serpapi.com/searches/65913336660dbd5af84d3e60/images/5ccaf249387547f67c9d4371ac6e930891de07ea19b0c14ef0a71f5d9df0e522.png",
+            "snippet": "It is classified as a private limited company and is located in Gautam Buddha Nagar, Uttar Pradesh. It's authorized share capital is INR 2.65 cr and the total ...",
+            "snippet_highlighted_words": [
+                "INR 2.65 cr"
+            ],
+            "source": "Tofler"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the total user base of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+total+user+base+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "shv energy",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SHV+Energy&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SHV+Energy"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy share price",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sun+Source+Energy+share+price&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiNhOedrbmDAxVxQzABHadIDk0Q1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&oq=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&oq=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&oq=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&oq=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&oq=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+total+user+base+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

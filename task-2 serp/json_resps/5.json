@@ -1,0 +1,370 @@
+{
+    "search_metadata": {
+        "id": "659132ab382427114f0c18fd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f0745e08e9b1248c/659132ab382427114f0c18fd.json",
+        "created_at": "2023-12-31 09:21:47 UTC",
+        "processed_at": "2023-12-31 09:21:47 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&oq=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f0745e08e9b1248c/659132ab382427114f0c18fd.html",
+        "total_time_taken": 0.75
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the unique selling point (USP) of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the unique selling point (USP) of the company SunSource Energy?",
+        "total_results": 8100,
+        "time_taken_displayed": 0.46,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&uds=AMIYvT-s2RaPQqHJO7Vq5rPcHythKnzCoErXh72XKy0Aj0DTNzK-rd5pAVLuUaR4uaqRxKiQoq-7RS6pWSoKJXCHKta6r3yJIHw-Z9tSQKrD2O6-xUTv_GYJDMSOr_IzqG_WyMAmCrOhFpyaaB3nYmbrFiO2JXSOdod_dxnkTwbyGEivnGFb-uWdNRqMDyAapJllzrebdtbG&udm=4&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQs6gLegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ0pQJegQIThAB"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sca_esv=594717547&output=search&q=What+is+the+unique+selling+point+(USP)+of+the+company+SunSource+Energy%3F&source=lnms&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ0pQJegQIShAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the unique selling proposition of solar panels?",
+            "snippet": "The value proposition of a solar installation is that it can reduce the electricity bill by 50% and provide clean energy.",
+            "title": "What is the value proposition of a solar installation? - TruHome Pros",
+            "date": "Jan 14, 2022",
+            "link": "https://www.truhome-pros.com/what-is-the-value-proposition-of-a-solar-installation/#:~:text=The%20value%20proposition%20of%20a%20solar%20installation%20is%20that%20it,50%25%20and%20provide%20clean%20energy.",
+            "displayed_link": "https://www.truhome-pros.com \u203a what-is-the-value-prop...",
+            "source_logo": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/6b63a800bfb0c5e104745e26339dd02385488460f7895266ab4db8eb148e570f.jpeg",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2VsODNTV2d5T0ZaVk5XdDNVMDVFVkZGVlEySTJPRlkzVVc1VGVFWTVhbk10UVV4blRHWk1kM0UwWDI1WFgyOUNNMmxQYjAxeVNHbE1UblU0V0cxMVNXaEVXa0ZwRWhkeGVrdFNXbHBMVWtodlV6VnhkSE5RYUdSSFluVkJZeG9pUVVwM2F5MDRaa1pCWHprelIyWlBRM1ZPVlc1UU5GSm9kR3RzZUMxR1VVOXNkdyIsImZjdiI6IjMiLCJlaSI6InF6S1JaWktSSG9TNXF0c1BoZEdidUFjIiwicWMiOiJjLU55S2M5SUxGSElMRllveVVoVktNM0xMQ3hOVlNoT3pjbkp6RXRYS01qUHpDdFJLQzB1VU1oUEE4c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUWV5Tk96QndBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB1bmlxdWUgc2VsbGluZyBwcm9wb3NpdGlvbiBvZiBzb2xhciBwYW5lbHM/IiwibGsiOiJHaXAxYm1seGRXVWdjMlZzYkdsdVp5QndjbTl3YjNOcGRHbHZiaUJ2WmlCemIyeGhjaUJ3WVc1bGJITSIsImJzIjoiYzAyTU1Rb0NNUkFBc2QzS01vMnczVFgyTmtJS3Z5QmNIWFJOQXN0dTNFMktlOHY5dzlxbnlXbGpPVEF6Y0liVFhGTEg2dGdMNFpENkhJUk96RlV5TnRPbVhudFZRWDJnS3lmRGxvVFlZM2hkNFFqVGYtMDY3RWFiLWFVaGt5TUpXVjVpZUZfZ0FHRXV5eWJfUnA2WUhMUHFQWWJWOXJzUCIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2VsODNTV2d5T0ZaVk5XdDNVMDVFVkZGVlEySTJPRlkzVVc1VGVFWTVhbk10UVV4blRHWk1kM0UwWDI1WFgyOUNNMmxQYjAxeVNHbE1UblU0V0cxMVNXaEVXa0ZwRWhkeGVrdFNXbHBMVWtodlV6VnhkSE5RYUdSSFluVkJZeG9pUVVwM2F5MDRaa1pCWHprelIyWlBRM1ZPVlc1UU5GSm9kR3RzZUMxR1VVOXNkdyIsImZjdiI6IjMiLCJlaSI6InF6S1JaWktSSG9TNXF0c1BoZEdidUFjIiwicWMiOiJjLU55S2M5SUxGSElMRllveVVoVktNM0xMQ3hOVlNoT3pjbkp6RXRYS01qUHpDdFJLQzB1VU1oUEE4c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUWV5Tk96QndBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB1bmlxdWUgc2VsbGluZyBwcm9wb3NpdGlvbiBvZiBzb2xhciBwYW5lbHM%2FIiwibGsiOiJHaXAxYm1seGRXVWdjMlZzYkdsdVp5QndjbTl3YjNOcGRHbHZiaUJ2WmlCemIyeGhjaUJ3WVc1bGJITSIsImJzIjoiYzAyTU1Rb0NNUkFBc2QzS01vMnczVFgyTmtJS3Z5QmNIWFJOQXN0dTNFMktlOHY5dzlxbnlXbGpPVEF6Y0liVFhGTEg2dGdMNFpENkhJUk96RlV5TnRPbVhudFZRWDJnS3lmRGxvVFlZM2hkNFFqVGYtMDY3RWFiLWFVaGt5TUpXVjVpZUZfZ0FHRXV5eWJfUnA2WUhMUHFQWWJWOXJzUCIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "The source of energy of the Sun is due to the conversion of hydrogen to helium. Solar energy is created as a result of a process known as Nuclear Fusion, a chain reaction that takes place in the Sun.",
+            "title": "The source of energy of the Sun is due to? - BYJU'S",
+            "link": "https://byjus.com/ias-questions/the-source-of-energy-of-the-sun-is-due-to/#:~:text=is%20due%20to%3F-,The%20source%20of%20energy%20of%20the%20Sun%20is%20due%20to,takes%20place%20in%20the%20Sun.",
+            "displayed_link": "https://byjus.com \u203a ias-questions \u203a the-source-of-energy-...",
+            "source_logo": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/6b63a800bfb0c5e104745e26339dd023c5084f4002b7a4a1cf228ad0266d9b62.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2VsODNTV2d5T0ZaVk5XdDNVMDVFVkZGVlEySTJPRlkzVVc1VGVFWTVhbk10UVV4blRHWk1kM0UwWDI1WFgyOUNNMmxQYjAxeVNHbE1UblU0V0cxMVNXaEVXa0ZwRWhkeGVrdFNXbHBMVWtodlV6VnhkSE5RYUdSSFluVkJZeG9pUVVwM2F5MDRaa1pCWHprelIyWlBRM1ZPVlc1UU5GSm9kR3RzZUMxR1VVOXNkdyIsImZjdiI6IjMiLCJlaSI6InF6S1JaWktSSG9TNXF0c1BoZEdidUFjIiwicWMiOiJjLU55S2M5SUxGSElMRllveVVoVktNM0xMQ3hOVlNoT3pjbkp6RXRYS01qUHpDdFJLQzB1VU1oUEE4c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUWV5Tk96QndBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzb3VyY2Ugb2YgdGhlIHN1bidzIGVuZXJneT8iLCJsayI6IkdoaHpkVzRnWm05eUlITnZkWEpqWlNCdlppQmxibVZ5WjNrIiwiYnMiOiJjMDJNTVFvQ01SQUFzZDNLTW8ydzNUWDJOa0lLdnlCY0hYUk5Bc3R1M0UyS2U4djl3OXFueVdsak9UQXpjSWJUWEZMSDZ0Z0w0WkQ2SElST3pGVXlOdE9tWG50VlFYMmdLeWZEbG9UWVkzaGQ0UWpUZi0wNjdFYWItYVVoa3lNSldWNWllRl9nQUdFdXl5Yl9ScDZZSExQcVBZYlY5cnNQIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2VsODNTV2d5T0ZaVk5XdDNVMDVFVkZGVlEySTJPRlkzVVc1VGVFWTVhbk10UVV4blRHWk1kM0UwWDI1WFgyOUNNMmxQYjAxeVNHbE1UblU0V0cxMVNXaEVXa0ZwRWhkeGVrdFNXbHBMVWtodlV6VnhkSE5RYUdSSFluVkJZeG9pUVVwM2F5MDRaa1pCWHprelIyWlBRM1ZPVlc1UU5GSm9kR3RzZUMxR1VVOXNkdyIsImZjdiI6IjMiLCJlaSI6InF6S1JaWktSSG9TNXF0c1BoZEdidUFjIiwicWMiOiJjLU55S2M5SUxGSElMRllveVVoVktNM0xMQ3hOVlNoT3pjbkp6RXRYS01qUHpDdFJLQzB1VU1oUEE4c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUWV5Tk96QndBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzb3VyY2Ugb2YgdGhlIHN1bidzIGVuZXJneT8iLCJsayI6IkdoaHpkVzRnWm05eUlITnZkWEpqWlNCdlppQmxibVZ5WjNrIiwiYnMiOiJjMDJNTVFvQ01SQUFzZDNLTW8ydzNUWDJOa0lLdnlCY0hYUk5Bc3R1M0UyS2U4djl3OXFueVdsak9UQXpjSWJUWEZMSDZ0Z0w0WkQ2SElST3pGVXlOdE9tWG50VlFYMmdLeWZEbG9UWVkzaGQ0UWpUZi0wNjdFYWItYVVoa3lNSldWNWllRl9nQUdFdXl5Yl9ScDZZSExQcVBZYlY5cnNQIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Why is solar sales good?",
+            "snippet": "Makes good money Solar salespeople are often well-compensated for their work. In addition to a base salary, many solar companies offer commission-based pay structures. This means your earnings potential is unlimited.",
+            "title": "Everything You Need To Know About Solar Panel Salesman Job - Sunbase",
+            "date": "Sep 19, 2022",
+            "link": "https://www.sunbasedata.com/everything-you-need-to-know-about-solar-panel-salesman-job#:~:text=Makes%20good%20money,your%20earnings%20potential%20is%20unlimited.",
+            "displayed_link": "https://www.sunbasedata.com \u203a everything-you-need-to-...",
+            "source_logo": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/6b63a800bfb0c5e104745e26339dd02321dc1ae0ac1c5bbca631e6dd555c7970.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2VsODNTV2d5T0ZaVk5XdDNVMDVFVkZGVlEySTJPRlkzVVc1VGVFWTVhbk10UVV4blRHWk1kM0UwWDI1WFgyOUNNMmxQYjAxeVNHbE1UblU0V0cxMVNXaEVXa0ZwRWhkeGVrdFNXbHBMVWtodlV6VnhkSE5RYUdSSFluVkJZeG9pUVVwM2F5MDRaa1pCWHprelIyWlBRM1ZPVlc1UU5GSm9kR3RzZUMxR1VVOXNkdyIsImZjdiI6IjMiLCJlaSI6InF6S1JaWktSSG9TNXF0c1BoZEdidUFjIiwicWMiOiJjLU55S2M5SUxGSElMRllveVVoVktNM0xMQ3hOVlNoT3pjbkp6RXRYS01qUHpDdFJLQzB1VU1oUEE4c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUWV5Tk96QndBIiwicXVlc3Rpb24iOiJXaHkgaXMgc29sYXIgc2FsZXMgZ29vZD8iLCJsayI6IkdoZDNhSGtnYVhNZ2MyOXNZWElnYzJGc1pYTWdaMjl2WkEiLCJicyI6ImMwMk1NUW9DTVJBQXNkM0tNbzJ3M1RYMk5rSUt2eUJjSFhSTkFzdHUzRTJLZTh2OXc5cW55V2xqT1RBemNJYlRYRkxINnRnTDRaRDZISVJPekZVeU50T21YbnRWUVgyZ0t5ZkRsb1RZWTNoZDRRalRmLTA2N0VhYi1hVWhreU1KV1Y1aWVGX2dBR0V1eXliX1JwNllITFBxUFliVjlyc1AiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2VsODNTV2d5T0ZaVk5XdDNVMDVFVkZGVlEySTJPRlkzVVc1VGVFWTVhbk10UVV4blRHWk1kM0UwWDI1WFgyOUNNMmxQYjAxeVNHbE1UblU0V0cxMVNXaEVXa0ZwRWhkeGVrdFNXbHBMVWtodlV6VnhkSE5RYUdSSFluVkJZeG9pUVVwM2F5MDRaa1pCWHprelIyWlBRM1ZPVlc1UU5GSm9kR3RzZUMxR1VVOXNkdyIsImZjdiI6IjMiLCJlaSI6InF6S1JaWktSSG9TNXF0c1BoZEdidUFjIiwicWMiOiJjLU55S2M5SUxGSElMRllveVVoVktNM0xMQ3hOVlNoT3pjbkp6RXRYS01qUHpDdFJLQzB1VU1oUEE4c241LWNXSk9aVktoU1g1aFhubHhZbHB5cWs1cVVXcFZjS01OUWV5Tk96QndBIiwicXVlc3Rpb24iOiJXaHkgaXMgc29sYXIgc2FsZXMgZ29vZD8iLCJsayI6IkdoZDNhSGtnYVhNZ2MyOXNZWElnYzJGc1pYTWdaMjl2WkEiLCJicyI6ImMwMk1NUW9DTVJBQXNkM0tNbzJ3M1RYMk5rSUt2eUJjSFhSTkFzdHUzRTJLZTh2OXc5cW55V2xqT1RBemNJYlRYRkxINnRnTDRaRDZISVJPekZVeU50T21YbnRWUVgyZ0t5ZkRsb1RZWTNoZDRRalRmLTA2N0VhYi1hVWhreU1KV1Y1aWVGX2dBR0V1eXliX1JwNllITFBxUFliVjlyc1AiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Clean Energy Solutions' Unique Selling Proposition ...",
+            "link": "https://finance.yahoo.com/news/clean-energy-solutions-unique-selling-074800599.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/news/clean-energy-solutions-unique-selling-074800599.html&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECBAQAQ",
+            "displayed_link": "https://finance.yahoo.com \u203a news \u203a clean-energy-sol...",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc27439c042312d442ae88d7dd7a4eabdb58ca.png",
+            "date": "May 11, 2022",
+            "snippet": "A remarkable feat mainly attributed to its unique sales proposition (USP)--providing the essential solar panels and charging clients only for ...",
+            "snippet_highlighted_words": [
+                "USP)--providing the essential solar panels and charging clients only for"
+            ],
+            "source": "Yahoo Finance"
+        },
+        {
+            "position": 2,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/about-us&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECA8QAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc2743933735dd68bd3ecc523b9a794f51d08b.png",
+            "snippet": "Learn more about SunSource Energy, offering innovative renewable energy solutions. Discover our mission and commitment to a sustainable future.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "missing": [
+                "selling",
+                "point",
+                "(USP)"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "STAND OUT: Renewable Energy Firms Unique Selling ...",
+            "link": "https://www.linkedin.com/pulse/what-makes-renewable-energy-firm-unique-ephraim-wainaina",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pulse/what-makes-renewable-energy-firm-unique-ephraim-wainaina&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECBQQAQ",
+            "displayed_link": "30+ reactions \u00b7 5 years ago",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc27437373528c14231f7d68c9f48488f00c88.png",
+            "snippet": "Some unique solutions are the PPA arrangements where the renewable energy firms fund and own the project and the client incur zero initial cost ...",
+            "snippet_highlighted_words": [
+                "renewable energy firms fund and own the project and the client incur zero initial cost"
+            ],
+            "missing": [
+                "SunSource"
+            ],
+            "must_include": {
+                "word": "SunSource",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+(USP)+of+the+company+%22SunSource%22+Energy?&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ5t4CegQIFRAB"
+            },
+            "source": "LinkedIn \u00b7 Ephraim Wainaina"
+        },
+        {
+            "position": 4,
+            "title": "Solar selling point: How installers can capitalize on the ...",
+            "link": "https://www.solarpowerworldonline.com/2017/02/solar-selling-point/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.solarpowerworldonline.com/2017/02/solar-selling-point/&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECBIQAQ",
+            "displayed_link": "https://www.solarpowerworldonline.com \u203a 2017/02",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc2743d5569f7c97171aabfcb5e536802a86a7.png",
+            "date": "Feb 27, 2017",
+            "snippet": "The company sees two reasons for businesses to shift to solar: 1) out of social responsibility to the earth and to their consumers and clients, ...",
+            "snippet_highlighted_words": [
+                "out of social responsibility to the earth and to their consumers and clients"
+            ],
+            "source": "Solar Power World"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECBcQAQ",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc27438b8bd321df47e07453f794dfba1ecfd2.png",
+            "snippet": "A leading provider of solar-based energy and storage solutions to commercial, industrial and institutional clients in India, South East Asia, Middle East and ...",
+            "snippet_highlighted_words": [
+                "solar",
+                "energy"
+            ],
+            "missing": [
+                "unique",
+                "selling",
+                "point",
+                "(USP)"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 6,
+            "title": "Sun Source Energy - Profile & Reviews - 2023",
+            "link": "https://www.energysage.com/supplier/26331/sun-source-energy/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.energysage.com/supplier/26331/sun-source-energy/&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECDgQAQ",
+            "displayed_link": "https://www.energysage.com \u203a supplier \u203a sun-source-...",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc27439de27eb5d0dfd15bada51b2b0b9dfea9.png",
+            "snippet": "Sun Source Energy is a collection of professionals who pride themselves on being sharp as a tack, informative, and pleasant. We frown on selling unnecessary ...",
+            "snippet_highlighted_words": [
+                "Sun Source Energy",
+                "selling"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 3
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e3 reviews"
+                    ]
+                }
+            },
+            "missing": [
+                "(USP)"
+            ],
+            "must_include": {
+                "word": "(USP)",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+unique+selling+point+%22(USP)%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ5t4CegQIPhAB"
+            },
+            "source": "EnergySage"
+        },
+        {
+            "position": 7,
+            "title": "SunSource | Home",
+            "link": "https://www.sun-source.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sun-source.com/&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECDcQAQ",
+            "displayed_link": "https://www.sun-source.com",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc2743218f4124610e1f7c27c7515d48b91814.png",
+            "snippet": "As a technically-focused distributor, SunSource serves as an extension of its customers' team by providing value with design, technical understanding of product ...",
+            "snippet_highlighted_words": [
+                "SunSource"
+            ],
+            "missing": [
+                "point",
+                "(USP)"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 8,
+            "title": "Unique Selling Proposition Examples: 21 Brands That Get ...",
+            "link": "https://cxl.com/blog/unique-selling-proposition-examples/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cxl.com/blog/unique-selling-proposition-examples/&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECD0QAQ",
+            "displayed_link": "https://cxl.com \u203a blog \u203a unique-selling-proposition-e...",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc27435bdc80c3f20d674abc9b6ce4c3967a05.png",
+            "date": "Nov 20, 2023",
+            "snippet": "The best unique selling propositions build trust and increase sales. Here are 21 brands that get USPs right to learn from and be inspired ...",
+            "snippet_highlighted_words": [
+                "build trust and increase sales"
+            ],
+            "missing": [
+                "SunSource",
+                "Energy?"
+            ],
+            "source": "CXL"
+        },
+        {
+            "position": 9,
+            "title": "400+ Renewable Energy Business Name Ideas",
+            "link": "https://namefatso.com/blog/renewable-energy-business-name-ideas",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://namefatso.com/blog/renewable-energy-business-name-ideas&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECDYQAQ",
+            "displayed_link": "https://namefatso.com \u203a Business Name Ideas",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc27432541a33a6d5af59d376a8783210dadc7.png",
+            "date": "Sep 24, 2023",
+            "snippet": "Discover 400+ unique renewable energy business name ideas to inspire success ... Identify your unique selling proposition (USP) for your renewable ...",
+            "snippet_highlighted_words": [
+                "energy business",
+                "unique selling proposition",
+                "USP"
+            ],
+            "source": "Name Fatso"
+        },
+        {
+            "position": 10,
+            "title": "About - Sun Source Energy",
+            "link": "https://sunsourceusa.com/about/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunsourceusa.com/about/&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQFnoECDkQAQ",
+            "displayed_link": "https://sunsourceusa.com \u203a about",
+            "favicon": "https://serpapi.com/searches/659132ab382427114f0c18fd/images/308f42616f45979f0f3317808cdc2743ed36e472c8dd8ba13fcb6b9f07a18a7c.png",
+            "snippet": "Sun Source Energy is a family of passionate solar energy contractors that pride themselves on offering cutting-edge technology. Adding value to our nation's ...",
+            "snippet_highlighted_words": [
+                "Sun Source Energy"
+            ],
+            "missing": [
+                "unique",
+                "(USP)"
+            ],
+            "source": "sunsourceusa.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy pvt ltd zauba",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SUNSOURCE+Energy+pvt+ltd+zauba&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SUNSOURCE+Energy+pvt+ltd+zauba"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy private limited",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+Private+Limited&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Private+Limited"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+share+price&sa=X&ved=2ahUKEwjSkqXbrLmDAxWEnGoFHYXoBncQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+share+price"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&oq=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&oq=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&oq=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&oq=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&oq=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+unique+selling+point+%28USP%29+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

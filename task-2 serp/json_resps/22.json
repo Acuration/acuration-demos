@@ -1,0 +1,375 @@
+{
+    "search_metadata": {
+        "id": "65913348aef264c8173e9aec",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0cf02fb5cf68a6f8/65913348aef264c8173e9aec.json",
+        "created_at": "2023-12-31 09:24:24 UTC",
+        "processed_at": "2023-12-31 09:24:24 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&oq=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0cf02fb5cf68a6f8/65913348aef264c8173e9aec.html",
+        "total_time_taken": 1.41
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the marketing strategy of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the marketing strategy of the company SunSource Energy?",
+        "total_results": 11300000,
+        "time_taken_displayed": 0.68,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Quizlet",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+quizlet&uds=AMIYvT8-UrGd6muawVeAXM8N_vC5ezs-X7OZKpwHeyA_pMOOR6iMK7lAG8t7u-Kk9-BA5fRuCVjiF4qSnXeL3g96kY4tw_lAYbvqY-T6H-Z4vy5ZzWBaeBRcFHI4vPef5m0ET7vd4jDAHq8mF6y_zI4s4F9aEwqaaqC-Vn--J4XlnAnfUz8mzoTauR4IjY5_RX1vkqn7-qoe&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+quizlet"
+            },
+            {
+                "position": 2,
+                "title": "Answer key",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+answer+key&uds=AMIYvT-AGZRwu6C1WQCagbDlOsy4YQ4oV9S8gkydXGkXB1WiEnni1MFb6dINSKDWW1l6Z56c5SHS0UR4d30q9kJ77YSXHPUETEUGgCQICn1RxahXvkOWGj_KUy-2h3Tcbz4uWPLf4iQSiR7rh4S-AdD0H8NxudTc-tqG7D3dLBqsRDTbb63A5K2136QL0ubhxivJs8KBmxCI&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+answer+key"
+            },
+            {
+                "position": 3,
+                "title": "Pdf",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+pdf&uds=AMIYvT97iwKtu-rTlYj53GXX2njmp2yX6EJAe7QItcopJwkXwMYHaIfVEXT0fd-qa3iH4pttFVRwchhtnDouMhoj2_DwiQkTfDZ9jMPqEz_BlhgUv274LCjYou3ZurqF5_l_yeB8y_oK7LcKVItIemALZMa8qhjS8FvX6IyIraSBZTNGoenZpglxHWjyWU5HtXVKd47MpCgk&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQxKsJegQIDRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+pdf"
+            },
+            {
+                "position": 4,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&uds=AMIYvT8PDfdPe5E-dDUkAT_27nHE4ojUAOXy_ytZpZKVTjvWamkUSxcSqgsVFW1AxZhSh1ji1LylKgZWXJmJcBiremob2ckQzkUlj9DkcImTGBvtMiXiAzB755C8PEf86Rz7xVrrGqdzdaQ8ZtZqOr5GkzhvYAkrbJ4RzsPWP7yebv4FkTXPWhJNAYGZ8K03BTR5n8OSdol2&udm=4&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQs6gLegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ0pQJegQITBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ0pQJegQITRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ0pQJegQIThAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 8,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 9,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ0pQJegQIUBAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the overview of solar energy?",
+            "snippet": "Solar technologies convert sunlight into electrical energy either through photovoltaic (PV) panels or through mirrors that concentrate solar radiation. This energy can be used to generate electricity or be stored in batteries or thermal storage.",
+            "title": "How Does Solar Work? | Department of Energy",
+            "link": "https://www.energy.gov/eere/solar/how-does-solar-work#:~:text=Solar%20technologies%20convert%20sunlight%20into,in%20batteries%20or%20thermal%20storage.",
+            "displayed_link": "https://www.energy.gov \u203a eere \u203a how-does-solar-work",
+            "source_logo": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/6bccd930118eae4205b1d1eb235ba6640c728c46e945f6138eb2c4392455ec20.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgb3ZlcnZpZXcgb2Ygc29sYXIgZW5lcmd5PyIsImxrIjoiR2hodmRtVnlkbWxsZHlCdlppQnpiMnhoY2lCbGJtVnlaM2siLCJicyI6ImMtUFM0bElOejBnc1VjZ3NWaWpKU0ZYSUwwc3RLc3RNTFZmSVQxTW96czlKTEZKSXpVc3RTcS0wbDdnYXkyWE1wUmVlVVlraUR0T1hsRnBjQXBRb0xVcE9CV21GYVpydXphWERwUjZla1E5VGw1WmZtcGVTV2dSU0UxeWFGd3pSQUZOOWpadExtMHNON0p6RUlxRGEwanlGdE1Ua2ttS0Z4S1Q4MGhJMDkteXlGbUFFQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgb3ZlcnZpZXcgb2Ygc29sYXIgZW5lcmd5PyIsImxrIjoiR2hodmRtVnlkbWxsZHlCdlppQnpiMnhoY2lCbGJtVnlaM2siLCJicyI6ImMtUFM0bElOejBnc1VjZ3NWaWpKU0ZYSUwwc3RLc3RNTFZmSVQxTW96czlKTEZKSXpVc3RTcS0wbDdnYXkyWE1wUmVlVVlraUR0T1hsRnBjQXBRb0xVcE9CV21GYVpydXphWERwUjZla1E5VGw1WmZtcGVTV2dSU0UxeWFGd3pSQUZOOWpadExtMHNON0p6RUlxRGEwanlGdE1Ua2ttS0Z4S1Q4MGhJMDkteXlGbUFFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Why solar energy is the best source of energy?",
+            "snippet": "Solar energy - a clean source No greenhouse gas emissions are released into the atmosphere when using solar panels to create electricity. And because the sun provides more energy than we'll ever need, electricity from solar power is an essential energy source in the move to clean energy production.",
+            "title": "Solar energy - facts and advantages about solar power | Fortum",
+            "link": "https://www.fortum.com/energy-production/solar-power#:~:text=Solar%20energy%20%2D%20a%20clean%20source,move%20to%20clean%20energy%20production.",
+            "displayed_link": "https://www.fortum.com \u203a energy-production \u203a solar-po...",
+            "source_logo": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/6bccd930118eae4205b1d1eb235ba664f765f8c7e7fa8ecf19ed994792abea09.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2h5IHNvbGFyIGVuZXJneSBpcyB0aGUgYmVzdCBzb3VyY2Ugb2YgZW5lcmd5PyIsImxrIjoiYzVQU0xjLW9WQ2pPejBrc1Vrak5TeTFLcjFUSUxGWW95VWhWU0VvdExnRktsQllscHlya3AwRWxBUSIsImJzIjoiYy1QUzRsSU56MGdzVWNnc1ZpakpTRlhJTDBzdEtzdE1MVmZJVDFNb3pzOUpMRkpJelVzdFNxLTBsN2dheTJYTXBSZWVVWWtpRHRPWGxGcGNBcFFvTFVwT0JXbUZhWnJ1emFYRHBSNmVrUTlUbDVaZm1wZVNXZ1JTRTF5YUZ3elJBRk45alp0TG0wc043SnpFSXFEYTBqeUZ0TVRra21LRnhLVDgwaEkwOS15eUZtQUVBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2h5IHNvbGFyIGVuZXJneSBpcyB0aGUgYmVzdCBzb3VyY2Ugb2YgZW5lcmd5PyIsImxrIjoiYzVQU0xjLW9WQ2pPejBrc1Vrak5TeTFLcjFUSUxGWW95VWhWU0VvdExnRktsQllscHlya3AwRWxBUSIsImJzIjoiYy1QUzRsSU56MGdzVWNnc1ZpakpTRlhJTDBzdEtzdE1MVmZJVDFNb3pzOUpMRkpJelVzdFNxLTBsN2dheTJYTXBSZWVVWWtpRHRPWGxGcGNBcFFvTFVwT0JXbUZhWnJ1emFYRHBSNmVrUTlUbDVaZm1wZVNXZ1JTRTF5YUZ3elJBRk45alp0TG0wc043SnpFSXFEYTBqeUZ0TVRra21LRnhLVDgwaEkwOS15eUZtQUVBQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/6bccd930118eae4205b1d1eb235ba6649a8d1a8918caee2737016eaf1f2ea30b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZSBlbmVyZ3k/IiwibGsiOiJHaHRtYjNWdVpHVnlJRzltSUhOMWJuTnZkWEpqWlNCbGJtVnlaM2siLCJicyI6ImMtUFM0bElOejBnc1VjZ3NWaWpKU0ZYSUwwc3RLc3RNTFZmSVQxTW96czlKTEZKSXpVc3RTcS0wbDdnYXkyWE1wUmVlVVlraUR0T1hsRnBjQXBRb0xVcE9CV21GYVpydXphWERwUjZla1E5VGw1WmZtcGVTV2dSU0UxeWFGd3pSQUZOOWpadExtMHNON0p6RUlxRGEwanlGdE1Ua2ttS0Z4S1Q4MGhJMDkteXlGbUFFQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZSBlbmVyZ3k%2FIiwibGsiOiJHaHRtYjNWdVpHVnlJRzltSUhOMWJuTnZkWEpqWlNCbGJtVnlaM2siLCJicyI6ImMtUFM0bElOejBnc1VjZ3NWaWpKU0ZYSUwwc3RLc3RNTFZmSVQxTW96czlKTEZKSXpVc3RTcS0wbDdnYXkyWE1wUmVlVVlraUR0T1hsRnBjQXBRb0xVcE9CV21GYVpydXphWERwUjZla1E5VGw1WmZtcGVTV2dSU0UxeWFGd3pSQUZOOWpadExtMHNON0p6RUlxRGEwanlGdE1Ua2ttS0Z4S1Q4MGhJMDkteXlGbUFFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are fun facts about solar energy?",
+            "title": "10 facts about solar energy",
+            "date": "Dec 7, 2022",
+            "link": "https://www.cemexventures.com/solar-energy-interesting-facts/",
+            "list": [
+                "It's the cheapest energy.",
+                "The efficiency of solar energy.",
+                "Panels produce energy without direct sunlight.",
+                "Panels can last up to 30 years.",
+                "It is the most abundant energy on earth.",
+                "Countries investing the most in solar energy.",
+                "Solar energy was discovered almost 200 years ago."
+            ],
+            "displayed_link": "https://www.cemexventures.com \u203a solar-energy-interestin...",
+            "source_logo": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/6bccd930118eae4205b1d1eb235ba664c2967466aea18d7622cf77047151ae04.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgZnVuIGZhY3RzIGFib3V0IHNvbGFyIGVuZXJneT8iLCJsayI6IkdpVjNhR0YwSUdGeVpTQm1kVzRnWm1GamRITWdZV0p2ZFhRZ2MyOXNZWElnWlc1bGNtZDUiLCJicyI6ImMtUFM0bElOejBnc1VjZ3NWaWpKU0ZYSUwwc3RLc3RNTFZmSVQxTW96czlKTEZKSXpVc3RTcS0wbDdnYXkyWE1wUmVlVVlraUR0T1hsRnBjQXBRb0xVcE9CV21GYVpydXphWERwUjZla1E5VGw1WmZtcGVTV2dSU0UxeWFGd3pSQUZOOWpadExtMHNON0p6RUlxRGEwanlGdE1Ua2ttS0Z4S1Q4MGhJMDkteXlGbUFFQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2JuRjRVVFpOVG10YWVuaEpka2hIUkZCRVNtZEZSVm8wVXpoR2NtTkRPRkZzWkV3dGFYUlRNVXBLTkhSdVRuSk9NbVp1VUVoS04wTnlkRGxCTldOc2FXRkdiVlZZRWhkVFJFOVNXbVYxVmsxdlltUndkRkZRTkhGdFdYVkJNQm9pUVVwM2F5MDRaRW95YlRGRFdVVXpibTVSTFRCQ2NTMVliV0paV1V4ellqQm9adyIsImZjdiI6IjMiLCJlaSI6IlNET1JaZXVWTW9iZHB0UVA0cW1ZdUEwIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVnlFMHN5azR0eWN4TFZ5Z3VLVW9zU1UydlZNaFBBOHNrNS1jV0pPWlZLaFNYNWhYbmx4WWxweXFrNXFVV3BWY0tNTlMtbW0xZ0R3QSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgZnVuIGZhY3RzIGFib3V0IHNvbGFyIGVuZXJneT8iLCJsayI6IkdpVjNhR0YwSUdGeVpTQm1kVzRnWm1GamRITWdZV0p2ZFhRZ2MyOXNZWElnWlc1bGNtZDUiLCJicyI6ImMtUFM0bElOejBnc1VjZ3NWaWpKU0ZYSUwwc3RLc3RNTFZmSVQxTW96czlKTEZKSXpVc3RTcS0wbDdnYXkyWE1wUmVlVVlraUR0T1hsRnBjQXBRb0xVcE9CV21GYVpydXphWERwUjZla1E5VGw1WmZtcGVTV2dSU0UxeWFGd3pSQUZOOWpadExtMHNON0p6RUlxRGEwanlGdE1Ua2ttS0Z4S1Q4MGhJMDkteXlGbUFFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy: The Growth Conundrum",
+            "link": "https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECBoQAQ",
+            "displayed_link": "https://www.iveypublishing.ca \u203a product \u203a sunsource-...",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b42658cb0beab4bb03e963299825f2af6d.png",
+            "date": "Jun 29, 2022",
+            "snippet": "In 2021, SunSource Energy was evaluating its growth strategy options. An entrepreneurial venture in the renewable energy sector, ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "strategy"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "ca": 9.25
+                    },
+                    "extensions": [
+                        "CA$9.25"
+                    ]
+                }
+            },
+            "source": "Ivey Publishing"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy The Growth Conundrum Case Study ...",
+            "link": "https://www.calameo.com/books/007158174e5d62f417db1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.calameo.com/books/007158174e5d62f417db1&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECBgQAQ",
+            "displayed_link": "https://www.calameo.com \u203a books",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b4670b2747ef6f2d7a50f3d3b47006ab34.png",
+            "snippet": "The choice of strategy depends on the analysis of the previous tools used and the level of risk the organization is willing to take. 11. Marketing Mix of ...",
+            "snippet_highlighted_words": [
+                "Marketing Mix"
+            ],
+            "source": "calameo.com"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECBcQAQ",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b47e392ebd62f92b15949c194bbffc6531.png",
+            "snippet": "SunSource Energy is a leading solar company in India, providing Solar energy solutions to corporations and industries. Partner with us for reliable solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy: The Growth Conundrum - HBR Store",
+            "link": "https://store.hbr.org/product/sunsource-energy-the-growth-conundrum/W26402",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.hbr.org/product/sunsource-energy-the-growth-conundrum/W26402&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECBkQAQ",
+            "displayed_link": "https://store.hbr.org \u203a product \u203a sunsource-energy-the...",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b4a4c1375a8e32498ceda193b719d8c143.png",
+            "snippet": "In 2021, SunSource Energy was evaluating its growth strategy options. ... What strategy should the company use to leverage its new funding for growing the ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "strategy",
+                "strategy",
+                "company"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 8.95,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$8.95",
+                        "\u200eIn stock"
+                    ]
+                }
+            },
+            "source": "Harvard Business Review"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy's Post",
+            "link": "https://www.linkedin.com/posts/sunsource-energy_momentmarketing-staysafe-wearseatbelt-activity-6973874873974554624-xx8q?trk=public_profile",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/sunsource-energy_momentmarketing-staysafe-wearseatbelt-activity-6973874873974554624-xx8q%3Ftrk%3Dpublic_profile&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECD8QAQ",
+            "displayed_link": "180+ reactions",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b42c07a9b00d2d100311ae5ab91f6d8e6c.png",
+            "snippet": "Moment Marketing to promote Road Safety! A road safety pledge marathon titled \"Its time to belt up\" was organised at the SunSource Energy office in Noida ...",
+            "snippet_highlighted_words": [
+                "Moment Marketing to promote Road Safety"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 6,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/about-us&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECD0QAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b41e7e053ae7bcd6f47536fea95b3df07f.png",
+            "snippet": "SunSource develops, engineers, procures, constructs, and operates solar power projects to help institutional, industrial, commercial and non-profit sector ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "solar power"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy's Post",
+            "link": "https://www.linkedin.com/posts/sunsource-energy_purposedrivenbusiness-valuesdriven-activity-7109417261697789953-WJn_?trk=public_profile_like_view",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/sunsource-energy_purposedrivenbusiness-valuesdriven-activity-7109417261697789953-WJn_%3Ftrk%3Dpublic_profile_like_view&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECDsQAQ",
+            "displayed_link": "70+ reactions \u00b7 3 months ago",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b4d3054d2c7a1f49c361722a4e19a62d64.png",
+            "snippet": "Purpose and Values are at the core of our business @ SunSource Energy. We recently launched an awareness campaign for our incredible team to ...",
+            "snippet_highlighted_words": [
+                "business",
+                "SunSource Energy",
+                "campaign"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy raises growth capital and provides exit ...",
+            "link": "https://www.ey.com/en_in/strategy-transactions/deal-alerts/2021/05/sunsource-energy-raises-growth-capital-and-provides-exit-to-its-existing-investor-via-a-strategic-capital-raise-from-shv-energy-nv",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ey.com/en_in/strategy-transactions/deal-alerts/2021/05/sunsource-energy-raises-growth-capital-and-provides-exit-to-its-existing-investor-via-a-strategic-capital-raise-from-shv-energy-nv&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECDcQAQ",
+            "displayed_link": "https://www.ey.com \u203a en_in \u203a deal-alerts \u203a 2021/05",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b4b3ec9ef2cb7f1eef388d57ae38df4dba.png",
+            "date": "May 10, 2021",
+            "snippet": "EY has successfully advised SunSource Energy in raising growth capital and providing exit to its exiting investor, NEEV through a strategic ...",
+            "snippet_highlighted_words": [
+                "growth capital"
+            ],
+            "source": "Ernst & Young"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy doubles its solar energy target to one ...",
+            "link": "https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECDoQAQ",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 2022111...",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b47f2062d9f3fddf3fe453ecdc791219d4.png",
+            "date": "Nov 14, 2022",
+            "snippet": "SHV Energy, via its Indian subsidiary SunSource Energy, has announced it will double its solar energy deployment target by 2027.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "missing": [
+                "strategy"
+            ],
+            "must_include": {
+                "word": "strategy",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+%22strategy%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ5t4CegQIQxAB"
+            },
+            "source": "SHV Energy"
+        },
+        {
+            "position": 10,
+            "title": "How SunSource Energy emerged as one of the key players in ...",
+            "link": "https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQFnoECEYQAQ",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a ... \u203a Power",
+            "favicon": "https://serpapi.com/searches/65913348aef264c8173e9aec/images/2af16ffc14db3bb62c398e51244f33b4a85a3d5e6fcd911d7aa32838715995e1.png",
+            "date": "Mar 6, 2016",
+            "snippet": "As a concept, net metering allows consumers (people, companies, buildings) to export power to the grid and be compensated for the exported power ...",
+            "snippet_highlighted_words": [
+                "net metering allows consumers (people, companies, buildings) to export power to the grid"
+            ],
+            "source": "The Economic Times"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the marketing strategy of the company sunsource energy quizlet",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+quizlet&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+quizlet"
+        },
+        {
+            "block_position": 1,
+            "query": "What is the marketing strategy of the company sunsource energy pdf",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+pdf&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "What is the marketing strategy of the company sunsource energy answer key",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+answer+key&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+sunsource+energy+answer+key"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=sun+source+(india)+ltd+share+price&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwjr2aemrbmDAxWGrokEHeIUBtcQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&oq=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&oq=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&oq=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&oq=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&oq=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+marketing+strategy+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

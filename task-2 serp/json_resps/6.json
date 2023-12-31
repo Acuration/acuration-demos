@@ -1,0 +1,346 @@
+{
+    "search_metadata": {
+        "id": "659132adaf5af175ba273bfe",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/795eb99bf5edacad/659132adaf5af175ba273bfe.json",
+        "created_at": "2023-12-31 09:21:49 UTC",
+        "processed_at": "2023-12-31 09:21:49 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&oq=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/795eb99bf5edacad/659132adaf5af175ba273bfe.html",
+        "total_time_taken": 1.91
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the value proposition of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the value proposition of the company SunSource Energy?",
+        "total_results": 2490000,
+        "time_taken_displayed": 0.52,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&uds=AMIYvT-nS8jxM3JqE4VL9rLNvE8sEGhKBOYqDoBBRb0iwLmv62mJmdAQ08o8QtWjbWt4Ot_eP_J1FS0m4RvZyiYs-Z5Y1YzWPsCmUY0vmV93m8bZu2Lu0b57natAZBH6todZR03Xrbd1qNu-2opFxz06UC10GfTFOxgPlNgv4nUNsf98VJbaPXs3gwilxDyeUK4YX8Zo1sTb&udm=4&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQs6gLegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+sunsource+energy+qui&uds=AMIYvT859wuJC5wScmBB_UQTx2ZRjozZxZgoLaeLz5iwX95Qd6D5QXKDMcrvhk9uwnwrcCjybadnZ8e_mGIRFrMq3npVgfwOI_Tk_hwethhOv8VXQM3Q1mDGu0_oRJ2tlOcZEZkECAIAvxlftOs53Lh9vd3597u8KXgtMLL21UjGeRc1UKuUYtQstJqBauhqzQW3Z6ojxwkZ&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 4,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ0pQJegQIShAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ0pQJegQITBAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=What+is+the+value+proposition+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What are the values of SunSource?",
+            "snippet": "SunSource's culture is centered on ethics, integrity, and trust. Our values drive how we treat each other, and our customers, suppliers, partners and even our competitors.",
+            "title": "Compliance Resources - SunSource",
+            "link": "https://www.sun-source.com/compliance-resources#:~:text=SunSource's%20culture%20is%20centered%20on,partners%20and%20even%20our%20competitors.",
+            "displayed_link": "https://www.sun-source.com \u203a compliance-resources",
+            "source_logo": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/4bd203d688b43420490bcf2425cfbe4f72f66964ae44b8b929079e47bf6f929d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdmFsdWVzIG9mIFN1blNvdXJjZT8iLCJsayI6IkdoQnpkVzV6YjNWeVkyVWdkbUZzZFdWeiIsImJzIjoiYy1OUzQxSU16MGdzVVVnc1NsVW95VWhWS0V2TUtVMHRWc2hQVXdndXpRdk9MeTFLVHJXWDJKX0ZwYzZsQkZaWFVsbVFDcEpOenM4dFNNeXJWTWdzUmxiWVc4QUZNeEFvQVRLdktMVXNOYTgwRmMzQWN3WmN5bHh5NFJuNU1HWDU1WG1wUldpS0RxUUlNQUlBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdmFsdWVzIG9mIFN1blNvdXJjZT8iLCJsayI6IkdoQnpkVzV6YjNWeVkyVWdkbUZzZFdWeiIsImJzIjoiYy1OUzQxSU16MGdzVVVnc1NsVW95VWhWS0V2TUtVMHRWc2hQVXdndXpRdk9MeTFLVHJXWDJKX0ZwYzZsQkZaWFVsbVFDcEpOenM4dFNNeXJWTWdzUmxiWVc4QUZNeEFvQVRLdktMVXNOYTgwRmMzQWN3WmN5bHh5NFJuNU1HWDU1WG1wUldpS0RxUUlNQUlBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What type of company is SunSource?",
+            "snippet": "SunSource, a leader in industrial and mobile fluid power distribution for over 85 years, provides customers with innovative solutions that help reduce maintenance costs, lower operating costs and increase productivity.",
+            "title": "SunSource - LinkedIn",
+            "link": "https://www.linkedin.com/company/sunsource#:~:text=SunSource%2C%20a%20leader%20in%20industrial,operating%20costs%20and%20increase%20productivity.",
+            "displayed_link": "https://www.linkedin.com \u203a company \u203a sunsource",
+            "source_logo": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/4bd203d688b43420490bcf2425cfbe4f84462eafd033f12f94b6247afefc7939.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaGF0IHR5cGUgb2YgY29tcGFueSBpcyBTdW5Tb3VyY2U/IiwibGsiOiJHaUYzYUdGMElIUjVjR1VnYjJZZ1kyOXRjR0Z1ZVNCcGN5QnpkVzV6YjNWeVkyVSIsImJzIjoiYy1OUzQxSU16MGdzVVVnc1NsVW95VWhWS0V2TUtVMHRWc2hQVXdndXpRdk9MeTFLVHJXWDJKX0ZwYzZsQkZaWFVsbVFDcEpOenM4dFNNeXJWTWdzUmxiWVc4QUZNeEFvQVRLdktMVXNOYTgwRmMzQWN3WmN5bHh5NFJuNU1HWDU1WG1wUldpS0RxUUlNQUlBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaGF0IHR5cGUgb2YgY29tcGFueSBpcyBTdW5Tb3VyY2U%2FIiwibGsiOiJHaUYzYUdGMElIUjVjR1VnYjJZZ1kyOXRjR0Z1ZVNCcGN5QnpkVzV6YjNWeVkyVSIsImJzIjoiYy1OUzQxSU16MGdzVVVnc1NsVW95VWhWS0V2TUtVMHRWc2hQVXdndXpRdk9MeTFLVHJXWDJKX0ZwYzZsQkZaWFVsbVFDcEpOenM4dFNNeXJWTWdzUmxiWVc4QUZNeEFvQVRLdktMVXNOYTgwRmMzQWN3WmN5bHh5NFJuNU1HWDU1WG1wUldpS0RxUUlNQUlBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is the revenue of SunSource?",
+            "snippet": "SunSource's revenue is $320.0 million. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/#:~:text=SunSource's%20revenue%20is%20%24320.0%20million.&text=SunSource%20peak%20revenue%20was%20%24320.0M%20in%202022.",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837 \u203a r...",
+            "source_logo": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/4bd203d688b43420490bcf2425cfbe4f9cdd0cd810d8bf67435e5d2b597a1e02.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByZXZlbnVlIG9mIFN1blNvdXJjZT8iLCJsayI6IkdoSnpkVzRnYzI5MWNtTmxJSEpsZG1WdWRXVSIsImJzIjoiYy1OUzQxSU16MGdzVVVnc1NsVW95VWhWS0V2TUtVMHRWc2hQVXdndXpRdk9MeTFLVHJXWDJKX0ZwYzZsQkZaWFVsbVFDcEpOenM4dFNNeXJWTWdzUmxiWVc4QUZNeEFvQVRLdktMVXNOYTgwRmMzQWN3WmN5bHh5NFJuNU1HWDU1WG1wUldpS0RxUUlNQUlBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSByZXZlbnVlIG9mIFN1blNvdXJjZT8iLCJsayI6IkdoSnpkVzRnYzI5MWNtTmxJSEpsZG1WdWRXVSIsImJzIjoiYy1OUzQxSU16MGdzVVVnc1NsVW95VWhWS0V2TUtVMHRWc2hQVXdndXpRdk9MeTFLVHJXWDJKX0ZwYzZsQkZaWFVsbVFDcEpOenM4dFNNeXJWTWdzUmxiWVc4QUZNeEFvQVRLdktMVXNOYTgwRmMzQWN3WmN5bHh5NFJuNU1HWDU1WG1wUldpS0RxUUlNQUlBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the owner of SunSource?",
+            "snippet": "Clayton, Dubilier & Rice Acquires SunSource.",
+            "title": "Clayton, Dubilier & Rice Acquires SunSource",
+            "date": "Dec 11, 2017",
+            "link": "https://www.cdr-inc.com/news/press-release/clayton-dubilier-rice-acquires-sunsource",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a clayton...",
+            "source_logo": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/4bd203d688b43420490bcf2425cfbe4fbaa1a563c6fce23cadeb5f08c5510722.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG93bmVyIG9mIFN1blNvdXJjZT8iLCJsayI6IkdnOXpkVzV6YjNWeVkyVWdiM2R1WlhJIiwiYnMiOiJjLU5TNDFJTXowZ3NVVWdzU2xVb3lVaFZLRXZNS1UwdFZzaFBVd2d1elF2T0x5MUtUcldYMkpfRnBjNmxCRlpYVWxtUUNwSk56czh0U015clZNZ3NSbGJZVzhBRk14QW9BVEt2S0xVc05hODBGYzNBY3daY3lseHk0Um41TUdYNTVYbXBSV2lLRHFRSU1BSUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlRHOXpaalZEVUhsVVlVZGFUR3hvVmpWQk5GZEdZMnBFU1Uxck1WZHJhelpRWkVad2RWWjZlaTB6WjIxM1JGQTRVMTgwVldkWFZtTkZibkJ0T0hKeUxUTm5TbTV2RWhkeVZFdFNXbU42TkU5TmVsOTNZbXRRTkRSTGVHOUJOQm9pUVVwM2F5MDRaRzlYYW5JelZXOUJORWxRVDNsbGFuSmlZMU5STUdZeVVFMWtkdyIsImZjdiI6IjMiLCJlaSI6InJUS1JaY3o0T016X3dia1A0NEt4b0E0IiwicWMiOiJjLU95TGM5SUxGSElMRllveVVoVktFdk1LVTFWS0NqS0w4Z3Z6aXpKek05VHlFOERTeVRuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxQXBZUzlvREFBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG93bmVyIG9mIFN1blNvdXJjZT8iLCJsayI6IkdnOXpkVzV6YjNWeVkyVWdiM2R1WlhJIiwiYnMiOiJjLU5TNDFJTXowZ3NVVWdzU2xVb3lVaFZLRXZNS1UwdFZzaFBVd2d1elF2T0x5MUtUcldYMkpfRnBjNmxCRlpYVWxtUUNwSk56czh0U015clZNZ3NSbGJZVzhBRk14QW9BVEt2S0xVc05hODBGYzNBY3daY3lseHk0Um41TUdYNTVYbXBSV2lLRHFRSU1BSUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Compliance Resources",
+            "link": "https://www.sun-source.com/compliance-resources",
+            "redirect_link": "https://www.google.comhttps://www.sun-source.com/compliance-resources",
+            "displayed_link": "https://www.sun-source.com \u203a compliance-resources",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6fffe882647123bc78197b17a6ef250923.png",
+            "snippet": "SunSource's culture is centered on ethics, integrity, and trust. Our values drive how we treat each other, and our customers, suppliers, partners and even our ...",
+            "snippet_highlighted_words": [
+                "on ethics, integrity, and trust"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 2,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/about-us",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6f6afb5e1961bbc50d1e668050f9ff25c7.png",
+            "snippet": "Learn more about SunSource Energy, offering innovative renewable energy solutions. Discover our mission and commitment to a sustainable future.",
+            "snippet_highlighted_words": [
+                "sustainable"
+            ],
+            "missing": [
+                "value",
+                "proposition"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6fb858c93f337197b8e8d7fcfe654940a5.png",
+            "snippet": "SunSource Energy is a leading solar company in India, providing Solar energy solutions to corporations and industries. Partner with us for reliable solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "missing": [
+                "value",
+                "proposition"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "Announcement",
+            "link": "https://www.linkedin.com/pulse/announcement-abhishek-verma",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/pulse/announcement-abhishek-verma",
+            "displayed_link": "https://www.linkedin.com \u203a pulse \u203a announcement-abhis...",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6f9aab546b8cf065a5dd852e0f34469de4.png",
+            "date": "Jul 19, 2021",
+            "snippet": "Delighted to announce that I have joined SunSource Energy as Vice President Business Development. ... value proposition with its product ...",
+            "snippet_highlighted_words": [
+                "value proposition with its product"
+            ],
+            "source": "LinkedIn"
+        },
+        {
+            "position": 5,
+            "title": "SunSource to Acquire United Distribution Group",
+            "link": "https://www.cdr-inc.com/news/press-release/sunsource-acquire-united-distribution-group",
+            "redirect_link": "https://www.google.comhttps://www.cdr-inc.com/news/press-release/sunsource-acquire-united-distribution-group",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a sun...",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6f8e7b35750646a1a7fa8566e785073416.png",
+            "date": "Jul 18, 2018",
+            "snippet": "... value proposition to its customers. \u201cUDG shares many core business strengths and cultural values with SunSource, and the GHX and UC businesses ...",
+            "snippet_highlighted_words": [
+                "\u201cUDG shares many core business strengths and cultural values with SunSource, and the GHX"
+            ],
+            "source": "Clayton Dubilier & Rice, LLC"
+        },
+        {
+            "position": 6,
+            "title": "SunSource to acquire United Distribution Group",
+            "link": "https://www.privateequitywire.co.uk/sunsource-acquire-united-distribution-group/",
+            "redirect_link": "https://www.google.comhttps://www.privateequitywire.co.uk/sunsource-acquire-united-distribution-group/",
+            "displayed_link": "https://www.privateequitywire.co.uk \u203a sunsource-acq...",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6ffa5788a7758d69bd02440908b1a611e7.png",
+            "snippet": "SunSource Holdings, a distributor of fluid power and fluid process components and systems in the US and Canada, is to acquire The United Distribution Group.",
+            "snippet_highlighted_words": [
+                "The United Distribution Group"
+            ],
+            "source": "privateequitywire.co.uk"
+        },
+        {
+            "position": 7,
+            "title": "SunSource to Acquire United Distribution Group",
+            "link": "https://www.prnewswire.com/news-releases/sunsource-to-acquire-united-distribution-group-300682279.html",
+            "redirect_link": "https://www.google.comhttps://www.prnewswire.com/news-releases/sunsource-to-acquire-united-distribution-group-300682279.html",
+            "displayed_link": "https://www.prnewswire.com \u203a news-releases \u203a sunsou...",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6f04f2361df7443f8a0107111d454e43ee.png",
+            "date": "Jul 18, 2018",
+            "snippet": "Headquartered in Addison, Illinois, SunSource is a value-added distributor of fluid power and fluid process technologies in the U.S. and Canada.",
+            "snippet_highlighted_words": [
+                "value-added distributor"
+            ],
+            "source": "PR Newswire"
+        },
+        {
+            "position": 8,
+            "title": "Sun Source Energy",
+            "link": "https://sunsourceusa.com/",
+            "redirect_link": "https://www.google.comhttps://sunsourceusa.com/",
+            "displayed_link": "https://sunsourceusa.com",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6f322cec4ab092974437a5fef4e02d270c.png",
+            "snippet": "This makes us one of the best options for your Nevada solar energy company. ... The federal government offers a 30% tax credit towards the value of your home's ...",
+            "snippet_highlighted_words": [
+                "solar energy company",
+                "value"
+            ],
+            "missing": [
+                "proposition"
+            ],
+            "must_include": {
+                "word": "proposition",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+%22proposition%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ5t4CegQIQRAB"
+            },
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 9,
+            "title": "Littlejohn & Co. Announces Sale of SunSource",
+            "link": "https://www.businesswire.com/news/home/20171102006507/en/Littlejohn-Co.-Announces-Sale-of-SunSource",
+            "redirect_link": "https://www.google.comhttps://www.businesswire.com/news/home/20171102006507/en/Littlejohn-Co.-Announces-Sale-of-SunSource",
+            "displayed_link": "https://www.businesswire.com \u203a news \u203a home \u203a Littlej...",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6feeda3e0afafb342d5be26bd116dfb91d.png",
+            "date": "Nov 2, 2017",
+            "snippet": "Littlejohn & Co., LLC., a private investment firm based in Greenwich, CT, announced today that an affiliate has signed a definitive ...",
+            "snippet_highlighted_words": [
+                "firm"
+            ],
+            "source": "Business Wire"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy to develop 70 MW open access solar ...",
+            "link": "https://energy.economictimes.indiatimes.com/news/renewable/sunsource-energy-to-develop-70-mw-open-access-solar-power-project-in-up/68284873",
+            "redirect_link": "https://www.google.comhttps://energy.economictimes.indiatimes.com/news/renewable/sunsource-energy-to-develop-70-mw-open-access-solar-power-project-in-up/68284873",
+            "displayed_link": "https://energy.economictimes.indiatimes.com \u203a news",
+            "favicon": "https://serpapi.com/searches/659132adaf5af175ba273bfe/images/5b9edd1fd60af25509f1f68b77765d6fedb081b5900d6d3a8516bf8a8486ac1d.png",
+            "date": "Mar 6, 2019",
+            "snippet": "New Delhi: SunSource Energy, a Noida-based distributed solar energy company, announced it will develop a 70 Megawatt (MW) solar power ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "source": "ET EnergyWorld"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the value proposition of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+value+proposition+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd share price",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=sun+source+(india)+ltd+share+price&sa=X&ved=2ahUKEwiMg7rcrLmDAxXMfzABHWNBDOQQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+share+price"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&oq=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&oq=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&oq=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&oq=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&oq=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+value+proposition+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

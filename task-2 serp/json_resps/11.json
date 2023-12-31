@@ -1,0 +1,312 @@
+{
+    "search_metadata": {
+        "id": "6591332c116a5515c9ac0a96",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7e4152b2bca30a4a/6591332c116a5515c9ac0a96.json",
+        "created_at": "2023-12-31 09:23:56 UTC",
+        "processed_at": "2023-12-31 09:23:56 UTC",
+        "google_url": "https://www.google.com/search?q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&oq=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7e4152b2bca30a4a/6591332c116a5515c9ac0a96.html",
+        "total_time_taken": 2.52
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What are the revenue streams of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What are the revenue streams of the company SunSource Energy?",
+        "total_results": 128000,
+        "time_taken_displayed": 0.39,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q0pQJegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&uds=AMIYvT9sZ3ekjlirTOEdqX9A2K4zp86GlS7VRzHCXBfOSQ01LByY4rLKDQU8fTFiUj8t84oQEyQ9pk0xRfVciHw2UuE8WOqFzLQO84nJMHkWVE56LtVNit123AVTMryotwGfph6fQk1xybt-IX1cQcHqw0RRLpNcjttEo3XnzLtr1nYxiK1_H0MWTSUR4s7yGxdlbmpchbgf&udm=4&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Qs6gLegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+sunsource+energy+qui&uds=AMIYvT_5jk1qcQv6NcbWVhcncVatYmMlOp6t5W9Ynb5HC--OR0LubuVyBLvkQWYe5hQHhfwrmBAu4pPkoeBnTQqLRHe5Gqzbsu_07Sz3EEXOYyWKzG51iGaX-kScfSjbDImZjk9FeD7ib63mMXunS9d0GHCYwux7IXV8SV_skMM65rVtYnauavw&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64QxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q0pQJegQIQRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q0pQJegQIRRAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the revenue of SunSource?",
+            "snippet": "SunSource's revenue is $320.0 million. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/#:~:text=SunSource's%20revenue%20is%20%24320.0%20million.&text=SunSource%20peak%20revenue%20was%20%24320.0M%20in%202022.",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "source_logo": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/6deb428c5c7d6273fe45abb6fbfe63386d64584e13807f2735f4ceacaa85008b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1NtMVpiV1JxTm5kclVsVjJUSEZ6TVdONVlXTmZVMU16UVhSNVYyWlpUMjFDUkdwNGQzSlRTWHBzVFZsRVZucFRWVVZDTms5bFEyWTJZazl5UTJVNE5YUTVkMGhrRWhkTVZFOVNXbUpRZVU4MlpYcHhkSE5RYjJOTExUaEJieG9pUVVwM2F5MDRaRkE1ZFdNMFpUWm1Ta1JMUVc4NWJVcEJWR293ZFV4cGVrd3hRUSIsImZjdiI6IjMiLCJlaSI6IkxUT1JaYlB5TzZlenF0c1BvY0stOEFvIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZTaEtMVXZOSzAxVktDNHBTazNNTFZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFVmdGgyMGc0QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmV2ZW51ZSBvZiBTdW5Tb3VyY2U/IiwibGsiOiJHaEp6ZFc0Z2MyOTFjbU5sSUhKbGRtVnVkV1UiLCJicyI6ImMtTlM0MUlNejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6UXZPTHkxS1RyV1hPR2ZBcGM2bEJGWlhVbGtBbGszT3p5MUl6S3NFNlVOUzJGdkFwY3dsRjU2UkR6TXZ2end2dFFqTnRBTXBBb3dBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1NtMVpiV1JxTm5kclVsVjJUSEZ6TVdONVlXTmZVMU16UVhSNVYyWlpUMjFDUkdwNGQzSlRTWHBzVFZsRVZucFRWVVZDTms5bFEyWTJZazl5UTJVNE5YUTVkMGhrRWhkTVZFOVNXbUpRZVU4MlpYcHhkSE5RYjJOTExUaEJieG9pUVVwM2F5MDRaRkE1ZFdNMFpUWm1Ta1JMUVc4NWJVcEJWR293ZFV4cGVrd3hRUSIsImZjdiI6IjMiLCJlaSI6IkxUT1JaYlB5TzZlenF0c1BvY0stOEFvIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZTaEtMVXZOSzAxVktDNHBTazNNTFZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFVmdGgyMGc0QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmV2ZW51ZSBvZiBTdW5Tb3VyY2U%2FIiwibGsiOiJHaEp6ZFc0Z2MyOTFjbU5sSUhKbGRtVnVkV1UiLCJicyI6ImMtTlM0MUlNejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6UXZPTHkxS1RyV1hPR2ZBcGM2bEJGWlhVbGtBbGszT3p5MUl6S3NFNlVOUzJGdkFwY3dsRjU2UkR6TXZ2end2dFFqTnRBTXBBb3dBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What type of company is SunSource?",
+            "snippet": "SunSource, a leader in industrial and mobile fluid power distribution for over 85 years, provides customers with innovative solutions that help reduce maintenance costs, lower operating costs and increase productivity.",
+            "title": "SunSource - LinkedIn",
+            "link": "https://www.linkedin.com/company/sunsource#:~:text=SunSource%2C%20a%20leader%20in%20industrial,operating%20costs%20and%20increase%20productivity.",
+            "displayed_link": "https://www.linkedin.com \u203a company \u203a sunsource",
+            "source_logo": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/6deb428c5c7d6273fe45abb6fbfe6338206dc089bda5a3275222c556d01f19c5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1NtMVpiV1JxTm5kclVsVjJUSEZ6TVdONVlXTmZVMU16UVhSNVYyWlpUMjFDUkdwNGQzSlRTWHBzVFZsRVZucFRWVVZDTms5bFEyWTJZazl5UTJVNE5YUTVkMGhrRWhkTVZFOVNXbUpRZVU4MlpYcHhkSE5RYjJOTExUaEJieG9pUVVwM2F5MDRaRkE1ZFdNMFpUWm1Ta1JMUVc4NWJVcEJWR293ZFV4cGVrd3hRUSIsImZjdiI6IjMiLCJlaSI6IkxUT1JaYlB5TzZlenF0c1BvY0stOEFvIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZTaEtMVXZOSzAxVktDNHBTazNNTFZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFVmdGgyMGc0QSIsInF1ZXN0aW9uIjoiV2hhdCB0eXBlIG9mIGNvbXBhbnkgaXMgU3VuU291cmNlPyIsImxrIjoiR2lGM2FHRjBJSFI1Y0dVZ2IyWWdZMjl0Y0dGdWVTQnBjeUJ6ZFc1emIzVnlZMlUiLCJicyI6ImMtTlM0MUlNejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6UXZPTHkxS1RyV1hPR2ZBcGM2bEJGWlhVbGtBbGszT3p5MUl6S3NFNlVOUzJGdkFwY3dsRjU2UkR6TXZ2end2dFFqTnRBTXBBb3dBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1NtMVpiV1JxTm5kclVsVjJUSEZ6TVdONVlXTmZVMU16UVhSNVYyWlpUMjFDUkdwNGQzSlRTWHBzVFZsRVZucFRWVVZDTms5bFEyWTJZazl5UTJVNE5YUTVkMGhrRWhkTVZFOVNXbUpRZVU4MlpYcHhkSE5RYjJOTExUaEJieG9pUVVwM2F5MDRaRkE1ZFdNMFpUWm1Ta1JMUVc4NWJVcEJWR293ZFV4cGVrd3hRUSIsImZjdiI6IjMiLCJlaSI6IkxUT1JaYlB5TzZlenF0c1BvY0stOEFvIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZTaEtMVXZOSzAxVktDNHBTazNNTFZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFVmdGgyMGc0QSIsInF1ZXN0aW9uIjoiV2hhdCB0eXBlIG9mIGNvbXBhbnkgaXMgU3VuU291cmNlPyIsImxrIjoiR2lGM2FHRjBJSFI1Y0dVZ2IyWWdZMjl0Y0dGdWVTQnBjeUJ6ZFc1emIzVnlZMlUiLCJicyI6ImMtTlM0MUlNejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6UXZPTHkxS1RyV1hPR2ZBcGM2bEJGWlhVbGtBbGszT3p5MUl6S3NFNlVOUzJGdkFwY3dsRjU2UkR6TXZ2end2dFFqTnRBTXBBb3dBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the owner of SunSource?",
+            "snippet": "Clayton, Dubilier & Rice Acquires SunSource.",
+            "title": "Clayton, Dubilier & Rice Acquires SunSource",
+            "date": "Dec 11, 2017",
+            "link": "https://www.cdr-inc.com/news/press-release/clayton-dubilier-rice-acquires-sunsource",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a clayton...",
+            "source_logo": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/6deb428c5c7d6273fe45abb6fbfe63382058066384bf823fe451685ae81aedf7.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1NtMVpiV1JxTm5kclVsVjJUSEZ6TVdONVlXTmZVMU16UVhSNVYyWlpUMjFDUkdwNGQzSlRTWHBzVFZsRVZucFRWVVZDTms5bFEyWTJZazl5UTJVNE5YUTVkMGhrRWhkTVZFOVNXbUpRZVU4MlpYcHhkSE5RYjJOTExUaEJieG9pUVVwM2F5MDRaRkE1ZFdNMFpUWm1Ta1JMUVc4NWJVcEJWR293ZFV4cGVrd3hRUSIsImZjdiI6IjMiLCJlaSI6IkxUT1JaYlB5TzZlenF0c1BvY0stOEFvIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZTaEtMVXZOSzAxVktDNHBTazNNTFZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFVmdGgyMGc0QSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBvd25lciBvZiBTdW5Tb3VyY2U/IiwibGsiOiJHZzl6ZFc1emIzVnlZMlVnYjNkdVpYSSIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZpakpTRlVvU2kxTHpTdE5WY2hQVXdndXpRdk9MeTFLVHJXWE9HZkFwYzZsQkZaWFVsa0FsazNPenkxSXpLc0U2VU5TMkZ2QXBjd2xGNTZSRHpNdnZ6d3Z0UWpOdEFNcEFvd0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1NtMVpiV1JxTm5kclVsVjJUSEZ6TVdONVlXTmZVMU16UVhSNVYyWlpUMjFDUkdwNGQzSlRTWHBzVFZsRVZucFRWVVZDTms5bFEyWTJZazl5UTJVNE5YUTVkMGhrRWhkTVZFOVNXbUpRZVU4MlpYcHhkSE5RYjJOTExUaEJieG9pUVVwM2F5MDRaRkE1ZFdNMFpUWm1Ta1JMUVc4NWJVcEJWR293ZFV4cGVrd3hRUSIsImZjdiI6IjMiLCJlaSI6IkxUT1JaYlB5TzZlenF0c1BvY0stOEFvIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZTaEtMVXZOSzAxVktDNHBTazNNTFZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFVmdGgyMGc0QSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBvd25lciBvZiBTdW5Tb3VyY2U%2FIiwibGsiOiJHZzl6ZFc1emIzVnlZMlVnYjNkdVpYSSIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZpakpTRlVvU2kxTHpTdE5WY2hQVXdndXpRdk9MeTFLVHJXWE9HZkFwYzZsQkZaWFVsa0FsazNPenkxSXpLc0U2VU5TMkZ2QXBjd2xGNTZSRHpNdnZ6d3Z0UWpOdEFNcEFvd0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "redirect_link": "https://www.google.comhttps://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee704cb8b9a167f7efc250ef29738d14b36b.png",
+            "snippet": "SunSource's revenue is $320.0 Million - Learn more about SunSource's revenue by exploring their annual revenue, historical revenue, quarterly revenue, ...",
+            "snippet_highlighted_words": [
+                "320.0 Million"
+            ],
+            "source": "Zippia"
+        },
+        {
+            "position": 2,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/about-us",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee7077d0260f649a1089bfba8a570abf84a0.png",
+            "snippet": "SunSource develops, engineers, procures, constructs, and operates solar power projects to help institutional, industrial, commercial and non-profit sector ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "solar power",
+                "profit"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "SUNSOURCE ENERGY PRIVATE LIMITED",
+            "link": "https://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281",
+            "redirect_link": "https://www.google.comhttps://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281",
+            "displayed_link": "https://www.tofler.in \u203a ... \u203a Business Services",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee705ede334cecc28c5d17726f00abf3a87b.png",
+            "snippet": "Sunsource Energy Private Limited's operating revenues range is INR 100 cr - 500 cr for the financial year ending on 31 March, 2022. It's EBITDA has increased by ...",
+            "snippet_highlighted_words": [
+                "INR 100 cr - 500 cr"
+            ],
+            "source": "Tofler"
+        },
+        {
+            "position": 4,
+            "title": "Started in a living room, this solar energy company now ...",
+            "link": "https://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "displayed_link": "https://yourstory.com \u203a 2020/03 \u203a solar-energy-provi...",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee707db1756d28e221ddeb38c8635ee6e72a.png",
+            "date": "Mar 18, 2020",
+            "snippet": "In FY2019, SunSource generated revenue worth Rs 130 crore, clocking ... or opex model, SunSource develops, owns, and operates the solar projects.",
+            "snippet_highlighted_words": [
+                "Rs 130 crore"
+            ],
+            "source": "Yourstory"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy Stock Price, Funding, Valuation, ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy/financials",
+            "redirect_link": "https://www.google.comhttps://www.cbinsights.com/company/sunsource-energy/financials",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a financials",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee7021e410b117769650f355867be4054116.png",
+            "snippet": "See SunSource Energy funding rounds, investors, investments, exits and more. Evaluate their financials based on SunSource Energy's post-money valuation and ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "SunSource Energy's",
+                "money"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy - Company Profile",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "redirect_link": "https://www.google.comhttps://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "displayed_link": "https://tracxn.com \u203a Discover",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee7056def7e7b7fba8a15354ca6089fd0616.png",
+            "date": "Dec 22, 2023",
+            "snippet": "Valuation: $39.5M as on Feb 22, 2018 ; Annual Revenue: $7.83M as on Mar 31, 2022 ; Competitor Rank: 16th out of 66 competitors with a Tracxn Score ...",
+            "snippet_highlighted_words": [
+                "7.83M"
+            ],
+            "missing": [
+                "streams"
+            ],
+            "must_include": {
+                "word": "streams",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+%22streams%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q5t4CegQIQBAB"
+            },
+            "source": "Tracxn"
+        },
+        {
+            "position": 7,
+            "title": "SunSource - Overview, News & Similar companies",
+            "link": "https://www.zoominfo.com/c/sunsource/101859488",
+            "redirect_link": "https://www.google.comhttps://www.zoominfo.com/c/sunsource/101859488",
+            "displayed_link": "https://www.zoominfo.com \u203a sunsource",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee703de4462ba72847f2f65347e15451938d.png",
+            "snippet": "SunSource's official website is www.sun-source.com What is SunSource's Revenue? SunSource's revenue is $813.7 Million What is SunSource's SIC code?",
+            "snippet_highlighted_words": [
+                "813.7 Million"
+            ],
+            "source": "ZoomInfo"
+        },
+        {
+            "position": 8,
+            "title": "SunSource's Competitors, Revenue, Number of Employees ...",
+            "link": "https://www.owler.com/company/sun-source",
+            "redirect_link": "https://www.google.comhttps://www.owler.com/company/sun-source",
+            "displayed_link": "https://www.owler.com \u203a company \u203a sun-source",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee70e2b69548b8c6152f81f4c64a21f2d314.png",
+            "snippet": "SunSource's primary competitors are Flowtech, Lovejoy, Baldor Electric Company and 4 more. Competitors. View 7 SunSource competitors here. Acquisitions. View 2 ...",
+            "snippet_highlighted_words": [
+                "SunSource's",
+                "Company",
+                "SunSource"
+            ],
+            "source": "Owler"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy Private Limited",
+            "link": "https://www.careratings.com/upload/CompanyFiles/PR/04042022080238_SunSource_Energy_Private_Limited.pdf",
+            "redirect_link": "https://www.google.comhttps://www.careratings.com/upload/CompanyFiles/PR/04042022080238_SunSource_Energy_Private_Limited.pdf",
+            "displayed_link": "https://www.careratings.com \u203a CompanyFiles",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee70370e43c508c10c4b0adcd1e942c731c3.png",
+            "date": "Apr 4, 2022",
+            "snippet": "The long-term PPAs provide revenue visibility for the company. Furthermore, the company has also tied-up long-term PPA (25-year) for the ...",
+            "snippet_highlighted_words": [
+                "long-term PPAs"
+            ],
+            "source": "CARE Ratings"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy Private Limited",
+            "link": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_March%2028,%202023_RR_314957.html",
+            "redirect_link": "https://www.google.comhttps://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_March%2028,%202023_RR_314957.html",
+            "displayed_link": "https://www.crisilratings.com \u203a RatingList \u203a RatingDocs",
+            "favicon": "https://serpapi.com/searches/6591332c116a5515c9ac0a96/images/5e78b0cc98c71b5acf75cdb4da95ee707ef808f12af67df306681c50e35b82a0.png",
+            "date": "Mar 28, 2023",
+            "snippet": "SSEPL is in the solar EPC business with at least 80-90% of its income being contributed by group entities. SHV Energy has invested its total ...",
+            "snippet_highlighted_words": [
+                "least 80-90% of its income"
+            ],
+            "source": "CRISIL Ratings Limited"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What are the revenue streams of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+revenue+streams+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource leadership team",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+leadership+team&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+leadership+team"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource ceo",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+CEO&sa=X&ved=2ahUKEwjzvMGZrbmDAxWnmWoFHSGhD64Q1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+CEO"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&oq=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&oq=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&oq=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&oq=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&oq=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+revenue+streams+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "search_metadata": {
+        "id": "6591333ab5961e65460e2a36",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ef7a486f1b37a90b/6591333ab5961e65460e2a36.json",
+        "created_at": "2023-12-31 09:24:10 UTC",
+        "processed_at": "2023-12-31 09:24:10 UTC",
+        "google_url": "https://www.google.com/search?q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&oq=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ef7a486f1b37a90b/6591333ab5961e65460e2a36.html",
+        "total_time_taken": 1.86
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What are the social media platforms links of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What are the social media platforms links of the company SunSource Energy?",
+        "total_results": 167000,
+        "time_taken_displayed": 0.34,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&uds=AMIYvT849gkNPhBNsRP2zoVvFLpOFFs-wwdh7RpxGT3VNoNqcJtYIPb_Is16SlgWUWnSET2Fc-CMq82vJ5ETJERRhNcERITa403rbzX90a5iMUnzXuA64sjr222HkYPhX3JOH2DrgwrrjLiw3-ZGRyNwu9xZYoebNGgkYvvgfjK1o0av69Y4nrZj0h_y2W0wHsXKrDrNO7g1L66OmOjByFV7YcyqlVIp1Q&udm=4&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQs6gLegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ0pQJegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ0pQJegQIRBAB"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sca_esv=594717547&output=search&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&source=lnms&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ0pQJegQIRhAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is SunSource owned by?",
+            "snippet": "SunSource was bought in late 2017 by private investment firm Clayton, Dubilier and Rice \u2014 the same firm that bought HD Supply Waterworks last summer for $2.5 billion and rebranded that unit as Core & Main. SunSource is led by David Sacher, who was promoted from company president and COO to CEO in early 2017.",
+            "title": "Clayton, Dubilier and Rice",
+            "date": "Jul 19, 2018",
+            "link": "https://www.inddist.com/mergers-acquisitions/news/13776365/sunsource-to-acquire-united-distribution-group#:~:text=SunSource%20was%20bought%20in%20late,to%20CEO%20in%20early%202017.",
+            "displayed_link": "https://www.inddist.com \u203a mergers-acquisitions \u203a news",
+            "source_logo": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/477a3c84608525e3f62685759e1ecfa79a9ff66085e2982236cf02758f885e50.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVqZGxXVEp6UVhndGVuaHBYMlJOZFZsT05WY3lNR0ZDTURWTlJsaEJaRzkwWld0NU0yWjJhMkozYm1oaE1YWlFiRE5aU25oVFN6QjRaSFl6TlV4amIxUkxVMDlHRWhkUGVrOVNXbVpFTlUxS1IySndkRkZRTFVwSE9HbEJUUm9pUVVwM2F5MDRaRU5TZHpCNVZpMVpaVEF0TUd0VlNVTnJjM1Z4UmpWU2FHZG9adyIsImZjdiI6IjMiLCJlaSI6Ik96T1JaZkQ1TUpHYnB0UVAtSkc4aUFNIiwicWMiOiJjeDNLTVE2QUlBd0ZVR2NuSi1kX0UxMmRQRU9EUlluUUVnb3hETjdkeERlX2NYc3VxcURDcUJmRDFBV0tTSHdFUW81VXZaWmtpRUZ1Z19yX09FMlpwTU9hbUxiaUdDeGN6ajRONzdyUHl3YyIsInF1ZXN0aW9uIjoiV2hvIGlzIFN1blNvdXJjZSBvd25lZCBieT8iLCJsayI6IkdobDNhRzhnYVhNZ2MzVnVjMjkxY21ObElHOTNibVZrSUdKNSIsImJzIjoiQ2g4S0dsZG9ieUJwY3lCVGRXNVRiM1Z5WTJVZ2IzZHVaV1FnWW5rX0dLSV9FQUUiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVlVqZGxXVEp6UVhndGVuaHBYMlJOZFZsT05WY3lNR0ZDTURWTlJsaEJaRzkwWld0NU0yWjJhMkozYm1oaE1YWlFiRE5aU25oVFN6QjRaSFl6TlV4amIxUkxVMDlHRWhkUGVrOVNXbVpFTlUxS1IySndkRkZRTFVwSE9HbEJUUm9pUVVwM2F5MDRaRU5TZHpCNVZpMVpaVEF0TUd0VlNVTnJjM1Z4UmpWU2FHZG9adyIsImZjdiI6IjMiLCJlaSI6Ik96T1JaZkQ1TUpHYnB0UVAtSkc4aUFNIiwicWMiOiJjeDNLTVE2QUlBd0ZVR2NuSi1kX0UxMmRQRU9EUlluUUVnb3hETjdkeERlX2NYc3VxcURDcUJmRDFBV0tTSHdFUW81VXZaWmtpRUZ1Z19yX09FMlpwTU9hbUxiaUdDeGN6ajRONzdyUHl3YyIsInF1ZXN0aW9uIjoiV2hvIGlzIFN1blNvdXJjZSBvd25lZCBieT8iLCJsayI6IkdobDNhRzhnYVhNZ2MzVnVjMjkxY21ObElHOTNibVZrSUdKNSIsImJzIjoiQ2g4S0dsZG9ieUJwY3lCVGRXNVRiM1Z5WTJVZ2IzZHVaV1FnWW5rX0dLSV9FQUUiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Sun Source Energy (@joinsunsource)",
+            "link": "https://www.instagram.com/joinsunsource/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/joinsunsource/&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECBYQAQ",
+            "displayed_link": "860+ followers",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e489b66ba13c67c4233c168a6dc90c64c1.png",
+            "snippet": "We're a fully integrated solar company with opportunities for those who want to make a difference #solarpower \u00b7 sunsourceusa.com/careers.",
+            "snippet_highlighted_words": [
+                "solar company"
+            ],
+            "missing": [
+                "social",
+                "media",
+                "platforms",
+                "links"
+            ],
+            "source": "Instagram \u00b7 joinsunsource"
+        },
+        {
+            "position": 2,
+            "title": "Privacy Policy",
+            "link": "https://www.sunsourceus.com/privacy-policy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsourceus.com/privacy-policy&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECBUQAQ",
+            "displayed_link": "https://www.sunsourceus.com \u203a privacy-policy",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e471ea2b137158a8f86f235e511dfa74bf.png",
+            "snippet": "The Site also includes any webpages and content managed by SunSource, Inc. and our social media sites (Twitter, Facebook, LinkedIn, Instagram, and other ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "Inc",
+                "social media sites"
+            ],
+            "source": "SunSourceUS"
+        },
+        {
+            "position": 3,
+            "title": "Media",
+            "link": "https://www.sunsource-energy.com/media",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/media&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECBQQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a media",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e480222346793ea2613e0407a6891103f9.png",
+            "snippet": "MEDIA \u00b7 Blogs and Perspectives \u00b7 Contact Us \u00b7 Company \u00b7 What We Offer \u00b7 Industries \u00b7 Company \u00b7 What We Offer.",
+            "snippet_highlighted_words": [
+                "MEDIA",
+                "Company",
+                "Company"
+            ],
+            "missing": [
+                "social",
+                "platforms",
+                "links"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "Privacy Policy",
+            "link": "https://www.sunsource-energy.com/privacy-policy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/privacy-policy&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECBcQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a privacy-policy",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e48fe906ff66571e1c25915d18f121a10b.png",
+            "snippet": "Our Company is active on social media platforms like Facebook, Twitter, LinkedIn and YouTube. When you contact Our Company via social media, we process your ...",
+            "snippet_highlighted_words": [
+                "Company",
+                "social media platforms",
+                "Company",
+                "social media"
+            ],
+            "missing": [
+                "links"
+            ],
+            "must_include": {
+                "word": "links",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+platforms+%22links%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ5t4CegQIIhAB"
+            },
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/sunsource-energy&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECBgQAQ",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e475f313dbce2fda782e383cd443ee1bd2.png",
+            "snippet": "SunSource Energy is a leading provider of solar-based energy and storage solutions to commercial, industrial and institutional customers.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "missing": [
+                "platforms"
+            ],
+            "must_include": {
+                "word": "platforms",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+%22platforms%22+links+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ5t4CegQIJhAB"
+            },
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 6,
+            "title": "Sun Source Energy LLC v Franklin Moore",
+            "link": "https://www.law360.com/ttab_cases/63a8489cb4db510e4d2bb92c",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.law360.com/ttab_cases/63a8489cb4db510e4d2bb92c&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECDIQAQ",
+            "displayed_link": "https://www.law360.com \u203a ttab_cases",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e45af1cf5917a1e37e3939de3bdf36ad59.png",
+            "date": "Dec 24, 2022",
+            "snippet": "News and analysis on legal developments including litigation filings, case settlements, verdicts, regulation, enforcement, legislation, ...",
+            "source": "Law360"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy - Overview, News & Similar companies",
+            "link": "https://www.zoominfo.com/c/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zoominfo.com/c/sunsource-energy/346888233&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECDkQAQ",
+            "displayed_link": "https://www.zoominfo.com \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e4785750ec5112db94bcb52db3b7074d93.png",
+            "snippet": "What are SunSource Energy social media links? SunSource Energy Linkedin page SunSource Energy Facebook page SunSource Energy Twitter page Is SunSource ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy social media links",
+                "SunSource Energy",
+                "SunSource Energy",
+                "SunSource Energy"
+            ],
+            "missing": [
+                "platforms"
+            ],
+            "must_include": {
+                "word": "platforms",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+social+media+%22platforms%22+links+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ5t4CegQIQRAB"
+            },
+            "source": "ZoomInfo"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy to develop 70 MW open access solar ...",
+            "link": "https://energy.economictimes.indiatimes.com/news/renewable/sunsource-energy-to-develop-70-mw-open-access-solar-power-project-in-up/68284873",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://energy.economictimes.indiatimes.com/news/renewable/sunsource-energy-to-develop-70-mw-open-access-solar-power-project-in-up/68284873&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECDUQAQ",
+            "displayed_link": "https://energy.economictimes.indiatimes.com \u203a news",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e45c807e1c24502b656d4b25730f5f8416.png",
+            "date": "Mar 6, 2019",
+            "snippet": "... social platform. Follow us for the latest news, insider access to events and more. Linkedin Twitter Youtube Facebook Instagram \u00b7 About Us.",
+            "snippet_highlighted_words": [
+                "social platform"
+            ],
+            "source": "ET EnergyWorld"
+        },
+        {
+            "position": 9,
+            "title": "How SunSource Energy emerged as one of the key players in ...",
+            "link": "https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECDMQAQ",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a ... \u203a Power",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e4844fb697fdc1c17f436cb5e9248f8191.png",
+            "date": "Mar 6, 2016",
+            "snippet": "SunSource Energy is one of the key players in India's solar space with 60 completed projects with a cumulative capacity of 17 MW across 12 ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "The Economic Times"
+        },
+        {
+            "position": 10,
+            "title": "SHV Energy acquires significant stake in SunSource",
+            "link": "https://www.power-technology.com/news/shv-energy-acquires-significant-stake-in-sunsource/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.power-technology.com/news/shv-energy-acquires-significant-stake-in-sunsource/&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQFnoECDgQAQ",
+            "displayed_link": "https://www.power-technology.com \u203a news \u203a shv-ener...",
+            "favicon": "https://serpapi.com/searches/6591333ab5961e65460e2a36/images/931ffc465457f5dc9340b9247bfd65e4fc5d5e7343d9ad9c14838caa0b17e3e9.png",
+            "date": "May 5, 2021",
+            "snippet": "Netherlands-based energy firm SHV Energy has announced the acquisition of a significant stake in Indian company SunSource Energy.",
+            "snippet_highlighted_words": [
+                "energy firm",
+                "Energy",
+                "company SunSource Energy"
+            ],
+            "source": "Power Technology"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy hr contact number",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+HR+contact+number&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+HR+contact+number"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy pvt ltd noida",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+source+ENERGY+pvt+ltd+noida&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+source+ENERGY+pvt+ltd+noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "fourth partner energy company profile",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Fourth+Partner+Energy+company+profile&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fourth+Partner+Energy+company+profile"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsure energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsure+Energy+linkedin&sa=X&ved=2ahUKEwiwg42grbmDAxWRjYkEHfgIDzEQ1QJ6BAgrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsure+Energy+linkedin"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&oq=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&oq=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&oq=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&oq=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&oq=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+social+media+platforms+links+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

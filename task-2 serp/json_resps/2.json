@@ -1,0 +1,317 @@
+{
+    "search_metadata": {
+        "id": "65912d03fdca3ee0344c61d7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5e179a4a8944cfad/65912d03fdca3ee0344c61d7.json",
+        "created_at": "2023-12-31 08:57:39 UTC",
+        "processed_at": "2023-12-31 08:57:39 UTC",
+        "google_url": "https://www.google.com/search?q=key+people+in+the+company+SunSource+Energy&oq=key+people+in+the+company+SunSource+Energy&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5e179a4a8944cfad/65912d03fdca3ee0344c61d7.html",
+        "total_time_taken": 0.52
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "key people in the company SunSource Energy",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "key people in the company SunSource Energy",
+        "total_results": 282000,
+        "time_taken_displayed": 0.34,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=key+people+in+the+company+SunSource+Energy&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=key+people+in+the+company+SunSource+Energy"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=key+people+in+the+company+SunSource+Energy&uds=AMIYvT9yD7Sul6jnEXd_La40aumROjIV6IIknSVcY7eJaAxIJyN4VuTbrRckQpZJLxu7Md09oCM2VHBs3Is5CgiKJl3r8eavZUOFC33zSP0tPMtipZuk7Y0k6ReKhZvrmPgAoNgjEJIuHWDvOjhO4bXWR7-as16p5ktTMyXc6Jn7K8Gbrqg7f8Y&udm=4&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQs6gLegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy"
+            },
+            {
+                "position": 3,
+                "title": "Address",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Key+people+in+the+company+sunsource+energy+address&uds=AMIYvT9cj7ddkAYqXrgDV5LmdXgqQhPiPEvZc720ITFqAEv0LFFNI8JJ0JPDy0mPX9FyDO2QJ0YYRJ9kvQvVtaSuOFUxa2A-Gy01w4yrVnEmUmYbhv5qBeghtmkWM2O6_4wufTtoQiLQwAlTGgpT9I1d-rT5ZLmFYiUkakdGlNmoCK1m2CxnkSQ&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQxKsJegQIDhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Key+people+in+the+company+sunsource+energy+address"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=key+people+in+the+company+SunSource+Energy&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ0pQJegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=key+people+in+the+company+SunSource+Energy"
+            },
+            {
+                "position": 5,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=key+people+in+the+company+SunSource+Energy&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ0pQJegQIRBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&tbm=nws"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=key+people+in+the+company+SunSource+Energy&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=key+people+in+the+company+SunSource+Energy"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594712212&output=search&q=key+people+in+the+company+SunSource+Energy&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=key+people+in+the+company+SunSource+Energy&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ0pQJegQIRxAB"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594712212&output=search&q=key+people+in+the+company+SunSource+Energy&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the executive team of SunSource?",
+            "title": "SunSource CEO and Key Executive Team",
+            "link": "https://craft.co/sunsource-sts/executives",
+            "list": [
+                "Scott Lovingfoss. Chief Information Officer.",
+                "Keith Bayer. Vice President of Sales.",
+                "Chuck Kern. Vice President of Operations.",
+                "Adam Andrich. Senior Director of Marketing.",
+                "Eric Stone. Director of Industrial Fluid Process."
+            ],
+            "displayed_link": "https://craft.co \u203a sunsource-sts \u203a executives",
+            "source_logo": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/e14862a2418e849f0549254d18f317921ca2da7fede0c7a2960b12d8966a93c4.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRHSTFNbmRNZDFJeVlsbE1kRk4zTW1KWFJGWjRTRlZIYTJWdGRVdEpibmREVDJwaFJGQlpaazQ1U0Znd1NtcFJkVzF0UVZkWVMwbDJkWEZ6YW1sUlQwRkxlR0l4RWhkQmVUSlNXbVJEWVVaek1tNXRkR3RRZEc5aFFXdEJheG9pUVVwM2F5MDRZMVI2ZVZZNE1UQmZXR05YZG10R1VUSnVRalJ1U1hGVlVWWk5VUSIsImZjdiI6IjMiLCJlaSI6IkF5MlJaZENhRnMybm10a1B0b2FBa0FrIiwicWMiOiJDaXByWlhrZ2NHVnZjR3hsSUdsdUlIUm9aU0JqYjIxd1lXNTVJSE4xYm5OdmRYSmpaU0JsYm1WeVoza1FBSDN1ZjlFLSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBleGVjdXRpdmUgdGVhbSBvZiBTdW5Tb3VyY2U/IiwibGsiOiJHaGh6ZFc1emIzVnlZMlVnWlhobFkzVjBhWFpsSUhSbFlXMCIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWl0U0UwdUxja3NTMVVvU1UzTVZjaFBVd2d1elF2T0x5MUtUcldYV0szSnBjR2xqS1RhMmRVZlJZbUNhMTVxVVhxbHZVUlhvQUFqQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRHSTFNbmRNZDFJeVlsbE1kRk4zTW1KWFJGWjRTRlZIYTJWdGRVdEpibmREVDJwaFJGQlpaazQ1U0Znd1NtcFJkVzF0UVZkWVMwbDJkWEZ6YW1sUlQwRkxlR0l4RWhkQmVUSlNXbVJEWVVaek1tNXRkR3RRZEc5aFFXdEJheG9pUVVwM2F5MDRZMVI2ZVZZNE1UQmZXR05YZG10R1VUSnVRalJ1U1hGVlVWWk5VUSIsImZjdiI6IjMiLCJlaSI6IkF5MlJaZENhRnMybm10a1B0b2FBa0FrIiwicWMiOiJDaXByWlhrZ2NHVnZjR3hsSUdsdUlIUm9aU0JqYjIxd1lXNTVJSE4xYm5OdmRYSmpaU0JsYm1WeVoza1FBSDN1ZjlFLSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBleGVjdXRpdmUgdGVhbSBvZiBTdW5Tb3VyY2U%2FIiwibGsiOiJHaGh6ZFc1emIzVnlZMlVnWlhobFkzVjBhWFpsSUhSbFlXMCIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWl0U0UwdUxja3NTMVVvU1UzTVZjaFBVd2d1elF2T0x5MUtUcldYV0szSnBjR2xqS1RhMmRVZlJZbUNhMTVxVVhxbHZVUlhvQUFqQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Who is the CEO of SunSource Energy?",
+            "snippet": "Kushagra Nandan | SunSource Energy.",
+            "title": "Kushagra Nandan",
+            "link": "https://www.sunsource-energy.com/kushagra-nandan#:~:text=Kushagra%20Nandan%20%7C%20SunSource%20Energy",
+            "displayed_link": "https://www.sunsource-energy.com \u203a kushagra-nandan",
+            "source_logo": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/e14862a2418e849f0549254d18f31792d80f9b0239f928d2232e658f1f600e8a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRHSTFNbmRNZDFJeVlsbE1kRk4zTW1KWFJGWjRTRlZIYTJWdGRVdEpibmREVDJwaFJGQlpaazQ1U0Znd1NtcFJkVzF0UVZkWVMwbDJkWEZ6YW1sUlQwRkxlR0l4RWhkQmVUSlNXbVJEWVVaek1tNXRkR3RRZEc5aFFXdEJheG9pUVVwM2F5MDRZMVI2ZVZZNE1UQmZXR05YZG10R1VUSnVRalJ1U1hGVlVWWk5VUSIsImZjdiI6IjMiLCJlaSI6IkF5MlJaZENhRnMybm10a1B0b2FBa0FrIiwicWMiOiJDaXByWlhrZ2NHVnZjR3hsSUdsdUlIUm9aU0JqYjIxd1lXNTVJSE4xYm5OdmRYSmpaU0JsYm1WeVoza1FBSDN1ZjlFLSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBDRU8gb2YgU3VuU291cmNlIEVuZXJneT8iLCJsayI6IkdoUnpkVzV6YjNWeVkyVWdaVzVsY21kNUlHTmxidyIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWl0U0UwdUxja3NTMVVvU1UzTVZjaFBVd2d1elF2T0x5MUtUcldYV0szSnBjR2xqS1RhMmRVZlJZbUNhMTVxVVhxbHZVUlhvQUFqQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVRHSTFNbmRNZDFJeVlsbE1kRk4zTW1KWFJGWjRTRlZIYTJWdGRVdEpibmREVDJwaFJGQlpaazQ1U0Znd1NtcFJkVzF0UVZkWVMwbDJkWEZ6YW1sUlQwRkxlR0l4RWhkQmVUSlNXbVJEWVVaek1tNXRkR3RRZEc5aFFXdEJheG9pUVVwM2F5MDRZMVI2ZVZZNE1UQmZXR05YZG10R1VUSnVRalJ1U1hGVlVWWk5VUSIsImZjdiI6IjMiLCJlaSI6IkF5MlJaZENhRnMybm10a1B0b2FBa0FrIiwicWMiOiJDaXByWlhrZ2NHVnZjR3hsSUdsdUlIUm9aU0JqYjIxd1lXNTVJSE4xYm5OdmRYSmpaU0JsYm1WeVoza1FBSDN1ZjlFLSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBDRU8gb2YgU3VuU291cmNlIEVuZXJneT8iLCJsayI6IkdoUnpkVzV6YjNWeVkyVWdaVzVsY21kNUlHTmxidyIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWl0U0UwdUxja3NTMVVvU1UzTVZjaFBVd2d1elF2T0x5MUtUcldYV0szSnBjR2xqS1RhMmRVZlJZbUNhMTVxVVhxbHZVUlhvQUFqQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Meet Our Team | Sunsource Energy - Green Energy Company",
+        "link": "https://www.sunsource-energy.com/team",
+        "displayed_link": "https://www.sunsource-energy.com \u203a team",
+        "snippet": "Our Leadership",
+        "snippet_highlighted_words": [
+            "Our Leadership"
+        ],
+        "list": [
+            "Kushagra Nandan. Co-Founder, MD, and CEO.",
+            "Adarsh Das. Co-Founder and Director.",
+            "Bram Gr\u00e4ber. Director.",
+            "Ajay Kumar. Director."
+        ],
+        "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/00979510585297ac3bc7450b4a353a70d68a86e4245fd7cf.png",
+        "source": "SunSource Energy"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy Management Team",
+            "link": "https://www.cbinsights.com/company/sunsource-energy/people",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbinsights.com/company/sunsource-energy/people&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECBkQAQ",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a people",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba22e9a854f2400ef2dea0fd4f88c00c6c2b.png",
+            "snippet": "Explore {SunSource Energy's key management people. Discover current leadership team members including founders, CEO, other executives and board directors.",
+            "snippet_highlighted_words": [
+                "SunSource Energy's key",
+                "people",
+                "members",
+                "CEO"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 2,
+            "title": "Leadership Profiles",
+            "link": "https://www.sunsource-energy.com/taxonomy/term/51",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/taxonomy/term/51&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECBsQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a taxonomy \u203a term",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba224b29d064fcbcaf6f5d351848dc09d085.png",
+            "snippet": "Profile: Adarsh Das, Director and Co-Founder \u00b7 Profile: Kushagra Nandan, Co-Founder, MD, and CEO \u00b7 Contact Us \u00b7 Company \u00b7 What We Offer \u00b7 Industries \u00b7 Company \u00b7 What ...",
+            "snippet_highlighted_words": [
+                "CEO",
+                "Company",
+                "Company"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/sunsource-energy&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECBoQAQ",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba2286c9718a30ec7e66d08d52b1c3aece95.png",
+            "snippet": "SunSource Energy is a leading provider of solar-based energy and storage solutions to commercial, industrial and institutional customers.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "List of 151 SunSource Energy Employees",
+            "link": "https://www.signalhire.com/companies/sunsource-energy/employees",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.signalhire.com/companies/sunsource-energy/employees&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECC0QAQ",
+            "displayed_link": "https://www.signalhire.com \u203a ... \u203a SunSource Energy",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba22b004fc6153b83e4789b40c70b6975c46.png",
+            "snippet": "SunSource Energy Employees ; Kushaagra Nandan, Co-Founder, MD & CEO, New Delhi, Delhi ; Randeep Bora, VP - Business Development, Noida, Uttar Pradesh ; Sandeep ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy Employees",
+                "CEO",
+                "Business"
+            ],
+            "source": "SignalHire"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy Company Profile",
+            "link": "https://www.datanyze.com/companies/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.datanyze.com/companies/sunsource-energy/346888233&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECDYQAQ",
+            "displayed_link": "https://www.datanyze.com \u203a companies \u203a sunsource-e...",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba227a41aafcb5cf202db48b35c55ceeaa5a.png",
+            "snippet": "Executive Team ; Kushagra Nandan. President & Chief Operating Officer. Kushagra Nandan on Linkedin. Email. Phone ; Pratik Adhikari. Chief Financial Officer. Email.",
+            "source": "Datanyze"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy: Employee Directory",
+            "link": "https://www.zoominfo.com/pic/sunsource-energy-americas-inc/346888233",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zoominfo.com/pic/sunsource-energy-americas-inc/346888233&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECDAQAQ",
+            "displayed_link": "https://www.zoominfo.com \u203a pic \u203a sunsource-energy-am...",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba2294d088e6844a2fcfb4ea1863db3dc26c.png",
+            "snippet": "Key Employees of SunSource Energy ; Kushagra Nandan. President & Chief Operating Officer ; Bhawna Marwaha. Executive Asssiatnt To MD and ...",
+            "snippet_highlighted_words": [
+                "Key Employees",
+                "SunSource Energy"
+            ],
+            "source": "Zoominfo"
+        },
+        {
+            "position": 7,
+            "title": "About - Sun Source Energy",
+            "link": "https://sunsourceusa.com/about/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunsourceusa.com/about/&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECDkQAQ",
+            "displayed_link": "https://sunsourceusa.com \u203a about",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba22800756ed1333225d4021038ef44304ef.png",
+            "snippet": "Sean Crotty. Chief Executive Officer \u00b7 Josh Crotty. President \u00b7 Travis Tuls. Vice President of Sales \u00b7 David Hogan. National Sales Director \u00b7 Daniel Stakleff.",
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 8,
+            "title": "How SunSource Energy emerged as one of the key players in ...",
+            "link": "https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECDUQAQ",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a ... \u203a Power",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba22a603bc77ec11df7111668bccdfce112b.png",
+            "date": "Mar 6, 2016",
+            "snippet": "SunSource Energy is one of the key players in India's solar space with 60 completed projects with a cumulative capacity of 17 MW across 12 ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "key players"
+            ],
+            "source": "The Economic Times"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/sunsource-energy&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQFnoECDMQAQ",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/65912d03fdca3ee0344c61d7/images/320f2782cd8fcfd6cf3d70166b52ba22f885b0e1c8000b6be645748dbbee16aa.png",
+            "snippet": "SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "Crunchbase"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Key people in the company sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=Key+people+in+the+company+sunsource+energy+address&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAgpEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Key+people+in+the+company+sunsource+energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "shv energy",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SHV+Energy&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SHV+Energy"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource ceo",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+CEO&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAgrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+CEO"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource cfo",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+cfo&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+cfo"
+        },
+        {
+            "block_position": 1,
+            "query": "fourth partner energy",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=Fourth+Partner+Energy&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Fourth+Partner+Energy"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource history",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+history&sa=X&ved=2ahUKEwiQqOKop7mDAxXNkyYFHTYDAJIQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+history"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=key+people+in+the+company+SunSource+Energy&oq=key+people+in+the+company+SunSource+Energy&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=key+people+in+the+company+SunSource+Energy&oq=key+people+in+the+company+SunSource+Energy&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=key+people+in+the+company+SunSource+Energy&oq=key+people+in+the+company+SunSource+Energy&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=key+people+in+the+company+SunSource+Energy&oq=key+people+in+the+company+SunSource+Energy&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=key+people+in+the+company+SunSource+Energy&oq=key+people+in+the+company+SunSource+Energy&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=key+people+in+the+company+SunSource+Energy&start=40"
+        }
+    }
+}

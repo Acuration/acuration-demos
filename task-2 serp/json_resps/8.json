@@ -1,0 +1,278 @@
+{
+    "search_metadata": {
+        "id": "659131a45119a6bbd0301e08",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/371313795c71d34b/659131a45119a6bbd0301e08.json",
+        "created_at": "2023-12-31 09:17:24 UTC",
+        "processed_at": "2023-12-31 09:17:24 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&oq=What+is+the+market+size+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/371313795c71d34b/659131a45119a6bbd0301e08.html",
+        "total_time_taken": 1.08
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the market size of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the market size of the company SunSource Energy?",
+        "total_results": 377000,
+        "time_taken_displayed": 0.29,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&uds=AMIYvT8FGb36kGb6lTUkLA5HkWy5Or93VMRLUX4HFwmOylz-Kx2c3qH4rLT7Y4hVyD6DiHdmsbGf2muqtH6K3k4ijBExcgKzhosR7rV70yLXexD4-Spcrzl7DOOXAm-EGJ-o-WKPeYYEgx6EW6JO9CheLhQloRchYwBaclpO1xMXkF4hL2Vx31NieRT6CUQbGRv9hTg8FGGD&udm=4&sa=X&ved=2ahUKEwix2JLeq7mDAxUMJkQIHYXeCJ4Qs6gLegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwix2JLeq7mDAxUMJkQIHYXeCJ4Q0pQJegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwix2JLeq7mDAxUMJkQIHYXeCJ4Q0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwix2JLeq7mDAxUMJkQIHYXeCJ4Q0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwix2JLeq7mDAxUMJkQIHYXeCJ4Q0pQJegQIQRAB"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+market+size+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sca_esv=594717547&output=search&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&source=lnms&sa=X&ved=2ahUKEwix2JLeq7mDAxUMJkQIHYXeCJ4Q0pQJegQIQBAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who are SunSource competitors?",
+            "title": "Sunsource competitors",
+            "date": "Dec 16, 2023",
+            "link": "https://tracxn.com/d/companies/sunsource/__99OaxZjaVo3CyD3hsM24sBmWpK57uW2tGAjueK0gyUw/competitors",
+            "list": [
+                "Lightsource BP. Developer of solar energy projects. ... ",
+                "Sterling And Wilson. Developer of solar energy projects for residential and commercial sector. ... ",
+                "Freyr Energy. Developer of solar energy projects. ... ",
+                "Adani Enterprises. ... ",
+                "Rays Power Infra. ... ",
+                "Serentica Renewables. ... ",
+                "Fourth Partner Energy. ... ",
+                "Apraava."
+            ],
+            "displayed_link": "https://tracxn.com \u203a companies \u203a sunsource \u203a competitors",
+            "source_logo": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/eae2a118290f894348511dc5af842a7961a1ef5473b7e70d8fbad8821b7284ff.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1JXNUtXbEZyTTJkTllYRklhSGhuYVd4M01YQnhaVU5oV1hkcVdYWlJNek0zZFY5clEweHBlbk50TFdaT2FHbE1iVTl1Y3poaE5uSllSbkJyZURoWFJqRnhVV2x3RWhkd1ZFZFNXbVpJZUVGdmVrMXJVRWxRYUdJeWFqaEJheG9pUVVwM2F5MDRZMWxCVm14UlNrdDBhVUpmVkdsdWIwUkxhRzVWVWtGVGExaEtVUSIsImZjdiI6IjMiLCJlaSI6InBUR1JaZkh4QW96TWtQSVBoYjJqOEFrIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVnlFMHN5azR0VVNqT3JFcFZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGaVduS3FUbXBSYWxWd293MU43cV9XWUhBQSIsInF1ZXN0aW9uIjoiV2hvIGFyZSBTdW5Tb3VyY2UgY29tcGV0aXRvcnM/IiwibGsiOiJHaFZ6ZFc1emIzVnlZMlVnWTI5dGNHVjBhWFJ2Y25NIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqVXVkU0NzOUlMRkhJTEZZb3lVaFZLRW90UzgwclRWWElUd1BwVVlCb3NwYzRaOENsdzZVT01nMnFMaTJfTkM4bHRRaXFEbXAyYWw1cVVYcWx2Y1ExYmdGR0FBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1JXNUtXbEZyTTJkTllYRklhSGhuYVd4M01YQnhaVU5oV1hkcVdYWlJNek0zZFY5clEweHBlbk50TFdaT2FHbE1iVTl1Y3poaE5uSllSbkJyZURoWFJqRnhVV2x3RWhkd1ZFZFNXbVpJZUVGdmVrMXJVRWxRYUdJeWFqaEJheG9pUVVwM2F5MDRZMWxCVm14UlNrdDBhVUpmVkdsdWIwUkxhRzVWVWtGVGExaEtVUSIsImZjdiI6IjMiLCJlaSI6InBUR1JaZkh4QW96TWtQSVBoYjJqOEFrIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVnlFMHN5azR0VVNqT3JFcFZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGaVduS3FUbXBSYWxWd293MU43cV9XWUhBQSIsInF1ZXN0aW9uIjoiV2hvIGFyZSBTdW5Tb3VyY2UgY29tcGV0aXRvcnM%2FIiwibGsiOiJHaFZ6ZFc1emIzVnlZMlVnWTI5dGNHVjBhWFJ2Y25NIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqVXVkU0NzOUlMRkhJTEZZb3lVaFZLRW90UzgwclRWWElUd1BwVVlCb3NwYzRaOENsdzZVT01nMnFMaTJfTkM4bHRRaXFEbXAyYWw1cVVYcWx2Y1ExYmdGR0FBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is the revenue of Sun Source?",
+            "snippet": "SunSource's revenue is $320.0 million. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "source_logo": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/eae2a118290f894348511dc5af842a79c7b60a1da2bed6514134ef2e320d95aa.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1JXNUtXbEZyTTJkTllYRklhSGhuYVd4M01YQnhaVU5oV1hkcVdYWlJNek0zZFY5clEweHBlbk50TFdaT2FHbE1iVTl1Y3poaE5uSllSbkJyZURoWFJqRnhVV2x3RWhkd1ZFZFNXbVpJZUVGdmVrMXJVRWxRYUdJeWFqaEJheG9pUVVwM2F5MDRZMWxCVm14UlNrdDBhVUpmVkdsdWIwUkxhRzVWVWtGVGExaEtVUSIsImZjdiI6IjMiLCJlaSI6InBUR1JaZkh4QW96TWtQSVBoYjJqOEFrIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVnlFMHN5azR0VVNqT3JFcFZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGaVduS3FUbXBSYWxWd293MU43cV9XWUhBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmV2ZW51ZSBvZiBTdW4gU291cmNlPyIsImxrIjoiR2hKemRXNGdjMjkxY21ObElISmxkbVZ1ZFdVIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqVXVkU0NzOUlMRkhJTEZZb3lVaFZLRW90UzgwclRWWElUd1BwVVlCb3NwYzRaOENsdzZVT01nMnFMaTJfTkM4bHRRaXFEbXAyYWw1cVVYcWx2Y1ExYmdGR0FBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1JXNUtXbEZyTTJkTllYRklhSGhuYVd4M01YQnhaVU5oV1hkcVdYWlJNek0zZFY5clEweHBlbk50TFdaT2FHbE1iVTl1Y3poaE5uSllSbkJyZURoWFJqRnhVV2x3RWhkd1ZFZFNXbVpJZUVGdmVrMXJVRWxRYUdJeWFqaEJheG9pUVVwM2F5MDRZMWxCVm14UlNrdDBhVUpmVkdsdWIwUkxhRzVWVWtGVGExaEtVUSIsImZjdiI6IjMiLCJlaSI6InBUR1JaZkh4QW96TWtQSVBoYjJqOEFrIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVnlFMHN5azR0VVNqT3JFcFZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGaVduS3FUbXBSYWxWd293MU43cV9XWUhBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcmV2ZW51ZSBvZiBTdW4gU291cmNlPyIsImxrIjoiR2hKemRXNGdjMjkxY21ObElISmxkbVZ1ZFdVIiwiYnMiOiJjLU5TNXBJTHo4aFhTQ3hLVlFndXpRdk9MeTFLVGxWSXpzOHRTQzNKTE1rdktyYVhhRlhqVXVkU0NzOUlMRkhJTEZZb3lVaFZLRW90UzgwclRWWElUd1BwVVlCb3NwYzRaOENsdzZVT01nMnFMaTJfTkM4bHRRaXFEbXAyYWw1cVVYcWx2Y1ExYmdGR0FBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/eae2a118290f894348511dc5af842a79536dbcb0e100de4a8035ccb600a07cbe.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1JXNUtXbEZyTTJkTllYRklhSGhuYVd4M01YQnhaVU5oV1hkcVdYWlJNek0zZFY5clEweHBlbk50TFdaT2FHbE1iVTl1Y3poaE5uSllSbkJyZURoWFJqRnhVV2x3RWhkd1ZFZFNXbVpJZUVGdmVrMXJVRWxRYUdJeWFqaEJheG9pUVVwM2F5MDRZMWxCVm14UlNrdDBhVUpmVkdsdWIwUkxhRzVWVWtGVGExaEtVUSIsImZjdiI6IjMiLCJlaSI6InBUR1JaZkh4QW96TWtQSVBoYjJqOEFrIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVnlFMHN5azR0VVNqT3JFcFZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGaVduS3FUbXBSYWxWd293MU43cV9XWUhBQSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZSBlbmVyZ3k/IiwibGsiOiJHaHRtYjNWdVpHVnlJRzltSUhOMWJuTnZkWEpqWlNCbGJtVnlaM2siLCJicyI6ImMtTlM1cElMejhoWFNDeEtWUWd1elF2T0x5MUtUbFZJenM4dFNDM0pMTWt2S3JhWGFGWGpVdWRTQ3M5SUxGSElMRllveVVoVktFb3RTODByVFZYSVR3UHBVWUJvc3BjNFo4Q2x3NlVPTWcycUxpMl9OQzhsdFFpcURtcDJhbDVxVVhxbHZjUTFiZ0ZHQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1JXNUtXbEZyTTJkTllYRklhSGhuYVd4M01YQnhaVU5oV1hkcVdYWlJNek0zZFY5clEweHBlbk50TFdaT2FHbE1iVTl1Y3poaE5uSllSbkJyZURoWFJqRnhVV2x3RWhkd1ZFZFNXbVpJZUVGdmVrMXJVRWxRYUdJeWFqaEJheG9pUVVwM2F5MDRZMWxCVm14UlNrdDBhVUpmVkdsdWIwUkxhRzVWVWtGVGExaEtVUSIsImZjdiI6IjMiLCJlaSI6InBUR1JaZkh4QW96TWtQSVBoYjJqOEFrIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVnlFMHN5azR0VVNqT3JFcFZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGaVduS3FUbXBSYWxWd293MU43cV9XWUhBQSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZSBlbmVyZ3k%2FIiwibGsiOiJHaHRtYjNWdVpHVnlJRzltSUhOMWJuTnZkWEpqWlNCbGJtVnlaM2siLCJicyI6ImMtTlM1cElMejhoWFNDeEtWUWd1elF2T0x5MUtUbFZJenM4dFNDM0pMTWt2S3JhWGFGWGpVdWRTQ3M5SUxGSElMRllveVVoVktFb3RTODByVFZYSVR3UHBVWUJvc3BjNFo4Q2x3NlVPTWcycUxpMl9OQzhsdFFpcURtcDJhbDVxVVhxbHZjUTFiZ0ZHQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy - Company Profile",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "redirect_link": "https://www.google.comhttps://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "displayed_link": "https://tracxn.com \u203a Discover",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd40599352d8e7d6ffb0ed61c77782a6f089.png",
+            "date": "Dec 22, 2023",
+            "snippet": "SunSource Energy Key Metrics ; Valuation: $39.5M as on Feb 22, 2018 ; Annual Revenue: $7.83M as on Mar 31, 2022 ; Competitor Rank: 16th out of 66 ...",
+            "snippet_highlighted_words": [
+                "39.5M"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy: Revenue, Competitors, Alternatives",
+            "link": "https://growjo.com/company/SunSource_Energy",
+            "redirect_link": "https://www.google.comhttps://growjo.com/company/SunSource_Energy",
+            "displayed_link": "https://growjo.com \u203a company \u203a SunSource_Energy",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd40f662833dd08addf53ced6f1c6136a684.png",
+            "snippet": "SunSource Energy top competitors are Council on Energy Environment and Water, SB Energy and Vivaan Solar and they have annual revenue of $26M and 189 ...",
+            "snippet_highlighted_words": [
+                "26M and 189"
+            ],
+            "source": "Growjo"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.crunchbase.com/organization/sunsource-energy",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd40c987538374cc6f92e6fae1acc67e5342.png",
+            "snippet": "SunSource Energy provides distributed energy solutions for commercial and industrial customers in India with a presence across South-East Asia.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "Crunchbase"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy Company Profile: Valuation, Investors ...",
+            "link": "https://pitchbook.com/profiles/company/227498-68",
+            "redirect_link": "https://www.google.comhttps://pitchbook.com/profiles/company/227498-68",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd40fc93a5df75de17c1893dd24c44f49687.png",
+            "snippet": "Information on acquisition, funding, investors, and executives for SunSource Energy. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 5,
+            "title": "Sunsource Energy's Competitors, Revenue, Number of ...",
+            "link": "https://www.owler.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.owler.com/company/sunsource-energy",
+            "displayed_link": "https://www.owler.com \u203a company \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd405812bb4f7363cb362d681cf9a5391a70.png",
+            "snippet": "Sunsource Energy's Profile, Revenue and Employees. SunSource Energy owns, develops, engineer, procures, constructs and operates solar energy projects.",
+            "snippet_highlighted_words": [
+                "Sunsource Energy's",
+                "Revenue",
+                "SunSource Energy"
+            ],
+            "source": "Owler"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "redirect_link": "https://www.google.comhttps://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd407018d74bd006aa62515ccce94f1bb65e.png",
+            "snippet": "SunSource's revenue is $320.0 Million - Learn more about SunSource's revenue by exploring their annual revenue, historical revenue, quarterly revenue, ...",
+            "snippet_highlighted_words": [
+                "320.0 Million"
+            ],
+            "source": "Zippia"
+        },
+        {
+            "position": 7,
+            "title": "Started in a living room, this solar energy company now ...",
+            "link": "https://www.sunsource-energy.com/started-living-room-solar-energy-company-now-boasts-over-300mw-project-portfolio",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/started-living-room-solar-energy-company-now-boasts-over-300mw-project-portfolio",
+            "displayed_link": "https://www.sunsource-energy.com \u203a started-living-ro...",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd4006fdc371c1a6926a540b40ab30686ed3.png",
+            "snippet": "Based out of Noida, solar energy provider SunSource Energy's ... In FY2019, SunSource generated revenue worth Rs 130 crore, clocking an 80 percent plus growth ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy's",
+                "revenue",
+                "growth"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy - Products, Competitors, Financials ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.cbinsights.com/company/sunsource-energy",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a sunsource-e...",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd409fc798f8d1164a702b06b8d2e7de61ab.png",
+            "snippet": "SunSource Energy is an end-to-end solar project developer, and engineering, procurement, and construction services provider. Headquarters Location. B-14, Sector ...",
+            "snippet_highlighted_words": [
+                "B-14"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy Stock Price, Funding, Valuation, ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy/financials",
+            "redirect_link": "https://www.google.comhttps://www.cbinsights.com/company/sunsource-energy/financials",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a financials",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd4046b58f224e620dfe879255d4dcf2b5d5.png",
+            "snippet": "SunSource Energy's latest funding round was a Secondary Market for $243M on May 5, 2021. Date. Round. Amount. Investors.",
+            "snippet_highlighted_words": [
+                "243M"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy doubles solar energy target to 1GW by 2027",
+            "link": "https://www.livemint.com/industry/energy/sunsource-energy-doubles-solar-energy-target-to-1gw-by-2027-11668436536080.html",
+            "redirect_link": "https://www.google.comhttps://www.livemint.com/industry/energy/sunsource-energy-doubles-solar-energy-target-to-1gw-by-2027-11668436536080.html",
+            "displayed_link": "https://www.livemint.com \u203a Industry \u203a Energy",
+            "favicon": "https://serpapi.com/searches/659131a45119a6bbd0301e08/images/e590657d6c7b184f251d96099cadbd4097203ead1a6bf900e75d45f57d84c09f.png",
+            "date": "Nov 14, 2022",
+            "snippet": "The target will increase from 550 megawatts to one gigawatt by 2027. The increased solar energy capacity will help to support a growing customer ...",
+            "snippet_highlighted_words": [
+                "550 megawatts to one gigawatt by 2027"
+            ],
+            "source": "livemint.com"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&oq=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&oq=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&oq=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&oq=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&oq=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+market+size+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

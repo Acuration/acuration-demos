@@ -1,0 +1,365 @@
+{
+    "search_metadata": {
+        "id": "659131f9c90e0a4058a70d57",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e9a56745b0d3bc5b/659131f9c90e0a4058a70d57.json",
+        "created_at": "2023-12-31 09:18:49 UTC",
+        "processed_at": "2023-12-31 09:18:49 UTC",
+        "google_url": "https://www.google.com/search?q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&oq=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e9a56745b0d3bc5b/659131f9c90e0a4058a70d57.html",
+        "total_time_taken": 1.63
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What are the products and services of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What are the products and services of the company SunSource Energy?",
+        "total_results": 113000,
+        "time_taken_displayed": 0.28,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ0pQJegQICBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&uds=AMIYvT9Jg2RzR_rrxbzr3gmLp7tMMul-6b-bjWZ9qHnELvjFnuXmfKnTeTh8dVOWxx4_ci6_hSPQlhOfeqS4ryzsYmiPaH-zTjgUCpaP0-hBAexTqqfZwIYINirjIjYARFBJnHePtx6qg-p5_eccZGX8yVsE-zVKhLrDAW4jD9CBCKTesE-O3kKLHF4mmUjCaVQhaHEkWgxe&udm=4&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQs6gLegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+sunsource+energy+qui&uds=AMIYvT_iTpPQoS-91Bs4jPlOL4W3lfFntxbi8yRXueMkL1_U64TcTXWY8eiM6Z8_O0m6yM3uFGB0__Z1lket5eFFwCkD0e3BkmkB-P5ToOmC9d41qfbkFRYKQmszQ7KGnW7KmMjpG3meqXl1RLkEu49b_NnKs_rSLx7BWh8AZQU8dcUAWILpL8cptEVYHYEadQ2y-GhAoBgA&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ0pQJegQIURAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ0pQJegQIUBAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+are+the+products+and+services+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What type of energy does the sun produce?",
+            "snippet": "Solar energy is any type of energy generated by the sun. Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom.",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=Article%20Vocabulary-,Solar%20energy%20is%20any%20type%20of%20energy%20generated%20by%20the,to%20create%20a%20helium%20atom.",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjwj75uLpwVZDV0Vw4Qv__9ljZPEyvS7KmlsxQS-Zfg&s",
+            "source_logo": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/68864eab085a42d284c615024546a6c9d41043f8ba22e9d83bd4cace756381a2.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IHR5cGUgb2YgZW5lcmd5IGRvZXMgdGhlIHN1biBwcm9kdWNlPyIsImxrIjoiR2loM2FHRjBJSFI1Y0dVZ2IyWWdaVzVsY21kNUlHUnZaWE1nZEdobElITjFiaUJ3Y205a2RXTmwiLCJicyI6ImMtUFM0OUlNejBnc1VTaXBMRWhWeUU5VFNNMUxMVXF2VkVqSlR5MVdLTWxJVlNndXpWTW9LTXBQS1UxT3RaZFlXOG1seENVSFZwOVpyRkNjbjVOWUJOTUFVVk5TYkM4UnpTWE9KUVJURTF5YUY1eGZXZ1RTZk5lT1M1TkxCU3lSV0pRS050eFVvYlFZYUFfUVdtU3o3Q1V1TXdrd0FnQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IHR5cGUgb2YgZW5lcmd5IGRvZXMgdGhlIHN1biBwcm9kdWNlPyIsImxrIjoiR2loM2FHRjBJSFI1Y0dVZ2IyWWdaVzVsY21kNUlHUnZaWE1nZEdobElITjFiaUJ3Y205a2RXTmwiLCJicyI6ImMtUFM0OUlNejBnc1VTaXBMRWhWeUU5VFNNMUxMVXF2VkVqSlR5MVdLTWxJVlNndXpWTW9LTXBQS1UxT3RaZFlXOG1seENVSFZwOVpyRkNjbjVOWUJOTUFVVk5TYkM4UnpTWE9KUVJURTF5YUY1eGZXZ1RTZk5lT1M1TkxCU3lSV0pRS050eFVvYlFZYUFfUVdtU3o3Q1V1TXdrd0FnQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is solar energy products?",
+            "snippet": "The following is a list of products powered by sunlight, either directly or through electricity generated by solar panels. Solar air conditioning. Solar balloon. Solar charger. Solar backpack.",
+            "title": "List of solar-powered products - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/List_of_solar-powered_products#:~:text=The%20following%20is%20a%20list,Solar%20backpack",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_solar-powered_...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCkYsH65TiglDIS1TkFgvCUScrKB6fIwfGRb8dMDueg&s",
+            "source_logo": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/68864eab085a42d284c615024546a6c9b51adf89e7678179bd4d05e24b45939e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHNvbGFyIGVuZXJneSBwcm9kdWN0cz8iLCJsayI6IkdoMTNhR0YwSUdseklITnZiR0Z5SUdWdVpYSm5lU0J3Y205a2RXTjBjdyIsImJzIjoiYy1QUzQ5SU16MGdzVVNpcExFaFZ5RTlUU00xTExVcXZWRWpKVHkxV0tNbElWU2d1elZNb0tNcFBLVTFPdFpkWVc4bWx4Q1VIVnA5WnJGQ2NuNU5ZQk5NQVVWTlNiQzhSelNYT0pRUlRFMXlhRjV4ZldnVFNmTmVPUzVOTEJTeVJXSlFLTnR4VW9iUVlhQV9RV21TejdDVXVNd2t3QWdBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHNvbGFyIGVuZXJneSBwcm9kdWN0cz8iLCJsayI6IkdoMTNhR0YwSUdseklITnZiR0Z5SUdWdVpYSm5lU0J3Y205a2RXTjBjdyIsImJzIjoiYy1QUzQ5SU16MGdzVVNpcExFaFZ5RTlUU00xTExVcXZWRWpKVHkxV0tNbElWU2d1elZNb0tNcFBLVTFPdFpkWVc4bWx4Q1VIVnA5WnJGQ2NuNU5ZQk5NQVVWTlNiQzhSelNYT0pRUlRFMXlhRjV4ZldnVFNmTmVPUzVOTEJTeVJXSlFLTnR4VW9iUVlhQV9RV21TejdDVXVNd2t3QWdBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is SunSource?",
+            "snippet": "SunSource develops, engineers, procures, constructs, and operates solar power projects to help institutional, industrial, commercial and non-profit sector energy users utilize solar energy more intelligently and efficiently while reducing their cost of energy.",
+            "title": "Renewable Energy Solution Provider - About SunSource Energy",
+            "link": "https://www.sunsource-energy.com/about-us#:~:text=SunSource%20develops%2C%20engineers%2C%20procures%2C,reducing%20their%20cost%20of%20energy.",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "source_logo": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/68864eab085a42d284c615024546a6c9b641cd0606c92eddeb17884ee6bceeba.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZT8iLCJsayI6IkdoRjNhR0YwSUdseklITjFibk52ZFhKalpRIiwiYnMiOiJjLVBTNDlJTXowZ3NVU2lwTEVoVnlFOVRTTTFMTFVxdlZFakpUeTFXS01sSVZTZ3V6Vk1vS01wUEtVMU90WmRZVzhtbHhDVUhWcDlackZDY241TllCTk1BVVZOU2JDOFJ6U1hPSlFSVEUxeWFGNXhmV2dUU2ZOZU9TNU5MQlN5UldKUUtOdHhVb2JRWWFBX1FXbVN6N0NVdU13a3dBZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZT8iLCJsayI6IkdoRjNhR0YwSUdseklITjFibk52ZFhKalpRIiwiYnMiOiJjLVBTNDlJTXowZ3NVU2lwTEVoVnlFOVRTTTFMTFVxdlZFakpUeTFXS01sSVZTZ3V6Vk1vS01wUEtVMU90WmRZVzhtbHhDVUhWcDlackZDY241TllCTk1BVVZOU2JDOFJ6U1hPSlFSVEUxeWFGNXhmV2dUU2ZOZU9TNU5MQlN5UldKUUtOdHhVb2JRWWFBX1FXbVN6N0NVdU13a3dBZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are the 5 uses of solar energy?",
+            "snippet": "The five main uses of solar energy are solar electricity, solar water heating, solar heating, solar ventilation and solar lighting. There are more uses for solar energy, but home solar installation and businesses typically use solar energy for these purposes.",
+            "title": "51 of The Most Popular Uses of Solar Energy in Daily Life",
+            "date": "Jan 19, 2023",
+            "link": "https://freedomsolarpower.com/blog/51-uses-of-solar-energy#:~:text=The%20five%20main%20uses%20of,solar%20energy%20for%20these%20purposes.",
+            "displayed_link": "https://freedomsolarpower.com \u203a blog \u203a 51-uses-of-solar...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9evR9tVQZZMbC3n_wD9bQGyYqv2IQyn18kDeRYbRzbg&s",
+            "source_logo": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/68864eab085a42d284c615024546a6c9557c34cfdbab942502f8d155ddc04820.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSB1c2VzIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoWTFJSFZ6WlhNZ2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLVBTNDlJTXowZ3NVU2lwTEVoVnlFOVRTTTFMTFVxdlZFakpUeTFXS01sSVZTZ3V6Vk1vS01wUEtVMU90WmRZVzhtbHhDVUhWcDlackZDY241TllCTk1BVVZOU2JDOFJ6U1hPSlFSVEUxeWFGNXhmV2dUU2ZOZU9TNU5MQlN5UldKUUtOdHhVb2JRWWFBX1FXbVN6N0NVdU13a3dBZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHZHBZemxCU1dRMFQxVlhSVkl4TnpGaGFYYzNXWE5STlhkVWRXMVpXakp3V0RWT2RreHZMVlZtTVVkSVptMU5RM2d3UjJKaGJFaFRabmhuTnkxVldYcENjVmt4RWhjdGFrZFNXbGxUZGtKaVgyUndkRkZRYTJaMVJYTkJSUm9pUVVwM2F5MDRaVVZQVG5VNVdVWjFlRm8wZUZkdmRrcFlXR0p3V2xOd1kwMUVkdyIsImZjdiI6IjMiLCJlaSI6Ii1qR1JaWVN2QmJfZHB0UVBrZnVFc0FFIiwicWMiOiJjLU55S3M5SUxGRklMRXBWS01sSVZTZ295azhwVFM0cFZrak1TMUVvVGkwcXkweE9MVmJJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVUZpN1NzQWNBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSB1c2VzIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoWTFJSFZ6WlhNZ2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLVBTNDlJTXowZ3NVU2lwTEVoVnlFOVRTTTFMTFVxdlZFakpUeTFXS01sSVZTZ3V6Vk1vS01wUEtVMU90WmRZVzhtbHhDVUhWcDlackZDY241TllCTk1BVVZOU2JDOFJ6U1hPSlFSVEUxeWFGNXhmV2dUU2ZOZU9TNU5MQlN5UldKUUtOdHhVb2JRWWFBX1FXbVN6N0NVdU13a3dBZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Products - Sun Source Energy",
+        "link": "https://sunsourceusa.com/products/",
+        "displayed_link": "https://sunsourceusa.com \u203a products",
+        "snippet": "Sun Source Energy offers a wide variety of products for residential solar panel systems and we pride ourselves on working with the best!",
+        "snippet_highlighted_words": [
+            "Sun Source Energy offers a wide variety of products for residential solar panel systems and we pride ourselves on working with the best!"
+        ],
+        "list": [
+            "Solar Panels. Mission Solar Panels. ... ",
+            "Inverters. Back to top. ... ",
+            "Solar Mounts. Back to top. ... ",
+            "Batteries. Back to top. ... ",
+            "Services & Monitoring. Back to top. ... ",
+            "Permitting. Back to top. ... ",
+            "Solar installation."
+        ],
+        "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/607316edf5acaca74c9312e3a75c5c5331f8c3e9cdb679b9.png",
+        "source": "sunsourceusa.com"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3d33b2e9335301f1f4c6a9102f33935635.png",
+            "snippet": "We Are SunSource Energy. A leading provider of solar-based energy and storage solutions to commercial, industrial and institutional clients in India, South ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "solar",
+                "energy",
+                "solutions"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "Sun Source Energy Products | Solar Energy Supplier And ...",
+            "link": "https://www.sunsourceproducts.com/",
+            "redirect_link": "https://www.google.comhttps://www.sunsourceproducts.com/",
+            "displayed_link": "https://www.sunsourceproducts.com",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3d114d91b671685bd5d78efd89105bbb88.png",
+            "snippet": "SunSource Energy Products. Providing wholesale distribution of solar thermal and electric systems and components. We are the most experienced solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy Products"
+            ],
+            "missing": [
+                "services"
+            ],
+            "must_include": {
+                "word": "services",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+%22services%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ5t4CegQILRAB"
+            },
+            "source": "Sun Source Energy Products"
+        },
+        {
+            "position": 3,
+            "title": "Our Services",
+            "link": "https://www.sunsource-energy.com/our-services",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/our-services",
+            "displayed_link": "https://www.sunsource-energy.com \u203a our-services",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3de2bae18dec2e59685ecfa0ac6aae4014.png",
+            "snippet": "Choose the solution that best suits your business. ... Specialised team monitors performance of the solar projects ensuring smooth, efficient operations..",
+            "snippet_highlighted_words": [
+                "business",
+                "solar"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "SunSource | Home",
+            "link": "https://www.sun-source.com/",
+            "redirect_link": "https://www.google.comhttps://www.sun-source.com/",
+            "displayed_link": "https://www.sun-source.com",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3da0229f6fa9fad5d00bdbe1d902978797.png",
+            "snippet": "Products We distribute. Browse through thousands of products ready to ship to your business today.Learn More. Services We offer. Expert repair technicians and ...",
+            "snippet_highlighted_words": [
+                "Products",
+                "products",
+                "business",
+                "Services"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 5,
+            "title": "Sun Source Energy: Home",
+            "link": "https://sunsourcefl.com/",
+            "redirect_link": "https://www.google.comhttps://sunsourcefl.com/",
+            "displayed_link": "https://sunsourcefl.com",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3df3a7616de4df5dd1bb9172bd1665701e.png",
+            "snippet": "We offer a wide range of service from new system installations & repairs to monthly system monitoring, cleaning, and general service. Residential Installation.",
+            "snippet_highlighted_words": [
+                "service",
+                "service"
+            ],
+            "source": "sunsourcefl.com"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource-energy",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3dfc07a1f13672d3de9345b9c39b7afae6.png",
+            "snippet": "SunSource Energy is a leading provider of solar-based energy and storage solutions to commercial, industrial and institutional customers.",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "solutions"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 7,
+            "title": "Sun Source Energy - Profile & Reviews - 2023",
+            "link": "https://www.energysage.com/supplier/26331/sun-source-energy/",
+            "redirect_link": "https://www.google.comhttps://www.energysage.com/supplier/26331/sun-source-energy/",
+            "displayed_link": "https://www.energysage.com \u203a supplier \u203a sun-source-e...",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3d946f81194d1239968b16b58738c55d89.png",
+            "snippet": "Read reviews for Sun Source Energy, a Energy Efficiency, Solar PV, Energy Storage company since 2017 based in Las Vegas, NV.",
+            "snippet_highlighted_words": [
+                "Sun Source Energy",
+                "company"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 3
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e3 reviews"
+                    ]
+                }
+            },
+            "source": "EnergySage"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy",
+            "link": "https://indiaesa.info/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://indiaesa.info/sunsource-energy",
+            "displayed_link": "https://indiaesa.info \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3d2eaf878afda276b0253e07215d5513ef.png",
+            "snippet": "SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects, to help clients in institutional, industrial, ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "India Energy Storage Alliance"
+        },
+        {
+            "position": 9,
+            "title": "SunSource",
+            "link": "https://www.linkedin.com/company/sunsource",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource",
+            "displayed_link": "10K+ followers",
+            "favicon": "https://serpapi.com/searches/659131f9c90e0a4058a70d57/images/00f413afa3e6758856822805e27a0e3dc32ab19824d0c2b7a9c375e0bb48fbcd.png",
+            "snippet": "SunSource, a leader in industrial and mobile fluid power distribution for over 85 years, provides customers with innovative solutions that help reduce ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "power",
+                "solutions"
+            ],
+            "source": "LinkedIn \u00b7 SunSource"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What are the products and services of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+products+and+services+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg7EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+reviews&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=sun+source+(india)+ltd+share+price&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy careers",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+energy+careers&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+energy+careers"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd name change",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=sun+source+(india)+ltd+name+change&sa=X&ved=2ahUKEwiElNmGrLmDAxW_rokEHZE9ARYQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+name+change"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&oq=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&oq=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&oq=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&oq=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&oq=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+products+and+services+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

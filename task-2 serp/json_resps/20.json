@@ -1,0 +1,347 @@
+{
+    "search_metadata": {
+        "id": "65913340dc02f1604e56922c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8a21249c3e8fd887/65913340dc02f1604e56922c.json",
+        "created_at": "2023-12-31 09:24:16 UTC",
+        "processed_at": "2023-12-31 09:24:16 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&oq=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8a21249c3e8fd887/65913340dc02f1604e56922c.html",
+        "total_time_taken": 4.94
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the vision and mission of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the vision and mission of the company SunSource Energy?",
+        "total_results": 203000,
+        "time_taken_displayed": 0.47,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&uds=AMIYvT8PDfdPe5E-dDUkAT_27nHE4ojUAOXy_ytZpZKVTjvWaizSKqM0w2SLvtD_ZTzEk75gbRklQr43tT2gJbQnRGuy4jJWDPPaYdNZkm3wo_ymGNuUq8CHAAv89FEIvDzaC0bFzoI2r-gXXt03msRB1j6GNPOPaBIVbYxtL7_aXDwwBtDv4Yh7FtHLDpqboXkMGEAoLg-o&udm=4&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQs6gLegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+sunsource+energy+qui&uds=AMIYvT97iwKtu-rTlYj53GXX2njmNXqiMV5YKtqpuRKxTOdDy9M0Wl09POPeSVa2OG-XBzKJC0k7tZ2aQi28P9ernMwVqTGZLDpvHdCN0cW6QsLzyoTnl--Aft5QvQWewBVZmMu2yjjJNoMkOlSNZyUMdgf98QqR0KDziT3m3GbZedONiq-Hv5k&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQxKsJegQIDhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 4,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ0pQJegQISRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ0pQJegQIShAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/dd90c6e9e46f2bf99914454726b7e4e37c79a4967cc406345368ae3ea726c088.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOSmM0bEZKNlJXQUpTRHBlM2w3aHJ4d1UyQmlJQk1xY1lvaE5vREpoWG1xZGVERGRtYlNXWEZwY3FzdXI4c3RTaXNzelVjcEQ2NHZ5Y3hDSzQycXV4QW93QSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOSmM0bEZKNlJXQUpTRHBlM2w3aHJ4d1UyQmlJQk1xY1lvaE5vREpoWG1xZGVERGRtYlNXWEZwY3FzdXI4c3RTaXNzelVjcEQ2NHZ5Y3hDSzQycXV4QW93QSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is SunSource?",
+            "snippet": "SunSource develops, engineers, procures, constructs, and operates solar power projects to help institutional, industrial, commercial and non-profit sector energy users utilize solar energy more intelligently and efficiently while reducing their cost of energy.",
+            "title": "Renewable Energy Solution Provider - About SunSource Energy",
+            "link": "https://www.sunsource-energy.com/about-us#:~:text=SunSource%20develops%2C%20engineers%2C%20procures%2C,reducing%20their%20cost%20of%20energy.",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "source_logo": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/dd90c6e9e46f2bf99914454726b7e4e36749dcc97cf1ed3f1eb15d0e71d2fb4b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldoYXQgaXMgU3VuU291cmNlPyIsImxrIjoiR2hGM2FHRjBJR2x6SUhOMWJuTnZkWEpqWlEiLCJicyI6ImMtUFM0VklQejhoWHlDeFdLTWxJVlVqTEw4MUxTUzFTeUU5VENDN05DODR2TFVwT1ZVak5TeTFLcjdTWHVNYk5KYzRsRko2UldBSlNEcGUzbDdocnh3VTJCaUlCTXFjWW9oTm9ESmhYbXFkZUREZG1iU1dYRnBjcXN1cjhzdFNpc3N6VWNwRDY0dnljeENLNDJxdXhBb3dBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldoYXQgaXMgU3VuU291cmNlPyIsImxrIjoiR2hGM2FHRjBJR2x6SUhOMWJuTnZkWEpqWlEiLCJicyI6ImMtUFM0VklQejhoWHlDeFdLTWxJVlVqTEw4MUxTUzFTeUU5VENDN05DODR2TFVwT1ZVak5TeTFLcjdTWHVNYk5KYzRsRko2UldBSlNEcGUzbDdocnh3VTJCaUlCTXFjWW9oTm9ESmhYbXFkZUREZG1iU1dYRnBjcXN1cjhzdFNpc3N6VWNwRDY0dnljeENLNDJxdXhBb3dBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom. This process, known as a PP (proton-proton) chain reaction, emits an enormous amount of energy.",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=by%20the%20sun.-,Solar%20energy%20is%20created%20by%20nuclear%20fusion%20that%20takes%20place,an%20enormous%20amount%20of%20energy.",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "source_logo": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/dd90c6e9e46f2bf99914454726b7e4e3a61c15a40d8c4a2ae81214a3eef4ab67.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNvdXJjZSBvZiB0aGUgc3VuJ3MgZW5lcmd5PyIsImxrIjoiR2hSemRXNGdjMjkxY21ObElHOW1JR1Z1WlhKbmVRIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOSmM0bEZKNlJXQUpTRHBlM2w3aHJ4d1UyQmlJQk1xY1lvaE5vREpoWG1xZGVERGRtYlNXWEZwY3FzdXI4c3RTaXNzelVjcEQ2NHZ5Y3hDSzQycXV4QW93QSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNvdXJjZSBvZiB0aGUgc3VuJ3MgZW5lcmd5PyIsImxrIjoiR2hSemRXNGdjMjkxY21ObElHOW1JR1Z1WlhKbmVRIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOSmM0bEZKNlJXQUpTRHBlM2w3aHJ4d1UyQmlJQk1xY1lvaE5vREpoWG1xZGVERGRtYlNXWEZwY3FzdXI4c3RTaXNzelVjcEQ2NHZ5Y3hDSzQycXV4QW93QSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is the overview of solar energy?",
+            "snippet": "Solar technologies convert sunlight into electrical energy either through photovoltaic (PV) panels or through mirrors that concentrate solar radiation. This energy can be used to generate electricity or be stored in batteries or thermal storage.",
+            "title": "How Does Solar Work? | Department of Energy",
+            "link": "https://www.energy.gov/eere/solar/how-does-solar-work#:~:text=Solar%20technologies%20convert%20sunlight%20into,in%20batteries%20or%20thermal%20storage.",
+            "displayed_link": "https://www.energy.gov \u203a eere \u203a how-does-solar-work",
+            "source_logo": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/dd90c6e9e46f2bf99914454726b7e4e3e0ecc28e6685f54c82375f55e65f002d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG92ZXJ2aWV3IG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoaHZkbVZ5ZG1sbGR5QnZaaUJ6YjJ4aGNpQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOSmM0bEZKNlJXQUpTRHBlM2w3aHJ4d1UyQmlJQk1xY1lvaE5vREpoWG1xZGVERGRtYlNXWEZwY3FzdXI4c3RTaXNzelVjcEQ2NHZ5Y3hDSzQycXV4QW93QSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVmVuRkNiR2Q2YW5WRVRHTmpTaTB0U0hOMGExbGtkR0poUldKQmMycDZaR2RZWDBwNE9HbDVRVlpwYkhWSmVWQXhRak5uTVY5UGFYRkxWM2QxTkZWdlowd3lPSGxRRWhkU1JFOVNXbUpYZVVaTlZISnJkbEZRTlhOMU0yMUJTUm9pUVVwM2F5MDRZelZYTlVWRGJtOVdkWEpETFZVNFZrdG5NVkEzUm1SMGVHWjNadyIsImZjdiI6IjMiLCJlaSI6IlJET1JaYld5Rk1Ucmt2UVA1c3UzbUFJIiwicWMiOiJjLU95Szg5SUxGSElMRllveVVoVktNc3N6c3pQVTBqTVMxSEl6U3dHc19QVHdETEotYmtGaVhtVkNzV2xlY1g1cFVYSnFRcXBlYWxGNlpVQ0RMVzZQM1R0QVEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG92ZXJ2aWV3IG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoaHZkbVZ5ZG1sbGR5QnZaaUJ6YjJ4aGNpQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOSmM0bEZKNlJXQUpTRHBlM2w3aHJ4d1UyQmlJQk1xY1lvaE5vREpoWG1xZGVERGRtYlNXWEZwY3FzdXI4c3RTaXNzelVjcEQ2NHZ5Y3hDSzQycXV4QW93QSIsImlkIjoiZmNfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Renewable Energy Solution Provider - About SunSource Energy",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/about-us&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECBkQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c740be86ba9cd5818386665b904459c1608.png",
+            "snippet": "SunSource Energy was born with a vision of simplifying the clean energy of corporates, industries and institutions. Among the first wave of solar companies ...",
+            "snippet_highlighted_words": [
+                "vision of simplifying the clean energy of corporates, industries and institutions"
+            ],
+            "source": "sunsource-energy.com"
+        },
+        {
+            "position": 2,
+            "title": "SunSource: Culture - LinkedIn",
+            "link": "https://www.linkedin.com/company/sunsource/life",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/sunsource/life&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECBYQAQ",
+            "displayed_link": "https://www.linkedin.com \u203a company \u203a sunsource \u203a life",
+            "snippet": "Our vision is \u201cto be the leading provider of products, services, and information in hydraulics, pneumatics, filtration and automation systems for our mobile and ...",
+            "snippet_highlighted_words": [
+                "\u201cto be the leading provider of products, services, and information in hydraulics, pneumatics"
+            ],
+            "source": "linkedin.com"
+        },
+        {
+            "position": 3,
+            "title": "Career | SunSource Energy",
+            "link": "https://www.sunsource-energy.com/careers",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/careers&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECBcQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a careers",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c74ebbfd18b80ae8d896a71417964ab9898.png",
+            "snippet": "Courage to see the best in all people ... We recognize the true potential in all people, welcoming everyone as valued members of our family. We actively ...",
+            "snippet_highlighted_words": [
+                "We recognize the true potential in all people, welcoming everyone as valued members of our"
+            ],
+            "source": "sunsource-energy.com"
+        },
+        {
+            "position": 4,
+            "title": "Compliance Resources - SunSource",
+            "link": "https://www.sun-source.com/compliance-resources",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sun-source.com/compliance-resources&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECBUQAQ",
+            "displayed_link": "https://www.sun-source.com \u203a compliance-resources",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c745a59c3c36800b2f91f750a9dd37c7a50.png",
+            "snippet": "SunSource's culture is centered on ethics, integrity, and trust. Our values drive how we treat each other, and our customers, suppliers, partners and even our ...",
+            "snippet_highlighted_words": [
+                "centered on ethics, integrity, and trust"
+            ],
+            "source": "sun-source.com"
+        },
+        {
+            "position": 5,
+            "title": "Mission - SunSource",
+            "link": "https://sunsource.si/mission/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunsource.si/mission/&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECBQQAQ",
+            "displayed_link": "https://sunsource.si \u203a mission",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c74c61dfffa3c550b4aa10a773e65d735d9.png",
+            "snippet": "This mission statement reflects Sun Solar Distribution's commitment to play a key role in the renewable energy sector. It emphasizes the company's focus on ...",
+            "snippet_highlighted_words": [
+                "Sun Solar Distribution's commitment to play a key role in the renewable energy sector"
+            ],
+            "source": "sunsource.si"
+        },
+        {
+            "position": 6,
+            "title": "Why Sun Source Labs",
+            "link": "https://www.sunsourcelabs.com/why-sun-source-labs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsourcelabs.com/why-sun-source-labs&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECDoQAQ",
+            "displayed_link": "https://www.sunsourcelabs.com \u203a why-sun-source-labs",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c74d212f89ebad747f4dc96a5be2352984e.jpeg",
+            "snippet": "Our Vision. Be the world's leading provider of renewable energy for homes, powering over 100,000 homes while enabling our customers to create a sustainable, ...",
+            "snippet_highlighted_words": [
+                "Be the world's leading provider of renewable energy for homes"
+            ],
+            "source": "sunsourcelabs.com"
+        },
+        {
+            "position": 7,
+            "title": "Purpose and Values are at the core of our business ... - YouTube",
+            "link": "https://www.youtube.com/watch?v=Sbc3e8lk9Hw",
+            "displayed_link": "https://www.youtube.com \u203a watch",
+            "thumbnail": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c747f55d927b32e9cb3f4cbb9ad5a95fb27.jpeg",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c74d962a19fa222df914f337065f4d6a780.png",
+            "date": "1 month ago",
+            "snippet": "Purpose and Values are at the core of our business at SunSource Energy. 3 views \u00b7 1 day ago #purposedrivenbusiness #valuesdriven ...more ...",
+            "duration": "1:07",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "YouTube",
+                        "SunSource Energy",
+                        "1 month ago"
+                    ],
+                    "detected_extensions": {
+                        "month_ago": 1
+                    }
+                }
+            },
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQj4TRLz_ocAg2CZffzluGedXNda0Hfi3mSTQ",
+            "source": "youtube.com"
+        },
+        {
+            "position": 8,
+            "title": "The Sunrun Solar Vision",
+            "link": "https://www.sunrun.com/why-sunrun/our-vision",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunrun.com/why-sunrun/our-vision&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECDsQAQ",
+            "displayed_link": "https://www.sunrun.com \u203a why-sunrun \u203a our-vision",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c7489e373b3bf3ef377c1bfa4972a78367a.png",
+            "snippet": "At Sunrun, we believe in an audacious goal: To create a planet run by the Sun. We believe in a sustainable future where everyone can access the power they need, ...",
+            "snippet_highlighted_words": [
+                "To create a planet run by the Sun"
+            ],
+            "source": "sunrun.com"
+        },
+        {
+            "position": 9,
+            "title": "Sun Source Energy - Profile & Reviews - 2023 - EnergySage",
+            "link": "https://www.energysage.com/supplier/26331/sun-source-energy/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.energysage.com/supplier/26331/sun-source-energy/&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECDwQAQ",
+            "displayed_link": "https://www.energysage.com \u203a supplier \u203a sun-source-e...",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c74a3f2ec4113bdb3cc1847c61e20a6fa56.png",
+            "snippet": "With a focus on high-quality training and customer service, Sun Source is expanding into a regional leader. This is done with a focus on morally sound business ...",
+            "snippet_highlighted_words": [
+                "focus on morally sound business"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 3
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e3 reviews"
+                    ]
+                }
+            },
+            "source": "energysage.com"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy doubles its solar energy target to one ...",
+            "link": "https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQFnoECD4QAQ",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 2022111...",
+            "favicon": "https://serpapi.com/searches/65913340dc02f1604e56922c/images/2e51f2970d35f9fd0f2fca99ce987c746335972376428f5320afab46360394e3.png",
+            "date": "Nov 14, 2022",
+            "snippet": "SHV Energy, via its Indian subsidiary SunSource Energy, has announced it will double its solar energy deployment target by 2027.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "shvenergy.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the vision and mission of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+is+the+vision+and+mission+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy share price",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sunsource+Energy+share+price&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwi15JWkrbmDAxXEtYQIHeblDSMQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&oq=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&oq=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&oq=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&oq=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&oq=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+vision+and+mission+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

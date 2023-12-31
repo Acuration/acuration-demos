@@ -1,0 +1,329 @@
+{
+    "search_metadata": {
+        "id": "6591335379627c7dff6480ef",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0089c420f7d5a26e/6591335379627c7dff6480ef.json",
+        "created_at": "2023-12-31 09:24:35 UTC",
+        "processed_at": "2023-12-31 09:24:35 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&oq=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0089c420f7d5a26e/6591335379627c7dff6480ef.html",
+        "total_time_taken": 0.57
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the cash flow of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the cash flow of the company SunSource Energy?",
+        "total_results": 159000,
+        "time_taken_displayed": 0.36,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Pdf",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+sunsource+energy+pdf&uds=AMIYvT_PFMr8ePud4HKb3c_iwLRb75lBz7pg14JEpjypYcpCi9-luDGuVUwHOiMRk7PCzZATHv1OzG_pK1SLl1qZaNzGXlLGwKCMDNeAFVH3upsQhtr0tMDR5_q81frOUEIWmWHMa5KT1O3by7MbsZltH_Sp2t7PsHR4IFXj_EHwS-VCYrdmuvA&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQxKsJegQIChAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+sunsource+energy+pdf"
+            },
+            {
+                "position": 4,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&uds=AMIYvT_JdSKaEJh5_Wl9BdBjMxEqHmX7JqWffufAT7xSR0FDm8QBL8RcATUMgF3UCoM960nbIrykBUd4OWI_OkwaBIO-sRVPzE2vAnjSt33Sd0oEhS8Nj8U4UGLjUwjLGJPc35nRK364Njt2mbodfTuMn0EngCUUgsmdIpsvchKt2j5xlSQWhPU&udm=4&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQs6gLegQICRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ0pQJegQIRhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ0pQJegQISBAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=3f5135a469a9a1b0&output=search&q=What+is+the+cash+flow+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=3f5135a469a9a1b0&output=search&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the CEO of SunSource energy?",
+            "snippet": "Kushagra Nandan | SunSource Energy.",
+            "title": "Kushagra Nandan",
+            "link": "https://www.sunsource-energy.com/kushagra-nandan#:~:text=Kushagra%20Nandan%20%7C%20SunSource%20Energy",
+            "displayed_link": "https://www.sunsource-energy.com \u203a kushagra-nandan",
+            "source_logo": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/c3b51da5d58400d6001495db2e3685cd4cfc55f537e48e389f6409cd36941bd3.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIENFTyBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2hSemRXNXpiM1Z5WTJVZ1pXNWxjbWQ1SUdObGJ3IiwiYnMiOiJjLVBTNEZJT3o4aFh5Q3hXS01sSVZYQjI5VmZJVDFNSUxzMEx6aTh0U2s1VlNNMUxMVXF2dEpmb0N1U1M1NUx5TEZZb3pzOUpMSUlLSzVUbTVXVG1acGFrcHRoTF9ITG4wdUpTRGM5SUxJR1psVi1XV2xTV21Wb09NaEJabDczRTFWZ3VZeTY5OEl4S1ZOT2ctcEpTaTB1QUVtRHJnVnBobXFaN0N6QUNBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIENFTyBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2hSemRXNXpiM1Z5WTJVZ1pXNWxjbWQ1SUdObGJ3IiwiYnMiOiJjLVBTNEZJT3o4aFh5Q3hXS01sSVZYQjI5VmZJVDFNSUxzMEx6aTh0U2s1VlNNMUxMVXF2dEpmb0N1U1M1NUx5TEZZb3pzOUpMSUlLSzVUbTVXVG1acGFrcHRoTF9ITG4wdUpTRGM5SUxJR1psVi1XV2xTV21Wb09NaEJabDczRTFWZ3VZeTY5OEl4S1ZOT2ctcEpTaTB1QUVtRHJnVnBobXFaN0N6QUNBQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Is solar energy unlimited?",
+            "snippet": "Yes, solar power is a renewable and infinite energy source that creates no harmful greenhouse gas emissions \u2013 as long as the sun continues to shine, energy will be released.",
+            "title": "How does solar power work? | Solar energy explained - National Grid",
+            "date": "May 16, 2023",
+            "link": "https://www.nationalgrid.com/stories/energy-explained/how-does-solar-power-work#:~:text=Yes%2C%20solar%20power%20is%20a,shine%2C%20energy%20will%20be%20released.",
+            "displayed_link": "https://www.nationalgrid.com \u203a stories \u203a how-does-solar-...",
+            "source_logo": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/c3b51da5d58400d6001495db2e3685cd8ae7a76ef6e87df862fb0de2af7dbc29.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJJcyBzb2xhciBlbmVyZ3kgdW5saW1pdGVkPyIsImxrIjoiR2hscGN5QnpiMnhoY2lCbGJtVnlaM2tnZFc1c2FXMXBkR1ZrIiwiYnMiOiJjLVBTNEZJT3o4aFh5Q3hXS01sSVZYQjI5VmZJVDFNSUxzMEx6aTh0U2s1VlNNMUxMVXF2dEpmb0N1U1M1NUx5TEZZb3pzOUpMSUlLSzVUbTVXVG1acGFrcHRoTF9ITG4wdUpTRGM5SUxJR1psVi1XV2xTV21Wb09NaEJabDczRTFWZ3VZeTY5OEl4S1ZOT2ctcEpTaTB1QUVtRHJnVnBobXFaN0N6QUNBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJJcyBzb2xhciBlbmVyZ3kgdW5saW1pdGVkPyIsImxrIjoiR2hscGN5QnpiMnhoY2lCbGJtVnlaM2tnZFc1c2FXMXBkR1ZrIiwiYnMiOiJjLVBTNEZJT3o4aFh5Q3hXS01sSVZYQjI5VmZJVDFNSUxzMEx6aTh0U2s1VlNNMUxMVXF2dEpmb0N1U1M1NUx5TEZZb3pzOUpMSUlLSzVUbTVXVG1acGFrcHRoTF9ITG4wdUpTRGM5SUxJR1psVi1XV2xTV21Wb09NaEJabDczRTFWZ3VZeTY5OEl4S1ZOT2ctcEpTaTB1QUVtRHJnVnBobXFaN0N6QUNBQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is the overview of solar energy?",
+            "snippet": "Solar technologies convert sunlight into electrical energy either through photovoltaic (PV) panels or through mirrors that concentrate solar radiation. This energy can be used to generate electricity or be stored in batteries or thermal storage.",
+            "title": "How Does Solar Work? | Department of Energy",
+            "link": "https://www.energy.gov/eere/solar/how-does-solar-work#:~:text=Solar%20technologies%20convert%20sunlight%20into,in%20batteries%20or%20thermal%20storage.",
+            "displayed_link": "https://www.energy.gov \u203a eere \u203a how-does-solar-work",
+            "source_logo": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/c3b51da5d58400d6001495db2e3685cdaa8ffac020e9b1fdd826e2df4b387aea.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvdmVydmlldyBvZiBzb2xhciBlbmVyZ3k/IiwibGsiOiJHaGh2ZG1WeWRtbGxkeUJ2WmlCemIyeGhjaUJsYm1WeVozayIsImJzIjoiYy1QUzRGSU96OGhYeUN4V0tNbElWWEIyOVZmSVQxTUlMczBMemk4dFNrNVZTTTFMTFVxdnRKZm9DdVNTNTVMeUxGWW96czlKTElJS0s1VG01V1RtWnBha3B0aExfSExuMHVKU0RjOUlMSUdabFYtV1dsU1dtVm9PTWhCWmw3M0UxVmd1WXk2OThJeEtWTk9nLXBKU2kwdUFFbURyZ1ZwaG1xWjdDekFDQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvdmVydmlldyBvZiBzb2xhciBlbmVyZ3k%2FIiwibGsiOiJHaGh2ZG1WeWRtbGxkeUJ2WmlCemIyeGhjaUJsYm1WeVozayIsImJzIjoiYy1QUzRGSU96OGhYeUN4V0tNbElWWEIyOVZmSVQxTUlMczBMemk4dFNrNVZTTTFMTFVxdnRKZm9DdVNTNTVMeUxGWW96czlKTElJS0s1VG01V1RtWnBha3B0aExfSExuMHVKU0RjOUlMSUdabFYtV1dsU1dtVm9PTWhCWmw3M0UxVmd1WXk2OThJeEtWTk9nLXBKU2kwdUFFbURyZ1ZwaG1xWjdDekFDQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Why solar energy is the best source of energy?",
+            "snippet": "Solar energy - a clean source No greenhouse gas emissions are released into the atmosphere when using solar panels to create electricity. And because the sun provides more energy than we'll ever need, electricity from solar power is an essential energy source in the move to clean energy production.",
+            "title": "Solar energy - facts and advantages about solar power | Fortum",
+            "link": "https://www.fortum.com/energy-production/solar-power#:~:text=Solar%20energy%20%2D%20a%20clean%20source,move%20to%20clean%20energy%20production.",
+            "displayed_link": "https://www.fortum.com \u203a energy-production \u203a solar-po...",
+            "source_logo": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/c3b51da5d58400d6001495db2e3685cdffa734bdb219cd42a28daab2c3e584c4.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJXaHkgc29sYXIgZW5lcmd5IGlzIHRoZSBiZXN0IHNvdXJjZSBvZiBlbmVyZ3k/IiwibGsiOiJjNVBTTGMtb1ZDak96MGtzVWtqTlN5MUtyMVRJTEZZb3lVaFZTRW90TGdGS2xCWWxweXJrcDBFbEFRIiwiYnMiOiJjLVBTNEZJT3o4aFh5Q3hXS01sSVZYQjI5VmZJVDFNSUxzMEx6aTh0U2s1VlNNMUxMVXF2dEpmb0N1U1M1NUx5TEZZb3pzOUpMSUlLSzVUbTVXVG1acGFrcHRoTF9ITG4wdUpTRGM5SUxJR1psVi1XV2xTV21Wb09NaEJabDczRTFWZ3VZeTY5OEl4S1ZOT2ctcEpTaTB1QUVtRHJnVnBobXFaN0N6QUNBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsVk9EaEdkRVV3VERsdVltOWxSbmx4TXpWNE9HeDZjMHd6U205U09XMVRXV0Y0ZEZob01tbDVObU5aTmxCNVQzaFZRM3B5Ykc5MU5EZEZORVIyYkd4dVEyTTFaRVZVRWhkVmVrOVNXbU5wYlVOSlQwaHJkbEZRTjJZMk1tbEJieG9pUVVwM2F5MDRabk4wWkZCWmNuSllSV2xrTjFCVWNXdExZVUZZUkY5aE1UWllkdyIsImZjdiI6IjMiLCJlaSI6IlV6T1JaY2ltQ0lPSGt2UVA3ZjYyaUFvIiwicWMiOiJjLU15TGM5SUxGSElMRllveVVoVlNFNHN6bEJJeThrdlY4aFBnd2prNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxR1pQMUxVSEFBIiwicXVlc3Rpb24iOiJXaHkgc29sYXIgZW5lcmd5IGlzIHRoZSBiZXN0IHNvdXJjZSBvZiBlbmVyZ3k%2FIiwibGsiOiJjNVBTTGMtb1ZDak96MGtzVWtqTlN5MUtyMVRJTEZZb3lVaFZTRW90TGdGS2xCWWxweXJrcDBFbEFRIiwiYnMiOiJjLVBTNEZJT3o4aFh5Q3hXS01sSVZYQjI5VmZJVDFNSUxzMEx6aTh0U2s1VlNNMUxMVXF2dEpmb0N1U1M1NUx5TEZZb3pzOUpMSUlLSzVUbTVXVG1acGFrcHRoTF9ITG4wdUpTRGM5SUxJR1psVi1XV2xTV21Wb09NaEJabDczRTFWZ3VZeTY5OEl4S1ZOT2ctcEpTaTB1QUVtRHJnVnBobXFaN0N6QUNBQSIsImlkIjoiZmNfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy Private Limited",
+            "link": "https://www.careratings.com/upload/CompanyFiles/PR/04042022080238_SunSource_Energy_Private_Limited.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.careratings.com/upload/CompanyFiles/PR/04042022080238_SunSource_Energy_Private_Limited.pdf&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECBcQAQ",
+            "displayed_link": "https://www.careratings.com \u203a CompanyFiles",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738e3115477f2d24f4c15fd8d08c00d667f3.png",
+            "date": "Apr 4, 2022",
+            "snippet": "This in turn would affect its cash flows and debt servicing ability. Leveraged capital structure along with exposure to interest rate risk ...",
+            "snippet_highlighted_words": [
+                "cash flows"
+            ],
+            "source": "CARE Ratings"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECBQQAQ",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738ee51465099a0e96d95cfdac2ddc3d6194.png",
+            "snippet": "SunSource Energy is a leading solar company in India, providing Solar energy solutions to corporations and industries. Partner with us for reliable solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy Pvt. Ltd. financials Company Profile Information ...",
+            "link": "https://info.edgeinsights.in/company/financials/SunSource-Energy-Pvt.-Ltd./104332",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://info.edgeinsights.in/company/financials/SunSource-Energy-Pvt.-Ltd./104332&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECBUQAQ",
+            "displayed_link": "https://info.edgeinsights.in \u203a company \u203a SunSource-E...",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738e8a13bda8582cfc2b0acfb9b146dfc45a.png",
+            "snippet": "Our comprehensive data includes the balance sheets, profit and loss statements and cash flow statements. Our research also curates detailed financial ratios of ...",
+            "snippet_highlighted_words": [
+                "cash flow"
+            ],
+            "source": "edgeinsights.in"
+        },
+        {
+            "position": 4,
+            "title": "Sunsource Energy Private Limited",
+            "link": "https://www.careratings.com/upload/CompanyFiles/PR/202304140413_Sunsource_Energy_Private_Limited.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.careratings.com/upload/CompanyFiles/PR/202304140413_Sunsource_Energy_Private_Limited.pdf&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECBYQAQ",
+            "displayed_link": "https://www.careratings.com \u203a CompanyFiles",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738ed35a0dac642031e29994b9ff5364a65d.png",
+            "date": "Apr 6, 2023",
+            "snippet": "CARE Ratings also factors in the vulnerability of company's cash flows to variation in weather conditions given the single part tariff for ...",
+            "snippet_highlighted_words": [
+                "variation"
+            ],
+            "source": "CARE Ratings"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy Private Limited",
+            "link": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_March%2028,%202023_RR_314957.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_March%252028,%25202023_RR_314957.html&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECBgQAQ",
+            "displayed_link": "https://www.crisilratings.com \u203a RatingList \u203a RatingDocs",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738eb4c5ee161d5241ddde68b30270442810.png",
+            "date": "Mar 28, 2023",
+            "snippet": "Company has 200 MW project under pipeline which are in advance stages of construction. The projects stabilization and cash flow generation ...",
+            "snippet_highlighted_words": [
+                "stabilization and cash flow generation"
+            ],
+            "source": "CRISIL Ratings Limited"
+        },
+        {
+            "position": 6,
+            "title": "Sunsource Energy Private Limited Information",
+            "link": "https://economictimes.indiatimes.com/company/sunsource-energy-private-limited/U74900UP2010PTC039281",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://economictimes.indiatimes.com/company/sunsource-energy-private-limited/U74900UP2010PTC039281&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECDcQAQ",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a company \u203a su...",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738ef1d4e6b57ebec189addfe6f6632a5749.png",
+            "snippet": "It's a private unlisted company and is classified as'company limited by shares'. Company's authorized capital stands at Rs 59.5 lakhs and has 79.56639% paid-up ...",
+            "snippet_highlighted_words": [
+                "Rs 59.5 lakhs"
+            ],
+            "source": "The Economic Times"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy doubles its solar energy target to one ...",
+            "link": "https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECDkQAQ",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 2022111...",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738e74691f06cfbe871dbe08e96559edbbda.png",
+            "date": "Nov 14, 2022",
+            "snippet": "SHV Energy, via its Indian subsidiary SunSource Energy, has announced it will double its solar energy deployment target by 2027.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "SHV Energy"
+        },
+        {
+            "position": 8,
+            "title": "Live Sun Source (India) Ltd Stock Price on 29-12-2023",
+            "link": "https://www.indiainfoline.com/company/sun-source-india-ltd-share-price/3570",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.indiainfoline.com/company/sun-source-india-ltd-share-price/3570&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECDgQAQ",
+            "displayed_link": "https://www.indiainfoline.com \u203a Share Market \u203a Stocks",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738ede1ed1f2545f72fbbe247153f6d52d8d.png",
+            "snippet": "Sun Source (I) Cash Flow \u00b7 Sun Source (I) Key Ratios. Sun Source (I) Results ... Adani Energy Solutions Ltd, 1,046.00, 207.95, 1,16,680.53, 105.38, 0.00, 202.23 ...",
+            "snippet_highlighted_words": [
+                "105.38"
+            ],
+            "source": "India Infoline"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy Commissions Phase 1 of its 45 MWp ...",
+            "link": "https://www.sunsource-energy.com/sunsource-energy-commissions-phase-1-its-45-mwp-project-uttar-pradesh",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/sunsource-energy-commissions-phase-1-its-45-mwp-project-uttar-pradesh&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECDUQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a sunsource-energ...",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738ed0adafbefc8a3a8f5e2e043a8e30844c.png",
+            "snippet": "The land used in the development of this project has been leased from multiple local owners, creating a steady cash flow stream to the local communities for ...",
+            "snippet_highlighted_words": [
+                "steady cash flow stream"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 10,
+            "title": "SUNSOURCE ENERGY SDN. BHD. (Malaysia)",
+            "link": "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0976446W/SUNSOURCE-ENERGY-SDN-BHD-",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/0976446W/SUNSOURCE-ENERGY-SDN-BHD-&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQFnoECDYQAQ",
+            "displayed_link": "https://businessreport.ctoscredit.com.my \u203a single-report",
+            "favicon": "https://serpapi.com/searches/6591335379627c7dff6480ef/images/dae3d3e9653e63e01384b9732cfa738e9dd1ef2918a65587a8bd14d0e0df55cf.png",
+            "snippet": "300.00/report. (inclusive of Service Tax). Latest Corporate Profile From SSM; Directors & Shareholders; Financial Statement & Analysis; Cash Flow Statement ...",
+            "snippet_highlighted_words": [
+                "Corporate",
+                "Cash Flow"
+            ],
+            "source": "CTOS"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the cash flow of the company sunsource energy pdf",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=What+is+the+cash+flow+of+the+company+sunsource+energy+pdf&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+sunsource+energy+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy credit rating",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=SunSource+Energy+credit+rating&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+credit+rating"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy careers",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=Sunsource+energy+careers&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+energy+careers"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd name change",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=sun+source+(india)+ltd+name+change&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+name+change"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwiInJ2rrbmDAxWDg4QIHW2_DaEQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&oq=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&oq=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&oq=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&oq=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&oq=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+cash+flow+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

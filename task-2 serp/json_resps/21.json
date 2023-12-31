@@ -1,0 +1,393 @@
+{
+    "search_metadata": {
+        "id": "65913345969c08e3d2294b32",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/07434638bbc8547e/65913345969c08e3d2294b32.json",
+        "created_at": "2023-12-31 09:24:21 UTC",
+        "processed_at": "2023-12-31 09:24:21 UTC",
+        "google_url": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&oq=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/07434638bbc8547e/65913345969c08e3d2294b32.html",
+        "total_time_taken": 1.6
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What are the key capabilities of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What are the key capabilities of the company SunSource Energy?",
+        "total_results": 113000,
+        "time_taken_displayed": 0.32,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "All"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sca_esv=3f5135a469a9a1b0&sca_upv=1&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ_AUoAXoECAQQAw",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sca_esv=3f5135a469a9a1b0&sca_upv=1&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ_AUoAnoECAQQBA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 4,
+                "title": "Books",
+                "link": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sca_esv=3f5135a469a9a1b0&sca_upv=1&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ_AUoA3oECAQQBQ"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sca_esv=3f5135a469a9a1b0&sca_upv=1&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ_AUoBHoECAQQBg",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&um=1&ie=UTF-8"
+            },
+            {
+                "position": 7,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sca_esv=3f5135a469a9a1b0&sca_upv=1&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&sca_esv=3f5135a469a9a1b0&sca_upv=1&tbm=flm&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ_AUoA3oECAQQDQ"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is SunSource about us?",
+            "snippet": "As a technically-focused distributor, SunSource serves as an extension of its customers' team by providing value with design, technical understanding of product, streamlined supply chain, and a solutions-based approach to the needs of your application.",
+            "title": "SunSource | Home",
+            "link": "https://www.sun-source.com/#:~:text=As%20a%20technically%2Dfocused%20distributor,the%20needs%20of%20your%20application.",
+            "source_logo": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/75ddc33ec6d44e46aff76a672a08e988163d19b0d859b0a1f1d03f18792a0a2f.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZSBhYm91dCB1cz8iLCJsayI6IkdoSnpkVzV6YjNWeVkyVWdZV0p2ZFhRZ2RYTSIsImJzIjoiYy1OUzRKSU96MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVklUTW92TFZFb0xiYVhtQzdIcGNtbEFsYVJXSlNxVUpLUnFtQUtsRWd0VnNoUFV5ak96MGtzVWtqTlN5MUtyN1NYdU16RVpjU2xpNkkwT1NPeEtERzVKTFVvczdna014bUxucldWWERwYzZqQUhnTFFVUTF3QVZBbm1sZWFwRjhOVlg2c1JZQVFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZSBhYm91dCB1cz8iLCJsayI6IkdoSnpkVzV6YjNWeVkyVWdZV0p2ZFhRZ2RYTSIsImJzIjoiYy1OUzRKSU96MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVklUTW92TFZFb0xiYVhtQzdIcGNtbEFsYVJXSlNxVUpLUnFtQUtsRWd0VnNoUFV5ak96MGtzVWtqTlN5MUtyN1NYdU16RVpjU2xpNkkwT1NPeEtERzVKTFVvczdna014bUxucldWWERwYzZqQUhnTFFVUTF3QVZBbm1sZWFwRjhOVlg2c1JZQVFBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What are the 5 uses of solar energy?",
+            "snippet": "The five main uses of solar energy are solar electricity, solar water heating, solar heating, solar ventilation and solar lighting. There are more uses for solar energy, but home solar installation and businesses typically use solar energy for these purposes.",
+            "title": "51 of The Most Popular Uses of Solar Energy in Daily Life",
+            "date": "Jan 19, 2023",
+            "link": "https://freedomsolarpower.com/blog/51-uses-of-solar-energy#:~:text=The%20five%20main%20uses%20of,solar%20energy%20for%20these%20purposes.",
+            "displayed_link": "https://freedomsolarpower.com \u203a blog \u203a 51-uses-of-solar...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9evR9tVQZZMbC3n_wD9bQGyYqv2IQyn18kDeRYbRzbg&s",
+            "source_logo": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/75ddc33ec6d44e46aff76a672a08e988bbdae8c7b8dbf458522508a33feb0e00.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSB1c2VzIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoWTFJSFZ6WlhNZ2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLU5TNEpJT3owZ3NVY2dzVmdndXpRdk9MeTFLVGxWSVRNb3ZMVkVvTGJhWG1DN0hwY21sQWxhUldKU3FVSktScW1BS2xFZ3RWc2hQVXlqT3owa3NVa2pOU3kxS3I3U1h1TXpFWmNTbGk2STBPU094S0RHNUpMVW9zN2drTXhtTG5yV1ZYRHBjNmpBSGdMUVVRMXdBVkFubWxlYXBGOE5WWDZzUllBUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSB1c2VzIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoWTFJSFZ6WlhNZ2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLU5TNEpJT3owZ3NVY2dzVmdndXpRdk9MeTFLVGxWSVRNb3ZMVkVvTGJhWG1DN0hwY21sQWxhUldKU3FVSktScW1BS2xFZ3RWc2hQVXlqT3owa3NVa2pOU3kxS3I3U1h1TXpFWmNTbGk2STBPU094S0RHNUpMVW9zN2drTXhtTG5yV1ZYRHBjNmpBSGdMUVVRMXdBVkFubWxlYXBGOE5WWDZzUllBUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are the characteristics of solar energy?",
+            "snippet": "Solar energy is constantly flowing away from the sun and throughout the solar system. Solar energy warms Earth, causes wind and weather, and sustains plant and animal life. The energy, heat, and light from the sun flow away in the form of electromagnetic radiation (EMR).",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=Solar%20energy%20is%20constantly%20flowing,of%20electromagnetic%20radiation%20(EMR).",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "source_logo": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/75ddc33ec6d44e46aff76a672a08e988aee352669df93c201e091462ce34cd24.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgY2hhcmFjdGVyaXN0aWNzIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoOWphR0Z5WVdOMFpYSnBjM1JwWTNNZ2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLU5TNEpJT3owZ3NVY2dzVmdndXpRdk9MeTFLVGxWSVRNb3ZMVkVvTGJhWG1DN0hwY21sQWxhUldKU3FVSktScW1BS2xFZ3RWc2hQVXlqT3owa3NVa2pOU3kxS3I3U1h1TXpFWmNTbGk2STBPU094S0RHNUpMVW9zN2drTXhtTG5yV1ZYRHBjNmpBSGdMUVVRMXdBVkFubWxlYXBGOE5WWDZzUllBUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgY2hhcmFjdGVyaXN0aWNzIG9mIHNvbGFyIGVuZXJneT8iLCJsayI6IkdoOWphR0Z5WVdOMFpYSnBjM1JwWTNNZ2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLU5TNEpJT3owZ3NVY2dzVmdndXpRdk9MeTFLVGxWSVRNb3ZMVkVvTGJhWG1DN0hwY21sQWxhUldKU3FVSktScW1BS2xFZ3RWc2hQVXlqT3owa3NVa2pOU3kxS3I3U1h1TXpFWmNTbGk2STBPU094S0RHNUpMVW9zN2drTXhtTG5yV1ZYRHBjNmpBSGdMUVVRMXdBVkFubWxlYXBGOE5WWDZzUllBUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "Energy is all around us and comes from many sources. One of the most important sources of energy is the sun. The energy of the sun is the original source of most of the energy found on earth. We get solar heat energy from the sun, and sunlight can also be used to produce electricity from solar (photovoltaic) cells.",
+            "title": "Energy and Time",
+            "link": "https://www.dnr.louisiana.gov/assets/TAD/education/ECEP/sources/a/a.htm#:~:text=Energy%20is%20all%20around%20us,from%20solar%20(photovoltaic)%20cells.",
+            "displayed_link": "https://www.dnr.louisiana.gov \u203a ECEP \u203a sources \u203a a.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQC2-cRcxlvFpYWQXooSjiBjyahbAT_cXiNqGn8wkOLw&s",
+            "source_logo": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/75ddc33ec6d44e46aff76a672a08e98858d36a6eb24b27ed237bd3de6f13b4b6.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzb3VyY2Ugb2YgdGhlIHN1bidzIGVuZXJneT8iLCJsayI6IkdoZHpkVzRnWVhNZ2MyOTFjbU5sSUc5bUlHVnVaWEpuZVEiLCJicyI6ImMtTlM0SklPejBnc1VjZ3NWZ2d1elF2T0x5MUtUbFZJVE1vdkxWRW9MYmFYbUM3SHBjbWxBbGFSV0pTcVVKS1JxbUFLbEVndFZzaFBVeWpPejBrc1Vrak5TeTFLcjdTWHVNekVaY1NsaTZJME9TT3hLREc1SkxVb3M3Z2tNeG1MbnJXVlhEcGM2akFIZ0xRVVExd0FWQW5tbGVhcEY4TlZYNnNSWUFRQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVEwSktMV2d4YldodU5FMWZTelIxWVZRNGNYWkdhRXR0ZVVFelpYSXpiVlpmZFdaQloyZFVVV013VkhwWGFucEdhVTgyZDJWRWJqTmhWMVZNVERGdE5sbHZWVjl6RWhkU2FrOVNXbGxJWkVzMFpXcHJkbEZRTkZweE9YZEJOQm9pUVVwM2F5MDRabTFXUkRsR2EyTk9WVlJIYTFsVlNGSTJYM0F3VG5ZNFJrd3lRUSIsImZjdiI6IjMiLCJlaSI6IlJqT1JaWUhkSzRlamt2UVA0WnE5d0E0IiwicWMiOiJjLU95TGM5SUxGRklMRXBWS01sSVZjaE9yVlJJVGl4SVRNck15U3pKVEMxV3lFOERpeWZuNXhZazVsVXFGSmZtRmVlWEZpV25LcVRtcFJhbFZ3b3cxTDZhYldBUEFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzb3VyY2Ugb2YgdGhlIHN1bidzIGVuZXJneT8iLCJsayI6IkdoZHpkVzRnWVhNZ2MyOTFjbU5sSUc5bUlHVnVaWEpuZVEiLCJicyI6ImMtTlM0SklPejBnc1VjZ3NWZ2d1elF2T0x5MUtUbFZJVE1vdkxWRW9MYmFYbUM3SHBjbWxBbGFSV0pTcVVKS1JxbUFLbEVndFZzaFBVeWpPejBrc1Vrak5TeTFLcjdTWHVNekVaY1NsaTZJME9TT3hLREc1SkxVb3M3Z2tNeG1MbnJXVlhEcGM2akFIZ0xRVVExd0FWQW5tbGVhcEY4TlZYNnNSWUFRQSIsImlkIjoiZmNfMSJ9"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Renewable Energy Solution Provider - About SunSource Energy",
+        "link": "https://www.sunsource-energy.com/about-us#:~:text=SunSource%20develops%2C%20engineers%2C%20procures%2C,reducing%20their%20cost%20of%20energy.",
+        "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+        "snippet": "SunSource develops, engineers, procures, constructs, and operates solar power projects to help institutional, industrial, commercial and non-profit sector energy users utilize solar energy more intelligently and efficiently while reducing their cost of energy.",
+        "snippet_highlighted_words": [
+            "develops, engineers, procures, constructs, and operates solar power projects"
+        ],
+        "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/9f26f54841b00ca447ffb964117f3cabd701810cee959165.png",
+        "source": "SunSource Energy"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "On-Site Solar",
+            "link": "https://www.sunsource-energy.com/our-services/on-site-solar",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/our-services/on-site-solar",
+            "displayed_link": "https://www.sunsource-energy.com \u203a our-services \u203a o...",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a6c32dcfa6295287304a5b83338aad09c.png",
+            "snippet": "We work together with your team, study your energy needs and provide a solution that ensures increased savings and maximum clean energy from you facility. We ...",
+            "snippet_highlighted_words": [
+                "energy",
+                "energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "SunSource | Home",
+            "link": "https://www.sun-source.com/",
+            "redirect_link": "https://www.google.comhttps://www.sun-source.com/",
+            "displayed_link": "https://www.sun-source.com",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a77b834de415b4abe2f5b00e5dbba4df5.png",
+            "snippet": "THE SUNSOURCE ADVANTAGE. Our rich history of servicing customers in OEM & MRO markets for Industrial & Mobile Applications begins with our roots as North ...",
+            "snippet_highlighted_words": [
+                "SUNSOURCE"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 3,
+            "title": "SunSource\u00ae Home Energy System",
+            "link": "https://www.lennox.com/lib/legacy-res/pdfs/brochures/sunsource_home_energy_system.pdf",
+            "redirect_link": "https://www.google.comhttps://www.lennox.com/lib/legacy-res/pdfs/brochures/sunsource_home_energy_system.pdf",
+            "displayed_link": "https://www.lennox.com \u203a lib \u203a pdfs \u203a brochures",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6ac15a793a341afd0c52c45e5b06244bfb.png",
+            "date": "8 pages",
+            "snippet": "The cornerstone of the SunSource Home Energy System is a high-efficiency air conditioner or heat pump from the Dave Lennox Signature\u00ae Collection. These units.",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "Energy"
+            ],
+            "source": "Lennox"
+        },
+        {
+            "position": 4,
+            "title": "The SunSource Advantage! - YouTube",
+            "link": "https://www.youtube.com/watch?v=CzAwpXmjEiQ",
+            "displayed_link": "26.8K+ views \u00b7 8 years ago",
+            "thumbnail": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6add37e1ac9284ff96c08bf79805a5dc6b.jpeg",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a9c78b4eba501661f7952875621849a33.png",
+            "snippet": "SunSource is one of North America's leading fluid power distribution companies ... capabilities in engineering and fabrication, coupled with a ...",
+            "duration": "7:50",
+            "key_moments": [
+                {
+                    "time": "00:50",
+                    "title": "The SunSource Advantage",
+                    "link": "https://www.youtube.com/watch?v=CzAwpXmjEiQ&t=50"
+                },
+                {
+                    "time": "01:15",
+                    "title": "QUALITY PRODUCT, EXTENSIVE INVENTORY, AND TIMELY DELIVERY",
+                    "link": "https://www.youtube.com/watch?v=CzAwpXmjEiQ&t=75"
+                },
+                {
+                    "time": "03:33",
+                    "title": "ENGINEERING & FABRICATIONS",
+                    "link": "https://www.youtube.com/watch?v=CzAwpXmjEiQ&t=213"
+                },
+                {
+                    "time": "05:36",
+                    "title": "NATIONWIDE NETWORK Service & Repair Centers",
+                    "link": "https://www.youtube.com/watch?v=CzAwpXmjEiQ&t=336"
+                },
+                {
+                    "time": "06:47",
+                    "title": "Industry Leading Warranty with Every Repair!",
+                    "link": "https://www.youtube.com/watch?v=CzAwpXmjEiQ&t=407"
+                }
+            ],
+            "missing": [
+                "key"
+            ],
+            "must_include": {
+                "word": "key",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+are+the+%22key%22+capabilities+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ5t4CegQIRxAj"
+            },
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT1OtdgAzEsnCzZ1IlU6Hv-nOMXpXEJ8cBxJQ",
+            "source": "YouTube \u00b7 SunSource"
+        },
+        {
+            "position": 5,
+            "title": "How SunSource Energy emerged as one of the key players in ...",
+            "link": "https://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms",
+            "redirect_link": "https://www.google.comhttps://economictimes.indiatimes.com/industry/energy/power/how-sunsource-energy-emerged-as-one-of-the-key-players-in-indias-solar-energy-space/articleshow/51270925.cms",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a ... \u203a Power",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a6a60c2241e5e20511aadeb0f99f8f92b.png",
+            "date": "Mar 6, 2016",
+            "snippet": "Today, SunSource Energy is one of the key players in India's solar space with 60 completed projects with a cumulative capacity of 17 MW (built ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "key",
+                "capacity"
+            ],
+            "source": "The Economic Times"
+        },
+        {
+            "position": 6,
+            "title": "Sun Source Energy - Profile & Reviews - 2023",
+            "link": "https://www.energysage.com/supplier/26331/sun-source-energy/",
+            "redirect_link": "https://www.google.comhttps://www.energysage.com/supplier/26331/sun-source-energy/",
+            "displayed_link": "https://www.energysage.com \u203a supplier \u203a sun-source-...",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a5e6abc7fff1c00750697b8f0fb29009a.png",
+            "snippet": "With a focus on high-quality training and customer service, Sun Source is expanding into a regional leader. This is done with a focus on morally sound business ...",
+            "snippet_highlighted_words": [
+                "Sun Source",
+                "business"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 3
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e3 reviews"
+                    ]
+                }
+            },
+            "source": "EnergySage"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.crunchbase.com/organization/sunsource-energy",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsou...",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a4ab3c6d1ce76097f40f02ae1143b2aab.png",
+            "snippet": "SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "missing": [
+                "key"
+            ],
+            "must_include": {
+                "word": "key",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=What+are+the+%22key%22+capabilities+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ5t4CegQIPxAB"
+            },
+            "source": "Crunchbase"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy",
+            "link": "https://sg.linkedin.com/company/sunsource-energy?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+            "redirect_link": "https://www.google.comhttps://sg.linkedin.com/company/sunsource-energy?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6a2a7f86c7479c4c5ebccb5fe98f012719.png",
+            "snippet": "The firm offers customized solar power solutions to clients through innovative business models for on-site and off-site PPAs (Power Purchase ...",
+            "snippet_highlighted_words": [
+                "firm",
+                "solar power",
+                "business",
+                "Power"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy: The Growth Conundrum",
+            "link": "https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "redirect_link": "https://www.google.comhttps://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "displayed_link": "https://www.iveypublishing.ca \u203a product \u203a sunsource...",
+            "favicon": "https://serpapi.com/searches/65913345969c08e3d2294b32/images/d6c16b876108041eedd02f93b2247e6afaad4db697ece615c5983a6283c9a3e1.png",
+            "date": "Jun 29, 2022",
+            "snippet": "In 2021, SunSource Energy was evaluating its growth strategy options. An entrepreneurial venture in the renewable energy sector, ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "ca": 9.25
+                    },
+                    "extensions": [
+                        "CA$9.25"
+                    ]
+                }
+            },
+            "source": "Ivey Publishing"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy pvt ltd",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+PVT+ltd&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+PVT+ltd"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource ceo",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+CEO&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+CEO"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy pvt ltd zauba",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SUNSOURCE+Energy+pvt+ltd+zauba&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SUNSOURCE+Energy+pvt+ltd+zauba"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwiBmKelrbmDAxWHkYQIHWFND-gQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&oq=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&oq=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&oq=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&oq=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&oq=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+key+capabilities+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

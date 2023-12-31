@@ -1,0 +1,323 @@
+{
+    "search_metadata": {
+        "id": "65912e9f95bf92d0624683f6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/866b49e5b605c1d3/65912e9f95bf92d0624683f6.json",
+        "created_at": "2023-12-31 09:04:31 UTC",
+        "processed_at": "2023-12-31 09:04:31 UTC",
+        "google_url": "https://www.google.com/search?q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&oq=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/866b49e5b605c1d3/65912e9f95bf92d0624683f6.html",
+        "total_time_taken": 1.85
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Where is the Headquarters; location of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Where is the Headquarters; location of the company SunSource Energy?",
+        "total_results": 112000,
+        "time_taken_displayed": 0.46,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&uds=AMIYvT83IJLQGUWpgBoNLwkk80Jo2IFys4yMr6kHUwPgK6fSdjxzeStpUqWvMJDxDRUgy36inYAcee4UOZornXh8nIpiVLnRm6jjVp80jlamjuWxnRLje5FvVGK8oefGMI06Rr2-KViy_UrjgqERSSCfNn6njpL267CUlhs2HvSeY94WZ_KOYbvlyFoPPZptO-Tv7RpYSohy&udm=4&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Qs6gLegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594712212&output=search&q=Where+is+the+Headquarters;+location+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 4,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q0pQJegQICBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 5,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+headquarters+location+of+the+company+sunsource+energy+qui&uds=AMIYvT9ZlBVy9M-fGda1l5szdCRINSXtzWTKi9nhHdI57ltzJ8B1BsvOy4yqWe8z6dVaFmKx8FermWNcMA5wusXu8JNxmM2T2PNzAYwTl835s01WQVULWzrd41sY6Nr15Uro2KKwlQeq4SezeJNYJxiZI66YQBLbSvq630Q-nPrHye-vhHFv7dOXle4xmzD6Yi4QwiD5mdse&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88QxKsJegQISBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+headquarters+location+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 6,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q0pQJegQIRRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 8,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q0pQJegQIRBAB"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594712212&output=search&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the owner of SunSource?",
+            "snippet": "Clayton, Dubilier & Rice Acquires SunSource.",
+            "title": "Clayton, Dubilier & Rice Acquires SunSource",
+            "date": "Dec 11, 2017",
+            "link": "https://www.cdr-inc.com/news/press-release/clayton-dubilier-rice-acquires-sunsource",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a clayton...",
+            "source_logo": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/e84830521134da71a5e1a5c861ccf7371f9faef31b3195d9e53d88583d7fb49e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG93bmVyIG9mIFN1blNvdXJjZT8iLCJsayI6IkdnOXpkVzV6YjNWeVkyVWdiM2R1WlhJIiwiYnMiOiJjLU5TNXBJTHo4aFh5Q3hXS01sSVZjZ3Z6MHN0VXNoUFV3Z3V6UXZPTHkxS1RyV1hPSkRDcGNPbDdwRmZycENibUZlcGtKT2ZuRmlTbVo5WHJKQ1NuMXFNVUtpUWtWZ0dWTDFNazB1RFN4bkpTR2RYZnhRREZWeUJWcVJYMmt0MEJYS3BjU21HWnlTV2dKUWk1QlB6OGtvVGN4U0tVc3RTODBxQkpwNHpFR0FFQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG93bmVyIG9mIFN1blNvdXJjZT8iLCJsayI6IkdnOXpkVzV6YjNWeVkyVWdiM2R1WlhJIiwiYnMiOiJjLU5TNXBJTHo4aFh5Q3hXS01sSVZjZ3Z6MHN0VXNoUFV3Z3V6UXZPTHkxS1RyV1hPSkRDcGNPbDdwRmZycENibUZlcGtKT2ZuRmlTbVo5WHJKQ1NuMXFNVUtpUWtWZ0dWTDFNazB1RFN4bkpTR2RYZnhRREZWeUJWcVJYMmt0MEJYS3BjU21HWnlTV2dKUWk1QlB6OGtvVGN4U0tVc3RTODBxQkpwNHpFR0FFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "How many locations does SunSource have?",
+            "snippet": "With a network of over 100+ branches primarily located throughout North America, we have the footprint to provide our customers with local service and the size to scale our services for large operations.",
+            "title": "Location Finder - SunSource",
+            "link": "https://www.sun-source.com/sunsource-branches#:~:text=With%20a%20network%20of%20over,our%20services%20for%20large%20operations.",
+            "displayed_link": "https://www.sun-source.com \u203a sunsource-branches",
+            "source_logo": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/e84830521134da71a5e1a5c861ccf737b927e8368c5a0377ddfe52401007f9e8.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBsb2NhdGlvbnMgZG9lcyBTdW5Tb3VyY2UgaGF2ZT8iLCJsayI6IkdpWm9iM2NnYldGdWVTQnNiMk5oZEdsdmJuTWdaRzlsY3lCemRXNXpiM1Z5WTJVZ2FHRjJaUSIsImJzIjoiYy1OUzVwSUx6OGhYeUN4V0tNbElWY2d2ejBzdFVzaFBVd2d1elF2T0x5MUtUcldYT0pEQ3BjT2w3cEZmcnBDYm1GZXBrSk9mbkZpU21aOVhySkNTbjFxTVVLaVFrVmdHVkwxTWswdURTeG5KU0dkWGZ4UURGVnlCVnFSWDJrdDBCWEtwY1NtR1p5U1dnSlFpNUJQejhrb1RjeFNLVXN0UzgwcUJKcDR6RUdBRUFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBsb2NhdGlvbnMgZG9lcyBTdW5Tb3VyY2UgaGF2ZT8iLCJsayI6IkdpWm9iM2NnYldGdWVTQnNiMk5oZEdsdmJuTWdaRzlsY3lCemRXNXpiM1Z5WTJVZ2FHRjJaUSIsImJzIjoiYy1OUzVwSUx6OGhYeUN4V0tNbElWY2d2ejBzdFVzaFBVd2d1elF2T0x5MUtUcldYT0pEQ3BjT2w3cEZmcnBDYm1GZXBrSk9mbkZpU21aOVhySkNTbjFxTVVLaVFrVmdHVkwxTWswdURTeG5KU0dkWGZ4UURGVnlCVnFSWDJrdDBCWEtwY1NtR1p5U1dnSlFpNUJQejhrb1RjeFNLVXN0UzgwcUJKcDR6RUdBRUFBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the CEO of SunSource Energy?",
+            "snippet": "Kushagra Nandan | SunSource Energy.",
+            "title": "Kushagra Nandan",
+            "link": "https://www.sunsource-energy.com/kushagra-nandan#:~:text=Kushagra%20Nandan%20%7C%20SunSource%20Energy",
+            "displayed_link": "https://www.sunsource-energy.com \u203a kushagra-nandan",
+            "source_logo": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/e84830521134da71a5e1a5c861ccf737e15a589a2ed6646fbfd8ad7c1a46228a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIENFTyBvZiBTdW5Tb3VyY2UgRW5lcmd5PyIsImxrIjoiR2hSemRXNXpiM1Z5WTJVZ1pXNWxjbWQ1SUdObGJ3IiwiYnMiOiJjLU5TNXBJTHo4aFh5Q3hXS01sSVZjZ3Z6MHN0VXNoUFV3Z3V6UXZPTHkxS1RyV1hPSkRDcGNPbDdwRmZycENibUZlcGtKT2ZuRmlTbVo5WHJKQ1NuMXFNVUtpUWtWZ0dWTDFNazB1RFN4bkpTR2RYZnhRREZWeUJWcVJYMmt0MEJYS3BjU21HWnlTV2dKUWk1QlB6OGtvVGN4U0tVc3RTODBxQkpwNHpFR0FFQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIENFTyBvZiBTdW5Tb3VyY2UgRW5lcmd5PyIsImxrIjoiR2hSemRXNXpiM1Z5WTJVZ1pXNWxjbWQ1SUdObGJ3IiwiYnMiOiJjLU5TNXBJTHo4aFh5Q3hXS01sSVZjZ3Z6MHN0VXNoUFV3Z3V6UXZPTHkxS1RyV1hPSkRDcGNPbDdwRmZycENibUZlcGtKT2ZuRmlTbVo5WHJKQ1NuMXFNVUtpUWtWZ0dWTDFNazB1RFN4bkpTR2RYZnhRREZWeUJWcVJYMmt0MEJYS3BjU21HWnlTV2dKUWk1QlB6OGtvVGN4U0tVc3RTODBxQkpwNHpFR0FFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is SunSource annual revenue?",
+            "snippet": "SunSource's revenue is $320.0 million. Zippia's data science team found the following key financial metrics about SunSource after extensive research and analysis. SunSource has 1,000 employees, and the revenue per employee ratio is $320,000. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/#:~:text=SunSource's%20revenue%20is%20%24320.0%20million.&text=Zippia's%20data%20science%20team%20found,was%20%24320.0M%20in%202022.",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837 \u203a r...",
+            "source_logo": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/e84830521134da71a5e1a5c861ccf73760125ab9f7d6ae62b152d9c6ecdfb9c1.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZSBhbm51YWwgcmV2ZW51ZT8iLCJsayI6IkdoaHpkVzV6YjNWeVkyVWdZVzV1ZFdGc0lISmxkbVZ1ZFdVIiwiYnMiOiJjLU5TNXBJTHo4aFh5Q3hXS01sSVZjZ3Z6MHN0VXNoUFV3Z3V6UXZPTHkxS1RyV1hPSkRDcGNPbDdwRmZycENibUZlcGtKT2ZuRmlTbVo5WHJKQ1NuMXFNVUtpUWtWZ0dWTDFNazB1RFN4bkpTR2RYZnhRREZWeUJWcVJYMmt0MEJYS3BjU21HWnlTV2dKUWk1QlB6OGtvVGN4U0tVc3RTODBxQkpwNHpFR0FFQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVpVVlpOa3A1TTE5amEyeHRVR3R2ZGpGMVdtSTNUMVpHTVVVMmNVdHFTR3hwTlZoZlh5MU9NRFEwY2xSeFNIbE5jRE5LT0RkNU1VZFJSVnBaVjJKdFIzbFpha3A2RWhkdlF6WlNXbUl5WjB0TE5uUTFUbTlRY2t4VGRDMUJkeG9pUVVwM2F5MDRZMTl1VUd3dFZEQk5ielZvT0d0alFWbFlPRTVyZVVkNVYybEladyIsImZjdiI6IjMiLCJlaSI6Im9DNlJaYjJnS0s2dDVOb1ByTFN0LUF3IiwicWMiOiJjLU55S3M5SUxVcFZ5Q3hXS01sSVZjaElUVXdwTEUwc0tra3RLbGJJeVU5T0xNbk16MVBJVHdOTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVWJncThhQWNBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZSBhbm51YWwgcmV2ZW51ZT8iLCJsayI6IkdoaHpkVzV6YjNWeVkyVWdZVzV1ZFdGc0lISmxkbVZ1ZFdVIiwiYnMiOiJjLU5TNXBJTHo4aFh5Q3hXS01sSVZjZ3Z6MHN0VXNoUFV3Z3V6UXZPTHkxS1RyV1hPSkRDcGNPbDdwRmZycENibUZlcGtKT2ZuRmlTbVo5WHJKQ1NuMXFNVUtpUWtWZ0dWTDFNazB1RFN4bkpTR2RYZnhRREZWeUJWcVJYMmt0MEJYS3BjU21HWnlTV2dKUWk1QlB6OGtvVGN4U0tVc3RTODBxQkpwNHpFR0FFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Contact Us",
+            "link": "https://www.sunsource-energy.com/contact-us",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/contact-us",
+            "displayed_link": "https://www.sunsource-energy.com \u203a contact-us",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f8697376c94430c9d32716249c923797f9.png",
+            "snippet": "Global HQ \u2013 Delhi NCR. SunSource Energy 5th floor, Tower A, Club 125 \u00b7 Singapore. SunSource Cleantech Ventures Pte. \u00b7 Cary, NC, USA. SunSource Energy Americas, ...",
+            "snippet_highlighted_words": [
+                "Global HQ \u2013 Delhi NCR. SunSource Energy 5th floor, Tower A, Club 125"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "Contact Us",
+            "link": "https://www.sun-source.com/ContactUs",
+            "redirect_link": "https://www.google.comhttps://www.sun-source.com/ContactUs",
+            "displayed_link": "https://www.sun-source.com \u203a ContactUs",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f8c369cd2fbc2e5ac1eb531925e136df83.png",
+            "snippet": "SunSource Headquarters. SunSource - Addison. 2301 Windsor Court, Suite A. Addison, IL 60101. Main Phone: (888) 786-7723 \u00b7 Home \u00b7 888-786-7723 \u00b7 Request A Quote.",
+            "snippet_highlighted_words": [
+                "Addison. 2301 Windsor Court, Suite A. Addison, IL 60101"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource-energy",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f887b76377d5e587192171a9bc058f6170.png",
+            "snippet": "Established in 2010 and headquartered in Delhi NCR, the company develops, builds, and operates distributed power infrastructure for its ...",
+            "snippet_highlighted_words": [
+                "Delhi NCR"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.crunchbase.com/organization/sunsource-energy",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f89b7908c710706f9cbf9a5d4dc54091f4.png",
+            "snippet": "... Energy 's headquarters? SunSource Energy is located in Noida, Uttar Pradesh, India . Who invested in SunSource Energy ? SunSource Energy is funded by SBICAP ...",
+            "snippet_highlighted_words": [
+                "Noida, Uttar Pradesh, India"
+            ],
+            "source": "Crunchbase"
+        },
+        {
+            "position": 5,
+            "title": "SunSource",
+            "link": "https://www.linkedin.com/company/sunsource",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource",
+            "displayed_link": "10K+ followers",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f8c3b87a466b22df32e41d7cb261c67749.png",
+            "snippet": "Locations \u00b7 Addison, IL 60101, US \u00b7 Savage, MN 55378, US \u00b7 Granite Falls, MN 56241, US \u00b7 4797 Campus Dr. Kalamazoo, MI 49008, US.",
+            "snippet_highlighted_words": [
+                "4797 Campus Dr. Kalamazoo, MI 49008, US"
+            ],
+            "source": "LinkedIn \u00b7 SunSource"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy Overview | SignalHire Company Profile",
+            "link": "https://www.signalhire.com/companies/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.signalhire.com/companies/sunsource-energy",
+            "displayed_link": "https://www.signalhire.com \u203a Companies directory",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f86cd5c4aaedb57957163b5352d64dfbb3.png",
+            "snippet": "The position of the Co-Founder & CEO is occupied by Adarsh Das. Its headquarters is located at Noida, Uttar Pradesh, IN. The number of employees ranges from 100 ...",
+            "snippet_highlighted_words": [
+                "Noida, Uttar Pradesh, IN"
+            ],
+            "source": "SignalHire"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy Company Profile",
+            "link": "https://www.datanyze.com/companies/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.comhttps://www.datanyze.com/companies/sunsource-energy/346888233",
+            "displayed_link": "https://www.datanyze.com \u203a companies \u203a sunsource-e...",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f83a8400dd5d62e29453866bc912105553.png",
+            "snippet": "Where is SunSource Energy headquarters located? SunSource Energy headquarters are located in 111 Bauer Dr, Oakland, New Jersey, 07436, United States. What ...",
+            "snippet_highlighted_words": [
+                "111 Bauer Dr, Oakland, New Jersey, 07436, United States"
+            ],
+            "source": "Datanyze"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy - Overview, News & Competitors",
+            "link": "https://www.zoominfo.com/c/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.comhttps://www.zoominfo.com/c/sunsource-energy/346888233",
+            "displayed_link": "https://www.zoominfo.com \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f87f213335125e221e919d7d969f1bc5d2.png",
+            "snippet": "Where is SunSource Energy located? SunSource Energy's headquarters are located at 111 Bauer Dr, Oakland, New Jersey, 07436, United States What is SunSource ...",
+            "snippet_highlighted_words": [
+                "111 Bauer Dr, Oakland, New Jersey, 07436, United States"
+            ],
+            "source": "Zoominfo"
+        },
+        {
+            "position": 9,
+            "title": "Sun Source Energy",
+            "link": "https://sunsourceusa.com/",
+            "redirect_link": "https://www.google.comhttps://sunsourceusa.com/",
+            "displayed_link": "https://sunsourceusa.com",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f8c90e76f1e96acc8e9c3801bc26803a0b.png",
+            "snippet": "Solar Contractor | Solar Panel Contractor | Sun Source Energy.",
+            "snippet_highlighted_words": [
+                "Sun Source Energy"
+            ],
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy - Products, Competitors, Financials ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.cbinsights.com/company/sunsource-energy",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a sunsource-e...",
+            "favicon": "https://serpapi.com/searches/65912e9f95bf92d0624683f6/images/0a29fe377740267adca3a1881aff55f87937c60c253f8f6fa667bd8ade7ad6fe.png",
+            "snippet": "Where is SunSource Energy's headquarters? SunSource Energy's headquarters is located at B-14, Sector 132, Noida. ... Company Directory \u00b7 VC Glossary \u00b7 ESP Market ...",
+            "snippet_highlighted_words": [
+                "B-14, Sector 132, Noida"
+            ],
+            "source": "CB Insights"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource headquarters",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+headquarters&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+headquarters"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource hydraulics locations",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+Hydraulics+locations&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Hydraulics+locations"
+        },
+        {
+            "block_position": 1,
+            "query": "Where is the headquarters location of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=Where+is+the+headquarters+location+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+headquarters+location+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy pvt ltd",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SunSource+Energy+PVT+ltd&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+PVT+ltd"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy pvt ltd zauba",
+            "link": "https://www.google.com/search?sca_esv=594712212&q=SUNSOURCE+Energy+pvt+ltd+zauba&sa=X&ved=2ahUKEwi98OvtqLmDAxWuFlkFHSxaC88Q1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SUNSOURCE+Energy+pvt+ltd+zauba"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&oq=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&oq=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&oq=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&oq=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&oq=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Where+is+the+Headquarters%3B+location+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

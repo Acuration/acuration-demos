@@ -1,0 +1,322 @@
+{
+    "search_metadata": {
+        "id": "65913331c56d93865feee5bd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4578b9497abfbb78/65913331c56d93865feee5bd.json",
+        "created_at": "2023-12-31 09:24:01 UTC",
+        "processed_at": "2023-12-31 09:24:01 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&oq=What+is+the+share+price+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4578b9497abfbb78/65913331c56d93865feee5bd.html",
+        "total_time_taken": 1.0
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the share price of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the share price of the company SunSource Energy?",
+        "total_results": 122000,
+        "time_taken_displayed": 0.24,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ0pQJegQICRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 2,
+                "title": "Today",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+sunsource+energy+today&uds=AMIYvT_S1QSQu45FEQAr6Vk4QN_-EaRqY13T3gdOL9P3i1KaW-XGo4ArwVhxSWxtbUuTh4S4pB-XiRvOMR8HUNcKz8XcL9dkWVIF_CJFZkE6X76-Fw2oVEvIGhKsgbNbmlxFYhApEOYZ-RrC4PJ0mIa9STTP426MzpBcrRfrFhqJbunTBqTQ220&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQxKsJegQIDBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+sunsource+energy+today"
+            },
+            {
+                "position": 3,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&uds=AMIYvT8FGb36kGb6lTUkLA5HkWy5Or93VMRLUX4HFwmOylz-K92JlFDfBgmzdhkzSfrEghg0AgrpZKrjCVBqza1Z5V0dNld-cd4o8yUdTf7dP0z-PMQf86XvjdaRdYlxVCMwTl0AvYPe31x7J300KoypisuJ4kJ0hQFV3E1g83-ZWtfJ5GqiFWc&udm=4&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQs6gLegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 4,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ0pQJegQIPhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ0pQJegQIPxAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+share+price+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the share price of Sun Source India?",
+            "snippet": "Sun Source (India) Ltd. \u20b92.56 (BSE) Share Price Today.",
+            "title": "Sun Source (India) Ltd. \u20b92.56 (BSE) Share Price Today",
+            "link": "https://www.valueresearchonline.com/stocks/44661/sun-source-india-ltd/#:~:text=Sun%20Source%20(India)%20Ltd.,2.56%20(BSE)%20Share%20Price%20Today",
+            "displayed_link": "https://www.valueresearchonline.com \u203a Stocks",
+            "source_logo": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/e58638470aa055a84e9f473142ed3dd643af68aa62c8d31189818942201e09b6.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2NsOUphMWxQYzJwb1oyeElUMTg1TTNGRVVXWlZhV1ZsUzFSdWIxcFVlWEExZHkxcGVrZGFlWFJuZVRkR1YxcEZVM05uYVRaNlUyNVZiVXc1Vm5wR2JFbHlXalpDRWhkTmFrOVNXbVZtUWtOTmFVdHJVRWxRWjB3eU5tMUJSUm9pUVVwM2F5MDRabUp1TjBOMloydHhXbUpOUm5WSU1FSjRkV1JyTVV0NWVuVmxkdyIsImZjdiI6IjMiLCJlaSI6Ik1qT1JaZWZCQ01pS2tQSVBnTDI2bUFFIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVktNNUlMRXBWS0NqS1RFNVZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGZ0VsVXZOU2k5SXJCUmhxNXlvcTJRTUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNoYXJlIHByaWNlIG9mIFN1biBTb3VyY2UgSW5kaWE/IiwibGsiOiJHaHh6ZFc1emIzVnlZMlVnWlc1bGNtZDVJSE5vWVhKbElIQnlhV05sIiwiYnMiOiJjLU15NU5JSnowZ3NVY2dzVmlqSlNGVW96a2dzU2xVb0tNcE1UbFhJVDFNSUxzMVRDTTR2TFFMeVBQTlNNaFB0SmM2VmNoSFVrcHFTV1p5ZnA1Q1pwLUFYN0dvdmNTSkRnQkVBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2NsOUphMWxQYzJwb1oyeElUMTg1TTNGRVVXWlZhV1ZsUzFSdWIxcFVlWEExZHkxcGVrZGFlWFJuZVRkR1YxcEZVM05uYVRaNlUyNVZiVXc1Vm5wR2JFbHlXalpDRWhkTmFrOVNXbVZtUWtOTmFVdHJVRWxRWjB3eU5tMUJSUm9pUVVwM2F5MDRabUp1TjBOMloydHhXbUpOUm5WSU1FSjRkV1JyTVV0NWVuVmxkdyIsImZjdiI6IjMiLCJlaSI6Ik1qT1JaZWZCQ01pS2tQSVBnTDI2bUFFIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVktNNUlMRXBWS0NqS1RFNVZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGZ0VsVXZOU2k5SXJCUmhxNXlvcTJRTUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNoYXJlIHByaWNlIG9mIFN1biBTb3VyY2UgSW5kaWE%2FIiwibGsiOiJHaHh6ZFc1emIzVnlZMlVnWlc1bGNtZDVJSE5vWVhKbElIQnlhV05sIiwiYnMiOiJjLU15NU5JSnowZ3NVY2dzVmlqSlNGVW96a2dzU2xVb0tNcE1UbFhJVDFNSUxzMVRDTTR2TFFMeVBQTlNNaFB0SmM2VmNoSFVrcHFTV1p5ZnA1Q1pwLUFYN0dvdmNTSkRnQkVBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is the share price of Sunedison in NSE?",
+            "title": "Peer Comparison",
+            "link": "https://cleartax.in/stocks/sunedison-infrastructure-ltd",
+            "displayed_link": "https://cleartax.in \u203a stocks \u203a sunedison-infrastructure-ltd",
+            "source_logo": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/e58638470aa055a84e9f473142ed3dd6d5e37d7c88c1c596a9f6a81feb6e953c.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2NsOUphMWxQYzJwb1oyeElUMTg1TTNGRVVXWlZhV1ZsUzFSdWIxcFVlWEExZHkxcGVrZGFlWFJuZVRkR1YxcEZVM05uYVRaNlUyNVZiVXc1Vm5wR2JFbHlXalpDRWhkTmFrOVNXbVZtUWtOTmFVdHJVRWxRWjB3eU5tMUJSUm9pUVVwM2F5MDRabUp1TjBOMloydHhXbUpOUm5WSU1FSjRkV1JyTVV0NWVuVmxkdyIsImZjdiI6IjMiLCJlaSI6Ik1qT1JaZWZCQ01pS2tQSVBnTDI2bUFFIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVktNNUlMRXBWS0NqS1RFNVZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGZ0VsVXZOU2k5SXJCUmhxNXlvcTJRTUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNoYXJlIHByaWNlIG9mIFN1bmVkaXNvbiBpbiBOU0U/IiwibGsiOiJHaGx6ZFc1bFpHbHpiMjRnYzJoaGNtVWdjSEpwWTJVZ2JuTmwiLCJicyI6ImMtTXk1TklKejBnc1VjZ3NWaWpKU0ZVb3prZ3NTbFVvS01wTVRsWElUMU1JTHMxVENNNHZMUUx5UFBOU01oUHRKYzZWY2hIVWtwcVNXWnlmcDVDWnAtQVg3R292Y1NKRGdCRUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2NsOUphMWxQYzJwb1oyeElUMTg1TTNGRVVXWlZhV1ZsUzFSdWIxcFVlWEExZHkxcGVrZGFlWFJuZVRkR1YxcEZVM05uYVRaNlUyNVZiVXc1Vm5wR2JFbHlXalpDRWhkTmFrOVNXbVZtUWtOTmFVdHJVRWxRWjB3eU5tMUJSUm9pUVVwM2F5MDRabUp1TjBOMloydHhXbUpOUm5WSU1FSjRkV1JyTVV0NWVuVmxkdyIsImZjdiI6IjMiLCJlaSI6Ik1qT1JaZWZCQ01pS2tQSVBnTDI2bUFFIiwicWMiOiJjLU15TDg5SUxGSElMRllveVVoVktNNUlMRXBWS0NqS1RFNVZ5RThEQ3lYbjV4WWs1bFVxRkpmbUZlZVhGZ0VsVXZOU2k5SXJCUmhxNXlvcTJRTUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNoYXJlIHByaWNlIG9mIFN1bmVkaXNvbiBpbiBOU0U%2FIiwibGsiOiJHaGx6ZFc1bFpHbHpiMjRnYzJoaGNtVWdjSEpwWTJVZ2JuTmwiLCJicyI6ImMtTXk1TklKejBnc1VjZ3NWaWpKU0ZVb3prZ3NTbFVvS01wTVRsWElUMU1JTHMxVENNNHZMUUx5UFBOU01oUHRKYzZWY2hIVWtwcVNXWnlmcDVDWnAtQVg3R292Y1NKRGdCRUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Sun Source (India) Ltd. - Share/Stock Price",
+            "link": "https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/sunsourceindia/SSI07",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.moneycontrol.com/india/stockpricequote/power-generationdistribution/sunsourceindia/SSI07&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECBYQAQ",
+            "displayed_link": "https://www.moneycontrol.com \u203a india \u203a SSI07",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806b845a20a0b394c21d7441f5625a262c5a.png",
+            "snippet": "Sun Source Share Price: Find the latest news on Sun Source Stock Price. Get all the information on Sun Source with historic price charts for NSE / BSE.",
+            "snippet_highlighted_words": [
+                "Sun Source Share Price",
+                "Sun Source Stock Price",
+                "Sun Source"
+            ],
+            "source": "Moneycontrol"
+        },
+        {
+            "position": 2,
+            "title": "Sun Source Share Price Today - Stocks",
+            "link": "https://groww.in/stocks/sun-source-india-ltd",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://groww.in/stocks/sun-source-india-ltd&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECBcQAQ",
+            "displayed_link": "https://groww.in \u203a Stocks",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806b103a162107c4888bd24d90c85940daaa.png",
+            "snippet": "Sun Source Share Price - Get Sun Source Ltd LIVE BSE/NSE stock price with ... Tata Power Company. \u20b90. (0.00%). JSW Energy. \u20b90. (0.00%). NHPC. \u20b90. (0.00%). FAQs ...",
+            "snippet_highlighted_words": [
+                "Sun Source Share Price",
+                "Sun Source Ltd",
+                "stock price",
+                "Power Company",
+                "Energy"
+            ],
+            "source": "Groww"
+        },
+        {
+            "position": 3,
+            "title": "Sun Source (India) Ltd Share Price Today",
+            "link": "https://www.business-standard.com/company/sun-source-i-3570.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.business-standard.com/company/sun-source-i-3570.html&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECBUQAQ",
+            "displayed_link": "https://www.business-standard.com \u203a sun-source-i-3570",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806b621bd913e4d3c0d625e476f8fcaccb57.png",
+            "snippet": "Sun Source (India) Ltd Share Price, 30-12-2023: Get Sun Source (India) Ltd latest news on BSE/NSE stock price live updates, Sun Source (India) Ltd financial ...",
+            "snippet_highlighted_words": [
+                "30-12-2023"
+            ],
+            "source": "Business Standard"
+        },
+        {
+            "position": 4,
+            "title": "Sun Source (India) Ltd Share Price - Stocks",
+            "link": "https://www.businesstoday.in/stocks/sun-source-india-ltd-share-price-365295",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.businesstoday.in/stocks/sun-source-india-ltd-share-price-365295&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECBQQAQ",
+            "displayed_link": "https://www.businesstoday.in \u203a Markets \u203a Stocks",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806baf2d2cb5d8c6f396557bda3ed8559800.png",
+            "snippet": "Sun Source (India) Ltd share price was up by 4.92% from the previous closing price of \u20b92.44. Who are peers of Sun Source (India) Ltd?",
+            "snippet_highlighted_words": [
+                "by 4.92"
+            ],
+            "source": "Business Today"
+        },
+        {
+            "position": 5,
+            "title": "Sun Source (India) Ltd. \u20b92.56 (BSE) Share Price Today",
+            "link": "https://www.valueresearchonline.com/stocks/44661/sun-source-india-ltd/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.valueresearchonline.com/stocks/44661/sun-source-india-ltd/&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECBgQAQ",
+            "displayed_link": "https://www.valueresearchonline.com \u203a Stocks",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806ba5b6c98248e88b97536cf0c62e128978.png",
+            "snippet": "\u20b92.56. As on 07-Jun-2021 IST. up-down-arrow \u20b90.12 \u2022 4.92% ; Prev Close \u00b7 2.44 ; Day's Open \u00b7 2.56 ; Today's High \u00b7 2.56 ; Today's Low \u00b7 2.56.",
+            "snippet_highlighted_words": [
+                "4.92"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 2.56,
+                        "currency": "\u20b9"
+                    },
+                    "extensions": [
+                        "\u20b92.56"
+                    ]
+                }
+            },
+            "source": "Value Research"
+        },
+        {
+            "position": 6,
+            "title": "Live Sun Source (India) Ltd Stock Price on 29-12-2023",
+            "link": "https://www.indiainfoline.com/company/sun-source-india-ltd-share-price/3570",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.indiainfoline.com/company/sun-source-india-ltd-share-price/3570&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECDQQAQ",
+            "displayed_link": "https://www.indiainfoline.com \u203a Share Market \u203a Stocks",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806b36edd62aabf537c41a1594c6016b801e.png",
+            "snippet": "Sun Source (India) Ltd - SUN SOURCE (I) Share Price. Sector: Power Generation ... Adani Energy Solutions Ltd, 1,046.00, 207.95, 1,16,680.53, 105.38, 0.00, 202.23 ...",
+            "snippet_highlighted_words": [
+                "1,046.00"
+            ],
+            "source": "India Infoline"
+        },
+        {
+            "position": 7,
+            "title": "sun source (india) ltd. - Stock Price Quote",
+            "link": "https://www.nirmalbang.com/company/sun-source/117403",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nirmalbang.com/company/sun-source/117403&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECC8QAQ",
+            "displayed_link": "https://www.nirmalbang.com \u203a company \u203a sun-source",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806bdc8af57f1f8f9c185b08b50eb5785c8b.png",
+            "snippet": "Its today's share price is 2.56. Its current market capitalisation stands at Rs 3.68 Cr. In the latest quarter, company has reported Gross Sales of Rs. 0 Cr and ...",
+            "snippet_highlighted_words": [
+                "2.56"
+            ],
+            "source": "Nirmal Bang"
+        },
+        {
+            "position": 8,
+            "title": "Sun Source (India) Ltd. share price insights",
+            "link": "https://economictimes.indiatimes.com/sun-source-india-ltd/stocks/companyid-8435.cms",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://economictimes.indiatimes.com/sun-source-india-ltd/stocks/companyid-8435.cms&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECDAQAQ",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a stocks \u203a comp...",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806bc040d26d10746c1acbbd0462d07cad74.png",
+            "snippet": "Sun Source (India)Share Price NSE/BSE updates on The Economic Times. Get detailed Sun Source (India)stock price news and analysis, Dividend, ...",
+            "snippet_highlighted_words": [
+                "Sun Source",
+                "Share Price",
+                "Sun Source",
+                "stock price"
+            ],
+            "source": "The Economic Times"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy Stock Price, Funding, Valuation, ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy/financials",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbinsights.com/company/sunsource-energy/financials&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECDMQAQ",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a financials",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806bca5796ce4f661874799dfab17b94866d.png",
+            "snippet": "See SunSource Energy funding rounds, investors, investments, exits and more. Evaluate their financials based on SunSource Energy's post-money valuation and ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "SunSource Energy's"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 10,
+            "title": "Sun Source (India) Ltd financial results and price chart",
+            "link": "https://www.screener.in/company/517403/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.screener.in/company/517403/&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQFnoECDIQAQ",
+            "displayed_link": "https://www.screener.in \u203a company",
+            "favicon": "https://serpapi.com/searches/65913331c56d93865feee5bd/images/a9d78c2bf3000bd18bf2556289be806ba4c265711807e27680e1ff3d2c577be4.png",
+            "snippet": "The Company is in the process of exploring sources of alternate power projects. ... Stock Price CAGR. 10 Years: -8%. 5 Years: -10%. 3 Years: %. 1 Year: %. Return ...",
+            "snippet_highlighted_words": [
+                "8"
+            ],
+            "source": "Screener"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the share price of the company sunsource energy today",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+share+price+of+the+company+sunsource+energy+today&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+sunsource+energy+today"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource stock",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+stock&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+stock"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "ktm share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=KTM+share+price&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=KTM+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "swiggy share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Swiggy+share+price&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgpEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Swiggy+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgnEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "greenko share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Greenko+share+price&sa=X&ved=2ahUKEwjnor-brbmDAxVIBUQIHYCeDhMQ1QJ6BAgoEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Greenko+share+price"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&oq=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&oq=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&oq=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&oq=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&oq=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+share+price+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

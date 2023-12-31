@@ -1,0 +1,349 @@
+{
+    "search_metadata": {
+        "id": "6591332f8e02e438c394de43",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bf1948fae8d15339/6591332f8e02e438c394de43.json",
+        "created_at": "2023-12-31 09:23:59 UTC",
+        "processed_at": "2023-12-31 09:23:59 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&oq=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/bf1948fae8d15339/6591332f8e02e438c394de43.html",
+        "total_time_taken": 1.19
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the pricing model of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the pricing model of the company SunSource Energy?",
+        "total_results": 218000,
+        "time_taken_displayed": 0.31,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Quizlet",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+sunsource+energy+quizlet&uds=AMIYvT_lkKnbnOScpdbWRrOpY0ztggDsG0RtzuoR6ycRM9kEy6gBRY-WGABCENUzs1WDR9Ive4t9KR3vdehpwUfURXRV421BWNpRLDe6ZxfXciLLGb0OMYw_utsDhuGkWl4drB6YdjBsUuJyjCX-0JYie4nRiJqRZL9xH9k211MwXr4ABnvcYPx0y1j0DW30ZdO8NazgGrkO&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQxKsJegQIDRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+sunsource+energy+quizlet"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "Pdf",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+sunsource+energy+pdf&uds=AMIYvT_3DSbN278DzcROGB59bZTh0ip_Ttl3x9fJbLaRNxIEVMDFTUitSRWYW-kkIUPcu6luPBWolEWnGnZr2v9KzxlwXMn-GxyxuZj8BLYjzwZFu8mwLi5rVWgv1NSLoNlzE_8BBJP9SkBIuWhRYcE_JJRqer0f-M7i7zLKZdfTD0IY_AMBvdw&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+sunsource+energy+pdf"
+            },
+            {
+                "position": 4,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&uds=AMIYvT_7IMujYkbrPLyV7rKhUOw7_aD2EmCKPc9oIUCWUvVwapsOb0i4eK-HDu0A1KHNVqPD3g4LK3s3QqaYdW11s36H0uT7dh6Ff9v4I0SGN13uJYfHnvOuMEIKZrO3GplK6JIV_GnQX7NC-5veDrJDDn_WKSCYc9omBjrsqSekUZWaXRiT-MZfU_I0ZlCS6ikQAcyvv9Yf&udm=4&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQs6gLegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ0pQJegQIRhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 6,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ0pQJegQISRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 8,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ0pQJegQIRxAB"
+            },
+            {
+                "position": 9,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+pricing+model+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What are the costs associated with solar energy source?",
+            "snippet": "Based on our survey of 1,000 homeowners with installed solar systems, solar panels cost between $15,000 and $20,000 per home. However, according to the Solar Energy Industries Association (SEIA), a residential solar system can cost upward of $25,000 per installation.",
+            "title": "How Much Do Solar Panels Cost? (2023 Guide) - MarketWatch",
+            "date": "Nov 16, 2023",
+            "link": "https://www.marketwatch.com/guides/solar/solar-panel-cost/#:~:text=Based%20on%20our%20survey%20of,upward%20of%20%2425%2C000%20per%20installation.",
+            "displayed_link": "https://www.marketwatch.com \u203a solar \u203a solar-panel-cost",
+            "source_logo": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/36f8295f9f405bddf2a08b0e84c86428bbe5612d66b3b9966fa9e1577111ef5a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgY29zdHMgYXNzb2NpYXRlZCB3aXRoIHNvbGFyIGVuZXJneSBzb3VyY2U/IiwibGsiOiJjdzNId1FtQVFBd0V3RDU4YlJYMnM4VEZIQndHa3NoaDk5Nzg1amlYczhFVTJnV0w2Z0tyd2daYkY5Wm9SOFZrUW9feV9uYmVOUDAiLCJicyI6ImMtT3k0VElQejBnc1VVZ3NTbFVveVVoVlNNNHZMaWxXU0N3dXprX09UQ3hKVFZFb3p5ekpVQ2pPejBrc1Vrak5TeTFLcndSeVNvdVNVLTBsYnNoeWlYTUpnWFZuRmlzRWwtWUZReVh1Mm5IcGNLbkRKRUNtUXJRbzVLZEJlS1Y1NnNWUTAtd2xEamh6eVhOSmVSYWpXbEthbDVPWm13bDBnTDNFTDNjQlJnQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgY29zdHMgYXNzb2NpYXRlZCB3aXRoIHNvbGFyIGVuZXJneSBzb3VyY2U%2FIiwibGsiOiJjdzNId1FtQVFBd0V3RDU4YlJYMnM4VEZIQndHa3NoaDk5Nzg1amlYczhFVTJnV0w2Z0tyd2daYkY5Wm9SOFZrUW9feV9uYmVOUDAiLCJicyI6ImMtT3k0VElQejBnc1VVZ3NTbFVveVVoVlNNNHZMaWxXU0N3dXprX09UQ3hKVFZFb3p5ekpVQ2pPejBrc1Vrak5TeTFLcndSeVNvdVNVLTBsYnNoeWlYTUpnWFZuRmlzRWwtWUZReVh1Mm5IcGNLbkRKRUNtUXJRbzVLZEJlS1Y1NnNWUTAtd2xEamh6eVhOSmVSYWpXbEthbDVPWm13bDBnTDNFTDNjQlJnQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is SunSource?",
+            "snippet": "SunSource develops, engineers, procures, constructs, and operates solar power projects to help institutional, industrial, commercial and non-profit sector energy users utilize solar energy more intelligently and efficiently while reducing their cost of energy.",
+            "title": "Renewable Energy Solution Provider - About SunSource Energy",
+            "link": "https://www.sunsource-energy.com/about-us#:~:text=SunSource%20develops%2C%20engineers%2C%20procures%2C,reducing%20their%20cost%20of%20energy.",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "source_logo": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/36f8295f9f405bddf2a08b0e84c86428c907e2dd04c5a5507762b2dbdc8cd1e5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZT8iLCJsayI6IkdoRjNhR0YwSUdseklITjFibk52ZFhKalpRIiwiYnMiOiJjLU95NFRJUHowZ3NVVWdzU2xVb3lVaFZTTTR2TGlsV1NDd3V6a19PVEN4SlRWRW96eXpKVUNqT3owa3NVa2pOU3kxS3J3UnlTb3VTVS0wbGJzaHlpWE1KZ1hWbkZpc0VsLVlGUXlYdTJuSHBjS25ESkVDbVFyUW81S2RCZUtWNTZzVlEwLXdsRGpoenlYTkplUmFqV2xLYWw1T1ptd2wwZ0wzRUwzY0JSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZT8iLCJsayI6IkdoRjNhR0YwSUdseklITjFibk52ZFhKalpRIiwiYnMiOiJjLU95NFRJUHowZ3NVVWdzU2xVb3lVaFZTTTR2TGlsV1NDd3V6a19PVEN4SlRWRW96eXpKVUNqT3owa3NVa2pOU3kxS3J3UnlTb3VTVS0wbGJzaHlpWE1KZ1hWbkZpc0VsLVlGUXlYdTJuSHBjS25ESkVDbVFyUW81S2RCZUtWNTZzVlEwLXdsRGpoenlYTkplUmFqV2xLYWw1T1ptd2wwZ0wzRUwzY0JSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "The source of energy of the Sun is due to the conversion of hydrogen to helium. Solar energy is created as a result of a process known as Nuclear Fusion, a chain reaction that takes place in the Sun.",
+            "title": "The source of energy of the Sun is due to? - BYJU'S",
+            "link": "https://byjus.com/ias-questions/the-source-of-energy-of-the-sun-is-due-to/#:~:text=is%20due%20to%3F-,The%20source%20of%20energy%20of%20the%20Sun%20is%20due%20to,takes%20place%20in%20the%20Sun.",
+            "displayed_link": "https://byjus.com \u203a ias-questions \u203a the-source-of-energy-...",
+            "source_logo": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/36f8295f9f405bddf2a08b0e84c86428f125960f8984c27f77a423b75041aa5d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzb3VyY2Ugb2YgdGhlIHN1bidzIGVuZXJneT8iLCJsayI6IkdoaHpkVzRnWm05eUlITnZkWEpqWlNCdlppQmxibVZ5WjNrIiwiYnMiOiJjLU95NFRJUHowZ3NVVWdzU2xVb3lVaFZTTTR2TGlsV1NDd3V6a19PVEN4SlRWRW96eXpKVUNqT3owa3NVa2pOU3kxS3J3UnlTb3VTVS0wbGJzaHlpWE1KZ1hWbkZpc0VsLVlGUXlYdTJuSHBjS25ESkVDbVFyUW81S2RCZUtWNTZzVlEwLXdsRGpoenlYTkplUmFqV2xLYWw1T1ptd2wwZ0wzRUwzY0JSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzb3VyY2Ugb2YgdGhlIHN1bidzIGVuZXJneT8iLCJsayI6IkdoaHpkVzRnWm05eUlITnZkWEpqWlNCdlppQmxibVZ5WjNrIiwiYnMiOiJjLU95NFRJUHowZ3NVVWdzU2xVb3lVaFZTTTR2TGlsV1NDd3V6a19PVEN4SlRWRW96eXpKVUNqT3owa3NVa2pOU3kxS3J3UnlTb3VTVS0wbGJzaHlpWE1KZ1hWbkZpc0VsLVlGUXlYdTJuSHBjS25ESkVDbVFyUW81S2RCZUtWNTZzVlEwLXdsRGpoenlYTkplUmFqV2xLYWw1T1ptd2wwZ0wzRUwzY0JSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Is solar energy unlimited?",
+            "snippet": "Yes, solar power is a renewable and infinite energy source that creates no harmful greenhouse gas emissions \u2013 as long as the sun continues to shine, energy will be released.",
+            "title": "How does solar power work? | Solar energy explained - National Grid",
+            "date": "May 16, 2023",
+            "link": "https://www.nationalgrid.com/stories/energy-explained/how-does-solar-power-work#:~:text=Yes%2C%20solar%20power%20is%20a,shine%2C%20energy%20will%20be%20released.",
+            "displayed_link": "https://www.nationalgrid.com \u203a stories \u203a how-does-solar-...",
+            "source_logo": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/36f8295f9f405bddf2a08b0e84c864283a7fb89f74ee3e5fef1772abdbf63edd.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJJcyBzb2xhciBlbmVyZ3kgdW5saW1pdGVkPyIsImxrIjoiR2hscGN5QnpiMnhoY2lCbGJtVnlaM2tnZFc1c2FXMXBkR1ZrIiwiYnMiOiJjLU95NFRJUHowZ3NVVWdzU2xVb3lVaFZTTTR2TGlsV1NDd3V6a19PVEN4SlRWRW96eXpKVUNqT3owa3NVa2pOU3kxS3J3UnlTb3VTVS0wbGJzaHlpWE1KZ1hWbkZpc0VsLVlGUXlYdTJuSHBjS25ESkVDbVFyUW81S2RCZUtWNTZzVlEwLXdsRGpoenlYTkplUmFqV2xLYWw1T1ptd2wwZ0wzRUwzY0JSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZuWkNkVmMxZFRGblV6Rm1PR2RtTFRaRU5Vc3pUbXBTZERKVmNsQnFMVXN3YW5oa09GQjVNMjlGZUU5Zk9IbG9kWFl5V0ZWSWIySldkek5xWkd0elJHdzJRMEpsRWhkTlJFOVNXbHBETVVaWlVGOXdkRkZRZUdWdGN6UkJheG9pUVVwM2F5MDRaRUZXV1dwRFVWOW5ORzVFUW01eFlXVk9jRE5PZFVKM1ltbzRadyIsImZjdiI6IjMiLCJlaSI6Ik1ET1JaWkMxRllQX3B0UVB4ZW1zNEFrIiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUTTdNUzFmSXpVOUp6VkhJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVXZwcHRZQThBIiwicXVlc3Rpb24iOiJJcyBzb2xhciBlbmVyZ3kgdW5saW1pdGVkPyIsImxrIjoiR2hscGN5QnpiMnhoY2lCbGJtVnlaM2tnZFc1c2FXMXBkR1ZrIiwiYnMiOiJjLU95NFRJUHowZ3NVVWdzU2xVb3lVaFZTTTR2TGlsV1NDd3V6a19PVEN4SlRWRW96eXpKVUNqT3owa3NVa2pOU3kxS3J3UnlTb3VTVS0wbGJzaHlpWE1KZ1hWbkZpc0VsLVlGUXlYdTJuSHBjS25ESkVDbVFyUW81S2RCZUtWNTZzVlEwLXdsRGpoenlYTkplUmFqV2xLYWw1T1ptd2wwZ0wzRUwzY0JSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECBYQAQ",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e8559299fcff46c6ea4a2f4cfd8b3bb74.png",
+            "snippet": "SunSource Energy is a leading solar company in India, providing Solar energy solutions to corporations and industries. Partner with us for reliable solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "Sun Source Energy",
+            "link": "https://sunsourceusa.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunsourceusa.com/&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECA8QAQ",
+            "displayed_link": "https://sunsourceusa.com",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e74bd0fc07fb66aec6031594cb054af67.png",
+            "snippet": "$0 Down. Solar panel contractors with a cost-conscious strategy, we take care of all of the extra costs associated with engineering, permitting, and installing ...",
+            "snippet_highlighted_words": [
+                "Solar",
+                "cost",
+                "strategy"
+            ],
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 3,
+            "title": "Sustainable Energy Solutions FAQs",
+            "link": "https://www.sunsource-energy.com/faqs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/faqs&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECBQQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a faqs",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289eadccb6b1f370b0efa320b04cf5b6102c.png",
+            "snippet": "Get answers to frequently asked questions about our sustainable energy solutions. SunSource Energy, a top solar company, provides insights into clean energy ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "SunSource\u00ae Home Energy System",
+            "link": "https://www.lennox.com/lib/legacy-res/pdfs/brochures/sunsource_home_energy_system.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lennox.com/lib/legacy-res/pdfs/brochures/sunsource_home_energy_system.pdf&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECBcQAQ",
+            "displayed_link": "https://www.lennox.com \u203a lib \u203a pdfs \u203a brochures",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e6c1c41a6b0b29a7229f698cf4a562eb9.png",
+            "date": "8 pages",
+            "snippet": "* Equipment cost-savings estimates are based on the U.S. Department of Energy (DOE) annual performance factor (APF) method for heat pumps (10CFR part 430).",
+            "snippet_highlighted_words": [
+                "cost",
+                "Energy"
+            ],
+            "source": "Lennox"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy: The Growth Conundrum",
+            "link": "https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECBsQAQ",
+            "displayed_link": "https://www.iveypublishing.ca \u203a product \u203a sunsource...",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e85d697c6bb06be7983874a2f84b193fa.png",
+            "date": "Jun 29, 2022",
+            "snippet": "In 2021, SunSource Energy was evaluating its growth strategy options. An entrepreneurial venture in the renewable energy sector, ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "strategy"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "ca": 9.25
+                    },
+                    "extensions": [
+                        "CA$9.25"
+                    ]
+                }
+            },
+            "source": "Ivey Publishing"
+        },
+        {
+            "position": 6,
+            "title": "SunSource | Home",
+            "link": "https://www.sun-source.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sun-source.com/&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECDcQAQ",
+            "displayed_link": "https://www.sun-source.com",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e36309b6758de061734e29107602e3c31.png",
+            "snippet": "THE SUNSOURCE FAMILY OF COMPANIES\u200b\u200b Over time, we have grown our capabilities with complimentary products and services to better serve the needs of our customers.",
+            "snippet_highlighted_words": [
+                "SUNSOURCE",
+                "COMPANIES"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy - Products, Competitors, Financials ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbinsights.com/company/sunsource-energy&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECDgQAQ",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a sunsource-e...",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289ef80e3ed2dc67b42b6063a76e1e32f00e.png",
+            "snippet": "Trusted by the world's smartest companies to: Predict emerging trends; See competitors' playbooks; Stalk the smart money; Identify tomorrow's challengers; Spot ...",
+            "snippet_highlighted_words": [
+                "companies"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy Stock Price, Funding, Valuation, ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy/financials",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbinsights.com/company/sunsource-energy/financials&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECDsQAQ",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a financials",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e578b017c2bac2e23b9bd29b4b26fb389.png",
+            "snippet": "See SunSource Energy funding rounds, investors, investments, exits and more. Evaluate their financials based on SunSource Energy's post-money valuation and ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "SunSource Energy's"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 9,
+            "title": "Started in a living room, this solar energy company now ...",
+            "link": "https://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://yourstory.com/2020/03/solar-energy-provider-sunsource-energy&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECEAQAQ",
+            "displayed_link": "https://yourstory.com \u203a 2020/03 \u203a solar-energy-prov...",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e9e23d2b01165948f3973e694f5794931.jpeg",
+            "date": "Mar 18, 2020",
+            "snippet": "In the other model, SunSource develops the project and transfers it to the customer at a fixed price, and lump-sum, Engineering Procurement and ...",
+            "snippet_highlighted_words": [
+                "customer at a fixed price"
+            ],
+            "source": "Yourstory"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy",
+            "link": "https://tw.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tw.linkedin.com/company/sunsource-energy&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQFnoECEIQAQ",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/6591332f8e02e438c394de43/images/32fb5d66b2db9d85e0d90a2812a4289e797d50d0d56b4a659539ee1a1aa3c34d.png",
+            "snippet": "The firm offers customized solar power solutions to clients through innovative business models for on-site and off-site PPAs (Power Purchase ...",
+            "snippet_highlighted_words": [
+                "firm",
+                "solar power",
+                "business models for",
+                "Power"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the pricing model of the company sunsource energy pdf",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+sunsource+energy+pdf&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+sunsource+energy+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "What is the pricing model of the company sunsource energy quizlet",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+pricing+model+of+the+company+sunsource+energy+quizlet&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+sunsource+energy+quizlet"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+share+price&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy careers",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+energy+careers&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+energy+careers"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd name change",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=sun+source+(india)+ltd+name+change&sa=X&ved=2ahUKEwiQjdKarbmDAxWDv4kEHcU0C5wQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+name+change"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&oq=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&oq=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&oq=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&oq=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&oq=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+pricing+model+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

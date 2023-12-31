@@ -1,0 +1,355 @@
+{
+    "search_metadata": {
+        "id": "65912be7c504e9762dc8d862",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1d5169f46051e0e7/65912be7c504e9762dc8d862.json",
+        "created_at": "2023-12-31 08:52:55 UTC",
+        "processed_at": "2023-12-31 08:52:55 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&oq=What+is+the+official+website+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/1d5169f46051e0e7/65912be7c504e9762dc8d862.html",
+        "total_time_taken": 2.53
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the official website of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the official website of the company SunSource Energy?",
+        "total_results": 146000,
+        "time_taken_displayed": 0.32,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&uds=AMIYvT9sZ3ekjlirTOEdqX9A2K4zp86GlS7VRzHCXBfOSQ01LFxfq2CoT8R0-Yc4tNU6dt3c8spbFOhvoo_K-6tqKfBwmzr6ipYFIr84JeRQ_i3kmZmmS-WSuMRDuH78J36QiP2fQEy4YVj2A0cMukYejwrmMqqbl_6_5pW5TL6o0CaYeoFMNjI_Ac5Sx08J1p9AKpYAR3aB&udm=4&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQs6gLegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 4,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ0pQJegQITxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ0pQJegQIThAB"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=603f569221128b1e&output=search&q=What+is+the+official+website+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=603f569221128b1e&output=search&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sca_esv=603f569221128b1e&output=search&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&source=lnms&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ0pQJegQISxAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/467359cbfc27e924ab8418056683dc552ef8df7d8ac0f8b5203654bfb13d864a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOWmNkbEdaNlJXQUpUbnBxYm1KbWprSm1DVGIxQ1FWRm1XV0pKcWtKT1ptNW1TV3FLdmNReEV5NndiUWo5eFJBTlFOMWdYbW1lZWpIY3RnUE9YUEpjVXA3RlFFVTVpVVV3UTB2ejRNYjljaGRnQkFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOWmNkbEdaNlJXQUpUbnBxYm1KbWprSm1DVGIxQ1FWRm1XV0pKcWtKT1ptNW1TV3FLdmNReEV5NndiUWo5eFJBTlFOMWdYbW1lZWpIY3RnUE9YUEpjVXA3RlFFVTVpVVV3UTB2ejRNYjljaGRnQkFBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is the email id of SunSource energy private limited?",
+            "snippet": "Sunsource Energy Private Limited's Corporate Identification Number is (CIN) U74900UP2010PTC039281 and its registration number is 39281. Its Email address is compliance@sunsource-energy.com and its registered address is E-134 SITE EPIP GREATER NOIDA Gautam Buddha Nagar UP 201308 IN.",
+            "title": "SUNSOURCE ENERGY PRIVATE LIMITED - Zauba Corp",
+            "link": "https://www.zaubacorp.com/company/SunSource-Energy-Private-Limited/U74900UP2010PTC039281#:~:text=Sunsource%20Energy%20Private%20Limited's%20Corporate,Buddha%20Nagar%20UP%20201308%20IN.",
+            "displayed_link": "https://www.zaubacorp.com \u203a company \u203a SunSource-En...",
+            "source_logo": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/467359cbfc27e924ab8418056683dc55713348df95d0a9edfb09edee75dc2343.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGVtYWlsIGlkIG9mIFN1blNvdXJjZSBlbmVyZ3kgcHJpdmF0ZSBsaW1pdGVkPyIsImxrIjoiR2lsemRXNXpiM1Z5WTJVZ1pXNWxjbWQ1SUhCeWFYWmhkR1VnYkdsdGFYUmxaQ0JsYldGcGJDQnBaQSIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWpMTDgxTFNTMVN5RTlUQ0M3TkM4NHZMVXBPVlVqTlN5MUtyN1NYdU1iTlpjZGxHWjZSV0FKVG5wcWJtSm1qa0ptQ1RiMUNRVkZtV1dKSnFrSk9abTVtU1dxS3ZjUXhFeTZ3YlFqOXhSQU5RTjFnWG1tZWVqSGN0Z1BPWFBKY1VwN0ZRRVU1aVVVd1Ewdno0TWI5Y2hkZ0JBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGVtYWlsIGlkIG9mIFN1blNvdXJjZSBlbmVyZ3kgcHJpdmF0ZSBsaW1pdGVkPyIsImxrIjoiR2lsemRXNXpiM1Z5WTJVZ1pXNWxjbWQ1SUhCeWFYWmhkR1VnYkdsdGFYUmxaQ0JsYldGcGJDQnBaQSIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWpMTDgxTFNTMVN5RTlUQ0M3TkM4NHZMVXBPVlVqTlN5MUtyN1NYdU1iTlpjZGxHWjZSV0FKVG5wcWJtSm1qa0ptQ1RiMUNRVkZtV1dKSnFrSk9abTVtU1dxS3ZjUXhFeTZ3YlFqOXhSQU5RTjFnWG1tZWVqSGN0Z1BPWFBKY1VwN0ZRRVU1aVVVd1Ewdno0TWI5Y2hkZ0JBQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "The source of energy of the Sun is due to the conversion of hydrogen to helium. Solar energy is created as a result of a process known as Nuclear Fusion, a chain reaction that takes place in the Sun.",
+            "title": "The source of energy of the Sun is due to? - BYJU'S",
+            "link": "https://byjus.com/ias-questions/the-source-of-energy-of-the-sun-is-due-to/#:~:text=is%20due%20to%3F-,The%20source%20of%20energy%20of%20the%20Sun%20is%20due%20to,takes%20place%20in%20the%20Sun.",
+            "displayed_link": "https://byjus.com \u203a ias-questions \u203a the-source-of-energy-...",
+            "source_logo": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/467359cbfc27e924ab8418056683dc559deada055edba4545a09c25ceebacfa2.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNvdXJjZSBvZiB0aGUgc3VuJ3MgZW5lcmd5PyIsImxrIjoiR2hoemRXNGdabTl5SUhOdmRYSmpaU0J2WmlCbGJtVnlaM2siLCJicyI6ImMtUFM0VklQejhoWHlDeFdLTWxJVlVqTEw4MUxTUzFTeUU5VENDN05DODR2TFVwT1ZVak5TeTFLcjdTWHVNYk5aY2RsR1o2UldBSlRucHFibUptamtKbUNUYjFDUVZGbVdXSkpxa0pPWm01bVNXcUt2Y1F4RXk2d2JRajl4UkFOUU4xZ1htbWVlakhjdGdQT1hQSmNVcDdGUUVVNWlVVXdRMHZ6NE1iOWNoZGdCQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNvdXJjZSBvZiB0aGUgc3VuJ3MgZW5lcmd5PyIsImxrIjoiR2hoemRXNGdabTl5SUhOdmRYSmpaU0J2WmlCbGJtVnlaM2siLCJicyI6ImMtUFM0VklQejhoWHlDeFdLTWxJVlVqTEw4MUxTUzFTeUU5VENDN05DODR2TFVwT1ZVak5TeTFLcjdTWHVNYk5aY2RsR1o2UldBSlRucHFibUptamtKbUNUYjFDUVZGbVdXSkpxa0pPWm01bVNXcUt2Y1F4RXk2d2JRajl4UkFOUU4xZ1htbWVlakhjdGdQT1hQSmNVcDdGUUVVNWlVVXdRMHZ6NE1iOWNoZGdCQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Is solar energy unlimited?",
+            "snippet": "Yes, solar power is a renewable and infinite energy source that creates no harmful greenhouse gas emissions \u2013 as long as the sun continues to shine, energy will be released.",
+            "title": "How does solar power work? | Solar energy explained - National Grid",
+            "date": "May 16, 2023",
+            "link": "https://www.nationalgrid.com/stories/energy-explained/how-does-solar-power-work#:~:text=Yes%2C%20solar%20power%20is%20a,shine%2C%20energy%20will%20be%20released.",
+            "displayed_link": "https://www.nationalgrid.com \u203a stories \u203a how-does-solar-...",
+            "source_logo": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/467359cbfc27e924ab8418056683dc555b1d0fefc951b84a30e09e01d41f179f.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IklzIHNvbGFyIGVuZXJneSB1bmxpbWl0ZWQ/IiwibGsiOiJHaGxwY3lCemIyeGhjaUJsYm1WeVoza2dkVzVzYVcxcGRHVmsiLCJicyI6ImMtUFM0VklQejhoWHlDeFdLTWxJVlVqTEw4MUxTUzFTeUU5VENDN05DODR2TFVwT1ZVak5TeTFLcjdTWHVNYk5aY2RsR1o2UldBSlRucHFibUptamtKbUNUYjFDUVZGbVdXSkpxa0pPWm01bVNXcUt2Y1F4RXk2d2JRajl4UkFOUU4xZ1htbWVlakhjdGdQT1hQSmNVcDdGUUVVNWlVVXdRMHZ6NE1iOWNoZGdCQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWU5UQXRla3hLU1ZoMFZsUkNhM2h6ZUc5NmNFcEtNRzltVTNKVlptSTVlWGxITUc1T1VYbDJaVjlCTUdRNU5rVkRhazEzVlVwRUxYUmtiMUZ2UjJSWlFrMXNTbXhHRWhjMlEzVlNXbVZMUmtSTGVXWnJkbEZRZEV3dGFIVkJVUm9pUVVwM2F5MDRaVWw1WDJKWFZFTndMV1ZwTlZRM2FGbFlVR3RXVmxwWk1GQkhadyIsImZjdiI6IjMiLCJlaSI6IjZDdVJaZUtGREt5Zmt2UVB0TC1odUFRIiwicWMiOiJjLU95S2M5SUxGSElMRllveVVoVnlFOUx5MHpPVE14UktFOU5LczRzQVFtQXhaUHpjd3NTOHlvVmlrdnppdk5MaTVKVEZWTHpVb3ZTS3dVWWFsX05OckFIQUEiLCJxdWVzdGlvbiI6IklzIHNvbGFyIGVuZXJneSB1bmxpbWl0ZWQ%2FIiwibGsiOiJHaGxwY3lCemIyeGhjaUJsYm1WeVoza2dkVzVzYVcxcGRHVmsiLCJicyI6ImMtUFM0VklQejhoWHlDeFdLTWxJVlVqTEw4MUxTUzFTeUU5VENDN05DODR2TFVwT1ZVak5TeTFLcjdTWHVNYk5aY2RsR1o2UldBSlRucHFibUptamtKbUNUYjFDUVZGbVdXSkpxa0pPWm01bVNXcUt2Y1F4RXk2d2JRajl4UkFOUU4xZ1htbWVlakhjdGdQT1hQSmNVcDdGUUVVNWlVVXdRMHZ6NE1iOWNoZGdCQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f63e238813d0a8139967cccecceb2fd1348.png",
+            "snippet": "SunSource Energy is a leading solar company in India, providing Solar energy solutions to corporations and industries. Partner with us for reliable solar ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "company"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Contact",
+                        "link": "https://www.sunsource-energy.com/contact-us"
+                    },
+                    {
+                        "title": "Career",
+                        "link": "https://www.sunsource-energy.com/careers"
+                    },
+                    {
+                        "title": "About",
+                        "link": "https://www.sunsource-energy.com/about-us"
+                    },
+                    {
+                        "title": "Our Leadership",
+                        "link": "https://www.sunsource-energy.com/team"
+                    }
+                ]
+            },
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/about-us",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f63182eb75eac25d7b661f45e6bc11dcb9f.png",
+            "snippet": "SunSource Energy is part of SHV Energy ... SHV Energy is a leading global distributor of off-grid energy with 30 million customers across 4 continents. It is a ...",
+            "snippet_highlighted_words": [
+                "SHV Energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "Sun Source Energy",
+            "link": "https://sunsourceusa.com/",
+            "redirect_link": "https://www.google.comhttps://sunsourceusa.com/",
+            "displayed_link": "https://sunsourceusa.com",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f63f61f1f6719972d9429f8a20f756df013.png",
+            "snippet": "This makes us one of the best options for your Nevada solar energy company. ... Website by Brad Hogan.",
+            "snippet_highlighted_words": [
+                "solar energy company",
+                "Website"
+            ],
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 4,
+            "title": "Sun Source Energy Products | Solar Energy Supplier And ...",
+            "link": "https://www.sunsourceproducts.com/",
+            "redirect_link": "https://www.google.comhttps://www.sunsourceproducts.com/",
+            "displayed_link": "https://www.sunsourceproducts.com",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f6371f6a197eff8d1b88e0286d3bd36201d.png",
+            "snippet": "Sun Source Energy Products is the largest and most experienced solar energy supplier in the Northeast. With over 35 years of experience, we are the most ...",
+            "snippet_highlighted_words": [
+                "Sun Source Energy"
+            ],
+            "source": "Sun Source Energy Products"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource-energy",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f633609afc988bc8c0acb5abbd8c6248fb8.png",
+            "snippet": "SunSource Energy is a leading provider of solar-based energy and storage solutions to commercial, industrial and institutional customers.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy | Noida",
+            "link": "https://www.facebook.com/sunsourceenergy/",
+            "redirect_link": "https://www.google.comhttps://www.facebook.com/sunsourceenergy/",
+            "displayed_link": "5.6K+ followers",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f63d5c2eb849ebe818ffa899bf4ca77765f.png",
+            "snippet": "We are a subsidiary of SHV Energy, a 125-year-old Dutch multinational. We are scouting for a seasoned professional to be based out of our corporate office in ...",
+            "snippet_highlighted_words": [
+                "Energy",
+                "corporate"
+            ],
+            "missing": [
+                "website"
+            ],
+            "must_include": {
+                "word": "website",
+                "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=What+is+the+official+%22website%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ5t4CegQIPhAB"
+            },
+            "source": "Facebook \u00b7 SunSource Energy"
+        },
+        {
+            "position": 7,
+            "title": "SunSource | Home",
+            "link": "https://www.sun-source.com/",
+            "redirect_link": "https://www.google.comhttps://www.sun-source.com/",
+            "displayed_link": "https://www.sun-source.com",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f63995b9acf015a7b8f9c1c2ed74d6259ac.png",
+            "snippet": "Over time, our business has evolved beyond Fluid Power and we've expanded our offering to provide customers with solutions in Fluid Process, Fluid ...",
+            "snippet_highlighted_words": [
+                "business",
+                "Power"
+            ],
+            "source": "Sun-Source"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy Company Profile: Valuation, Investors ...",
+            "link": "https://pitchbook.com/profiles/company/227498-68",
+            "redirect_link": "https://www.google.comhttps://pitchbook.com/profiles/company/227498-68",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f63e96107f78f4cdad0a9d5804822dbb117.png",
+            "snippet": "Information on acquisition, funding, investors, and executives for SunSource Energy. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy - Overview, News & Competitors",
+            "link": "https://www.zoominfo.com/c/sunsource-energy/346888233",
+            "redirect_link": "https://www.google.comhttps://www.zoominfo.com/c/sunsource-energy/346888233",
+            "displayed_link": "https://www.zoominfo.com \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f634251c1ec4e8d3be8b65575e0216df3bc.png",
+            "snippet": "SunSource Energy's phone number is (908) 455-8344 What is SunSource Energy's official website? SunSource Energy's official website is www.sunsource-energy.com ...",
+            "snippet_highlighted_words": [
+                "www.sunsource-energy.com"
+            ],
+            "source": "Zoominfo"
+        },
+        {
+            "position": 10,
+            "title": "SunSource",
+            "link": "https://www.linkedin.com/company/sunsource",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource",
+            "displayed_link": "10K+ followers",
+            "favicon": "https://serpapi.com/searches/65912be7c504e9762dc8d862/images/2b9546f8a408b5e87573327f5e862f6310f569fb6f7cc8f17266470b4ea94298.png",
+            "snippet": "SunSource, a leader in industrial and mobile fluid power distribution for over 85 years, provides customers with innovative solutions that help reduce ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "power"
+            ],
+            "source": "LinkedIn \u00b7 SunSource"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy careers",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=Sunsource+energy+careers&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+energy+careers"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy share price",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=Sunsource+Energy+share+price&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd share price",
+            "link": "https://www.google.com/search?sca_esv=603f569221128b1e&q=sun+source+(india)+ltd+share+price&sa=X&ved=2ahUKEwjimd-hprmDAxWsj4QIHbRfCEcQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+share+price"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&oq=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&oq=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&oq=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&oq=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&oq=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+official+website+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

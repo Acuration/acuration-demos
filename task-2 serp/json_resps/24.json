@@ -1,0 +1,328 @@
+{
+    "search_metadata": {
+        "id": "6591334fd5a531db65c7d39b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/832eafa1ccc15ee2/6591334fd5a531db65c7d39b.json",
+        "created_at": "2023-12-31 09:24:31 UTC",
+        "processed_at": "2023-12-31 09:24:31 UTC",
+        "google_url": "https://www.google.com/search?q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&oq=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/832eafa1ccc15ee2/6591334fd5a531db65c7d39b.html",
+        "total_time_taken": 2.29
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Does the company SunSource Energy have any collaborations or partnerships?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Does the company SunSource Energy have any collaborations or partnerships?",
+        "total_results": 366000,
+        "time_taken_displayed": 0.37,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&uds=AMIYvT849gkNPhBNsRP2zoVvFLpOMn0S_lg--YuyLxlF8gYAgp-Dij-9I5xpKkLXQo7gIUhH906tQj8OHXpnVFxTmc9Kd9NeDjHHEhtV50YcAqmuWawuXEbIkUaJ2WYnR_jZIZvyekQK2j1oM2-5nIE-Nj5VgeVpGpPaDTrGggN61v1JZgq84mhsSg96xJQ-tW9MtB1TVLahLV1uVXK-h9NQuXXC2LI5Cw&udm=4&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Qs6gLegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F"
+            },
+            {
+                "position": 4,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+sunsource+energy+have+any+collaborations+or+partnerships+qui&uds=AMIYvT8tiVvkfgyP1HBeH0w73TypipkvS7PQSgrh9JEoJV6eoGoMVtlJzeg7idBYiuHIDTGDLqedkfsLoV8qXwTw9YUoCknvfek8H43_X5YBzYfI7WollLUzju3JlvsJENyKho3YDn6Z3r8burJIsLcVfkdIbvKD_dHz0lroCcJouvs_qkKDnW8D6i10gcAdt6UeheaDo5a6&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QxKsJegQIChAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+sunsource+energy+have+any+collaborations+or+partnerships+qui"
+            },
+            {
+                "position": 5,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F"
+            },
+            {
+                "position": 6,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q0pQJegQITRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q0pQJegQITxAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "How long has solar energy partners been in business?",
+            "snippet": "About Us. With 20 years of solar experience, Solar Energy Partners was founded by Alex Williams, Clint Williams, and Dave Madrid in the spring of 2017.",
+            "title": "20 years",
+            "link": "https://solarenergy.partners/about/#:~:text=About%20Us,in%20the%20spring%20of%202017.",
+            "displayed_link": "https://solarenergy.partners \u203a about",
+            "source_logo": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/ec4add3b1ac6fc7446f408c4adfec1c859380e897ea9b81e4065e4526bbabb90.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiSG93IGxvbmcgaGFzIHNvbGFyIGVuZXJneSBwYXJ0bmVycyBiZWVuIGluIGJ1c2luZXNzPyIsImxrIjoiR2pOb2IzY2diRzl1WnlCb1lYTWdjMjlzWVhJZ1pXNWxjbWQ1SUhCaGNuUnVaWEp6SUdKbFpXNGdhVzRnWW5WemFXNWxjM00iLCJicyI6ImMwWE9NUTdDTUF3RlVMR2FoYkVUTWd0ZEdGbVl1ckozWUU2cG0wU3FiQlFuUXBXWXVBX1g0VHcwQ29YTmx0X19NcHpnZUpZN2pzSVduVkZVR1UxQVlncDJ3cHNKY1o0VU95Skd6OWdsOVV5cVRmWGN3Z0hxaXpNUnZXSjBOQ2RUdUJMS1VMYkV0WDU3bXVyOUtGb1dQRWppbmtMV2JlSzJSSDk2RFh2WTViZDZJVjNxME9hN2lYXzNtamFyRHciLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiSG93IGxvbmcgaGFzIHNvbGFyIGVuZXJneSBwYXJ0bmVycyBiZWVuIGluIGJ1c2luZXNzPyIsImxrIjoiR2pOb2IzY2diRzl1WnlCb1lYTWdjMjlzWVhJZ1pXNWxjbWQ1SUhCaGNuUnVaWEp6SUdKbFpXNGdhVzRnWW5WemFXNWxjM00iLCJicyI6ImMwWE9NUTdDTUF3RlVMR2FoYkVUTWd0ZEdGbVl1ckozWUU2cG0wU3FiQlFuUXBXWXVBX1g0VHcwQ29YTmx0X19NcHpnZUpZN2pzSVduVkZVR1UxQVlncDJ3cHNKY1o0VU95Skd6OWdsOVV5cVRmWGN3Z0hxaXpNUnZXSjBOQ2RUdUJMS1VMYkV0WDU3bXVyOUtGb1dQRWppbmtMV2JlSzJSSDk2RFh2WTViZDZJVjNxME9hN2lYXzNtamFyRHciLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "Energy is all around us and comes from many sources. One of the most important sources of energy is the sun. The energy of the sun is the original source of most of the energy found on earth. We get solar heat energy from the sun, and sunlight can also be used to produce electricity from solar (photovoltaic) cells.",
+            "title": "Energy and Time",
+            "link": "https://www.dnr.louisiana.gov/assets/TAD/education/ECEP/sources/a/a.htm#:~:text=Energy%20is%20all%20around%20us,from%20solar%20(photovoltaic)%20cells.",
+            "displayed_link": "https://www.dnr.louisiana.gov \u203a ECEP \u203a sources \u203a a.htm",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQC2-cRcxlvFpYWQXooSjiBjyahbAT_cXiNqGn8wkOLw&s",
+            "source_logo": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/ec4add3b1ac6fc7446f408c4adfec1c811930c25f4403870c88178b8ea6093aa.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc291cmNlIG9mIHRoZSBzdW4ncyBlbmVyZ3k/IiwibGsiOiJHaGR6ZFc0Z1lYTWdjMjkxY21ObElHOW1JR1Z1WlhKbmVRIiwiYnMiOiJjMFhPTVE3Q01Bd0ZVTEdhaGJFVE1ndGRHRm1ZdXJKM1lFNnBtMFNxYkJRblFwV1l1QV9YNFR3MENvWE5sdF9fTXB6Z2VKWTdqc0lXblZGVUdVMUFZZ3Ayd3BzSmNaNFVPeUpHejlnbDlVeXFUZlhjd2dIcWl6TVJ2V0owTkNkVHVCTEtVTGJFdFg1N211cjlLRm9XUEVqaW5rTFdiZUsyUkg5NkRYdlk1YmQ2SVYzcTBPYTdpWF8zbWphckR3IiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc291cmNlIG9mIHRoZSBzdW4ncyBlbmVyZ3k%2FIiwibGsiOiJHaGR6ZFc0Z1lYTWdjMjkxY21ObElHOW1JR1Z1WlhKbmVRIiwiYnMiOiJjMFhPTVE3Q01Bd0ZVTEdhaGJFVE1ndGRHRm1ZdXJKM1lFNnBtMFNxYkJRblFwV1l1QV9YNFR3MENvWE5sdF9fTXB6Z2VKWTdqc0lXblZGVUdVMUFZZ3Ayd3BzSmNaNFVPeUpHejlnbDlVeXFUZlhjd2dIcWl6TVJ2V0owTkNkVHVCTEtVTGJFdFg1N211cjlLRm9XUEVqaW5rTFdiZUsyUkg5NkRYdlk1YmQ2SVYzcTBPYTdpWF8zbWphckR3IiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/ec4add3b1ac6fc7446f408c4adfec1c865bd4093f29c6f729fef0bc275a64573.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZSBlbmVyZ3k/IiwibGsiOiJHaHRtYjNWdVpHVnlJRzltSUhOMWJuTnZkWEpqWlNCbGJtVnlaM2siLCJicyI6ImMwWE9NUTdDTUF3RlVMR2FoYkVUTWd0ZEdGbVl1ckozWUU2cG0wU3FiQlFuUXBXWXVBX1g0VHcwQ29YTmx0X19NcHpnZUpZN2pzSVduVkZVR1UxQVlncDJ3cHNKY1o0VU95Skd6OWdsOVV5cVRmWGN3Z0hxaXpNUnZXSjBOQ2RUdUJMS1VMYkV0WDU3bXVyOUtGb1dQRWppbmtMV2JlSzJSSDk2RFh2WTViZDZJVjNxME9hN2lYXzNtamFyRHciLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZSBlbmVyZ3k%2FIiwibGsiOiJHaHRtYjNWdVpHVnlJRzltSUhOMWJuTnZkWEpqWlNCbGJtVnlaM2siLCJicyI6ImMwWE9NUTdDTUF3RlVMR2FoYkVUTWd0ZEdGbVl1ckozWUU2cG0wU3FiQlFuUXBXWXVBX1g0VHcwQ29YTmx0X19NcHpnZUpZN2pzSVduVkZVR1UxQVlncDJ3cHNKY1o0VU95Skd6OWdsOVV5cVRmWGN3Z0hxaXpNUnZXSjBOQ2RUdUJMS1VMYkV0WDU3bXVyOUtGb1dQRWppbmtMV2JlSzJSSDk2RFh2WTViZDZJVjNxME9hN2lYXzNtamFyRHciLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "How does the sun generate energy?",
+            "snippet": "Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom. This process, known as a PP (proton-proton) chain reaction, emits an enormous amount of energy.",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=by%20the%20sun.-,Solar%20energy%20is%20created%20by%20nuclear%20fusion%20that%20takes%20place,an%20enormous%20amount%20of%20energy.",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "source_logo": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/ec4add3b1ac6fc7446f408c4adfec1c806ea99cc08c5a10784b34c135502a137.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiSG93IGRvZXMgdGhlIHN1biBnZW5lcmF0ZSBlbmVyZ3k/IiwibGsiOiJjNU5TeU1ndlYwakpUeTFXS01sSVZTZ3V6Vk5JVDgxTExVb3NTVlVBMGVtVkFBIiwiYnMiOiJjMFhPTVE3Q01Bd0ZVTEdhaGJFVE1ndGRHRm1ZdXJKM1lFNnBtMFNxYkJRblFwV1l1QV9YNFR3MENvWE5sdF9fTXB6Z2VKWTdqc0lXblZGVUdVMUFZZ3Ayd3BzSmNaNFVPeUpHejlnbDlVeXFUZlhjd2dIcWl6TVJ2V0owTkNkVHVCTEtVTGJFdFg1N211cjlLRm9XUEVqaW5rTFdiZUsyUkg5NkRYdlk1YmQ2SVYzcTBPYTdpWF8zbWphckR3IiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWVoyeERVMTlCZWxoeVlWOXZiV1ZuUldKWlJ6Tk5NWEpWUVdOa2FHeFBSVU5CWVV0M1ZrNWxRMHhGWm1sb1oyaHlRbkpCTjBOMGIwUk9Tbk55UjJ4S1ZIVkVOMDV1RWhkVlZFOVNXbGxJTjBWTVIwdHdkRkZRY205TE5qWkJieG9pUVVwM2F5MDRZMXBXZVZJd1pFOTNTbXRaVFZWNVRVdFVkMWhXWDJoWmNucDJkdyIsImZjdiI6IjMiLCJlaSI6IlVUT1JaWUg3RUxHS3B0UVByb0s2NkFvIiwicWMiOiJjLVB5VE1sUExWWW95VWhWU003UExVak1xMVFvTHMwcnppOHRTazVWU00xTExVcXZWTWhJTEV0VkFNa2s1LWZrSkNibEZ5V1daT2JuRlN2a0Z5a1VKQmFWQUJVVloyUVdGQXN3MUw2YWJXQVBBQSIsInF1ZXN0aW9uIjoiSG93IGRvZXMgdGhlIHN1biBnZW5lcmF0ZSBlbmVyZ3k%2FIiwibGsiOiJjNU5TeU1ndlYwakpUeTFXS01sSVZTZ3V6Vk5JVDgxTExVb3NTVlVBMGVtVkFBIiwiYnMiOiJjMFhPTVE3Q01Bd0ZVTEdhaGJFVE1ndGRHRm1ZdXJKM1lFNnBtMFNxYkJRblFwV1l1QV9YNFR3MENvWE5sdF9fTXB6Z2VKWTdqc0lXblZGVUdVMUFZZ3Ayd3BzSmNaNFVPeUpHejlnbDlVeXFUZlhjd2dIcWl6TVJ2V0owTkNkVHVCTEtVTGJFdFg1N211cjlLRm9XUEVqaW5rTFdiZUsyUkg5NkRYdlk1YmQ2SVYzcTBPYTdpWF8zbWphckR3IiwiaWQiOiJmY18xIn0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Empowering Reno with SunPower: A Sun Source Energy Partnership",
+            "link": "https://sunsourceusa.com/empowering-reno-with-sunpower-a-sun-source-energy-partnership/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunsourceusa.com/empowering-reno-with-sunpower-a-sun-source-energy-partnership/&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECBAQAQ",
+            "displayed_link": "https://sunsourceusa.com \u203a empowering-reno-with-sun...",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fb76e1e24796a1fd9702b203e233406f4f.png",
+            "snippet": "SunPower, a leading provider of solar power solutions, has established a strong partnership with Sun Source Energy, a fully integrated solar company based in ...",
+            "snippet_highlighted_words": [
+                "strong partnership"
+            ],
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy Secures Project Financing from ...",
+            "link": "https://www.sunsource-energy.com/sunsource-energy-secures-project-financing-sunfunder",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/sunsource-energy-secures-project-financing-sunfunder&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECBMQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a sunsource-energ...",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fb1fc75efbd7b79067b1a03f557338d1fe.png",
+            "snippet": "SunSource Energy, has entered into a Project Financing agreement with SunFunder \u2013 an international solar finance company.",
+            "snippet_highlighted_words": [
+                "SunFunder"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/sunsource-energy&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECBUQAQ",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fbcf9de148d4654a10cb11825eab386479.png",
+            "snippet": "Today, SunSource Energy has developed a portfolio of over 400 MWs* of Solar Power projects and is the preferred partner for over 150 Commercial ...",
+            "snippet_highlighted_words": [
+                "preferred partner"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy's Post",
+            "link": "https://www.linkedin.com/posts/sunsource-energy_cii-sunsourceenergy-renewableenergy-activity-7133377754296725505-dSva?trk=public_profile_like_view",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/sunsource-energy_cii-sunsourceenergy-renewableenergy-activity-7133377754296725505-dSva%3Ftrk%3Dpublic_profile_like_view&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECBQQAQ",
+            "displayed_link": "50+ reactions \u00b7 1 month ago",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fb4c3cc337d5225e3edc4e80d8b2309760.png",
+            "snippet": "Calling all ESG and Energy Leaders wanting to adopt large-scale renewables in their businesses! SunSource Energy in collaboration with CII ...",
+            "snippet_highlighted_words": [
+                "CII"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 5,
+            "title": "SHV Energy acquires majority stake in SunSource",
+            "link": "https://www.shvenergy.com/news-stories/20210505-shv-energy-acquires-majority-stake-in-sunsource",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shvenergy.com/news-stories/20210505-shv-energy-acquires-majority-stake-in-sunsource&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECBEQAQ",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 2021050...",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fbd35a7910f4d165999efc403e6a3a5d0a.png",
+            "date": "May 5, 2021",
+            "snippet": "This new partnership will directly benefit SunSource's ability to expand its portfolio of projects for C&I customers, with an overall ambition ...",
+            "snippet_highlighted_words": [
+                "directly"
+            ],
+            "source": "SHV Energy"
+        },
+        {
+            "position": 6,
+            "title": "Powering Progress: How Solar Energy Fuels the FMCG ...",
+            "link": "https://medium.com/@sunsourceenergy/powering-progress-how-solar-energy-fuels-the-fmcg-industrys-sustainability-drive-8f16d1247cf9",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40sunsourceenergy/powering-progress-how-solar-energy-fuels-the-fmcg-industrys-sustainability-drive-8f16d1247cf9&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECEMQAQ",
+            "displayed_link": "1 month ago",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fb22892f366b9fca887ae40009092fec09.png",
+            "snippet": "The RSPL Group and SunSource Energy collaboration showcases solar energy's transformative power in meeting the FMCG industry's increasing ...",
+            "snippet_highlighted_words": [
+                "RSPL Group"
+            ],
+            "source": "Medium \u00b7 Sunsource Energy"
+        },
+        {
+            "position": 7,
+            "title": "Dutch SHV Energy to invest Rs 1800 cr in SunSource ...",
+            "link": "https://energy.economictimes.indiatimes.com/news/renewable/dutch-shv-energy-to-invest-rs-1800-cr-in-sunsource-energy-in-two-yrs/82398047",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://energy.economictimes.indiatimes.com/news/renewable/dutch-shv-energy-to-invest-rs-1800-cr-in-sunsource-energy-in-two-yrs/82398047&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECEQQAQ",
+            "displayed_link": "https://energy.economictimes.indiatimes.com \u203a news",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fbd9d035a8432c5bdf59ffb94c8646167b.png",
+            "date": "May 5, 2021",
+            "snippet": "Industry insiders said SHV Energy was engaged in negotiations with solar firm Fourth Partner Energy. \u201cThis new partnership will directly benefit ...",
+            "snippet_highlighted_words": [
+                "solar firm Fourth Partner Energy"
+            ],
+            "source": "ET EnergyWorld"
+        },
+        {
+            "position": 8,
+            "title": "Joining Forces Announcement",
+            "link": "https://www.psifluidpower.ca/about/joining-forces",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.psifluidpower.ca/about/joining-forces&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECEIQAQ",
+            "displayed_link": "https://www.psifluidpower.ca \u203a about \u203a joining-forces",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fb1a4b6c9b7585dc150d5c11efd3db42dc.png",
+            "snippet": "Fluid Power, SunSource and all of our associates, supplier partners, and customers. P.S.I. will become a core entity of the SunSource Fluid Power business unit.",
+            "snippet_highlighted_words": [
+                "associates, supplier partners"
+            ],
+            "source": "P.S.I. Fluid Power Ltd."
+        },
+        {
+            "position": 9,
+            "title": "Fluid Power Distributor SunSource Partners with ...",
+            "link": "https://www.inddist.com/business-technology/news/21135391/fluid-power-distributor-sunsource-partners-with-leadmethod",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inddist.com/business-technology/news/21135391/fluid-power-distributor-sunsource-partners-with-leadmethod&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECD4QAQ",
+            "displayed_link": "https://www.inddist.com \u203a business-technology \u203a news",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fbf440faa072b5a5ca0a78a8ed993d0045.png",
+            "snippet": "BEND, OR \u2014 SunSource, a distributor of fluid power, fluid process, fluid conveyance and industrial repair services in North America, has partnered with ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "power",
+                "has"
+            ],
+            "source": "Industrial Distribution"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy | Noida",
+            "link": "https://www.facebook.com/sunsourceenergy/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/sunsourceenergy/&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0QFnoECD0QAQ",
+            "displayed_link": "5.6K+ followers",
+            "favicon": "https://serpapi.com/searches/6591334fd5a531db65c7d39b/images/1f01f5c6f83f2ae2da29dd693dc781fbbb2a44cae154df3ea0f8087a1aa9d528.png",
+            "snippet": "We are a subsidiary of SHV Energy, a 125-year-old Dutch multinational. We are scouting for a seasoned professional to be based out of our corporate office in ...",
+            "snippet_highlighted_words": [
+                "subsidiary of SHV Energy"
+            ],
+            "source": "Facebook \u00b7 SunSource Energy"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Does the company sunsource energy have any collaborations or partnerships qui",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Does+the+company+sunsource+energy+have+any+collaborations+or+partnerships+qui&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg8EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+sunsource+energy+have+any+collaborations+or+partnerships+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+reviews&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg7EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunpower las vegas reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunPower+Las+Vegas+reviews&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunPower+Las+Vegas+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source solar",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Solar&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Solar"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source hydraulics",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+source+HYDRAULICS&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+source+HYDRAULICS"
+        },
+        {
+            "block_position": 1,
+            "query": "best solar company in las vegas",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Best+solar+company+in+Las+Vegas&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+solar+company+in+Las+Vegas"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy las vegas",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Las+Vegas&sa=X&ved=2ahUKEwjB56uqrbmDAxUxhYkEHS6BDq0Q1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Las+Vegas"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&oq=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&oq=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&oq=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&oq=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&oq=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Does+the+company+SunSource+Energy+have+any+collaborations+or+partnerships%3F&start=40"
+        }
+    }
+}
