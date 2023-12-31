@@ -1,0 +1,300 @@
+{
+    "search_metadata": {
+        "id": "65913333cace960c9d356421",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/de60e0432c540834/65913333cace960c9d356421.json",
+        "created_at": "2023-12-31 09:24:03 UTC",
+        "processed_at": "2023-12-31 09:24:03 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&oq=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/de60e0432c540834/65913333cace960c9d356421.html",
+        "total_time_taken": 1.82
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the profit margin of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the profit margin of the company SunSource Energy?",
+        "total_results": 89000,
+        "time_taken_displayed": 0.37,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&uds=AMIYvT_7IMujYkbrPLyV7rKhUOw7_aD2EmCKPc9oIUCWUvVwauJElglQPeK9odc4O5sV-IA7g9O05ILYGfoadP6QmwZaV-UwmSg1W4sk-MRiwOtVrJL-DOKLJ7AY9NjivXMJ-rhB298f4jBiRh5BOIXAOtENz4RWWTV_oCYPTDB1gSzSO7xfF-KTgaIVGdro7FsNA9jImZVt&udm=4&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQs6gLegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+sunsource+energy+qui&uds=AMIYvT_3DSbN278DzcROGB59bZThsL0_cTHwUfUcrP0bjWrGwrV6_QUZ9UBjw0qrU0wp-EaemhKyDCaIHgw0yc7hwDhUCEhpiu_lWg99t9KpPG6NCwB0_q4kb35xvsuRHpwkfbSTAi1MkRVDeA9Fetr9rS8WhICWVcYEoSZLcPqTC1Xne2IK-GE&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQxKsJegQIDhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 4,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ0pQJegQIDxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ0pQJegQIPhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ0pQJegQIQBAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+profit+margin+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is SunSource annual revenue?",
+            "snippet": "SunSource's revenue is $320.0 million. Zippia's data science team found the following key financial metrics about SunSource after extensive research and analysis. SunSource has 1,000 employees, and the revenue per employee ratio is $320,000. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/#:~:text=SunSource's%20revenue%20is%20%24320.0%20million.&text=Zippia's%20data%20science%20team%20found,was%20%24320.0M%20in%202022.",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "source_logo": "https://serpapi.com/searches/65913333cace960c9d356421/images/cc89503b76f7175148519ed9012aabba621fcf6df6a878d36c6a49bfa247c45e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1dsZ3hUM0JTVkRsbExVcFBjMDFtWDFRMVFsSndUVmRxY1ZKTVV6WmtiMWhLTFV4V1ZVZDFWbkpQYjBnNWQwNXVPWEo1YUZWNFYwTnRZblF5V2tFMFNGQkZhSGsxRWhkT1JFOVNXbGwxYWtsaGFYZHdkRkZRTlZCRE1tbEJOQm9pUVVwM2F5MDRaRUZYZDFwbmVtSm9ibXhxZDFVMmN6bHlRMFJCY0RWUE4wZFlkdyIsImZjdiI6IjMiLCJlaSI6Ik5ET1JaWXVqSWFpd3B0UVA1UEMyaUE0IiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUOHNzVWNoTkxFclB6RlBJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVTN1cjlaZ2NBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZSBhbm51YWwgcmV2ZW51ZT8iLCJsayI6IkdoaHpkVzV6YjNWeVkyVWdZVzV1ZFdGc0lISmxkbVZ1ZFdVIiwiYnMiOiJjLU5TNDFJTXowZ3NVY2dzVmdndXpRdk9MeTFLVGxWSXpNc3JUY3hSS0VvdFM4MHJUYldYT0dmQUpjRWxISjZScjVCZm5vZWswRjdpUUlvQUl3QSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1dsZ3hUM0JTVkRsbExVcFBjMDFtWDFRMVFsSndUVmRxY1ZKTVV6WmtiMWhLTFV4V1ZVZDFWbkpQYjBnNWQwNXVPWEo1YUZWNFYwTnRZblF5V2tFMFNGQkZhSGsxRWhkT1JFOVNXbGwxYWtsaGFYZHdkRkZRTlZCRE1tbEJOQm9pUVVwM2F5MDRaRUZYZDFwbmVtSm9ibXhxZDFVMmN6bHlRMFJCY0RWUE4wZFlkdyIsImZjdiI6IjMiLCJlaSI6Ik5ET1JaWXVqSWFpd3B0UVA1UEMyaUE0IiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUOHNzVWNoTkxFclB6RlBJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVTN1cjlaZ2NBIiwicXVlc3Rpb24iOiJXaGF0IGlzIFN1blNvdXJjZSBhbm51YWwgcmV2ZW51ZT8iLCJsayI6IkdoaHpkVzV6YjNWeVkyVWdZVzV1ZFdGc0lISmxkbVZ1ZFdVIiwiYnMiOiJjLU5TNDFJTXowZ3NVY2dzVmdndXpRdk9MeTFLVGxWSXpNc3JUY3hSS0VvdFM4MHJUYldYT0dmQUpjRWxISjZScjVCZm5vZWswRjdpUUlvQUl3QSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Who owns SunSource?",
+            "snippet": "Clayton, Dubilier & Rice Acquires SunSource.",
+            "title": "Clayton, Dubilier & Rice Acquires SunSource",
+            "date": "Dec 11, 2017",
+            "link": "https://www.cdr-inc.com/news/press-release/clayton-dubilier-rice-acquires-sunsource",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a clayton...",
+            "source_logo": "https://serpapi.com/searches/65913333cace960c9d356421/images/cc89503b76f7175148519ed9012aabbafd3060e48dc5b7f7d9f3d4b11c909fd5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1dsZ3hUM0JTVkRsbExVcFBjMDFtWDFRMVFsSndUVmRxY1ZKTVV6WmtiMWhLTFV4V1ZVZDFWbkpQYjBnNWQwNXVPWEo1YUZWNFYwTnRZblF5V2tFMFNGQkZhSGsxRWhkT1JFOVNXbGwxYWtsaGFYZHdkRkZRTlZCRE1tbEJOQm9pUVVwM2F5MDRaRUZYZDFwbmVtSm9ibXhxZDFVMmN6bHlRMFJCY0RWUE4wZFlkdyIsImZjdiI6IjMiLCJlaSI6Ik5ET1JaWXVqSWFpd3B0UVA1UEMyaUE0IiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUOHNzVWNoTkxFclB6RlBJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVTN1cjlaZ2NBIiwicXVlc3Rpb24iOiJXaG8gb3ducyBTdW5Tb3VyY2U/IiwibGsiOiJHaE56ZFc1emIzVnlZMlVnYjNkdVpYSnphR2x3IiwiYnMiOiJjLU5TNDFJTXowZ3NVY2dzVmdndXpRdk9MeTFLVGxWSXpNc3JUY3hSS0VvdFM4MHJUYldYT0dmQUpjRWxISjZScjVCZm5vZWswRjdpUUlvQUl3QSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV1dsZ3hUM0JTVkRsbExVcFBjMDFtWDFRMVFsSndUVmRxY1ZKTVV6WmtiMWhLTFV4V1ZVZDFWbkpQYjBnNWQwNXVPWEo1YUZWNFYwTnRZblF5V2tFMFNGQkZhSGsxRWhkT1JFOVNXbGwxYWtsaGFYZHdkRkZRTlZCRE1tbEJOQm9pUVVwM2F5MDRaRUZYZDFwbmVtSm9ibXhxZDFVMmN6bHlRMFJCY0RWUE4wZFlkdyIsImZjdiI6IjMiLCJlaSI6Ik5ET1JaWXVqSWFpd3B0UVA1UEMyaUE0IiwicWMiOiJjLU95TE05SUxGSElMRllveVVoVktDaktUOHNzVWNoTkxFclB6RlBJVHdNTEp1Zm5GaVRtVlNvVWwtWVY1NWNXSmFjcXBPYWxGcVZYQ2pEVTN1cjlaZ2NBIiwicXVlc3Rpb24iOiJXaG8gb3ducyBTdW5Tb3VyY2U%2FIiwibGsiOiJHaE56ZFc1emIzVnlZMlVnYjNkdVpYSnphR2x3IiwiYnMiOiJjLU5TNDFJTXowZ3NVY2dzVmdndXpRdk9MeTFLVGxWSXpNc3JUY3hSS0VvdFM4MHJUYldYT0dmQUpjRWxISjZScjVCZm5vZWswRjdpUUlvQUl3QSIsImlkIjoiZmNfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.zippia.com/sts-operating-careers-39837/revenue/&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECBgQAQ",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df2cca5a52d84984f5c0941c1f778afe8e.png",
+            "snippet": "SunSource's revenue is $320.0 Million - Learn more about SunSource's revenue by exploring their annual revenue, historical revenue, quarterly revenue, ...",
+            "snippet_highlighted_words": [
+                "320.0 Million"
+            ],
+            "source": "Zippia"
+        },
+        {
+            "position": 2,
+            "title": "SUNSOURCE ENERGY PRIVATE LIMITED",
+            "link": "https://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECBkQAQ",
+            "displayed_link": "https://www.tofler.in \u203a ... \u203a Business Services",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df49ce2f8dea5c90beced53f265bd48ee3.png",
+            "snippet": "Sunsource Energy Private Limited's operating revenues range is INR 100 cr - 500 cr for the financial year ending on 31 March, 2022. It's EBITDA has increased by ...",
+            "snippet_highlighted_words": [
+                "INR 100 cr - 500 cr"
+            ],
+            "source": "Tofler"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy Private Limited",
+            "link": "https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_March%2028,%202023_RR_314957.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crisilratings.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_March%252028,%25202023_RR_314957.html&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECBoQAQ",
+            "displayed_link": "https://www.crisilratings.com \u203a RatingList \u203a RatingDocs",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df7aa7cfb16640e796f1835aa6686da110.png",
+            "date": "Mar 28, 2023",
+            "snippet": "Volatility in revenues and moderate operating margin: Revenue ... The company incurred operating loss in FY21 and is estimated to report operating ...",
+            "snippet_highlighted_words": [
+                "moderate operating margin"
+            ],
+            "source": "CRISIL Ratings Limited"
+        },
+        {
+            "position": 4,
+            "title": "Financials of Sunsource Energy Private Limited",
+            "link": "https://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281/financials",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tofler.in/sunsource-energy-private-limited/company/U74900UP2010PTC039281/financials&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECBcQAQ",
+            "displayed_link": "https://www.tofler.in \u203a company \u203a financials",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df2f765a1bd0789d6739e5aee7251f4dbc.png",
+            "snippet": "The operating revenue of SUNSOURCE ENERGY PRIVATE LIMITED is in the range of INR 100 cr - 500 cr for the financial year ending on 31 March, 2022. What is the ...",
+            "snippet_highlighted_words": [
+                "range of INR 100 cr - 500 cr"
+            ],
+            "source": "Tofler"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy Private Limited",
+            "link": "https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_July%2027,%202022_RR_298451.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crisil.com/mnt/winshare/Ratings/RatingList/RatingDocs/SunSourceEnergyPrivateLimited_July%252027,%25202022_RR_298451.html&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECBsQAQ",
+            "displayed_link": "https://www.crisil.com \u203a mnt \u203a RatingList \u203a RatingDocs",
+            "date": "Jul 27, 2022",
+            "snippet": "Volatility in revenues and moderate operating margin: Revenue of SSEPL has fluctuated over the past 3-4 years ending fiscal 2022. The company ...",
+            "snippet_highlighted_words": [
+                "moderate operating margin"
+            ],
+            "source": "CRISIL"
+        },
+        {
+            "position": 6,
+            "title": "Sun Source (India) Ltd Share Price - Stocks",
+            "link": "https://www.businesstoday.in/stocks/sun-source-india-ltd-share-price-365295",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.businesstoday.in/stocks/sun-source-india-ltd-share-price-365295&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECCsQAQ",
+            "displayed_link": "https://www.businesstoday.in \u203a Markets \u203a Stocks",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df95996abe54ebd8de73a0ab393409af3e.png",
+            "snippet": "... Sun Source (India) Ltd with financial reports, peer comparisons, stock performance, about company, shareholding pattern, SWOT analysis on Business Today.",
+            "snippet_highlighted_words": [
+                "Sun Source",
+                "financial",
+                "company",
+                "Business"
+            ],
+            "source": "Business Today"
+        },
+        {
+            "position": 7,
+            "title": "Sunsource Energy Private Limited Information",
+            "link": "https://economictimes.indiatimes.com/company/sunsource-energy-private-limited/U74900UP2010PTC039281",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://economictimes.indiatimes.com/company/sunsource-energy-private-limited/U74900UP2010PTC039281&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECDIQAQ",
+            "displayed_link": "https://economictimes.indiatimes.com \u203a company \u203a su...",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904dfcca66d354fbd6e938dd0a6e3abbf6bba.png",
+            "snippet": "It's a private unlisted company and is classified as'company limited by shares'. Company's authorized capital stands at Rs 59.5 lakhs and has 79.56639% paid-up ...",
+            "snippet_highlighted_words": [
+                "79.56639% paid-up"
+            ],
+            "source": "The Economic Times"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/sunsource-energy&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECCwQAQ",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df431ac2f8b54af67a9d625e9edbc089f1.png",
+            "snippet": "SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "missing": [
+                "margin"
+            ],
+            "must_include": {
+                "word": "margin",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+%22margin%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ5t4CegQILRAB"
+            },
+            "source": "Crunchbase"
+        },
+        {
+            "position": 9,
+            "title": "Sunsource Reviews in Chicago, IL",
+            "link": "https://www.glassdoor.com/Reviews/Sunsource-Chicago-Reviews-EI_IE196468.0,9_IL.10,17_IM167.htm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.glassdoor.com/Reviews/Sunsource-Chicago-Reviews-EI_IE196468.0,9_IL.10,17_IM167.htm&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECDEQAQ",
+            "displayed_link": "https://www.glassdoor.com \u203a Reviews \u203a Sunsource-Ch...",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904df65009bc5ab8d3815b59603bfc8016ec7.png",
+            "snippet": "The company turns away too much business because of profit margin requirements, therefore creating its own competition. ... 29 Reviews \u00b7 Compare. SunSource Energy ...",
+            "snippet_highlighted_words": [
+                "company",
+                "business",
+                "profit margin",
+                "SunSource Energy"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 2.8,
+                        "votes": 76
+                    },
+                    "extensions": [
+                        "Rating: 2.8",
+                        "\u200e76 votes"
+                    ]
+                }
+            },
+            "source": "Glassdoor"
+        },
+        {
+            "position": 10,
+            "title": "Sun Source Energy Salary for Sales Manager",
+            "link": "https://www.salary.com/research/company/sun-source-energy/sales-manager-salary?cjid=19619645",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salary.com/research/company/sun-source-energy/sales-manager-salary%3Fcjid%3D19619645&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQFnoECDkQAQ",
+            "displayed_link": "https://www.salary.com \u203a ... \u203a Sun Source Energy",
+            "favicon": "https://serpapi.com/searches/65913333cace960c9d356421/images/d61c021de764f2d2837641a1d26904dfc3e1f78ae46326e19562033cce27af9a.png",
+            "snippet": "The average annual Sun Source Energy Salary for Sales Manager is estimated to be approximately $113179 per year. The majority pay is between $97535 to ...",
+            "snippet_highlighted_words": [
+                "113179 per year"
+            ],
+            "missing": [
+                "margin"
+            ],
+            "must_include": {
+                "word": "margin",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+%22margin%22+of+the+company+SunSource+Energy?&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ5t4CegQIOhAB"
+            },
+            "source": "Salary.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the profit margin of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+profit+margin+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ1QJ6BAgqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "shv energy",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SHV+Energy&sa=X&ved=2ahUKEwiLjdKcrbmDAxUomIkEHWS4DeEQ1QJ6BAgoEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SHV+Energy"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&oq=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&oq=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&oq=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&oq=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&oq=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+profit+margin+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

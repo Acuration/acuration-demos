@@ -1,0 +1,372 @@
+{
+    "search_metadata": {
+        "id": "659132b52ff421cef947050f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7c9c234544aa1dbb/659132b52ff421cef947050f.json",
+        "created_at": "2023-12-31 09:21:57 UTC",
+        "processed_at": "2023-12-31 09:21:57 UTC",
+        "google_url": "https://www.google.com/search?q=what+are+the+business+models+of+the+company+SunSource+Energy&oq=what+are+the+business+models+of+the+company+SunSource+Energy&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7c9c234544aa1dbb/659132b52ff421cef947050f.html",
+        "total_time_taken": 0.92
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "what are the business models of the company SunSource Energy",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "what are the business models of the company SunSource Energy",
+        "total_results": 181000,
+        "time_taken_displayed": 0.3,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Quizlet",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+business+models+of+the+company+sunsource+energy+quizlet&uds=AMIYvT8K6EidFRMjMWjeW91buXvGqNlrdkndxnLQJDTIwRd-Ga_WyPvrbhZT6p1DtaN1N-WZFAL2waRESEsmhlafBgSxS7lqSK9s39yBgNvv0kxqSv02yEAmxJ5IDe3SFXhRu2QX6YKUuuE_NZUirf3fxXV0lNC2_ipLY-3YkS1VqkOUVgOOmGSrIpxZiVSFNl2GxR6txlr0&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQxKsJegQIDRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+business+models+of+the+company+sunsource+energy+quizlet"
+            },
+            {
+                "position": 2,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=what+are+the+business+models+of+the+company+SunSource+Energy&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=what+are+the+business+models+of+the+company+SunSource+Energy"
+            },
+            {
+                "position": 3,
+                "title": "Pdf",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+business+models+of+the+company+sunsource+energy+pdf&uds=AMIYvT8iBMdoFvlSPDJsVyFZ3L2mRyWGwzlMKJJ43F_Fcz_zRUE9DLmZd05r5LMragrVa_PkNpjk4f4l4gYhBK2HYhtmHB0j7FLJ6MOWRoKDWiCCKFSjrJ0pffc1v7uhyvoOPR66H0OkM1L1haXoL5IyxlfPkPwM6Q39mZwvg9H2tiA57VRtmBI&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+business+models+of+the+company+sunsource+energy+pdf"
+            },
+            {
+                "position": 4,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=what+are+the+business+models+of+the+company+SunSource+Energy&uds=AMIYvT_5ODyVw2eEXG9M1UteJoqCZqmg3Wqj5IGKURv4hP16KJYR3vNtPaq4lyT1ZwYEhYJSgmN3sqou7WD9OgEBGIt0Z8F7rigkv22KvhYy0N6pySb8rajgE7NCBDcIkP_C9SFxo7v2U3f29uk3RrUpsnKt2-schbPlQq6lt9RsBp5XhbJOINmoWnsvQNFsHZ3qq8in958E&udm=4&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQs6gLegQICBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy"
+            },
+            {
+                "position": 5,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=what+are+the+business+models+of+the+company+SunSource+Energy&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ0pQJegQITxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&tbm=nws"
+            },
+            {
+                "position": 6,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=what+are+the+business+models+of+the+company+SunSource+Energy&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ0pQJegQITRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=what+are+the+business+models+of+the+company+SunSource+Energy"
+            },
+            {
+                "position": 7,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=what+are+the+business+models+of+the+company+SunSource+Energy&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=what+are+the+business+models+of+the+company+SunSource+Energy"
+            },
+            {
+                "position": 8,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=what+are+the+business+models+of+the+company+SunSource+Energy&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ0pQJegQIUBAB"
+            },
+            {
+                "position": 9,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=what+are+the+business+models+of+the+company+SunSource+Energy&source=lnms&entry=mc"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the energy as a service model?",
+            "snippet": "In the Energy as a Service model, customers pay for an energy service without having to make any upfront capital investments. Suppliers offer access to electrical devices and services in exchange for a periodical fee. Such services could include, for example: On- and off-site energy supply technologies.",
+            "title": "What is Energy as a Service and how does it work | Enel X",
+            "link": "https://corporate.enelx.com/en/question-and-answers/what-is-energy-as-a-service#:~:text=In%20the%20Energy%20as%20a,off%2Dsite%20energy%20supply%20technologies",
+            "displayed_link": "https://corporate.enelx.com \u203a question-and-answers \u203a wh...",
+            "source_logo": "https://serpapi.com/searches/659132b52ff421cef947050f/images/b40fbde73319af4ea1ee158683892ee0fb0ed0af879a7e2f43f43f09daee34bf.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZW5lcmd5IGFzIGEgc2VydmljZSBtb2RlbD8iLCJsayI6IkdobGxibVZ5WjNrZ1lYTWdZU0J6WlhKMmFXTmxJRzF2WkdWcyIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZW5lcmd5IGFzIGEgc2VydmljZSBtb2RlbD8iLCJsayI6IkdobGxibVZ5WjNrZ1lYTWdZU0J6WlhKMmFXTmxJRzF2WkdWcyIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Who is the founder of SunSource?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/659132b52ff421cef947050f/images/b40fbde73319af4ea1ee158683892ee090f4e5c039ba36dd2bb918931c02829e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZT8iLCJsayI6IkdodG1iM1Z1WkdWeUlHOW1JSE4xYm5OdmRYSmpaU0JsYm1WeVozayIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBmb3VuZGVyIG9mIFN1blNvdXJjZT8iLCJsayI6IkdodG1iM1Z1WkdWeUlHOW1JSE4xYm5OdmRYSmpaU0JsYm1WeVozayIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "The source of energy of the Sun is due to the conversion of hydrogen to helium. Solar energy is created as a result of a process known as Nuclear Fusion, a chain reaction that takes place in the Sun.",
+            "title": "The source of energy of the Sun is due to? - BYJU'S",
+            "link": "https://byjus.com/ias-questions/the-source-of-energy-of-the-sun-is-due-to/#:~:text=is%20due%20to%3F-,The%20source%20of%20energy%20of%20the%20Sun%20is%20due%20to,takes%20place%20in%20the%20Sun.",
+            "displayed_link": "https://byjus.com \u203a ias-questions \u203a the-source-of-energy-...",
+            "source_logo": "https://serpapi.com/searches/659132b52ff421cef947050f/images/b40fbde73319af4ea1ee158683892ee0f9540ff43b64324ed1235565a9eab672.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc291cmNlIG9mIHRoZSBzdW4ncyBlbmVyZ3k/IiwibGsiOiJHaGh6ZFc0Z1ptOXlJSE52ZFhKalpTQnZaaUJsYm1WeVozayIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc291cmNlIG9mIHRoZSBzdW4ncyBlbmVyZ3k%2FIiwibGsiOiJHaGh6ZFc0Z1ptOXlJSE52ZFhKalpTQnZaaUJsYm1WeVozayIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are the 5 uses of solar energy?",
+            "snippet": "The five main uses of solar energy are solar electricity, solar water heating, solar heating, solar ventilation and solar lighting. There are more uses for solar energy, but home solar installation and businesses typically use solar energy for these purposes.",
+            "title": "51 of The Most Popular Uses of Solar Energy in Daily Life",
+            "date": "Jan 19, 2023",
+            "link": "https://freedomsolarpower.com/blog/51-uses-of-solar-energy#:~:text=The%20five%20main%20uses%20of,solar%20energy%20for%20these%20purposes.",
+            "displayed_link": "https://freedomsolarpower.com \u203a blog \u203a 51-uses-of-solar...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9evR9tVQZZMbC3n_wD9bQGyYqv2IQyn18kDeRYbRzbg&s",
+            "source_logo": "https://serpapi.com/searches/659132b52ff421cef947050f/images/b40fbde73319af4ea1ee158683892ee0f60685c523d36a228b9db1dd170d0c86.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDUgdXNlcyBvZiBzb2xhciBlbmVyZ3k/IiwibGsiOiJHaFkxSUhWelpYTWdiMllnYzI5c1lYSWdaVzVsY21kNSIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFVXdEtaMkUzTVRaV01HRjBTelE0VlZONFRYVk1TM3BFWnkxQmRVNUZPSEJ2VG5SM1pIWkhTMHhTUm5aTU9EQk5ZVEZzYzI1WGVraFpORTgwUldwQ1pURmZSR1ZoRWhkMFZFdFNXbUZ0WkU4MFUzTndkRkZRZEhGaE5YbEJNQm9pUVVwM2F5MDRabXRtVDNCdU1rdDRjVEkxUm1sdlJWSjFkVVF5ZVV4cVJrZFdVUSIsImZjdiI6IjMiLCJlaSI6InRUS1JaYW1kTzRTc3B0UVB0cWE1eUEwIiwicWMiOiJjLU95S2M5SUxGRklMRXBWS01sSVZVZ3FMYzdNU3kwdVZzak5UMG5OS1ZiSVR3TUxKLWZuRmlUbVZTb1VsLVlWNTVjV0phY3FwT2FsRnFWWENqRFV2cHB0WUE4QSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDUgdXNlcyBvZiBzb2xhciBlbmVyZ3k%2FIiwibGsiOiJHaFkxSUhWelpYTWdiMllnYzI5c1lYSWdaVzVsY21kNSIsImJzIjoiYy1QUzVsSUx6MGdzVWNnc1ZpakpTRlZJelVzdFNxOVVTQ3hXU0ZRb1RpMHF5MHhPVmNqTlQwbk5zWmRZYk15bHlxVVFucEVQVTV1V1g1cVhrbHFra0otbUVGeWFGNXhmV3BTY2FpOXhqWnRMaDBzZDJjeGlzQXhJR1poWG1xZGVETFhIWHVLQU01Y21sd3BZZFdKUktsaUJxVUpwY1dveFNIbHhmazVpRVZ6cFpTWUJSZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766fc2280c120d45f630bf8ca8004af6fe05.png",
+            "snippet": "A leading provider of solar-based energy and storage solutions to commercial, industrial and institutional clients in India, South East Asia, Middle East and ...",
+            "snippet_highlighted_words": [
+                "solar",
+                "energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy",
+            "link": "https://www.sunsource-energy.com/sites/default/files/2022-06/SunSource%20Energy%20-%20Corporate%20Deck.pdf",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/sites/default/files/2022-06/SunSource%20Energy%20-%20Corporate%20Deck.pdf",
+            "displayed_link": "https://www.sunsource-energy.com \u203a sites \u203a files",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766f399bf56fa883d1f48d340a33ef471cf1.png",
+            "date": "18 pages",
+            "snippet": "Focused services offered in both OpEx and CapEx models across asset lifecycle. SunSource offers integrated business models across the solar value chain. Page ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "business models",
+                "solar"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy: The Growth Conundrum",
+            "link": "https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "redirect_link": "https://www.google.comhttps://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "displayed_link": "https://www.iveypublishing.ca \u203a product \u203a sunsource...",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766fdf53894076e5bb0fa522542b78ac5a03.png",
+            "date": "Jun 29, 2022",
+            "snippet": "Identify the various growth strategies of a firm and understand how to create a strategic growth plan.Decide on a business operating model in ...",
+            "snippet_highlighted_words": [
+                "firm",
+                "a business",
+                "model"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "ca": 9.25
+                    },
+                    "extensions": [
+                        "CA$9.25"
+                    ]
+                }
+            },
+            "source": "Ivey Publishing"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/sunsource-energy",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766f8bfc116da302fd8bf468da0f2d07f70a.png",
+            "snippet": "The firm offers customized solar power solutions to clients through innovative business models for on-site and off-site PPAs (Power Purchase ...",
+            "snippet_highlighted_words": [
+                "firm",
+                "solar power",
+                "business models",
+                "Power"
+            ],
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy - Company Profile",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "redirect_link": "https://www.google.comhttps://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "displayed_link": "https://tracxn.com \u203a Discover",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766f66cb690aed2572dbab268ea80590ce52.png",
+            "date": "Dec 22, 2023",
+            "snippet": "SunSource Energy serves in the B2B space in the Energy, Environment market segments. The primary business models of SunSource Energy are: Energy ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "business models",
+                "SunSource Energy"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy: The Growth Conundrum - HBR Store",
+            "link": "https://store.hbr.org/product/sunsource-energy-the-growth-conundrum/W26402",
+            "redirect_link": "https://www.google.comhttps://store.hbr.org/product/sunsource-energy-the-growth-conundrum/W26402",
+            "displayed_link": "https://store.hbr.org \u203a product \u203a sunsource-energy-th...",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766f85314fb0909ac786603824dcb1f9fbb2.png",
+            "snippet": "Business models, Innovation, Entrepreneurs and founders, Entrepreneurship,. \u00d7. Summaries and excerpts of the latest books, special offers, and more from ...",
+            "snippet_highlighted_words": [
+                "Business models"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 8.95,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$8.95",
+                        "\u200eIn stock"
+                    ]
+                }
+            },
+            "source": "Harvard Business Review"
+        },
+        {
+            "position": 7,
+            "title": "About SunSource Energy Pvt. Ltd. - Energy company in India",
+            "link": "https://www.f6s.com/company/top-solar-company-sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://www.f6s.com/company/top-solar-company-sunsource-energy",
+            "displayed_link": "https://www.f6s.com \u203a Companies",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766fb0e9a5ace1e01b453a9b34c6286ad8b4.png",
+            "snippet": "Part of the 125-year-old Dutch multinational, SHV Energy, SunSource Energy offers customized Solar Power solutions to clients through innovative business models ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "business models"
+            ],
+            "source": "F6S"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy Secures Project Financing from ...",
+            "link": "https://www.shvenergy.com/news-stories/20220217-sunsource-energy-secures-project-financing-from-sunfunder",
+            "redirect_link": "https://www.google.comhttps://www.shvenergy.com/news-stories/20220217-sunsource-energy-secures-project-financing-from-sunfunder",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 202202...",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766f13ee178c7afd1f818b6082db9679b545.png",
+            "date": "Feb 16, 2022",
+            "snippet": "SunSource Energy has built a strong business model as a C&I developer and Power ... company that is pioneering and scaling clean energy and ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "business model",
+                "company"
+            ],
+            "source": "SHV Energy"
+        },
+        {
+            "position": 9,
+            "title": "Started in a living room, this solar energy company now ...",
+            "link": "https://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "displayed_link": "https://yourstory.com \u203a 2020/03 \u203a solar-energy-prov...",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766fdadfd1d457eb263cf80975912739df1f.jpeg",
+            "date": "Mar 18, 2020",
+            "snippet": "SunSource offers its solar projects to commercial and industrial clients in two models. In the Independent Power Producer (IPP) or opex model, ...",
+            "snippet_highlighted_words": [
+                "SunSource",
+                "solar",
+                "models",
+                "Power",
+                "model"
+            ],
+            "source": "Yourstory"
+        },
+        {
+            "position": 10,
+            "title": "SunSource Energy Secures Project Financing from ...",
+            "link": "https://solarquarter.com/2022/02/17/sunsource-energy-secures-project-financing-from-sunfunder-to-expand-its-solar-portfolio-in-southeast-asia/",
+            "redirect_link": "https://www.google.comhttps://solarquarter.com/2022/02/17/sunsource-energy-secures-project-financing-from-sunfunder-to-expand-its-solar-portfolio-in-southeast-asia/",
+            "displayed_link": "https://solarquarter.com \u203a Blog Feed",
+            "favicon": "https://serpapi.com/searches/659132b52ff421cef947050f/images/361864cb2b41cd39483ab797db43766fced347f69a20821003a19b33d5b1f232.png",
+            "date": "Feb 17, 2022",
+            "snippet": "... business model as a C&I developer and Power Purchase Agreement provider, with in-house capabilities in project development and finance ...",
+            "snippet_highlighted_words": [
+                "business model",
+                "Power"
+            ],
+            "source": "SolarQuarter"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What are the business models of the company sunsource energy quizlet",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+business+models+of+the+company+sunsource+energy+quizlet&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+business+models+of+the+company+sunsource+energy+quizlet"
+        },
+        {
+            "block_position": 1,
+            "query": "What are the business models of the company sunsource energy pdf",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+are+the+business+models+of+the+company+sunsource+energy+pdf&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+business+models+of+the+company+sunsource+energy+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=sun+source+(india)+ltd+share+price&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy careers",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+energy+careers&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+energy+careers"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwjpy6TgrLmDAxUElokEHTZTDtkQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=what+are+the+business+models+of+the+company+SunSource+Energy&oq=what+are+the+business+models+of+the+company+SunSource+Energy&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=what+are+the+business+models+of+the+company+SunSource+Energy&oq=what+are+the+business+models+of+the+company+SunSource+Energy&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=what+are+the+business+models+of+the+company+SunSource+Energy&oq=what+are+the+business+models+of+the+company+SunSource+Energy&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=what+are+the+business+models+of+the+company+SunSource+Energy&oq=what+are+the+business+models+of+the+company+SunSource+Energy&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=what+are+the+business+models+of+the+company+SunSource+Energy&oq=what+are+the+business+models+of+the+company+SunSource+Energy&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+the+business+models+of+the+company+SunSource+Energy&start=40"
+        }
+    }
+}

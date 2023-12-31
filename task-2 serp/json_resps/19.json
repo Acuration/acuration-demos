@@ -1,0 +1,273 @@
+{
+    "search_metadata": {
+        "id": "6591333e33b23689538f8292",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/698a6df3993cec35/6591333e33b23689538f8292.json",
+        "created_at": "2023-12-31 09:24:14 UTC",
+        "processed_at": "2023-12-31 09:24:14 UTC",
+        "google_url": "https://www.google.com/search?q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&oq=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/698a6df3993cec35/6591333e33b23689538f8292.html",
+        "total_time_taken": 0.52
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "What is the funding info of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "What is the funding info of the company SunSource Energy?",
+        "total_results": 359000,
+        "time_taken_displayed": 0.3,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 2,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&uds=AMIYvT8qsroas90F6tOiCT5bwaagPnS0xbSKV_BLcJc2QfVZppSapca9bQlEaxkxKJK0sZjwgmAIrShmFJWqmNdVloK5XV952d9U50QpyoK1iVofe6weOocfJUNAzGQ90USb2UXsMS_lzmKNDeZ7Iuhzb9q5_MadiLaMdLfczZ7kDFEsRNqTUmu5nCmYMIshA93tOrjG03-I&udm=4&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQs6gLegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQ0pQJegQIChAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 4,
+                "title": "Qui",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+sunsource+energy+qui&uds=AMIYvT_2diZ-s1DVHabsm3a53Z4MZx4RtM15xeFCgS6sI7ZMhDGqza29oPl2TBEscht8lrKmKCxd4PBe8DlCTeDqm4gBj9Y8Il05cmYth4fqpyfbfMsFbQcINi3jdWdzupOlydiSrRN8sYlGeM_qsvJl4nn5lTw1z7LGiBpTzPGusTrWRlb73y0&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQxKsJegQICRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+sunsource+energy+qui"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQ0pQJegQIQBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 7,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQ0pQJegQIPhAB"
+            },
+            {
+                "position": 8,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=What+is+the+funding+info+of+the+company+SunSource+Energy?&source=lnms&entry=mc"
+            },
+            {
+                "position": 9,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&source=lnms"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/6591333e33b23689538f8292/images/36cca9a25210aba566f6b5f26cc169bdfa6049843baa47c74c5397d0d3af438e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2FFbEtaRzFXTVZOMFJsTnpWR0pNYm10bGQyVTVWa3hvUVdoVVZFWk5Ta3hYT0U5aGFVZGxRVnB5WjBjM1pGUmZSMWwyZERaRGJtaE5VMlZaVEhWclpYZE9lbnBmRWhkUWFrOVNXbVJxYTA5bFMzRnhkSE5RTjNVMk1IbEJTUm9pUVVwM2F5MDRaWFZNTVdkeVZ6TlJXbGRCZUc1dlFrNXZiRXhzZDFrM2JHRkxkdyIsImZjdiI6IjMiLCJlaSI6IlBqT1JaZGprT2VLcXF0c1A3dTYweUFJIiwicWMiOiJjLU95S005SUxGSElMRllveVVoVlNDdk5TOG5NUzFmSXpFdkxWOGhQQTRzbDUtY1dKT1pWS2hTWDVoWG5seFlscHlxazVxVVdwVmNLTU5UYWN6RFlBd0EiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOcGNXbEdwNlJXQUpUbnBPYW5waWprSmVZQzlKWmhOQmlMN0hmWFlBUkFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2FFbEtaRzFXTVZOMFJsTnpWR0pNYm10bGQyVTVWa3hvUVdoVVZFWk5Ta3hYT0U5aGFVZGxRVnB5WjBjM1pGUmZSMWwyZERaRGJtaE5VMlZaVEhWclpYZE9lbnBmRWhkUWFrOVNXbVJxYTA5bFMzRnhkSE5RTjNVMk1IbEJTUm9pUVVwM2F5MDRaWFZNTVdkeVZ6TlJXbGRCZUc1dlFrNXZiRXhzZDFrM2JHRkxkdyIsImZjdiI6IjMiLCJlaSI6IlBqT1JaZGprT2VLcXF0c1A3dTYweUFJIiwicWMiOiJjLU95S005SUxGSElMRllveVVoVlNDdk5TOG5NUzFmSXpFdkxWOGhQQTRzbDUtY1dKT1pWS2hTWDVoWG5seFlscHlxazVxVVdwVmNLTU5UYWN6RFlBd0EiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOcGNXbEdwNlJXQUpUbnBPYW5waWprSmVZQzlKWmhOQmlMN0hmWFlBUkFBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What is the legal name for SunSource?",
+            "snippet": "SunSource Holdings, Inc.",
+            "title": "SunSource Holdings Inc - Company Profile and News - Bloomberg.com",
+            "link": "https://www.bloomberg.com/profile/company/0300922Z:US#:~:text=SunSource%20Holdings%2C%20Inc.",
+            "displayed_link": "https://www.bloomberg.com \u203a profile \u203a company",
+            "source_logo": "https://serpapi.com/searches/6591333e33b23689538f8292/images/36cca9a25210aba566f6b5f26cc169bd8b06d46d6e762db21d1190701980935b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2FFbEtaRzFXTVZOMFJsTnpWR0pNYm10bGQyVTVWa3hvUVdoVVZFWk5Ta3hYT0U5aGFVZGxRVnB5WjBjM1pGUmZSMWwyZERaRGJtaE5VMlZaVEhWclpYZE9lbnBmRWhkUWFrOVNXbVJxYTA5bFMzRnhkSE5RTjNVMk1IbEJTUm9pUVVwM2F5MDRaWFZNTVdkeVZ6TlJXbGRCZUc1dlFrNXZiRXhzZDFrM2JHRkxkdyIsImZjdiI6IjMiLCJlaSI6IlBqT1JaZGprT2VLcXF0c1A3dTYweUFJIiwicWMiOiJjLU95S005SUxGSElMRllveVVoVlNDdk5TOG5NUzFmSXpFdkxWOGhQQTRzbDUtY1dKT1pWS2hTWDVoWG5seFlscHlxazVxVVdwVmNLTU5UYWN6RFlBd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGxlZ2FsIG5hbWUgZm9yIFN1blNvdXJjZT8iLCJsayI6IkdoUnpkVzV6YjNWeVkyVWdiR1ZuWVd3Z2JtRnRaUSIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWpMTDgxTFNTMVN5RTlUQ0M3TkM4NHZMVXBPVlVqTlN5MUtyN1NYdU1iTnBjV2xHcDZSV0FKVG5wT2FucGlqa0plWUM5SlpoTkJpTDdIZlhZQVJBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsV2FFbEtaRzFXTVZOMFJsTnpWR0pNYm10bGQyVTVWa3hvUVdoVVZFWk5Ta3hYT0U5aGFVZGxRVnB5WjBjM1pGUmZSMWwyZERaRGJtaE5VMlZaVEhWclpYZE9lbnBmRWhkUWFrOVNXbVJxYTA5bFMzRnhkSE5RTjNVMk1IbEJTUm9pUVVwM2F5MDRaWFZNTVdkeVZ6TlJXbGRCZUc1dlFrNXZiRXhzZDFrM2JHRkxkdyIsImZjdiI6IjMiLCJlaSI6IlBqT1JaZGprT2VLcXF0c1A3dTYweUFJIiwicWMiOiJjLU95S005SUxGSElMRllveVVoVlNDdk5TOG5NUzFmSXpFdkxWOGhQQTRzbDUtY1dKT1pWS2hTWDVoWG5seFlscHlxazVxVVdwVmNLTU5UYWN6RFlBd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGxlZ2FsIG5hbWUgZm9yIFN1blNvdXJjZT8iLCJsayI6IkdoUnpkVzV6YjNWeVkyVWdiR1ZuWVd3Z2JtRnRaUSIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWpMTDgxTFNTMVN5RTlUQ0M3TkM4NHZMVXBPVlVqTlN5MUtyN1NYdU1iTnBjV2xHcDZSV0FKVG5wT2FucGlqa0plWUM5SlpoTkJpTDdIZlhZQVJBQSIsImlkIjoiZmNfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/sunsource-energy&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECBEQAQ",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a58020d9124d72dfbd2724835ddd14e394043.png",
+            "snippet": "SunSource Energy develops, engineers, procures, constructs, and operates solar power plants and projects.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "Crunchbase"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy - Funding, Financials, Valuation & ...",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy/company_financials",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/sunsource-energy/company_financials&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECBgQAQ",
+            "displayed_link": "https://www.crunchbase.com \u203a company_financials",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a5802658eb229958ad8879fe08c45e017f466.png",
+            "snippet": "SunSource Energy is funded by SBICAP Ventures . Unlock for free ...",
+            "snippet_highlighted_words": [
+                "by SBICAP Ventures"
+            ],
+            "source": "Crunchbase"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy - Raised $7.54M Funding from 1 investor",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc/funding-and-investors",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc/funding-and-investors&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECBUQAQ",
+            "displayed_link": "https://tracxn.com \u203a Discover \u203a SunSource Energy",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a5802a7b24c640d22e2242caea8cd9922c242.png",
+            "date": "Dec 15, 2023",
+            "snippet": "SunSource Energy has raised a total funding of $7.54M over 2 rounds from 1 investor. Investor includes Neev Fund. Their latest funding round ...",
+            "snippet_highlighted_words": [
+                "7.54M"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy Secures Project Financing from ...",
+            "link": "https://www.sunsource-energy.com/sunsource-energy-secures-project-financing-sunfunder",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/sunsource-energy-secures-project-financing-sunfunder&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECBIQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a sunsource-energ...",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a5802b64ca626b10fc6e9ba5bc8d8cd88594a.png",
+            "snippet": "SunSource Energy, has entered into a Project Financing agreement with SunFunder \u2013 an international solar finance company.",
+            "snippet_highlighted_words": [
+                "Project Financing"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy Company Profile: Valuation, Investors ...",
+            "link": "https://pitchbook.com/profiles/company/227498-68",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pitchbook.com/profiles/company/227498-68&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECBcQAQ",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a580228c08e84fcf78fcc48b6a3e76195045a.png",
+            "snippet": "Information on acquisition, funding, investors, and executives for SunSource Energy. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "investors"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy - Company Profile",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECC4QAQ",
+            "displayed_link": "https://tracxn.com \u203a Discover",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a58027ea017821ffed1be17f909ddde4dd1f6.png",
+            "date": "Dec 22, 2023",
+            "snippet": "SunSource Energy - IPP and solar EPC company. Acquired by SHV Energy. Raised a total funding of $7.54M over 2 rounds from 1 investor.",
+            "snippet_highlighted_words": [
+                "7.54M over 2 rounds"
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy Stock Price, Funding, Valuation, ...",
+            "link": "https://www.cbinsights.com/company/sunsource-energy/financials",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbinsights.com/company/sunsource-energy/financials&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECDEQAQ",
+            "displayed_link": "https://www.cbinsights.com \u203a company \u203a financials",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a5802d0d85178a2649c895a5b04efddd69e86.png",
+            "snippet": "See SunSource Energy funding rounds, investors, investments, exits and more. Evaluate their financials based on SunSource Energy's post-money valuation and ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy funding",
+                "SunSource Energy's"
+            ],
+            "source": "CB Insights"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Company Profile: Valuation, Funding & Investors",
+            "link": "https://pitchbook.com/profiles/company/12092-14",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pitchbook.com/profiles/company/12092-14&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECDAQAQ",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a5802b59184f876682837d33f54121310a35b.png",
+            "snippet": "Information on valuation, funding, acquisitions, investors, and executives for SunSource. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "Information on",
+                "funding",
+                "SunSource",
+                "profile"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 9,
+            "title": "SunSource Energy Company Profile, information, investors ...",
+            "link": "https://yourstory.com/companies/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://yourstory.com/companies/sunsource-energy&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECC8QAQ",
+            "displayed_link": "https://yourstory.com \u203a companies \u203a sunsource-energy",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a5802adb1f1b13ff05012f5ce39d537c52906.png",
+            "snippet": "SunSource India is a solar energy developer and provides end-to-end solar project development, financing, EPC & O&M services. Construction, Energy.",
+            "snippet_highlighted_words": [
+                "solar"
+            ],
+            "source": "YourStory.com"
+        },
+        {
+            "position": 10,
+            "title": "Neev Fund Backed SunSource Energy Inaugurates a 6 ...",
+            "link": "https://www.sunsource-energy.com/sites/default/files/2023-08/NEEV%20Backed%20SunSource%20Energy%20Inaugurates%20a%206%20MW%20rooftop%20project%20for%20a%20Leading%20Textile%20Company.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/sites/default/files/2023-08/NEEV%2520Backed%2520SunSource%2520Energy%2520Inaugurates%2520a%25206%2520MW%2520rooftop%2520project%2520for%2520a%2520Leading%2520Textile%2520Company.pdf&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQFnoECDcQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a sites \u203a files",
+            "favicon": "https://serpapi.com/searches/6591333e33b23689538f8292/images/322e096fc25aa01b4fa62dd2016a58026838d5e05d6a25cbc74db9596920d796.png",
+            "snippet": "Neev Fund Backed SunSource Energy Inaugurates a 6 MW rooftop project for a Leading Textile Company. \u2022 Neev Fund is backed by State Bank of India (SBI) Group ...",
+            "snippet_highlighted_words": [
+                "Neev Fund"
+            ],
+            "source": "SunSource Energy"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "What is the funding info of the company sunsource energy qui",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=What+is+the+funding+info+of+the+company+sunsource+energy+qui&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+sunsource+energy+qui"
+        },
+        {
+            "block_position": 1,
+            "query": "shv energy",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SHV+Energy&sa=X&ved=2ahUKEwjY-8yhrbmDAxVilWoFHW43DSkQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SHV+Energy"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&oq=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&oq=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&oq=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&oq=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&oq=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+is+the+funding+info+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

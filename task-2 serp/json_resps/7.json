@@ -1,0 +1,353 @@
+{
+    "search_metadata": {
+        "id": "659132af969c08e468d2c25e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3bfaca6ad77a453e/659132af969c08e468d2c25e.json",
+        "created_at": "2023-12-31 09:21:51 UTC",
+        "processed_at": "2023-12-31 09:21:51 UTC",
+        "google_url": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&oq=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3bfaca6ad77a453e/659132af969c08e468d2c25e.html",
+        "total_time_taken": 1.93
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Who is the target market of the company SunSource Energy?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Who is the target market of the company SunSource Energy?",
+        "total_results": 230000,
+        "time_taken_displayed": 0.41,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "All"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sca_esv=594717547&tbm=nws&source=lnms&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ_AUoAXoECAEQAw",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sca_esv=594717547&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ_AUoAnoECAEQBA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 4,
+                "title": "Books",
+                "link": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sca_esv=594717547&tbm=bks&source=lnms&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ_AUoA3oECAEQBQ"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sca_esv=594717547&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ_AUoBHoECAEQBg",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 6,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&um=1&ie=UTF-8"
+            },
+            {
+                "position": 7,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sca_esv=594717547&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&sca_esv=594717547&tbm=flm&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ_AUoA3oECAEQDQ"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "Who is the founder of SunSource energy?",
+            "snippet": "Kushaagra Nandan - Co-Founder, MD & CEO - SunSource Energy | LinkedIn.",
+            "title": "Kushaagra Nandan - Co-Founder",
+            "link": "https://in.linkedin.com/in/kushagra#:~:text=Kushaagra%20Nandan%20%2D%20Co%2DFounder%2C,%26%20CEO%20%2D%20SunSource%20Energy%20%7C%20LinkedIn",
+            "displayed_link": "https://in.linkedin.com \u203a kushagra",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjwZbJs_nMjwM9GMqMPaQiSMC-bXC3cXqBP5ehtLlCw&s",
+            "source_logo": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/847608bfdea2dbf6ddd66c7d6c0098beecca64606df6d1a64ef233d04f2556ef.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsWGFYVkxUSEJZUlUxVWQzSnZWMUpXVGpsRGEyTXlOemhGVWtWR1JqSkhaV1J5ZEdwZlFqaHBlSHBSVVUxNVVIUmZiRlU0VlU1MU1qSTFVVEJmWm05SGFUVnRiVEJZRWhaelJFdFNXbU5UZUU4MVdEbHdkRkZRYUhKcGNrOUJHaUpCU25kckxUaGpXakZpYmxodFNHdEphM1UwWkRBNE1ERm9UblZpTkVWcmVuZEIiLCJmY3YiOiIzIiwiZWkiOiJzREtSWmNTeE81WDlwdFFQaHJpck9BIiwicWMiOiJjLU95S01fSVY4Z3NWaWpKU0ZVb1NTeEtUeTFSeUUwc3lnWlMtV2xnd2VUODNJTEV2RXFGNHRLODR2elNvdVJVaGRTODFLTDBTZ0dHMnU5cDJ2WUEiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOQlZhZFdBSlRYZ3hSQUZRTjVwWG1xUmZEVmEtdDVGTGpVdlRJTDFkSXlrd0hhU2pPejBrc1VzaE5MTXBPQlJxUXAtQ1psNUtaYUM4eFNWU0FFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsWGFYVkxUSEJZUlUxVWQzSnZWMUpXVGpsRGEyTXlOemhGVWtWR1JqSkhaV1J5ZEdwZlFqaHBlSHBSVVUxNVVIUmZiRlU0VlU1MU1qSTFVVEJmWm05SGFUVnRiVEJZRWhaelJFdFNXbU5UZUU4MVdEbHdkRkZRYUhKcGNrOUJHaUpCU25kckxUaGpXakZpYmxodFNHdEphM1UwWkRBNE1ERm9UblZpTkVWcmVuZEIiLCJmY3YiOiIzIiwiZWkiOiJzREtSWmNTeE81WDlwdFFQaHJpck9BIiwicWMiOiJjLU95S01fSVY4Z3NWaWpKU0ZVb1NTeEtUeTFSeUUwc3lnWlMtV2xnd2VUODNJTEV2RXFGNHRLODR2elNvdVJVaGRTODFLTDBTZ0dHMnU5cDJ2WUEiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgZm91bmRlciBvZiBTdW5Tb3VyY2UgZW5lcmd5PyIsImxrIjoiR2h0bWIzVnVaR1Z5SUc5bUlITjFibk52ZFhKalpTQmxibVZ5WjNrIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOQlZhZFdBSlRYZ3hSQUZRTjVwWG1xUmZEVmEtdDVGTGpVdlRJTDFkSXlrd0hhU2pPejBrc1VzaE5MTXBPQlJxUXAtQ1psNUtaYUM4eFNWU0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the source of the sun's energy?",
+            "snippet": "Solar energy is created by nuclear fusion that takes place in the sun. Fusion occurs when protons of hydrogen atoms violently collide in the sun's core and fuse to create a helium atom. This process, known as a PP (proton-proton) chain reaction, emits an enormous amount of energy.",
+            "title": "Solar Energy - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/solar-energy/#:~:text=by%20the%20sun.-,Solar%20energy%20is%20created%20by%20nuclear%20fusion%20that%20takes%20place,an%20enormous%20amount%20of%20energy.",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a sol...",
+            "source_logo": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/847608bfdea2dbf6ddd66c7d6c0098be5bd920c993e1fb29ccd76c3f23ca7af5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsWGFYVkxUSEJZUlUxVWQzSnZWMUpXVGpsRGEyTXlOemhGVWtWR1JqSkhaV1J5ZEdwZlFqaHBlSHBSVVUxNVVIUmZiRlU0VlU1MU1qSTFVVEJmWm05SGFUVnRiVEJZRWhaelJFdFNXbU5UZUU4MVdEbHdkRkZRYUhKcGNrOUJHaUpCU25kckxUaGpXakZpYmxodFNHdEphM1UwWkRBNE1ERm9UblZpTkVWcmVuZEIiLCJmY3YiOiIzIiwiZWkiOiJzREtSWmNTeE81WDlwdFFQaHJpck9BIiwicWMiOiJjLU95S01fSVY4Z3NWaWpKU0ZVb1NTeEtUeTFSeUUwc3lnWlMtV2xnd2VUODNJTEV2RXFGNHRLODR2elNvdVJVaGRTODFLTDBTZ0dHMnU5cDJ2WUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNvdXJjZSBvZiB0aGUgc3VuJ3MgZW5lcmd5PyIsImxrIjoiR2hSemRXNGdjMjkxY21ObElHOW1JR1Z1WlhKbmVRIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOQlZhZFdBSlRYZ3hSQUZRTjVwWG1xUmZEVmEtdDVGTGpVdlRJTDFkSXlrd0hhU2pPejBrc1VzaE5MTXBPQlJxUXAtQ1psNUtaYUM4eFNWU0FFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsWGFYVkxUSEJZUlUxVWQzSnZWMUpXVGpsRGEyTXlOemhGVWtWR1JqSkhaV1J5ZEdwZlFqaHBlSHBSVVUxNVVIUmZiRlU0VlU1MU1qSTFVVEJmWm05SGFUVnRiVEJZRWhaelJFdFNXbU5UZUU4MVdEbHdkRkZRYUhKcGNrOUJHaUpCU25kckxUaGpXakZpYmxodFNHdEphM1UwWkRBNE1ERm9UblZpTkVWcmVuZEIiLCJmY3YiOiIzIiwiZWkiOiJzREtSWmNTeE81WDlwdFFQaHJpck9BIiwicWMiOiJjLU95S01fSVY4Z3NWaWpKU0ZVb1NTeEtUeTFSeUUwc3lnWlMtV2xnd2VUODNJTEV2RXFGNHRLODR2elNvdVJVaGRTODFLTDBTZ0dHMnU5cDJ2WUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHNvdXJjZSBvZiB0aGUgc3VuJ3MgZW5lcmd5PyIsImxrIjoiR2hSemRXNGdjMjkxY21ObElHOW1JR1Z1WlhKbmVRIiwiYnMiOiJjLVBTNFZJUHo4aFh5Q3hXS01sSVZVakxMODFMU1MxU3lFOVRDQzdOQzg0dkxVcE9WVWpOU3kxS3I3U1h1TWJOQlZhZFdBSlRYZ3hSQUZRTjVwWG1xUmZEVmEtdDVGTGpVdlRJTDFkSXlrd0hhU2pPejBrc1VzaE5MTXBPQlJxUXAtQ1psNUtaYUM4eFNWU0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "How big is solar market in India?",
+            "snippet": "The India Solar Energy Market was estimated at USD 38 billion in 2021 and is anticipated to reach around USD 238 billion by 2030, growing at a CAGR of roughly 40% between 2022 and 2030.",
+            "title": "India Solar Energy Market Report 2023: Industry Overview, Size ...",
+            "date": "Sep 4, 2023",
+            "link": "https://www.linkedin.com/pulse/india-solar-energy-market-report-2023-industry-size-share-wankhade#:~:text=The%20India%20Solar%20Energy%20Market,40%25%20between%202022%20and%202030.",
+            "displayed_link": "https://www.linkedin.com \u203a pulse \u203a india-solar-energy-m...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7rkZX7-0DDqncthH8Z0FjpTYR7sSeIpzWT5CsFR82&s",
+            "source_logo": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/847608bfdea2dbf6ddd66c7d6c0098beb73f06c152ec1ca7e08c939ec288ea98.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsWGFYVkxUSEJZUlUxVWQzSnZWMUpXVGpsRGEyTXlOemhGVWtWR1JqSkhaV1J5ZEdwZlFqaHBlSHBSVVUxNVVIUmZiRlU0VlU1MU1qSTFVVEJmWm05SGFUVnRiVEJZRWhaelJFdFNXbU5UZUU4MVdEbHdkRkZRYUhKcGNrOUJHaUpCU25kckxUaGpXakZpYmxodFNHdEphM1UwWkRBNE1ERm9UblZpTkVWcmVuZEIiLCJmY3YiOiIzIiwiZWkiOiJzREtSWmNTeE81WDlwdFFQaHJpck9BIiwicWMiOiJjLU95S01fSVY4Z3NWaWpKU0ZVb1NTeEtUeTFSeUUwc3lnWlMtV2xnd2VUODNJTEV2RXFGNHRLODR2elNvdVJVaGRTODFLTDBTZ0dHMnU5cDJ2WUEiLCJxdWVzdGlvbiI6IkhvdyBiaWcgaXMgc29sYXIgbWFya2V0IGluIEluZGlhPyIsImxrIjoiR2lCb2IzY2dZbWxuSUdseklITnZiR0Z5SUcxaGNtdGxkQ0JwYmlCcGJtUnBZUSIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWpMTDgxTFNTMVN5RTlUQ0M3TkM4NHZMVXBPVlVqTlN5MUtyN1NYdU1iTkJWYWRXQUpUWGd4UkFGUU41cFhtcVJmRFZhLXQ1RkxqVXZUSUwxZEl5a3dIYVNqT3owa3NVc2hOTE1wT0JScVFwLUNabDVLWmFDOHhTVlNBRVFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJURTl1Y0ZsWGFYVkxUSEJZUlUxVWQzSnZWMUpXVGpsRGEyTXlOemhGVWtWR1JqSkhaV1J5ZEdwZlFqaHBlSHBSVVUxNVVIUmZiRlU0VlU1MU1qSTFVVEJmWm05SGFUVnRiVEJZRWhaelJFdFNXbU5UZUU4MVdEbHdkRkZRYUhKcGNrOUJHaUpCU25kckxUaGpXakZpYmxodFNHdEphM1UwWkRBNE1ERm9UblZpTkVWcmVuZEIiLCJmY3YiOiIzIiwiZWkiOiJzREtSWmNTeE81WDlwdFFQaHJpck9BIiwicWMiOiJjLU95S01fSVY4Z3NWaWpKU0ZVb1NTeEtUeTFSeUUwc3lnWlMtV2xnd2VUODNJTEV2RXFGNHRLODR2elNvdVJVaGRTODFLTDBTZ0dHMnU5cDJ2WUEiLCJxdWVzdGlvbiI6IkhvdyBiaWcgaXMgc29sYXIgbWFya2V0IGluIEluZGlhPyIsImxrIjoiR2lCb2IzY2dZbWxuSUdseklITnZiR0Z5SUcxaGNtdGxkQ0JwYmlCcGJtUnBZUSIsImJzIjoiYy1QUzRWSVB6OGhYeUN4V0tNbElWVWpMTDgxTFNTMVN5RTlUQ0M3TkM4NHZMVXBPVlVqTlN5MUtyN1NYdU1iTkJWYWRXQUpUWGd4UkFGUU41cFhtcVJmRFZhLXQ1RkxqVXZUSUwxZEl5a3dIYVNqT3owa3NVc2hOTE1wT0JScVFwLUNabDVLWmFDOHhTVlNBRVFBIiwiaWQiOiJmY18xIn0%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "SunSource Energy - LinkedIn",
+        "link": "https://www.linkedin.com/company/sunsource-energy#:~:text=SunSource%20Energy%20is%20a%20leading,commercial%2C%20industrial%20and%20institutional%20customers.",
+        "displayed_link": "https://www.linkedin.com \u203a company \u203a sunsource-energy",
+        "date": "Mar 16, 2018",
+        "snippet": "SunSource Energy is a leading provider of solar-based energy and storage solutions to commercial, industrial and institutional customers.",
+        "snippet_highlighted_words": [
+            "commercial, industrial and institutional customers"
+        ],
+        "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/935c0f5e55b41932d6f6c6f8ef69c7ecbd696dc9243191f4.png",
+        "source": "LinkedIn"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy doubles its solar energy target to one ...",
+            "link": "https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shvenergy.com/news-stories/20221114-sunsource-energy-doubles-its-solar-energy-target-to-one-gigawatt&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECBQQAQ",
+            "displayed_link": "https://www.shvenergy.com \u203a news-stories \u203a 2022111...",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00b59fb6523707779923c69ff99cf761491.png",
+            "date": "Nov 14, 2022",
+            "snippet": "SHV Energy, via its Indian subsidiary SunSource Energy, has announced it will double its solar energy deployment target by 2027.",
+            "snippet_highlighted_words": [
+                "SHV Energy"
+            ],
+            "source": "SHV Energy"
+        },
+        {
+            "position": 2,
+            "title": "SunSource Energy doubles solar energy target to 1GW by 2027",
+            "link": "https://www.livemint.com/industry/energy/sunsource-energy-doubles-solar-energy-target-to-1gw-by-2027-11668436536080.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livemint.com/industry/energy/sunsource-energy-doubles-solar-energy-target-to-1gw-by-2027-11668436536080.html&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECBUQAQ",
+            "displayed_link": "https://www.livemint.com \u203a Industry \u203a Energy",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00be55e0555e6850c1cb13b4cfb8a27c811.png",
+            "date": "Nov 14, 2022",
+            "snippet": "The target will increase from 550 megawatts to one gigawatt by 2027. The increased solar energy capacity will help to support a growing customer ...",
+            "snippet_highlighted_words": [
+                "550 megawatts to one gigawatt"
+            ],
+            "source": "livemint.com"
+        },
+        {
+            "position": 3,
+            "title": "SunSource Energy: Leading Solar Energy Company in India",
+            "link": "https://www.sunsource-energy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECBYQAQ",
+            "displayed_link": "https://www.sunsource-energy.com",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00b435dc8a5ce27d7af36e95e9a37b0f978.png",
+            "snippet": "A leading provider of solar-based energy and storage solutions to commercial, industrial and institutional clients in India, South East Asia, Middle East and ...",
+            "snippet_highlighted_words": [
+                "solar",
+                "energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "About - Sun Source Energy",
+            "link": "https://sunsourceusa.com/about/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sunsourceusa.com/about/&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECDYQAQ",
+            "displayed_link": "https://sunsourceusa.com \u203a about",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00be479468329537b517d3ba6bce3598a8c.png",
+            "snippet": "Our solar energy company is a family of professionals. Meet the leadership lighting the way on how solar energy contractors should perform. Sean Crotty. Chief ...",
+            "snippet_highlighted_words": [
+                "solar energy company",
+                "solar energy"
+            ],
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 5,
+            "title": "SunSource Energy - Company Profile",
+            "link": "https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tracxn.com/d/companies/sunsource-energy/__JBWAZefZbRpx7JH-jURbxsCsLXOcPDV49pfqXsgQIoc&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECDQQAQ",
+            "displayed_link": "https://tracxn.com \u203a Discover",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00bad117cbca077e4aa73141baa7586faf8.png",
+            "date": "Dec 22, 2023",
+            "snippet": "SunSource Energy serves in the B2B space in the Energy, Environment market segments. ... SunSource Energy doubles solar energy target to 1GW by ...",
+            "snippet_highlighted_words": [
+                "1GW"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "questions": [
+                        "Where is SunSource Energy located?",
+                        "Is SunSource Energy a public company?"
+                    ]
+                }
+            },
+            "related_questions": [
+                {
+                    "question": "Where is SunSource Energy located?",
+                    "snippet": "SunSource Energy is located in Noida, India.",
+                    "snippet_links": [
+                        {
+                            "text": "India",
+                            "link": "https://tracxn.com/d/geographies/india/__ujYf3QI9FSnpS3x-zJCSwnay2nENQhm1kAN-U8-6Kfg"
+                        }
+                    ]
+                },
+                {
+                    "question": "Is SunSource Energy a public company?",
+                    "snippet": "SunSource Energy is not a Public company. Its current company stage is Acquired"
+                }
+            ],
+            "source": "Tracxn"
+        },
+        {
+            "position": 6,
+            "title": "SunSource Energy - Crunchbase Company Profile & Funding",
+            "link": "https://www.crunchbase.com/organization/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crunchbase.com/organization/sunsource-energy&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECDUQAQ",
+            "displayed_link": "https://www.crunchbase.com \u203a organization \u203a sunsour...",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00b69f8ff0268dc9789fa512e31a672f77f.png",
+            "snippet": "SunSource Energy doubles solar energy target to 1GW by 2027. News\u2022 Sep 6, 2022. Renewable Energy Magazine, at the heart of clean energy journalism \u2014 Solargis ...",
+            "snippet_highlighted_words": [
+                "1GW"
+            ],
+            "source": "Crunchbase"
+        },
+        {
+            "position": 7,
+            "title": "SunSource doubles its solar energy target to 1 GW by 2027",
+            "link": "https://www.pv-magazine-india.com/2022/11/16/sunsource-doubles-solar-energy-target-to-1-gw-by-2027/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pv-magazine-india.com/2022/11/16/sunsource-doubles-solar-energy-target-to-1-gw-by-2027/&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECDgQAQ",
+            "displayed_link": "https://www.pv-magazine-india.com \u203a 2022/11/16 \u203a s...",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00b7d8ad11dcc8f156dfc5470cccc6aaa45.png",
+            "date": "Nov 16, 2022",
+            "snippet": "SunSource Energy, the Indian arm of Dutch multinational SHV Energy, now targets to install 1 GW of solar capacity by 2027. Its India leadership ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "source": "pv magazine India"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy: The Growth Conundrum",
+            "link": "https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iveypublishing.ca/s/product/sunsource-energy-the-growth-conundrum/01t5c00000D6FD0&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECDMQAQ",
+            "displayed_link": "https://www.iveypublishing.ca \u203a product \u203a sunsource-...",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00bc6971dc41d8712ba8448d06785931764.png",
+            "date": "Jun 29, 2022",
+            "snippet": "In 2021, SunSource Energy was evaluating its growth strategy options. An entrepreneurial venture in the renewable energy sector, ...",
+            "snippet_highlighted_words": [
+                "renewable energy sector"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "ca": 9.25
+                    },
+                    "extensions": [
+                        "CA$9.25"
+                    ]
+                }
+            },
+            "source": "Ivey Publishing"
+        },
+        {
+            "position": 9,
+            "title": "Sun Source Energy, LLC | Better Business Bureau\u00ae Profile",
+            "link": "https://www.bbb.org/us/nv/las-vegas/profile/solar-energy-contractors/sun-source-energy-llc-1086-90080045",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbb.org/us/nv/las-vegas/profile/solar-energy-contractors/sun-source-energy-llc-1086-90080045&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQFnoECDcQAQ",
+            "displayed_link": "https://www.bbb.org \u203a ... \u203a Solar Energy Contractors",
+            "favicon": "https://serpapi.com/searches/659132af969c08e468d2c25e/images/6090aafb839e324124946d5a75a7b00bae81e90ac0c941f985816e4779f3f679.png",
+            "snippet": "BBB accredited since 11/3/2021. Solar Energy Contractors in Las Vegas, NV. See BBB rating, reviews, complaints, get a quote & more.",
+            "snippet_highlighted_words": [
+                "Solar Energy"
+            ],
+            "source": "Better Business Bureau"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india) ltd share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=sun+source+(india)+ltd+share+price&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=sun+source+%28india%29+ltd+share+price"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy careers",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+energy+careers&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+energy+careers"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy logo",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+logo&sa=X&ved=2ahUKEwjEyfPdrLmDAxWVvokEHQbcCgcQ1QJ6BAgqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+logo"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&oq=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&oq=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&oq=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&oq=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&oq=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Who+is+the+target+market+of+the+company+SunSource+Energy%3F&start=40"
+        }
+    }
+}

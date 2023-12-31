@@ -1,0 +1,372 @@
+{
+    "search_metadata": {
+        "id": "6591333ddefa1343a3e6641d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3bc925bb17a6e23c/6591333ddefa1343a3e6641d.json",
+        "created_at": "2023-12-31 09:24:13 UTC",
+        "processed_at": "2023-12-31 09:24:13 UTC",
+        "google_url": "https://www.google.com/search?q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&oq=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/3bc925bb17a6e23c/6591333ddefa1343a3e6641d.html",
+        "total_time_taken": 0.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "How many followers does the company SunSource Energy have on all social media platforms?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "How many followers does the company SunSource Energy have on all social media platforms?",
+        "total_results": 52400,
+        "time_taken_displayed": 0.44,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&uds=AMIYvT_JcubXSIjc-BL63aH6gWTckFDhztMxkvRJeBfqwMlZabaT640ZZEDykdiUH1h-NYYGQHIO7yo5Zh5ewdSv2Y6tAktTVmco5NEaU7u4iMJw44CqWjwtrX8a1GpohTSqnK7YgKuWtYJ-fRW32MEBJ4A8OMSb2O1EJR_Ukrdy2ba5JWUtGG9UF1mj5Bqb5SMRYMN1gAdy3SMQ0G12PpRwGcTTgdIjZEskKqUxgzFa_mUVbM7yP9I&udm=4&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Qs6gLegQIDhAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q0pQJegQIDRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F"
+            },
+            {
+                "position": 5,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F"
+            },
+            {
+                "position": 6,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q0pQJegQITxAB"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=594717547&output=search&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms?&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=594717547&output=search&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sca_esv=594717547&output=search&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&source=lnms&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q0pQJegQIThAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the revenue of Sun Source?",
+            "snippet": "SunSource's revenue is $320.0 million. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/#:~:text=SunSource's%20revenue%20is%20%24320.0%20million.&text=SunSource%20peak%20revenue%20was%20%24320.0M%20in%202022.",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837 \u203a r...",
+            "source_logo": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/889dae8dde731bef03eeafb3eb61793b87f7b7d126d0b5c4ad0bddd5036d745f.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJldmVudWUgb2YgU3VuIFNvdXJjZT8iLCJsayI6IkdoSnpkVzRnYzI5MWNtTmxJSEpsZG1WdWRXVSIsImJzIjoiYy1OUzUxSUt6MGdzVWNnc1ZpakpTRlVvU2kxTHpTdE5WY2hQVXdndXpWTUl6aTh0U2s2MWx6aG53S1hNSlJlZWtROVRsMS1lbDFvRVZRVlRkQ0NGUzROTEdVbVJzNnNfaWhLRlZLQ205RXA3aWE1QUxqMHVUV1I3TV9OS2l2SlRTcE5MTXZQelFIcUs4M01TaS1EcWY3a0xNQUlBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJldmVudWUgb2YgU3VuIFNvdXJjZT8iLCJsayI6IkdoSnpkVzRnYzI5MWNtTmxJSEpsZG1WdWRXVSIsImJzIjoiYy1OUzUxSUt6MGdzVWNnc1ZpakpTRlVvU2kxTHpTdE5WY2hQVXdndXpWTUl6aTh0U2s2MWx6aG53S1hNSlJlZWtROVRsMS1lbDFvRVZRVlRkQ0NGUzROTEdVbVJzNnNfaWhLRlZLQ205RXA3aWE1QUxqMHVUV1I3TV9OS2l2SlRTcE5MTXZQelFIcUs4M01TaS1EcWY3a0xNQUlBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the owner of SunSource?",
+            "snippet": "Clayton, Dubilier & Rice Acquires SunSource.",
+            "title": "Clayton, Dubilier & Rice Acquires SunSource",
+            "date": "Dec 11, 2017",
+            "link": "https://www.cdr-inc.com/news/press-release/clayton-dubilier-rice-acquires-sunsource",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a clayton...",
+            "source_logo": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/889dae8dde731bef03eeafb3eb61793bb185f9101f2df0d6ce6797e4b18d31c7.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgb3duZXIgb2YgU3VuU291cmNlPyIsImxrIjoiR2c5emRXNXpiM1Z5WTJVZ2IzZHVaWEkiLCJicyI6ImMtTlM1MUlLejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6Vk1Jemk4dFNrNjFsemhud0tYTUpSZWVrUTlUbDEtZWwxb0VWUVZUZENDRlM0TkxHVW1SczZzX2loS0ZWS0NtOUVwN2lhNUFMajB1VFdSN01fTktpdkpUU3BOTE12UHpRSHFLODNNU2ktRHFmN2tMTUFJQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgb3duZXIgb2YgU3VuU291cmNlPyIsImxrIjoiR2c5emRXNXpiM1Z5WTJVZ2IzZHVaWEkiLCJicyI6ImMtTlM1MUlLejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6Vk1Jemk4dFNrNjFsemhud0tYTUpSZWVrUTlUbDEtZWwxb0VWUVZUZENDRlM0TkxHVW1SczZzX2loS0ZWS0NtOUVwN2lhNUFMajB1VFdSN01fTktpdkpUU3BOTE12UHpRSHFLODNNU2ktRHFmN2tMTUFJQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Who is the CEO of SunSource energy?",
+            "snippet": "Kushagra Nandan | SunSource Energy.",
+            "title": "Kushagra Nandan",
+            "link": "https://www.sunsource-energy.com/kushagra-nandan#:~:text=Kushagra%20Nandan%20%7C%20SunSource%20Energy",
+            "displayed_link": "https://www.sunsource-energy.com \u203a kushagra-nandan",
+            "source_logo": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/889dae8dde731bef03eeafb3eb61793b963e99b34dff23357fdba60b5ddd6398.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgQ0VPIG9mIFN1blNvdXJjZSBlbmVyZ3k/IiwibGsiOiJHaFJ6ZFc1emIzVnlZMlVnWlc1bGNtZDVJR05sYnciLCJicyI6ImMtTlM1MUlLejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6Vk1Jemk4dFNrNjFsemhud0tYTUpSZWVrUTlUbDEtZWwxb0VWUVZUZENDRlM0TkxHVW1SczZzX2loS0ZWS0NtOUVwN2lhNUFMajB1VFdSN01fTktpdkpUU3BOTE12UHpRSHFLODNNU2ktRHFmN2tMTUFJQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgQ0VPIG9mIFN1blNvdXJjZSBlbmVyZ3k%2FIiwibGsiOiJHaFJ6ZFc1emIzVnlZMlVnWlc1bGNtZDVJR05sYnciLCJicyI6ImMtTlM1MUlLejBnc1VjZ3NWaWpKU0ZVb1NpMUx6U3ROVmNoUFV3Z3V6Vk1Jemk4dFNrNjFsemhud0tYTUpSZWVrUTlUbDEtZWwxb0VWUVZUZENDRlM0TkxHVW1SczZzX2loS0ZWS0NtOUVwN2lhNUFMajB1VFdSN01fTktpdkpUU3BOTE12UHpRSHFLODNNU2ktRHFmN2tMTUFJQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "What is the introduction of solar energy?",
+            "snippet": "Solar power works by converting energy from the sun into power. There are two forms of energy generated from the sun for our use \u2013 electricity and heat. Both are generated through the use of solar panels, which range in size from residential rooftops to 'solar farms' stretching over acres of rural land.",
+            "title": "How does solar power work? | Solar energy explained - National Grid",
+            "date": "May 16, 2023",
+            "link": "https://www.nationalgrid.com/stories/energy-explained/how-does-solar-power-work#:~:text=Solar%20power%20works%20by%20converting,over%20acres%20of%20rural%20land.",
+            "displayed_link": "https://www.nationalgrid.com \u203a stories \u203a how-does-solar-...",
+            "source_logo": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/889dae8dde731bef03eeafb3eb61793bf7d760991c18a6e6a574b907ad9f498d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGludHJvZHVjdGlvbiBvZiBzb2xhciBlbmVyZ3k/IiwibGsiOiJHaHhwYm5SeWIyUjFZM1JwYjI0Z2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLU5TNTFJS3owZ3NVY2dzVmlqSlNGVW9TaTFMelN0TlZjaFBVd2d1elZNSXppOHRTazYxbHpobndLWE1KUmVla1E5VGwxLWVsMW9FVlFWVGRDQ0ZTNE5MR1VtUnM2c19paEtGVktDbTlFcDdpYTVBTGowdVRXUjdNX05LaXZKVFNwTkxNdlB6UUhxSzgzTVNpLURxZjdrTE1BSUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFNWVm1WRlZMYXkxc2VGTjZTRmt4TFZCZk1IVkpiMmh5TVdaSk56QXdWR1pIWTJsSlpsTjBaR0pZWVZVeFoyNWhXRWxmUVhwT1Ixa3lYemxhTFVKeVNWWk9VRXhtRWhkUVZFOVNXbVUyUWtkTVEzTnhkSE5RYlVvdGVqaEJWUm9pUVVwM2F5MDRaakkxYlZCSVpGTlNYMjB6WTIxV1dtbE5jbTlsVUd4RlUwMUdadyIsImZjdiI6IjMiLCJlaSI6IlBUT1JaZTZCR0xDc3F0c1BtSi16OEFVIiwicWMiOiJjeFhKdXcyQU1Bd0ZRR29xUm5nTmN6QUd0UlVNUVhMeW9waVBLSmlKalpnRmNlMjFZLVNKSlBuQ1RET2VXaDBUMWJGRlJXQXFmX21lblhzTkNzMWFsd3RSRGdVenhBek9zSW9oNmJRS2lzazJzeWJ2bXZ0NS0tRUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGludHJvZHVjdGlvbiBvZiBzb2xhciBlbmVyZ3k%2FIiwibGsiOiJHaHhwYm5SeWIyUjFZM1JwYjI0Z2IyWWdjMjlzWVhJZ1pXNWxjbWQ1IiwiYnMiOiJjLU5TNTFJS3owZ3NVY2dzVmlqSlNGVW9TaTFMelN0TlZjaFBVd2d1elZNSXppOHRTazYxbHpobndLWE1KUmVla1E5VGwxLWVsMW9FVlFWVGRDQ0ZTNE5MR1VtUnM2c19paEtGVktDbTlFcDdpYTVBTGowdVRXUjdNX05LaXZKVFNwTkxNdlB6UUhxSzgzTVNpLURxZjdrTE1BSUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Energy",
+            "link": "https://www.linkedin.com/company/sunsource-energy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/sunsource-energy&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECBQQAQ",
+            "displayed_link": "50.6K+ followers",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d37c38093a485b0d8e89b0f7a225729b4b.png",
+            "snippet": "SunSource Energy | 50757 followers on LinkedIn. An SHV Energy Company | SunSource Energy ... Social Media Manager jobs. 41,932 open jobs \u00b7 Buyer ...",
+            "snippet_highlighted_words": [
+                "50757 followers"
+            ],
+            "missing": [
+                "platforms?"
+            ],
+            "must_include": {
+                "word": "platforms?",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+%22platforms?%22&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q5t4CegQIJxAB"
+            },
+            "source": "LinkedIn \u00b7 SunSource Energy"
+        },
+        {
+            "position": 2,
+            "title": "Sun Source Energy (@joinsunsource)",
+            "link": "https://www.instagram.com/joinsunsource/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/joinsunsource/&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECBIQAQ",
+            "displayed_link": "860+ followers",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d375fb316e4ac87e3111842b0385b60f38.png",
+            "snippet": "861 Followers, 282 Following, 117 Posts - See Instagram photos and videos from Sun Source Energy (@joinsunsource)",
+            "snippet_highlighted_words": [
+                "861 Followers"
+            ],
+            "missing": [
+                "social",
+                "media",
+                "platforms?"
+            ],
+            "source": "Instagram \u00b7 joinsunsource"
+        },
+        {
+            "position": 3,
+            "title": "About Us",
+            "link": "https://www.sunsource-energy.com/about-us",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/about-us&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECBUQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d35584b74ba1b29a95e3914ce5799e9e28.png",
+            "snippet": "Learn more about SunSource Energy, offering innovative renewable energy solutions. Discover our mission and commitment to a sustainable future.",
+            "snippet_highlighted_words": [
+                "SunSource Energy"
+            ],
+            "missing": [
+                "followers",
+                "social",
+                "platforms?"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "SunSource Energy Company Profile: Valuation, Investors ...",
+            "link": "https://pitchbook.com/profiles/company/227498-68",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pitchbook.com/profiles/company/227498-68&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECBEQAQ",
+            "displayed_link": "https://pitchbook.com \u203a profiles \u203a company",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d36f39834d5f0799b11667eafe93871910.png",
+            "snippet": "Information on acquisition, funding, investors, and executives for SunSource Energy. Use the PitchBook Platform to explore the full profile.",
+            "snippet_highlighted_words": [
+                "SunSource Energy",
+                "Platform"
+            ],
+            "source": "PitchBook"
+        },
+        {
+            "position": 5,
+            "title": "Privacy Policy",
+            "link": "https://www.sunsource-energy.com/privacy-policy",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sunsource-energy.com/privacy-policy&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECBMQAQ",
+            "displayed_link": "https://www.sunsource-energy.com \u203a privacy-policy",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d34fb8c3c1aea397bf1c01349e0ee07901.png",
+            "snippet": "Our Company is active on social media platforms like Facebook, Twitter, LinkedIn and YouTube. When you contact Our Company via social media, we process your ...",
+            "snippet_highlighted_words": [
+                "YouTube"
+            ],
+            "missing": [
+                "followers"
+            ],
+            "must_include": {
+                "word": "followers",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+%22followers%22+does+the+company+SunSource+Energy+have+on+all+social+media+platforms?&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q5t4CegQILBAB"
+            },
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 6,
+            "title": "SHV Energy acquires significant stake in SunSource",
+            "link": "https://www.power-technology.com/news/shv-energy-acquires-significant-stake-in-sunsource/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.power-technology.com/news/shv-energy-acquires-significant-stake-in-sunsource/&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECD8QAQ",
+            "displayed_link": "https://www.power-technology.com \u203a news \u203a shv-en...",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d3336d3a55d370c5b3f3cc08a10dbd3c45.png",
+            "date": "May 5, 2021",
+            "snippet": "Netherlands-based energy firm SHV Energy has announced the acquisition of a significant stake in Indian company SunSource Energy.",
+            "snippet_highlighted_words": [
+                "firm",
+                "has",
+                "company SunSource Energy"
+            ],
+            "missing": [
+                "followers"
+            ],
+            "must_include": {
+                "word": "followers",
+                "link": "https://www.google.com/search?sca_esv=594717547&q=How+many+%22followers%22+does+the+company+SunSource+Energy+have+on+all+social+media+platforms?&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q5t4CegQIRRAB"
+            },
+            "source": "Power Technology"
+        },
+        {
+            "position": 7,
+            "title": "SunSource Energy | Noida",
+            "link": "https://www.facebook.com/sunsourceenergy/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/sunsourceenergy/&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECD0QAQ",
+            "displayed_link": "5.6K+ followers",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d30b9b21d6ec5a97bbe324c48518b10f0c.png",
+            "snippet": "SunSource Energy, Noida. 5084 likes \u00b7 13 talking about this \u00b7 62 were here. SunSource Energy develops, finances, constructs and operates solar projects...",
+            "snippet_highlighted_words": [
+                "5084"
+            ],
+            "missing": [
+                "social",
+                "media",
+                "platforms?"
+            ],
+            "source": "Facebook \u00b7 SunSource Energy"
+        },
+        {
+            "position": 8,
+            "title": "An Assessment of the Use of Social Media in the Industrial ...",
+            "link": "https://www.jstor.org/stable/90018734",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jstor.org/stable/90018734&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECDsQAQ",
+            "displayed_link": "https://www.jstor.org \u203a stable",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d3dc0ffb7c859c2793535e0e2841bbcbeb.png",
+            "author": "by RL Flanigan",
+            "cited_by": "Cited by 28",
+            "extracted_cited_by": 28,
+            "date": "2016",
+            "snippet": "For example, in January, 2016, President Obama had over. 6.9 million Twitter followers; NASA had nearly. 15 million Twitter followers; and LeBron James, an NBA ...",
+            "snippet_highlighted_words": [
+                "million",
+                "followers",
+                "million",
+                "followers"
+            ],
+            "source": "JSTOR"
+        },
+        {
+            "position": 9,
+            "title": "In Conversation with Kushagra Nandan, Managing Director ...",
+            "link": "https://energy.economictimes.indiatimes.com/videos/in-conversation-with-kushagra-nandan-managing-director-chief-executive-officer-sunsource-energy/101568393",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://energy.economictimes.indiatimes.com/videos/in-conversation-with-kushagra-nandan-managing-director-chief-executive-officer-sunsource-energy/101568393&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECEEQAQ",
+            "displayed_link": "https://energy.economictimes.indiatimes.com \u203a videos",
+            "favicon": "https://serpapi.com/searches/6591333ddefa1343a3e6641d/images/8dcc727f4e68bdb3fbaa1db146e407d3f18dfbbf2e2e0180d8d0c1b6380d02d5.png",
+            "date": "Jul 7, 2023",
+            "snippet": "SunSource energy \u00b7 Kushagra Nandan \u00b7 Managing Director \u00b7 Energy Leadership ... Get updates on your preferred social platform. Follow us for the ...",
+            "snippet_highlighted_words": [
+                "SunSource energy",
+                "Get",
+                "social platform"
+            ],
+            "source": "ET EnergyWorld"
+        },
+        {
+            "position": 10,
+            "title": "Advik Energy Solution Private Limited's Post",
+            "link": "https://www.linkedin.com/posts/advikenergy_httpslnkdind5ejif2a-activity-7096895406780948480-YcO8",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/posts/advikenergy_httpslnkdind5ejif2a-activity-7096895406780948480-YcO8&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4QFnoECEYQAQ",
+            "displayed_link": "https://www.linkedin.com \u203a posts \u203a advikenergy_httpsln...",
+            "snippet": "Manage social media platforms and engage with our audience effectively. Analyze data to refine marketing strategies for better results. If you're ready to ...",
+            "snippet_highlighted_words": [
+                "social media platforms"
+            ],
+            "source": "LinkedIn"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sunsource energy linkedin",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+linkedin&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+linkedin"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy address",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sunsource+Energy+address&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Energy+address"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource energy noida",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SunSource+Energy+Noida&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+Noida"
+        },
+        {
+            "block_position": 1,
+            "query": "shv energy",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=SHV+Energy&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg2EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SHV+Energy"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source (india limited)",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+(India+Limited)&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+%28India+Limited%29"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy share price",
+            "link": "https://www.google.com/search?sca_esv=594717547&q=Sun+Source+Energy+share+price&sa=X&ved=2ahUKEwiulO6grbmDAxUwlmoFHZjPDF4Q1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+share+price"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&oq=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&oq=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&oq=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&oq=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&oq=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+followers+does+the+company+SunSource+Energy+have+on+all+social+media+platforms%3F&start=40"
+        }
+    }
+}

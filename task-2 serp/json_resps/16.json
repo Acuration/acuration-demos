@@ -1,0 +1,363 @@
+{
+    "search_metadata": {
+        "id": "659133389256415d02ff6e8c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e028595da553238e/659133389256415d02ff6e8c.json",
+        "created_at": "2023-12-31 09:24:08 UTC",
+        "processed_at": "2023-12-31 09:24:08 UTC",
+        "google_url": "https://www.google.com/search?q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&oq=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/e028595da553238e/659133389256415d02ff6e8c.html",
+        "total_time_taken": 1.11
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "How many paying customers does the company SunSource Energy have?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "How many paying customers does the company SunSource Energy have?",
+        "total_results": 8840000,
+        "time_taken_displayed": 0.46,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "Perspectives",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&uds=AMIYvT8kzhNF-LM7EWVCAY2RzXXE4Bjea2cgYuMkWI8eORWGf8KDsH8irnnQliAaz8d1tCRZyr9A8wwb9mbv9r64V-hRJvWX0gS4NP9YGVklzbdMGuttZ6HSmXJZeqLa8E5pe5HmfxQi-zG_BNIlDuGg8PI0ps6fNSJ97sJJiYB_N-X_vqqgyFKGqion3K4diHZ7k3DEAm89&udm=4&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQs6gLegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&tbm=nws&source=lnms&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ0pQJegQICxAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&tbm=isch&source=lnms&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ0pQJegQICRAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F"
+            },
+            {
+                "position": 4,
+                "title": "Shopping",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&tbm=shop&source=lnms",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F"
+            },
+            {
+                "position": 5,
+                "title": "Videos",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&tbm=vid&source=lnms&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ0pQJegQISBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F"
+            },
+            {
+                "position": 6,
+                "title": "Books",
+                "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&tbm=bks&source=lnms&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ0pQJegQIShAB"
+            },
+            {
+                "position": 7,
+                "title": "Maps",
+                "link": "https://maps.google.com/maps?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=How+many+paying+customers+does+the+company+SunSource+Energy+have?&source=lnms&entry=mc"
+            },
+            {
+                "position": 8,
+                "title": "Flights",
+                "link": "https://www.google.com/travel/flights?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&source=lnms"
+            },
+            {
+                "position": 9,
+                "title": "Finance",
+                "link": "https://www.google.com/finance?sca_esv=3f5135a469a9a1b0&sca_upv=1&output=search&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&source=lnms&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ0pQJegQIRxAB"
+            }
+        ],
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is SunSource annual revenue?",
+            "snippet": "SunSource's revenue is $320.0 million. Zippia's data science team found the following key financial metrics about SunSource after extensive research and analysis. SunSource has 1,000 employees, and the revenue per employee ratio is $320,000. SunSource peak revenue was $320.0M in 2022.",
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic - Zippia",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "source_logo": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/5b9f73974d3e4e11e73730f921a72a294be1bfe664419cf7cebd055a80b9e1b8.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTdW5Tb3VyY2UgYW5udWFsIHJldmVudWU/IiwibGsiOiJHaGh6ZFc1emIzVnlZMlVnWVc1dWRXRnNJSEpsZG1WdWRXVSIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVkl6TXNyVGN4UktFb3RTODByVGJXWE9HZkFwY3dsRjU2UkQxSldrcEdxa0YtZWwxcWtrSi1HMEdNdmNTQ0Z5NUJMQjJZWVNGVnhSbUpScWtKQlVTYlFTR1MxQ3FsQTNlbVZRSE5MdVRTNGxKSE1kWGIxeDY2eUsxQ0FFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBTdW5Tb3VyY2UgYW5udWFsIHJldmVudWU%2FIiwibGsiOiJHaGh6ZFc1emIzVnlZMlVnWVc1dWRXRnNJSEpsZG1WdWRXVSIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVkl6TXNyVGN4UktFb3RTODByVGJXWE9HZkFwY3dsRjU2UkQxSldrcEdxa0YtZWwxcWtrSi1HMEdNdmNTQ0Z5NUJMQjJZWVNGVnhSbUpScWtKQlVTYlFTR1MxQ3FsQTNlbVZRSE5MdVRTNGxKSE1kWGIxeDY2eUsxQ0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "Who is the owner of SunSource?",
+            "snippet": "Clayton, Dubilier & Rice Acquires SunSource.",
+            "title": "Clayton, Dubilier & Rice Acquires SunSource",
+            "date": "Dec 11, 2017",
+            "link": "https://www.cdr-inc.com/news/press-release/clayton-dubilier-rice-acquires-sunsource",
+            "displayed_link": "https://www.cdr-inc.com \u203a news \u203a press-release \u203a clayton...",
+            "source_logo": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/5b9f73974d3e4e11e73730f921a72a2980ea6f3bc2b100b89f88f0397baa9da5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBvd25lciBvZiBTdW5Tb3VyY2U/IiwibGsiOiJHZzl6ZFc1emIzVnlZMlVnYjNkdVpYSSIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVkl6TXNyVGN4UktFb3RTODByVGJXWE9HZkFwY3dsRjU2UkQxSldrcEdxa0YtZWwxcWtrSi1HMEdNdmNTQ0Z5NUJMQjJZWVNGVnhSbUpScWtKQlVTYlFTR1MxQ3FsQTNlbVZRSE5MdVRTNGxKSE1kWGIxeDY2eUsxQ0FFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBvd25lciBvZiBTdW5Tb3VyY2U%2FIiwibGsiOiJHZzl6ZFc1emIzVnlZMlVnYjNkdVpYSSIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVkl6TXNyVGN4UktFb3RTODByVGJXWE9HZkFwY3dsRjU2UkQxSldrcEdxa0YtZWwxcWtrSi1HMEdNdmNTQ0Z5NUJMQjJZWVNGVnhSbUpScWtKQlVTYlFTR1MxQ3FsQTNlbVZRSE5MdVRTNGxKSE1kWGIxeDY2eUsxQ0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the share price of SunSource energy?",
+            "snippet": "Sun Source (India) Ltd. \u20b92.56 (BSE) Share Price Today.",
+            "title": "Sun Source (India) Ltd. \u20b92.56 (BSE) Share Price Today - Value Research",
+            "link": "https://www.valueresearchonline.com/stocks/44661/sun-source-india-ltd/",
+            "displayed_link": "https://www.valueresearchonline.com \u203a stocks \u203a sun-sour...",
+            "source_logo": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/5b9f73974d3e4e11e73730f921a72a29ffd8c3e6bd4d69fbba8243eac92bd614.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc2hhcmUgcHJpY2Ugb2YgU3VuU291cmNlIGVuZXJneT8iLCJsayI6IkdoeHpkVzV6YjNWeVkyVWdaVzVsY21kNUlITm9ZWEpsSUhCeWFXTmwiLCJicyI6ImMtTlM0MUlNejBnc1VjZ3NWZ2d1elF2T0x5MUtUbFZJek1zclRjeFJLRW90UzgwclRiV1hPR2ZBcGN3bEY1NlJEMUpXa3BHcWtGLWVsMXFra0otRzBHTXZjU0NGeTVCTEIyWVlTRlZ4Um1KUnFrSkJVU2JRU0dTMUNxbEEzZW1WUUhOTHVUUzRsSkhNZFhiMXg2NnlLMUNBRVFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc2hhcmUgcHJpY2Ugb2YgU3VuU291cmNlIGVuZXJneT8iLCJsayI6IkdoeHpkVzV6YjNWeVkyVWdaVzVsY21kNUlITm9ZWEpsSUhCeWFXTmwiLCJicyI6ImMtTlM0MUlNejBnc1VjZ3NWZ2d1elF2T0x5MUtUbFZJek1zclRjeFJLRW90UzgwclRiV1hPR2ZBcGN3bEY1NlJEMUpXa3BHcWtGLWVsMXFra0otRzBHTXZjU0NGeTVCTEIyWVlTRlZ4Um1KUnFrSkJVU2JRU0dTMUNxbEEzZW1WUUhOTHVUUzRsSkhNZFhiMXg2NnlLMUNBRVFBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "Who is the CEO of SunSource energy?",
+            "snippet": "Kushagra Nandan | SunSource Energy.",
+            "title": "Kushagra Nandan",
+            "link": "https://www.sunsource-energy.com/kushagra-nandan",
+            "displayed_link": "https://www.sunsource-energy.com \u203a kushagra-nandan",
+            "source_logo": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/5b9f73974d3e4e11e73730f921a72a293efb4ca48dd6acdec0bebc324c365b16.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBDRU8gb2YgU3VuU291cmNlIGVuZXJneT8iLCJsayI6IkdoUnpkVzV6YjNWeVkyVWdaVzVsY21kNUlHTmxidyIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVkl6TXNyVGN4UktFb3RTODByVGJXWE9HZkFwY3dsRjU2UkQxSldrcEdxa0YtZWwxcWtrSi1HMEdNdmNTQ0Z5NUJMQjJZWVNGVnhSbUpScWtKQlVTYlFTR1MxQ3FsQTNlbVZRSE5MdVRTNGxKSE1kWGIxeDY2eUsxQ0FFUUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJURTl1Y0ZsWFZHRTFhRFIyYjJsd09VaENhVlo1VWxWQldtUTVTVzEwTlV0VGQyTnpZVEp4YWxGU1lqZzVTWE5vYms5U2RrMDRXV3hsVDBkSlZFcG1aVFpyVFVkVVVIUTRUSGRVRWhkUFZFOVNXbVYyWDBGa2RXRjNZbXRRYkZwbFEzVkJSUm9pUVVwM2F5MDRaamR2VFRaWloxRmhkMGhWZDJVNWRXbHVTVWhyTUUxa2FqaGZRUSIsImZjdiI6IjMiLCJlaSI6Ik9UT1JaZXZfQWR1YXdia1BsWmVDdUFFIiwicWMiOiJDa0JvYjNjZ2JXRnVlU0J3WVhscGJtY2dZM1Z6ZEc5dFpYSnpJR1J2WlhNZ2RHaGxJR052YlhCaGJua2djM1Z1YzI5MWNtTmxJR1Z1WlhKbmVTQm9ZWFpsRUFCOXJ0TDRQZyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSBDRU8gb2YgU3VuU291cmNlIGVuZXJneT8iLCJsayI6IkdoUnpkVzV6YjNWeVkyVWdaVzVsY21kNUlHTmxidyIsImJzIjoiYy1OUzQxSU16MGdzVWNnc1ZnZ3V6UXZPTHkxS1RsVkl6TXNyVGN4UktFb3RTODByVGJXWE9HZkFwY3dsRjU2UkQxSldrcEdxa0YtZWwxcWtrSi1HMEdNdmNTQ0Z5NUJMQjJZWVNGVnhSbUpScWtKQlVTYlFTR1MxQ3FsQTNlbVZRSE5MdVRTNGxKSE1kWGIxeDY2eUsxQ0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Renewable Energy Solution Provider - About SunSource Energy",
+        "link": "https://www.sunsource-energy.com/about-us",
+        "displayed_link": "https://www.sunsource-energy.com \u203a about-us",
+        "hover_info": [
+            {
+                "text": "SHV",
+                "info": "SHV Holdings is a privately owned Dutch trading company, regarded as one of the world's largest private trading groups. SHV is a highly diversified company, with interests in transport, retail, oil, food and financial services. It currently employs more than 50,000 people.",
+                "title": "SHV Holdings - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/SHV_Holdings",
+                "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a SHV_Holdings"
+            }
+        ],
+        "snippet": "SunSource Energy is part SHV Energy is a leading global distributor of off-grid energy with 30 million customers across 4 continents.",
+        "snippet_highlighted_words": [
+            "30 million"
+        ],
+        "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/025569d2e7349b185f9c99c5d1dd52884505eabf91cfe670.png",
+        "source": "SunSource Energy"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "SunSource Revenue: Annual, Quarterly, and Historic",
+            "link": "https://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "redirect_link": "https://www.google.comhttps://www.zippia.com/sts-operating-careers-39837/revenue/",
+            "displayed_link": "https://www.zippia.com \u203a sts-operating-careers-39837",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f2223684db7bd2f9d2377d0846ff1a673e9a.png",
+            "snippet": "SunSource has 1,000 employees, and the revenue per employee ratio is $320,000. SunSource peak revenue was $320.0M in 2022. On This Page. Q&A.",
+            "snippet_highlighted_words": [
+                "1,000 employees"
+            ],
+            "source": "Zippia"
+        },
+        {
+            "position": 2,
+            "title": "Sun Source Energy",
+            "link": "https://sunsourceusa.com/",
+            "redirect_link": "https://www.google.comhttps://sunsourceusa.com/",
+            "displayed_link": "https://sunsourceusa.com",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f2225a3b5b69245e54d6733c712fcc1ac3b3.png",
+            "snippet": "Our customers love the 0% down financing options. Lower Bill. Solar panel installation contractors help you realize lower monthly payments. In Nevada, you do ...",
+            "snippet_highlighted_words": [
+                "customers",
+                "do"
+            ],
+            "source": "sunsourceusa.com"
+        },
+        {
+            "position": 3,
+            "title": "On-Site Solar",
+            "link": "https://www.sunsource-energy.com/our-services/on-site-solar",
+            "redirect_link": "https://www.google.comhttps://www.sunsource-energy.com/our-services/on-site-solar",
+            "displayed_link": "https://www.sunsource-energy.com \u203a our-services \u203a o...",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f222578774fafdd430cacad46d72c9108705.png",
+            "snippet": "We work together with your team, study your energy needs and provide a solution that ensures increased savings and maximum clean energy from you facility. We ...",
+            "snippet_highlighted_words": [
+                "energy",
+                "energy"
+            ],
+            "source": "SunSource Energy"
+        },
+        {
+            "position": 4,
+            "title": "Sun Source Energy - Profile & Reviews - 2023",
+            "link": "https://www.energysage.com/supplier/26331/sun-source-energy/",
+            "redirect_link": "https://www.google.comhttps://www.energysage.com/supplier/26331/sun-source-energy/",
+            "displayed_link": "https://www.energysage.com \u203a supplier \u203a sun-source-e...",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f222ffdddd1088b30b53655553c3fa20926b.png",
+            "snippet": "Read reviews for Sun Source Energy, a Energy Efficiency, Solar PV, Energy Storage company since 2017 based in Las Vegas, NV ... How much does it cost to charge an ...",
+            "snippet_highlighted_words": [
+                "Sun Source Energy",
+                "company",
+                "How much does"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 3
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e3 reviews"
+                    ]
+                }
+            },
+            "source": "EnergySage"
+        },
+        {
+            "position": 5,
+            "title": "Sun Source Energy Salary for Sales Associate",
+            "link": "https://www.salary.com/research/company/sun-source-energy/sales-associate-salary?cjid=19619644",
+            "redirect_link": "https://www.google.comhttps://www.salary.com/research/company/sun-source-energy/sales-associate-salary?cjid=19619644",
+            "displayed_link": "https://www.salary.com \u203a ... \u203a Sun Source Energy",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f2222dba1dd27b581d96b6b874587fecf02f.png",
+            "snippet": "The average annual Sun Source Energy Salary for Sales Associate is estimated to be approximately $87063 per year. The majority pay is between $76617 to ...",
+            "snippet_highlighted_words": [
+                "87063 per year"
+            ],
+            "source": "Salary.com"
+        },
+        {
+            "position": 6,
+            "title": "Sun Source Energy Reviews",
+            "link": "https://bestcompany.com/solar/company/sun-source-energy",
+            "redirect_link": "https://www.google.comhttps://bestcompany.com/solar/company/sun-source-energy",
+            "displayed_link": "https://bestcompany.com \u203a ... \u203a Solar",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f2223020e35eb5a5c0ca5c6428c5dd3e96ea.png",
+            "date": "Apr 18, 2023",
+            "snippet": "Like most solar companies, customers have the option to purchase their solar system from Sun Source Energy. The company has 0% down financing ...",
+            "snippet_highlighted_words": [
+                "0% down financing"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4,
+                        "reviews": 8
+                    },
+                    "extensions": [
+                        "Rating: 4",
+                        "\u200e8 reviews"
+                    ]
+                }
+            },
+            "source": "BestCompany.com"
+        },
+        {
+            "position": 7,
+            "title": "Started in a living room, this solar energy company now ...",
+            "link": "https://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "redirect_link": "https://www.google.comhttps://yourstory.com/2020/03/solar-energy-provider-sunsource-energy",
+            "displayed_link": "https://yourstory.com \u203a 2020/03 \u203a solar-energy-provi...",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f22286ed464f39d10d0096a0915a9825613a.png",
+            "date": "Mar 18, 2020",
+            "snippet": "Based out of Noida, solar energy provider SunSource Energy's clients include Indian Oil, Jamia Millia Islamia University, ICAT, Celebi Cargo ...",
+            "snippet_highlighted_words": [
+                "SunSource Energy's clients"
+            ],
+            "source": "Yourstory"
+        },
+        {
+            "position": 8,
+            "title": "SunSource Energy doubles solar energy target to 1GW by 2027",
+            "link": "https://www.livemint.com/industry/energy/sunsource-energy-doubles-solar-energy-target-to-1gw-by-2027-11668436536080.html",
+            "redirect_link": "https://www.google.comhttps://www.livemint.com/industry/energy/sunsource-energy-doubles-solar-energy-target-to-1gw-by-2027-11668436536080.html",
+            "displayed_link": "https://www.livemint.com \u203a Industry \u203a Energy",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f22277bf59417596824228d793d4c8c791e2.png",
+            "date": "Nov 14, 2022",
+            "snippet": "The target will increase from 550 megawatts to one gigawatt by 2027. The increased solar energy capacity will help to support a growing customer ...",
+            "snippet_highlighted_words": [
+                "one gigawatt"
+            ],
+            "source": "livemint.com"
+        },
+        {
+            "position": 9,
+            "title": "Customer Reviews - for - Sun Source Energy, LLC",
+            "link": "https://www.bbb.org/us/nv/las-vegas/profile/solar-energy-contractors/sun-source-energy-llc-1086-90080045/customer-reviews",
+            "redirect_link": "https://www.google.comhttps://www.bbb.org/us/nv/las-vegas/profile/solar-energy-contractors/sun-source-energy-llc-1086-90080045/customer-reviews",
+            "displayed_link": "https://www.bbb.org \u203a ... \u203a Sun Source Energy, LLC",
+            "favicon": "https://serpapi.com/searches/659133389256415d02ff6e8c/images/4b359762814760fddc424bfacc27f2227204e3423d4b1f910e06a8d2e10cf12e.png",
+            "snippet": "View customer reviews of Sun Source Energy, LLC. Leave a review and share your experience with the BBB and Sun Source Energy, LLC.",
+            "snippet_highlighted_words": [
+                "customer",
+                "Sun Source Energy",
+                "Sun Source Energy"
+            ],
+            "source": "Better Business Bureau"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "sunsource energy reviews",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+Energy+reviews&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+Energy+reviews"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source energy products",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sun+Source+Energy+Products&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Energy+Products"
+        },
+        {
+            "block_position": 1,
+            "query": "sun source solar",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sun+Source+Solar&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sun+Source+Solar"
+        },
+        {
+            "block_position": 1,
+            "query": "shv energy",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SHV+Energy&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SHV+Energy"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource history",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+history&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAguEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+history"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource cleantech ventures private limited",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Sunsource+Cleantech+Ventures+Private+Limited&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sunsource+Cleantech+Ventures+Private+Limited"
+        },
+        {
+            "block_position": 1,
+            "query": "sunsource leadership team",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=SunSource+leadership+team&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SunSource+leadership+team"
+        },
+        {
+            "block_position": 1,
+            "query": "solar asset management companies",
+            "link": "https://www.google.com/search?sca_esv=3f5135a469a9a1b0&sca_upv=1&q=Solar+asset+management+companies&sa=X&ved=2ahUKEwirgOSerbmDAxVbTTABHZWLABcQ1QJ6BAgrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Solar+asset+management+companies"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&oq=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&oq=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&oq=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&oq=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&oq=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=How+many+paying+customers+does+the+company+SunSource+Energy+have%3F&start=40"
+        }
+    }
+}
