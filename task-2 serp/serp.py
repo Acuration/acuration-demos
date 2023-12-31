@@ -7,7 +7,7 @@ def store_jsons(query, folder_path, json_filename):
     params = {
       "engine": "google",
       "q": query,
-      "api_key": "a9304fd53f1001b20d55b12afdee1beb0b711fcac98bf3f48b4d100938bc3751"
+      "api_key": "your_api_key"
     }
 
     search_ans = serpapi.search(params)
